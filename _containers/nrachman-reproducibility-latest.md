@@ -9,7 +9,7 @@ build_date: "2019-06-13T14:46:44.406Z"
 size_mb: 3094
 size: 1032818719
 sif: "https://datasets.datalad.org/shub/nrachman/reproducibility/latest/2019-06-13-6bf29a42-c8c83a53/c8c83a5357bbd5f2ddfba2366ba14823.simg"
-url: https://datasets.datalad.org/shub/nrachman/reproducibility/latest/2019-06-13-6bf29a42-c8c83a53/
+datalad_url: https://datasets.datalad.org?dir=/shub/nrachman/reproducibility/latest/2019-06-13-6bf29a42-c8c83a53/
 recipe: https://datasets.datalad.org/shub/nrachman/reproducibility/latest/2019-06-13-6bf29a42-c8c83a53/Singularity
 collection: nrachman/reproducibility
 ---

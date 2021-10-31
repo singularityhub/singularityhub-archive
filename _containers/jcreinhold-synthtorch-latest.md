@@ -9,7 +9,7 @@ build_date: "2021-01-14T21:12:21.898Z"
 size_mb: 4980
 size: 2861781023
 sif: "https://datasets.datalad.org/shub/jcreinhold/synthtorch/latest/2021-01-14-a18de363-c08b0605/c08b0605ce0a9aa6a3f579364256d1b1.simg"
-url: https://datasets.datalad.org/shub/jcreinhold/synthtorch/latest/2021-01-14-a18de363-c08b0605/
+datalad_url: https://datasets.datalad.org?dir=/shub/jcreinhold/synthtorch/latest/2021-01-14-a18de363-c08b0605/
 recipe: https://datasets.datalad.org/shub/jcreinhold/synthtorch/latest/2021-01-14-a18de363-c08b0605/Singularity
 collection: jcreinhold/synthtorch
 ---

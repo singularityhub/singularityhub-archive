@@ -9,7 +9,7 @@ build_date: "2019-04-10T18:24:18.776Z"
 size_mb: 23303
 size: 9584168991
 sif: "https://datasets.datalad.org/shub/pndni/Charge_GM_WM_Properties_Pipeline/1.0.0-alpha7/2019-04-10-2d2bfc4a-867e3350/867e33508680500721322140f3034d1f.simg"
-url: https://datasets.datalad.org/shub/pndni/Charge_GM_WM_Properties_Pipeline/1.0.0-alpha7/2019-04-10-2d2bfc4a-867e3350/
+datalad_url: https://datasets.datalad.org?dir=/shub/pndni/Charge_GM_WM_Properties_Pipeline/1.0.0-alpha7/2019-04-10-2d2bfc4a-867e3350/
 recipe: https://datasets.datalad.org/shub/pndni/Charge_GM_WM_Properties_Pipeline/1.0.0-alpha7/2019-04-10-2d2bfc4a-867e3350/Singularity
 collection: pndni/Charge_GM_WM_Properties_Pipeline
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-16T12:15:13.653Z"
 size_mb: 432
 size: 121258015
 sif: "https://datasets.datalad.org/shub/patrickvdb/trimmomatic_singularity/latest/2021-03-16-c956ddf1-c078a744/c078a74435f0d8abf9f3c7e1abb8ffc8.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/trimmomatic_singularity/latest/2021-03-16-c956ddf1-c078a744/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/trimmomatic_singularity/latest/2021-03-16-c956ddf1-c078a744/
 recipe: https://datasets.datalad.org/shub/patrickvdb/trimmomatic_singularity/latest/2021-03-16-c956ddf1-c078a744/Singularity
 collection: patrickvdb/trimmomatic_singularity
 ---

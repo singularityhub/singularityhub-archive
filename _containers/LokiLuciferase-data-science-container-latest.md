@@ -9,7 +9,7 @@ build_date: "2018-12-16T10:26:35.646Z"
 size_mb: 4093
 size: 1303982111
 sif: "https://datasets.datalad.org/shub/LokiLuciferase/data-science-container/latest/2018-12-16-b7b79f9b-15660dbe/15660dbe115c87080af6ed0a4d2392b7.simg"
-url: https://datasets.datalad.org/shub/LokiLuciferase/data-science-container/latest/2018-12-16-b7b79f9b-15660dbe/
+datalad_url: https://datasets.datalad.org?dir=/shub/LokiLuciferase/data-science-container/latest/2018-12-16-b7b79f9b-15660dbe/
 recipe: https://datasets.datalad.org/shub/LokiLuciferase/data-science-container/latest/2018-12-16-b7b79f9b-15660dbe/Singularity
 collection: LokiLuciferase/data-science-container
 ---

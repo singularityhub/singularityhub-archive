@@ -9,7 +9,7 @@ build_date: "2020-12-04T23:39:23.627Z"
 size_mb: 1388.0
 size: 496209951
 sif: "https://datasets.datalad.org/shub/jganong/ubuntu-bionic-R-4.0.3-foieGras/latest/2020-12-04-386f6e0f-9555b4ad/9555b4ad09b06069a846704627eb937c.sif"
-url: https://datasets.datalad.org/shub/jganong/ubuntu-bionic-R-4.0.3-foieGras/latest/2020-12-04-386f6e0f-9555b4ad/
+datalad_url: https://datasets.datalad.org?dir=/shub/jganong/ubuntu-bionic-R-4.0.3-foieGras/latest/2020-12-04-386f6e0f-9555b4ad/
 recipe: https://datasets.datalad.org/shub/jganong/ubuntu-bionic-R-4.0.3-foieGras/latest/2020-12-04-386f6e0f-9555b4ad/Singularity
 collection: jganong/ubuntu-bionic-R-4.0.3-foieGras
 ---

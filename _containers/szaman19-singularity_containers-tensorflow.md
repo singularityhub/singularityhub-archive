@@ -9,7 +9,7 @@ build_date: "2019-06-14T05:36:18.368Z"
 size_mb: 1224
 size: 357216287
 sif: "https://datasets.datalad.org/shub/szaman19/singularity_containers/tensorflow/2019-06-14-8c011722-6d46a69b/6d46a69b5afcf882d093f58b75da14ea.simg"
-url: https://datasets.datalad.org/shub/szaman19/singularity_containers/tensorflow/2019-06-14-8c011722-6d46a69b/
+datalad_url: https://datasets.datalad.org?dir=/shub/szaman19/singularity_containers/tensorflow/2019-06-14-8c011722-6d46a69b/
 recipe: https://datasets.datalad.org/shub/szaman19/singularity_containers/tensorflow/2019-06-14-8c011722-6d46a69b/Singularity
 collection: szaman19/singularity_containers
 ---

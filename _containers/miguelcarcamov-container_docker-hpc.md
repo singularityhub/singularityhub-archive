@@ -9,7 +9,7 @@ build_date: "2019-08-26T19:08:58.550Z"
 size_mb: 2233.0
 size: 1189576735
 sif: "https://datasets.datalad.org/shub/miguelcarcamov/container_docker/hpc/2019-08-26-2426aa19-6264e220/6264e220a6a3da327bdb5b20c6f60167.sif"
-url: https://datasets.datalad.org/shub/miguelcarcamov/container_docker/hpc/2019-08-26-2426aa19-6264e220/
+datalad_url: https://datasets.datalad.org?dir=/shub/miguelcarcamov/container_docker/hpc/2019-08-26-2426aa19-6264e220/
 recipe: https://datasets.datalad.org/shub/miguelcarcamov/container_docker/hpc/2019-08-26-2426aa19-6264e220/Singularity
 collection: miguelcarcamov/container_docker
 ---

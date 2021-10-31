@@ -9,7 +9,7 @@ build_date: "2020-06-21T12:50:04.469Z"
 size_mb: 1101.0
 size: 381321247
 sif: "https://datasets.datalad.org/shub/mcduta/singularity-hpc-mpi-benchmarks/hpc-mpi-benchmarks__centos-8__openmpi-3.1.4/2020-06-21-6f5b5e8c-f380f4a1/f380f4a112c04905b6e1440dbf2f7898.sif"
-url: https://datasets.datalad.org/shub/mcduta/singularity-hpc-mpi-benchmarks/hpc-mpi-benchmarks__centos-8__openmpi-3.1.4/2020-06-21-6f5b5e8c-f380f4a1/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcduta/singularity-hpc-mpi-benchmarks/hpc-mpi-benchmarks__centos-8__openmpi-3.1.4/2020-06-21-6f5b5e8c-f380f4a1/
 recipe: https://datasets.datalad.org/shub/mcduta/singularity-hpc-mpi-benchmarks/hpc-mpi-benchmarks__centos-8__openmpi-3.1.4/2020-06-21-6f5b5e8c-f380f4a1/Singularity
 collection: mcduta/singularity-hpc-mpi-benchmarks
 ---

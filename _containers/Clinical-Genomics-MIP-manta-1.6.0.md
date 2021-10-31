@@ -9,7 +9,7 @@ build_date: "2019-10-21T13:35:06.882Z"
 size_mb: 668.0
 size: 236294175
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/manta-1.6.0/2019-10-21-7c105c49-a138d230/a138d230e468f9746c411a95eb4d0b7e.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/manta-1.6.0/2019-10-21-7c105c49-a138d230/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/manta-1.6.0/2019-10-21-7c105c49-a138d230/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/manta-1.6.0/2019-10-21-7c105c49-a138d230/Singularity
 collection: Clinical-Genomics/MIP
 ---

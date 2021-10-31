@@ -9,7 +9,7 @@ build_date: "2019-11-21T19:20:30.363Z"
 size_mb: 13747.0
 size: 5814235167
 sif: "https://datasets.datalad.org/shub/baxpr/dwi-reorder/v1.0.0/2019-11-21-583d7938-322c6607/322c6607c85c80a878c9b131cfd437d9.sif"
-url: https://datasets.datalad.org/shub/baxpr/dwi-reorder/v1.0.0/2019-11-21-583d7938-322c6607/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/dwi-reorder/v1.0.0/2019-11-21-583d7938-322c6607/
 recipe: https://datasets.datalad.org/shub/baxpr/dwi-reorder/v1.0.0/2019-11-21-583d7938-322c6607/Singularity
 collection: baxpr/dwi-reorder
 ---

@@ -9,7 +9,7 @@ build_date: "2020-02-21T17:25:31.605Z"
 size_mb: 4612
 size: 1848639519
 sif: "https://datasets.datalad.org/shub/DavidEWarrenPhD/afnipype/latest/2020-02-21-3a4996bd-230fae26/230fae268dd7efdf57f5de8508ecfd26.simg"
-url: https://datasets.datalad.org/shub/DavidEWarrenPhD/afnipype/latest/2020-02-21-3a4996bd-230fae26/
+datalad_url: https://datasets.datalad.org?dir=/shub/DavidEWarrenPhD/afnipype/latest/2020-02-21-3a4996bd-230fae26/
 recipe: https://datasets.datalad.org/shub/DavidEWarrenPhD/afnipype/latest/2020-02-21-3a4996bd-230fae26/Singularity
 collection: DavidEWarrenPhD/afnipype
 ---

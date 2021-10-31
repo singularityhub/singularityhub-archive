@@ -9,7 +9,7 @@ build_date: "2020-11-27T00:40:44.836Z"
 size_mb: 1423.0
 size: 686288927
 sif: "https://datasets.datalad.org/shub/bahlolab/nf-MPS-gatk-bp/v1.6.2/2020-11-27-82986d34-91360583/91360583084aafcdea13b33e564825ef.sif"
-url: https://datasets.datalad.org/shub/bahlolab/nf-MPS-gatk-bp/v1.6.2/2020-11-27-82986d34-91360583/
+datalad_url: https://datasets.datalad.org?dir=/shub/bahlolab/nf-MPS-gatk-bp/v1.6.2/2020-11-27-82986d34-91360583/
 recipe: https://datasets.datalad.org/shub/bahlolab/nf-MPS-gatk-bp/v1.6.2/2020-11-27-82986d34-91360583/Singularity
 collection: bahlolab/nf-MPS-gatk-bp
 ---

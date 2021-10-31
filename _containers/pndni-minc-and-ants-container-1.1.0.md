@@ -9,7 +9,7 @@ build_date: "2019-04-13T15:19:01.112Z"
 size_mb: 6860
 size: 1341333535
 sif: "https://datasets.datalad.org/shub/pndni/minc-and-ants-container/1.1.0/2019-04-13-cd2e5421-aa66406a/aa66406ac9537100974b7d5a6e087a2a.simg"
-url: https://datasets.datalad.org/shub/pndni/minc-and-ants-container/1.1.0/2019-04-13-cd2e5421-aa66406a/
+datalad_url: https://datasets.datalad.org?dir=/shub/pndni/minc-and-ants-container/1.1.0/2019-04-13-cd2e5421-aa66406a/
 recipe: https://datasets.datalad.org/shub/pndni/minc-and-ants-container/1.1.0/2019-04-13-cd2e5421-aa66406a/Singularity
 collection: pndni/minc-and-ants-container
 ---

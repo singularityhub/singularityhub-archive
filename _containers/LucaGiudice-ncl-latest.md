@@ -9,7 +9,7 @@ build_date: "2020-11-23T17:26:27.820Z"
 size_mb: 13615.0
 size: 8249864223
 sif: "https://datasets.datalad.org/shub/LucaGiudice/ncl/latest/2020-11-23-580f0e66-1b916898/1b916898d3ecf27e30fc184cb4a25867.sif"
-url: https://datasets.datalad.org/shub/LucaGiudice/ncl/latest/2020-11-23-580f0e66-1b916898/
+datalad_url: https://datasets.datalad.org?dir=/shub/LucaGiudice/ncl/latest/2020-11-23-580f0e66-1b916898/
 recipe: https://datasets.datalad.org/shub/LucaGiudice/ncl/latest/2020-11-23-580f0e66-1b916898/Singularity
 collection: LucaGiudice/ncl
 ---

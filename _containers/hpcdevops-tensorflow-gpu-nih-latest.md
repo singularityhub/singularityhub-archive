@@ -9,7 +9,7 @@ build_date: "2021-03-19T21:37:15.195Z"
 size_mb: 3026
 size: 1368989727
 sif: "https://datasets.datalad.org/shub/hpcdevops/tensorflow-gpu-nih/latest/2021-03-19-dde20e7f-4e013945/4e013945f99196dfe5648feb4baaa462.simg"
-url: https://datasets.datalad.org/shub/hpcdevops/tensorflow-gpu-nih/latest/2021-03-19-dde20e7f-4e013945/
+datalad_url: https://datasets.datalad.org?dir=/shub/hpcdevops/tensorflow-gpu-nih/latest/2021-03-19-dde20e7f-4e013945/
 recipe: https://datasets.datalad.org/shub/hpcdevops/tensorflow-gpu-nih/latest/2021-03-19-dde20e7f-4e013945/Singularity
 collection: hpcdevops/tensorflow-gpu-nih
 ---

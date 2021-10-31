@@ -9,7 +9,7 @@ build_date: "2018-07-03T14:55:06.982Z"
 size_mb: 2008
 size: 745459743
 sif: "https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/fluidity_openmpi/2018-07-03-fb4b14f3-1f775c0a/1f775c0abd6e71a4091a1e3ed9cca7ed.simg"
-url: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/fluidity_openmpi/2018-07-03-fb4b14f3-1f775c0a/
+datalad_url: https://datasets.datalad.org?dir=/shub/SupercomputingWales/singularity_hub/fluidity_openmpi/2018-07-03-fb4b14f3-1f775c0a/
 recipe: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/fluidity_openmpi/2018-07-03-fb4b14f3-1f775c0a/Singularity
 collection: SupercomputingWales/singularity_hub
 ---

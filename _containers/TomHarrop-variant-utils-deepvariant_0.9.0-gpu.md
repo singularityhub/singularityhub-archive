@@ -9,7 +9,7 @@ build_date: "2019-12-04T23:42:02.352Z"
 size_mb: 3656.94921875
 size: 3834589184
 sif: "https://datasets.datalad.org/shub/TomHarrop/variant-utils/deepvariant_0.9.0-gpu/2019-12-04-5f5b18ff-cb329043/cb3290434f9bed4c1f5cb9799047c409c48feca22e1d87ddaa5cab5348eb0417.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/variant-utils/deepvariant_0.9.0-gpu/2019-12-04-5f5b18ff-cb329043/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/variant-utils/deepvariant_0.9.0-gpu/2019-12-04-5f5b18ff-cb329043/
 recipe: https://datasets.datalad.org/shub/TomHarrop/variant-utils/deepvariant_0.9.0-gpu/2019-12-04-5f5b18ff-cb329043/Singularity
 collection: TomHarrop/variant-utils
 ---

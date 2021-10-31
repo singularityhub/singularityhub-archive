@@ -9,7 +9,7 @@ build_date: "2020-11-19T09:58:18.257Z"
 size_mb: 3831
 size: 1313349663
 sif: "https://datasets.datalad.org/shub/sschmeier/simg-rnaseq/201906/2020-11-19-26f741e6-c8f8c9e3/c8f8c9e3ed65033b0549ca99e0f3d295.simg"
-url: https://datasets.datalad.org/shub/sschmeier/simg-rnaseq/201906/2020-11-19-26f741e6-c8f8c9e3/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/simg-rnaseq/201906/2020-11-19-26f741e6-c8f8c9e3/
 recipe: https://datasets.datalad.org/shub/sschmeier/simg-rnaseq/201906/2020-11-19-26f741e6-c8f8c9e3/Singularity
 collection: sschmeier/simg-rnaseq
 ---

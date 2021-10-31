@@ -9,7 +9,7 @@ build_date: "2020-10-28T18:09:08.627Z"
 size_mb: 931.0
 size: 305147935
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/centrifuge-latest/2020-10-28-008693f5-68ca67ff/68ca67ff369f0fe45a7a70318963ed93.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/centrifuge-latest/2020-10-28-008693f5-68ca67ff/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/centrifuge-latest/2020-10-28-008693f5-68ca67ff/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/centrifuge-latest/2020-10-28-008693f5-68ca67ff/Singularity
 collection: annacprice/containerCI-test
 ---

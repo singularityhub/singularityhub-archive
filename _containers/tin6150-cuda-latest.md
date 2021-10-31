@@ -9,7 +9,7 @@ build_date: "2017-12-22T18:52:48.994Z"
 size_mb: 2371
 size: 1080889375
 sif: "https://datasets.datalad.org/shub/tin6150/cuda/latest/2017-12-22-3e88e471-42f01be8/42f01be831f681a8e3ed655f6068be61.simg"
-url: https://datasets.datalad.org/shub/tin6150/cuda/latest/2017-12-22-3e88e471-42f01be8/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/cuda/latest/2017-12-22-3e88e471-42f01be8/
 recipe: https://datasets.datalad.org/shub/tin6150/cuda/latest/2017-12-22-3e88e471-42f01be8/Singularity
 collection: tin6150/cuda
 ---

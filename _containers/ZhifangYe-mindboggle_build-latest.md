@@ -9,7 +9,7 @@ build_date: "2018-10-03T06:31:02.437Z"
 size_mb: 5212
 size: 1723727903
 sif: "https://datasets.datalad.org/shub/ZhifangYe/mindboggle_build/latest/2018-10-03-1fee4614-14b15141/14b15141384be7d98f10adcabe5381a5.simg"
-url: https://datasets.datalad.org/shub/ZhifangYe/mindboggle_build/latest/2018-10-03-1fee4614-14b15141/
+datalad_url: https://datasets.datalad.org?dir=/shub/ZhifangYe/mindboggle_build/latest/2018-10-03-1fee4614-14b15141/
 recipe: https://datasets.datalad.org/shub/ZhifangYe/mindboggle_build/latest/2018-10-03-1fee4614-14b15141/Singularity
 collection: ZhifangYe/mindboggle_build
 ---

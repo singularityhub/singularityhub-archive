@@ -9,7 +9,7 @@ build_date: "2019-04-13T15:19:00.787Z"
 size_mb: 13634
 size: 5931180063
 sif: "https://datasets.datalad.org/shub/dp2ski/abcd_aci/rec/2019-04-13-c5f02b62-7d3cd620/7d3cd620ea4d050e56a680b124df6263.simg"
-url: https://datasets.datalad.org/shub/dp2ski/abcd_aci/rec/2019-04-13-c5f02b62-7d3cd620/
+datalad_url: https://datasets.datalad.org?dir=/shub/dp2ski/abcd_aci/rec/2019-04-13-c5f02b62-7d3cd620/
 recipe: https://datasets.datalad.org/shub/dp2ski/abcd_aci/rec/2019-04-13-c5f02b62-7d3cd620/Singularity
 collection: dp2ski/abcd_aci
 ---

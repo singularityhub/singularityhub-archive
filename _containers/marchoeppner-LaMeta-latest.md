@@ -9,7 +9,7 @@ build_date: "2019-07-31T13:04:15.555Z"
 size_mb: 6629.0
 size: 1558347807
 sif: "https://datasets.datalad.org/shub/marchoeppner/LaMeta/latest/2019-07-31-24ad2958-cbecae8b/cbecae8b21683ea9820afa1e2f28aff7.sif"
-url: https://datasets.datalad.org/shub/marchoeppner/LaMeta/latest/2019-07-31-24ad2958-cbecae8b/
+datalad_url: https://datasets.datalad.org?dir=/shub/marchoeppner/LaMeta/latest/2019-07-31-24ad2958-cbecae8b/
 recipe: https://datasets.datalad.org/shub/marchoeppner/LaMeta/latest/2019-07-31-24ad2958-cbecae8b/Singularity
 collection: marchoeppner/LaMeta
 ---

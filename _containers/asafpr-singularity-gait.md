@@ -9,7 +9,7 @@ build_date: "2021-04-11T10:22:21.794Z"
 size_mb: 4825.0
 size: 1772462111
 sif: "https://datasets.datalad.org/shub/asafpr/singularity/gait/2021-04-11-e72a1ae2-b381835e/b381835e21a2396fbdaebf55a3fc3410.sif"
-url: https://datasets.datalad.org/shub/asafpr/singularity/gait/2021-04-11-e72a1ae2-b381835e/
+datalad_url: https://datasets.datalad.org?dir=/shub/asafpr/singularity/gait/2021-04-11-e72a1ae2-b381835e/
 recipe: https://datasets.datalad.org/shub/asafpr/singularity/gait/2021-04-11-e72a1ae2-b381835e/Singularity
 collection: asafpr/singularity
 ---

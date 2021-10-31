@@ -9,7 +9,7 @@ build_date: "2019-06-15T07:05:38.166Z"
 size_mb: 7795
 size: 3207999519
 sif: "https://datasets.datalad.org/shub/QTIM-Lab/DeepNeuro/deepneuro_segment_ischemic_stroke/2019-06-15-004321c0-05a07df6/05a07df6abf704913f32af0b6164f679.simg"
-url: https://datasets.datalad.org/shub/QTIM-Lab/DeepNeuro/deepneuro_segment_ischemic_stroke/2019-06-15-004321c0-05a07df6/
+datalad_url: https://datasets.datalad.org?dir=/shub/QTIM-Lab/DeepNeuro/deepneuro_segment_ischemic_stroke/2019-06-15-004321c0-05a07df6/
 recipe: https://datasets.datalad.org/shub/QTIM-Lab/DeepNeuro/deepneuro_segment_ischemic_stroke/2019-06-15-004321c0-05a07df6/Singularity
 collection: QTIM-Lab/DeepNeuro
 ---

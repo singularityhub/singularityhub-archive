@@ -9,7 +9,7 @@ build_date: "2019-07-03T13:50:46.936Z"
 size_mb: 436
 size: 152403999
 sif: "https://datasets.datalad.org/shub/DrVale83/bioinfo/samtools/2019-07-03-0f5c222b-b88d6678/b88d6678e59a665f49d3cbfe18292168.simg"
-url: https://datasets.datalad.org/shub/DrVale83/bioinfo/samtools/2019-07-03-0f5c222b-b88d6678/
+datalad_url: https://datasets.datalad.org?dir=/shub/DrVale83/bioinfo/samtools/2019-07-03-0f5c222b-b88d6678/
 recipe: https://datasets.datalad.org/shub/DrVale83/bioinfo/samtools/2019-07-03-0f5c222b-b88d6678/Singularity
 collection: DrVale83/bioinfo
 ---

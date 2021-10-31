@@ -9,7 +9,7 @@ build_date: "2020-07-28T13:17:25.799Z"
 size_mb: 471
 size: 157551869
 sif: "https://datasets.datalad.org/shub/satra/om-images/master/2020-07-28-6131a481-738db563/738db56316e4fa20f3dba7ac379fd821.img.gz"
-url: https://datasets.datalad.org/shub/satra/om-images/master/2020-07-28-6131a481-738db563/
+datalad_url: https://datasets.datalad.org?dir=/shub/satra/om-images/master/2020-07-28-6131a481-738db563/
 recipe: https://datasets.datalad.org/shub/satra/om-images/master/2020-07-28-6131a481-738db563/Singularity
 collection: satra/om-images
 ---

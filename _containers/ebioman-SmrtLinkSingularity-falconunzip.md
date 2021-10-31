@@ -9,7 +9,7 @@ build_date: "2018-08-17T18:19:56.386Z"
 size_mb: 1530
 size: 617795615
 sif: "https://datasets.datalad.org/shub/ebioman/SmrtLinkSingularity/falconunzip/2018-08-17-d3989f67-42e46734/42e46734a86a71b8898263322ea1da87.simg"
-url: https://datasets.datalad.org/shub/ebioman/SmrtLinkSingularity/falconunzip/2018-08-17-d3989f67-42e46734/
+datalad_url: https://datasets.datalad.org?dir=/shub/ebioman/SmrtLinkSingularity/falconunzip/2018-08-17-d3989f67-42e46734/
 recipe: https://datasets.datalad.org/shub/ebioman/SmrtLinkSingularity/falconunzip/2018-08-17-d3989f67-42e46734/Singularity
 collection: ebioman/SmrtLinkSingularity
 ---

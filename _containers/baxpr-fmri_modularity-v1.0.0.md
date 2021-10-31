@@ -9,7 +9,7 @@ build_date: "2018-10-26T11:06:03.712Z"
 size_mb: 3589
 size: 1581309983
 sif: "https://datasets.datalad.org/shub/baxpr/fmri_modularity/v1.0.0/2018-10-26-cf5b7332-e3041514/e3041514ab02ee78339f74b0e09c92f8.simg"
-url: https://datasets.datalad.org/shub/baxpr/fmri_modularity/v1.0.0/2018-10-26-cf5b7332-e3041514/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/fmri_modularity/v1.0.0/2018-10-26-cf5b7332-e3041514/
 recipe: https://datasets.datalad.org/shub/baxpr/fmri_modularity/v1.0.0/2018-10-26-cf5b7332-e3041514/Singularity
 collection: baxpr/fmri_modularity
 ---

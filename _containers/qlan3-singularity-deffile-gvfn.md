@@ -9,7 +9,7 @@ build_date: "2019-07-31T22:34:22.158Z"
 size_mb: 1804.7421875
 size: 1892409344
 sif: "https://datasets.datalad.org/shub/qlan3/singularity-deffile/gvfn/2019-07-31-702d7ea2-44106e07/44106e0717aa0dab6a33dcea41d84c3ab91722b6d16e55fa5efea26c65bcf122.sif"
-url: https://datasets.datalad.org/shub/qlan3/singularity-deffile/gvfn/2019-07-31-702d7ea2-44106e07/
+datalad_url: https://datasets.datalad.org?dir=/shub/qlan3/singularity-deffile/gvfn/2019-07-31-702d7ea2-44106e07/
 recipe: https://datasets.datalad.org/shub/qlan3/singularity-deffile/gvfn/2019-07-31-702d7ea2-44106e07/Singularity
 collection: qlan3/singularity-deffile
 ---

@@ -9,7 +9,7 @@ build_date: "2018-07-13T21:19:59.406Z"
 size_mb: 4175
 size: 2685673503
 sif: "https://datasets.datalad.org/shub/RedHenLab/singularity_containers/deepspeech2_shuwei/2018-07-13-9173cce6-97aaecdf/97aaecdf98bc727e7b39dcddf32e0540.simg"
-url: https://datasets.datalad.org/shub/RedHenLab/singularity_containers/deepspeech2_shuwei/2018-07-13-9173cce6-97aaecdf/
+datalad_url: https://datasets.datalad.org?dir=/shub/RedHenLab/singularity_containers/deepspeech2_shuwei/2018-07-13-9173cce6-97aaecdf/
 recipe: https://datasets.datalad.org/shub/RedHenLab/singularity_containers/deepspeech2_shuwei/2018-07-13-9173cce6-97aaecdf/Singularity
 collection: RedHenLab/singularity_containers
 ---

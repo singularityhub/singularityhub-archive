@@ -9,7 +9,7 @@ build_date: "2018-01-24T08:43:02.474Z"
 size_mb: 2999
 size: 1558945823
 sif: "https://datasets.datalad.org/shub/belledon/flex_sing/latest/2018-01-24-f4d6b965-70249ecd/70249ecdb1c1ead20b8c9b10dadb221a.simg"
-url: https://datasets.datalad.org/shub/belledon/flex_sing/latest/2018-01-24-f4d6b965-70249ecd/
+datalad_url: https://datasets.datalad.org?dir=/shub/belledon/flex_sing/latest/2018-01-24-f4d6b965-70249ecd/
 recipe: https://datasets.datalad.org/shub/belledon/flex_sing/latest/2018-01-24-f4d6b965-70249ecd/Singularity
 collection: belledon/flex_sing
 ---

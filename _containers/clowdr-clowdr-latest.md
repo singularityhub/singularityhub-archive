@@ -9,7 +9,7 @@ build_date: "2021-01-24T02:14:56.761Z"
 size_mb: 351
 size: 98971679
 sif: "https://datasets.datalad.org/shub/clowdr/clowdr/latest/2021-01-24-f882994e-1985ab91/1985ab9121d27aec03daade523c0d64b.simg"
-url: https://datasets.datalad.org/shub/clowdr/clowdr/latest/2021-01-24-f882994e-1985ab91/
+datalad_url: https://datasets.datalad.org?dir=/shub/clowdr/clowdr/latest/2021-01-24-f882994e-1985ab91/
 recipe: https://datasets.datalad.org/shub/clowdr/clowdr/latest/2021-01-24-f882994e-1985ab91/Singularity
 collection: clowdr/clowdr
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-03T14:45:46.265Z"
 size_mb: 927
 size: 304865311
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/nanopolish/2019-04-03-5648d69b-a68ed690/a68ed6909317feb58319c77fbacf77fc.simg"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/nanopolish/2019-04-03-5648d69b-a68ed690/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/nanopolish/2019-04-03-5648d69b-a68ed690/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/nanopolish/2019-04-03-5648d69b-a68ed690/Singularity
 collection: dominik-handler/AP_singu
 ---

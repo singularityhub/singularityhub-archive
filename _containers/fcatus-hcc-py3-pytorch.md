@@ -9,7 +9,7 @@ build_date: "2020-01-31T22:50:15.803Z"
 size_mb: 4045.62109375
 size: 4242141184
 sif: "https://datasets.datalad.org/shub/fcatus/hcc/py3-pytorch/2020-01-31-fff1c40d-bf2802e1/bf2802e1224bc9ab1fd5c067ac10ca622a128655a4943f612b88fb96da458e10.sif"
-url: https://datasets.datalad.org/shub/fcatus/hcc/py3-pytorch/2020-01-31-fff1c40d-bf2802e1/
+datalad_url: https://datasets.datalad.org?dir=/shub/fcatus/hcc/py3-pytorch/2020-01-31-fff1c40d-bf2802e1/
 recipe: https://datasets.datalad.org/shub/fcatus/hcc/py3-pytorch/2020-01-31-fff1c40d-bf2802e1/Singularity
 collection: fcatus/hcc
 ---

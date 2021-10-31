@@ -9,7 +9,7 @@ build_date: "2019-03-20T08:24:17.317Z"
 size_mb: 948
 size: 368767007
 sif: "https://datasets.datalad.org/shub/merckey/Singularity/r35_py2/2019-03-20-ac09ac1f-3b22b16c/3b22b16ceeaa48b07bdb94352d25dd3a.simg"
-url: https://datasets.datalad.org/shub/merckey/Singularity/r35_py2/2019-03-20-ac09ac1f-3b22b16c/
+datalad_url: https://datasets.datalad.org?dir=/shub/merckey/Singularity/r35_py2/2019-03-20-ac09ac1f-3b22b16c/
 recipe: https://datasets.datalad.org/shub/merckey/Singularity/r35_py2/2019-03-20-ac09ac1f-3b22b16c/Singularity
 collection: merckey/Singularity
 ---

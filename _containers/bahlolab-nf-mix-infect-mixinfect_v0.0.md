@@ -9,7 +9,7 @@ build_date: "2020-04-06T02:44:30.736Z"
 size_mb: 1327.0
 size: 559824927
 sif: "https://datasets.datalad.org/shub/bahlolab/nf-mix-infect/mixinfect_v0.0/2020-04-06-8f2f175f-7b369bce/7b369bce8ef8e2a358efad926a85daa3.sif"
-url: https://datasets.datalad.org/shub/bahlolab/nf-mix-infect/mixinfect_v0.0/2020-04-06-8f2f175f-7b369bce/
+datalad_url: https://datasets.datalad.org?dir=/shub/bahlolab/nf-mix-infect/mixinfect_v0.0/2020-04-06-8f2f175f-7b369bce/
 recipe: https://datasets.datalad.org/shub/bahlolab/nf-mix-infect/mixinfect_v0.0/2020-04-06-8f2f175f-7b369bce/Singularity
 collection: bahlolab/nf-mix-infect
 ---

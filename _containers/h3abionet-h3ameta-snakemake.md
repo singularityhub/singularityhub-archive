@@ -9,7 +9,7 @@ build_date: "2020-05-05T04:44:30.219Z"
 size_mb: 1342.0
 size: 491069471
 sif: "https://datasets.datalad.org/shub/h3abionet/h3ameta/snakemake/2020-05-05-5555cd3a-94c32c1f/94c32c1f9ea0f9a8981d24c0f87e4818.sif"
-url: https://datasets.datalad.org/shub/h3abionet/h3ameta/snakemake/2020-05-05-5555cd3a-94c32c1f/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/h3ameta/snakemake/2020-05-05-5555cd3a-94c32c1f/
 recipe: https://datasets.datalad.org/shub/h3abionet/h3ameta/snakemake/2020-05-05-5555cd3a-94c32c1f/Singularity
 collection: h3abionet/h3ameta
 ---

@@ -9,7 +9,7 @@ build_date: "2019-07-24T16:07:27.370Z"
 size_mb: 2416
 size: 1007812639
 sif: "https://datasets.datalad.org/shub/bioinformatics-group/bioinformatics-singularity/latest/2019-07-24-85a63f16-6c1206f7/6c1206f74984a4c3212fa447087e6dd6.simg"
-url: https://datasets.datalad.org/shub/bioinformatics-group/bioinformatics-singularity/latest/2019-07-24-85a63f16-6c1206f7/
+datalad_url: https://datasets.datalad.org?dir=/shub/bioinformatics-group/bioinformatics-singularity/latest/2019-07-24-85a63f16-6c1206f7/
 recipe: https://datasets.datalad.org/shub/bioinformatics-group/bioinformatics-singularity/latest/2019-07-24-85a63f16-6c1206f7/Singularity
 collection: bioinformatics-group/bioinformatics-singularity
 ---

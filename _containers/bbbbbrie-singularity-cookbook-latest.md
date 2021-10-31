@@ -9,7 +9,7 @@ build_date: "2020-09-21T08:16:17.663Z"
 size_mb: 1922
 size: 1105956895
 sif: "https://datasets.datalad.org/shub/bbbbbrie/singularity-cookbook/latest/2020-09-21-60dc9b08-d89ce593/d89ce593b3203629a4b7b78f00625901.simg"
-url: https://datasets.datalad.org/shub/bbbbbrie/singularity-cookbook/latest/2020-09-21-60dc9b08-d89ce593/
+datalad_url: https://datasets.datalad.org?dir=/shub/bbbbbrie/singularity-cookbook/latest/2020-09-21-60dc9b08-d89ce593/
 recipe: https://datasets.datalad.org/shub/bbbbbrie/singularity-cookbook/latest/2020-09-21-60dc9b08-d89ce593/Singularity
 collection: bbbbbrie/singularity-cookbook
 ---

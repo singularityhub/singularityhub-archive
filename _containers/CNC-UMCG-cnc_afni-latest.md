@@ -9,7 +9,7 @@ build_date: "2021-04-09T19:11:18.324Z"
 size_mb: 5509
 size: 2933506079
 sif: "https://datasets.datalad.org/shub/CNC-UMCG/cnc_afni/latest/2021-04-09-1e2c267d-76393204/763932047560de9ecea98ccd8e91264b.simg"
-url: https://datasets.datalad.org/shub/CNC-UMCG/cnc_afni/latest/2021-04-09-1e2c267d-76393204/
+datalad_url: https://datasets.datalad.org?dir=/shub/CNC-UMCG/cnc_afni/latest/2021-04-09-1e2c267d-76393204/
 recipe: https://datasets.datalad.org/shub/CNC-UMCG/cnc_afni/latest/2021-04-09-1e2c267d-76393204/Singularity
 collection: CNC-UMCG/cnc_afni
 ---

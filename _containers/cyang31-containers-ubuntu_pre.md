@@ -9,7 +9,7 @@ build_date: "2020-09-25T16:26:47.295Z"
 size_mb: 3974.19140625
 size: 4167241728
 sif: "https://datasets.datalad.org/shub/cyang31/containers/ubuntu_pre/2020-09-25-8167c177-0be7cf2b/0be7cf2b4ed48401a313ce8a92534a43f5aa46dcddc8d4eb6b026b99dea86f68.sif"
-url: https://datasets.datalad.org/shub/cyang31/containers/ubuntu_pre/2020-09-25-8167c177-0be7cf2b/
+datalad_url: https://datasets.datalad.org?dir=/shub/cyang31/containers/ubuntu_pre/2020-09-25-8167c177-0be7cf2b/
 recipe: https://datasets.datalad.org/shub/cyang31/containers/ubuntu_pre/2020-09-25-8167c177-0be7cf2b/Singularity
 collection: cyang31/containers
 ---

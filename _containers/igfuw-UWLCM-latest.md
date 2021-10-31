@@ -9,7 +9,7 @@ build_date: "2019-11-26T10:51:27.550Z"
 size_mb: 1522.171875
 size: 1596112896
 sif: "https://datasets.datalad.org/shub/igfuw/UWLCM/latest/2019-11-26-a27303e9-d4ed2a10/d4ed2a10d6c7e4a0432fe8ea7e75e92a719d09502b522e5ca02a9676fed777d3.sif"
-url: https://datasets.datalad.org/shub/igfuw/UWLCM/latest/2019-11-26-a27303e9-d4ed2a10/
+datalad_url: https://datasets.datalad.org?dir=/shub/igfuw/UWLCM/latest/2019-11-26-a27303e9-d4ed2a10/
 recipe: https://datasets.datalad.org/shub/igfuw/UWLCM/latest/2019-11-26-a27303e9-d4ed2a10/Singularity
 collection: igfuw/UWLCM
 ---

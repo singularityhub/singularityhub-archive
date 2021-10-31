@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:53.920Z"
 size_mb: 6468.0
 size: 2715721759
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-freesurfer--6.0.1-6.1/2021-03-19-b543a442-b67f8726/b67f8726cee8b1f1881b788b5cf4e85b.sif"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-freesurfer--6.0.1-6.1/2021-03-19-b543a442-b67f8726/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-freesurfer--6.0.1-6.1/2021-03-19-b543a442-b67f8726/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-freesurfer--6.0.1-6.1/2021-03-19-b543a442-b67f8726/Singularity
 collection: ReproNim/containers
 ---

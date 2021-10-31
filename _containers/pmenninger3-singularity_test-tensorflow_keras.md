@@ -9,7 +9,7 @@ build_date: "2017-11-28T19:11:34.520Z"
 size_mb: 1388
 size: 527417375
 sif: "https://datasets.datalad.org/shub/pmenninger3/singularity_test/tensorflow_keras/2017-11-28-9b2ee41c-a5b9fe07/a5b9fe074bf1bbcc4b9ed81d3766aa8b.simg"
-url: https://datasets.datalad.org/shub/pmenninger3/singularity_test/tensorflow_keras/2017-11-28-9b2ee41c-a5b9fe07/
+datalad_url: https://datasets.datalad.org?dir=/shub/pmenninger3/singularity_test/tensorflow_keras/2017-11-28-9b2ee41c-a5b9fe07/
 recipe: https://datasets.datalad.org/shub/pmenninger3/singularity_test/tensorflow_keras/2017-11-28-9b2ee41c-a5b9fe07/Singularity
 collection: pmenninger3/singularity_test
 ---

@@ -9,7 +9,7 @@ build_date: "2017-11-22T19:08:50.755Z"
 size_mb: 622
 size: 413757471
 sif: "https://datasets.datalad.org/shub/karlmutch/singularity-images/latest/2017-11-22-aedbeda3-eaeafd9b/eaeafd9b15d2e86bfc55082dac933858.simg"
-url: https://datasets.datalad.org/shub/karlmutch/singularity-images/latest/2017-11-22-aedbeda3-eaeafd9b/
+datalad_url: https://datasets.datalad.org?dir=/shub/karlmutch/singularity-images/latest/2017-11-22-aedbeda3-eaeafd9b/
 recipe: https://datasets.datalad.org/shub/karlmutch/singularity-images/latest/2017-11-22-aedbeda3-eaeafd9b/Singularity
 collection: karlmutch/singularity-images
 ---

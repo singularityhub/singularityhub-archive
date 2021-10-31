@@ -9,7 +9,7 @@ build_date: "2019-11-22T23:02:49.920Z"
 size_mb: 50.53125
 size: 52985856
 sif: "https://datasets.datalad.org/shub/powerPlant/open-mpi-srf/4.0.1/2019-11-22-2fb7561a-1d39499d/1d39499dd58db6a6aaedb747e976eed56bcf635a134c2a6d0214364e8f1bd832.sif"
-url: https://datasets.datalad.org/shub/powerPlant/open-mpi-srf/4.0.1/2019-11-22-2fb7561a-1d39499d/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/open-mpi-srf/4.0.1/2019-11-22-2fb7561a-1d39499d/
 recipe: https://datasets.datalad.org/shub/powerPlant/open-mpi-srf/4.0.1/2019-11-22-2fb7561a-1d39499d/Singularity
 collection: powerPlant/open-mpi-srf
 ---

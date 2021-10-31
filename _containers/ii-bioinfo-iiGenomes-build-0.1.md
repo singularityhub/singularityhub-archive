@@ -9,7 +9,7 @@ build_date: "2018-10-30T12:35:59.845Z"
 size_mb: 3248
 size: 998629407
 sif: "https://datasets.datalad.org/shub/ii-bioinfo/iiGenomes-build/0.1/2018-10-30-f3e3f4ca-cd1527d8/cd1527d8a17ea09a012da4f42060dd50.simg"
-url: https://datasets.datalad.org/shub/ii-bioinfo/iiGenomes-build/0.1/2018-10-30-f3e3f4ca-cd1527d8/
+datalad_url: https://datasets.datalad.org?dir=/shub/ii-bioinfo/iiGenomes-build/0.1/2018-10-30-f3e3f4ca-cd1527d8/
 recipe: https://datasets.datalad.org/shub/ii-bioinfo/iiGenomes-build/0.1/2018-10-30-f3e3f4ca-cd1527d8/Singularity
 collection: ii-bioinfo/iiGenomes-build
 ---

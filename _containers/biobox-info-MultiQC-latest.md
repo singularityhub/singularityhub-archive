@@ -9,7 +9,7 @@ build_date: "2019-10-21T07:11:58.471Z"
 size_mb: 174.03125
 size: 182484992
 sif: "https://datasets.datalad.org/shub/biobox-info/MultiQC/latest/2019-10-21-a0f37519-8a734a2e/8a734a2eb66fbcfb79e76b902269c18626ec8482d10130ecde4a920d1546f674.sif"
-url: https://datasets.datalad.org/shub/biobox-info/MultiQC/latest/2019-10-21-a0f37519-8a734a2e/
+datalad_url: https://datasets.datalad.org?dir=/shub/biobox-info/MultiQC/latest/2019-10-21-a0f37519-8a734a2e/
 recipe: https://datasets.datalad.org/shub/biobox-info/MultiQC/latest/2019-10-21-a0f37519-8a734a2e/Singularity
 collection: biobox-info/MultiQC
 ---

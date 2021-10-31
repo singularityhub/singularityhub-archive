@@ -9,7 +9,7 @@ build_date: "2019-07-19T14:52:48.083Z"
 size_mb: 197.0
 size: 62652447
 sif: "https://datasets.datalad.org/shub/singularityhub/hello-world/tacos/2019-07-19-e1717c40-0d0149bc/0d0149bc864d596b0a4b1e45fb65a7eb.sif"
-url: https://datasets.datalad.org/shub/singularityhub/hello-world/tacos/2019-07-19-e1717c40-0d0149bc/
+datalad_url: https://datasets.datalad.org?dir=/shub/singularityhub/hello-world/tacos/2019-07-19-e1717c40-0d0149bc/
 recipe: https://datasets.datalad.org/shub/singularityhub/hello-world/tacos/2019-07-19-e1717c40-0d0149bc/Singularity
 collection: singularityhub/hello-world
 ---

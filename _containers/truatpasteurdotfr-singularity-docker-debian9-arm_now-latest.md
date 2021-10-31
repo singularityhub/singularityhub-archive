@@ -9,7 +9,7 @@ build_date: "2018-03-13T01:25:23.405Z"
 size_mb: 1089
 size: 388223007
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-debian9-arm_now/latest/2018-03-13-109268b2-4f0ecad2/4f0ecad265e884c198427c81d444a761.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-debian9-arm_now/latest/2018-03-13-109268b2-4f0ecad2/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-docker-debian9-arm_now/latest/2018-03-13-109268b2-4f0ecad2/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-debian9-arm_now/latest/2018-03-13-109268b2-4f0ecad2/Singularity
 collection: truatpasteurdotfr/singularity-docker-debian9-arm_now
 ---

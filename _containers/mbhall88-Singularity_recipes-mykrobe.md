@@ -9,7 +9,7 @@ build_date: "2019-10-29T05:50:16.554Z"
 size_mb: 1240
 size: 577699871
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/mykrobe/2019-10-29-54c141a2-09da57a1/09da57a12121bfa7c57cdd5183d9b815.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/mykrobe/2019-10-29-54c141a2-09da57a1/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/mykrobe/2019-10-29-54c141a2-09da57a1/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/mykrobe/2019-10-29-54c141a2-09da57a1/Singularity
 collection: mbhall88/Singularity_recipes
 ---

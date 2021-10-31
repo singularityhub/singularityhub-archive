@@ -9,7 +9,7 @@ build_date: "2021-02-23T21:16:09.480Z"
 size_mb: 4091.0
 size: 2012102687
 sif: "https://datasets.datalad.org/shub/xiyaojin/singularity/skimage/2021-02-23-e0216c68-9729049b/9729049b45832b9d816153e0b083eac9.sif"
-url: https://datasets.datalad.org/shub/xiyaojin/singularity/skimage/2021-02-23-e0216c68-9729049b/
+datalad_url: https://datasets.datalad.org?dir=/shub/xiyaojin/singularity/skimage/2021-02-23-e0216c68-9729049b/
 recipe: https://datasets.datalad.org/shub/xiyaojin/singularity/skimage/2021-02-23-e0216c68-9729049b/Singularity
 collection: xiyaojin/singularity
 ---

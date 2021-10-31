@@ -9,7 +9,7 @@ build_date: "2020-07-22T14:12:12.700Z"
 size_mb: 2059.0
 size: 817700895
 sif: "https://datasets.datalad.org/shub/drewpolasky/dream3d_aci/rec/2020-07-22-60a02cc9-537742d4/537742d45c5d1bdad590e873046fe824.sif"
-url: https://datasets.datalad.org/shub/drewpolasky/dream3d_aci/rec/2020-07-22-60a02cc9-537742d4/
+datalad_url: https://datasets.datalad.org?dir=/shub/drewpolasky/dream3d_aci/rec/2020-07-22-60a02cc9-537742d4/
 recipe: https://datasets.datalad.org/shub/drewpolasky/dream3d_aci/rec/2020-07-22-60a02cc9-537742d4/Singularity
 collection: drewpolasky/dream3d_aci
 ---

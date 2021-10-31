@@ -9,7 +9,7 @@ build_date: "2019-10-27T10:17:52.890Z"
 size_mb: 1925.0
 size: 721178655
 sif: "https://datasets.datalad.org/shub/colinmcnally/chains/campaign005/2019-10-27-43a1615e-97d97f89/97d97f89733ec2b31d5228dbe5c4c1d7.sif"
-url: https://datasets.datalad.org/shub/colinmcnally/chains/campaign005/2019-10-27-43a1615e-97d97f89/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinmcnally/chains/campaign005/2019-10-27-43a1615e-97d97f89/
 recipe: https://datasets.datalad.org/shub/colinmcnally/chains/campaign005/2019-10-27-43a1615e-97d97f89/Singularity
 collection: colinmcnally/chains
 ---

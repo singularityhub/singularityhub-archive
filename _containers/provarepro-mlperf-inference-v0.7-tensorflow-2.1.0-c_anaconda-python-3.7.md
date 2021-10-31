@@ -9,7 +9,7 @@ build_date: "2020-10-26T20:56:15.110Z"
 size_mb: 1685.921875
 size: 1767817216
 sif: "https://datasets.datalad.org/shub/provarepro/mlperf-inference/v0.7-tensorflow-2.1.0-c_anaconda-python-3.7/2020-10-26-a7017d00-137affba/137affba7cdb91d6431d5bf74551e4444fc8c42a85ea72987e71f6921918cf43.sif"
-url: https://datasets.datalad.org/shub/provarepro/mlperf-inference/v0.7-tensorflow-2.1.0-c_anaconda-python-3.7/2020-10-26-a7017d00-137affba/
+datalad_url: https://datasets.datalad.org?dir=/shub/provarepro/mlperf-inference/v0.7-tensorflow-2.1.0-c_anaconda-python-3.7/2020-10-26-a7017d00-137affba/
 recipe: https://datasets.datalad.org/shub/provarepro/mlperf-inference/v0.7-tensorflow-2.1.0-c_anaconda-python-3.7/2020-10-26-a7017d00-137affba/Singularity
 collection: provarepro/mlperf-inference
 ---

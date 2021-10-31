@@ -9,7 +9,7 @@ build_date: "2020-04-16T23:12:11.859Z"
 size_mb: 4114
 size: 1794629663
 sif: "https://datasets.datalad.org/shub/marcc-hpc/merlin/latest/2020-04-16-aadb4942-834a1a81/834a1a81de8a9ff921c1140c67af910d.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/merlin/latest/2020-04-16-aadb4942-834a1a81/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/merlin/latest/2020-04-16-aadb4942-834a1a81/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/merlin/latest/2020-04-16-aadb4942-834a1a81/Singularity
 collection: marcc-hpc/merlin
 ---

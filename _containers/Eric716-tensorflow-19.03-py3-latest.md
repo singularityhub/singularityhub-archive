@@ -9,7 +9,7 @@ build_date: "2019-09-24T17:42:03.210Z"
 size_mb: 6921
 size: 2968059935
 sif: "https://datasets.datalad.org/shub/Eric716/tensorflow-19.03-py3/latest/2019-09-24-b06e7a4b-379e9789/379e9789ad2884073e36f96368794409.simg"
-url: https://datasets.datalad.org/shub/Eric716/tensorflow-19.03-py3/latest/2019-09-24-b06e7a4b-379e9789/
+datalad_url: https://datasets.datalad.org?dir=/shub/Eric716/tensorflow-19.03-py3/latest/2019-09-24-b06e7a4b-379e9789/
 recipe: https://datasets.datalad.org/shub/Eric716/tensorflow-19.03-py3/latest/2019-09-24-b06e7a4b-379e9789/Singularity
 collection: Eric716/tensorflow-19.03-py3
 ---

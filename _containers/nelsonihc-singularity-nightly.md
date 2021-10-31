@@ -9,7 +9,7 @@ build_date: "2018-11-15T01:37:41.740Z"
 size_mb: 7514
 size: 3728261151
 sif: "https://datasets.datalad.org/shub/nelsonihc/singularity/nightly/2018-11-15-77e6b080-4ffe96ea/4ffe96eadc354b931bb96a78b325f76f.simg"
-url: https://datasets.datalad.org/shub/nelsonihc/singularity/nightly/2018-11-15-77e6b080-4ffe96ea/
+datalad_url: https://datasets.datalad.org?dir=/shub/nelsonihc/singularity/nightly/2018-11-15-77e6b080-4ffe96ea/
 recipe: https://datasets.datalad.org/shub/nelsonihc/singularity/nightly/2018-11-15-77e6b080-4ffe96ea/Singularity
 collection: nelsonihc/singularity
 ---

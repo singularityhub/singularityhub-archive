@@ -9,7 +9,7 @@ build_date: "2020-01-17T20:24:58.844Z"
 size_mb: 2996.6171875
 size: 3142180864
 sif: "https://datasets.datalad.org/shub/Thrandis/qm/latest/2020-01-17-17f6141c-591a6a30/591a6a30d30b6e239afe97e2c847424aaf69a458475e6e7adfa4c6982b24ac1c.sif"
-url: https://datasets.datalad.org/shub/Thrandis/qm/latest/2020-01-17-17f6141c-591a6a30/
+datalad_url: https://datasets.datalad.org?dir=/shub/Thrandis/qm/latest/2020-01-17-17f6141c-591a6a30/
 recipe: https://datasets.datalad.org/shub/Thrandis/qm/latest/2020-01-17-17f6141c-591a6a30/Singularity
 collection: Thrandis/qm
 ---

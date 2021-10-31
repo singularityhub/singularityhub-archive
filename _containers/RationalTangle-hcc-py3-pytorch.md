@@ -9,7 +9,7 @@ build_date: "2020-07-12T22:27:36.387Z"
 size_mb: 8540.0
 size: 4297793567
 sif: "https://datasets.datalad.org/shub/RationalTangle/hcc/py3-pytorch/2020-07-12-102cae9d-9234c287/9234c287de7e9f5bb560d4c6e1772066.sif"
-url: https://datasets.datalad.org/shub/RationalTangle/hcc/py3-pytorch/2020-07-12-102cae9d-9234c287/
+datalad_url: https://datasets.datalad.org?dir=/shub/RationalTangle/hcc/py3-pytorch/2020-07-12-102cae9d-9234c287/
 recipe: https://datasets.datalad.org/shub/RationalTangle/hcc/py3-pytorch/2020-07-12-102cae9d-9234c287/Singularity
 collection: RationalTangle/hcc
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-23T11:07:25.961Z"
 size_mb: 110.0
 size: 39014431
 sif: "https://datasets.datalad.org/shub/aibasel/downward/19.06/2019-12-23-e10167ee-f39f2034/f39f2034fd0978716e7d7ca0ac383117.sif"
-url: https://datasets.datalad.org/shub/aibasel/downward/19.06/2019-12-23-e10167ee-f39f2034/
+datalad_url: https://datasets.datalad.org?dir=/shub/aibasel/downward/19.06/2019-12-23-e10167ee-f39f2034/
 recipe: https://datasets.datalad.org/shub/aibasel/downward/19.06/2019-12-23-e10167ee-f39f2034/Singularity
 collection: aibasel/downward
 ---

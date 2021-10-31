@@ -9,7 +9,7 @@ build_date: "2020-08-03T15:28:49.615Z"
 size_mb: 96.0
 size: 37064735
 sif: "https://datasets.datalad.org/shub/Viktor1117/HPG-Aligner/latest/2020-08-03-ff8325ff-fa94fa10/fa94fa10ec0958962202bff0c069bccc.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/HPG-Aligner/latest/2020-08-03-ff8325ff-fa94fa10/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/HPG-Aligner/latest/2020-08-03-ff8325ff-fa94fa10/
 recipe: https://datasets.datalad.org/shub/Viktor1117/HPG-Aligner/latest/2020-08-03-ff8325ff-fa94fa10/Singularity
 collection: Viktor1117/HPG-Aligner
 ---

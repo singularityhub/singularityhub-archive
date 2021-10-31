@@ -9,7 +9,7 @@ build_date: "2020-11-21T14:37:22.636Z"
 size_mb: 1225.0
 size: 557387807
 sif: "https://datasets.datalad.org/shub/w-bonelli/plant-image-analysis/latest/2020-11-21-af468abc-be42332c/be42332c0902effe07302234074d9d53.sif"
-url: https://datasets.datalad.org/shub/w-bonelli/plant-image-analysis/latest/2020-11-21-af468abc-be42332c/
+datalad_url: https://datasets.datalad.org?dir=/shub/w-bonelli/plant-image-analysis/latest/2020-11-21-af468abc-be42332c/
 recipe: https://datasets.datalad.org/shub/w-bonelli/plant-image-analysis/latest/2020-11-21-af468abc-be42332c/Singularity
 collection: w-bonelli/plant-image-analysis
 ---

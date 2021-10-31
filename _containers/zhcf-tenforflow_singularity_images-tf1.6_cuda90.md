@@ -9,7 +9,7 @@ build_date: "2018-07-08T15:19:20.908Z"
 size_mb: 4697
 size: 2420449311
 sif: "https://datasets.datalad.org/shub/zhcf/tenforflow_singularity_images/tf1.6_cuda90/2018-07-08-acee6b57-cd9f6442/cd9f64427dfd3311587ee8176d2168ea.simg"
-url: https://datasets.datalad.org/shub/zhcf/tenforflow_singularity_images/tf1.6_cuda90/2018-07-08-acee6b57-cd9f6442/
+datalad_url: https://datasets.datalad.org?dir=/shub/zhcf/tenforflow_singularity_images/tf1.6_cuda90/2018-07-08-acee6b57-cd9f6442/
 recipe: https://datasets.datalad.org/shub/zhcf/tenforflow_singularity_images/tf1.6_cuda90/2018-07-08-acee6b57-cd9f6442/Singularity
 collection: zhcf/tenforflow_singularity_images
 ---

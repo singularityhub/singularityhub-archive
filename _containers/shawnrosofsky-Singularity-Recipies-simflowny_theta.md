@@ -9,7 +9,7 @@ build_date: "2020-06-17T21:10:43.276Z"
 size_mb: 783.79296875
 size: 821866496
 sif: "https://datasets.datalad.org/shub/shawnrosofsky/Singularity-Recipies/simflowny_theta/2020-06-17-cdb8c36a-af224a1e/af224a1eeefea07807c22e68714c684b4ff58bfa26cd17bf220a38c1549ac065.sif"
-url: https://datasets.datalad.org/shub/shawnrosofsky/Singularity-Recipies/simflowny_theta/2020-06-17-cdb8c36a-af224a1e/
+datalad_url: https://datasets.datalad.org?dir=/shub/shawnrosofsky/Singularity-Recipies/simflowny_theta/2020-06-17-cdb8c36a-af224a1e/
 recipe: https://datasets.datalad.org/shub/shawnrosofsky/Singularity-Recipies/simflowny_theta/2020-06-17-cdb8c36a-af224a1e/Singularity
 collection: shawnrosofsky/Singularity-Recipies
 ---

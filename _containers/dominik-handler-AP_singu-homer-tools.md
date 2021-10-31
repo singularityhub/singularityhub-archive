@@ -9,7 +9,7 @@ build_date: "2019-09-16T07:41:49.584Z"
 size_mb: 1149
 size: 386551839
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/homer-tools/2019-09-16-d1ba2e26-b3359a0f/b3359a0fdb192aef0c94e072beed53b8.simg"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/homer-tools/2019-09-16-d1ba2e26-b3359a0f/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/homer-tools/2019-09-16-d1ba2e26-b3359a0f/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/homer-tools/2019-09-16-d1ba2e26-b3359a0f/Singularity
 collection: dominik-handler/AP_singu
 ---

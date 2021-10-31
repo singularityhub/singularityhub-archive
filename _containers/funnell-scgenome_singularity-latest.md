@@ -9,7 +9,7 @@ build_date: "2020-05-26T16:13:13.731Z"
 size_mb: 2276.0
 size: 912261151
 sif: "https://datasets.datalad.org/shub/funnell/scgenome_singularity/latest/2020-05-26-2fd3586d-36608633/3660863302d5e3323ac9804731f9d9d5.sif"
-url: https://datasets.datalad.org/shub/funnell/scgenome_singularity/latest/2020-05-26-2fd3586d-36608633/
+datalad_url: https://datasets.datalad.org?dir=/shub/funnell/scgenome_singularity/latest/2020-05-26-2fd3586d-36608633/
 recipe: https://datasets.datalad.org/shub/funnell/scgenome_singularity/latest/2020-05-26-2fd3586d-36608633/Singularity
 collection: funnell/scgenome_singularity
 ---

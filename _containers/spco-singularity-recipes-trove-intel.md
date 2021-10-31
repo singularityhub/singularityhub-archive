@@ -9,7 +9,7 @@ build_date: "2018-04-27T11:43:12.078Z"
 size_mb: 647
 size: 252117023
 sif: "https://datasets.datalad.org/shub/spco/singularity-recipes/trove-intel/2018-04-27-4c2ee12d-61532578/61532578442ac53881eacdb0baa75dd1.simg"
-url: https://datasets.datalad.org/shub/spco/singularity-recipes/trove-intel/2018-04-27-4c2ee12d-61532578/
+datalad_url: https://datasets.datalad.org?dir=/shub/spco/singularity-recipes/trove-intel/2018-04-27-4c2ee12d-61532578/
 recipe: https://datasets.datalad.org/shub/spco/singularity-recipes/trove-intel/2018-04-27-4c2ee12d-61532578/Singularity
 collection: spco/singularity-recipes
 ---

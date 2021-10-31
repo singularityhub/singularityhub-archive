@@ -9,7 +9,7 @@ build_date: "2019-05-29T23:06:07.544Z"
 size_mb: 890
 size: 293371935
 sif: "https://datasets.datalad.org/shub/dietrichliko/centos7/base/2019-05-29-cf472b46-5a0c6c37/5a0c6c37d9bebcd1073ff4325ce21b57.simg"
-url: https://datasets.datalad.org/shub/dietrichliko/centos7/base/2019-05-29-cf472b46-5a0c6c37/
+datalad_url: https://datasets.datalad.org?dir=/shub/dietrichliko/centos7/base/2019-05-29-cf472b46-5a0c6c37/
 recipe: https://datasets.datalad.org/shub/dietrichliko/centos7/base/2019-05-29-cf472b46-5a0c6c37/Singularity
 collection: dietrichliko/centos7
 ---

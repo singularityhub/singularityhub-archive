@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:53.630Z"
 size_mb: 4602
 size: 1885401119
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-niak--latest/2021-03-19-697f419c-0fab8ab1/0fab8ab172e488289e4712f9c8a7d400.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-niak--latest/2021-03-19-697f419c-0fab8ab1/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-niak--latest/2021-03-19-697f419c-0fab8ab1/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-niak--latest/2021-03-19-697f419c-0fab8ab1/Singularity
 collection: ReproNim/containers
 ---

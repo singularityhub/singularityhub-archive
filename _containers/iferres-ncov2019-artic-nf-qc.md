@@ -9,7 +9,7 @@ build_date: "2021-03-30T11:01:38.591Z"
 size_mb: 1602.0
 size: 506626079
 sif: "https://datasets.datalad.org/shub/iferres/ncov2019-artic-nf/qc/2021-03-30-5f483666-885d1b61/885d1b61bfd6e951bcad98562b03a5f7.sif"
-url: https://datasets.datalad.org/shub/iferres/ncov2019-artic-nf/qc/2021-03-30-5f483666-885d1b61/
+datalad_url: https://datasets.datalad.org?dir=/shub/iferres/ncov2019-artic-nf/qc/2021-03-30-5f483666-885d1b61/
 recipe: https://datasets.datalad.org/shub/iferres/ncov2019-artic-nf/qc/2021-03-30-5f483666-885d1b61/Singularity
 collection: iferres/ncov2019-artic-nf
 ---

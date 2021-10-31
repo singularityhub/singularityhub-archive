@@ -9,7 +9,7 @@ build_date: "2019-11-21T00:19:31.675Z"
 size_mb: 341.140625
 size: 357711872
 sif: "https://datasets.datalad.org/shub/TomHarrop/assemblers/canu_1.9/2019-11-21-b40799da-21ef05ed/21ef05edd3a0996a29721ba1e9c9c0eef16ececbbac58976112c7a6c44a76b57.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assemblers/canu_1.9/2019-11-21-b40799da-21ef05ed/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assemblers/canu_1.9/2019-11-21-b40799da-21ef05ed/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assemblers/canu_1.9/2019-11-21-b40799da-21ef05ed/Singularity
 collection: TomHarrop/assemblers
 ---

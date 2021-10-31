@@ -9,7 +9,7 @@ build_date: "2020-09-30T18:05:30.234Z"
 size_mb: 999.0
 size: 367943711
 sif: "https://datasets.datalad.org/shub/romxero/graphviz_container/latest/2020-09-30-50748ce0-71a43d25/71a43d2540ad5e2c3e614b5625bd31c6.sif"
-url: https://datasets.datalad.org/shub/romxero/graphviz_container/latest/2020-09-30-50748ce0-71a43d25/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/graphviz_container/latest/2020-09-30-50748ce0-71a43d25/
 recipe: https://datasets.datalad.org/shub/romxero/graphviz_container/latest/2020-09-30-50748ce0-71a43d25/Singularity
 collection: romxero/graphviz_container
 ---

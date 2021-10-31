@@ -9,7 +9,7 @@ build_date: "2019-09-09T18:45:02.201Z"
 size_mb: 292.59765625
 size: 306810880
 sif: "https://datasets.datalad.org/shub/timkphd/Containers/386/2019-09-09-96c5bb93-9da75bb0/9da75bb0db3e2bf603d81711fc9f3da7093d1fe07a273ef3de74539602f87874.sif"
-url: https://datasets.datalad.org/shub/timkphd/Containers/386/2019-09-09-96c5bb93-9da75bb0/
+datalad_url: https://datasets.datalad.org?dir=/shub/timkphd/Containers/386/2019-09-09-96c5bb93-9da75bb0/
 recipe: https://datasets.datalad.org/shub/timkphd/Containers/386/2019-09-09-96c5bb93-9da75bb0/Singularity
 collection: timkphd/stuff
 ---

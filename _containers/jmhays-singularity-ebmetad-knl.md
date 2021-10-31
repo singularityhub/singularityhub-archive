@@ -9,7 +9,7 @@ build_date: "2019-01-10T18:24:07.602Z"
 size_mb: 2598
 size: 1419055135
 sif: "https://datasets.datalad.org/shub/jmhays/singularity-ebmetad/knl/2019-01-10-d40aa1fe-59159a7c/59159a7c42512cc63cfe10f5cf3d5d90.simg"
-url: https://datasets.datalad.org/shub/jmhays/singularity-ebmetad/knl/2019-01-10-d40aa1fe-59159a7c/
+datalad_url: https://datasets.datalad.org?dir=/shub/jmhays/singularity-ebmetad/knl/2019-01-10-d40aa1fe-59159a7c/
 recipe: https://datasets.datalad.org/shub/jmhays/singularity-ebmetad/knl/2019-01-10-d40aa1fe-59159a7c/Singularity
 collection: jmhays/singularity-ebmetad
 ---

@@ -9,7 +9,7 @@ build_date: "2019-02-17T21:45:27.125Z"
 size_mb: 1418
 size: 480739359
 sif: "https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/rivet-mkhtml/2019-02-17-d7b607ab-49037cb9/49037cb9f085bc1eb2bfd330fd8551a1.simg"
-url: https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/rivet-mkhtml/2019-02-17-d7b607ab-49037cb9/
+datalad_url: https://datasets.datalad.org?dir=/shub/ebothmann/sherpa-singularity/rivet-mkhtml/2019-02-17-d7b607ab-49037cb9/
 recipe: https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/rivet-mkhtml/2019-02-17-d7b607ab-49037cb9/Singularity
 collection: ebothmann/sherpa-singularity
 ---

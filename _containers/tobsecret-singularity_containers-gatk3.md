@@ -9,7 +9,7 @@ build_date: "2019-08-15T19:33:19.280Z"
 size_mb: 814.0
 size: 340443167
 sif: "https://datasets.datalad.org/shub/tobsecret/singularity_containers/gatk3/2019-08-15-7959299f-6d00d105/6d00d10532c5ad11c07188ad6d1a97ee.sif"
-url: https://datasets.datalad.org/shub/tobsecret/singularity_containers/gatk3/2019-08-15-7959299f-6d00d105/
+datalad_url: https://datasets.datalad.org?dir=/shub/tobsecret/singularity_containers/gatk3/2019-08-15-7959299f-6d00d105/
 recipe: https://datasets.datalad.org/shub/tobsecret/singularity_containers/gatk3/2019-08-15-7959299f-6d00d105/Singularity
 collection: tobsecret/singularity_containers
 ---

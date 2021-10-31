@@ -9,7 +9,7 @@ build_date: "2020-09-23T13:43:46.648Z"
 size_mb: 1455.76953125
 size: 1526484992
 sif: "https://datasets.datalad.org/shub/pescobar/singularity-bioinfo-tools/latest/2020-09-23-333e72f5-e2c9d4ca/e2c9d4ca4c0fddeb41b48e384d5ff31d2ba853bd6b75062bb8f69e05b640d21d.sif"
-url: https://datasets.datalad.org/shub/pescobar/singularity-bioinfo-tools/latest/2020-09-23-333e72f5-e2c9d4ca/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/singularity-bioinfo-tools/latest/2020-09-23-333e72f5-e2c9d4ca/
 recipe: https://datasets.datalad.org/shub/pescobar/singularity-bioinfo-tools/latest/2020-09-23-333e72f5-e2c9d4ca/Singularity
 collection: pescobar/singularity-bioinfo-tools
 ---

@@ -9,7 +9,7 @@ build_date: "2018-03-19T13:13:41.601Z"
 size_mb: 1284
 size: 376344607
 sif: "https://datasets.datalad.org/shub/kyleam/garps/latest/2018-03-19-e59a2263-b38c7225/b38c722502314736d1ab32b1fc1ccb3c.simg"
-url: https://datasets.datalad.org/shub/kyleam/garps/latest/2018-03-19-e59a2263-b38c7225/
+datalad_url: https://datasets.datalad.org?dir=/shub/kyleam/garps/latest/2018-03-19-e59a2263-b38c7225/
 recipe: https://datasets.datalad.org/shub/kyleam/garps/latest/2018-03-19-e59a2263-b38c7225/Singularity
 collection: kyleam/garps
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-12T07:16:45.568Z"
 size_mb: 1596.0
 size: 530694175
 sif: "https://datasets.datalad.org/shub/romxero/gcc_r_singularity/latest/2019-11-12-8c680a02-989d9177/989d9177541e278276d15476a148f6c2.sif"
-url: https://datasets.datalad.org/shub/romxero/gcc_r_singularity/latest/2019-11-12-8c680a02-989d9177/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/gcc_r_singularity/latest/2019-11-12-8c680a02-989d9177/
 recipe: https://datasets.datalad.org/shub/romxero/gcc_r_singularity/latest/2019-11-12-8c680a02-989d9177/Singularity
 collection: romxero/gcc_r_singularity
 ---

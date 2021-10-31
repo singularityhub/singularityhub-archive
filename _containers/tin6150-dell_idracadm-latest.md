@@ -9,7 +9,7 @@ build_date: "2018-03-03T01:06:30.165Z"
 size_mb: 605
 size: 240914463
 sif: "https://datasets.datalad.org/shub/tin6150/dell_idracadm/latest/2018-03-03-7c0a72a1-4adea85e/4adea85edd6538dc854d1d2e1a3c82ab.simg"
-url: https://datasets.datalad.org/shub/tin6150/dell_idracadm/latest/2018-03-03-7c0a72a1-4adea85e/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/dell_idracadm/latest/2018-03-03-7c0a72a1-4adea85e/
 recipe: https://datasets.datalad.org/shub/tin6150/dell_idracadm/latest/2018-03-03-7c0a72a1-4adea85e/Singularity
 collection: tin6150/dell_idracadm
 ---

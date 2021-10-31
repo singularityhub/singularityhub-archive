@@ -9,7 +9,7 @@ build_date: "2018-12-10T06:45:59.799Z"
 size_mb: 3527
 size: 1128603679
 sif: "https://datasets.datalad.org/shub/magao-x/krank/def/2018-12-10-7d2dc69e-a8bc38c2/a8bc38c2dbf18745194822cb43412f44.simg"
-url: https://datasets.datalad.org/shub/magao-x/krank/def/2018-12-10-7d2dc69e-a8bc38c2/
+datalad_url: https://datasets.datalad.org?dir=/shub/magao-x/krank/def/2018-12-10-7d2dc69e-a8bc38c2/
 recipe: https://datasets.datalad.org/shub/magao-x/krank/def/2018-12-10-7d2dc69e-a8bc38c2/Singularity
 collection: magao-x/krank
 ---

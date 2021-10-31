@@ -9,7 +9,7 @@ build_date: "2020-12-16T12:56:00.694Z"
 size_mb: 1082.59765625
 size: 1135185920
 sif: "https://datasets.datalad.org/shub/jolars/hessian-screening-code/latest/2020-12-16-33e94768-e32bafcd/e32bafcd31457bc66a504f4655e5c0d6e14f9beba0e5541ddc28fc909dd083dc.sif"
-url: https://datasets.datalad.org/shub/jolars/hessian-screening-code/latest/2020-12-16-33e94768-e32bafcd/
+datalad_url: https://datasets.datalad.org?dir=/shub/jolars/hessian-screening-code/latest/2020-12-16-33e94768-e32bafcd/
 recipe: https://datasets.datalad.org/shub/jolars/hessian-screening-code/latest/2020-12-16-33e94768-e32bafcd/Singularity
 collection: jolars/hessian-screening-code
 ---

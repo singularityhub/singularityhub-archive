@@ -9,7 +9,7 @@ build_date: "2019-04-05T20:03:06.664Z"
 size_mb: 865
 size: 368074783
 sif: "https://datasets.datalad.org/shub/C3BI-pasteur-fr/craw/1.0/2019-04-05-4907eea8-88199eb1/88199eb14a78cc6ff075d13d70db7f07.simg"
-url: https://datasets.datalad.org/shub/C3BI-pasteur-fr/craw/1.0/2019-04-05-4907eea8-88199eb1/
+datalad_url: https://datasets.datalad.org?dir=/shub/C3BI-pasteur-fr/craw/1.0/2019-04-05-4907eea8-88199eb1/
 recipe: https://datasets.datalad.org/shub/C3BI-pasteur-fr/craw/1.0/2019-04-05-4907eea8-88199eb1/Singularity
 collection: C3BI-pasteur-fr/craw
 ---

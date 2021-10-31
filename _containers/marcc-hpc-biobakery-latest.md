@@ -9,7 +9,7 @@ build_date: "2020-02-12T17:15:52.753Z"
 size_mb: 11265
 size: 5572186143
 sif: "https://datasets.datalad.org/shub/marcc-hpc/biobakery/latest/2020-02-12-ee378bf5-ad88ff07/ad88ff07845498ebb23df92d8398b393.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/biobakery/latest/2020-02-12-ee378bf5-ad88ff07/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/biobakery/latest/2020-02-12-ee378bf5-ad88ff07/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/biobakery/latest/2020-02-12-ee378bf5-ad88ff07/Singularity
 collection: marcc-hpc/biobakery
 ---

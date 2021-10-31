@@ -9,7 +9,7 @@ build_date: "2020-10-06T11:25:21.052Z"
 size_mb: 3515.0
 size: 1782345759
 sif: "https://datasets.datalad.org/shub/MatthiasEb/neurovista_evaluation/nv_eval/2020-10-06-ffc3538d-22e03320/22e033203321ace4c280b1b9b96bf78d.sif"
-url: https://datasets.datalad.org/shub/MatthiasEb/neurovista_evaluation/nv_eval/2020-10-06-ffc3538d-22e03320/
+datalad_url: https://datasets.datalad.org?dir=/shub/MatthiasEb/neurovista_evaluation/nv_eval/2020-10-06-ffc3538d-22e03320/
 recipe: https://datasets.datalad.org/shub/MatthiasEb/neurovista_evaluation/nv_eval/2020-10-06-ffc3538d-22e03320/Singularity
 collection: MatthiasEb/neurovista_evaluation
 ---

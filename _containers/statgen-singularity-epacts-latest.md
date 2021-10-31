@@ -9,7 +9,7 @@ build_date: "2018-11-29T17:21:08.898Z"
 size_mb: 1207
 size: 580218911
 sif: "https://datasets.datalad.org/shub/statgen/singularity-epacts/latest/2018-11-29-668553aa-28d9e7ba/28d9e7ba258d492e8c9f682ccbed0b8d.simg"
-url: https://datasets.datalad.org/shub/statgen/singularity-epacts/latest/2018-11-29-668553aa-28d9e7ba/
+datalad_url: https://datasets.datalad.org?dir=/shub/statgen/singularity-epacts/latest/2018-11-29-668553aa-28d9e7ba/
 recipe: https://datasets.datalad.org/shub/statgen/singularity-epacts/latest/2018-11-29-668553aa-28d9e7ba/Singularity
 collection: statgen/singularity-epacts
 ---

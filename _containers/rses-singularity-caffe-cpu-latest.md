@@ -9,7 +9,7 @@ build_date: "2018-02-09T16:52:41.763Z"
 size_mb: 1697
 size: 621101087
 sif: "https://datasets.datalad.org/shub/rses-singularity/caffe-cpu/latest/2018-02-09-3c2683ab-c74103ae/c74103aef8ab673215b42ae7776143b2.simg"
-url: https://datasets.datalad.org/shub/rses-singularity/caffe-cpu/latest/2018-02-09-3c2683ab-c74103ae/
+datalad_url: https://datasets.datalad.org?dir=/shub/rses-singularity/caffe-cpu/latest/2018-02-09-3c2683ab-c74103ae/
 recipe: https://datasets.datalad.org/shub/rses-singularity/caffe-cpu/latest/2018-02-09-3c2683ab-c74103ae/Singularity
 collection: rses-singularity/caffe-cpu
 ---

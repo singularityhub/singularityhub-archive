@@ -9,7 +9,7 @@ build_date: "2018-08-17T19:45:46.296Z"
 size_mb: 295
 size: 86765599
 sif: "https://datasets.datalad.org/shub/vxiongc/test/latest/2018-08-17-e320218e-247b38e9/247b38e95e2ced2af3a434445abf49ae.simg"
-url: https://datasets.datalad.org/shub/vxiongc/test/latest/2018-08-17-e320218e-247b38e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/vxiongc/test/latest/2018-08-17-e320218e-247b38e9/
 recipe: https://datasets.datalad.org/shub/vxiongc/test/latest/2018-08-17-e320218e-247b38e9/Singularity
 collection: vxiongc/test
 ---

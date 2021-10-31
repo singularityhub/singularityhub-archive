@@ -9,7 +9,7 @@ build_date: "2019-11-05T23:27:14.395Z"
 size_mb: 23724.0
 size: 6334394399
 sif: "https://datasets.datalad.org/shub/msk-cer/CER_scripts/homer/2019-11-05-de4ffbde-8b599512/8b599512fe42aed07b84fc824ffa17f5.sif"
-url: https://datasets.datalad.org/shub/msk-cer/CER_scripts/homer/2019-11-05-de4ffbde-8b599512/
+datalad_url: https://datasets.datalad.org?dir=/shub/msk-cer/CER_scripts/homer/2019-11-05-de4ffbde-8b599512/
 recipe: https://datasets.datalad.org/shub/msk-cer/CER_scripts/homer/2019-11-05-de4ffbde-8b599512/Singularity
 collection: msk-cer/CER_scripts
 ---

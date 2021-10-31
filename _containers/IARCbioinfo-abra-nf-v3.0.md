@@ -9,7 +9,7 @@ build_date: "2020-07-13T14:50:58.413Z"
 size_mb: 931.0
 size: 409075743
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/abra-nf/v3.0/2020-07-13-93ab59f6-b9c84426/b9c8442690e46da621018bca0f0e2d34.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/abra-nf/v3.0/2020-07-13-93ab59f6-b9c84426/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/abra-nf/v3.0/2020-07-13-93ab59f6-b9c84426/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/abra-nf/v3.0/2020-07-13-93ab59f6-b9c84426/Singularity
 collection: IARCbioinfo/abra-nf
 ---

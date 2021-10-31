@@ -9,7 +9,7 @@ build_date: "2019-07-16T20:46:14.889Z"
 size_mb: 2391
 size: 755355679
 sif: "https://datasets.datalad.org/shub/LokiLuciferase/buchstabensuppe/latest/2019-07-16-21e86401-8172bc65/8172bc65e6fcda9813e6e0cf6b3ec833.simg"
-url: https://datasets.datalad.org/shub/LokiLuciferase/buchstabensuppe/latest/2019-07-16-21e86401-8172bc65/
+datalad_url: https://datasets.datalad.org?dir=/shub/LokiLuciferase/buchstabensuppe/latest/2019-07-16-21e86401-8172bc65/
 recipe: https://datasets.datalad.org/shub/LokiLuciferase/buchstabensuppe/latest/2019-07-16-21e86401-8172bc65/Singularity
 collection: LokiLuciferase/buchstabensuppe
 ---

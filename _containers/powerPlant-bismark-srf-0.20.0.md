@@ -9,7 +9,7 @@ build_date: "2019-02-05T05:54:32.365Z"
 size_mb: 288
 size: 102805535
 sif: "https://datasets.datalad.org/shub/powerPlant/bismark-srf/0.20.0/2019-02-05-7e407f11-37af8413/37af84131357c5f2a0c40ed165cc2098.simg"
-url: https://datasets.datalad.org/shub/powerPlant/bismark-srf/0.20.0/2019-02-05-7e407f11-37af8413/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/bismark-srf/0.20.0/2019-02-05-7e407f11-37af8413/
 recipe: https://datasets.datalad.org/shub/powerPlant/bismark-srf/0.20.0/2019-02-05-7e407f11-37af8413/Singularity
 collection: powerPlant/bismark-srf
 ---

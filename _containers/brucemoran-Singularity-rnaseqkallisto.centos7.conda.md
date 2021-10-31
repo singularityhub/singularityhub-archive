@@ -9,7 +9,7 @@ build_date: "2021-01-29T10:33:45.878Z"
 size_mb: 3867.0
 size: 1540698143
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/rnaseqkallisto.centos7.conda/2021-01-29-5b421365-8b513f49/8b513f49fed18aabe712f3b341a5334e.sif"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/rnaseqkallisto.centos7.conda/2021-01-29-5b421365-8b513f49/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/rnaseqkallisto.centos7.conda/2021-01-29-5b421365-8b513f49/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/rnaseqkallisto.centos7.conda/2021-01-29-5b421365-8b513f49/Singularity
 collection: brucemoran/Singularity
 ---

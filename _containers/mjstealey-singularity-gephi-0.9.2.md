@@ -9,7 +9,7 @@ build_date: "2018-05-10T18:22:40.280Z"
 size_mb: 792
 size: 380731423
 sif: "https://datasets.datalad.org/shub/mjstealey/singularity-gephi/0.9.2/2018-05-10-43af25da-30db044f/30db044f6604d34126ebba1a4d799817.simg"
-url: https://datasets.datalad.org/shub/mjstealey/singularity-gephi/0.9.2/2018-05-10-43af25da-30db044f/
+datalad_url: https://datasets.datalad.org?dir=/shub/mjstealey/singularity-gephi/0.9.2/2018-05-10-43af25da-30db044f/
 recipe: https://datasets.datalad.org/shub/mjstealey/singularity-gephi/0.9.2/2018-05-10-43af25da-30db044f/Singularity
 collection: mjstealey/singularity-gephi
 ---

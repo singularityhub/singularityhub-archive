@@ -9,7 +9,7 @@ build_date: "2018-08-16T15:31:16.413Z"
 size_mb: 3108
 size: 1129033759
 sif: "https://datasets.datalad.org/shub/shots47s/MAGetBrain_Sinularity/latest/2018-08-16-67bf7252-32eedb42/32eedb420f967346ddc4486b24c9d80c.simg"
-url: https://datasets.datalad.org/shub/shots47s/MAGetBrain_Sinularity/latest/2018-08-16-67bf7252-32eedb42/
+datalad_url: https://datasets.datalad.org?dir=/shub/shots47s/MAGetBrain_Sinularity/latest/2018-08-16-67bf7252-32eedb42/
 recipe: https://datasets.datalad.org/shub/shots47s/MAGetBrain_Sinularity/latest/2018-08-16-67bf7252-32eedb42/Singularity
 collection: shots47s/MAGetBrain_Sinularity
 ---

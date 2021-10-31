@@ -9,7 +9,7 @@ build_date: "2020-04-05T12:01:06.977Z"
 size_mb: 8334.0
 size: 2609201183
 sif: "https://datasets.datalad.org/shub/guy1ziv2/GEDI_to_GEE/latest/2020-04-05-83c014dc-01960c39/01960c396c9b19f9a9d3023d6acb514c.sif"
-url: https://datasets.datalad.org/shub/guy1ziv2/GEDI_to_GEE/latest/2020-04-05-83c014dc-01960c39/
+datalad_url: https://datasets.datalad.org?dir=/shub/guy1ziv2/GEDI_to_GEE/latest/2020-04-05-83c014dc-01960c39/
 recipe: https://datasets.datalad.org/shub/guy1ziv2/GEDI_to_GEE/latest/2020-04-05-83c014dc-01960c39/Singularity
 collection: guy1ziv2/GEDI_to_GEE
 ---

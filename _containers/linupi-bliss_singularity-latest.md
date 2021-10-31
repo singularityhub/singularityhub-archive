@@ -9,7 +9,7 @@ build_date: "2020-06-15T08:28:04.439Z"
 size_mb: 626.0
 size: 267014175
 sif: "https://datasets.datalad.org/shub/linupi/bliss_singularity/latest/2020-06-15-37a0f64f-41af0872/41af0872175c38b443dbefcfceddc34a.sif"
-url: https://datasets.datalad.org/shub/linupi/bliss_singularity/latest/2020-06-15-37a0f64f-41af0872/
+datalad_url: https://datasets.datalad.org?dir=/shub/linupi/bliss_singularity/latest/2020-06-15-37a0f64f-41af0872/
 recipe: https://datasets.datalad.org/shub/linupi/bliss_singularity/latest/2020-06-15-37a0f64f-41af0872/Singularity
 collection: linupi/bliss_singularity
 ---

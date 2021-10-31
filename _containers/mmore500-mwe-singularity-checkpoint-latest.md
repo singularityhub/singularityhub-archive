@@ -9,7 +9,7 @@ build_date: "2021-01-02T05:24:22.408Z"
 size_mb: 521
 size: 196026399
 sif: "https://datasets.datalad.org/shub/mmore500/mwe-singularity-checkpoint/latest/2021-01-02-a0fd72d3-ef522210/ef5222109d966a597873ce04ca2b3a7c.simg"
-url: https://datasets.datalad.org/shub/mmore500/mwe-singularity-checkpoint/latest/2021-01-02-a0fd72d3-ef522210/
+datalad_url: https://datasets.datalad.org?dir=/shub/mmore500/mwe-singularity-checkpoint/latest/2021-01-02-a0fd72d3-ef522210/
 recipe: https://datasets.datalad.org/shub/mmore500/mwe-singularity-checkpoint/latest/2021-01-02-a0fd72d3-ef522210/Singularity
 collection: mmore500/mwe-singularity-checkpoint
 ---

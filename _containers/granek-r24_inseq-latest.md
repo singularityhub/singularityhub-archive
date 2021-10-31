@@ -9,7 +9,7 @@ build_date: "2019-06-25T19:01:24.770Z"
 size_mb: 2041
 size: 547917855
 sif: "https://datasets.datalad.org/shub/granek/r24_inseq/latest/2019-06-25-5e81c8cd-a8af2f7e/a8af2f7e341aaa78f1e3a957ab804b53.simg"
-url: https://datasets.datalad.org/shub/granek/r24_inseq/latest/2019-06-25-5e81c8cd-a8af2f7e/
+datalad_url: https://datasets.datalad.org?dir=/shub/granek/r24_inseq/latest/2019-06-25-5e81c8cd-a8af2f7e/
 recipe: https://datasets.datalad.org/shub/granek/r24_inseq/latest/2019-06-25-5e81c8cd-a8af2f7e/Singularity
 collection: granek/r24_inseq
 ---

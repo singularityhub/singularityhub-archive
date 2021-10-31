@@ -9,7 +9,7 @@ build_date: "2021-04-16T16:44:05.065Z"
 size_mb: 4040.55078125
 size: 4236824576
 sif: "https://datasets.datalad.org/shub/josephwkania/radio_transients/latest/2021-04-16-196ce4bf-bbe343ed/bbe343ed6ae704f5ccd6af4e018b46f6a45c50933b108129371e5f381def1f7e.sif"
-url: https://datasets.datalad.org/shub/josephwkania/radio_transients/latest/2021-04-16-196ce4bf-bbe343ed/
+datalad_url: https://datasets.datalad.org?dir=/shub/josephwkania/radio_transients/latest/2021-04-16-196ce4bf-bbe343ed/
 recipe: https://datasets.datalad.org/shub/josephwkania/radio_transients/latest/2021-04-16-196ce4bf-bbe343ed/Singularity
 collection: josephwkania/radio_transients
 ---

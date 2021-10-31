@@ -9,7 +9,7 @@ build_date: "2019-05-17T08:23:25.035Z"
 size_mb: 3896
 size: 1715048479
 sif: "https://datasets.datalad.org/shub/baxpr/fmriqa/v4.2.0/2019-05-17-3ed4922a-4988bc3f/4988bc3ff97e7a79fc386cc3a2eb47c6.simg"
-url: https://datasets.datalad.org/shub/baxpr/fmriqa/v4.2.0/2019-05-17-3ed4922a-4988bc3f/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/fmriqa/v4.2.0/2019-05-17-3ed4922a-4988bc3f/
 recipe: https://datasets.datalad.org/shub/baxpr/fmriqa/v4.2.0/2019-05-17-3ed4922a-4988bc3f/Singularity
 collection: baxpr/fmriqa
 ---

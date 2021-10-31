@@ -9,7 +9,7 @@ build_date: "2018-03-04T02:27:33.656Z"
 size_mb: 4894
 size: 1751863327
 sif: "https://datasets.datalad.org/shub/raj76/singularity/genome-annotation/2018-03-04-73c71316-6d1c9fe6/6d1c9fe6d9cd923641d6c30139d75340.simg"
-url: https://datasets.datalad.org/shub/raj76/singularity/genome-annotation/2018-03-04-73c71316-6d1c9fe6/
+datalad_url: https://datasets.datalad.org?dir=/shub/raj76/singularity/genome-annotation/2018-03-04-73c71316-6d1c9fe6/
 recipe: https://datasets.datalad.org/shub/raj76/singularity/genome-annotation/2018-03-04-73c71316-6d1c9fe6/Singularity
 collection: raj76/singularity
 ---

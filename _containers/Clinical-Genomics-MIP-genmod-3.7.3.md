@@ -9,7 +9,7 @@ build_date: "2019-10-21T13:36:10.969Z"
 size_mb: 644.0
 size: 239013919
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/genmod-3.7.3/2019-10-21-c3f00666-aea6fe0b/aea6fe0bb1123f9b9ac3c2106e359d70.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/genmod-3.7.3/2019-10-21-c3f00666-aea6fe0b/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/genmod-3.7.3/2019-10-21-c3f00666-aea6fe0b/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/genmod-3.7.3/2019-10-21-c3f00666-aea6fe0b/Singularity
 collection: Clinical-Genomics/MIP
 ---

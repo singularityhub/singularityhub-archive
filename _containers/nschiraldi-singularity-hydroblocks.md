@@ -9,7 +9,7 @@ build_date: "2020-03-16T20:22:31.118Z"
 size_mb: 6884.0
 size: 3043807263
 sif: "https://datasets.datalad.org/shub/nschiraldi/singularity/hydroblocks/2020-03-16-102b906e-58e9c711/58e9c7112a6e8b50beb859f7b7dbed78.sif"
-url: https://datasets.datalad.org/shub/nschiraldi/singularity/hydroblocks/2020-03-16-102b906e-58e9c711/
+datalad_url: https://datasets.datalad.org?dir=/shub/nschiraldi/singularity/hydroblocks/2020-03-16-102b906e-58e9c711/
 recipe: https://datasets.datalad.org/shub/nschiraldi/singularity/hydroblocks/2020-03-16-102b906e-58e9c711/Singularity
 collection: nschiraldi/singularity
 ---

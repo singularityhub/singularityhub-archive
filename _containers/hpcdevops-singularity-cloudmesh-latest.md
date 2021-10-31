@@ -9,7 +9,7 @@ build_date: "2018-07-28T02:46:38.750Z"
 size_mb: 754
 size: 273322015
 sif: "https://datasets.datalad.org/shub/hpcdevops/singularity-cloudmesh/latest/2018-07-28-8381fb1a-cbb87316/cbb87316bfbd1d1214659ea7e3690a60.simg"
-url: https://datasets.datalad.org/shub/hpcdevops/singularity-cloudmesh/latest/2018-07-28-8381fb1a-cbb87316/
+datalad_url: https://datasets.datalad.org?dir=/shub/hpcdevops/singularity-cloudmesh/latest/2018-07-28-8381fb1a-cbb87316/
 recipe: https://datasets.datalad.org/shub/hpcdevops/singularity-cloudmesh/latest/2018-07-28-8381fb1a-cbb87316/Singularity
 collection: hpcdevops/singularity-cloudmesh
 ---

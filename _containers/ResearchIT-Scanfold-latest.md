@@ -9,7 +9,7 @@ build_date: "2019-05-02T19:59:05.855Z"
 size_mb: 996
 size: 345993247
 sif: "https://datasets.datalad.org/shub/ResearchIT/Scanfold/latest/2019-05-02-2c0c9b48-9b8d0b18/9b8d0b18bad4f87206c9e829500857c3.simg"
-url: https://datasets.datalad.org/shub/ResearchIT/Scanfold/latest/2019-05-02-2c0c9b48-9b8d0b18/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchIT/Scanfold/latest/2019-05-02-2c0c9b48-9b8d0b18/
 recipe: https://datasets.datalad.org/shub/ResearchIT/Scanfold/latest/2019-05-02-2c0c9b48-9b8d0b18/Singularity
 collection: ResearchIT/Scanfold
 ---

@@ -9,7 +9,7 @@ build_date: "2019-09-18T18:32:21.947Z"
 size_mb: 297.9453125
 size: 312418304
 sif: "https://datasets.datalad.org/shub/kasbohm/dash-server/def/2019-09-18-a055e67b-cbeb7c7c/cbeb7c7caf77d3afc0dbcee943c1fe16285ba3db2a19d92310d43d095c037ba8.sif"
-url: https://datasets.datalad.org/shub/kasbohm/dash-server/def/2019-09-18-a055e67b-cbeb7c7c/
+datalad_url: https://datasets.datalad.org?dir=/shub/kasbohm/dash-server/def/2019-09-18-a055e67b-cbeb7c7c/
 recipe: https://datasets.datalad.org/shub/kasbohm/dash-server/def/2019-09-18-a055e67b-cbeb7c7c/Singularity
 collection: kasbohm/dash-server
 ---

@@ -9,7 +9,7 @@ build_date: "2018-10-10T10:52:37.748Z"
 size_mb: 2595
 size: 1014231071
 sif: "https://datasets.datalad.org/shub/bahlolab/nf-wgs-multiqc/v0.1/2018-10-10-df387159-2a8fae66/2a8fae66d98f76485a38ac5874558327.simg"
-url: https://datasets.datalad.org/shub/bahlolab/nf-wgs-multiqc/v0.1/2018-10-10-df387159-2a8fae66/
+datalad_url: https://datasets.datalad.org?dir=/shub/bahlolab/nf-wgs-multiqc/v0.1/2018-10-10-df387159-2a8fae66/
 recipe: https://datasets.datalad.org/shub/bahlolab/nf-wgs-multiqc/v0.1/2018-10-10-df387159-2a8fae66/Singularity
 collection: bahlolab/nf-wgs-multiqc
 ---

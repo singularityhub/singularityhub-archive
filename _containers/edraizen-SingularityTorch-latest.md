@@ -9,7 +9,7 @@ build_date: "2021-03-31T16:12:15.101Z"
 size_mb: 6013.13671875
 size: 6305230848
 sif: "https://datasets.datalad.org/shub/edraizen/SingularityTorch/latest/2021-03-31-88166cfa-d8ad5202/d8ad5202d25bc3af643c4090ec4cfa898f325ce6885683d0cba6f8ad9dab7807.sif"
-url: https://datasets.datalad.org/shub/edraizen/SingularityTorch/latest/2021-03-31-88166cfa-d8ad5202/
+datalad_url: https://datasets.datalad.org?dir=/shub/edraizen/SingularityTorch/latest/2021-03-31-88166cfa-d8ad5202/
 recipe: https://datasets.datalad.org/shub/edraizen/SingularityTorch/latest/2021-03-31-88166cfa-d8ad5202/Singularity
 collection: edraizen/SingularityTorch
 ---

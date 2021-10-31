@@ -9,7 +9,7 @@ build_date: "2018-07-24T21:22:23.445Z"
 size_mb: 1024
 size: 394694687
 sif: "https://datasets.datalad.org/shub/cshelton/devcontainer/latest/2018-07-24-27a87660-4aed9d55/4aed9d5516482d1604c8aa62f504709e.simg"
-url: https://datasets.datalad.org/shub/cshelton/devcontainer/latest/2018-07-24-27a87660-4aed9d55/
+datalad_url: https://datasets.datalad.org?dir=/shub/cshelton/devcontainer/latest/2018-07-24-27a87660-4aed9d55/
 recipe: https://datasets.datalad.org/shub/cshelton/devcontainer/latest/2018-07-24-27a87660-4aed9d55/Singularity
 collection: cshelton/devcontainer
 ---

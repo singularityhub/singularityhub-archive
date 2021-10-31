@@ -9,7 +9,7 @@ build_date: "2020-10-21T09:07:15.050Z"
 size_mb: 1386.0
 size: 526888991
 sif: "https://datasets.datalad.org/shub/hexmek/container/metamvgl/2020-10-21-427b5911-9556dc90/9556dc90ce1ea22ccf41c85e1e9f2292.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/metamvgl/2020-10-21-427b5911-9556dc90/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/metamvgl/2020-10-21-427b5911-9556dc90/
 recipe: https://datasets.datalad.org/shub/hexmek/container/metamvgl/2020-10-21-427b5911-9556dc90/Singularity
 collection: hexmek/container
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-22T18:58:13.831Z"
 size_mb: 180
 size: 696351
 sif: "https://datasets.datalad.org/shub/singularityhub/busybox/latest/2020-10-22-5dee487e-96563a1e/96563a1ee2a3d9dbd082efb8d263fc09.simg"
-url: https://datasets.datalad.org/shub/singularityhub/busybox/latest/2020-10-22-5dee487e-96563a1e/
+datalad_url: https://datasets.datalad.org?dir=/shub/singularityhub/busybox/latest/2020-10-22-5dee487e-96563a1e/
 recipe: https://datasets.datalad.org/shub/singularityhub/busybox/latest/2020-10-22-5dee487e-96563a1e/Singularity
 collection: singularityhub/busybox
 ---

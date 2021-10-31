@@ -9,7 +9,7 @@ build_date: "2018-08-31T18:06:37.436Z"
 size_mb: 220
 size: 93384735
 sif: "https://datasets.datalad.org/shub/ppaquette/img.cowsay/latest/2018-08-31-084e7a44-956687f6/956687f6064198acc18996fff8dfb93a.simg"
-url: https://datasets.datalad.org/shub/ppaquette/img.cowsay/latest/2018-08-31-084e7a44-956687f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/ppaquette/img.cowsay/latest/2018-08-31-084e7a44-956687f6/
 recipe: https://datasets.datalad.org/shub/ppaquette/img.cowsay/latest/2018-08-31-084e7a44-956687f6/Singularity
 collection: ppaquette/img.cowsay
 ---

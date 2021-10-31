@@ -9,7 +9,7 @@ build_date: "2021-04-12T20:20:33.479Z"
 size_mb: 19275.0
 size: 4549029919
 sif: "https://datasets.datalad.org/shub/hariszaf/pema/v.2.1.0/2021-04-12-e7cda1a7-86373c1a/86373c1ac348dc89211396341ef29f74.sif"
-url: https://datasets.datalad.org/shub/hariszaf/pema/v.2.1.0/2021-04-12-e7cda1a7-86373c1a/
+datalad_url: https://datasets.datalad.org?dir=/shub/hariszaf/pema/v.2.1.0/2021-04-12-e7cda1a7-86373c1a/
 recipe: https://datasets.datalad.org/shub/hariszaf/pema/v.2.1.0/2021-04-12-e7cda1a7-86373c1a/Singularity
 collection: hariszaf/pema
 ---

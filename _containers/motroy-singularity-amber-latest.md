@@ -9,7 +9,7 @@ build_date: "2019-09-11T01:28:23.371Z"
 size_mb: 965
 size: 405594143
 sif: "https://datasets.datalad.org/shub/motroy/singularity-amber/latest/2019-09-11-f556b2b9-0c162936/0c1629363bfd44376c498ed13a9d9f73.simg"
-url: https://datasets.datalad.org/shub/motroy/singularity-amber/latest/2019-09-11-f556b2b9-0c162936/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-amber/latest/2019-09-11-f556b2b9-0c162936/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-amber/latest/2019-09-11-f556b2b9-0c162936/Singularity
 collection: motroy/singularity-amber
 ---

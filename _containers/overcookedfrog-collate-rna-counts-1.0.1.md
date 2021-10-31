@@ -9,7 +9,7 @@ build_date: "2018-07-02T14:24:04.430Z"
 size_mb: 118
 size: 89751583
 sif: "https://datasets.datalad.org/shub/overcookedfrog/collate-rna-counts/1.0.1/2018-07-02-a917b3f6-a6e33aac/a6e33aac9cad521a768faf58db0ae309.simg"
-url: https://datasets.datalad.org/shub/overcookedfrog/collate-rna-counts/1.0.1/2018-07-02-a917b3f6-a6e33aac/
+datalad_url: https://datasets.datalad.org?dir=/shub/overcookedfrog/collate-rna-counts/1.0.1/2018-07-02-a917b3f6-a6e33aac/
 recipe: https://datasets.datalad.org/shub/overcookedfrog/collate-rna-counts/1.0.1/2018-07-02-a917b3f6-a6e33aac/Singularity
 collection: overcookedfrog/collate-rna-counts
 ---

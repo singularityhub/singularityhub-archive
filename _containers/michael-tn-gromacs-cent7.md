@@ -9,7 +9,7 @@ build_date: "2020-04-08T22:34:08.990Z"
 size_mb: 1461
 size: 523989023
 sif: "https://datasets.datalad.org/shub/michael-tn/gromacs/cent7/2020-04-08-94cb0aa2-79802a4b/79802a4b1620f678bf36c4bb5e3d8665.simg"
-url: https://datasets.datalad.org/shub/michael-tn/gromacs/cent7/2020-04-08-94cb0aa2-79802a4b/
+datalad_url: https://datasets.datalad.org?dir=/shub/michael-tn/gromacs/cent7/2020-04-08-94cb0aa2-79802a4b/
 recipe: https://datasets.datalad.org/shub/michael-tn/gromacs/cent7/2020-04-08-94cb0aa2-79802a4b/Singularity
 collection: michael-tn/gromacs
 ---

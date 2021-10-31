@@ -9,7 +9,7 @@ build_date: "2019-08-09T17:53:58.287Z"
 size_mb: 532.0
 size: 210862111
 sif: "https://datasets.datalad.org/shub/Lianxiali/build_container_on_shub/latest/2019-08-09-19c35336-d8eb48fb/d8eb48fbbfa786b15147216211b4a679.sif"
-url: https://datasets.datalad.org/shub/Lianxiali/build_container_on_shub/latest/2019-08-09-19c35336-d8eb48fb/
+datalad_url: https://datasets.datalad.org?dir=/shub/Lianxiali/build_container_on_shub/latest/2019-08-09-19c35336-d8eb48fb/
 recipe: https://datasets.datalad.org/shub/Lianxiali/build_container_on_shub/latest/2019-08-09-19c35336-d8eb48fb/Singularity
 collection: Lianxiali/build_container_on_shub
 ---

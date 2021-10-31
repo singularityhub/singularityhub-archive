@@ -9,7 +9,7 @@ build_date: "2020-07-15T07:45:54.564Z"
 size_mb: 2047.0
 size: 1022791711
 sif: "https://datasets.datalad.org/shub/ikmb/ensembl-api/latest/2020-07-15-7c7a2686-586a9124/586a9124fa0a940b0a386c2d6e187fb2.sif"
-url: https://datasets.datalad.org/shub/ikmb/ensembl-api/latest/2020-07-15-7c7a2686-586a9124/
+datalad_url: https://datasets.datalad.org?dir=/shub/ikmb/ensembl-api/latest/2020-07-15-7c7a2686-586a9124/
 recipe: https://datasets.datalad.org/shub/ikmb/ensembl-api/latest/2020-07-15-7c7a2686-586a9124/Singularity
 collection: ikmb/ensembl-api
 ---

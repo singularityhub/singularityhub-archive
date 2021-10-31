@@ -9,7 +9,7 @@ build_date: "2018-05-14T19:29:32.160Z"
 size_mb: 687
 size: 189034527
 sif: "https://datasets.datalad.org/shub/ISU-HPC/SALSA/latest/2018-05-14-101155ac-dc53c459/dc53c4592b68000aa48acccd718e3b02.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/SALSA/latest/2018-05-14-101155ac-dc53c459/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/SALSA/latest/2018-05-14-101155ac-dc53c459/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/SALSA/latest/2018-05-14-101155ac-dc53c459/Singularity
 collection: ISU-HPC/SALSA
 ---

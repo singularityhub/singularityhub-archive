@@ -9,7 +9,7 @@ build_date: "2021-03-04T16:52:02.151Z"
 size_mb: 3123.0
 size: 970518559
 sif: "https://datasets.datalad.org/shub/0luhancheng0/hpccm-containers/jbrowse/2021-03-04-519d6188-0bfd3a91/0bfd3a9124488f5a5e09ccd38b195db2.sif"
-url: https://datasets.datalad.org/shub/0luhancheng0/hpccm-containers/jbrowse/2021-03-04-519d6188-0bfd3a91/
+datalad_url: https://datasets.datalad.org?dir=/shub/0luhancheng0/hpccm-containers/jbrowse/2021-03-04-519d6188-0bfd3a91/
 recipe: https://datasets.datalad.org/shub/0luhancheng0/hpccm-containers/jbrowse/2021-03-04-519d6188-0bfd3a91/Singularity
 collection: 0luhancheng0/hpccm-containers
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-30T14:25:11.230Z"
 size_mb: 1398
 size: 522846239
 sif: "https://datasets.datalad.org/shub/drewpolasky/energyplus_aci/latest/2020-06-30-880beab5-0701040c/0701040cb1e397916b8e0044d5b223e2.simg"
-url: https://datasets.datalad.org/shub/drewpolasky/energyplus_aci/latest/2020-06-30-880beab5-0701040c/
+datalad_url: https://datasets.datalad.org?dir=/shub/drewpolasky/energyplus_aci/latest/2020-06-30-880beab5-0701040c/
 recipe: https://datasets.datalad.org/shub/drewpolasky/energyplus_aci/latest/2020-06-30-880beab5-0701040c/Singularity
 collection: drewpolasky/energyplus_aci
 ---

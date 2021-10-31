@@ -9,7 +9,7 @@ build_date: "2020-09-14T23:51:39.187Z"
 size_mb: 900.0
 size: 386162719
 sif: "https://datasets.datalad.org/shub/Tianhao1108/singularity/recipe/2020-09-14-1258b441-6e486682/6e4866825401cbc8e5732bf53d66effc.sif"
-url: https://datasets.datalad.org/shub/Tianhao1108/singularity/recipe/2020-09-14-1258b441-6e486682/
+datalad_url: https://datasets.datalad.org?dir=/shub/Tianhao1108/singularity/recipe/2020-09-14-1258b441-6e486682/
 recipe: https://datasets.datalad.org/shub/Tianhao1108/singularity/recipe/2020-09-14-1258b441-6e486682/Singularity
 collection: Tianhao1108/singularity
 ---

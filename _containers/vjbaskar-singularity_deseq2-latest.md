@@ -9,7 +9,7 @@ build_date: "2020-03-03T16:34:28.776Z"
 size_mb: 1986.0
 size: 619221023
 sif: "https://datasets.datalad.org/shub/vjbaskar/singularity_deseq2/latest/2020-03-03-e98584a1-33106ba6/33106ba6b94b71491f9548ec1fb8e611.sif"
-url: https://datasets.datalad.org/shub/vjbaskar/singularity_deseq2/latest/2020-03-03-e98584a1-33106ba6/
+datalad_url: https://datasets.datalad.org?dir=/shub/vjbaskar/singularity_deseq2/latest/2020-03-03-e98584a1-33106ba6/
 recipe: https://datasets.datalad.org/shub/vjbaskar/singularity_deseq2/latest/2020-03-03-e98584a1-33106ba6/Singularity
 collection: vjbaskar/singularity_deseq2
 ---

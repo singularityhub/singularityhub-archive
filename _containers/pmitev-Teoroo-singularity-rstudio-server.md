@@ -9,7 +9,7 @@ build_date: "2021-03-02T17:58:46.382Z"
 size_mb: 1878.0
 size: 504680479
 sif: "https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/rstudio-server/2021-03-02-a29cc4a4-76eeec33/76eeec3321b4b40b9d4a284520a374de.sif"
-url: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/rstudio-server/2021-03-02-a29cc4a4-76eeec33/
+datalad_url: https://datasets.datalad.org?dir=/shub/pmitev/Teoroo-singularity/rstudio-server/2021-03-02-a29cc4a4-76eeec33/
 recipe: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/rstudio-server/2021-03-02-a29cc4a4-76eeec33/Singularity
 collection: pmitev/Teoroo-singularity
 ---

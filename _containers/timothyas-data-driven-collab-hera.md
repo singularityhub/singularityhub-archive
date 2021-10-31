@@ -9,7 +9,7 @@ build_date: "2021-02-11T03:31:54.277Z"
 size_mb: 5649.0
 size: 3151859743
 sif: "https://datasets.datalad.org/shub/timothyas/data-driven-collab/hera/2021-02-11-9ba52434-0c98ab29/0c98ab294fd3ea79a36b4754dfc13b72.sif"
-url: https://datasets.datalad.org/shub/timothyas/data-driven-collab/hera/2021-02-11-9ba52434-0c98ab29/
+datalad_url: https://datasets.datalad.org?dir=/shub/timothyas/data-driven-collab/hera/2021-02-11-9ba52434-0c98ab29/
 recipe: https://datasets.datalad.org/shub/timothyas/data-driven-collab/hera/2021-02-11-9ba52434-0c98ab29/Singularity
 collection: timothyas/data-driven-collab
 ---

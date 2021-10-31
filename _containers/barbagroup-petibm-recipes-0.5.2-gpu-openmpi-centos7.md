@@ -9,7 +9,7 @@ build_date: "2020-09-10T13:12:22.352Z"
 size_mb: 2278.0
 size: 957071391
 sif: "https://datasets.datalad.org/shub/barbagroup/petibm-recipes/0.5.2-gpu-openmpi-centos7/2020-09-10-a6c69595-ec43bd0e/ec43bd0e74edd7324093913fab6b709c.sif"
-url: https://datasets.datalad.org/shub/barbagroup/petibm-recipes/0.5.2-gpu-openmpi-centos7/2020-09-10-a6c69595-ec43bd0e/
+datalad_url: https://datasets.datalad.org?dir=/shub/barbagroup/petibm-recipes/0.5.2-gpu-openmpi-centos7/2020-09-10-a6c69595-ec43bd0e/
 recipe: https://datasets.datalad.org/shub/barbagroup/petibm-recipes/0.5.2-gpu-openmpi-centos7/2020-09-10-a6c69595-ec43bd0e/Singularity
 collection: barbagroup/petibm-recipes
 ---

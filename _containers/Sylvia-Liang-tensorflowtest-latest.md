@@ -9,7 +9,7 @@ build_date: "2019-02-01T19:07:43.737Z"
 size_mb: 8264
 size: 3713118239
 sif: "https://datasets.datalad.org/shub/Sylvia-Liang/tensorflowtest/latest/2019-02-01-70315b96-9a7e7418/9a7e74186ef536284281b8111970c340.simg"
-url: https://datasets.datalad.org/shub/Sylvia-Liang/tensorflowtest/latest/2019-02-01-70315b96-9a7e7418/
+datalad_url: https://datasets.datalad.org?dir=/shub/Sylvia-Liang/tensorflowtest/latest/2019-02-01-70315b96-9a7e7418/
 recipe: https://datasets.datalad.org/shub/Sylvia-Liang/tensorflowtest/latest/2019-02-01-70315b96-9a7e7418/Singularity
 collection: Sylvia-Liang/tensorflowtest
 ---

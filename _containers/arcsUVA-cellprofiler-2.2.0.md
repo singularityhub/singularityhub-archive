@@ -9,7 +9,7 @@ build_date: "2019-02-14T21:05:18.255Z"
 size_mb: 1974
 size: 925454367
 sif: "https://datasets.datalad.org/shub/arcsUVA/cellprofiler/2.2.0/2019-02-14-28426a35-94024012/9402401296ebfb4a07e8c53c8d76f4f2.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/cellprofiler/2.2.0/2019-02-14-28426a35-94024012/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/cellprofiler/2.2.0/2019-02-14-28426a35-94024012/
 recipe: https://datasets.datalad.org/shub/arcsUVA/cellprofiler/2.2.0/2019-02-14-28426a35-94024012/Singularity
 collection: arcsUVA/cellprofiler
 ---

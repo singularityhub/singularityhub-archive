@@ -9,7 +9,7 @@ build_date: "2019-10-21T11:20:28.297Z"
 size_mb: 195
 size: 66613279
 sif: "https://datasets.datalad.org/shub/cibiobcg/PaCBAM/latest/2019-10-21-cfd0e136-319764b1/319764b19b846bcdabdcd761aed64c41.simg"
-url: https://datasets.datalad.org/shub/cibiobcg/PaCBAM/latest/2019-10-21-cfd0e136-319764b1/
+datalad_url: https://datasets.datalad.org?dir=/shub/cibiobcg/PaCBAM/latest/2019-10-21-cfd0e136-319764b1/
 recipe: https://datasets.datalad.org/shub/cibiobcg/PaCBAM/latest/2019-10-21-cfd0e136-319764b1/Singularity
 collection: cibiobcg/PaCBAM
 ---

@@ -9,7 +9,7 @@ build_date: "2019-07-27T08:14:02.049Z"
 size_mb: 208.0
 size: 92880927
 sif: "https://datasets.datalad.org/shub/singularityhub/ubuntu/latest/2019-07-27-badc772f-9b7990e5/9b7990e50a78b519f45a5971a36024ad.sif"
-url: https://datasets.datalad.org/shub/singularityhub/ubuntu/latest/2019-07-27-badc772f-9b7990e5/
+datalad_url: https://datasets.datalad.org?dir=/shub/singularityhub/ubuntu/latest/2019-07-27-badc772f-9b7990e5/
 recipe: https://datasets.datalad.org/shub/singularityhub/ubuntu/latest/2019-07-27-badc772f-9b7990e5/Singularity
 collection: singularityhub/ubuntu
 ---

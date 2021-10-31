@@ -9,7 +9,7 @@ build_date: "2020-11-11T22:42:55.400Z"
 size_mb: 6205.0
 size: 2759540767
 sif: "https://datasets.datalad.org/shub/nhartwic/salk-containers/fun/2020-11-11-7321cf71-f8a9fb24/f8a9fb24c7d799d4cb468d61c6d3b388.sif"
-url: https://datasets.datalad.org/shub/nhartwic/salk-containers/fun/2020-11-11-7321cf71-f8a9fb24/
+datalad_url: https://datasets.datalad.org?dir=/shub/nhartwic/salk-containers/fun/2020-11-11-7321cf71-f8a9fb24/
 recipe: https://datasets.datalad.org/shub/nhartwic/salk-containers/fun/2020-11-11-7321cf71-f8a9fb24/Singularity
 collection: nhartwic/salk-containers
 ---

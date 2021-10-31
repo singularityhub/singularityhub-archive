@@ -9,7 +9,7 @@ build_date: "2020-08-18T11:12:32.978Z"
 size_mb: 2114
 size: 1057726495
 sif: "https://datasets.datalad.org/shub/csiro-crop-informatics/nextflow-embl-abr-webinar/latest/2020-08-18-ad7d6aaf-47f45e30/47f45e3023dc4226e932fc7ea5c06ee4.simg"
-url: https://datasets.datalad.org/shub/csiro-crop-informatics/nextflow-embl-abr-webinar/latest/2020-08-18-ad7d6aaf-47f45e30/
+datalad_url: https://datasets.datalad.org?dir=/shub/csiro-crop-informatics/nextflow-embl-abr-webinar/latest/2020-08-18-ad7d6aaf-47f45e30/
 recipe: https://datasets.datalad.org/shub/csiro-crop-informatics/nextflow-embl-abr-webinar/latest/2020-08-18-ad7d6aaf-47f45e30/Singularity
 collection: csiro-crop-informatics/nextflow-embl-abr-webinar
 ---

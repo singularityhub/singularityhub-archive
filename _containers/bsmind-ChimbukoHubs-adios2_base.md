@@ -9,7 +9,7 @@ build_date: "2019-07-30T19:56:19.969Z"
 size_mb: 1977.0
 size: 946102303
 sif: "https://datasets.datalad.org/shub/bsmind/ChimbukoHubs/adios2_base/2019-07-30-295841df-3a25f2ab/3a25f2abc37f019d9e26e7876f18c92e.sif"
-url: https://datasets.datalad.org/shub/bsmind/ChimbukoHubs/adios2_base/2019-07-30-295841df-3a25f2ab/
+datalad_url: https://datasets.datalad.org?dir=/shub/bsmind/ChimbukoHubs/adios2_base/2019-07-30-295841df-3a25f2ab/
 recipe: https://datasets.datalad.org/shub/bsmind/ChimbukoHubs/adios2_base/2019-07-30-295841df-3a25f2ab/Singularity
 collection: bsmind/ChimbukoHubs
 ---

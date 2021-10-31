@@ -9,7 +9,7 @@ build_date: "2018-07-27T19:34:59.320Z"
 size_mb: 335
 size: 148439071
 sif: "https://datasets.datalad.org/shub/khanlab/dicom2tar/v0.0.2/2018-07-27-7a8338ed-a019a66a/a019a66ab360cc17b734f103f7a41607.simg"
-url: https://datasets.datalad.org/shub/khanlab/dicom2tar/v0.0.2/2018-07-27-7a8338ed-a019a66a/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/dicom2tar/v0.0.2/2018-07-27-7a8338ed-a019a66a/
 recipe: https://datasets.datalad.org/shub/khanlab/dicom2tar/v0.0.2/2018-07-27-7a8338ed-a019a66a/Singularity
 collection: khanlab/dicom2tar
 ---

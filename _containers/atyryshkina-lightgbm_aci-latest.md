@@ -9,7 +9,7 @@ build_date: "2019-12-10T19:31:35.952Z"
 size_mb: 4490.0
 size: 1812197407
 sif: "https://datasets.datalad.org/shub/atyryshkina/lightgbm_aci/latest/2019-12-10-e9b65d1b-75fba00c/75fba00cb3f6d078e20f94a264b292f2.sif"
-url: https://datasets.datalad.org/shub/atyryshkina/lightgbm_aci/latest/2019-12-10-e9b65d1b-75fba00c/
+datalad_url: https://datasets.datalad.org?dir=/shub/atyryshkina/lightgbm_aci/latest/2019-12-10-e9b65d1b-75fba00c/
 recipe: https://datasets.datalad.org/shub/atyryshkina/lightgbm_aci/latest/2019-12-10-e9b65d1b-75fba00c/Singularity
 collection: atyryshkina/lightgbm_aci
 ---

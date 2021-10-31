@@ -9,7 +9,7 @@ build_date: "2021-04-15T20:12:50.155Z"
 size_mb: 1303
 size: 500207647
 sif: "https://datasets.datalad.org/shub/magland/ml_ms4alg/v0.1.4/2021-04-15-357aa2a5-6815b503/6815b5036bf3368abbce3db4e97550de.simg"
-url: https://datasets.datalad.org/shub/magland/ml_ms4alg/v0.1.4/2021-04-15-357aa2a5-6815b503/
+datalad_url: https://datasets.datalad.org?dir=/shub/magland/ml_ms4alg/v0.1.4/2021-04-15-357aa2a5-6815b503/
 recipe: https://datasets.datalad.org/shub/magland/ml_ms4alg/v0.1.4/2021-04-15-357aa2a5-6815b503/Singularity
 collection: magland/ml_ms4alg
 ---

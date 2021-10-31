@@ -9,7 +9,7 @@ build_date: "2019-08-08T09:35:26.011Z"
 size_mb: 804
 size: 253988895
 sif: "https://datasets.datalad.org/shub/team113sanger/t113-singularity/kallisto__0.46.0__hb6a4e58_0/2019-08-08-6930ddc8-ba49e941/ba49e9417226f3adcd3ec641ff82b78a.simg"
-url: https://datasets.datalad.org/shub/team113sanger/t113-singularity/kallisto__0.46.0__hb6a4e58_0/2019-08-08-6930ddc8-ba49e941/
+datalad_url: https://datasets.datalad.org?dir=/shub/team113sanger/t113-singularity/kallisto__0.46.0__hb6a4e58_0/2019-08-08-6930ddc8-ba49e941/
 recipe: https://datasets.datalad.org/shub/team113sanger/t113-singularity/kallisto__0.46.0__hb6a4e58_0/2019-08-08-6930ddc8-ba49e941/Singularity
 collection: team113sanger/t113-singularity
 ---

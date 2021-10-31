@@ -9,7 +9,7 @@ build_date: "2021-03-17T14:26:46.655Z"
 size_mb: 99
 size: 46104607
 sif: "https://datasets.datalad.org/shub/darachm/singularity_bwa/latest/2021-03-17-7530cad6-f700be3d/f700be3d309d518105678a05c001076c.simg"
-url: https://datasets.datalad.org/shub/darachm/singularity_bwa/latest/2021-03-17-7530cad6-f700be3d/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_bwa/latest/2021-03-17-7530cad6-f700be3d/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_bwa/latest/2021-03-17-7530cad6-f700be3d/Singularity
 collection: darachm/singularity_bwa
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-24T18:16:22.555Z"
 size_mb: 6304.0
 size: 2833498143
 sif: "https://datasets.datalad.org/shub/Aexbrayat/snakescif/latest/2020-10-24-7c2349ae-05ffe760/05ffe76063511d067feea53a1cffb154.sif"
-url: https://datasets.datalad.org/shub/Aexbrayat/snakescif/latest/2020-10-24-7c2349ae-05ffe760/
+datalad_url: https://datasets.datalad.org?dir=/shub/Aexbrayat/snakescif/latest/2020-10-24-7c2349ae-05ffe760/
 recipe: https://datasets.datalad.org/shub/Aexbrayat/snakescif/latest/2020-10-24-7c2349ae-05ffe760/Singularity
 collection: Aexbrayat/snakescif
 ---

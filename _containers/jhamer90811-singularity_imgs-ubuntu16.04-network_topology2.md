@@ -9,7 +9,7 @@ build_date: "2018-08-08T16:16:09.162Z"
 size_mb: 3544
 size: 1063682079
 sif: "https://datasets.datalad.org/shub/jhamer90811/singularity_imgs/ubuntu16.04-network_topology2/2018-08-08-46cbac27-86cd6798/86cd67989ce9dae8c19acc94466522b2.simg"
-url: https://datasets.datalad.org/shub/jhamer90811/singularity_imgs/ubuntu16.04-network_topology2/2018-08-08-46cbac27-86cd6798/
+datalad_url: https://datasets.datalad.org?dir=/shub/jhamer90811/singularity_imgs/ubuntu16.04-network_topology2/2018-08-08-46cbac27-86cd6798/
 recipe: https://datasets.datalad.org/shub/jhamer90811/singularity_imgs/ubuntu16.04-network_topology2/2018-08-08-46cbac27-86cd6798/Singularity
 collection: jhamer90811/singularity_imgs
 ---

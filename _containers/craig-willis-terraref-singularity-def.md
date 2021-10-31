@@ -9,7 +9,7 @@ build_date: "2018-11-22T17:35:50.418Z"
 size_mb: 1553
 size: 610099231
 sif: "https://datasets.datalad.org/shub/craig-willis/terraref-singularity/def/2018-11-22-b292f11a-f6b4584a/f6b4584a5e26f9eddbfddb4ee24f5dbe.simg"
-url: https://datasets.datalad.org/shub/craig-willis/terraref-singularity/def/2018-11-22-b292f11a-f6b4584a/
+datalad_url: https://datasets.datalad.org?dir=/shub/craig-willis/terraref-singularity/def/2018-11-22-b292f11a-f6b4584a/
 recipe: https://datasets.datalad.org/shub/craig-willis/terraref-singularity/def/2018-11-22-b292f11a-f6b4584a/Singularity
 collection: craig-willis/terraref-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-23T23:32:49.228Z"
 size_mb: 2016
 size: 685105183
 sif: "https://datasets.datalad.org/shub/spono/gears-singularity/gears-lastools/2019-06-23-c60e58e7-5985eef7/5985eef75021026428aa99a50b18071a.simg"
-url: https://datasets.datalad.org/shub/spono/gears-singularity/gears-lastools/2019-06-23-c60e58e7-5985eef7/
+datalad_url: https://datasets.datalad.org?dir=/shub/spono/gears-singularity/gears-lastools/2019-06-23-c60e58e7-5985eef7/
 recipe: https://datasets.datalad.org/shub/spono/gears-singularity/gears-lastools/2019-06-23-c60e58e7-5985eef7/Singularity
 collection: spono/gears-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2018-01-10T06:32:43.264Z"
 size_mb: 6102
 size: 3810979871
 sif: "https://datasets.datalad.org/shub/UNR-CFB/lahontan/latest/2018-01-10-eb0abdec-108af695/108af69556c7ebff0047c9eb9757b4c0.simg"
-url: https://datasets.datalad.org/shub/UNR-CFB/lahontan/latest/2018-01-10-eb0abdec-108af695/
+datalad_url: https://datasets.datalad.org?dir=/shub/UNR-CFB/lahontan/latest/2018-01-10-eb0abdec-108af695/
 recipe: https://datasets.datalad.org/shub/UNR-CFB/lahontan/latest/2018-01-10-eb0abdec-108af695/Singularity
 collection: UNR-CFB/lahontan
 ---

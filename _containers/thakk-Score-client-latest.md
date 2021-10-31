@@ -9,7 +9,7 @@ build_date: "2020-02-13T13:48:25.683Z"
 size_mb: 236.0
 size: 108412959
 sif: "https://datasets.datalad.org/shub/thakk/Score-client/latest/2020-02-13-53174189-40d45f50/40d45f50fac70829a514b1db7dff2555.sif"
-url: https://datasets.datalad.org/shub/thakk/Score-client/latest/2020-02-13-53174189-40d45f50/
+datalad_url: https://datasets.datalad.org?dir=/shub/thakk/Score-client/latest/2020-02-13-53174189-40d45f50/
 recipe: https://datasets.datalad.org/shub/thakk/Score-client/latest/2020-02-13-53174189-40d45f50/Singularity
 collection: thakk/Score-client
 ---

@@ -9,7 +9,7 @@ build_date: "2020-02-24T16:42:07.055Z"
 size_mb: 397.0
 size: 155934751
 sif: "https://datasets.datalad.org/shub/micro-infrastructure/adaptor-srm2local/latest/2020-02-24-181dbbc7-ec5c1328/ec5c13289cf34b890c2b5de9385852f4.sif"
-url: https://datasets.datalad.org/shub/micro-infrastructure/adaptor-srm2local/latest/2020-02-24-181dbbc7-ec5c1328/
+datalad_url: https://datasets.datalad.org?dir=/shub/micro-infrastructure/adaptor-srm2local/latest/2020-02-24-181dbbc7-ec5c1328/
 recipe: https://datasets.datalad.org/shub/micro-infrastructure/adaptor-srm2local/latest/2020-02-24-181dbbc7-ec5c1328/Singularity
 collection: micro-infrastructure/adaptor-srm2local
 ---

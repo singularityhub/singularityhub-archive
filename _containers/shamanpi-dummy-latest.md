@@ -9,7 +9,7 @@ build_date: "2020-07-14T15:21:30.569Z"
 size_mb: 796.0
 size: 251617311
 sif: "https://datasets.datalad.org/shub/shamanpi/dummy/latest/2020-07-14-e6ccb97b-d3b23148/d3b23148e9a1eba5058609052b0fcdca.sif"
-url: https://datasets.datalad.org/shub/shamanpi/dummy/latest/2020-07-14-e6ccb97b-d3b23148/
+datalad_url: https://datasets.datalad.org?dir=/shub/shamanpi/dummy/latest/2020-07-14-e6ccb97b-d3b23148/
 recipe: https://datasets.datalad.org/shub/shamanpi/dummy/latest/2020-07-14-e6ccb97b-d3b23148/Singularity
 collection: shamanpi/dummy
 ---

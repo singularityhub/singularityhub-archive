@@ -9,7 +9,7 @@ build_date: "2020-06-16T18:06:55.563Z"
 size_mb: 2273
 size: 943075359
 sif: "https://datasets.datalad.org/shub/gipert/baseos-containers/g4.10.3/2020-06-16-987e20f2-25b810d2/25b810d2f040b340cdd76ab7b39020cc.simg"
-url: https://datasets.datalad.org/shub/gipert/baseos-containers/g4.10.3/2020-06-16-987e20f2-25b810d2/
+datalad_url: https://datasets.datalad.org?dir=/shub/gipert/baseos-containers/g4.10.3/2020-06-16-987e20f2-25b810d2/
 recipe: https://datasets.datalad.org/shub/gipert/baseos-containers/g4.10.3/2020-06-16-987e20f2-25b810d2/Singularity
 collection: gipert/baseos-containers
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-23T23:32:49.262Z"
 size_mb: 1484
 size: 439549983
 sif: "https://datasets.datalad.org/shub/alikerr/R2jags-image/latest/2019-06-23-0a276cfe-2e31700d/2e31700da27566eba46a44ad18181927.simg"
-url: https://datasets.datalad.org/shub/alikerr/R2jags-image/latest/2019-06-23-0a276cfe-2e31700d/
+datalad_url: https://datasets.datalad.org?dir=/shub/alikerr/R2jags-image/latest/2019-06-23-0a276cfe-2e31700d/
 recipe: https://datasets.datalad.org/shub/alikerr/R2jags-image/latest/2019-06-23-0a276cfe-2e31700d/Singularity
 collection: alikerr/R2jags-image
 ---

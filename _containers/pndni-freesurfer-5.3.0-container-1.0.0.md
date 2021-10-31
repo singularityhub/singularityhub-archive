@@ -9,7 +9,7 @@ build_date: "2019-05-17T20:05:29.600Z"
 size_mb: 9020
 size: 4347408415
 sif: "https://datasets.datalad.org/shub/pndni/freesurfer-5.3.0-container/1.0.0/2019-05-17-07dd5bb7-4cf0d7ab/4cf0d7abb99fb44fb6254f437b0d4de4.simg"
-url: https://datasets.datalad.org/shub/pndni/freesurfer-5.3.0-container/1.0.0/2019-05-17-07dd5bb7-4cf0d7ab/
+datalad_url: https://datasets.datalad.org?dir=/shub/pndni/freesurfer-5.3.0-container/1.0.0/2019-05-17-07dd5bb7-4cf0d7ab/
 recipe: https://datasets.datalad.org/shub/pndni/freesurfer-5.3.0-container/1.0.0/2019-05-17-07dd5bb7-4cf0d7ab/Singularity
 collection: pndni/freesurfer-5.3.0-container
 ---

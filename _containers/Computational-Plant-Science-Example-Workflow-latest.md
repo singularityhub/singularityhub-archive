@@ -9,7 +9,7 @@ build_date: "2019-02-28T01:51:30.014Z"
 size_mb: 1160
 size: 515411999
 sif: "https://datasets.datalad.org/shub/Computational-Plant-Science/Example-Workflow/latest/2019-02-28-de0bc240-6ab24e09/6ab24e090d9d096a3751bb4f48c3d4d1.simg"
-url: https://datasets.datalad.org/shub/Computational-Plant-Science/Example-Workflow/latest/2019-02-28-de0bc240-6ab24e09/
+datalad_url: https://datasets.datalad.org?dir=/shub/Computational-Plant-Science/Example-Workflow/latest/2019-02-28-de0bc240-6ab24e09/
 recipe: https://datasets.datalad.org/shub/Computational-Plant-Science/Example-Workflow/latest/2019-02-28-de0bc240-6ab24e09/Singularity
 collection: Computational-Plant-Science/Example-Workflow
 ---

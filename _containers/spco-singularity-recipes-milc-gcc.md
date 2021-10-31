@@ -9,7 +9,7 @@ build_date: "2018-04-26T16:28:57.015Z"
 size_mb: 494
 size: 169058335
 sif: "https://datasets.datalad.org/shub/spco/singularity-recipes/milc-gcc/2018-04-26-5db066f2-baf70683/baf70683099cd22c40a7e6d916055ff9.simg"
-url: https://datasets.datalad.org/shub/spco/singularity-recipes/milc-gcc/2018-04-26-5db066f2-baf70683/
+datalad_url: https://datasets.datalad.org?dir=/shub/spco/singularity-recipes/milc-gcc/2018-04-26-5db066f2-baf70683/
 recipe: https://datasets.datalad.org/shub/spco/singularity-recipes/milc-gcc/2018-04-26-5db066f2-baf70683/Singularity
 collection: spco/singularity-recipes
 ---

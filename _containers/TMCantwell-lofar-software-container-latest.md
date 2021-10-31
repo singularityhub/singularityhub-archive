@@ -9,7 +9,7 @@ build_date: "2021-04-07T15:30:24.370Z"
 size_mb: 2348
 size: 964898847
 sif: "https://datasets.datalad.org/shub/TMCantwell/lofar-software-container/latest/2021-04-07-8acb676a-5a614ec4/5a614ec4d603cef60203b7fdf2d3e241.simg"
-url: https://datasets.datalad.org/shub/TMCantwell/lofar-software-container/latest/2021-04-07-8acb676a-5a614ec4/
+datalad_url: https://datasets.datalad.org?dir=/shub/TMCantwell/lofar-software-container/latest/2021-04-07-8acb676a-5a614ec4/
 recipe: https://datasets.datalad.org/shub/TMCantwell/lofar-software-container/latest/2021-04-07-8acb676a-5a614ec4/Singularity
 collection: TMCantwell/lofar-software-container
 ---

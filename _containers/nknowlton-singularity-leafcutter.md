@@ -9,7 +9,7 @@ build_date: "2019-05-08T15:10:10.780Z"
 size_mb: 7725
 size: 3461402655
 sif: "https://datasets.datalad.org/shub/nknowlton/singularity/leafcutter/2019-05-08-c884e2fd-ef765dc6/ef765dc6a1ff58ef640b23aafcb3cd94.simg"
-url: https://datasets.datalad.org/shub/nknowlton/singularity/leafcutter/2019-05-08-c884e2fd-ef765dc6/
+datalad_url: https://datasets.datalad.org?dir=/shub/nknowlton/singularity/leafcutter/2019-05-08-c884e2fd-ef765dc6/
 recipe: https://datasets.datalad.org/shub/nknowlton/singularity/leafcutter/2019-05-08-c884e2fd-ef765dc6/Singularity
 collection: nknowlton/singularity
 ---

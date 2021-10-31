@@ -9,7 +9,7 @@ build_date: "2021-04-16T03:30:24.105Z"
 size_mb: 360.0
 size: 168853535
 sif: "https://datasets.datalad.org/shub/enricos83/enhsp/2019/2021-04-16-e9e886ba-b094a80b/b094a80b2f2d225e189a7c1a830ccf08.sif"
-url: https://datasets.datalad.org/shub/enricos83/enhsp/2019/2021-04-16-e9e886ba-b094a80b/
+datalad_url: https://datasets.datalad.org?dir=/shub/enricos83/enhsp/2019/2021-04-16-e9e886ba-b094a80b/
 recipe: https://datasets.datalad.org/shub/enricos83/enhsp/2019/2021-04-16-e9e886ba-b094a80b/Singularity
 collection: enricos83/enhsp
 ---

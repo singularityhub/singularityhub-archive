@@ -9,7 +9,7 @@ build_date: "2021-01-20T12:14:33.117Z"
 size_mb: 1075.0
 size: 308654111
 sif: "https://datasets.datalad.org/shub/ARPA-SIMC/nwprun/nwprun/2021-01-20-49987a69-b143812f/b143812fd4459045defaa2ece26025a9.sif"
-url: https://datasets.datalad.org/shub/ARPA-SIMC/nwprun/nwprun/2021-01-20-49987a69-b143812f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ARPA-SIMC/nwprun/nwprun/2021-01-20-49987a69-b143812f/
 recipe: https://datasets.datalad.org/shub/ARPA-SIMC/nwprun/nwprun/2021-01-20-49987a69-b143812f/Singularity
 collection: ARPA-SIMC/nwprun
 ---

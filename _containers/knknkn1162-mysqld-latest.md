@@ -9,7 +9,7 @@ build_date: "2021-02-19T03:18:54.533Z"
 size_mb: 206
 size: 62238751
 sif: "https://datasets.datalad.org/shub/knknkn1162/mysqld/latest/2021-02-19-fc4a7e05-a13fb7da/a13fb7da0205b44ba4140e0e85868832.simg"
-url: https://datasets.datalad.org/shub/knknkn1162/mysqld/latest/2021-02-19-fc4a7e05-a13fb7da/
+datalad_url: https://datasets.datalad.org?dir=/shub/knknkn1162/mysqld/latest/2021-02-19-fc4a7e05-a13fb7da/
 recipe: https://datasets.datalad.org/shub/knknkn1162/mysqld/latest/2021-02-19-fc4a7e05-a13fb7da/Singularity
 collection: knknkn1162/mysqld
 ---

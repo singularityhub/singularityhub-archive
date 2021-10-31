@@ -9,7 +9,7 @@ build_date: "2020-02-07T02:22:35.751Z"
 size_mb: 3680
 size: 1634938911
 sif: "https://datasets.datalad.org/shub/mfernandes61/jupyter2_singularity/latest/2020-02-07-243a40fd-2f3ee849/2f3ee8490773364566015dda797a06c6.simg"
-url: https://datasets.datalad.org/shub/mfernandes61/jupyter2_singularity/latest/2020-02-07-243a40fd-2f3ee849/
+datalad_url: https://datasets.datalad.org?dir=/shub/mfernandes61/jupyter2_singularity/latest/2020-02-07-243a40fd-2f3ee849/
 recipe: https://datasets.datalad.org/shub/mfernandes61/jupyter2_singularity/latest/2020-02-07-243a40fd-2f3ee849/Singularity
 collection: mfernandes61/jupyter2_singularity
 ---

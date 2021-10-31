@@ -9,7 +9,7 @@ build_date: "2019-03-27T08:48:37.842Z"
 size_mb: 761
 size: 333639711
 sif: "https://datasets.datalad.org/shub/d-w-moore/new_d2c/base-4.2.5/2019-03-27-dceaa16a-8e40d25b/8e40d25be78eb614ab3b2354459330a9.simg"
-url: https://datasets.datalad.org/shub/d-w-moore/new_d2c/base-4.2.5/2019-03-27-dceaa16a-8e40d25b/
+datalad_url: https://datasets.datalad.org?dir=/shub/d-w-moore/new_d2c/base-4.2.5/2019-03-27-dceaa16a-8e40d25b/
 recipe: https://datasets.datalad.org/shub/d-w-moore/new_d2c/base-4.2.5/2019-03-27-dceaa16a-8e40d25b/Singularity
 collection: d-w-moore/new_d2c
 ---

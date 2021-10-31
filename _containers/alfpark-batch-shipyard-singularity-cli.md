@@ -9,7 +9,7 @@ build_date: "2019-08-02T22:01:05.431Z"
 size_mb: 139
 size: 28938271
 sif: "https://datasets.datalad.org/shub/alfpark/batch-shipyard-singularity/cli/2019-08-02-94735e46-77b987f2/77b987f20f69a580fd956e8da69a57d4.simg"
-url: https://datasets.datalad.org/shub/alfpark/batch-shipyard-singularity/cli/2019-08-02-94735e46-77b987f2/
+datalad_url: https://datasets.datalad.org?dir=/shub/alfpark/batch-shipyard-singularity/cli/2019-08-02-94735e46-77b987f2/
 recipe: https://datasets.datalad.org/shub/alfpark/batch-shipyard-singularity/cli/2019-08-02-94735e46-77b987f2/Singularity
 collection: alfpark/batch-shipyard-singularity
 ---

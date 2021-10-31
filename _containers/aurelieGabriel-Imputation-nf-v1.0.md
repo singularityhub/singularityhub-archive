@@ -9,7 +9,7 @@ build_date: "2021-01-25T07:50:39.697Z"
 size_mb: 3727.0
 size: 2116292639
 sif: "https://datasets.datalad.org/shub/aurelieGabriel/Imputation-nf/v1.0/2021-01-25-ee92f9ba-72574b1c/72574b1c6a05657461f008a997ebb046.sif"
-url: https://datasets.datalad.org/shub/aurelieGabriel/Imputation-nf/v1.0/2021-01-25-ee92f9ba-72574b1c/
+datalad_url: https://datasets.datalad.org?dir=/shub/aurelieGabriel/Imputation-nf/v1.0/2021-01-25-ee92f9ba-72574b1c/
 recipe: https://datasets.datalad.org/shub/aurelieGabriel/Imputation-nf/v1.0/2021-01-25-ee92f9ba-72574b1c/Singularity
 collection: aurelieGabriel/Imputation-nf
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-16T23:46:56.299Z"
 size_mb: 8207.0
 size: 4001427487
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/omero_5.5.10/2020-09-16-235d957d-e058e9c6/e058e9c698864fd0add0543b0cc518e0.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/omero_5.5.10/2020-09-16-235d957d-e058e9c6/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/omero_5.5.10/2020-09-16-235d957d-e058e9c6/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/omero_5.5.10/2020-09-16-235d957d-e058e9c6/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

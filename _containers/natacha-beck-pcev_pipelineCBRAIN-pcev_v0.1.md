@@ -9,7 +9,7 @@ build_date: "2018-07-11T01:44:04.439Z"
 size_mb: 1272
 size: 454942751
 sif: "https://datasets.datalad.org/shub/natacha-beck/pcev_pipelineCBRAIN/pcev_v0.1/2018-07-11-fb331079-8ab36308/8ab36308ddb06f5697d92374f693d076.simg"
-url: https://datasets.datalad.org/shub/natacha-beck/pcev_pipelineCBRAIN/pcev_v0.1/2018-07-11-fb331079-8ab36308/
+datalad_url: https://datasets.datalad.org?dir=/shub/natacha-beck/pcev_pipelineCBRAIN/pcev_v0.1/2018-07-11-fb331079-8ab36308/
 recipe: https://datasets.datalad.org/shub/natacha-beck/pcev_pipelineCBRAIN/pcev_v0.1/2018-07-11-fb331079-8ab36308/Singularity
 collection: natacha-beck/pcev_pipelineCBRAIN
 ---

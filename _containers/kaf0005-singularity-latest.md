@@ -9,7 +9,7 @@ build_date: "2019-07-29T20:31:31.397Z"
 size_mb: 1309.0
 size: 616505375
 sif: "https://datasets.datalad.org/shub/kaf0005/singularity/latest/2019-07-29-c9c4d861-8382e617/8382e61706652a307d9e750678c67791.sif"
-url: https://datasets.datalad.org/shub/kaf0005/singularity/latest/2019-07-29-c9c4d861-8382e617/
+datalad_url: https://datasets.datalad.org?dir=/shub/kaf0005/singularity/latest/2019-07-29-c9c4d861-8382e617/
 recipe: https://datasets.datalad.org/shub/kaf0005/singularity/latest/2019-07-29-c9c4d861-8382e617/Singularity
 collection: kaf0005/singularity
 ---

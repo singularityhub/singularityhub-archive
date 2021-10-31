@@ -9,7 +9,7 @@ build_date: "2019-04-25T15:46:05.417Z"
 size_mb: 8823
 size: 3323281439
 sif: "https://datasets.datalad.org/shub/wkcwells/singularity/chroma.chroma-docker/2019-04-25-b4fe6720-aee1f2f0/aee1f2f0a93001a049893dbd99cebc11.simg"
-url: https://datasets.datalad.org/shub/wkcwells/singularity/chroma.chroma-docker/2019-04-25-b4fe6720-aee1f2f0/
+datalad_url: https://datasets.datalad.org?dir=/shub/wkcwells/singularity/chroma.chroma-docker/2019-04-25-b4fe6720-aee1f2f0/
 recipe: https://datasets.datalad.org/shub/wkcwells/singularity/chroma.chroma-docker/2019-04-25-b4fe6720-aee1f2f0/Singularity
 collection: wkcwells/singularity
 ---

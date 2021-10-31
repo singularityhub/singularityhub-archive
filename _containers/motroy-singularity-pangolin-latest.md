@@ -9,7 +9,7 @@ build_date: "2020-07-28T14:07:14.879Z"
 size_mb: 3716.0
 size: 1581895711
 sif: "https://datasets.datalad.org/shub/motroy/singularity-pangolin/latest/2020-07-28-e10803b0-14067159/140671597cf04a2599ce3c1a5365590c.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-pangolin/latest/2020-07-28-e10803b0-14067159/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-pangolin/latest/2020-07-28-e10803b0-14067159/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-pangolin/latest/2020-07-28-e10803b0-14067159/Singularity
 collection: motroy/singularity-pangolin
 ---

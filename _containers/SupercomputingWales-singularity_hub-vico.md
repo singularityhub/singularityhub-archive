@@ -9,7 +9,7 @@ build_date: "2020-07-28T20:49:51.196Z"
 size_mb: 5871.0
 size: 3114512415
 sif: "https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/vico/2020-07-28-efdffa8e-d1fa4d5e/d1fa4d5ec12ae5b16fe160cbbc3b1a72.sif"
-url: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/vico/2020-07-28-efdffa8e-d1fa4d5e/
+datalad_url: https://datasets.datalad.org?dir=/shub/SupercomputingWales/singularity_hub/vico/2020-07-28-efdffa8e-d1fa4d5e/
 recipe: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/vico/2020-07-28-efdffa8e-d1fa4d5e/Singularity
 collection: SupercomputingWales/singularity_hub
 ---

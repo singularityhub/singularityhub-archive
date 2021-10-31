@@ -9,7 +9,7 @@ build_date: "2019-01-21T15:26:39.030Z"
 size_mb: 1617
 size: 793116703
 sif: "https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/gatk/2019-01-21-076f50dc-4ce8f549/4ce8f549c4d9f59b92f0c52d13466be5.simg"
-url: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/gatk/2019-01-21-076f50dc-4ce8f549/
+datalad_url: https://datasets.datalad.org?dir=/shub/CompBio-TDU-Japan/containers/gatk/2019-01-21-076f50dc-4ce8f549/
 recipe: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/gatk/2019-01-21-076f50dc-4ce8f549/Singularity
 collection: CompBio-TDU-Japan/containers
 ---

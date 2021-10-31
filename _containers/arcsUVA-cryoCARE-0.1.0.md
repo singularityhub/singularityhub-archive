@@ -9,7 +9,7 @@ build_date: "2019-11-19T21:46:17.239Z"
 size_mb: 5471.0
 size: 2880061471
 sif: "https://datasets.datalad.org/shub/arcsUVA/cryoCARE/0.1.0/2019-11-19-d4040c49-ef0446dd/ef0446dd41625cf7438c43207d64a35f.sif"
-url: https://datasets.datalad.org/shub/arcsUVA/cryoCARE/0.1.0/2019-11-19-d4040c49-ef0446dd/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/cryoCARE/0.1.0/2019-11-19-d4040c49-ef0446dd/
 recipe: https://datasets.datalad.org/shub/arcsUVA/cryoCARE/0.1.0/2019-11-19-d4040c49-ef0446dd/Singularity
 collection: arcsUVA/cryoCARE
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-31T07:08:47.896Z"
 size_mb: 6082.0
 size: 2364518431
 sif: "https://datasets.datalad.org/shub/powellgenomicslab/sceQTL_pipelines/sceqtl_pipelines/2021-03-31-0694c9c5-bccc7794/bccc77948eafef27bd043f4f081fee5e.sif"
-url: https://datasets.datalad.org/shub/powellgenomicslab/sceQTL_pipelines/sceqtl_pipelines/2021-03-31-0694c9c5-bccc7794/
+datalad_url: https://datasets.datalad.org?dir=/shub/powellgenomicslab/sceQTL_pipelines/sceqtl_pipelines/2021-03-31-0694c9c5-bccc7794/
 recipe: https://datasets.datalad.org/shub/powellgenomicslab/sceQTL_pipelines/sceqtl_pipelines/2021-03-31-0694c9c5-bccc7794/Singularity
 collection: powellgenomicslab/sceQTL_pipelines
 ---

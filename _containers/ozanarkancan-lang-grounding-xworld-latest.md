@@ -9,7 +9,7 @@ build_date: "2018-05-30T12:30:56.442Z"
 size_mb: 1995
 size: 611262495
 sif: "https://datasets.datalad.org/shub/ozanarkancan/lang-grounding-xworld/latest/2018-05-30-8c469c2d-2e46c770/2e46c77095994b7ba107d1489bf2ba09.simg"
-url: https://datasets.datalad.org/shub/ozanarkancan/lang-grounding-xworld/latest/2018-05-30-8c469c2d-2e46c770/
+datalad_url: https://datasets.datalad.org?dir=/shub/ozanarkancan/lang-grounding-xworld/latest/2018-05-30-8c469c2d-2e46c770/
 recipe: https://datasets.datalad.org/shub/ozanarkancan/lang-grounding-xworld/latest/2018-05-30-8c469c2d-2e46c770/Singularity
 collection: ozanarkancan/lang-grounding-xworld
 ---

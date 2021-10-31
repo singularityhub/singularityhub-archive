@@ -9,7 +9,7 @@ build_date: "2019-05-03T01:19:56.181Z"
 size_mb: 840
 size: 333148191
 sif: "https://datasets.datalad.org/shub/arabnejad/FabSim3/latest/2019-05-03-142faabc-c7fe2fc7/c7fe2fc747e4eec39e71f09eaca40cfd.simg"
-url: https://datasets.datalad.org/shub/arabnejad/FabSim3/latest/2019-05-03-142faabc-c7fe2fc7/
+datalad_url: https://datasets.datalad.org?dir=/shub/arabnejad/FabSim3/latest/2019-05-03-142faabc-c7fe2fc7/
 recipe: https://datasets.datalad.org/shub/arabnejad/FabSim3/latest/2019-05-03-142faabc-c7fe2fc7/Singularity
 collection: arabnejad/FabSim3
 ---

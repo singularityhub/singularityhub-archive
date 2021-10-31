@@ -9,7 +9,7 @@ build_date: "2020-03-04T10:02:20.035Z"
 size_mb: 1543.0
 size: 589156383
 sif: "https://datasets.datalad.org/shub/vibaotram/baseDmux/deepbinner-api/2020-03-04-1e298ab4-58a27cf8/58a27cf861e8179db3f409030eae5e15.sif"
-url: https://datasets.datalad.org/shub/vibaotram/baseDmux/deepbinner-api/2020-03-04-1e298ab4-58a27cf8/
+datalad_url: https://datasets.datalad.org?dir=/shub/vibaotram/baseDmux/deepbinner-api/2020-03-04-1e298ab4-58a27cf8/
 recipe: https://datasets.datalad.org/shub/vibaotram/baseDmux/deepbinner-api/2020-03-04-1e298ab4-58a27cf8/Singularity
 collection: vibaotram/baseDmux
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-26T23:14:08.117Z"
 size_mb: 564.27734375
 size: 591687680
 sif: "https://datasets.datalad.org/shub/sschmeier/metafunc-container/0.0.7/2020-03-26-1def6be4-b0e3fded/b0e3fded261e78223517fb6659b4a70386e6ab9f301632304b01c49bd6a9573f.sif"
-url: https://datasets.datalad.org/shub/sschmeier/metafunc-container/0.0.7/2020-03-26-1def6be4-b0e3fded/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/metafunc-container/0.0.7/2020-03-26-1def6be4-b0e3fded/
 recipe: https://datasets.datalad.org/shub/sschmeier/metafunc-container/0.0.7/2020-03-26-1def6be4-b0e3fded/Singularity
 collection: sschmeier/metafunc-container
 ---

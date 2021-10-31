@@ -9,7 +9,7 @@ build_date: "2021-02-25T15:50:13.779Z"
 size_mb: 5216.0
 size: 2531635231
 sif: "https://datasets.datalad.org/shub/neurodebian/neurodebian/latest/2021-02-25-d6c999a6-9ec182ad/9ec182ad4f58d0299ddea7f447499ee4.sif"
-url: https://datasets.datalad.org/shub/neurodebian/neurodebian/latest/2021-02-25-d6c999a6-9ec182ad/
+datalad_url: https://datasets.datalad.org?dir=/shub/neurodebian/neurodebian/latest/2021-02-25-d6c999a6-9ec182ad/
 recipe: https://datasets.datalad.org/shub/neurodebian/neurodebian/latest/2021-02-25-d6c999a6-9ec182ad/Singularity
 collection: neurodebian/neurodebian
 ---

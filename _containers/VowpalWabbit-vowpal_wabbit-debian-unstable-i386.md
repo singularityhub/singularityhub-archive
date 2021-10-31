@@ -9,7 +9,7 @@ build_date: "2019-05-01T22:22:20.544Z"
 size_mb: 942
 size: 335822879
 sif: "https://datasets.datalad.org/shub/VowpalWabbit/vowpal_wabbit/debian-unstable-i386/2019-05-01-cfef09c5-e93fd18b/e93fd18b4a6f9c5197c8f6784a880b64.simg"
-url: https://datasets.datalad.org/shub/VowpalWabbit/vowpal_wabbit/debian-unstable-i386/2019-05-01-cfef09c5-e93fd18b/
+datalad_url: https://datasets.datalad.org?dir=/shub/VowpalWabbit/vowpal_wabbit/debian-unstable-i386/2019-05-01-cfef09c5-e93fd18b/
 recipe: https://datasets.datalad.org/shub/VowpalWabbit/vowpal_wabbit/debian-unstable-i386/2019-05-01-cfef09c5-e93fd18b/Singularity
 collection: JohnLangford/vowpal_wabbit
 ---

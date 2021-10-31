@@ -9,7 +9,7 @@ build_date: "2019-06-27T16:06:52.065Z"
 size_mb: 7414
 size: 3132117023
 sif: "https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/cuda9.2_u18.04_conda/2019-06-27-47e74cae-16fb1ddd/16fb1dddb6a139b494586bc34b3ba2b2.simg"
-url: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/cuda9.2_u18.04_conda/2019-06-27-47e74cae-16fb1ddd/
+datalad_url: https://datasets.datalad.org?dir=/shub/pmitev/Teoroo-singularity/cuda9.2_u18.04_conda/2019-06-27-47e74cae-16fb1ddd/
 recipe: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/cuda9.2_u18.04_conda/2019-06-27-47e74cae-16fb1ddd/Singularity
 collection: pmitev/Teoroo-singularity
 ---

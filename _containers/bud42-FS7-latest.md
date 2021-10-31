@@ -9,7 +9,7 @@ build_date: "2020-12-27T01:54:27.410Z"
 size_mb: 4876.3515625
 size: 5113225216
 sif: "https://datasets.datalad.org/shub/bud42/FS7/latest/2020-12-27-4b48d8d9-8467e29e/8467e29e73ed487ecdb37a3b52b1cf4f15e237209bf297da5e810f6f933332be.sif"
-url: https://datasets.datalad.org/shub/bud42/FS7/latest/2020-12-27-4b48d8d9-8467e29e/
+datalad_url: https://datasets.datalad.org?dir=/shub/bud42/FS7/latest/2020-12-27-4b48d8d9-8467e29e/
 recipe: https://datasets.datalad.org/shub/bud42/FS7/latest/2020-12-27-4b48d8d9-8467e29e/Singularity
 collection: bud42/FS7
 ---

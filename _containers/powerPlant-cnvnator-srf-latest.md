@@ -9,7 +9,7 @@ build_date: "2020-06-08T21:41:43.731Z"
 size_mb: 952.0
 size: 370995231
 sif: "https://datasets.datalad.org/shub/powerPlant/cnvnator-srf/latest/2020-06-08-6964a8f5-09548731/09548731ca1cc2ef2e432bc0ba299de8.sif"
-url: https://datasets.datalad.org/shub/powerPlant/cnvnator-srf/latest/2020-06-08-6964a8f5-09548731/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/cnvnator-srf/latest/2020-06-08-6964a8f5-09548731/
 recipe: https://datasets.datalad.org/shub/powerPlant/cnvnator-srf/latest/2020-06-08-6964a8f5-09548731/Singularity
 collection: powerPlant/cnvnator-srf
 ---

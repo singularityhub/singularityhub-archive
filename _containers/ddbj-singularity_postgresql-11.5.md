@@ -9,7 +9,7 @@ build_date: "2019-11-12T09:59:30.334Z"
 size_mb: 690.0
 size: 275890207
 sif: "https://datasets.datalad.org/shub/ddbj/singularity_postgresql/11.5/2019-11-12-4d0c6790-01234b3f/01234b3f6e10d42fb27cfe2489ebe315.sif"
-url: https://datasets.datalad.org/shub/ddbj/singularity_postgresql/11.5/2019-11-12-4d0c6790-01234b3f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ddbj/singularity_postgresql/11.5/2019-11-12-4d0c6790-01234b3f/
 recipe: https://datasets.datalad.org/shub/ddbj/singularity_postgresql/11.5/2019-11-12-4d0c6790-01234b3f/Singularity
 collection: ddbj/singularity_postgresql
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-20T13:39:07.973Z"
 size_mb: 1976.0
 size: 908394527
 sif: "https://datasets.datalad.org/shub/nalcala/mutect-nf/v2.1/2020-05-20-ac7eb758-ff23b38b/ff23b38b957fe9dd54e09c42c8e1f909.sif"
-url: https://datasets.datalad.org/shub/nalcala/mutect-nf/v2.1/2020-05-20-ac7eb758-ff23b38b/
+datalad_url: https://datasets.datalad.org?dir=/shub/nalcala/mutect-nf/v2.1/2020-05-20-ac7eb758-ff23b38b/
 recipe: https://datasets.datalad.org/shub/nalcala/mutect-nf/v2.1/2020-05-20-ac7eb758-ff23b38b/Singularity
 collection: nalcala/mutect-nf
 ---

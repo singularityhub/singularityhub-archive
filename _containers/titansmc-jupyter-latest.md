@@ -9,7 +9,7 @@ build_date: "2019-07-29T16:59:50.989Z"
 size_mb: 809.1015625
 size: 848404480
 sif: "https://datasets.datalad.org/shub/titansmc/jupyter/latest/2019-07-29-a9bbbc17-08a96956/08a96956d39f81c4cfa84b3dda54571c275fefc514a759ee098c8566765ec6ed.sif"
-url: https://datasets.datalad.org/shub/titansmc/jupyter/latest/2019-07-29-a9bbbc17-08a96956/
+datalad_url: https://datasets.datalad.org?dir=/shub/titansmc/jupyter/latest/2019-07-29-a9bbbc17-08a96956/
 recipe: https://datasets.datalad.org/shub/titansmc/jupyter/latest/2019-07-29-a9bbbc17-08a96956/Singularity
 collection: titansmc/jupyter
 ---

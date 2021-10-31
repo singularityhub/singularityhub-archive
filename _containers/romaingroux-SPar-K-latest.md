@@ -9,7 +9,7 @@ build_date: "2020-10-07T07:09:45.569Z"
 size_mb: 1318
 size: 494428191
 sif: "https://datasets.datalad.org/shub/romaingroux/SPar-K/latest/2020-10-07-f8582d21-bba3c9f2/bba3c9f227ee6cfe0a3cede0c3b24f5a.simg"
-url: https://datasets.datalad.org/shub/romaingroux/SPar-K/latest/2020-10-07-f8582d21-bba3c9f2/
+datalad_url: https://datasets.datalad.org?dir=/shub/romaingroux/SPar-K/latest/2020-10-07-f8582d21-bba3c9f2/
 recipe: https://datasets.datalad.org/shub/romaingroux/SPar-K/latest/2020-10-07-f8582d21-bba3c9f2/Singularity
 collection: romaingroux/SPar-K
 ---

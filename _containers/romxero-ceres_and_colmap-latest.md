@@ -9,7 +9,7 @@ build_date: "2018-11-01T03:16:08.887Z"
 size_mb: 1192
 size: 358236191
 sif: "https://datasets.datalad.org/shub/romxero/ceres_and_colmap/latest/2018-11-01-b891be6d-31bb5408/31bb5408677b7084a27546d7d09e4b95.simg"
-url: https://datasets.datalad.org/shub/romxero/ceres_and_colmap/latest/2018-11-01-b891be6d-31bb5408/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/ceres_and_colmap/latest/2018-11-01-b891be6d-31bb5408/
 recipe: https://datasets.datalad.org/shub/romxero/ceres_and_colmap/latest/2018-11-01-b891be6d-31bb5408/Singularity
 collection: romxero/ceres_and_colmap
 ---

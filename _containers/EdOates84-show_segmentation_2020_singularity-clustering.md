@@ -9,7 +9,7 @@ build_date: "2020-08-30T19:04:14.419Z"
 size_mb: 2201.0
 size: 933298207
 sif: "https://datasets.datalad.org/shub/EdOates84/show_segmentation_2020_singularity/clustering/2020-08-30-968e6c08-fe0c0270/fe0c027073695fbf6476427926b8a8d6.sif"
-url: https://datasets.datalad.org/shub/EdOates84/show_segmentation_2020_singularity/clustering/2020-08-30-968e6c08-fe0c0270/
+datalad_url: https://datasets.datalad.org?dir=/shub/EdOates84/show_segmentation_2020_singularity/clustering/2020-08-30-968e6c08-fe0c0270/
 recipe: https://datasets.datalad.org/shub/EdOates84/show_segmentation_2020_singularity/clustering/2020-08-30-968e6c08-fe0c0270/Singularity
 collection: EdOates84/show_segmentation_2020_singularity
 ---

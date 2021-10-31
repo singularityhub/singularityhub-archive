@@ -9,7 +9,7 @@ build_date: "2019-02-25T20:22:55.944Z"
 size_mb: 2598
 size: 1176948767
 sif: "https://datasets.datalad.org/shub/antoniomagnani/tensorflow/1.7.0-gpu/2019-02-25-b6ebe4ed-610593ca/610593cad945148bebaa924e028ff970.simg"
-url: https://datasets.datalad.org/shub/antoniomagnani/tensorflow/1.7.0-gpu/2019-02-25-b6ebe4ed-610593ca/
+datalad_url: https://datasets.datalad.org?dir=/shub/antoniomagnani/tensorflow/1.7.0-gpu/2019-02-25-b6ebe4ed-610593ca/
 recipe: https://datasets.datalad.org/shub/antoniomagnani/tensorflow/1.7.0-gpu/2019-02-25-b6ebe4ed-610593ca/Singularity
 collection: antoniomagnani/tensorflow
 ---

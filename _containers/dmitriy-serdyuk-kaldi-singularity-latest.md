@@ -9,7 +9,7 @@ build_date: "2019-09-18T18:50:22.781Z"
 size_mb: 3671.58984375
 size: 3849940992
 sif: "https://datasets.datalad.org/shub/dmitriy-serdyuk/kaldi-singularity/latest/2019-09-18-1273a47d-b25b4a5b/b25b4a5b8b8d5127d5af4c2e54463f3ad9c102ee179a9edc5c9cecca1dc3eb27.sif"
-url: https://datasets.datalad.org/shub/dmitriy-serdyuk/kaldi-singularity/latest/2019-09-18-1273a47d-b25b4a5b/
+datalad_url: https://datasets.datalad.org?dir=/shub/dmitriy-serdyuk/kaldi-singularity/latest/2019-09-18-1273a47d-b25b4a5b/
 recipe: https://datasets.datalad.org/shub/dmitriy-serdyuk/kaldi-singularity/latest/2019-09-18-1273a47d-b25b4a5b/Singularity
 collection: dmitriy-serdyuk/kaldi-singularity
 ---

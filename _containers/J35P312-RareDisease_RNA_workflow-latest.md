@@ -9,7 +9,7 @@ build_date: "2021-03-23T17:26:19.892Z"
 size_mb: 2188.0
 size: 1407647775
 sif: "https://datasets.datalad.org/shub/J35P312/RareDisease_RNA_workflow/latest/2021-03-23-f2d77690-5617a7be/5617a7beb3927b6715d5f73a12fb780b.sif"
-url: https://datasets.datalad.org/shub/J35P312/RareDisease_RNA_workflow/latest/2021-03-23-f2d77690-5617a7be/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/RareDisease_RNA_workflow/latest/2021-03-23-f2d77690-5617a7be/
 recipe: https://datasets.datalad.org/shub/J35P312/RareDisease_RNA_workflow/latest/2021-03-23-f2d77690-5617a7be/Singularity
 collection: J35P312/RareDisease_RNA_workflow
 ---

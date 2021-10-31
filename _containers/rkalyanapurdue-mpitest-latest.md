@@ -9,7 +9,7 @@ build_date: "2019-09-04T16:56:11.394Z"
 size_mb: 701.0
 size: 142221343
 sif: "https://datasets.datalad.org/shub/rkalyanapurdue/mpitest/latest/2019-09-04-5d9ff455-48713617/48713617ba9c87d34f538a823c3ce274.sif"
-url: https://datasets.datalad.org/shub/rkalyanapurdue/mpitest/latest/2019-09-04-5d9ff455-48713617/
+datalad_url: https://datasets.datalad.org?dir=/shub/rkalyanapurdue/mpitest/latest/2019-09-04-5d9ff455-48713617/
 recipe: https://datasets.datalad.org/shub/rkalyanapurdue/mpitest/latest/2019-09-04-5d9ff455-48713617/Singularity
 collection: rkalyanapurdue/mpitest
 ---

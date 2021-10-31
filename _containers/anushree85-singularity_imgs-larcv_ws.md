@@ -9,7 +9,7 @@ build_date: "2018-08-19T21:19:46.821Z"
 size_mb: 5841
 size: 2451206175
 sif: "https://datasets.datalad.org/shub/anushree85/singularity_imgs/larcv_ws/2018-08-19-6d27ab86-ebf7831a/ebf7831afaec14f1d20fefe771ceb24d.simg"
-url: https://datasets.datalad.org/shub/anushree85/singularity_imgs/larcv_ws/2018-08-19-6d27ab86-ebf7831a/
+datalad_url: https://datasets.datalad.org?dir=/shub/anushree85/singularity_imgs/larcv_ws/2018-08-19-6d27ab86-ebf7831a/
 recipe: https://datasets.datalad.org/shub/anushree85/singularity_imgs/larcv_ws/2018-08-19-6d27ab86-ebf7831a/Singularity
 collection: anushree85/singularity_imgs
 ---

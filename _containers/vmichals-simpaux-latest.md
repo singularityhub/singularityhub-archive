@@ -9,7 +9,7 @@ build_date: "2021-03-11T16:40:02.394Z"
 size_mb: 5032.0
 size: 2234044447
 sif: "https://datasets.datalad.org/shub/vmichals/simpaux/latest/2021-03-11-9cbf8147-032accfd/032accfdc68f3ec09c843892280af17e.sif"
-url: https://datasets.datalad.org/shub/vmichals/simpaux/latest/2021-03-11-9cbf8147-032accfd/
+datalad_url: https://datasets.datalad.org?dir=/shub/vmichals/simpaux/latest/2021-03-11-9cbf8147-032accfd/
 recipe: https://datasets.datalad.org/shub/vmichals/simpaux/latest/2021-03-11-9cbf8147-032accfd/Singularity
 collection: vmichals/simpaux
 ---

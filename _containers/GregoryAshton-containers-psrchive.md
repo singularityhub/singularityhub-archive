@@ -9,7 +9,7 @@ build_date: "2021-02-23T16:43:43.843Z"
 size_mb: 3616
 size: 1582309407
 sif: "https://datasets.datalad.org/shub/GregoryAshton/containers/psrchive/2021-02-23-4a335777-a52e7c82/a52e7c82a20b06ccd38b3c1c76089992.simg"
-url: https://datasets.datalad.org/shub/GregoryAshton/containers/psrchive/2021-02-23-4a335777-a52e7c82/
+datalad_url: https://datasets.datalad.org?dir=/shub/GregoryAshton/containers/psrchive/2021-02-23-4a335777-a52e7c82/
 recipe: https://datasets.datalad.org/shub/GregoryAshton/containers/psrchive/2021-02-23-4a335777-a52e7c82/Singularity
 collection: GregoryAshton/TestBilbySingularity
 ---

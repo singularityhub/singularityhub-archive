@@ -9,7 +9,7 @@ build_date: "2020-02-27T21:45:50.334Z"
 size_mb: 436
 size: 155598879
 sif: "https://datasets.datalad.org/shub/romxero/sherlock_www_browsers/midori/2020-02-27-0d32fcfd-442fecca/442fecca6f61a7de60af1083b7c23b12.simg"
-url: https://datasets.datalad.org/shub/romxero/sherlock_www_browsers/midori/2020-02-27-0d32fcfd-442fecca/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/sherlock_www_browsers/midori/2020-02-27-0d32fcfd-442fecca/
 recipe: https://datasets.datalad.org/shub/romxero/sherlock_www_browsers/midori/2020-02-27-0d32fcfd-442fecca/Singularity
 collection: romxero/sherlock_www_browsers
 ---

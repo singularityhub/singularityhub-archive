@@ -9,7 +9,7 @@ build_date: "2020-10-12T17:48:50.106Z"
 size_mb: 1926.91015625
 size: 2020511744
 sif: "https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/chipseeker/2020-10-12-85be1791-bd51a7ba/bd51a7babe8ae0568311d00e43e2ccaa7a224893930c303b59b81b01ec3adedc.sif"
-url: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/chipseeker/2020-10-12-85be1791-bd51a7ba/
+datalad_url: https://datasets.datalad.org?dir=/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/chipseeker/2020-10-12-85be1791-bd51a7ba/
 recipe: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/chipseeker/2020-10-12-85be1791-bd51a7ba/Singularity
 collection: ous-uio-bioinfo-core/containerised_ATACseq_pipeline
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-28T15:14:02.967Z"
 size_mb: 2138
 size: 813994015
 sif: "https://datasets.datalad.org/shub/dynverse/dynwrap/r/2019-03-28-97cb7b06-06349c6e/06349c6e607e917ca9284146322a5948.simg"
-url: https://datasets.datalad.org/shub/dynverse/dynwrap/r/2019-03-28-97cb7b06-06349c6e/
+datalad_url: https://datasets.datalad.org?dir=/shub/dynverse/dynwrap/r/2019-03-28-97cb7b06-06349c6e/
 recipe: https://datasets.datalad.org/shub/dynverse/dynwrap/r/2019-03-28-97cb7b06-06349c6e/Singularity
 collection: dynverse/dynwrap
 ---

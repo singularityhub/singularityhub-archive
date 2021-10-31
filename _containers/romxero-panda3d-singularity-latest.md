@@ -9,7 +9,7 @@ build_date: "2021-02-17T06:04:58.537Z"
 size_mb: 2364.0
 size: 822386719
 sif: "https://datasets.datalad.org/shub/romxero/panda3d-singularity/latest/2021-02-17-de9b12c0-02de389c/02de389cba8af7ad4cfc64592f68506b.sif"
-url: https://datasets.datalad.org/shub/romxero/panda3d-singularity/latest/2021-02-17-de9b12c0-02de389c/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/panda3d-singularity/latest/2021-02-17-de9b12c0-02de389c/
 recipe: https://datasets.datalad.org/shub/romxero/panda3d-singularity/latest/2021-02-17-de9b12c0-02de389c/Singularity
 collection: romxero/panda3d-singularity
 ---

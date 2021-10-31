@@ -9,7 +9,7 @@ build_date: "2020-07-01T20:45:30.701Z"
 size_mb: 6497.0
 size: 2606649375
 sif: "https://datasets.datalad.org/shub/sunyi000/covid-annotation/covid/2020-07-01-d7418593-0818ef18/0818ef18d46d5f422f8a2cc320a402a3.sif"
-url: https://datasets.datalad.org/shub/sunyi000/covid-annotation/covid/2020-07-01-d7418593-0818ef18/
+datalad_url: https://datasets.datalad.org?dir=/shub/sunyi000/covid-annotation/covid/2020-07-01-d7418593-0818ef18/
 recipe: https://datasets.datalad.org/shub/sunyi000/covid-annotation/covid/2020-07-01-d7418593-0818ef18/Singularity
 collection: sunyi000/covid-annotation
 ---

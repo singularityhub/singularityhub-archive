@@ -9,7 +9,7 @@ build_date: "2020-08-02T20:52:26.397Z"
 size_mb: 1380.078125
 size: 1447116800
 sif: "https://datasets.datalad.org/shub/TomHarrop/csdemux/csdemux_v0.0.2/2020-08-02-92ed0a5d-518993f1/518993f1b6b705ff92bcb152fb4f7a078b14a0717031963757578a1b330a8c77.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/csdemux/csdemux_v0.0.2/2020-08-02-92ed0a5d-518993f1/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/csdemux/csdemux_v0.0.2/2020-08-02-92ed0a5d-518993f1/
 recipe: https://datasets.datalad.org/shub/TomHarrop/csdemux/csdemux_v0.0.2/2020-08-02-92ed0a5d-518993f1/Singularity
 collection: TomHarrop/csdemux
 ---

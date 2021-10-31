@@ -9,7 +9,7 @@ build_date: "2020-11-16T10:40:07.348Z"
 size_mb: 6332.0
 size: 2045218847
 sif: "https://datasets.datalad.org/shub/drneavin/SingularityBaseImages/allsoftwares/2020-11-16-410743ec-292d48aa/292d48aa6ef5e8258ac6c2fff4691001.sif"
-url: https://datasets.datalad.org/shub/drneavin/SingularityBaseImages/allsoftwares/2020-11-16-410743ec-292d48aa/
+datalad_url: https://datasets.datalad.org?dir=/shub/drneavin/SingularityBaseImages/allsoftwares/2020-11-16-410743ec-292d48aa/
 recipe: https://datasets.datalad.org/shub/drneavin/SingularityBaseImages/allsoftwares/2020-11-16-410743ec-292d48aa/Singularity
 collection: drneavin/SingularityBaseImages
 ---

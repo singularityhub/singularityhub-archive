@@ -9,7 +9,7 @@ build_date: "2020-12-09T05:25:59.775Z"
 size_mb: 9454.0
 size: 4217413663
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/pyprismatic_1_2_1-cuda-11.0.3/2020-12-09-9f82e09f-1c32bc2f/1c32bc2fc156dd20c01649043113bdd9.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/pyprismatic_1_2_1-cuda-11.0.3/2020-12-09-9f82e09f-1c32bc2f/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/pyprismatic_1_2_1-cuda-11.0.3/2020-12-09-9f82e09f-1c32bc2f/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/pyprismatic_1_2_1-cuda-11.0.3/2020-12-09-9f82e09f-1c32bc2f/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

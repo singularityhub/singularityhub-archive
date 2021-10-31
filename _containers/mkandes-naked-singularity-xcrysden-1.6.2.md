@@ -9,7 +9,7 @@ build_date: "2020-12-31T22:24:15.054Z"
 size_mb: 1491.0
 size: 489758751
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/xcrysden-1.6.2/2020-12-31-c6e08058-bf463966/bf463966db1484939de706275bb95c7a.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/xcrysden-1.6.2/2020-12-31-c6e08058-bf463966/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/xcrysden-1.6.2/2020-12-31-c6e08058-bf463966/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/xcrysden-1.6.2/2020-12-31-c6e08058-bf463966/Singularity
 collection: mkandes/naked-singularity
 ---

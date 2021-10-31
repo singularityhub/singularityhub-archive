@@ -9,7 +9,7 @@ build_date: "2018-04-20T05:38:16.876Z"
 size_mb: 208
 size: 92880927
 sif: "https://datasets.datalad.org/shub/yinglilu/test_retrieve_cfmm/0.0.2/2018-04-20-dbaecb13-4c061240/4c061240698768c9f25c538db75a9b8e.simg"
-url: https://datasets.datalad.org/shub/yinglilu/test_retrieve_cfmm/0.0.2/2018-04-20-dbaecb13-4c061240/
+datalad_url: https://datasets.datalad.org?dir=/shub/yinglilu/test_retrieve_cfmm/0.0.2/2018-04-20-dbaecb13-4c061240/
 recipe: https://datasets.datalad.org/shub/yinglilu/test_retrieve_cfmm/0.0.2/2018-04-20-dbaecb13-4c061240/Singularity
 collection: yinglilu/test_retrieve_cfmm
 ---

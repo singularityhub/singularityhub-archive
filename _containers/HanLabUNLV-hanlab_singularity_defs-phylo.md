@@ -9,7 +9,7 @@ build_date: "2020-06-10T22:45:37.758Z"
 size_mb: 3659.0
 size: 1617936415
 sif: "https://datasets.datalad.org/shub/HanLabUNLV/hanlab_singularity_defs/phylo/2020-06-10-b1d911b2-5f340729/5f3407290060e82ac789c5c04f952c8c.sif"
-url: https://datasets.datalad.org/shub/HanLabUNLV/hanlab_singularity_defs/phylo/2020-06-10-b1d911b2-5f340729/
+datalad_url: https://datasets.datalad.org?dir=/shub/HanLabUNLV/hanlab_singularity_defs/phylo/2020-06-10-b1d911b2-5f340729/
 recipe: https://datasets.datalad.org/shub/HanLabUNLV/hanlab_singularity_defs/phylo/2020-06-10-b1d911b2-5f340729/Singularity
 collection: HanLabUNLV/hanlab_singularity_defs
 ---

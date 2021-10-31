@@ -9,7 +9,7 @@ build_date: "2019-11-19T23:11:20.068Z"
 size_mb: 57.53515625
 size: 60329984
 sif: "https://datasets.datalad.org/shub/TomHarrop/seq-utils/seqtk_1.3r106/2019-11-19-cd07278a-fa5b5a31/fa5b5a3190e6c330ecc0dcb9483dbd4f46950fa0b0d126687123ffdb2d152897.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/seq-utils/seqtk_1.3r106/2019-11-19-cd07278a-fa5b5a31/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/seq-utils/seqtk_1.3r106/2019-11-19-cd07278a-fa5b5a31/
 recipe: https://datasets.datalad.org/shub/TomHarrop/seq-utils/seqtk_1.3r106/2019-11-19-cd07278a-fa5b5a31/Singularity
 collection: TomHarrop/seq-utils
 ---

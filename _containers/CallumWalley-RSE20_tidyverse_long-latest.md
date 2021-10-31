@@ -9,7 +9,7 @@ build_date: "2020-11-24T18:19:46.095Z"
 size_mb: 2023.0
 size: 716079135
 sif: "https://datasets.datalad.org/shub/CallumWalley/RSE20_tidyverse_long/latest/2020-11-24-2fa94d55-0bef3ed3/0bef3ed3eaf11150b88c71277fc629e9.sif"
-url: https://datasets.datalad.org/shub/CallumWalley/RSE20_tidyverse_long/latest/2020-11-24-2fa94d55-0bef3ed3/
+datalad_url: https://datasets.datalad.org?dir=/shub/CallumWalley/RSE20_tidyverse_long/latest/2020-11-24-2fa94d55-0bef3ed3/
 recipe: https://datasets.datalad.org/shub/CallumWalley/RSE20_tidyverse_long/latest/2020-11-24-2fa94d55-0bef3ed3/Singularity
 collection: CallumWalley/RSE20_tidyverse_long
 ---

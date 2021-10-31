@@ -9,7 +9,7 @@ build_date: "2021-01-05T09:50:19.673Z"
 size_mb: 6140.0
 size: 3468521503
 sif: "https://datasets.datalad.org/shub/hexmek/container/vamp/2021-01-05-d2e82746-2f5e382b/2f5e382b10c9c8119fdf226a77e6a1d9.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/vamp/2021-01-05-d2e82746-2f5e382b/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/vamp/2021-01-05-d2e82746-2f5e382b/
 recipe: https://datasets.datalad.org/shub/hexmek/container/vamp/2021-01-05-d2e82746-2f5e382b/Singularity
 collection: hexmek/container
 ---

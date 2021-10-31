@@ -9,7 +9,7 @@ build_date: "2020-08-13T04:03:28.955Z"
 size_mb: 596.4765625
 size: 625451008
 sif: "https://datasets.datalad.org/shub/TomHarrop/ont-containers/guppy_4.0.11/2020-08-13-827051a1-ee39c904/ee39c904fa778a25b456af37734a0f9ef935a8beebdb25a9d790fde0bf6216d7.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/ont-containers/guppy_4.0.11/2020-08-13-827051a1-ee39c904/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/ont-containers/guppy_4.0.11/2020-08-13-827051a1-ee39c904/
 recipe: https://datasets.datalad.org/shub/TomHarrop/ont-containers/guppy_4.0.11/2020-08-13-827051a1-ee39c904/Singularity
 collection: TomHarrop/ont-containers
 ---

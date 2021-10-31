@@ -9,7 +9,7 @@ build_date: "2019-12-17T08:17:09.506Z"
 size_mb: 11933.0
 size: 7954362399
 sif: "https://datasets.datalad.org/shub/motroy/singularity-MGx-workflows/latest/2019-12-17-298918d8-76886125/76886125449ceacefbeba3f101700eca.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-MGx-workflows/latest/2019-12-17-298918d8-76886125/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-MGx-workflows/latest/2019-12-17-298918d8-76886125/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-MGx-workflows/latest/2019-12-17-298918d8-76886125/Singularity
 collection: motroy/singularity-MGx-workflows
 ---

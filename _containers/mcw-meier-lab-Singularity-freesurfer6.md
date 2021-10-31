@@ -9,7 +9,7 @@ build_date: "2019-04-16T01:22:32.919Z"
 size_mb: 6131
 size: 2682470431
 sif: "https://datasets.datalad.org/shub/mcw-meier-lab/Singularity/freesurfer6/2019-04-16-5e51bb88-78dc1176/78dc1176127831c2b4fe738879f3ae7e.simg"
-url: https://datasets.datalad.org/shub/mcw-meier-lab/Singularity/freesurfer6/2019-04-16-5e51bb88-78dc1176/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-meier-lab/Singularity/freesurfer6/2019-04-16-5e51bb88-78dc1176/
 recipe: https://datasets.datalad.org/shub/mcw-meier-lab/Singularity/freesurfer6/2019-04-16-5e51bb88-78dc1176/Singularity
 collection: mcw-meier-lab/Singularity
 ---

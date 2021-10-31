@@ -9,7 +9,7 @@ build_date: "2021-02-08T22:30:15.537Z"
 size_mb: 667.9375
 size: 700383232
 sif: "https://datasets.datalad.org/shub/AroArz/singularity_playground/graphlan/2021-02-08-0a0e282d-8c01b451/8c01b451e3db8d2ea5f0519059c0f4a18e8c0cffd0f8c7cb126b2b998287079e.sif"
-url: https://datasets.datalad.org/shub/AroArz/singularity_playground/graphlan/2021-02-08-0a0e282d-8c01b451/
+datalad_url: https://datasets.datalad.org?dir=/shub/AroArz/singularity_playground/graphlan/2021-02-08-0a0e282d-8c01b451/
 recipe: https://datasets.datalad.org/shub/AroArz/singularity_playground/graphlan/2021-02-08-0a0e282d-8c01b451/Singularity
 collection: AroArz/singularity_playground
 ---

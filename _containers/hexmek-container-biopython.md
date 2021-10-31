@@ -9,7 +9,7 @@ build_date: "2020-05-21T09:12:16.723Z"
 size_mb: 1203.0
 size: 463007775
 sif: "https://datasets.datalad.org/shub/hexmek/container/biopython/2020-05-21-878f3ce2-20a67cdb/20a67cdbd4c68278acf2aa3732c9d634.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/biopython/2020-05-21-878f3ce2-20a67cdb/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/biopython/2020-05-21-878f3ce2-20a67cdb/
 recipe: https://datasets.datalad.org/shub/hexmek/container/biopython/2020-05-21-878f3ce2-20a67cdb/Singularity
 collection: hexmek/container
 ---

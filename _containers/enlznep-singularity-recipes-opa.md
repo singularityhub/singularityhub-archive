@@ -9,7 +9,7 @@ build_date: "2019-05-07T14:45:54.338Z"
 size_mb: 1431
 size: 455122975
 sif: "https://datasets.datalad.org/shub/enlznep/singularity-recipes/opa/2019-05-07-0a43ad11-382908d3/382908d3aa47037b8afcbf9c8ec83efa.simg"
-url: https://datasets.datalad.org/shub/enlznep/singularity-recipes/opa/2019-05-07-0a43ad11-382908d3/
+datalad_url: https://datasets.datalad.org?dir=/shub/enlznep/singularity-recipes/opa/2019-05-07-0a43ad11-382908d3/
 recipe: https://datasets.datalad.org/shub/enlznep/singularity-recipes/opa/2019-05-07-0a43ad11-382908d3/Singularity
 collection: enlznep/singularity-recipes
 ---

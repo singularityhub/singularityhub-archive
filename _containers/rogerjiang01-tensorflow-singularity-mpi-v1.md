@@ -9,7 +9,7 @@ build_date: "2019-05-05T09:45:10.704Z"
 size_mb: 6212
 size: 3072057375
 sif: "https://datasets.datalad.org/shub/rogerjiang01/tensorflow-singularity/mpi-v1/2019-05-05-2bd94ca7-4605e052/4605e0526c35901b89306e3d4483adc0.simg"
-url: https://datasets.datalad.org/shub/rogerjiang01/tensorflow-singularity/mpi-v1/2019-05-05-2bd94ca7-4605e052/
+datalad_url: https://datasets.datalad.org?dir=/shub/rogerjiang01/tensorflow-singularity/mpi-v1/2019-05-05-2bd94ca7-4605e052/
 recipe: https://datasets.datalad.org/shub/rogerjiang01/tensorflow-singularity/mpi-v1/2019-05-05-2bd94ca7-4605e052/Singularity
 collection: rogerjiang01/tensorflow-singularity
 ---

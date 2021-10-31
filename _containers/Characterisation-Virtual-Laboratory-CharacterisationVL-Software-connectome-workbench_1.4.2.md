@@ -9,7 +9,7 @@ build_date: "2020-12-10T04:32:15.725Z"
 size_mb: 3134.0
 size: 1132019743
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/connectome-workbench_1.4.2/2020-12-10-eea33655-7186dd9e/7186dd9e639c7f742fda393b403d990f.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/connectome-workbench_1.4.2/2020-12-10-eea33655-7186dd9e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/connectome-workbench_1.4.2/2020-12-10-eea33655-7186dd9e/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/connectome-workbench_1.4.2/2020-12-10-eea33655-7186dd9e/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

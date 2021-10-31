@@ -9,7 +9,7 @@ build_date: "2019-10-29T15:52:07.636Z"
 size_mb: 278.82421875
 size: 292368384
 sif: "https://datasets.datalad.org/shub/psumionka-task/Singularity_Scientific-7.x/def/2019-10-29-d1c16818-69400b15/69400b15e71e086a60cf2b1b1325a8c1f6e37758170be7e9654a9d3b0e839716.sif"
-url: https://datasets.datalad.org/shub/psumionka-task/Singularity_Scientific-7.x/def/2019-10-29-d1c16818-69400b15/
+datalad_url: https://datasets.datalad.org?dir=/shub/psumionka-task/Singularity_Scientific-7.x/def/2019-10-29-d1c16818-69400b15/
 recipe: https://datasets.datalad.org/shub/psumionka-task/Singularity_Scientific-7.x/def/2019-10-29-d1c16818-69400b15/Singularity
 collection: psumionka-task/Singularity_Scientific-7.x
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-18T16:24:44.810Z"
 size_mb: 616
 size: 188071967
 sif: "https://datasets.datalad.org/shub/joe-from-mtl/oxford_actinfibers/latest/2019-04-18-4e05fa89-df707b9f/df707b9fd065cabf5d7ab67cd5ff6bd4.simg"
-url: https://datasets.datalad.org/shub/joe-from-mtl/oxford_actinfibers/latest/2019-04-18-4e05fa89-df707b9f/
+datalad_url: https://datasets.datalad.org?dir=/shub/joe-from-mtl/oxford_actinfibers/latest/2019-04-18-4e05fa89-df707b9f/
 recipe: https://datasets.datalad.org/shub/joe-from-mtl/oxford_actinfibers/latest/2019-04-18-4e05fa89-df707b9f/Singularity
 collection: joe-from-mtl/oxford_actinfibers
 ---

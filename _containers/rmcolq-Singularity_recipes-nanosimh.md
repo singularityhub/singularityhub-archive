@@ -9,7 +9,7 @@ build_date: "2019-01-31T21:34:12.219Z"
 size_mb: 1441
 size: 632369183
 sif: "https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/nanosimh/2019-01-31-9ad025c1-69a54283/69a5428353c2cd1cdda300f809879ea0.simg"
-url: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/nanosimh/2019-01-31-9ad025c1-69a54283/
+datalad_url: https://datasets.datalad.org?dir=/shub/rmcolq/Singularity_recipes/nanosimh/2019-01-31-9ad025c1-69a54283/
 recipe: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/nanosimh/2019-01-31-9ad025c1-69a54283/Singularity
 collection: rmcolq/Singularity_recipes
 ---

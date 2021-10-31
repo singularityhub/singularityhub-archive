@@ -9,7 +9,7 @@ build_date: "2019-07-29T21:48:55.229Z"
 size_mb: 1147.0
 size: 475938847
 sif: "https://datasets.datalad.org/shub/connor-lab/snapper3/latest/2019-07-29-6ddc483d-05864b0f/05864b0f5b9701dbb3bbf72e8497aeaa.sif"
-url: https://datasets.datalad.org/shub/connor-lab/snapper3/latest/2019-07-29-6ddc483d-05864b0f/
+datalad_url: https://datasets.datalad.org?dir=/shub/connor-lab/snapper3/latest/2019-07-29-6ddc483d-05864b0f/
 recipe: https://datasets.datalad.org/shub/connor-lab/snapper3/latest/2019-07-29-6ddc483d-05864b0f/Singularity
 collection: connor-lab/snapper3
 ---

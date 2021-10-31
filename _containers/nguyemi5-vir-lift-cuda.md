@@ -9,7 +9,7 @@ build_date: "2019-01-04T07:48:36.721Z"
 size_mb: 9235
 size: 4352966687
 sif: "https://datasets.datalad.org/shub/nguyemi5/vir-lift/cuda/2019-01-04-d7d560e7-5eb250d2/5eb250d20823d057475fe4e391431db5.simg"
-url: https://datasets.datalad.org/shub/nguyemi5/vir-lift/cuda/2019-01-04-d7d560e7-5eb250d2/
+datalad_url: https://datasets.datalad.org?dir=/shub/nguyemi5/vir-lift/cuda/2019-01-04-d7d560e7-5eb250d2/
 recipe: https://datasets.datalad.org/shub/nguyemi5/vir-lift/cuda/2019-01-04-d7d560e7-5eb250d2/Singularity
 collection: nguyemi5/vir-lift
 ---

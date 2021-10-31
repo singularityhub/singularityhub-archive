@@ -9,7 +9,7 @@ build_date: "2021-03-06T01:06:10.071Z"
 size_mb: 250.2890625
 size: 262447104
 sif: "https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/bowtie2/2021-03-06-d2eb1173-854da6db/854da6db2fdc96f3da8abfeed56a9112238e3ea07e36751fafd6c7f3cdf256f1.sif"
-url: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/bowtie2/2021-03-06-d2eb1173-854da6db/
+datalad_url: https://datasets.datalad.org?dir=/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/bowtie2/2021-03-06-d2eb1173-854da6db/
 recipe: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/bowtie2/2021-03-06-d2eb1173-854da6db/Singularity
 collection: ous-uio-bioinfo-core/containerised_ATACseq_pipeline
 ---

@@ -9,7 +9,7 @@ build_date: "2020-02-19T02:40:15.870Z"
 size_mb: 3303
 size: 1629020191
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/deepbinnergpu/2020-02-19-0a737380-4b9b1b10/4b9b1b107c50b155e6a807c181982973.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/deepbinnergpu/2020-02-19-0a737380-4b9b1b10/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/deepbinnergpu/2020-02-19-0a737380-4b9b1b10/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/deepbinnergpu/2020-02-19-0a737380-4b9b1b10/Singularity
 collection: mbhall88/Singularity_recipes
 ---

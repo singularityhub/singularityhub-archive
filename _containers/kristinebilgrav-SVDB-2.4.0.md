@@ -9,7 +9,7 @@ build_date: "2021-03-30T08:59:01.708Z"
 size_mb: 755.0
 size: 348401695
 sif: "https://datasets.datalad.org/shub/kristinebilgrav/SVDB/2.4.0/2021-03-30-02c2d85e-e6c0534e/e6c0534eeba38edb5c82a254665c403e.sif"
-url: https://datasets.datalad.org/shub/kristinebilgrav/SVDB/2.4.0/2021-03-30-02c2d85e-e6c0534e/
+datalad_url: https://datasets.datalad.org?dir=/shub/kristinebilgrav/SVDB/2.4.0/2021-03-30-02c2d85e-e6c0534e/
 recipe: https://datasets.datalad.org/shub/kristinebilgrav/SVDB/2.4.0/2021-03-30-02c2d85e-e6c0534e/Singularity
 collection: kristinebilgrav/SVDB
 ---

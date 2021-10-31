@@ -9,7 +9,7 @@ build_date: "2018-12-18T17:08:49.661Z"
 size_mb: None
 size: 83243039
 sif: "https://datasets.datalad.org/shub/DanielGalea/PhD/latest/2018-12-18-404434a5-f57ccaae/f57ccaae183bbcd1090a212e210a7191.simg"
-url: https://datasets.datalad.org/shub/DanielGalea/PhD/latest/2018-12-18-404434a5-f57ccaae/
+datalad_url: https://datasets.datalad.org?dir=/shub/DanielGalea/PhD/latest/2018-12-18-404434a5-f57ccaae/
 recipe: https://datasets.datalad.org/shub/DanielGalea/PhD/latest/2018-12-18-404434a5-f57ccaae/Singularity
 collection: DanielGalea/PhD
 ---

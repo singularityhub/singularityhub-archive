@@ -9,7 +9,7 @@ build_date: "2018-07-16T12:37:00.098Z"
 size_mb: 329
 size: 133468191
 sif: "https://datasets.datalad.org/shub/overcookedfrog/conpair/0.2/2018-07-16-c5eeebed-7bd3a008/7bd3a008238558cfd8ce4066e74df38b.simg"
-url: https://datasets.datalad.org/shub/overcookedfrog/conpair/0.2/2018-07-16-c5eeebed-7bd3a008/
+datalad_url: https://datasets.datalad.org?dir=/shub/overcookedfrog/conpair/0.2/2018-07-16-c5eeebed-7bd3a008/
 recipe: https://datasets.datalad.org/shub/overcookedfrog/conpair/0.2/2018-07-16-c5eeebed-7bd3a008/Singularity
 collection: overcookedfrog/conpair
 ---

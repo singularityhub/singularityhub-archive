@@ -9,7 +9,7 @@ build_date: "2021-02-01T10:02:48.800Z"
 size_mb: 155.0
 size: 87748639
 sif: "https://datasets.datalad.org/shub/kiwiepic/fastqc/0.11.5/2021-02-01-c049580c-7d13e4c4/7d13e4c40574bda9020163e13db54fb2.sif"
-url: https://datasets.datalad.org/shub/kiwiepic/fastqc/0.11.5/2021-02-01-c049580c-7d13e4c4/
+datalad_url: https://datasets.datalad.org?dir=/shub/kiwiepic/fastqc/0.11.5/2021-02-01-c049580c-7d13e4c4/
 recipe: https://datasets.datalad.org/shub/kiwiepic/fastqc/0.11.5/2021-02-01-c049580c-7d13e4c4/Singularity
 collection: kiwiepic/fastqc
 ---

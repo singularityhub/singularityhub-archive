@@ -9,7 +9,7 @@ build_date: "2020-08-27T14:33:52.263Z"
 size_mb: 266.0
 size: 91398175
 sif: "https://datasets.datalad.org/shub/monaghaa/alplinegcc/latest/2020-08-27-7dff9795-b68aa40e/b68aa40e48cb22f65edb9c2447a491ae.sif"
-url: https://datasets.datalad.org/shub/monaghaa/alplinegcc/latest/2020-08-27-7dff9795-b68aa40e/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/alplinegcc/latest/2020-08-27-7dff9795-b68aa40e/
 recipe: https://datasets.datalad.org/shub/monaghaa/alplinegcc/latest/2020-08-27-7dff9795-b68aa40e/Singularity
 collection: monaghaa/alplinegcc
 ---

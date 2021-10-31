@@ -9,7 +9,7 @@ build_date: "2019-04-02T15:48:59.936Z"
 size_mb: 2089
 size: 599212063
 sif: "https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/mocca_0-1/2019-04-02-261b0ba2-73366885/7336688502fe54991e6fae14b110f81f.simg"
-url: https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/mocca_0-1/2019-04-02-261b0ba2-73366885/
+datalad_url: https://datasets.datalad.org?dir=/shub/bballew/NGS_singularity_recipes/mocca_0-1/2019-04-02-261b0ba2-73366885/
 recipe: https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/mocca_0-1/2019-04-02-261b0ba2-73366885/Singularity
 collection: bballew/NGS_singularity_recipes
 ---

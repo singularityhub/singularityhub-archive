@@ -9,7 +9,7 @@ build_date: "2020-12-21T16:26:44.651Z"
 size_mb: 172
 size: 78774303
 sif: "https://datasets.datalad.org/shub/mwiens91/shub-debug/latest/2020-12-21-d13898a1-07299790/07299790f4a52fdfeb6e95aa6fa97eaf.simg"
-url: https://datasets.datalad.org/shub/mwiens91/shub-debug/latest/2020-12-21-d13898a1-07299790/
+datalad_url: https://datasets.datalad.org?dir=/shub/mwiens91/shub-debug/latest/2020-12-21-d13898a1-07299790/
 recipe: https://datasets.datalad.org/shub/mwiens91/shub-debug/latest/2020-12-21-d13898a1-07299790/Singularity
 collection: mwiens91/shub-debug
 ---

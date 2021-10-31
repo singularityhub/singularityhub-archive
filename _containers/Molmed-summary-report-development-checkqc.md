@@ -9,7 +9,7 @@ build_date: "2019-12-17T13:54:29.516Z"
 size_mb: 1137
 size: 390021151
 sif: "https://datasets.datalad.org/shub/Molmed/summary-report-development/checkqc/2019-12-17-f7ad01b5-339dc97e/339dc97e032e199ff39761961097da3e.simg"
-url: https://datasets.datalad.org/shub/Molmed/summary-report-development/checkqc/2019-12-17-f7ad01b5-339dc97e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Molmed/summary-report-development/checkqc/2019-12-17-f7ad01b5-339dc97e/
 recipe: https://datasets.datalad.org/shub/Molmed/summary-report-development/checkqc/2019-12-17-f7ad01b5-339dc97e/Singularity
 collection: Molmed/summary-report-development
 ---

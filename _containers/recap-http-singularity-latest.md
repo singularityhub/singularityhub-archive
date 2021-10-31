@@ -9,7 +9,7 @@ build_date: "2020-01-13T13:04:22.928Z"
 size_mb: 157
 size: 66678815
 sif: "https://datasets.datalad.org/shub/recap/http-singularity/latest/2020-01-13-2b091d50-7cb8647f/7cb8647fc2afb095991ce1751617b86e.simg"
-url: https://datasets.datalad.org/shub/recap/http-singularity/latest/2020-01-13-2b091d50-7cb8647f/
+datalad_url: https://datasets.datalad.org?dir=/shub/recap/http-singularity/latest/2020-01-13-2b091d50-7cb8647f/
 recipe: https://datasets.datalad.org/shub/recap/http-singularity/latest/2020-01-13-2b091d50-7cb8647f/Singularity
 collection: recap/http-singularity
 ---

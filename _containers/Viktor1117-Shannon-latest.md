@@ -9,7 +9,7 @@ build_date: "2020-08-27T12:25:50.000Z"
 size_mb: 1149.0
 size: 469106719
 sif: "https://datasets.datalad.org/shub/Viktor1117/Shannon/latest/2020-08-27-e429f6f0-6cc19fb8/6cc19fb8dcc148c68aad82926026d4c3.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/Shannon/latest/2020-08-27-e429f6f0-6cc19fb8/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/Shannon/latest/2020-08-27-e429f6f0-6cc19fb8/
 recipe: https://datasets.datalad.org/shub/Viktor1117/Shannon/latest/2020-08-27-e429f6f0-6cc19fb8/Singularity
 collection: Viktor1117/Shannon
 ---

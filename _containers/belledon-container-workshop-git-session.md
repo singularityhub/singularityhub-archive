@@ -9,7 +9,7 @@ build_date: "2018-01-24T23:46:17.169Z"
 size_mb: 813
 size: 285450271
 sif: "https://datasets.datalad.org/shub/belledon/container-workshop/git-session/2018-01-24-3359f2b6-04b8102f/04b8102f0abae87f6d41fa4716eafdb7.simg"
-url: https://datasets.datalad.org/shub/belledon/container-workshop/git-session/2018-01-24-3359f2b6-04b8102f/
+datalad_url: https://datasets.datalad.org?dir=/shub/belledon/container-workshop/git-session/2018-01-24-3359f2b6-04b8102f/
 recipe: https://datasets.datalad.org/shub/belledon/container-workshop/git-session/2018-01-24-3359f2b6-04b8102f/Singularity
 collection: belledon/container-workshop
 ---

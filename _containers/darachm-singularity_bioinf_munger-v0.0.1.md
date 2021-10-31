@@ -9,7 +9,7 @@ build_date: "2019-12-27T14:33:56.480Z"
 size_mb: 579.0
 size: 209096735
 sif: "https://datasets.datalad.org/shub/darachm/singularity_bioinf_munger/v0.0.1/2019-12-27-c0df8cd6-49c42d58/49c42d583c1d3966046b88a2a73e8fbb.sif"
-url: https://datasets.datalad.org/shub/darachm/singularity_bioinf_munger/v0.0.1/2019-12-27-c0df8cd6-49c42d58/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_bioinf_munger/v0.0.1/2019-12-27-c0df8cd6-49c42d58/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_bioinf_munger/v0.0.1/2019-12-27-c0df8cd6-49c42d58/Singularity
 collection: darachm/singularity_bioinf_munger
 ---

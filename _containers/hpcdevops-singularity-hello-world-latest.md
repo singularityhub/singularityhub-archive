@@ -9,7 +9,7 @@ build_date: "2021-02-04T14:19:49.729Z"
 size_mb: 95
 size: 37015583
 sif: "https://datasets.datalad.org/shub/hpcdevops/singularity-hello-world/latest/2021-02-04-c69c2852-2a661c3a/2a661c3a0870e5ac42e0e05dfa8231b2.simg"
-url: https://datasets.datalad.org/shub/hpcdevops/singularity-hello-world/latest/2021-02-04-c69c2852-2a661c3a/
+datalad_url: https://datasets.datalad.org?dir=/shub/hpcdevops/singularity-hello-world/latest/2021-02-04-c69c2852-2a661c3a/
 recipe: https://datasets.datalad.org/shub/hpcdevops/singularity-hello-world/latest/2021-02-04-c69c2852-2a661c3a/Singularity
 collection: hpcdevops/singularity-hello-world
 ---

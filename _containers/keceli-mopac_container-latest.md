@@ -9,7 +9,7 @@ build_date: "2018-02-07T19:54:06.576Z"
 size_mb: 151
 size: 57491487
 sif: "https://datasets.datalad.org/shub/keceli/mopac_container/latest/2018-02-07-22714425-d5848894/d5848894174082d8a1aea272b148ce32.simg"
-url: https://datasets.datalad.org/shub/keceli/mopac_container/latest/2018-02-07-22714425-d5848894/
+datalad_url: https://datasets.datalad.org?dir=/shub/keceli/mopac_container/latest/2018-02-07-22714425-d5848894/
 recipe: https://datasets.datalad.org/shub/keceli/mopac_container/latest/2018-02-07-22714425-d5848894/Singularity
 collection: keceli/mopac_container
 ---

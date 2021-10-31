@@ -9,7 +9,7 @@ build_date: "2019-04-10T11:51:47.981Z"
 size_mb: 7753
 size: 3825037343
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/argos_3.0.0-beta53/2019-04-10-7404c120-6b3c7509/6b3c75098aff9200132b3496846c0805.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/argos_3.0.0-beta53/2019-04-10-7404c120-6b3c7509/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/argos_3.0.0-beta53/2019-04-10-7404c120-6b3c7509/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/argos_3.0.0-beta53/2019-04-10-7404c120-6b3c7509/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

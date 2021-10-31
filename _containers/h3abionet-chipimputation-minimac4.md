@@ -9,7 +9,7 @@ build_date: "2020-07-08T21:31:32.396Z"
 size_mb: 1126.0
 size: 591917087
 sif: "https://datasets.datalad.org/shub/h3abionet/chipimputation/minimac4/2020-07-08-68c50f00-245a6e68/245a6e68ce0fcc98eba22155d3dc4d20.sif"
-url: https://datasets.datalad.org/shub/h3abionet/chipimputation/minimac4/2020-07-08-68c50f00-245a6e68/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/chipimputation/minimac4/2020-07-08-68c50f00-245a6e68/
 recipe: https://datasets.datalad.org/shub/h3abionet/chipimputation/minimac4/2020-07-08-68c50f00-245a6e68/Singularity
 collection: h3abionet/chipimputation
 ---

@@ -9,7 +9,7 @@ build_date: "2018-05-25T13:57:39.227Z"
 size_mb: 1627
 size: 622215199
 sif: "https://datasets.datalad.org/shub/CHRUdeLille/vep_containers/92/2018-05-25-47fe6250-150a3ed0/150a3ed01b55e76ffd3eec42caae290e.simg"
-url: https://datasets.datalad.org/shub/CHRUdeLille/vep_containers/92/2018-05-25-47fe6250-150a3ed0/
+datalad_url: https://datasets.datalad.org?dir=/shub/CHRUdeLille/vep_containers/92/2018-05-25-47fe6250-150a3ed0/
 recipe: https://datasets.datalad.org/shub/CHRUdeLille/vep_containers/92/2018-05-25-47fe6250-150a3ed0/Singularity
 collection: CHRUdeLille/vep_containers
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-06T01:07:24.232Z"
 size_mb: 1066.890625
 size: 1118715904
 sif: "https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/picard/2021-03-06-4fb0409a-6870f65d/6870f65d5c8701943f782256643fd6abf80eaaf62490c2bd8e4de7c1f2295965.sif"
-url: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/picard/2021-03-06-4fb0409a-6870f65d/
+datalad_url: https://datasets.datalad.org?dir=/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/picard/2021-03-06-4fb0409a-6870f65d/
 recipe: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/picard/2021-03-06-4fb0409a-6870f65d/Singularity
 collection: ous-uio-bioinfo-core/containerised_ATACseq_pipeline
 ---

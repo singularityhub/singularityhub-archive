@@ -9,7 +9,7 @@ build_date: "2021-04-11T14:34:45.797Z"
 size_mb: 1782.90234375
 size: 1869508608
 sif: "https://datasets.datalad.org/shub/bast/latex/latest/2021-04-11-ee39525f-2d24ca28/2d24ca283486ba0b20d66e8a154a856f68f9b77363b615babbd954611a52d772.sif"
-url: https://datasets.datalad.org/shub/bast/latex/latest/2021-04-11-ee39525f-2d24ca28/
+datalad_url: https://datasets.datalad.org?dir=/shub/bast/latex/latest/2021-04-11-ee39525f-2d24ca28/
 recipe: https://datasets.datalad.org/shub/bast/latex/latest/2021-04-11-ee39525f-2d24ca28/Singularity
 collection: bast/latex
 ---

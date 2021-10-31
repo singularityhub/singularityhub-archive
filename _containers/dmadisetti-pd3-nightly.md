@@ -9,7 +9,7 @@ build_date: "2020-12-08T15:25:09.408Z"
 size_mb: 3660.0
 size: 1884192799
 sif: "https://datasets.datalad.org/shub/dmadisetti/pd3/nightly/2020-12-08-7c60a221-7521bbf5/7521bbf584338b34ef68472e3e92bed7.sif"
-url: https://datasets.datalad.org/shub/dmadisetti/pd3/nightly/2020-12-08-7c60a221-7521bbf5/
+datalad_url: https://datasets.datalad.org?dir=/shub/dmadisetti/pd3/nightly/2020-12-08-7c60a221-7521bbf5/
 recipe: https://datasets.datalad.org/shub/dmadisetti/pd3/nightly/2020-12-08-7c60a221-7521bbf5/Singularity
 collection: dmadisetti/pd3
 ---

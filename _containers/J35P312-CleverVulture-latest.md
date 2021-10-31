@@ -9,7 +9,7 @@ build_date: "2020-03-19T17:54:06.544Z"
 size_mb: 3249.0
 size: 1565982751
 sif: "https://datasets.datalad.org/shub/J35P312/CleverVulture/latest/2020-03-19-04be95cc-6b964603/6b964603c8fa8d65a87067074610a6bc.sif"
-url: https://datasets.datalad.org/shub/J35P312/CleverVulture/latest/2020-03-19-04be95cc-6b964603/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/CleverVulture/latest/2020-03-19-04be95cc-6b964603/
 recipe: https://datasets.datalad.org/shub/J35P312/CleverVulture/latest/2020-03-19-04be95cc-6b964603/Singularity
 collection: J35P312/CleverVulture
 ---

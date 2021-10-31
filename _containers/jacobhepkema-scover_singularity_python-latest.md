@@ -9,7 +9,7 @@ build_date: "2021-02-27T18:20:30.675Z"
 size_mb: 6349.0
 size: 3415396383
 sif: "https://datasets.datalad.org/shub/jacobhepkema/scover_singularity_python/latest/2021-02-27-70cec78f-302f2c4e/302f2c4ef060b70d22b3549f228e37ae.sif"
-url: https://datasets.datalad.org/shub/jacobhepkema/scover_singularity_python/latest/2021-02-27-70cec78f-302f2c4e/
+datalad_url: https://datasets.datalad.org?dir=/shub/jacobhepkema/scover_singularity_python/latest/2021-02-27-70cec78f-302f2c4e/
 recipe: https://datasets.datalad.org/shub/jacobhepkema/scover_singularity_python/latest/2021-02-27-70cec78f-302f2c4e/Singularity
 collection: jacobhepkema/scover_singularity_python
 ---

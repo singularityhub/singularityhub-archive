@@ -9,7 +9,7 @@ build_date: "2019-02-08T05:38:46.697Z"
 size_mb: 3604
 size: 1479090207
 sif: "https://datasets.datalad.org/shub/murphygroup/singularity-matlabmcr2017a/latest/2019-02-08-8c346de1-58857c7d/58857c7dd7907db8625f2812c3078e50.simg"
-url: https://datasets.datalad.org/shub/murphygroup/singularity-matlabmcr2017a/latest/2019-02-08-8c346de1-58857c7d/
+datalad_url: https://datasets.datalad.org?dir=/shub/murphygroup/singularity-matlabmcr2017a/latest/2019-02-08-8c346de1-58857c7d/
 recipe: https://datasets.datalad.org/shub/murphygroup/singularity-matlabmcr2017a/latest/2019-02-08-8c346de1-58857c7d/Singularity
 collection: murphygroup/singularity-matlabmcr2017a
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-30T12:26:52.598Z"
 size_mb: 1965.0
 size: 514953247
 sif: "https://datasets.datalad.org/shub/timo-singularity/rivet/latest/2021-03-30-2cdf3480-6a37bb59/6a37bb5953d19a96880517f7b9b89bb4.sif"
-url: https://datasets.datalad.org/shub/timo-singularity/rivet/latest/2021-03-30-2cdf3480-6a37bb59/
+datalad_url: https://datasets.datalad.org?dir=/shub/timo-singularity/rivet/latest/2021-03-30-2cdf3480-6a37bb59/
 recipe: https://datasets.datalad.org/shub/timo-singularity/rivet/latest/2021-03-30-2cdf3480-6a37bb59/Singularity
 collection: timo-singularity/rivet
 ---

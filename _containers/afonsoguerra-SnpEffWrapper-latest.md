@@ -9,7 +9,7 @@ build_date: "2020-11-18T10:40:11.460Z"
 size_mb: 745.62890625
 size: 781848576
 sif: "https://datasets.datalad.org/shub/afonsoguerra/SnpEffWrapper/latest/2020-11-18-ca963d6d-d1dd8a6f/d1dd8a6fe47194a7e8629374974eba2b829e1c965b1c7df2b422a6b09287d46e.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/SnpEffWrapper/latest/2020-11-18-ca963d6d-d1dd8a6f/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/SnpEffWrapper/latest/2020-11-18-ca963d6d-d1dd8a6f/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/SnpEffWrapper/latest/2020-11-18-ca963d6d-d1dd8a6f/Singularity
 collection: afonsoguerra/SnpEffWrapper
 ---

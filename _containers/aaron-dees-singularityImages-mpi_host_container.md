@@ -9,7 +9,7 @@ build_date: "2020-12-10T15:35:15.148Z"
 size_mb: 398.0
 size: 136286239
 sif: "https://datasets.datalad.org/shub/aaron-dees/singularityImages/mpi_host_container/2020-12-10-8f509577-3904a13c/3904a13c634e6afbb6a81fc3f8a8eb19.sif"
-url: https://datasets.datalad.org/shub/aaron-dees/singularityImages/mpi_host_container/2020-12-10-8f509577-3904a13c/
+datalad_url: https://datasets.datalad.org?dir=/shub/aaron-dees/singularityImages/mpi_host_container/2020-12-10-8f509577-3904a13c/
 recipe: https://datasets.datalad.org/shub/aaron-dees/singularityImages/mpi_host_container/2020-12-10-8f509577-3904a13c/Singularity
 collection: aaron-dees/singularityImages
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-08T17:47:27.941Z"
 size_mb: 120
 size: 41754655
 sif: "https://datasets.datalad.org/shub/poojabhat1690/slamdunk/latest/2019-10-08-05a58332-649d8717/649d8717fee7cdede6856a3f8d32de5d.simg"
-url: https://datasets.datalad.org/shub/poojabhat1690/slamdunk/latest/2019-10-08-05a58332-649d8717/
+datalad_url: https://datasets.datalad.org?dir=/shub/poojabhat1690/slamdunk/latest/2019-10-08-05a58332-649d8717/
 recipe: https://datasets.datalad.org/shub/poojabhat1690/slamdunk/latest/2019-10-08-05a58332-649d8717/Singularity
 collection: poojabhat1690/slamdunk
 ---

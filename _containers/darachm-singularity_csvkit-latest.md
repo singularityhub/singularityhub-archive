@@ -9,7 +9,7 @@ build_date: "2018-12-02T07:01:43.842Z"
 size_mb: 256
 size: 93904927
 sif: "https://datasets.datalad.org/shub/darachm/singularity_csvkit/latest/2018-12-02-98746952-80522af9/80522af98dc5db7e5697e8dcc97fe57f.simg"
-url: https://datasets.datalad.org/shub/darachm/singularity_csvkit/latest/2018-12-02-98746952-80522af9/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_csvkit/latest/2018-12-02-98746952-80522af9/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_csvkit/latest/2018-12-02-98746952-80522af9/Singularity
 collection: darachm/singularity_csvkit
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-23T13:56:59.960Z"
 size_mb: 4724
 size: 1867632671
 sif: "https://datasets.datalad.org/shub/jasongallant/trinity_singularity/latest/2021-03-23-bfb86381-2cb388c8/2cb388c81dc87eabb748fa148ff8809e.simg"
-url: https://datasets.datalad.org/shub/jasongallant/trinity_singularity/latest/2021-03-23-bfb86381-2cb388c8/
+datalad_url: https://datasets.datalad.org?dir=/shub/jasongallant/trinity_singularity/latest/2021-03-23-bfb86381-2cb388c8/
 recipe: https://datasets.datalad.org/shub/jasongallant/trinity_singularity/latest/2021-03-23-bfb86381-2cb388c8/Singularity
 collection: jasongallant/trinity_singularity
 ---

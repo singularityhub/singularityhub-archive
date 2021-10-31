@@ -9,7 +9,7 @@ build_date: "2020-04-30T05:42:17.845Z"
 size_mb: 3995.0
 size: 1920696351
 sif: "https://datasets.datalad.org/shub/xiaozhah/E2E_unit_selection/latest/2020-04-30-99385d95-bda9aaea/bda9aaea8c46bd9c272457789af800e4.sif"
-url: https://datasets.datalad.org/shub/xiaozhah/E2E_unit_selection/latest/2020-04-30-99385d95-bda9aaea/
+datalad_url: https://datasets.datalad.org?dir=/shub/xiaozhah/E2E_unit_selection/latest/2020-04-30-99385d95-bda9aaea/
 recipe: https://datasets.datalad.org/shub/xiaozhah/E2E_unit_selection/latest/2020-04-30-99385d95-bda9aaea/Singularity
 collection: xiaozhah/E2E_unit_selection
 ---

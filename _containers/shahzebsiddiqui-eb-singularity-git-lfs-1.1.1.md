@@ -9,7 +9,7 @@ build_date: "2021-03-02T20:03:29.231Z"
 size_mb: 721
 size: 226234399
 sif: "https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/git-lfs-1.1.1/2021-03-02-1b720948-ff43020d/ff43020d51b85e8e40c9c672f70844ce.simg"
-url: https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/git-lfs-1.1.1/2021-03-02-1b720948-ff43020d/
+datalad_url: https://datasets.datalad.org?dir=/shub/shahzebsiddiqui/eb-singularity/git-lfs-1.1.1/2021-03-02-1b720948-ff43020d/
 recipe: https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/git-lfs-1.1.1/2021-03-02-1b720948-ff43020d/Singularity
 collection: shahzebsiddiqui/eb-singularity
 ---

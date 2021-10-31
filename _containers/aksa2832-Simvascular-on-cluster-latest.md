@@ -9,7 +9,7 @@ build_date: "2020-11-27T20:09:31.371Z"
 size_mb: 619.84765625
 size: 649957376
 sif: "https://datasets.datalad.org/shub/aksa2832/Simvascular-on-cluster/latest/2020-11-27-ce86266f-612823e4/612823e4dcb6890ec6a00f682a43890d47e1d5f29e36322e532c6d04984e616d.sif"
-url: https://datasets.datalad.org/shub/aksa2832/Simvascular-on-cluster/latest/2020-11-27-ce86266f-612823e4/
+datalad_url: https://datasets.datalad.org?dir=/shub/aksa2832/Simvascular-on-cluster/latest/2020-11-27-ce86266f-612823e4/
 recipe: https://datasets.datalad.org/shub/aksa2832/Simvascular-on-cluster/latest/2020-11-27-ce86266f-612823e4/Singularity
 collection: aksa2832/Simvascular-on-cluster
 ---

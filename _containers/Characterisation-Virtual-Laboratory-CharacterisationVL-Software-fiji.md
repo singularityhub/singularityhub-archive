@@ -9,7 +9,7 @@ build_date: "2019-12-12T06:54:02.693Z"
 size_mb: 6762
 size: 3224956959
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/fiji/2019-12-12-0dc75873-cab068f6/cab068f663d49870f4b0b820431dae8a.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/fiji/2019-12-12-0dc75873-cab068f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/fiji/2019-12-12-0dc75873-cab068f6/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/fiji/2019-12-12-0dc75873-cab068f6/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

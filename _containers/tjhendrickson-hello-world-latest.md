@@ -9,7 +9,7 @@ build_date: "2019-08-19T14:23:58.944Z"
 size_mb: 196
 size: 62603295
 sif: "https://datasets.datalad.org/shub/tjhendrickson/hello-world/latest/2019-08-19-94af032e-d4cca8d1/d4cca8d175441c01fe8e48fd149f6df8.simg"
-url: https://datasets.datalad.org/shub/tjhendrickson/hello-world/latest/2019-08-19-94af032e-d4cca8d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/tjhendrickson/hello-world/latest/2019-08-19-94af032e-d4cca8d1/
 recipe: https://datasets.datalad.org/shub/tjhendrickson/hello-world/latest/2019-08-19-94af032e-d4cca8d1/Singularity
 collection: tjhendrickson/hello-world
 ---

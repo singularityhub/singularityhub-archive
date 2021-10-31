@@ -9,7 +9,7 @@ build_date: "2020-05-27T04:25:53.306Z"
 size_mb: 1534
 size: 606072863
 sif: "https://datasets.datalad.org/shub/cottersci/DIRT2_Workflows/dirt2d/2020-05-27-516fc04f-63411fb3/63411fb32e5a8ead769b412b8b48bc2e.simg"
-url: https://datasets.datalad.org/shub/cottersci/DIRT2_Workflows/dirt2d/2020-05-27-516fc04f-63411fb3/
+datalad_url: https://datasets.datalad.org?dir=/shub/cottersci/DIRT2_Workflows/dirt2d/2020-05-27-516fc04f-63411fb3/
 recipe: https://datasets.datalad.org/shub/cottersci/DIRT2_Workflows/dirt2d/2020-05-27-516fc04f-63411fb3/Singularity
 collection: cottersci/DIRT2_Workflows
 ---

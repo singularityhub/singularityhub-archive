@@ -9,7 +9,7 @@ build_date: "2020-05-03T18:13:35.346Z"
 size_mb: 4002.0
 size: 2086826015
 sif: "https://datasets.datalad.org/shub/ozanarkancan/r2r-navi/latest/2020-05-03-1c6befe4-3d532c3b/3d532c3b03c2ea6e4e3ad481526a957a.sif"
-url: https://datasets.datalad.org/shub/ozanarkancan/r2r-navi/latest/2020-05-03-1c6befe4-3d532c3b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ozanarkancan/r2r-navi/latest/2020-05-03-1c6befe4-3d532c3b/
 recipe: https://datasets.datalad.org/shub/ozanarkancan/r2r-navi/latest/2020-05-03-1c6befe4-3d532c3b/Singularity
 collection: ozanarkancan/r2r-navi
 ---

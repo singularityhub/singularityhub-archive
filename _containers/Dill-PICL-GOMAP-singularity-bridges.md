@@ -9,7 +9,7 @@ build_date: "2019-01-31T21:34:11.946Z"
 size_mb: 1989
 size: 713969695
 sif: "https://datasets.datalad.org/shub/Dill-PICL/GOMAP-singularity/bridges/2019-01-31-b86e8913-b2793c32/b2793c32181e7281c67416514effadb6.simg"
-url: https://datasets.datalad.org/shub/Dill-PICL/GOMAP-singularity/bridges/2019-01-31-b86e8913-b2793c32/
+datalad_url: https://datasets.datalad.org?dir=/shub/Dill-PICL/GOMAP-singularity/bridges/2019-01-31-b86e8913-b2793c32/
 recipe: https://datasets.datalad.org/shub/Dill-PICL/GOMAP-singularity/bridges/2019-01-31-b86e8913-b2793c32/Singularity
 collection: Dill-PICL/GOMAP-singularity
 ---

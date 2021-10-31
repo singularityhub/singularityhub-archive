@@ -9,7 +9,7 @@ build_date: "2020-07-14T14:35:13.542Z"
 size_mb: 3057.0
 size: 1143930911
 sif: "https://datasets.datalad.org/shub/seb-mueller/singularity_dropSeqPipe/v04/2020-07-14-80b8f732-f4d3d3f9/f4d3d3f9c10dd979257260dc0f96c593.sif"
-url: https://datasets.datalad.org/shub/seb-mueller/singularity_dropSeqPipe/v04/2020-07-14-80b8f732-f4d3d3f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/seb-mueller/singularity_dropSeqPipe/v04/2020-07-14-80b8f732-f4d3d3f9/
 recipe: https://datasets.datalad.org/shub/seb-mueller/singularity_dropSeqPipe/v04/2020-07-14-80b8f732-f4d3d3f9/Singularity
 collection: seb-mueller/singularity_dropSeqPipe
 ---

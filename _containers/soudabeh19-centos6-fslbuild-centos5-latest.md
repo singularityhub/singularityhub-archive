@@ -9,7 +9,7 @@ build_date: "2018-03-29T09:26:05.832Z"
 size_mb: 4606
 size: 3654791199
 sif: "https://datasets.datalad.org/shub/soudabeh19/centos6-fslbuild-centos5/latest/2018-03-29-49aa6e0a-87cb3234/87cb323495526786ade46d74e7a1f400.simg"
-url: https://datasets.datalad.org/shub/soudabeh19/centos6-fslbuild-centos5/latest/2018-03-29-49aa6e0a-87cb3234/
+datalad_url: https://datasets.datalad.org?dir=/shub/soudabeh19/centos6-fslbuild-centos5/latest/2018-03-29-49aa6e0a-87cb3234/
 recipe: https://datasets.datalad.org/shub/soudabeh19/centos6-fslbuild-centos5/latest/2018-03-29-49aa6e0a-87cb3234/Singularity
 collection: soudabeh19/centos6-fslbuild-centos5
 ---

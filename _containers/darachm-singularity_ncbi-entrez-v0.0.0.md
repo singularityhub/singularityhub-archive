@@ -9,7 +9,7 @@ build_date: "2020-10-29T22:47:20.359Z"
 size_mb: 219.0
 size: 81707039
 sif: "https://datasets.datalad.org/shub/darachm/singularity_ncbi-entrez/v0.0.0/2020-10-29-d91bc930-3f3b74cd/3f3b74cd71bc06bfc55337f96f409ed6.sif"
-url: https://datasets.datalad.org/shub/darachm/singularity_ncbi-entrez/v0.0.0/2020-10-29-d91bc930-3f3b74cd/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_ncbi-entrez/v0.0.0/2020-10-29-d91bc930-3f3b74cd/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_ncbi-entrez/v0.0.0/2020-10-29-d91bc930-3f3b74cd/Singularity
 collection: darachm/singularity_ncbi-entrez
 ---

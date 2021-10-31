@@ -9,7 +9,7 @@ build_date: "2020-02-25T10:10:18.735Z"
 size_mb: 6.0
 size: 2711583
 sif: "https://datasets.datalad.org/shub/deanpettinga/alpine-singularity/latest/2020-02-25-0515de00-a6dbdb47/a6dbdb47eac56035db7ba723e7b79a3d.sif"
-url: https://datasets.datalad.org/shub/deanpettinga/alpine-singularity/latest/2020-02-25-0515de00-a6dbdb47/
+datalad_url: https://datasets.datalad.org?dir=/shub/deanpettinga/alpine-singularity/latest/2020-02-25-0515de00-a6dbdb47/
 recipe: https://datasets.datalad.org/shub/deanpettinga/alpine-singularity/latest/2020-02-25-0515de00-a6dbdb47/Singularity
 collection: deanpettinga/alpine-singularity
 ---

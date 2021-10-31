@@ -9,7 +9,7 @@ build_date: "2019-01-04T21:39:45.010Z"
 size_mb: 3311
 size: 1882890271
 sif: "https://datasets.datalad.org/shub/jose-d/container-recipes/latest/2019-01-04-ab65ecc8-4d91cc1e/4d91cc1ed0bdc52abcb2579930132c08.simg"
-url: https://datasets.datalad.org/shub/jose-d/container-recipes/latest/2019-01-04-ab65ecc8-4d91cc1e/
+datalad_url: https://datasets.datalad.org?dir=/shub/jose-d/container-recipes/latest/2019-01-04-ab65ecc8-4d91cc1e/
 recipe: https://datasets.datalad.org/shub/jose-d/container-recipes/latest/2019-01-04-ab65ecc8-4d91cc1e/Singularity
 collection: jose-d/container-recipes
 ---

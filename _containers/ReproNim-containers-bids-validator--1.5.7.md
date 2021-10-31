@@ -9,7 +9,7 @@ build_date: "2020-10-31T02:22:32.549Z"
 size_mb: 422.0
 size: 90193951
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-validator--1.5.7/2020-10-31-df645321-77837824/7783782402a521f22a643f5f1e66bc9f.sif"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-validator--1.5.7/2020-10-31-df645321-77837824/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-validator--1.5.7/2020-10-31-df645321-77837824/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-validator--1.5.7/2020-10-31-df645321-77837824/Singularity
 collection: ReproNim/containers
 ---

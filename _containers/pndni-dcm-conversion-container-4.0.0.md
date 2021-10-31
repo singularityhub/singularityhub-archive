@@ -9,7 +9,7 @@ build_date: "2019-04-12T14:59:18.635Z"
 size_mb: 1497
 size: 518479903
 sif: "https://datasets.datalad.org/shub/pndni/dcm-conversion-container/4.0.0/2019-04-12-b0df0e67-0ce20af1/0ce20af12410aad1ef0b1c439c510bca.simg"
-url: https://datasets.datalad.org/shub/pndni/dcm-conversion-container/4.0.0/2019-04-12-b0df0e67-0ce20af1/
+datalad_url: https://datasets.datalad.org?dir=/shub/pndni/dcm-conversion-container/4.0.0/2019-04-12-b0df0e67-0ce20af1/
 recipe: https://datasets.datalad.org/shub/pndni/dcm-conversion-container/4.0.0/2019-04-12-b0df0e67-0ce20af1/Singularity
 collection: pndni/dcm-conversion-container
 ---

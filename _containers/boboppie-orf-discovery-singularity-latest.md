@@ -9,7 +9,7 @@ build_date: "2019-09-05T16:06:44.029Z"
 size_mb: 5451.0
 size: 2325680159
 sif: "https://datasets.datalad.org/shub/boboppie/orf-discovery-singularity/latest/2019-09-05-eb9d8b9f-5c1b53fd/5c1b53fdaffab7a5a702ebe5a1ed7132.sif"
-url: https://datasets.datalad.org/shub/boboppie/orf-discovery-singularity/latest/2019-09-05-eb9d8b9f-5c1b53fd/
+datalad_url: https://datasets.datalad.org?dir=/shub/boboppie/orf-discovery-singularity/latest/2019-09-05-eb9d8b9f-5c1b53fd/
 recipe: https://datasets.datalad.org/shub/boboppie/orf-discovery-singularity/latest/2019-09-05-eb9d8b9f-5c1b53fd/Singularity
 collection: boboppie/orf-discovery-singularity
 ---

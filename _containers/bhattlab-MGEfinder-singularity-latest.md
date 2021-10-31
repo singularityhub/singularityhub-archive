@@ -9,7 +9,7 @@ build_date: "2021-02-05T10:17:31.756Z"
 size_mb: 2948.0
 size: 1160269855
 sif: "https://datasets.datalad.org/shub/bhattlab/MGEfinder-singularity/latest/2021-02-05-23db4250-15acba20/15acba2052e6026ca50c80fff989d97e.sif"
-url: https://datasets.datalad.org/shub/bhattlab/MGEfinder-singularity/latest/2021-02-05-23db4250-15acba20/
+datalad_url: https://datasets.datalad.org?dir=/shub/bhattlab/MGEfinder-singularity/latest/2021-02-05-23db4250-15acba20/
 recipe: https://datasets.datalad.org/shub/bhattlab/MGEfinder-singularity/latest/2021-02-05-23db4250-15acba20/Singularity
 collection: bhattlab/MGEfinder-singularity
 ---

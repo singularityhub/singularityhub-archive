@@ -9,7 +9,7 @@ build_date: "2019-01-23T06:03:10.691Z"
 size_mb: 3549
 size: 1446187039
 sif: "https://datasets.datalad.org/shub/coreyjadams/larcv2-singularity/centos7-cpu-torch-mpi-root/2019-01-23-34cc9a47-afaec046/afaec0461f92fcf2ee7e0a6650415e53.simg"
-url: https://datasets.datalad.org/shub/coreyjadams/larcv2-singularity/centos7-cpu-torch-mpi-root/2019-01-23-34cc9a47-afaec046/
+datalad_url: https://datasets.datalad.org?dir=/shub/coreyjadams/larcv2-singularity/centos7-cpu-torch-mpi-root/2019-01-23-34cc9a47-afaec046/
 recipe: https://datasets.datalad.org/shub/coreyjadams/larcv2-singularity/centos7-cpu-torch-mpi-root/2019-01-23-34cc9a47-afaec046/Singularity
 collection: coreyjadams/larcv2-singularity
 ---

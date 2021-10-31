@@ -9,7 +9,7 @@ build_date: "2021-02-09T04:08:05.391Z"
 size_mb: 1836.0
 size: 591314975
 sif: "https://datasets.datalad.org/shub/tjhendrickson/BIDS_scripts/latest/2021-02-09-bab5fadd-d723ffed/d723ffed241366c98e095fd4bd9ed34b.sif"
-url: https://datasets.datalad.org/shub/tjhendrickson/BIDS_scripts/latest/2021-02-09-bab5fadd-d723ffed/
+datalad_url: https://datasets.datalad.org?dir=/shub/tjhendrickson/BIDS_scripts/latest/2021-02-09-bab5fadd-d723ffed/
 recipe: https://datasets.datalad.org/shub/tjhendrickson/BIDS_scripts/latest/2021-02-09-bab5fadd-d723ffed/Singularity
 collection: tjhendrickson/BIDS_scripts
 ---

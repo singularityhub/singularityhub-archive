@@ -9,7 +9,7 @@ build_date: "2018-01-15T15:00:26.079Z"
 size_mb: 561
 size: 213524511
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-picard/latest/2018-01-15-5e402d75-be16d3c0/be16d3c0e959be2e24a2b6fa118b75d2.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-picard/latest/2018-01-15-5e402d75-be16d3c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-picard/latest/2018-01-15-5e402d75-be16d3c0/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-picard/latest/2018-01-15-5e402d75-be16d3c0/Singularity
 collection: qbicsoftware/qbic-singularity-picard
 ---

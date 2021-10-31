@@ -9,7 +9,7 @@ build_date: "2021-04-09T18:46:14.847Z"
 size_mb: 3920
 size: 1613512735
 sif: "https://datasets.datalad.org/shub/marcc-hpc/neurodocker-afni/latest/2021-04-09-b729ea12-3eace911/3eace911eddf68e78addf15ce0fd0e12.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/neurodocker-afni/latest/2021-04-09-b729ea12-3eace911/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/neurodocker-afni/latest/2021-04-09-b729ea12-3eace911/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/neurodocker-afni/latest/2021-04-09-b729ea12-3eace911/Singularity
 collection: marcc-hpc/neurodocker-afni
 ---

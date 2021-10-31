@@ -9,7 +9,7 @@ build_date: "2018-06-08T05:56:44.289Z"
 size_mb: 2771
 size: 1332908063
 sif: "https://datasets.datalad.org/shub/jiangxu87/kcomplex/latest/2018-06-08-a07d1999-45a16e8a/45a16e8a3c312e9e70d6903437f6e6a2.simg"
-url: https://datasets.datalad.org/shub/jiangxu87/kcomplex/latest/2018-06-08-a07d1999-45a16e8a/
+datalad_url: https://datasets.datalad.org?dir=/shub/jiangxu87/kcomplex/latest/2018-06-08-a07d1999-45a16e8a/
 recipe: https://datasets.datalad.org/shub/jiangxu87/kcomplex/latest/2018-06-08-a07d1999-45a16e8a/Singularity
 collection: jiangxu87/kcomplex
 ---

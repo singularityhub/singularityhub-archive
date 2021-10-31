@@ -9,7 +9,7 @@ build_date: "2018-05-16T11:13:33.252Z"
 size_mb: 2065
 size: 768196639
 sif: "https://datasets.datalad.org/shub/granek/crne_transposon/canu/2018-05-16-233b0990-d059a295/d059a295a92f3df1205b6d2ff1e4f8e9.simg"
-url: https://datasets.datalad.org/shub/granek/crne_transposon/canu/2018-05-16-233b0990-d059a295/
+datalad_url: https://datasets.datalad.org?dir=/shub/granek/crne_transposon/canu/2018-05-16-233b0990-d059a295/
 recipe: https://datasets.datalad.org/shub/granek/crne_transposon/canu/2018-05-16-233b0990-d059a295/Singularity
 collection: granek/crne_transposon
 ---

@@ -9,7 +9,7 @@ build_date: "2018-07-30T21:57:56.217Z"
 size_mb: 158
 size: 43851807
 sif: "https://datasets.datalad.org/shub/ISU-HPC/py2-and-py3/latest/2018-07-30-70dad236-c63915a0/c63915a0d52f1d1ac4718c4cd77fe727.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/py2-and-py3/latest/2018-07-30-70dad236-c63915a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/py2-and-py3/latest/2018-07-30-70dad236-c63915a0/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/py2-and-py3/latest/2018-07-30-70dad236-c63915a0/Singularity
 collection: ISU-HPC/py2-and-py3
 ---

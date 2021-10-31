@@ -9,7 +9,7 @@ build_date: "2021-02-04T14:39:32.594Z"
 size_mb: 3710.0
 size: 1864626207
 sif: "https://datasets.datalad.org/shub/J35P312/FluFFyPipe/4.5/2021-02-04-283b0ac4-6439bd7d/6439bd7d4c1a9fd48bc3799ca7249a94.sif"
-url: https://datasets.datalad.org/shub/J35P312/FluFFyPipe/4.5/2021-02-04-283b0ac4-6439bd7d/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/FluFFyPipe/4.5/2021-02-04-283b0ac4-6439bd7d/
 recipe: https://datasets.datalad.org/shub/J35P312/FluFFyPipe/4.5/2021-02-04-283b0ac4-6439bd7d/Singularity
 collection: J35P312/FluFFyPipe
 ---

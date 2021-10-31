@@ -9,7 +9,7 @@ build_date: "2020-07-07T17:45:24.926Z"
 size_mb: 1108
 size: 495144991
 sif: "https://datasets.datalad.org/shub/clottaz/fastqpuri/latest/2020-07-07-dfc861e8-b093a1d5/b093a1d52507178befc0303ff59809fd.simg"
-url: https://datasets.datalad.org/shub/clottaz/fastqpuri/latest/2020-07-07-dfc861e8-b093a1d5/
+datalad_url: https://datasets.datalad.org?dir=/shub/clottaz/fastqpuri/latest/2020-07-07-dfc861e8-b093a1d5/
 recipe: https://datasets.datalad.org/shub/clottaz/fastqpuri/latest/2020-07-07-dfc861e8-b093a1d5/Singularity
 collection: clottaz/fastqpuri
 ---

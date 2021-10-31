@@ -9,7 +9,7 @@ build_date: "2019-06-24T14:47:57.070Z"
 size_mb: 3337
 size: 1788383263
 sif: "https://datasets.datalad.org/shub/Computational-Plant-Science/HairyRoots/latest/2019-06-24-dc13d4a2-c5cfca09/c5cfca09f92bc3114ee50f387d5b440b.simg"
-url: https://datasets.datalad.org/shub/Computational-Plant-Science/HairyRoots/latest/2019-06-24-dc13d4a2-c5cfca09/
+datalad_url: https://datasets.datalad.org?dir=/shub/Computational-Plant-Science/HairyRoots/latest/2019-06-24-dc13d4a2-c5cfca09/
 recipe: https://datasets.datalad.org/shub/Computational-Plant-Science/HairyRoots/latest/2019-06-24-dc13d4a2-c5cfca09/Singularity
 collection: Computational-Plant-Science/HairyRoots
 ---

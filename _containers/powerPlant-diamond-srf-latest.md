@@ -9,7 +9,7 @@ build_date: "2019-02-11T09:20:46.089Z"
 size_mb: 112
 size: 50950175
 sif: "https://datasets.datalad.org/shub/powerPlant/diamond-srf/latest/2019-02-11-b857eddc-29123ad3/29123ad352dccebc03bd04bd1c9d7298.simg"
-url: https://datasets.datalad.org/shub/powerPlant/diamond-srf/latest/2019-02-11-b857eddc-29123ad3/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/diamond-srf/latest/2019-02-11-b857eddc-29123ad3/
 recipe: https://datasets.datalad.org/shub/powerPlant/diamond-srf/latest/2019-02-11-b857eddc-29123ad3/Singularity
 collection: powerPlant/diamond-srf
 ---

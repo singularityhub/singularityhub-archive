@@ -9,7 +9,7 @@ build_date: "2020-09-29T11:07:02.282Z"
 size_mb: 9275.0
 size: 4738211871
 sif: "https://datasets.datalad.org/shub/yinglilu/niftynet_gpu_singularity/0.6.0/2020-09-29-53d5fa06-549ac67e/549ac67e5924c38ad48eba9ce91de0b5.sif"
-url: https://datasets.datalad.org/shub/yinglilu/niftynet_gpu_singularity/0.6.0/2020-09-29-53d5fa06-549ac67e/
+datalad_url: https://datasets.datalad.org?dir=/shub/yinglilu/niftynet_gpu_singularity/0.6.0/2020-09-29-53d5fa06-549ac67e/
 recipe: https://datasets.datalad.org/shub/yinglilu/niftynet_gpu_singularity/0.6.0/2020-09-29-53d5fa06-549ac67e/Singularity
 collection: yinglilu/niftynet_gpu_singularity
 ---

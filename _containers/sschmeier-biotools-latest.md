@@ -9,7 +9,7 @@ build_date: "2021-04-07T18:39:15.946Z"
 size_mb: 568
 size: 207347743
 sif: "https://datasets.datalad.org/shub/sschmeier/biotools/latest/2021-04-07-69ab5190-feb2aa21/feb2aa21447cb6b3684eacad17c30713.simg"
-url: https://datasets.datalad.org/shub/sschmeier/biotools/latest/2021-04-07-69ab5190-feb2aa21/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/biotools/latest/2021-04-07-69ab5190-feb2aa21/
 recipe: https://datasets.datalad.org/shub/sschmeier/biotools/latest/2021-04-07-69ab5190-feb2aa21/Singularity
 collection: sschmeier/biotools
 ---

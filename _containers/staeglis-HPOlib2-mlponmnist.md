@@ -9,7 +9,7 @@ build_date: "2019-03-07T14:19:11.465Z"
 size_mb: 946
 size: 375779359
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/mlponmnist/2019-03-07-7c53ecb0-2f720c0f/2f720c0f92997b948b7e7d79a9052c98.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/mlponmnist/2019-03-07-7c53ecb0-2f720c0f/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/mlponmnist/2019-03-07-7c53ecb0-2f720c0f/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/mlponmnist/2019-03-07-7c53ecb0-2f720c0f/Singularity
 collection: staeglis/HPOlib2
 ---

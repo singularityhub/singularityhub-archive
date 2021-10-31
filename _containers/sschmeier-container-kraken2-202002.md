@@ -9,7 +9,7 @@ build_date: "2020-12-10T09:33:59.425Z"
 size_mb: 1841.0
 size: 591077407
 sif: "https://datasets.datalad.org/shub/sschmeier/container-kraken2/202002/2020-12-10-d0b2d191-7473d872/7473d872276a3254b4292450e9fa2197.sif"
-url: https://datasets.datalad.org/shub/sschmeier/container-kraken2/202002/2020-12-10-d0b2d191-7473d872/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/container-kraken2/202002/2020-12-10-d0b2d191-7473d872/
 recipe: https://datasets.datalad.org/shub/sschmeier/container-kraken2/202002/2020-12-10-d0b2d191-7473d872/Singularity
 collection: sschmeier/container-kraken2
 ---

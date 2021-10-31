@@ -9,7 +9,7 @@ build_date: "2021-01-22T15:37:55.573Z"
 size_mb: 335.0
 size: 122548255
 sif: "https://datasets.datalad.org/shub/descostesn/singularities/gemv330/2021-01-22-1a452664-3634f212/3634f212e1823b8be82cc0d6d16dda11.sif"
-url: https://datasets.datalad.org/shub/descostesn/singularities/gemv330/2021-01-22-1a452664-3634f212/
+datalad_url: https://datasets.datalad.org?dir=/shub/descostesn/singularities/gemv330/2021-01-22-1a452664-3634f212/
 recipe: https://datasets.datalad.org/shub/descostesn/singularities/gemv330/2021-01-22-1a452664-3634f212/Singularity
 collection: descostesn/singularities
 ---

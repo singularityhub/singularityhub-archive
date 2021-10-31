@@ -9,7 +9,7 @@ build_date: "2020-12-29T00:59:58.939Z"
 size_mb: 1265.0
 size: 378638367
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/omb-5.6.3-ubuntu-18.04-mvapich-2.3.2/2020-12-29-c8d1cc07-424e1d7d/424e1d7d3239512d48c0f3d0eee5cc54.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/omb-5.6.3-ubuntu-18.04-mvapich-2.3.2/2020-12-29-c8d1cc07-424e1d7d/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/omb-5.6.3-ubuntu-18.04-mvapich-2.3.2/2020-12-29-c8d1cc07-424e1d7d/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/omb-5.6.3-ubuntu-18.04-mvapich-2.3.2/2020-12-29-c8d1cc07-424e1d7d/Singularity
 collection: mkandes/naked-singularity
 ---

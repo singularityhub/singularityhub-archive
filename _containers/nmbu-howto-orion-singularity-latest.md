@@ -9,7 +9,7 @@ build_date: "2020-10-09T13:40:45.637Z"
 size_mb: 4327.0
 size: 2241212447
 sif: "https://datasets.datalad.org/shub/nmbu-howto/orion-singularity/latest/2020-10-09-4eb1019f-af366a7b/af366a7b2e2ac0831053c74023c3df6d.sif"
-url: https://datasets.datalad.org/shub/nmbu-howto/orion-singularity/latest/2020-10-09-4eb1019f-af366a7b/
+datalad_url: https://datasets.datalad.org?dir=/shub/nmbu-howto/orion-singularity/latest/2020-10-09-4eb1019f-af366a7b/
 recipe: https://datasets.datalad.org/shub/nmbu-howto/orion-singularity/latest/2020-10-09-4eb1019f-af366a7b/Singularity
 collection: nmbu-howto/orion-singularity
 ---

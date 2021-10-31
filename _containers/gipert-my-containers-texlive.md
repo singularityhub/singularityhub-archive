@@ -9,7 +9,7 @@ build_date: "2020-04-25T07:17:11.458Z"
 size_mb: 3409.0
 size: 1298960415
 sif: "https://datasets.datalad.org/shub/gipert/my-containers/texlive/2020-04-25-0623a825-f85e5705/f85e5705a003f3d10be02a20860e151c.sif"
-url: https://datasets.datalad.org/shub/gipert/my-containers/texlive/2020-04-25-0623a825-f85e5705/
+datalad_url: https://datasets.datalad.org?dir=/shub/gipert/my-containers/texlive/2020-04-25-0623a825-f85e5705/
 recipe: https://datasets.datalad.org/shub/gipert/my-containers/texlive/2020-04-25-0623a825-f85e5705/Singularity
 collection: gipert/my-containers
 ---

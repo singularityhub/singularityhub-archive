@@ -9,7 +9,7 @@ build_date: "2020-08-12T04:07:39.452Z"
 size_mb: 382.0
 size: 135086111
 sif: "https://datasets.datalad.org/shub/MarissaLL/singularity-containers/plink_1.9/2020-08-12-d2ab3220-ef9ea85c/ef9ea85c6e2167aef0b71bc69df0e439.sif"
-url: https://datasets.datalad.org/shub/MarissaLL/singularity-containers/plink_1.9/2020-08-12-d2ab3220-ef9ea85c/
+datalad_url: https://datasets.datalad.org?dir=/shub/MarissaLL/singularity-containers/plink_1.9/2020-08-12-d2ab3220-ef9ea85c/
 recipe: https://datasets.datalad.org/shub/MarissaLL/singularity-containers/plink_1.9/2020-08-12-d2ab3220-ef9ea85c/Singularity
 collection: MarissaLL/singularity-containers
 ---

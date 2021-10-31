@@ -9,7 +9,7 @@ build_date: "2018-06-08T05:56:43.012Z"
 size_mb: 4245
 size: 2089279519
 sif: "https://datasets.datalad.org/shub/khanlab/prepT2space/v0.0.2a/2018-06-08-199c2018-39c1154c/39c1154cd50fe18ccbf4a4400b967ee4.simg"
-url: https://datasets.datalad.org/shub/khanlab/prepT2space/v0.0.2a/2018-06-08-199c2018-39c1154c/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/prepT2space/v0.0.2a/2018-06-08-199c2018-39c1154c/
 recipe: https://datasets.datalad.org/shub/khanlab/prepT2space/v0.0.2a/2018-06-08-199c2018-39c1154c/Singularity
 collection: khanlab/prepT2space
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-05T13:07:40.430Z"
 size_mb: 835.0
 size: 287596575
 sif: "https://datasets.datalad.org/shub/semarpetrus/singularity_containers_private/pankmers/2020-09-05-b0597dba-4de957f3/4de957f321e515dc4a06e58a5f3cf899.sif"
-url: https://datasets.datalad.org/shub/semarpetrus/singularity_containers_private/pankmers/2020-09-05-b0597dba-4de957f3/
+datalad_url: https://datasets.datalad.org?dir=/shub/semarpetrus/singularity_containers_private/pankmers/2020-09-05-b0597dba-4de957f3/
 recipe: https://datasets.datalad.org/shub/semarpetrus/singularity_containers_private/pankmers/2020-09-05-b0597dba-4de957f3/Singularity
 collection: semarpetrus/singularity_containers_private
 ---

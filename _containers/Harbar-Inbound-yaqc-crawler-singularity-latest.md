@@ -9,7 +9,7 @@ build_date: "2019-06-25T18:43:29.663Z"
 size_mb: 142
 size: 48267295
 sif: "https://datasets.datalad.org/shub/Harbar-Inbound/yaqc-crawler-singularity/latest/2019-06-25-33f738f5-1fb3b176/1fb3b1766201f64d3179058b0da171f6.simg"
-url: https://datasets.datalad.org/shub/Harbar-Inbound/yaqc-crawler-singularity/latest/2019-06-25-33f738f5-1fb3b176/
+datalad_url: https://datasets.datalad.org?dir=/shub/Harbar-Inbound/yaqc-crawler-singularity/latest/2019-06-25-33f738f5-1fb3b176/
 recipe: https://datasets.datalad.org/shub/Harbar-Inbound/yaqc-crawler-singularity/latest/2019-06-25-33f738f5-1fb3b176/Singularity
 collection: Harbar-Inbound/yaqc-crawler-singularity
 ---

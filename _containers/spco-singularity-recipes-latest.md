@@ -9,7 +9,7 @@ build_date: "2018-04-26T16:28:57.024Z"
 size_mb: 494
 size: 169091103
 sif: "https://datasets.datalad.org/shub/spco/singularity-recipes/latest/2018-04-26-9158d536-4eec6f99/4eec6f9932f3a16af84fc32ce4840832.simg"
-url: https://datasets.datalad.org/shub/spco/singularity-recipes/latest/2018-04-26-9158d536-4eec6f99/
+datalad_url: https://datasets.datalad.org?dir=/shub/spco/singularity-recipes/latest/2018-04-26-9158d536-4eec6f99/
 recipe: https://datasets.datalad.org/shub/spco/singularity-recipes/latest/2018-04-26-9158d536-4eec6f99/Singularity
 collection: spco/singularity-recipes
 ---

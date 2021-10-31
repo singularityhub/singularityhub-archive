@@ -9,7 +9,7 @@ build_date: "2020-01-06T14:33:17.020Z"
 size_mb: 1672
 size: 615432223
 sif: "https://datasets.datalad.org/shub/team113sanger/t113-singularity/r-3.6.0.base-1.0.0/2020-01-06-b1cb0809-266ee372/266ee3720198381ab31065570d4d2968.simg"
-url: https://datasets.datalad.org/shub/team113sanger/t113-singularity/r-3.6.0.base-1.0.0/2020-01-06-b1cb0809-266ee372/
+datalad_url: https://datasets.datalad.org?dir=/shub/team113sanger/t113-singularity/r-3.6.0.base-1.0.0/2020-01-06-b1cb0809-266ee372/
 recipe: https://datasets.datalad.org/shub/team113sanger/t113-singularity/r-3.6.0.base-1.0.0/2020-01-06-b1cb0809-266ee372/Singularity
 collection: team113sanger/t113-singularity
 ---

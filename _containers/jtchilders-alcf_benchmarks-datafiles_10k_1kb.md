@@ -9,7 +9,7 @@ build_date: "2019-04-08T19:28:24.218Z"
 size_mb: 1421
 size: 441462815
 sif: "https://datasets.datalad.org/shub/jtchilders/alcf_benchmarks/datafiles_10k_1kb/2019-04-08-33ab90ff-9c47273b/9c47273b66821e50ccb961b1aac0bea5.simg"
-url: https://datasets.datalad.org/shub/jtchilders/alcf_benchmarks/datafiles_10k_1kb/2019-04-08-33ab90ff-9c47273b/
+datalad_url: https://datasets.datalad.org?dir=/shub/jtchilders/alcf_benchmarks/datafiles_10k_1kb/2019-04-08-33ab90ff-9c47273b/
 recipe: https://datasets.datalad.org/shub/jtchilders/alcf_benchmarks/datafiles_10k_1kb/2019-04-08-33ab90ff-9c47273b/Singularity
 collection: jtchilders/alcf_benchmarks
 ---

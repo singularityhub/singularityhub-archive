@@ -9,7 +9,7 @@ build_date: "2021-04-14T00:15:43.406Z"
 size_mb: 8526.0
 size: 4852486175
 sif: "https://datasets.datalad.org/shub/manuel-munoz-aguirre/singularity-pytorch-gpu/1.0.0/2021-04-14-b67b0a43-069a5eca/069a5ecac1184028a954a7b01637117c.sif"
-url: https://datasets.datalad.org/shub/manuel-munoz-aguirre/singularity-pytorch-gpu/1.0.0/2021-04-14-b67b0a43-069a5eca/
+datalad_url: https://datasets.datalad.org?dir=/shub/manuel-munoz-aguirre/singularity-pytorch-gpu/1.0.0/2021-04-14-b67b0a43-069a5eca/
 recipe: https://datasets.datalad.org/shub/manuel-munoz-aguirre/singularity-pytorch-gpu/1.0.0/2021-04-14-b67b0a43-069a5eca/Singularity
 collection: manuel-munoz-aguirre/singularity-pytorch-gpu
 ---

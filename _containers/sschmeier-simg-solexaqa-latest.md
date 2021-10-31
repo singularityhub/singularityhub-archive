@@ -9,7 +9,7 @@ build_date: "2019-11-05T06:19:37.331Z"
 size_mb: 793
 size: 290189343
 sif: "https://datasets.datalad.org/shub/sschmeier/simg-solexaqa/latest/2019-11-05-c1e6a4cc-3eeb0c03/3eeb0c03bbbb48f415ba7a950601a958.simg"
-url: https://datasets.datalad.org/shub/sschmeier/simg-solexaqa/latest/2019-11-05-c1e6a4cc-3eeb0c03/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/simg-solexaqa/latest/2019-11-05-c1e6a4cc-3eeb0c03/
 recipe: https://datasets.datalad.org/shub/sschmeier/simg-solexaqa/latest/2019-11-05-c1e6a4cc-3eeb0c03/Singularity
 collection: sschmeier/simg-solexaqa
 ---

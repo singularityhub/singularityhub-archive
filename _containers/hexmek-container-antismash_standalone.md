@@ -9,7 +9,7 @@ build_date: "2021-04-13T14:08:03.909Z"
 size_mb: 4210.09765625
 size: 4414607360
 sif: "https://datasets.datalad.org/shub/hexmek/container/antismash_standalone/2021-04-13-ce571c78-104e9d81/104e9d81bc8e9245d2fd255ac88ee36f6a406a1782ff3285ea5ef12527205935.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/antismash_standalone/2021-04-13-ce571c78-104e9d81/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/antismash_standalone/2021-04-13-ce571c78-104e9d81/
 recipe: https://datasets.datalad.org/shub/hexmek/container/antismash_standalone/2021-04-13-ce571c78-104e9d81/Singularity
 collection: hexmek/container
 ---

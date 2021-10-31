@@ -9,7 +9,7 @@ build_date: "2019-10-23T07:28:05.876Z"
 size_mb: 780.0
 size: 334172191
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/expansionhunter-3.1.2/2019-10-23-265296a3-6dcf8109/6dcf810946d8e8e91f1dc1dbba6dcc92.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/expansionhunter-3.1.2/2019-10-23-265296a3-6dcf8109/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/expansionhunter-3.1.2/2019-10-23-265296a3-6dcf8109/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/expansionhunter-3.1.2/2019-10-23-265296a3-6dcf8109/Singularity
 collection: Clinical-Genomics/MIP
 ---

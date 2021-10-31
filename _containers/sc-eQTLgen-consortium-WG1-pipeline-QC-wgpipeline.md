@@ -9,7 +9,7 @@ build_date: "2021-03-24T04:39:36.464Z"
 size_mb: 7574.0
 size: 2822516767
 sif: "https://datasets.datalad.org/shub/sc-eQTLgen-consortium/WG1-pipeline-QC/wgpipeline/2021-03-24-b19f4ca6-98d1b20c/98d1b20cadfcd07e78df91ece0ec4622.sif"
-url: https://datasets.datalad.org/shub/sc-eQTLgen-consortium/WG1-pipeline-QC/wgpipeline/2021-03-24-b19f4ca6-98d1b20c/
+datalad_url: https://datasets.datalad.org?dir=/shub/sc-eQTLgen-consortium/WG1-pipeline-QC/wgpipeline/2021-03-24-b19f4ca6-98d1b20c/
 recipe: https://datasets.datalad.org/shub/sc-eQTLgen-consortium/WG1-pipeline-QC/wgpipeline/2021-03-24-b19f4ca6-98d1b20c/Singularity
 collection: sc-eQTLgen-consortium/WG1-pipeline-QC
 ---

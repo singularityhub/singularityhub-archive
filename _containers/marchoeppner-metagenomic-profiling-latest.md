@@ -9,7 +9,7 @@ build_date: "2019-12-03T14:01:58.574Z"
 size_mb: 899.58203125
 size: 943280128
 sif: "https://datasets.datalad.org/shub/marchoeppner/metagenomic-profiling/latest/2019-12-03-d4cb4560-9ccdb3dc/9ccdb3dcc88f43cd2826bbeecd2942408ca802242b2ffb0d4130dbee12af4b11.sif"
-url: https://datasets.datalad.org/shub/marchoeppner/metagenomic-profiling/latest/2019-12-03-d4cb4560-9ccdb3dc/
+datalad_url: https://datasets.datalad.org?dir=/shub/marchoeppner/metagenomic-profiling/latest/2019-12-03-d4cb4560-9ccdb3dc/
 recipe: https://datasets.datalad.org/shub/marchoeppner/metagenomic-profiling/latest/2019-12-03-d4cb4560-9ccdb3dc/Singularity
 collection: marchoeppner/metagenomic-profiling
 ---

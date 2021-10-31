@@ -9,7 +9,7 @@ build_date: "2019-08-08T09:32:00.402Z"
 size_mb: 2329
 size: 898117663
 sif: "https://datasets.datalad.org/shub/team113sanger/t113-singularity/star-fusion__1.6.0/2019-08-08-4021562a-c590d251/c590d251f163bb276ad323ca3e8ccbc3.simg"
-url: https://datasets.datalad.org/shub/team113sanger/t113-singularity/star-fusion__1.6.0/2019-08-08-4021562a-c590d251/
+datalad_url: https://datasets.datalad.org?dir=/shub/team113sanger/t113-singularity/star-fusion__1.6.0/2019-08-08-4021562a-c590d251/
 recipe: https://datasets.datalad.org/shub/team113sanger/t113-singularity/star-fusion__1.6.0/2019-08-08-4021562a-c590d251/Singularity
 collection: team113sanger/t113-singularity
 ---

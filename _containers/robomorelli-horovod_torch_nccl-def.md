@@ -9,7 +9,7 @@ build_date: "2021-03-21T16:08:08.505Z"
 size_mb: 11470.0
 size: 7157567519
 sif: "https://datasets.datalad.org/shub/robomorelli/horovod_torch_nccl/def/2021-03-21-15726f50-42247eae/42247eaefccad7e859f322a5c72ce26e.sif"
-url: https://datasets.datalad.org/shub/robomorelli/horovod_torch_nccl/def/2021-03-21-15726f50-42247eae/
+datalad_url: https://datasets.datalad.org?dir=/shub/robomorelli/horovod_torch_nccl/def/2021-03-21-15726f50-42247eae/
 recipe: https://datasets.datalad.org/shub/robomorelli/horovod_torch_nccl/def/2021-03-21-15726f50-42247eae/Singularity
 collection: robomorelli/horovod_torch_nccl
 ---

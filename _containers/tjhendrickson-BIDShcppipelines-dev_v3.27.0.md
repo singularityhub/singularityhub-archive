@@ -9,7 +9,7 @@ build_date: "2018-08-02T22:57:26.915Z"
 size_mb: 18546
 size: 8001560607
 sif: "https://datasets.datalad.org/shub/tjhendrickson/BIDShcppipelines/dev_v3.27.0/2018-08-02-a0648577-4ec85e56/4ec85e5635a1d71924167c3d98efe3f0.simg"
-url: https://datasets.datalad.org/shub/tjhendrickson/BIDShcppipelines/dev_v3.27.0/2018-08-02-a0648577-4ec85e56/
+datalad_url: https://datasets.datalad.org?dir=/shub/tjhendrickson/BIDShcppipelines/dev_v3.27.0/2018-08-02-a0648577-4ec85e56/
 recipe: https://datasets.datalad.org/shub/tjhendrickson/BIDShcppipelines/dev_v3.27.0/2018-08-02-a0648577-4ec85e56/Singularity
 collection: tjhendrickson/BIDShcppipelines
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-03T11:18:22.563Z"
 size_mb: 316.0
 size: 120193055
 sif: "https://datasets.datalad.org/shub/drmach/test_singularity/latest/2020-09-03-82e69398-c9d577c7/c9d577c7304abbfec2105f76e50e79dd.sif"
-url: https://datasets.datalad.org/shub/drmach/test_singularity/latest/2020-09-03-82e69398-c9d577c7/
+datalad_url: https://datasets.datalad.org?dir=/shub/drmach/test_singularity/latest/2020-09-03-82e69398-c9d577c7/
 recipe: https://datasets.datalad.org/shub/drmach/test_singularity/latest/2020-09-03-82e69398-c9d577c7/Singularity
 collection: drmach/test_singularity
 ---

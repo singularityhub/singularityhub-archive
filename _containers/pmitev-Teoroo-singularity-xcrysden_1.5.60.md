@@ -9,7 +9,7 @@ build_date: "2019-12-19T13:06:04.084Z"
 size_mb: 155.0
 size: 68739103
 sif: "https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/xcrysden_1.5.60/2019-12-19-c0e95f41-11b6b297/11b6b29753291d7da6f84eea15cc84df.sif"
-url: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/xcrysden_1.5.60/2019-12-19-c0e95f41-11b6b297/
+datalad_url: https://datasets.datalad.org?dir=/shub/pmitev/Teoroo-singularity/xcrysden_1.5.60/2019-12-19-c0e95f41-11b6b297/
 recipe: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/xcrysden_1.5.60/2019-12-19-c0e95f41-11b6b297/Singularity
 collection: pmitev/Teoroo-singularity
 ---

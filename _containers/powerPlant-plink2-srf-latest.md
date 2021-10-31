@@ -9,7 +9,7 @@ build_date: "2019-10-30T02:14:09.226Z"
 size_mb: 78.203125
 size: 82001920
 sif: "https://datasets.datalad.org/shub/powerPlant/plink2-srf/latest/2019-10-30-537bdf39-0088a863/0088a8633e39b8fd9287fd016869766aefcb13b85ad5f8067a49d924a6f71d2b.sif"
-url: https://datasets.datalad.org/shub/powerPlant/plink2-srf/latest/2019-10-30-537bdf39-0088a863/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/plink2-srf/latest/2019-10-30-537bdf39-0088a863/
 recipe: https://datasets.datalad.org/shub/powerPlant/plink2-srf/latest/2019-10-30-537bdf39-0088a863/Singularity
 collection: powerPlant/plink2-srf
 ---

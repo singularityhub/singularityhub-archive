@@ -9,7 +9,7 @@ build_date: "2019-07-01T20:21:49.640Z"
 size_mb: 2855
 size: 681750559
 sif: "https://datasets.datalad.org/shub/Amjadhpc/w2rap-contigger/latest/2019-07-01-221f6cab-2d50d4e4/2d50d4e47f3b2744b7c24711906c07f9.simg"
-url: https://datasets.datalad.org/shub/Amjadhpc/w2rap-contigger/latest/2019-07-01-221f6cab-2d50d4e4/
+datalad_url: https://datasets.datalad.org?dir=/shub/Amjadhpc/w2rap-contigger/latest/2019-07-01-221f6cab-2d50d4e4/
 recipe: https://datasets.datalad.org/shub/Amjadhpc/w2rap-contigger/latest/2019-07-01-221f6cab-2d50d4e4/Singularity
 collection: Amjadhpc/w2rap-contigger
 ---

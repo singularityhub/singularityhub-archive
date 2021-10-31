@@ -9,7 +9,7 @@ build_date: "2020-01-31T19:08:02.479Z"
 size_mb: 1648.0
 size: 498786335
 sif: "https://datasets.datalad.org/shub/coreyjadams/uboone_singularity/slf7-mpich/2020-01-31-0a1d532a-47fb3b80/47fb3b8088e87e91cc432bb64cb11bd6.sif"
-url: https://datasets.datalad.org/shub/coreyjadams/uboone_singularity/slf7-mpich/2020-01-31-0a1d532a-47fb3b80/
+datalad_url: https://datasets.datalad.org?dir=/shub/coreyjadams/uboone_singularity/slf7-mpich/2020-01-31-0a1d532a-47fb3b80/
 recipe: https://datasets.datalad.org/shub/coreyjadams/uboone_singularity/slf7-mpich/2020-01-31-0a1d532a-47fb3b80/Singularity
 collection: coreyjadams/uboone_singularity
 ---

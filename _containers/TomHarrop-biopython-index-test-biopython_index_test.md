@@ -9,7 +9,7 @@ build_date: "2019-05-09T08:14:52.685Z"
 size_mb: 1966
 size: 615325727
 sif: "https://datasets.datalad.org/shub/TomHarrop/biopython-index-test/biopython_index_test/2019-05-09-5acb1779-51463e59/51463e59141983d6a8aa871bba15c973.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/biopython-index-test/biopython_index_test/2019-05-09-5acb1779-51463e59/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/biopython-index-test/biopython_index_test/2019-05-09-5acb1779-51463e59/
 recipe: https://datasets.datalad.org/shub/TomHarrop/biopython-index-test/biopython_index_test/2019-05-09-5acb1779-51463e59/Singularity
 collection: TomHarrop/biopython-index-test
 ---

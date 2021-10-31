@@ -9,7 +9,7 @@ build_date: "2021-04-13T08:01:21.407Z"
 size_mb: 526.60546875
 size: 552185856
 sif: "https://datasets.datalad.org/shub/provarepro/mlperf-inference/v0.7-openvino-2020.3.1-python3.6-gcc-7.5.0/2021-04-13-a2836460-38799012/38799012f787d93dab019d07a88ab42db78c340fb65ed78eb2ef5a1c2eb4d6f9.sif"
-url: https://datasets.datalad.org/shub/provarepro/mlperf-inference/v0.7-openvino-2020.3.1-python3.6-gcc-7.5.0/2021-04-13-a2836460-38799012/
+datalad_url: https://datasets.datalad.org?dir=/shub/provarepro/mlperf-inference/v0.7-openvino-2020.3.1-python3.6-gcc-7.5.0/2021-04-13-a2836460-38799012/
 recipe: https://datasets.datalad.org/shub/provarepro/mlperf-inference/v0.7-openvino-2020.3.1-python3.6-gcc-7.5.0/2021-04-13-a2836460-38799012/Singularity
 collection: provarepro/mlperf-inference
 ---

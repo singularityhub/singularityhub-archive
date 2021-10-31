@@ -9,7 +9,7 @@ build_date: "2018-04-17T04:45:24.869Z"
 size_mb: 412
 size: 183918623
 sif: "https://datasets.datalad.org/shub/wkpalan/singularity-snpeff-snpsift/v1.0/2018-04-17-33dfac70-1e0004d7/1e0004d7fbaabd86b19030d1ba7ea621.simg"
-url: https://datasets.datalad.org/shub/wkpalan/singularity-snpeff-snpsift/v1.0/2018-04-17-33dfac70-1e0004d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/wkpalan/singularity-snpeff-snpsift/v1.0/2018-04-17-33dfac70-1e0004d7/
 recipe: https://datasets.datalad.org/shub/wkpalan/singularity-snpeff-snpsift/v1.0/2018-04-17-33dfac70-1e0004d7/Singularity
 collection: wkpalan/singularity-snpeff-snpsift
 ---

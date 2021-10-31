@@ -9,7 +9,7 @@ build_date: "2021-03-16T17:50:31.943Z"
 size_mb: 7151
 size: 3037179935
 sif: "https://datasets.datalad.org/shub/ResearchIT/qiime2/latest/2021-03-16-19457721-67da376d/67da376d3efd1ab56b318e914bef370d.simg"
-url: https://datasets.datalad.org/shub/ResearchIT/qiime2/latest/2021-03-16-19457721-67da376d/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchIT/qiime2/latest/2021-03-16-19457721-67da376d/
 recipe: https://datasets.datalad.org/shub/ResearchIT/qiime2/latest/2021-03-16-19457721-67da376d/Singularity
 collection: ResearchIT/qiime2
 ---

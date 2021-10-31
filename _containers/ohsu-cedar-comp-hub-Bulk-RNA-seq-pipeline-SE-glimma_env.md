@@ -9,7 +9,7 @@ build_date: "2019-05-28T18:44:44.570Z"
 size_mb: 2149
 size: 961736735
 sif: "https://datasets.datalad.org/shub/ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE/glimma_env/2019-05-28-6cf58e9d-460ca1f4/460ca1f402e574ffc79e7c5dbb217b98.simg"
-url: https://datasets.datalad.org/shub/ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE/glimma_env/2019-05-28-6cf58e9d-460ca1f4/
+datalad_url: https://datasets.datalad.org?dir=/shub/ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE/glimma_env/2019-05-28-6cf58e9d-460ca1f4/
 recipe: https://datasets.datalad.org/shub/ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE/glimma_env/2019-05-28-6cf58e9d-460ca1f4/Singularity
 collection: ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-01T20:24:47.187Z"
 size_mb: 765.0
 size: 309637151
 sif: "https://datasets.datalad.org/shub/tjhendrickson/BIDShcppipelines_status/latest/2020-01-01-ac73b5fb-abb47f19/abb47f19ff651336c9663f0ca3b07eb7.sif"
-url: https://datasets.datalad.org/shub/tjhendrickson/BIDShcppipelines_status/latest/2020-01-01-ac73b5fb-abb47f19/
+datalad_url: https://datasets.datalad.org?dir=/shub/tjhendrickson/BIDShcppipelines_status/latest/2020-01-01-ac73b5fb-abb47f19/
 recipe: https://datasets.datalad.org/shub/tjhendrickson/BIDShcppipelines_status/latest/2020-01-01-ac73b5fb-abb47f19/Singularity
 collection: tjhendrickson/BIDShcppipelines_status
 ---

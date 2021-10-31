@@ -9,7 +9,7 @@ build_date: "2019-04-16T01:22:32.913Z"
 size_mb: 9130
 size: 4086022175
 sif: "https://datasets.datalad.org/shub/mcw-meier-lab/Singularity/fsl/2019-04-16-5e51bb88-90738891/907388919cf6651ff32aa4558bb9435a.simg"
-url: https://datasets.datalad.org/shub/mcw-meier-lab/Singularity/fsl/2019-04-16-5e51bb88-90738891/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-meier-lab/Singularity/fsl/2019-04-16-5e51bb88-90738891/
 recipe: https://datasets.datalad.org/shub/mcw-meier-lab/Singularity/fsl/2019-04-16-5e51bb88-90738891/Singularity
 collection: mcw-meier-lab/Singularity
 ---

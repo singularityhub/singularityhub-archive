@@ -9,7 +9,7 @@ build_date: "2019-03-10T21:28:11.068Z"
 size_mb: 915
 size: 323682335
 sif: "https://datasets.datalad.org/shub/MacIver-Lab/Ergodic-Information-Harvesting/latest/2019-03-10-d2715e68-a3c2018b/a3c2018b57492682d0b082075dcd8a5c.simg"
-url: https://datasets.datalad.org/shub/MacIver-Lab/Ergodic-Information-Harvesting/latest/2019-03-10-d2715e68-a3c2018b/
+datalad_url: https://datasets.datalad.org?dir=/shub/MacIver-Lab/Ergodic-Information-Harvesting/latest/2019-03-10-d2715e68-a3c2018b/
 recipe: https://datasets.datalad.org/shub/MacIver-Lab/Ergodic-Information-Harvesting/latest/2019-03-10-d2715e68-a3c2018b/Singularity
 collection: MacIver-Lab/Ergodic-Information-Harvesting
 ---

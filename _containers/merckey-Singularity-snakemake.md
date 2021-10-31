@@ -9,7 +9,7 @@ build_date: "2019-06-23T23:32:47.644Z"
 size_mb: 1024
 size: 376061983
 sif: "https://datasets.datalad.org/shub/merckey/Singularity/snakemake/2019-06-23-0fc0b977-02b318f3/02b318f3c2057fd50003c713b06a5cdb.simg"
-url: https://datasets.datalad.org/shub/merckey/Singularity/snakemake/2019-06-23-0fc0b977-02b318f3/
+datalad_url: https://datasets.datalad.org?dir=/shub/merckey/Singularity/snakemake/2019-06-23-0fc0b977-02b318f3/
 recipe: https://datasets.datalad.org/shub/merckey/Singularity/snakemake/2019-06-23-0fc0b977-02b318f3/Singularity
 collection: merckey/Singularity
 ---

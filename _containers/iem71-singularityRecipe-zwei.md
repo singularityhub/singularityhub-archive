@@ -9,7 +9,7 @@ build_date: "2019-05-21T15:12:30.946Z"
 size_mb: None
 size: 336027679
 sif: "https://datasets.datalad.org/shub/iem71/singularityRecipe/zwei/2019-05-21-5bf2c07d-9f4d1f84/9f4d1f84817783279f083295bdf3ee4f.simg"
-url: https://datasets.datalad.org/shub/iem71/singularityRecipe/zwei/2019-05-21-5bf2c07d-9f4d1f84/
+datalad_url: https://datasets.datalad.org?dir=/shub/iem71/singularityRecipe/zwei/2019-05-21-5bf2c07d-9f4d1f84/
 recipe: https://datasets.datalad.org/shub/iem71/singularityRecipe/zwei/2019-05-21-5bf2c07d-9f4d1f84/Singularity
 collection: iem71/singularityRecipe
 ---

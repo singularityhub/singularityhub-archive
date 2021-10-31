@@ -9,7 +9,7 @@ build_date: "2020-01-09T15:49:14.696Z"
 size_mb: 6086
 size: 2129784863
 sif: "https://datasets.datalad.org/shub/dl-container-registry/furnari-flow/latest/2020-01-09-9221d16e-73b22de6/73b22de60f418d28c0d6c5571deb22e3.simg"
-url: https://datasets.datalad.org/shub/dl-container-registry/furnari-flow/latest/2020-01-09-9221d16e-73b22de6/
+datalad_url: https://datasets.datalad.org?dir=/shub/dl-container-registry/furnari-flow/latest/2020-01-09-9221d16e-73b22de6/
 recipe: https://datasets.datalad.org/shub/dl-container-registry/furnari-flow/latest/2020-01-09-9221d16e-73b22de6/Singularity
 collection: dl-container-registry/furnari-flow
 ---

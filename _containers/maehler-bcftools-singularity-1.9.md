@@ -9,7 +9,7 @@ build_date: "2020-11-02T09:19:41.036Z"
 size_mb: 436
 size: 175398943
 sif: "https://datasets.datalad.org/shub/maehler/bcftools-singularity/1.9/2020-11-02-d06e3b47-f77f23f6/f77f23f6e257889dc0e6d54dd37f4f33.simg"
-url: https://datasets.datalad.org/shub/maehler/bcftools-singularity/1.9/2020-11-02-d06e3b47-f77f23f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/maehler/bcftools-singularity/1.9/2020-11-02-d06e3b47-f77f23f6/
 recipe: https://datasets.datalad.org/shub/maehler/bcftools-singularity/1.9/2020-11-02-d06e3b47-f77f23f6/Singularity
 collection: maehler/bcftools-singularity
 ---

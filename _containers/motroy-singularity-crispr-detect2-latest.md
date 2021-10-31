@@ -9,7 +9,7 @@ build_date: "2019-08-06T11:05:12.088Z"
 size_mb: 1897.0
 size: 586317855
 sif: "https://datasets.datalad.org/shub/motroy/singularity-crispr-detect2/latest/2019-08-06-1eb6dd25-dd516ae1/dd516ae1225981e99a3f5a873054a2c0.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-crispr-detect2/latest/2019-08-06-1eb6dd25-dd516ae1/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-crispr-detect2/latest/2019-08-06-1eb6dd25-dd516ae1/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-crispr-detect2/latest/2019-08-06-1eb6dd25-dd516ae1/Singularity
 collection: motroy/singularity-crispr-detect2
 ---

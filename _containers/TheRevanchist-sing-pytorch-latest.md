@@ -9,7 +9,7 @@ build_date: "2019-04-30T20:21:09.572Z"
 size_mb: 9641
 size: 4877369375
 sif: "https://datasets.datalad.org/shub/TheRevanchist/sing-pytorch/latest/2019-04-30-3df7cd2e-83c997d3/83c997d3da13e0acf0b540f776d62d7b.simg"
-url: https://datasets.datalad.org/shub/TheRevanchist/sing-pytorch/latest/2019-04-30-3df7cd2e-83c997d3/
+datalad_url: https://datasets.datalad.org?dir=/shub/TheRevanchist/sing-pytorch/latest/2019-04-30-3df7cd2e-83c997d3/
 recipe: https://datasets.datalad.org/shub/TheRevanchist/sing-pytorch/latest/2019-04-30-3df7cd2e-83c997d3/Singularity
 collection: TheRevanchist/sing-pytorch
 ---

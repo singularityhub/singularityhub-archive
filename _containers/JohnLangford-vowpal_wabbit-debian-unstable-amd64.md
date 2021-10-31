@@ -9,7 +9,7 @@ build_date: "2018-07-03T21:25:27.017Z"
 size_mb: 844
 size: 297168927
 sif: "https://datasets.datalad.org/shub/JohnLangford/vowpal_wabbit/debian-unstable-amd64/2018-07-03-5dfd8a1f-b4c0c719/b4c0c71982a0d0cc72640a2686dc2a10.simg"
-url: https://datasets.datalad.org/shub/JohnLangford/vowpal_wabbit/debian-unstable-amd64/2018-07-03-5dfd8a1f-b4c0c719/
+datalad_url: https://datasets.datalad.org?dir=/shub/JohnLangford/vowpal_wabbit/debian-unstable-amd64/2018-07-03-5dfd8a1f-b4c0c719/
 recipe: https://datasets.datalad.org/shub/JohnLangford/vowpal_wabbit/debian-unstable-amd64/2018-07-03-5dfd8a1f-b4c0c719/Singularity
 collection: JohnLangford/vowpal_wabbit
 ---

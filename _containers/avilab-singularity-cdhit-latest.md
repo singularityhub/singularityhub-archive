@@ -9,7 +9,7 @@ build_date: "2021-03-13T19:52:37.693Z"
 size_mb: 418.0
 size: 137162783
 sif: "https://datasets.datalad.org/shub/avilab/singularity-cdhit/latest/2021-03-13-1908904a-d8c121e4/d8c121e41c0daf4bb072b4e2ae9478ab.sif"
-url: https://datasets.datalad.org/shub/avilab/singularity-cdhit/latest/2021-03-13-1908904a-d8c121e4/
+datalad_url: https://datasets.datalad.org?dir=/shub/avilab/singularity-cdhit/latest/2021-03-13-1908904a-d8c121e4/
 recipe: https://datasets.datalad.org/shub/avilab/singularity-cdhit/latest/2021-03-13-1908904a-d8c121e4/Singularity
 collection: avilab/singularity-cdhit
 ---

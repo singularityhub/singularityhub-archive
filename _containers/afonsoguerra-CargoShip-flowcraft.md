@@ -9,7 +9,7 @@ build_date: "2020-04-07T07:39:48.611Z"
 size_mb: 1241.0
 size: 724774943
 sif: "https://datasets.datalad.org/shub/afonsoguerra/CargoShip/flowcraft/2020-04-07-c62c09e0-5ad3b054/5ad3b0547f28f288a89a9ded0a680146.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/flowcraft/2020-04-07-c62c09e0-5ad3b054/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/CargoShip/flowcraft/2020-04-07-c62c09e0-5ad3b054/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/flowcraft/2020-04-07-c62c09e0-5ad3b054/Singularity
 collection: afonsoguerra/CargoShip
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-17T15:37:00.401Z"
 size_mb: 4723.0
 size: 1995681823
 sif: "https://datasets.datalad.org/shub/bioexcel/acpype_container/latest/2020-12-17-f664bc42-327fde17/327fde171dd5c572f15a2fe72530f616.sif"
-url: https://datasets.datalad.org/shub/bioexcel/acpype_container/latest/2020-12-17-f664bc42-327fde17/
+datalad_url: https://datasets.datalad.org?dir=/shub/bioexcel/acpype_container/latest/2020-12-17-f664bc42-327fde17/
 recipe: https://datasets.datalad.org/shub/bioexcel/acpype_container/latest/2020-12-17-f664bc42-327fde17/Singularity
 collection: bioexcel/acpype_container
 ---

@@ -9,7 +9,7 @@ build_date: "2017-10-24T12:17:43.712Z"
 size_mb: 588
 size: 319291423
 sif: "https://datasets.datalad.org/shub/c1t4r/multinode_sshwrapper/latest/2017-10-24-a4a27c5b-ce9915c1/ce9915c1ff22399fe5dc876355e61026.simg"
-url: https://datasets.datalad.org/shub/c1t4r/multinode_sshwrapper/latest/2017-10-24-a4a27c5b-ce9915c1/
+datalad_url: https://datasets.datalad.org?dir=/shub/c1t4r/multinode_sshwrapper/latest/2017-10-24-a4a27c5b-ce9915c1/
 recipe: https://datasets.datalad.org/shub/c1t4r/multinode_sshwrapper/latest/2017-10-24-a4a27c5b-ce9915c1/Singularity
 collection: c1t4r/multinode_sshwrapper
 ---

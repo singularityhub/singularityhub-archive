@@ -9,7 +9,7 @@ build_date: "2020-11-26T08:10:10.625Z"
 size_mb: 180
 size: 3035167
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-alpine/latest/2020-11-26-12c84e09-bc6bb8a7/bc6bb8a73d483b47ea07c94081e40d49.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-alpine/latest/2020-11-26-12c84e09-bc6bb8a7/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-alpine/latest/2020-11-26-12c84e09-bc6bb8a7/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-alpine/latest/2020-11-26-12c84e09-bc6bb8a7/Singularity
 collection: truatpasteurdotfr/singularity-alpine
 ---

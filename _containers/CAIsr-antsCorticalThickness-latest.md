@@ -9,7 +9,7 @@ build_date: "2018-02-09T16:52:43.174Z"
 size_mb: 1655
 size: 582897695
 sif: "https://datasets.datalad.org/shub/CAIsr/antsCorticalThickness/latest/2018-02-09-387cf89f-d63ef4c0/d63ef4c06f355297d42a9451a9d64814.simg"
-url: https://datasets.datalad.org/shub/CAIsr/antsCorticalThickness/latest/2018-02-09-387cf89f-d63ef4c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/CAIsr/antsCorticalThickness/latest/2018-02-09-387cf89f-d63ef4c0/
 recipe: https://datasets.datalad.org/shub/CAIsr/antsCorticalThickness/latest/2018-02-09-387cf89f-d63ef4c0/Singularity
 collection: CAIsr/antsCorticalThickness
 ---

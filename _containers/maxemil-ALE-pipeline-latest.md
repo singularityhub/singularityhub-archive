@@ -9,7 +9,7 @@ build_date: "2020-08-13T13:48:02.942Z"
 size_mb: 1062
 size: 366252063
 sif: "https://datasets.datalad.org/shub/maxemil/ALE-pipeline/latest/2020-08-13-d33481b2-bb6fbe71/bb6fbe7100bafa91e4a8e49e88094e0f.simg"
-url: https://datasets.datalad.org/shub/maxemil/ALE-pipeline/latest/2020-08-13-d33481b2-bb6fbe71/
+datalad_url: https://datasets.datalad.org?dir=/shub/maxemil/ALE-pipeline/latest/2020-08-13-d33481b2-bb6fbe71/
 recipe: https://datasets.datalad.org/shub/maxemil/ALE-pipeline/latest/2020-08-13-d33481b2-bb6fbe71/Singularity
 collection: maxemil/ALE-pipeline
 ---

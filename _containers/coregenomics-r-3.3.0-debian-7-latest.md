@@ -9,7 +9,7 @@ build_date: "2019-11-17T05:33:58.137Z"
 size_mb: 894
 size: 309198879
 sif: "https://datasets.datalad.org/shub/coregenomics/r-3.3.0-debian-7/latest/2019-11-17-8b8714cd-2a8a3c13/2a8a3c13bcc3a48cf6fde768b8013e26.simg"
-url: https://datasets.datalad.org/shub/coregenomics/r-3.3.0-debian-7/latest/2019-11-17-8b8714cd-2a8a3c13/
+datalad_url: https://datasets.datalad.org?dir=/shub/coregenomics/r-3.3.0-debian-7/latest/2019-11-17-8b8714cd-2a8a3c13/
 recipe: https://datasets.datalad.org/shub/coregenomics/r-3.3.0-debian-7/latest/2019-11-17-8b8714cd-2a8a3c13/Singularity
 collection: coregenomics/r-3.3.0-debian-7
 ---

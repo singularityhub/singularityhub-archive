@@ -9,7 +9,7 @@ build_date: "2018-09-14T11:36:51.601Z"
 size_mb: 5105
 size: 1837293599
 sif: "https://datasets.datalad.org/shub/LSSTDESC/drp-stack/drp/2018-09-14-d368735f-70a266fc/70a266fce3f1704bf290e228bbe69b5b.simg"
-url: https://datasets.datalad.org/shub/LSSTDESC/drp-stack/drp/2018-09-14-d368735f-70a266fc/
+datalad_url: https://datasets.datalad.org?dir=/shub/LSSTDESC/drp-stack/drp/2018-09-14-d368735f-70a266fc/
 recipe: https://datasets.datalad.org/shub/LSSTDESC/drp-stack/drp/2018-09-14-d368735f-70a266fc/Singularity
 collection: LSSTDESC/drp-stack
 ---

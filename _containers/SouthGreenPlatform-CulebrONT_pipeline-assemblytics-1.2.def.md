@@ -9,7 +9,7 @@ build_date: "2021-01-27T09:27:53.753Z"
 size_mb: 1288.0
 size: 509620255
 sif: "https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/assemblytics-1.2.def/2021-01-27-8f3f2762-998f377a/998f377aaf293159099a927965b32ad1.sif"
-url: https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/assemblytics-1.2.def/2021-01-27-8f3f2762-998f377a/
+datalad_url: https://datasets.datalad.org?dir=/shub/SouthGreenPlatform/CulebrONT_pipeline/assemblytics-1.2.def/2021-01-27-8f3f2762-998f377a/
 recipe: https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/assemblytics-1.2.def/2021-01-27-8f3f2762-998f377a/Singularity
 collection: SouthGreenPlatform/CulebrONT_pipeline
 ---

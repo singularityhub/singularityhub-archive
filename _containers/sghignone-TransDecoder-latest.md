@@ -9,7 +9,7 @@ build_date: "2021-02-05T16:22:27.751Z"
 size_mb: 738.0
 size: 230543391
 sif: "https://datasets.datalad.org/shub/sghignone/TransDecoder/latest/2021-02-05-9a4002cc-5adea192/5adea192cea348f732656fdec42870dc.sif"
-url: https://datasets.datalad.org/shub/sghignone/TransDecoder/latest/2021-02-05-9a4002cc-5adea192/
+datalad_url: https://datasets.datalad.org?dir=/shub/sghignone/TransDecoder/latest/2021-02-05-9a4002cc-5adea192/
 recipe: https://datasets.datalad.org/shub/sghignone/TransDecoder/latest/2021-02-05-9a4002cc-5adea192/Singularity
 collection: sghignone/TransDecoder
 ---

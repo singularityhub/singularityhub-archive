@@ -9,7 +9,7 @@ build_date: "2019-09-26T13:58:20.041Z"
 size_mb: 14587.0
 size: 5847265311
 sif: "https://datasets.datalad.org/shub/bilgelm/containers/nipype/2019-09-26-4c5ee3e7-45eabc0a/45eabc0ae6fe1e31710c49acae17cf7a.sif"
-url: https://datasets.datalad.org/shub/bilgelm/containers/nipype/2019-09-26-4c5ee3e7-45eabc0a/
+datalad_url: https://datasets.datalad.org?dir=/shub/bilgelm/containers/nipype/2019-09-26-4c5ee3e7-45eabc0a/
 recipe: https://datasets.datalad.org/shub/bilgelm/containers/nipype/2019-09-26-4c5ee3e7-45eabc0a/Singularity
 collection: bilgelm/containers
 ---

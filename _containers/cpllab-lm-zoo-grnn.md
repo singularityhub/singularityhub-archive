@@ -9,7 +9,7 @@ build_date: "2020-05-15T23:03:53.166Z"
 size_mb: 4600.0
 size: 2834829343
 sif: "https://datasets.datalad.org/shub/cpllab/lm-zoo/grnn/2020-05-15-2b17c77f-0815b73f/0815b73f834bdfd97f3e2abac7cb9231.sif"
-url: https://datasets.datalad.org/shub/cpllab/lm-zoo/grnn/2020-05-15-2b17c77f-0815b73f/
+datalad_url: https://datasets.datalad.org?dir=/shub/cpllab/lm-zoo/grnn/2020-05-15-2b17c77f-0815b73f/
 recipe: https://datasets.datalad.org/shub/cpllab/lm-zoo/grnn/2020-05-15-2b17c77f-0815b73f/Singularity
 collection: cpllab/lm-zoo
 ---

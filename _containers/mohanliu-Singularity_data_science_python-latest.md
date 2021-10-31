@@ -9,7 +9,7 @@ build_date: "2019-10-17T14:59:43.655Z"
 size_mb: 2595
 size: 801910815
 sif: "https://datasets.datalad.org/shub/mohanliu/Singularity_data_science_python/latest/2019-10-17-bbf4a83f-26e451e9/26e451e936d3a6f3ead92200e75c56f3.simg"
-url: https://datasets.datalad.org/shub/mohanliu/Singularity_data_science_python/latest/2019-10-17-bbf4a83f-26e451e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/mohanliu/Singularity_data_science_python/latest/2019-10-17-bbf4a83f-26e451e9/
 recipe: https://datasets.datalad.org/shub/mohanliu/Singularity_data_science_python/latest/2019-10-17-bbf4a83f-26e451e9/Singularity
 collection: mohanliu/Singularity_data_science_python
 ---

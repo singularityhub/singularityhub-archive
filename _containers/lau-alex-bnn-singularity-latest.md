@@ -9,7 +9,7 @@ build_date: "2019-11-15T11:44:48.709Z"
 size_mb: 325.08203125
 size: 340873216
 sif: "https://datasets.datalad.org/shub/lau-alex/bnn-singularity/latest/2019-11-15-9942124e-65bd1bc6/65bd1bc6b26edcea36d80869acddef8116880f05e0923a45d2c4035acb399698.sif"
-url: https://datasets.datalad.org/shub/lau-alex/bnn-singularity/latest/2019-11-15-9942124e-65bd1bc6/
+datalad_url: https://datasets.datalad.org?dir=/shub/lau-alex/bnn-singularity/latest/2019-11-15-9942124e-65bd1bc6/
 recipe: https://datasets.datalad.org/shub/lau-alex/bnn-singularity/latest/2019-11-15-9942124e-65bd1bc6/Singularity
 collection: lau-alex/bnn-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-25T02:20:37.595Z"
 size_mb: 11806.0
 size: 6777401375
 sif: "https://datasets.datalad.org/shub/AstronomerJoe/GPUs3/cuda10/2020-03-25-37a85842-79ec5d01/79ec5d0182724a237ee259cea4c61fce.sif"
-url: https://datasets.datalad.org/shub/AstronomerJoe/GPUs3/cuda10/2020-03-25-37a85842-79ec5d01/
+datalad_url: https://datasets.datalad.org?dir=/shub/AstronomerJoe/GPUs3/cuda10/2020-03-25-37a85842-79ec5d01/
 recipe: https://datasets.datalad.org/shub/AstronomerJoe/GPUs3/cuda10/2020-03-25-37a85842-79ec5d01/Singularity
 collection: AstronomerJoe/GPUs3
 ---

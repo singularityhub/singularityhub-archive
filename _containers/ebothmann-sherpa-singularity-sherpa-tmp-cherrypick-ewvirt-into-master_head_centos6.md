@@ -9,7 +9,7 @@ build_date: "2020-09-23T18:08:57.361Z"
 size_mb: 5589.0
 size: 999890975
 sif: "https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/sherpa-tmp-cherrypick-ewvirt-into-master_head_centos6/2020-09-23-129f688a-981128e7/981128e732a9ccfedd90c4e93a0dacc5.sif"
-url: https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/sherpa-tmp-cherrypick-ewvirt-into-master_head_centos6/2020-09-23-129f688a-981128e7/
+datalad_url: https://datasets.datalad.org?dir=/shub/ebothmann/sherpa-singularity/sherpa-tmp-cherrypick-ewvirt-into-master_head_centos6/2020-09-23-129f688a-981128e7/
 recipe: https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/sherpa-tmp-cherrypick-ewvirt-into-master_head_centos6/2020-09-23-129f688a-981128e7/Singularity
 collection: ebothmann/sherpa-singularity
 ---

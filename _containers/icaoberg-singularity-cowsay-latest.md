@@ -9,7 +9,7 @@ build_date: "2020-11-26T04:56:13.991Z"
 size_mb: 167.0
 size: 67342367
 sif: "https://datasets.datalad.org/shub/icaoberg/singularity-cowsay/latest/2020-11-26-f48ad705-cc1532ab/cc1532ab43eb66e866a72e3519dcc95c.sif"
-url: https://datasets.datalad.org/shub/icaoberg/singularity-cowsay/latest/2020-11-26-f48ad705-cc1532ab/
+datalad_url: https://datasets.datalad.org?dir=/shub/icaoberg/singularity-cowsay/latest/2020-11-26-f48ad705-cc1532ab/
 recipe: https://datasets.datalad.org/shub/icaoberg/singularity-cowsay/latest/2020-11-26-f48ad705-cc1532ab/Singularity
 collection: icaoberg/singularity-cowsay
 ---

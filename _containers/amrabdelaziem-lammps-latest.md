@@ -9,7 +9,7 @@ build_date: "2019-08-15T15:59:08.114Z"
 size_mb: 1328
 size: 543535135
 sif: "https://datasets.datalad.org/shub/amrabdelaziem/lammps/latest/2019-08-15-6cac11a3-0966002a/0966002ae61108caa601731239f96c39.simg"
-url: https://datasets.datalad.org/shub/amrabdelaziem/lammps/latest/2019-08-15-6cac11a3-0966002a/
+datalad_url: https://datasets.datalad.org?dir=/shub/amrabdelaziem/lammps/latest/2019-08-15-6cac11a3-0966002a/
 recipe: https://datasets.datalad.org/shub/amrabdelaziem/lammps/latest/2019-08-15-6cac11a3-0966002a/Singularity
 collection: amrabdelaziem/lammps
 ---

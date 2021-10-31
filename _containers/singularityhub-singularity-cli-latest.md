@@ -9,7 +9,7 @@ build_date: "2020-11-17T17:07:30.926Z"
 size_mb: 461
 size: 180199455
 sif: "https://datasets.datalad.org/shub/singularityhub/singularity-cli/latest/2020-11-17-7b430f5c-79e9e2c9/79e9e2c960494c898636b539e2463478.simg"
-url: https://datasets.datalad.org/shub/singularityhub/singularity-cli/latest/2020-11-17-7b430f5c-79e9e2c9/
+datalad_url: https://datasets.datalad.org?dir=/shub/singularityhub/singularity-cli/latest/2020-11-17-7b430f5c-79e9e2c9/
 recipe: https://datasets.datalad.org/shub/singularityhub/singularity-cli/latest/2020-11-17-7b430f5c-79e9e2c9/Singularity
 collection: singularityhub/singularity-cli
 ---

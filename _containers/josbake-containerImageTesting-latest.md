@@ -9,7 +9,7 @@ build_date: "2018-08-31T03:21:36.669Z"
 size_mb: 220
 size: 93384735
 sif: "https://datasets.datalad.org/shub/josbake/containerImageTesting/latest/2018-08-31-561c0447-a1d16bf4/a1d16bf435b36c5fe85e7300bbb02405.simg"
-url: https://datasets.datalad.org/shub/josbake/containerImageTesting/latest/2018-08-31-561c0447-a1d16bf4/
+datalad_url: https://datasets.datalad.org?dir=/shub/josbake/containerImageTesting/latest/2018-08-31-561c0447-a1d16bf4/
 recipe: https://datasets.datalad.org/shub/josbake/containerImageTesting/latest/2018-08-31-561c0447-a1d16bf4/Singularity
 collection: josbake/containerImageTesting
 ---

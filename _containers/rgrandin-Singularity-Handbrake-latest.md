@@ -9,7 +9,7 @@ build_date: "2019-09-09T13:42:25.850Z"
 size_mb: 1007
 size: 417480735
 sif: "https://datasets.datalad.org/shub/rgrandin/Singularity-Handbrake/latest/2019-09-09-b2837775-1066e548/1066e54878bd752774fdc267db8f0870.simg"
-url: https://datasets.datalad.org/shub/rgrandin/Singularity-Handbrake/latest/2019-09-09-b2837775-1066e548/
+datalad_url: https://datasets.datalad.org?dir=/shub/rgrandin/Singularity-Handbrake/latest/2019-09-09-b2837775-1066e548/
 recipe: https://datasets.datalad.org/shub/rgrandin/Singularity-Handbrake/latest/2019-09-09-b2837775-1066e548/Singularity
 collection: rgrandin/Singularity-Handbrake
 ---

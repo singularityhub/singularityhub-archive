@@ -9,7 +9,7 @@ build_date: "2020-12-14T04:26:28.009Z"
 size_mb: 1471.0
 size: 949735455
 sif: "https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-knime/knime/2020-12-14-e3b307a8-2b3dced5/2b3dced586a7268b779dacb5a6a0cb7b.sif"
-url: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-knime/knime/2020-12-14-e3b307a8-2b3dced5/
+datalad_url: https://datasets.datalad.org?dir=/shub/ternaustralia/coesra-singularity-knime/knime/2020-12-14-e3b307a8-2b3dced5/
 recipe: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-knime/knime/2020-12-14-e3b307a8-2b3dced5/Singularity
 collection: ternaustralia/coesra-singularity-knime
 ---

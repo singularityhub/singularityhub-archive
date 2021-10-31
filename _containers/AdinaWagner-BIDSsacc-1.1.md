@@ -9,7 +9,7 @@ build_date: "2018-11-30T19:45:31.689Z"
 size_mb: 964
 size: 341168159
 sif: "https://datasets.datalad.org/shub/AdinaWagner/BIDSsacc/1.1/2018-11-30-e0595089-5d299b49/5d299b49d81f59c0ea721f2079204889.simg"
-url: https://datasets.datalad.org/shub/AdinaWagner/BIDSsacc/1.1/2018-11-30-e0595089-5d299b49/
+datalad_url: https://datasets.datalad.org?dir=/shub/AdinaWagner/BIDSsacc/1.1/2018-11-30-e0595089-5d299b49/
 recipe: https://datasets.datalad.org/shub/AdinaWagner/BIDSsacc/1.1/2018-11-30-e0595089-5d299b49/Singularity
 collection: AdinaWagner/BIDSsacc
 ---

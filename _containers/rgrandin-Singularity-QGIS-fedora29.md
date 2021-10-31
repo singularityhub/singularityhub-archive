@@ -9,7 +9,7 @@ build_date: "2019-11-13T15:20:29.066Z"
 size_mb: 1605
 size: 611463199
 sif: "https://datasets.datalad.org/shub/rgrandin/Singularity-QGIS/fedora29/2019-11-13-42c20da5-0fdf3011/0fdf3011fc2b540381cefc3511404edf.simg"
-url: https://datasets.datalad.org/shub/rgrandin/Singularity-QGIS/fedora29/2019-11-13-42c20da5-0fdf3011/
+datalad_url: https://datasets.datalad.org?dir=/shub/rgrandin/Singularity-QGIS/fedora29/2019-11-13-42c20da5-0fdf3011/
 recipe: https://datasets.datalad.org/shub/rgrandin/Singularity-QGIS/fedora29/2019-11-13-42c20da5-0fdf3011/Singularity
 collection: rgrandin/Singularity-QGIS
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-16T13:06:46.198Z"
 size_mb: 88.109375
 size: 92389376
 sif: "https://datasets.datalad.org/shub/MRChemSoft/mrchem-singularity/v1.0.1-nompi/2021-04-16-5b3d73d5-e13076a1/e13076a117d82851420e69a0c7d170ebde9c24918997f294cf076e891901d31f.sif"
-url: https://datasets.datalad.org/shub/MRChemSoft/mrchem-singularity/v1.0.1-nompi/2021-04-16-5b3d73d5-e13076a1/
+datalad_url: https://datasets.datalad.org?dir=/shub/MRChemSoft/mrchem-singularity/v1.0.1-nompi/2021-04-16-5b3d73d5-e13076a1/
 recipe: https://datasets.datalad.org/shub/MRChemSoft/mrchem-singularity/v1.0.1-nompi/2021-04-16-5b3d73d5-e13076a1/Singularity
 collection: MRChemSoft/mrchem-singularity
 ---

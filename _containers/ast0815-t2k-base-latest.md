@@ -9,7 +9,7 @@ build_date: "2021-02-12T19:09:17.468Z"
 size_mb: 1006.0
 size: 317804575
 sif: "https://datasets.datalad.org/shub/ast0815/t2k-base/latest/2021-02-12-bab8f4c0-561a17d9/561a17d981f8f16b70904242e25bdeaa.sif"
-url: https://datasets.datalad.org/shub/ast0815/t2k-base/latest/2021-02-12-bab8f4c0-561a17d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/ast0815/t2k-base/latest/2021-02-12-bab8f4c0-561a17d9/
 recipe: https://datasets.datalad.org/shub/ast0815/t2k-base/latest/2021-02-12-bab8f4c0-561a17d9/Singularity
 collection: ast0815/t2k-base
 ---

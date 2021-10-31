@@ -9,7 +9,7 @@ build_date: "2020-11-18T13:38:36.528Z"
 size_mb: 2365.0
 size: 1075572767
 sif: "https://datasets.datalad.org/shub/raveancic/cellrangerv4/latest/2020-11-18-93c20ae4-1dc9aee3/1dc9aee309984975e55d12d06b110df6.sif"
-url: https://datasets.datalad.org/shub/raveancic/cellrangerv4/latest/2020-11-18-93c20ae4-1dc9aee3/
+datalad_url: https://datasets.datalad.org?dir=/shub/raveancic/cellrangerv4/latest/2020-11-18-93c20ae4-1dc9aee3/
 recipe: https://datasets.datalad.org/shub/raveancic/cellrangerv4/latest/2020-11-18-93c20ae4-1dc9aee3/Singularity
 collection: raveancic/cellrangerv4
 ---

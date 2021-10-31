@@ -9,7 +9,7 @@ build_date: "2018-11-30T00:08:57.268Z"
 size_mb: 581
 size: 215670815
 sif: "https://datasets.datalad.org/shub/romxero/loadcaffe_singularity/latest/2018-11-30-7f832fe3-5e35b7c1/5e35b7c193070eb74f7d3eaf5a3db8e9.simg"
-url: https://datasets.datalad.org/shub/romxero/loadcaffe_singularity/latest/2018-11-30-7f832fe3-5e35b7c1/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/loadcaffe_singularity/latest/2018-11-30-7f832fe3-5e35b7c1/
 recipe: https://datasets.datalad.org/shub/romxero/loadcaffe_singularity/latest/2018-11-30-7f832fe3-5e35b7c1/Singularity
 collection: romxero/loadcaffe_singularity
 ---

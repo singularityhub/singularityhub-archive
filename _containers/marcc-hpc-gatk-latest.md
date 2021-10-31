@@ -9,7 +9,7 @@ build_date: "2021-03-15T08:55:38.125Z"
 size_mb: 5016
 size: 2487083039
 sif: "https://datasets.datalad.org/shub/marcc-hpc/gatk/latest/2021-03-15-62b0fdf8-1abacda4/1abacda4cb0339fb4a217218c80e4748.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/gatk/latest/2021-03-15-62b0fdf8-1abacda4/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/gatk/latest/2021-03-15-62b0fdf8-1abacda4/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/gatk/latest/2021-03-15-62b0fdf8-1abacda4/Singularity
 collection: marcc-hpc/gatk
 ---

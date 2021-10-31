@@ -9,7 +9,7 @@ build_date: "2020-06-09T02:45:29.966Z"
 size_mb: 789
 size: 291508255
 sif: "https://datasets.datalad.org/shub/baxpr/mp2rage/v2.0.0/2020-06-09-e6902e7e-c3fe8b93/c3fe8b93f6a03a3a5f126a502472bff0.simg"
-url: https://datasets.datalad.org/shub/baxpr/mp2rage/v2.0.0/2020-06-09-e6902e7e-c3fe8b93/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/mp2rage/v2.0.0/2020-06-09-e6902e7e-c3fe8b93/
 recipe: https://datasets.datalad.org/shub/baxpr/mp2rage/v2.0.0/2020-06-09-e6902e7e-c3fe8b93/Singularity
 collection: baxpr/mp2rage
 ---

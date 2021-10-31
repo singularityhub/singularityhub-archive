@@ -9,7 +9,7 @@ build_date: "2018-08-06T09:55:00.987Z"
 size_mb: 76
 size: 27947039
 sif: "https://datasets.datalad.org/shub/RedHenLab/singularity_containers/alex_practice/2018-08-06-91a2cd2e-ed8cb5f6/ed8cb5f6acb632afa3a732c9983f9c04.simg"
-url: https://datasets.datalad.org/shub/RedHenLab/singularity_containers/alex_practice/2018-08-06-91a2cd2e-ed8cb5f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/RedHenLab/singularity_containers/alex_practice/2018-08-06-91a2cd2e-ed8cb5f6/
 recipe: https://datasets.datalad.org/shub/RedHenLab/singularity_containers/alex_practice/2018-08-06-91a2cd2e-ed8cb5f6/Singularity
 collection: RedHenLab/singularity_containers
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-14T19:49:56.596Z"
 size_mb: 793.0
 size: 293855263
 sif: "https://datasets.datalad.org/shub/1001-1100/csc771m-singularity/recipe/2019-12-14-f73f8198-09ad5459/09ad54595c63b80909ec2a8e69a1087e.sif"
-url: https://datasets.datalad.org/shub/1001-1100/csc771m-singularity/recipe/2019-12-14-f73f8198-09ad5459/
+datalad_url: https://datasets.datalad.org?dir=/shub/1001-1100/csc771m-singularity/recipe/2019-12-14-f73f8198-09ad5459/
 recipe: https://datasets.datalad.org/shub/1001-1100/csc771m-singularity/recipe/2019-12-14-f73f8198-09ad5459/Singularity
 collection: 1001-1100/csc771m-singularity
 ---

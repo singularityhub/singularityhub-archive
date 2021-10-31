@@ -9,7 +9,7 @@ build_date: "2019-11-03T22:57:52.704Z"
 size_mb: 6698.0
 size: 3240517632
 sif: "https://datasets.datalad.org/shub/TomHarrop/ont-containers/clairvoyante_1.01/2019-11-03-a178eadd-8b10ad06/8b10ad063726de241f9383a1510cdf80ab22b6af9dd30aa68e45d50d62ce5795.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/ont-containers/clairvoyante_1.01/2019-11-03-a178eadd-8b10ad06/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/ont-containers/clairvoyante_1.01/2019-11-03-a178eadd-8b10ad06/
 recipe: https://datasets.datalad.org/shub/TomHarrop/ont-containers/clairvoyante_1.01/2019-11-03-a178eadd-8b10ad06/Singularity
 collection: TomHarrop/ont-containers
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-03T03:30:51.940Z"
 size_mb: 10513.0
 size: 4349632543
 sif: "https://datasets.datalad.org/shub/CallumWalley/volsung-cudnn8-runtime-ubuntu18.04/latest/2020-12-03-33c45d4b-619974d1/619974d11417e7a2edb6aad4086e0a3d.sif"
-url: https://datasets.datalad.org/shub/CallumWalley/volsung-cudnn8-runtime-ubuntu18.04/latest/2020-12-03-33c45d4b-619974d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/CallumWalley/volsung-cudnn8-runtime-ubuntu18.04/latest/2020-12-03-33c45d4b-619974d1/
 recipe: https://datasets.datalad.org/shub/CallumWalley/volsung-cudnn8-runtime-ubuntu18.04/latest/2020-12-03-33c45d4b-619974d1/Singularity
 collection: CallumWalley/volsung-cudnn8-runtime-ubuntu18.04
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-23T20:55:38.837Z"
 size_mb: 1671
 size: 430342175
 sif: "https://datasets.datalad.org/shub/alan0415/singularity_swift/v1/2019-04-23-623771d6-a2098054/a20980548e45a21432e2f3defee9a123.simg"
-url: https://datasets.datalad.org/shub/alan0415/singularity_swift/v1/2019-04-23-623771d6-a2098054/
+datalad_url: https://datasets.datalad.org?dir=/shub/alan0415/singularity_swift/v1/2019-04-23-623771d6-a2098054/
 recipe: https://datasets.datalad.org/shub/alan0415/singularity_swift/v1/2019-04-23-623771d6-a2098054/Singularity
 collection: alan0415/singularity_swift
 ---

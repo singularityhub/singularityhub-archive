@@ -9,7 +9,7 @@ build_date: "2019-02-11T14:03:43.501Z"
 size_mb: 9335
 size: 4788760607
 sif: "https://datasets.datalad.org/shub/shaheenkdr/IndianASR/indianasr/2019-02-11-849e67af-39517d33/39517d33eb6cc2dff79fc09dc9b2424f.simg"
-url: https://datasets.datalad.org/shub/shaheenkdr/IndianASR/indianasr/2019-02-11-849e67af-39517d33/
+datalad_url: https://datasets.datalad.org?dir=/shub/shaheenkdr/IndianASR/indianasr/2019-02-11-849e67af-39517d33/
 recipe: https://datasets.datalad.org/shub/shaheenkdr/IndianASR/indianasr/2019-02-11-849e67af-39517d33/Singularity
 collection: shaheenkdr/IndianASR
 ---

@@ -29,7 +29,7 @@ build_date: "%s"
 size_mb: %s
 size: %s
 sif: "%s"
-url: %s
+datalad_url: %s
 recipe: %s
 collection: %s
 ---
@@ -110,7 +110,7 @@ for reponame, imageset in images["images"].items():
             license = collection.get("license")
             license = "[%s](%s)" % (license["name"], license["url"])
         sif = "https://datasets.datalad.org/shub/%s" % (m["file"])
-        baseurl = "https://datasets.datalad.org/shub/%s/" % dirname
+        baseurl = "https://datasets.datalad.org?dir=/shub/%s/" % dirname
         container_name = "%s:%s" % (reponame, m["tag"])
         recipe = template % (
             m["id"],

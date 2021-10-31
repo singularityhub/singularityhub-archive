@@ -9,7 +9,7 @@ build_date: "2019-01-21T15:26:42.082Z"
 size_mb: 3348
 size: 1479684127
 sif: "https://datasets.datalad.org/shub/jiyeonhan/singularity_imgs/py2_tf17/2019-01-21-0f1b687b-3427255a/3427255aadf8f3b0bee64362bfb10856.simg"
-url: https://datasets.datalad.org/shub/jiyeonhan/singularity_imgs/py2_tf17/2019-01-21-0f1b687b-3427255a/
+datalad_url: https://datasets.datalad.org?dir=/shub/jiyeonhan/singularity_imgs/py2_tf17/2019-01-21-0f1b687b-3427255a/
 recipe: https://datasets.datalad.org/shub/jiyeonhan/singularity_imgs/py2_tf17/2019-01-21-0f1b687b-3427255a/Singularity
 collection: jiyeonhan/singularity_imgs
 ---

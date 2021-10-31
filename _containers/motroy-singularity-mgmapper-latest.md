@@ -9,7 +9,7 @@ build_date: "2019-02-14T13:36:58.067Z"
 size_mb: 1107
 size: 428900383
 sif: "https://datasets.datalad.org/shub/motroy/singularity-mgmapper/latest/2019-02-14-df5682c9-112d00c7/112d00c7fe3507fc96cfbd495ca0e78a.simg"
-url: https://datasets.datalad.org/shub/motroy/singularity-mgmapper/latest/2019-02-14-df5682c9-112d00c7/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-mgmapper/latest/2019-02-14-df5682c9-112d00c7/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-mgmapper/latest/2019-02-14-df5682c9-112d00c7/Singularity
 collection: motroy/singularity-mgmapper
 ---

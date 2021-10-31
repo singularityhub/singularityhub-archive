@@ -9,7 +9,7 @@ build_date: "2020-11-18T06:07:14.361Z"
 size_mb: 1950.58203125
 size: 2045333504
 sif: "https://datasets.datalad.org/shub/ChunCun/container/torch/2020-11-18-8a167d0a-e8b5bc3e/e8b5bc3e5443c9a9dcfb124b1bd414f82dca3f402a4a7df45d7d6f27920662b2.sif"
-url: https://datasets.datalad.org/shub/ChunCun/container/torch/2020-11-18-8a167d0a-e8b5bc3e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ChunCun/container/torch/2020-11-18-8a167d0a-e8b5bc3e/
 recipe: https://datasets.datalad.org/shub/ChunCun/container/torch/2020-11-18-8a167d0a-e8b5bc3e/Singularity
 collection: ChunCun/container
 ---

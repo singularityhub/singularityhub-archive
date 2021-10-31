@@ -9,7 +9,7 @@ build_date: "2019-11-07T00:52:49.487Z"
 size_mb: 1943
 size: 728113183
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-centos7-devtoolset/latest/2019-11-07-96db32aa-c313f24e/c313f24e2ee6f75e65920e148241f18f.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-centos7-devtoolset/latest/2019-11-07-96db32aa-c313f24e/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-docker-centos7-devtoolset/latest/2019-11-07-96db32aa-c313f24e/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-centos7-devtoolset/latest/2019-11-07-96db32aa-c313f24e/Singularity
 collection: truatpasteurdotfr/singularity-docker-centos7-devtoolset
 ---

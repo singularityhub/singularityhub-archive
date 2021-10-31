@@ -9,7 +9,7 @@ build_date: "2017-10-18T17:55:06.048Z"
 size_mb: 1755
 size: 982384671
 sif: "https://datasets.datalad.org/shub/KevinSayers/BarraCUDA_Singularity/latest/2017-10-18-e80961de-ee404afe/ee404afe5ed61527b5ea131b6c96cf92.simg"
-url: https://datasets.datalad.org/shub/KevinSayers/BarraCUDA_Singularity/latest/2017-10-18-e80961de-ee404afe/
+datalad_url: https://datasets.datalad.org?dir=/shub/KevinSayers/BarraCUDA_Singularity/latest/2017-10-18-e80961de-ee404afe/
 recipe: https://datasets.datalad.org/shub/KevinSayers/BarraCUDA_Singularity/latest/2017-10-18-e80961de-ee404afe/Singularity
 collection: KevinSayers/BarraCUDA_Singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-19T15:47:49.407Z"
 size_mb: 336
 size: 91828255
 sif: "https://datasets.datalad.org/shub/GodloveD/lolcow/latest/2021-04-19-a59d8de3-ee4aae1e/ee4aae1ea378ad7c0299b308c703187a.simg"
-url: https://datasets.datalad.org/shub/GodloveD/lolcow/latest/2021-04-19-a59d8de3-ee4aae1e/
+datalad_url: https://datasets.datalad.org?dir=/shub/GodloveD/lolcow/latest/2021-04-19-a59d8de3-ee4aae1e/
 recipe: https://datasets.datalad.org/shub/GodloveD/lolcow/latest/2021-04-19-a59d8de3-ee4aae1e/Singularity
 collection: GodloveD/lolcow
 ---

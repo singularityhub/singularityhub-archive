@@ -9,7 +9,7 @@ build_date: "2019-10-29T21:35:56.032Z"
 size_mb: 80.96875
 size: 84901888
 sif: "https://datasets.datalad.org/shub/powerPlant/svaba-srf/1.1.3/2019-10-29-e621bed5-679e0dbd/679e0dbdb9b97f80390752db999d298944bbf2df6aeb3e1346db665830c7c7ee.sif"
-url: https://datasets.datalad.org/shub/powerPlant/svaba-srf/1.1.3/2019-10-29-e621bed5-679e0dbd/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/svaba-srf/1.1.3/2019-10-29-e621bed5-679e0dbd/
 recipe: https://datasets.datalad.org/shub/powerPlant/svaba-srf/1.1.3/2019-10-29-e621bed5-679e0dbd/Singularity
 collection: powerPlant/svaba-srf
 ---

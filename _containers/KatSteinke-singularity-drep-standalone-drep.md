@@ -9,7 +9,7 @@ build_date: "2021-04-16T11:50:53.051Z"
 size_mb: 946.0
 size: 374808607
 sif: "https://datasets.datalad.org/shub/KatSteinke/singularity-drep-standalone/drep/2021-04-16-0663f591-b27cb2b6/b27cb2b6c715095716c7a29e03e9ae42.sif"
-url: https://datasets.datalad.org/shub/KatSteinke/singularity-drep-standalone/drep/2021-04-16-0663f591-b27cb2b6/
+datalad_url: https://datasets.datalad.org?dir=/shub/KatSteinke/singularity-drep-standalone/drep/2021-04-16-0663f591-b27cb2b6/
 recipe: https://datasets.datalad.org/shub/KatSteinke/singularity-drep-standalone/drep/2021-04-16-0663f591-b27cb2b6/Singularity
 collection: KatSteinke/singularity-drep-standalone
 ---

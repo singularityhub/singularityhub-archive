@@ -9,7 +9,7 @@ build_date: "2020-07-29T22:12:11.163Z"
 size_mb: 4294.0
 size: 1808560159
 sif: "https://datasets.datalad.org/shub/baxpr/mniconn/v1.0.1/2020-07-29-e07266eb-f8e6aa36/f8e6aa36a9c9f1b80d6a1bad8d13624e.sif"
-url: https://datasets.datalad.org/shub/baxpr/mniconn/v1.0.1/2020-07-29-e07266eb-f8e6aa36/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/mniconn/v1.0.1/2020-07-29-e07266eb-f8e6aa36/
 recipe: https://datasets.datalad.org/shub/baxpr/mniconn/v1.0.1/2020-07-29-e07266eb-f8e6aa36/Singularity
 collection: baxpr/mniconn
 ---

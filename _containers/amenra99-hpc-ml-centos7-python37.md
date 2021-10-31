@@ -9,7 +9,7 @@ build_date: "2020-06-29T08:56:03.268Z"
 size_mb: None
 size: 4878151680
 sif: "https://datasets.datalad.org/shub/amenra99/hpc-ml/centos7-python37/2020-06-29-f1ae4386-b07ce692/b07ce69281693b6931e9c35b442bc33fd2be115a26f574b7004dd88df765d282.sif"
-url: https://datasets.datalad.org/shub/amenra99/hpc-ml/centos7-python37/2020-06-29-f1ae4386-b07ce692/
+datalad_url: https://datasets.datalad.org?dir=/shub/amenra99/hpc-ml/centos7-python37/2020-06-29-f1ae4386-b07ce692/
 recipe: https://datasets.datalad.org/shub/amenra99/hpc-ml/centos7-python37/2020-06-29-f1ae4386-b07ce692/Singularity
 collection: amenra99/hpc-ml
 ---

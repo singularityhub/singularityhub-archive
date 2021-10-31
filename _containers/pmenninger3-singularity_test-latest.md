@@ -9,7 +9,7 @@ build_date: "2017-11-28T19:11:34.528Z"
 size_mb: 1388
 size: 527417375
 sif: "https://datasets.datalad.org/shub/pmenninger3/singularity_test/latest/2017-11-28-0e03da76-1ceba613/1ceba61331a138c15082458a93d7b7cb.simg"
-url: https://datasets.datalad.org/shub/pmenninger3/singularity_test/latest/2017-11-28-0e03da76-1ceba613/
+datalad_url: https://datasets.datalad.org?dir=/shub/pmenninger3/singularity_test/latest/2017-11-28-0e03da76-1ceba613/
 recipe: https://datasets.datalad.org/shub/pmenninger3/singularity_test/latest/2017-11-28-0e03da76-1ceba613/Singularity
 collection: pmenninger3/singularity_test
 ---

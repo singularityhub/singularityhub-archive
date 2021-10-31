@@ -9,7 +9,7 @@ build_date: "2020-01-30T16:09:58.657Z"
 size_mb: 3609
 size: 1673334815
 sif: "https://datasets.datalad.org/shub/DoaneAS/RNAseq/latest/2020-01-30-a0158d2b-4fbcac52/4fbcac52fce3bce36b76d716ab4cab10.simg"
-url: https://datasets.datalad.org/shub/DoaneAS/RNAseq/latest/2020-01-30-a0158d2b-4fbcac52/
+datalad_url: https://datasets.datalad.org?dir=/shub/DoaneAS/RNAseq/latest/2020-01-30-a0158d2b-4fbcac52/
 recipe: https://datasets.datalad.org/shub/DoaneAS/RNAseq/latest/2020-01-30-a0158d2b-4fbcac52/Singularity
 collection: DoaneAS/RNAseq
 ---

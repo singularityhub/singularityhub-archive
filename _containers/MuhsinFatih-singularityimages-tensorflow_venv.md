@@ -9,7 +9,7 @@ build_date: "2020-03-15T13:21:22.047Z"
 size_mb: 3394.0
 size: 1722388511
 sif: "https://datasets.datalad.org/shub/MuhsinFatih/singularityimages/tensorflow_venv/2020-03-15-bbd511eb-0aebcacc/0aebcacccd6b0b8fe6cbfa6a04201f21.sif"
-url: https://datasets.datalad.org/shub/MuhsinFatih/singularityimages/tensorflow_venv/2020-03-15-bbd511eb-0aebcacc/
+datalad_url: https://datasets.datalad.org?dir=/shub/MuhsinFatih/singularityimages/tensorflow_venv/2020-03-15-bbd511eb-0aebcacc/
 recipe: https://datasets.datalad.org/shub/MuhsinFatih/singularityimages/tensorflow_venv/2020-03-15-bbd511eb-0aebcacc/Singularity
 collection: MuhsinFatih/singularityimages
 ---

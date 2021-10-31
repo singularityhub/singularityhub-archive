@@ -9,7 +9,7 @@ build_date: "2021-04-06T11:13:12.547Z"
 size_mb: 689
 size: 261898271
 sif: "https://datasets.datalad.org/shub/bmichanderson/singularity-containers/kat/2021-04-06-8640a124-89f40eeb/89f40eeb40d0f660e3d28cc5c338c405.simg"
-url: https://datasets.datalad.org/shub/bmichanderson/singularity-containers/kat/2021-04-06-8640a124-89f40eeb/
+datalad_url: https://datasets.datalad.org?dir=/shub/bmichanderson/singularity-containers/kat/2021-04-06-8640a124-89f40eeb/
 recipe: https://datasets.datalad.org/shub/bmichanderson/singularity-containers/kat/2021-04-06-8640a124-89f40eeb/Singularity
 collection: bmichanderson/singularity-containers
 ---

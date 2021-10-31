@@ -9,7 +9,7 @@ build_date: "2020-02-23T19:44:06.764Z"
 size_mb: 3319.0
 size: 1346637855
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/amide-1.0.5/2020-02-23-5df51e06-3d89cc29/3d89cc29650729a489c615c82411df8b.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/amide-1.0.5/2020-02-23-5df51e06-3d89cc29/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/amide-1.0.5/2020-02-23-5df51e06-3d89cc29/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/amide-1.0.5/2020-02-23-5df51e06-3d89cc29/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

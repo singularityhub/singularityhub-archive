@@ -9,7 +9,7 @@ build_date: "2019-08-22T19:57:30.860Z"
 size_mb: 4774.0
 size: 2560446495
 sif: "https://datasets.datalad.org/shub/gnperdue/singularity_imgs/py3_tf/2019-08-22-0b3cabb0-f3a469f3/f3a469f3edd4f37c43beffbb8abe6daa.sif"
-url: https://datasets.datalad.org/shub/gnperdue/singularity_imgs/py3_tf/2019-08-22-0b3cabb0-f3a469f3/
+datalad_url: https://datasets.datalad.org?dir=/shub/gnperdue/singularity_imgs/py3_tf/2019-08-22-0b3cabb0-f3a469f3/
 recipe: https://datasets.datalad.org/shub/gnperdue/singularity_imgs/py3_tf/2019-08-22-0b3cabb0-f3a469f3/Singularity
 collection: gnperdue/singularity_imgs
 ---

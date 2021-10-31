@@ -9,7 +9,7 @@ build_date: "2019-01-24T17:50:06.891Z"
 size_mb: 95
 size: 37011487
 sif: "https://datasets.datalad.org/shub/dyxmvp/singularity-images/latest/2019-01-24-5e5c4581-da652dba/da652dba5647fa68403933aaf0d93b03.simg"
-url: https://datasets.datalad.org/shub/dyxmvp/singularity-images/latest/2019-01-24-5e5c4581-da652dba/
+datalad_url: https://datasets.datalad.org?dir=/shub/dyxmvp/singularity-images/latest/2019-01-24-5e5c4581-da652dba/
 recipe: https://datasets.datalad.org/shub/dyxmvp/singularity-images/latest/2019-01-24-5e5c4581-da652dba/Singularity
 collection: dyxmvp/singularity-images
 ---

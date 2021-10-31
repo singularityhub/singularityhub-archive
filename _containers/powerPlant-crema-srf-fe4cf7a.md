@@ -9,7 +9,7 @@ build_date: "2019-02-15T05:11:19.189Z"
 size_mb: 1312
 size: 520540191
 sif: "https://datasets.datalad.org/shub/powerPlant/crema-srf/fe4cf7a/2019-02-15-45e6e823-14bbcd97/14bbcd97ddf727f768ae6b498576197b.simg"
-url: https://datasets.datalad.org/shub/powerPlant/crema-srf/fe4cf7a/2019-02-15-45e6e823-14bbcd97/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/crema-srf/fe4cf7a/2019-02-15-45e6e823-14bbcd97/
 recipe: https://datasets.datalad.org/shub/powerPlant/crema-srf/fe4cf7a/2019-02-15-45e6e823-14bbcd97/Singularity
 collection: powerPlant/crema-srf
 ---

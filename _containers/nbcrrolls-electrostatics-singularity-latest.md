@@ -9,7 +9,7 @@ build_date: "2019-04-23T20:55:37.981Z"
 size_mb: 1183
 size: 427544607
 sif: "https://datasets.datalad.org/shub/nbcrrolls/electrostatics-singularity/latest/2019-04-23-3f5a5481-8adb503f/8adb503feec490761a06bd9291463da2.simg"
-url: https://datasets.datalad.org/shub/nbcrrolls/electrostatics-singularity/latest/2019-04-23-3f5a5481-8adb503f/
+datalad_url: https://datasets.datalad.org?dir=/shub/nbcrrolls/electrostatics-singularity/latest/2019-04-23-3f5a5481-8adb503f/
 recipe: https://datasets.datalad.org/shub/nbcrrolls/electrostatics-singularity/latest/2019-04-23-3f5a5481-8adb503f/Singularity
 collection: nbcrrolls/electrostatics-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-23T22:36:00.932Z"
 size_mb: 2004
 size: 949452831
 sif: "https://datasets.datalad.org/shub/ArjitM/CellMorphology/cellprof.def/2019-03-23-2b6e2422-32f7e86e/32f7e86ebc7939ad37b68c372f954ac0.simg"
-url: https://datasets.datalad.org/shub/ArjitM/CellMorphology/cellprof.def/2019-03-23-2b6e2422-32f7e86e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ArjitM/CellMorphology/cellprof.def/2019-03-23-2b6e2422-32f7e86e/
 recipe: https://datasets.datalad.org/shub/ArjitM/CellMorphology/cellprof.def/2019-03-23-2b6e2422-32f7e86e/Singularity
 collection: ArjitM/CellMorphology
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-03T03:26:59.075Z"
 size_mb: 1433.0
 size: 474574879
 sif: "https://datasets.datalad.org/shub/darachm/containers/r/2021-03-03-181fa10c-fecec22b/fecec22bef5b4fe88264486482043d28.sif"
-url: https://datasets.datalad.org/shub/darachm/containers/r/2021-03-03-181fa10c-fecec22b/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/containers/r/2021-03-03-181fa10c-fecec22b/
 recipe: https://datasets.datalad.org/shub/darachm/containers/r/2021-03-03-181fa10c-fecec22b/Singularity
 collection: darachm/containers
 ---

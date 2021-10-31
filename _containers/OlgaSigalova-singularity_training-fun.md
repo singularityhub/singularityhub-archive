@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.312Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/OlgaSigalova/singularity_training/fun/2019-02-27-32275038-61adfea4/61adfea4609e7783d072b787a0d8af21.simg"
-url: https://datasets.datalad.org/shub/OlgaSigalova/singularity_training/fun/2019-02-27-32275038-61adfea4/
+datalad_url: https://datasets.datalad.org?dir=/shub/OlgaSigalova/singularity_training/fun/2019-02-27-32275038-61adfea4/
 recipe: https://datasets.datalad.org/shub/OlgaSigalova/singularity_training/fun/2019-02-27-32275038-61adfea4/Singularity
 collection: OlgaSigalova/singularity_training
 ---

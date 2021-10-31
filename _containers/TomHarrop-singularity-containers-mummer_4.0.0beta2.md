@@ -9,7 +9,7 @@ build_date: "2020-06-04T02:45:33.509Z"
 size_mb: 953
 size: 368291871
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/mummer_4.0.0beta2/2020-06-04-7715562a-648fb901/648fb9018fdc44febf1361010f2aab46.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/mummer_4.0.0beta2/2020-06-04-7715562a-648fb901/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/mummer_4.0.0beta2/2020-06-04-7715562a-648fb901/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/mummer_4.0.0beta2/2020-06-04-7715562a-648fb901/Singularity
 collection: TomHarrop/singularity-containers
 ---

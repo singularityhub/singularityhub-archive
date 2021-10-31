@@ -9,7 +9,7 @@ build_date: "2020-06-03T17:53:24.615Z"
 size_mb: 198.0
 size: 77926431
 sif: "https://datasets.datalad.org/shub/photocyte/genometools_singularity/latest/2020-06-03-f1c861bb-041eddc7/041eddc7038614773d666ed91b882f6a.sif"
-url: https://datasets.datalad.org/shub/photocyte/genometools_singularity/latest/2020-06-03-f1c861bb-041eddc7/
+datalad_url: https://datasets.datalad.org?dir=/shub/photocyte/genometools_singularity/latest/2020-06-03-f1c861bb-041eddc7/
 recipe: https://datasets.datalad.org/shub/photocyte/genometools_singularity/latest/2020-06-03-f1c861bb-041eddc7/Singularity
 collection: photocyte/genometools_singularity
 ---

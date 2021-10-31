@@ -9,7 +9,7 @@ build_date: "2019-04-03T00:18:34.678Z"
 size_mb: 6319
 size: 2103107615
 sif: "https://datasets.datalad.org/shub/botaoliuphd/singularitysc/latest/2019-04-03-1aaebdb4-e1dd6de3/e1dd6de3633e1fb5f035577f08a503cb.simg"
-url: https://datasets.datalad.org/shub/botaoliuphd/singularitysc/latest/2019-04-03-1aaebdb4-e1dd6de3/
+datalad_url: https://datasets.datalad.org?dir=/shub/botaoliuphd/singularitysc/latest/2019-04-03-1aaebdb4-e1dd6de3/
 recipe: https://datasets.datalad.org/shub/botaoliuphd/singularitysc/latest/2019-04-03-1aaebdb4-e1dd6de3/Singularity
 collection: botaoliuphd/singularitysc
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-08T08:50:14.651Z"
 size_mb: 8304
 size: 3725676575
 sif: "https://datasets.datalad.org/shub/EnriqueDoster/MEG-amrplusplus-RGI-SNPconfirmation/latest/2019-04-08-46f8ead6-7ba47dd0/7ba47dd0deb40d30d7f111d71b2570c6.simg"
-url: https://datasets.datalad.org/shub/EnriqueDoster/MEG-amrplusplus-RGI-SNPconfirmation/latest/2019-04-08-46f8ead6-7ba47dd0/
+datalad_url: https://datasets.datalad.org?dir=/shub/EnriqueDoster/MEG-amrplusplus-RGI-SNPconfirmation/latest/2019-04-08-46f8ead6-7ba47dd0/
 recipe: https://datasets.datalad.org/shub/EnriqueDoster/MEG-amrplusplus-RGI-SNPconfirmation/latest/2019-04-08-46f8ead6-7ba47dd0/Singularity
 collection: EnriqueDoster/MEG-amrplusplus-RGI-SNPconfirmation
 ---

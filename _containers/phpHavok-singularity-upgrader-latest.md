@@ -9,7 +9,7 @@ build_date: "2019-01-16T07:21:14.386Z"
 size_mb: 1309
 size: 519229471
 sif: "https://datasets.datalad.org/shub/phpHavok/singularity-upgrader/latest/2019-01-16-e20e8402-db30719e/db30719ec9c9b6e23d7f861811d32447.simg"
-url: https://datasets.datalad.org/shub/phpHavok/singularity-upgrader/latest/2019-01-16-e20e8402-db30719e/
+datalad_url: https://datasets.datalad.org?dir=/shub/phpHavok/singularity-upgrader/latest/2019-01-16-e20e8402-db30719e/
 recipe: https://datasets.datalad.org/shub/phpHavok/singularity-upgrader/latest/2019-01-16-e20e8402-db30719e/Singularity
 collection: phpHavok/singularity-upgrader
 ---

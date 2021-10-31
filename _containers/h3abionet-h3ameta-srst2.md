@@ -9,7 +9,7 @@ build_date: "2020-05-05T04:45:00.219Z"
 size_mb: 1119.0
 size: 444416031
 sif: "https://datasets.datalad.org/shub/h3abionet/h3ameta/srst2/2020-05-05-57524fe5-97fff58b/97fff58bf9f4acecdb518857e51590e4.sif"
-url: https://datasets.datalad.org/shub/h3abionet/h3ameta/srst2/2020-05-05-57524fe5-97fff58b/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/h3ameta/srst2/2020-05-05-57524fe5-97fff58b/
 recipe: https://datasets.datalad.org/shub/h3abionet/h3ameta/srst2/2020-05-05-57524fe5-97fff58b/Singularity
 collection: h3abionet/h3ameta
 ---

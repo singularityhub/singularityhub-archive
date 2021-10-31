@@ -9,7 +9,7 @@ build_date: "2018-08-30T14:39:44.320Z"
 size_mb: 516
 size: 155217951
 sif: "https://datasets.datalad.org/shub/aghozlane/Let-it-bin/samtools/2018-08-30-d3e9df3b-9bfeab63/9bfeab63b34b1093a47883359a1ec66b.simg"
-url: https://datasets.datalad.org/shub/aghozlane/Let-it-bin/samtools/2018-08-30-d3e9df3b-9bfeab63/
+datalad_url: https://datasets.datalad.org?dir=/shub/aghozlane/Let-it-bin/samtools/2018-08-30-d3e9df3b-9bfeab63/
 recipe: https://datasets.datalad.org/shub/aghozlane/Let-it-bin/samtools/2018-08-30-d3e9df3b-9bfeab63/Singularity
 collection: aghozlane/Let-it-bin
 ---

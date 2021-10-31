@@ -9,7 +9,7 @@ build_date: "2019-07-02T13:59:55.302Z"
 size_mb: 9383
 size: 3511332895
 sif: "https://datasets.datalad.org/shub/tobiasschlatter/BA-Eye-Tracking/caffe-notebook/2019-07-02-899f63e4-761d2367/761d2367442dc668e25ad229527ae327.simg"
-url: https://datasets.datalad.org/shub/tobiasschlatter/BA-Eye-Tracking/caffe-notebook/2019-07-02-899f63e4-761d2367/
+datalad_url: https://datasets.datalad.org?dir=/shub/tobiasschlatter/BA-Eye-Tracking/caffe-notebook/2019-07-02-899f63e4-761d2367/
 recipe: https://datasets.datalad.org/shub/tobiasschlatter/BA-Eye-Tracking/caffe-notebook/2019-07-02-899f63e4-761d2367/Singularity
 collection: tobiasschlatter/BA-Eye-Tracking
 ---

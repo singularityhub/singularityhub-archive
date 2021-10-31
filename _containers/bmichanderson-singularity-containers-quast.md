@@ -9,7 +9,7 @@ build_date: "2018-12-06T22:06:25.264Z"
 size_mb: 624
 size: 197165087
 sif: "https://datasets.datalad.org/shub/bmichanderson/singularity-containers/quast/2018-12-06-5f21120a-fde3a958/fde3a958d2207658cb680e0d8a9733e3.simg"
-url: https://datasets.datalad.org/shub/bmichanderson/singularity-containers/quast/2018-12-06-5f21120a-fde3a958/
+datalad_url: https://datasets.datalad.org?dir=/shub/bmichanderson/singularity-containers/quast/2018-12-06-5f21120a-fde3a958/
 recipe: https://datasets.datalad.org/shub/bmichanderson/singularity-containers/quast/2018-12-06-5f21120a-fde3a958/Singularity
 collection: bmichanderson/singularity-containers
 ---

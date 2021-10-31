@@ -9,7 +9,7 @@ build_date: "2021-02-25T02:25:05.685Z"
 size_mb: 759
 size: 326381599
 sif: "https://datasets.datalad.org/shub/vsoch/hello-world.scif/latest/2021-02-25-2a957154-3bb6590d/3bb6590d303dc084c5fea487b56c6b2a.simg"
-url: https://datasets.datalad.org/shub/vsoch/hello-world.scif/latest/2021-02-25-2a957154-3bb6590d/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/hello-world.scif/latest/2021-02-25-2a957154-3bb6590d/
 recipe: https://datasets.datalad.org/shub/vsoch/hello-world.scif/latest/2021-02-25-2a957154-3bb6590d/Singularity
 collection: vsoch/hello-world.scif
 ---

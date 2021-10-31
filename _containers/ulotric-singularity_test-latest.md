@@ -9,7 +9,7 @@ build_date: "2021-03-23T15:43:24.716Z"
 size_mb: 250.26171875
 size: 262418432
 sif: "https://datasets.datalad.org/shub/ulotric/singularity_test/latest/2021-03-23-18c34414-6798ad69/6798ad69be34ee48afa7988db4b4ddb0977d844230856f002a98ac90ccf22c64.sif"
-url: https://datasets.datalad.org/shub/ulotric/singularity_test/latest/2021-03-23-18c34414-6798ad69/
+datalad_url: https://datasets.datalad.org?dir=/shub/ulotric/singularity_test/latest/2021-03-23-18c34414-6798ad69/
 recipe: https://datasets.datalad.org/shub/ulotric/singularity_test/latest/2021-03-23-18c34414-6798ad69/Singularity
 collection: ulotric/singularity_test
 ---

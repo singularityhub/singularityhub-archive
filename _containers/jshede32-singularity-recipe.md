@@ -9,7 +9,7 @@ build_date: "2019-04-02T20:23:25.489Z"
 size_mb: 2957
 size: 1431052319
 sif: "https://datasets.datalad.org/shub/jshede32/singularity/recipe/2019-04-02-28fc0618-0f644c27/0f644c271733257647dba9f234ea44e0.simg"
-url: https://datasets.datalad.org/shub/jshede32/singularity/recipe/2019-04-02-28fc0618-0f644c27/
+datalad_url: https://datasets.datalad.org?dir=/shub/jshede32/singularity/recipe/2019-04-02-28fc0618-0f644c27/
 recipe: https://datasets.datalad.org/shub/jshede32/singularity/recipe/2019-04-02-28fc0618-0f644c27/Singularity
 collection: jshede32/singularity
 ---

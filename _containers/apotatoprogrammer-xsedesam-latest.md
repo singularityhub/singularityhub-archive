@@ -9,7 +9,7 @@ build_date: "2020-07-05T20:13:43.323Z"
 size_mb: 2556.0
 size: 1048686623
 sif: "https://datasets.datalad.org/shub/apotatoprogrammer/xsedesam/latest/2020-07-05-12486ad3-9edbe739/9edbe73975f8c5cdb17f971f2d799dae.sif"
-url: https://datasets.datalad.org/shub/apotatoprogrammer/xsedesam/latest/2020-07-05-12486ad3-9edbe739/
+datalad_url: https://datasets.datalad.org?dir=/shub/apotatoprogrammer/xsedesam/latest/2020-07-05-12486ad3-9edbe739/
 recipe: https://datasets.datalad.org/shub/apotatoprogrammer/xsedesam/latest/2020-07-05-12486ad3-9edbe739/Singularity
 collection: apotatoprogrammer/xsedesam
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-23T15:41:36.725Z"
 size_mb: 1911.0
 size: 581349407
 sif: "https://datasets.datalad.org/shub/stephansmit/su2_containers/fork_dev/2020-03-23-eba14833-8470cfa0/8470cfa061f9c8cd1d73ef1da85e4bff.sif"
-url: https://datasets.datalad.org/shub/stephansmit/su2_containers/fork_dev/2020-03-23-eba14833-8470cfa0/
+datalad_url: https://datasets.datalad.org?dir=/shub/stephansmit/su2_containers/fork_dev/2020-03-23-eba14833-8470cfa0/
 recipe: https://datasets.datalad.org/shub/stephansmit/su2_containers/fork_dev/2020-03-23-eba14833-8470cfa0/Singularity
 collection: stephansmit/su2_containers
 ---

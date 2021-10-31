@@ -9,7 +9,7 @@ build_date: "2019-08-09T16:43:45.563Z"
 size_mb: 431.41015625
 size: 452366336
 sif: "https://datasets.datalad.org/shub/monaghaa/hello_openmpi_teton/latest/2019-08-09-31cef146-993a5a08/993a5a08168fbf7ebe15c68d2a49cf792289db46880a61ff614ad57d97bd08fb.sif"
-url: https://datasets.datalad.org/shub/monaghaa/hello_openmpi_teton/latest/2019-08-09-31cef146-993a5a08/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/hello_openmpi_teton/latest/2019-08-09-31cef146-993a5a08/
 recipe: https://datasets.datalad.org/shub/monaghaa/hello_openmpi_teton/latest/2019-08-09-31cef146-993a5a08/Singularity
 collection: monaghaa/hello_openmpi_teton
 ---

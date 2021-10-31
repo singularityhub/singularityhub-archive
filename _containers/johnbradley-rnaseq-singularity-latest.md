@@ -9,7 +9,7 @@ build_date: "2019-07-23T07:49:20.854Z"
 size_mb: 1408
 size: 714235935
 sif: "https://datasets.datalad.org/shub/johnbradley/rnaseq-singularity/latest/2019-07-23-e559dd55-eba0e3bd/eba0e3bd44b8b8803f329b9bf7aa0070.simg"
-url: https://datasets.datalad.org/shub/johnbradley/rnaseq-singularity/latest/2019-07-23-e559dd55-eba0e3bd/
+datalad_url: https://datasets.datalad.org?dir=/shub/johnbradley/rnaseq-singularity/latest/2019-07-23-e559dd55-eba0e3bd/
 recipe: https://datasets.datalad.org/shub/johnbradley/rnaseq-singularity/latest/2019-07-23-e559dd55-eba0e3bd/Singularity
 collection: johnbradley/rnaseq-singularity
 ---

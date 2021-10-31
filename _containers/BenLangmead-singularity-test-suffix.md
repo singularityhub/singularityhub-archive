@@ -9,7 +9,7 @@ build_date: "2018-11-01T13:37:31.334Z"
 size_mb: 5
 size: 2150431
 sif: "https://datasets.datalad.org/shub/BenLangmead/singularity-test/suffix/2018-11-01-1ecef3aa-4c73ace2/4c73ace22c788f654fb4aae32332c632.simg"
-url: https://datasets.datalad.org/shub/BenLangmead/singularity-test/suffix/2018-11-01-1ecef3aa-4c73ace2/
+datalad_url: https://datasets.datalad.org?dir=/shub/BenLangmead/singularity-test/suffix/2018-11-01-1ecef3aa-4c73ace2/
 recipe: https://datasets.datalad.org/shub/BenLangmead/singularity-test/suffix/2018-11-01-1ecef3aa-4c73ace2/Singularity
 collection: BenLangmead/singularity-test
 ---

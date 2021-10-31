@@ -9,7 +9,7 @@ build_date: "2019-10-25T12:50:03.997Z"
 size_mb: 1462
 size: 425783327
 sif: "https://datasets.datalad.org/shub/natacha-beck/Mfannot/v1.0/2019-10-25-49d26332-99beccfa/99beccfae12fe46b5d4d3d8a61f503ad.simg"
-url: https://datasets.datalad.org/shub/natacha-beck/Mfannot/v1.0/2019-10-25-49d26332-99beccfa/
+datalad_url: https://datasets.datalad.org?dir=/shub/natacha-beck/Mfannot/v1.0/2019-10-25-49d26332-99beccfa/
 recipe: https://datasets.datalad.org/shub/natacha-beck/Mfannot/v1.0/2019-10-25-49d26332-99beccfa/Singularity
 collection: natacha-beck/Mfannot
 ---

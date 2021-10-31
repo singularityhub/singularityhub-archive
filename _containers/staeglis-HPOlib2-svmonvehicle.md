@@ -9,7 +9,7 @@ build_date: "2018-10-11T09:24:01.579Z"
 size_mb: 1031
 size: 413073439
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/svmonvehicle/2018-10-11-c6dfe525-9c07f2a6/9c07f2a62c9db783a5d86c213254e12d.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/svmonvehicle/2018-10-11-c6dfe525-9c07f2a6/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/svmonvehicle/2018-10-11-c6dfe525-9c07f2a6/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/svmonvehicle/2018-10-11-c6dfe525-9c07f2a6/Singularity
 collection: staeglis/HPOlib2
 ---

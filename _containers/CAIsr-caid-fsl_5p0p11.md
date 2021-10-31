@@ -9,7 +9,7 @@ build_date: "2018-07-13T21:19:59.011Z"
 size_mb: 8654
 size: 3811717151
 sif: "https://datasets.datalad.org/shub/CAIsr/caid/fsl_5p0p11/2018-07-13-5d2ebec5-09cc72e1/09cc72e1c5155a2c591950992681b50e.simg"
-url: https://datasets.datalad.org/shub/CAIsr/caid/fsl_5p0p11/2018-07-13-5d2ebec5-09cc72e1/
+datalad_url: https://datasets.datalad.org?dir=/shub/CAIsr/caid/fsl_5p0p11/2018-07-13-5d2ebec5-09cc72e1/
 recipe: https://datasets.datalad.org/shub/CAIsr/caid/fsl_5p0p11/2018-07-13-5d2ebec5-09cc72e1/Singularity
 collection: CAIsr/caid
 ---

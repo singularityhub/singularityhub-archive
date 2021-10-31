@@ -9,7 +9,7 @@ build_date: "2017-11-04T04:49:58.762Z"
 size_mb: 2141
 size: 1063931935
 sif: "https://datasets.datalad.org/shub/KevinSayers/nvBowtie_Singularity/latest/2017-11-04-857863c5-302f4903/302f49037dbdd5596eb6baed242b0629.simg"
-url: https://datasets.datalad.org/shub/KevinSayers/nvBowtie_Singularity/latest/2017-11-04-857863c5-302f4903/
+datalad_url: https://datasets.datalad.org?dir=/shub/KevinSayers/nvBowtie_Singularity/latest/2017-11-04-857863c5-302f4903/
 recipe: https://datasets.datalad.org/shub/KevinSayers/nvBowtie_Singularity/latest/2017-11-04-857863c5-302f4903/Singularity
 collection: KevinSayers/nvBowtie_Singularity
 ---

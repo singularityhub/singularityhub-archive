@@ -9,7 +9,7 @@ build_date: "2019-02-19T17:41:52.668Z"
 size_mb: 3607
 size: 1172000799
 sif: "https://datasets.datalad.org/shub/gearslaboratory/gears-singularity/gears-rfsrc-openmpi/2019-02-19-402c6348-96e5a3a8/96e5a3a8f57cda48a179c704a47b8f31.simg"
-url: https://datasets.datalad.org/shub/gearslaboratory/gears-singularity/gears-rfsrc-openmpi/2019-02-19-402c6348-96e5a3a8/
+datalad_url: https://datasets.datalad.org?dir=/shub/gearslaboratory/gears-singularity/gears-rfsrc-openmpi/2019-02-19-402c6348-96e5a3a8/
 recipe: https://datasets.datalad.org/shub/gearslaboratory/gears-singularity/gears-rfsrc-openmpi/2019-02-19-402c6348-96e5a3a8/Singularity
 collection: gearslaboratory/gears-singularity
 ---

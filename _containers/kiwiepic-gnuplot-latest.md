@@ -9,7 +9,7 @@ build_date: "2021-02-20T07:52:34.934Z"
 size_mb: 42.0
 size: 14819359
 sif: "https://datasets.datalad.org/shub/kiwiepic/gnuplot/latest/2021-02-20-ba2886d4-f54225e4/f54225e4e667e9987f7cdad001f32b7f.sif"
-url: https://datasets.datalad.org/shub/kiwiepic/gnuplot/latest/2021-02-20-ba2886d4-f54225e4/
+datalad_url: https://datasets.datalad.org?dir=/shub/kiwiepic/gnuplot/latest/2021-02-20-ba2886d4-f54225e4/
 recipe: https://datasets.datalad.org/shub/kiwiepic/gnuplot/latest/2021-02-20-ba2886d4-f54225e4/Singularity
 collection: kiwiepic/gnuplot
 ---

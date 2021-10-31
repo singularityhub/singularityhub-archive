@@ -9,7 +9,7 @@ build_date: "2018-10-10T10:52:36.958Z"
 size_mb: 740
 size: 373813279
 sif: "https://datasets.datalad.org/shub/saltant-org/saltant-working-example/latest/2018-10-10-362d18c8-ebca4bb3/ebca4bb346f4e5a25d8ad4a2cec7f527.simg"
-url: https://datasets.datalad.org/shub/saltant-org/saltant-working-example/latest/2018-10-10-362d18c8-ebca4bb3/
+datalad_url: https://datasets.datalad.org?dir=/shub/saltant-org/saltant-working-example/latest/2018-10-10-362d18c8-ebca4bb3/
 recipe: https://datasets.datalad.org/shub/saltant-org/saltant-working-example/latest/2018-10-10-362d18c8-ebca4bb3/Singularity
 collection: mwiens91/saltant-working-example
 ---

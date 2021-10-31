@@ -9,7 +9,7 @@ build_date: "2020-04-28T00:37:48.194Z"
 size_mb: 8579.0
 size: 4379926559
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cytoscape_3.8.0/2020-04-28-f85f72d5-17a2e105/17a2e10527020247514f57a4a8ee9198.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cytoscape_3.8.0/2020-04-28-f85f72d5-17a2e105/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cytoscape_3.8.0/2020-04-28-f85f72d5-17a2e105/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cytoscape_3.8.0/2020-04-28-f85f72d5-17a2e105/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

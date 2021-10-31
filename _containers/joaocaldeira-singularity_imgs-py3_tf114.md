@@ -9,7 +9,7 @@ build_date: "2020-02-24T17:50:47.056Z"
 size_mb: 5344.0
 size: 2820493343
 sif: "https://datasets.datalad.org/shub/joaocaldeira/singularity_imgs/py3_tf114/2020-02-24-1b67d4ba-7edfae06/7edfae06d47b073cf665d73be6a29b91.sif"
-url: https://datasets.datalad.org/shub/joaocaldeira/singularity_imgs/py3_tf114/2020-02-24-1b67d4ba-7edfae06/
+datalad_url: https://datasets.datalad.org?dir=/shub/joaocaldeira/singularity_imgs/py3_tf114/2020-02-24-1b67d4ba-7edfae06/
 recipe: https://datasets.datalad.org/shub/joaocaldeira/singularity_imgs/py3_tf114/2020-02-24-1b67d4ba-7edfae06/Singularity
 collection: joaocaldeira/singularity_imgs
 ---

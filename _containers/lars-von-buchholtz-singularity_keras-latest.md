@@ -9,7 +9,7 @@ build_date: "2019-05-15T16:11:36.314Z"
 size_mb: 3722
 size: 1769246751
 sif: "https://datasets.datalad.org/shub/lars-von-buchholtz/singularity_keras/latest/2019-05-15-294f031c-679fe18d/679fe18db268b5236e94c6ea8245c4c3.simg"
-url: https://datasets.datalad.org/shub/lars-von-buchholtz/singularity_keras/latest/2019-05-15-294f031c-679fe18d/
+datalad_url: https://datasets.datalad.org?dir=/shub/lars-von-buchholtz/singularity_keras/latest/2019-05-15-294f031c-679fe18d/
 recipe: https://datasets.datalad.org/shub/lars-von-buchholtz/singularity_keras/latest/2019-05-15-294f031c-679fe18d/Singularity
 collection: lars-von-buchholtz/singularity_keras
 ---

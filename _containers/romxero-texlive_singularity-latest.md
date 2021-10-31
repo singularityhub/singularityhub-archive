@@ -9,7 +9,7 @@ build_date: "2019-06-04T11:19:56.917Z"
 size_mb: 715
 size: 276168735
 sif: "https://datasets.datalad.org/shub/romxero/texlive_singularity/latest/2019-06-04-a931e62f-1339f685/1339f68519093be21ab759c5914b2e4b.simg"
-url: https://datasets.datalad.org/shub/romxero/texlive_singularity/latest/2019-06-04-a931e62f-1339f685/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/texlive_singularity/latest/2019-06-04-a931e62f-1339f685/
 recipe: https://datasets.datalad.org/shub/romxero/texlive_singularity/latest/2019-06-04-a931e62f-1339f685/Singularity
 collection: romxero/texlive_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-19T20:11:50.361Z"
 size_mb: 3382.0
 size: 1226252319
 sif: "https://datasets.datalad.org/shub/I-Hao/singularity/rpackages/2020-06-19-42c8e31d-9db6e748/9db6e748fad3f4f3db3cef264943c798.sif"
-url: https://datasets.datalad.org/shub/I-Hao/singularity/rpackages/2020-06-19-42c8e31d-9db6e748/
+datalad_url: https://datasets.datalad.org?dir=/shub/I-Hao/singularity/rpackages/2020-06-19-42c8e31d-9db6e748/
 recipe: https://datasets.datalad.org/shub/I-Hao/singularity/rpackages/2020-06-19-42c8e31d-9db6e748/Singularity
 collection: I-Hao/singularity
 ---

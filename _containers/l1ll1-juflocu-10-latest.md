@@ -9,7 +9,7 @@ build_date: "2020-07-24T06:59:31.896Z"
 size_mb: 13594.0
 size: 5910675487
 sif: "https://datasets.datalad.org/shub/l1ll1/juflocu-10/latest/2020-07-24-86aaca7d-2a53b874/2a53b87478dfe272402be2bd2d5683ef.sif"
-url: https://datasets.datalad.org/shub/l1ll1/juflocu-10/latest/2020-07-24-86aaca7d-2a53b874/
+datalad_url: https://datasets.datalad.org?dir=/shub/l1ll1/juflocu-10/latest/2020-07-24-86aaca7d-2a53b874/
 recipe: https://datasets.datalad.org/shub/l1ll1/juflocu-10/latest/2020-07-24-86aaca7d-2a53b874/Singularity
 collection: l1ll1/juflocu-10
 ---

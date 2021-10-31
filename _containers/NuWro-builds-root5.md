@@ -9,7 +9,7 @@ build_date: "2017-12-20T18:05:20.636Z"
 size_mb: 1388
 size: 389926943
 sif: "https://datasets.datalad.org/shub/NuWro/builds/root5/2017-12-20-c78b6fb0-a59afa87/a59afa87fcab49e05918e7b554974b16.simg"
-url: https://datasets.datalad.org/shub/NuWro/builds/root5/2017-12-20-c78b6fb0-a59afa87/
+datalad_url: https://datasets.datalad.org?dir=/shub/NuWro/builds/root5/2017-12-20-c78b6fb0-a59afa87/
 recipe: https://datasets.datalad.org/shub/NuWro/builds/root5/2017-12-20-c78b6fb0-a59afa87/Singularity
 collection: NuWro/builds
 ---

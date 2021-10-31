@@ -9,7 +9,7 @@ build_date: "2018-08-14T08:40:39.770Z"
 size_mb: 2107
 size: 1108533279
 sif: "https://datasets.datalad.org/shub/pgrete/singularity-containers/latest/2018-08-14-1a9045f6-43a006c1/43a006c1b89e5844be74e882f6092fc9.simg"
-url: https://datasets.datalad.org/shub/pgrete/singularity-containers/latest/2018-08-14-1a9045f6-43a006c1/
+datalad_url: https://datasets.datalad.org?dir=/shub/pgrete/singularity-containers/latest/2018-08-14-1a9045f6-43a006c1/
 recipe: https://datasets.datalad.org/shub/pgrete/singularity-containers/latest/2018-08-14-1a9045f6-43a006c1/Singularity
 collection: pgrete/singularity-containers
 ---

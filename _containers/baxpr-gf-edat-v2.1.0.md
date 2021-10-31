@@ -9,7 +9,7 @@ build_date: "2021-03-04T20:00:17.153Z"
 size_mb: 542.0
 size: 197881887
 sif: "https://datasets.datalad.org/shub/baxpr/gf-edat/v2.1.0/2021-03-04-02937182-db79178b/db79178b542f2a825d769c7b12e5340c.sif"
-url: https://datasets.datalad.org/shub/baxpr/gf-edat/v2.1.0/2021-03-04-02937182-db79178b/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/gf-edat/v2.1.0/2021-03-04-02937182-db79178b/
 recipe: https://datasets.datalad.org/shub/baxpr/gf-edat/v2.1.0/2021-03-04-02937182-db79178b/Singularity
 collection: baxpr/gf-edat
 ---

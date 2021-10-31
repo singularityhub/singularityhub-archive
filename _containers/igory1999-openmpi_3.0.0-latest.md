@@ -9,7 +9,7 @@ build_date: "2017-10-29T15:13:28.369Z"
 size_mb: 1154
 size: 353554463
 sif: "https://datasets.datalad.org/shub/igory1999/openmpi_3.0.0/latest/2017-10-29-729ee58d-92a4c1f1/92a4c1f161566694300d78c034c2804c.simg"
-url: https://datasets.datalad.org/shub/igory1999/openmpi_3.0.0/latest/2017-10-29-729ee58d-92a4c1f1/
+datalad_url: https://datasets.datalad.org?dir=/shub/igory1999/openmpi_3.0.0/latest/2017-10-29-729ee58d-92a4c1f1/
 recipe: https://datasets.datalad.org/shub/igory1999/openmpi_3.0.0/latest/2017-10-29-729ee58d-92a4c1f1/Singularity
 collection: igory1999/openmpi_3.0.0
 ---

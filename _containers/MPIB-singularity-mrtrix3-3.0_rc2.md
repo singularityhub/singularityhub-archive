@@ -9,7 +9,7 @@ build_date: "2020-03-13T09:36:15.443Z"
 size_mb: 737
 size: 246652959
 sif: "https://datasets.datalad.org/shub/MPIB/singularity-mrtrix3/3.0_rc2/2020-03-13-05701f01-37537ab5/37537ab50680ac6bb4dc067cb03ec8b2.simg"
-url: https://datasets.datalad.org/shub/MPIB/singularity-mrtrix3/3.0_rc2/2020-03-13-05701f01-37537ab5/
+datalad_url: https://datasets.datalad.org?dir=/shub/MPIB/singularity-mrtrix3/3.0_rc2/2020-03-13-05701f01-37537ab5/
 recipe: https://datasets.datalad.org/shub/MPIB/singularity-mrtrix3/3.0_rc2/2020-03-13-05701f01-37537ab5/Singularity
 collection: MPIB/singularity-mrtrix3
 ---

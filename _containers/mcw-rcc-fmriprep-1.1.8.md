@@ -9,7 +9,7 @@ build_date: "2018-10-09T17:49:31.723Z"
 size_mb: 10902
 size: 4628221983
 sif: "https://datasets.datalad.org/shub/mcw-rcc/fmriprep/1.1.8/2018-10-09-ee9a1dbf-9dfd94d6/9dfd94d60bf78236958cdd9d038615f0.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/fmriprep/1.1.8/2018-10-09-ee9a1dbf-9dfd94d6/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/fmriprep/1.1.8/2018-10-09-ee9a1dbf-9dfd94d6/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/fmriprep/1.1.8/2018-10-09-ee9a1dbf-9dfd94d6/Singularity
 collection: mcw-rcc/fmriprep
 ---

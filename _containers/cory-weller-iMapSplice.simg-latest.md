@@ -9,7 +9,7 @@ build_date: "2019-03-06T15:11:53.248Z"
 size_mb: 643
 size: 219889695
 sif: "https://datasets.datalad.org/shub/cory-weller/iMapSplice.simg/latest/2019-03-06-ef5cbe95-bf4ead75/bf4ead75c7c0e5e428417962ad46da3c.simg"
-url: https://datasets.datalad.org/shub/cory-weller/iMapSplice.simg/latest/2019-03-06-ef5cbe95-bf4ead75/
+datalad_url: https://datasets.datalad.org?dir=/shub/cory-weller/iMapSplice.simg/latest/2019-03-06-ef5cbe95-bf4ead75/
 recipe: https://datasets.datalad.org/shub/cory-weller/iMapSplice.simg/latest/2019-03-06-ef5cbe95-bf4ead75/Singularity
 collection: cory-weller/iMapSplice.simg
 ---

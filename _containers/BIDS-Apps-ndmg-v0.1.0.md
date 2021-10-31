@@ -9,7 +9,7 @@ build_date: "2020-07-29T06:45:52.709Z"
 size_mb: 2018
 size: 914759711
 sif: "https://datasets.datalad.org/shub/BIDS-Apps/ndmg/v0.1.0/2020-07-29-3a63bab6-73044bf7/73044bf715dc6d766cec324b4cede9b8.simg"
-url: https://datasets.datalad.org/shub/BIDS-Apps/ndmg/v0.1.0/2020-07-29-3a63bab6-73044bf7/
+datalad_url: https://datasets.datalad.org?dir=/shub/BIDS-Apps/ndmg/v0.1.0/2020-07-29-3a63bab6-73044bf7/
 recipe: https://datasets.datalad.org/shub/BIDS-Apps/ndmg/v0.1.0/2020-07-29-3a63bab6-73044bf7/Singularity
 collection: BIDS-Apps/ndmg
 ---

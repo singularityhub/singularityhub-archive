@@ -9,7 +9,7 @@ build_date: "2018-08-24T05:04:45.142Z"
 size_mb: 899
 size: 287383583
 sif: "https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/rooting_nj/2018-08-24-d423db26-6f728f95/6f728f954c165ed117c1928a4d901d7c.simg"
-url: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/rooting_nj/2018-08-24-d423db26-6f728f95/
+datalad_url: https://datasets.datalad.org?dir=/shub/CompBio-TDU-Japan/containers/rooting_nj/2018-08-24-d423db26-6f728f95/
 recipe: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/rooting_nj/2018-08-24-d423db26-6f728f95/Singularity
 collection: CompBio-TDU-Japan/containers
 ---

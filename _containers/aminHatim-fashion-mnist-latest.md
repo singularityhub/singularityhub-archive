@@ -9,7 +9,7 @@ build_date: "2019-05-04T01:11:53.434Z"
 size_mb: 3237
 size: 1651580959
 sif: "https://datasets.datalad.org/shub/aminHatim/fashion-mnist/latest/2019-05-04-af1f24ec-771f6fed/771f6fede040a7862ae46b37ba5ad60d.simg"
-url: https://datasets.datalad.org/shub/aminHatim/fashion-mnist/latest/2019-05-04-af1f24ec-771f6fed/
+datalad_url: https://datasets.datalad.org?dir=/shub/aminHatim/fashion-mnist/latest/2019-05-04-af1f24ec-771f6fed/
 recipe: https://datasets.datalad.org/shub/aminHatim/fashion-mnist/latest/2019-05-04-af1f24ec-771f6fed/Singularity
 collection: aminHatim/fashion-mnist
 ---

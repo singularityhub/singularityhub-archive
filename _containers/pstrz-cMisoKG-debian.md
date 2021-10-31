@@ -9,7 +9,7 @@ build_date: "2018-04-18T11:46:24.609Z"
 size_mb: 334
 size: 131092511
 sif: "https://datasets.datalad.org/shub/pstrz/cMisoKG/debian/2018-04-18-5093a52b-191a7194/191a7194a08cd2e8e51a6f1afae677eb.simg"
-url: https://datasets.datalad.org/shub/pstrz/cMisoKG/debian/2018-04-18-5093a52b-191a7194/
+datalad_url: https://datasets.datalad.org?dir=/shub/pstrz/cMisoKG/debian/2018-04-18-5093a52b-191a7194/
 recipe: https://datasets.datalad.org/shub/pstrz/cMisoKG/debian/2018-04-18-5093a52b-191a7194/Singularity
 collection: pstrz/cMisoKG
 ---

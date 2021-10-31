@@ -9,7 +9,7 @@ build_date: "2019-02-19T08:13:34.113Z"
 size_mb: 106
 size: 48992287
 sif: "https://datasets.datalad.org/shub/powerPlant/pblat-srf/2.1/2019-02-19-768d1bb5-ee90f217/ee90f217c0485b9a9e72368ed411d217.simg"
-url: https://datasets.datalad.org/shub/powerPlant/pblat-srf/2.1/2019-02-19-768d1bb5-ee90f217/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/pblat-srf/2.1/2019-02-19-768d1bb5-ee90f217/
 recipe: https://datasets.datalad.org/shub/powerPlant/pblat-srf/2.1/2019-02-19-768d1bb5-ee90f217/Singularity
 collection: powerPlant/pblat-srf
 ---

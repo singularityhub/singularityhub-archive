@@ -9,7 +9,7 @@ build_date: "2020-10-24T00:10:30.054Z"
 size_mb: 483.0
 size: 178434079
 sif: "https://datasets.datalad.org/shub/jsmentch/analyze-fmri/pycortex/2020-10-24-2a6436e1-9b30a3d9/9b30a3d9fc8480df0c57f8011fd75767.sif"
-url: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/pycortex/2020-10-24-2a6436e1-9b30a3d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/jsmentch/analyze-fmri/pycortex/2020-10-24-2a6436e1-9b30a3d9/
 recipe: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/pycortex/2020-10-24-2a6436e1-9b30a3d9/Singularity
 collection: jsmentch/analyze-fmri
 ---

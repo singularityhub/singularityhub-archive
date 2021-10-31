@@ -9,7 +9,7 @@ build_date: "2020-01-17T22:11:20.097Z"
 size_mb: 3522.0
 size: 3536572416
 sif: "https://datasets.datalad.org/shub/wsjeon/marl-dev-setting/zsh/2020-01-17-f9f432e4-4f6d4833/4f6d48337ce5c3109375e2e78ee2a278ac05e3cf746b9d16735d923e2fd609f0.sif"
-url: https://datasets.datalad.org/shub/wsjeon/marl-dev-setting/zsh/2020-01-17-f9f432e4-4f6d4833/
+datalad_url: https://datasets.datalad.org?dir=/shub/wsjeon/marl-dev-setting/zsh/2020-01-17-f9f432e4-4f6d4833/
 recipe: https://datasets.datalad.org/shub/wsjeon/marl-dev-setting/zsh/2020-01-17-f9f432e4-4f6d4833/Singularity
 collection: wsjeon/marl-dev-setting
 ---

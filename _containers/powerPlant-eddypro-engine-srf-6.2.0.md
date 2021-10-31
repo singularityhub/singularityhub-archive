@@ -9,7 +9,7 @@ build_date: "2019-02-11T22:21:31.705Z"
 size_mb: 132
 size: 65400863
 sif: "https://datasets.datalad.org/shub/powerPlant/eddypro-engine-srf/6.2.0/2019-02-11-d8fad427-6b744cee/6b744cee2dba040f308ea0689e5c6d1d.simg"
-url: https://datasets.datalad.org/shub/powerPlant/eddypro-engine-srf/6.2.0/2019-02-11-d8fad427-6b744cee/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/eddypro-engine-srf/6.2.0/2019-02-11-d8fad427-6b744cee/
 recipe: https://datasets.datalad.org/shub/powerPlant/eddypro-engine-srf/6.2.0/2019-02-11-d8fad427-6b744cee/Singularity
 collection: powerPlant/eddypro-engine-srf
 ---

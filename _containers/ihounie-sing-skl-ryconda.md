@@ -9,7 +9,7 @@ build_date: "2020-06-01T21:01:17.280Z"
 size_mb: 3647.0
 size: 1359884319
 sif: "https://datasets.datalad.org/shub/ihounie/sing-skl/ryconda/2020-06-01-9b3d207b-a3e10323/a3e10323a46005468a804ee48ce37a77.sif"
-url: https://datasets.datalad.org/shub/ihounie/sing-skl/ryconda/2020-06-01-9b3d207b-a3e10323/
+datalad_url: https://datasets.datalad.org?dir=/shub/ihounie/sing-skl/ryconda/2020-06-01-9b3d207b-a3e10323/
 recipe: https://datasets.datalad.org/shub/ihounie/sing-skl/ryconda/2020-06-01-9b3d207b-a3e10323/Singularity
 collection: ihounie/sing-skl
 ---

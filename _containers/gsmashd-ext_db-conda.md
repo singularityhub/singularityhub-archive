@@ -9,7 +9,7 @@ build_date: "2018-05-23T15:18:46.983Z"
 size_mb: 2579
 size: 1112281119
 sif: "https://datasets.datalad.org/shub/gsmashd/ext_db/conda/2018-05-23-d795fac9-dd5a8cf2/dd5a8cf2ecda6f911716f90a0eb32106.simg"
-url: https://datasets.datalad.org/shub/gsmashd/ext_db/conda/2018-05-23-d795fac9-dd5a8cf2/
+datalad_url: https://datasets.datalad.org?dir=/shub/gsmashd/ext_db/conda/2018-05-23-d795fac9-dd5a8cf2/
 recipe: https://datasets.datalad.org/shub/gsmashd/ext_db/conda/2018-05-23-d795fac9-dd5a8cf2/Singularity
 collection: gsmashd/ext_db
 ---

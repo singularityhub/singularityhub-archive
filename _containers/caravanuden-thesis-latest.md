@@ -9,7 +9,7 @@ build_date: "2019-05-09T08:14:52.056Z"
 size_mb: 1816
 size: 652046367
 sif: "https://datasets.datalad.org/shub/caravanuden/thesis/latest/2019-05-09-405f2edb-c48e39ba/c48e39bad8099808d6cc513f508fc6b3.simg"
-url: https://datasets.datalad.org/shub/caravanuden/thesis/latest/2019-05-09-405f2edb-c48e39ba/
+datalad_url: https://datasets.datalad.org?dir=/shub/caravanuden/thesis/latest/2019-05-09-405f2edb-c48e39ba/
 recipe: https://datasets.datalad.org/shub/caravanuden/thesis/latest/2019-05-09-405f2edb-c48e39ba/Singularity
 collection: caravanuden/thesis
 ---

@@ -9,7 +9,7 @@ build_date: "2020-02-19T16:30:09.686Z"
 size_mb: 13047.0
 size: 5335310367
 sif: "https://datasets.datalad.org/shub/baxpr/bedpost-singularity/v2.0.1/2020-02-19-7d77dbe0-1fc013dd/1fc013dd4d5cb1afdb94f0b2b461f7e4.sif"
-url: https://datasets.datalad.org/shub/baxpr/bedpost-singularity/v2.0.1/2020-02-19-7d77dbe0-1fc013dd/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/bedpost-singularity/v2.0.1/2020-02-19-7d77dbe0-1fc013dd/
 recipe: https://datasets.datalad.org/shub/baxpr/bedpost-singularity/v2.0.1/2020-02-19-7d77dbe0-1fc013dd/Singularity
 collection: baxpr/bedpost-singularity
 ---

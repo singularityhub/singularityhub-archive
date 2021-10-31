@@ -9,7 +9,7 @@ build_date: "2020-12-17T02:45:39.103Z"
 size_mb: 12301.0
 size: 6267858975
 sif: "https://datasets.datalad.org/shub/timothyas/data-driven-collab/tf/2020-12-17-48a66720-64846b07/64846b07370cd88f68fa6ad35c0a59a5.sif"
-url: https://datasets.datalad.org/shub/timothyas/data-driven-collab/tf/2020-12-17-48a66720-64846b07/
+datalad_url: https://datasets.datalad.org?dir=/shub/timothyas/data-driven-collab/tf/2020-12-17-48a66720-64846b07/
 recipe: https://datasets.datalad.org/shub/timothyas/data-driven-collab/tf/2020-12-17-48a66720-64846b07/Singularity
 collection: timothyas/data-driven-collab
 ---

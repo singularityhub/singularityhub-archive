@@ -9,7 +9,7 @@ build_date: "2019-03-12T08:04:32.431Z"
 size_mb: 1880
 size: 693723167
 sif: "https://datasets.datalad.org/shub/Dill-PICL/GOMAP-singularity/v1.0.comet/2019-03-12-12ebff9d-4b4fa619/4b4fa61927aeb5c1c8ee27ae364fe851.simg"
-url: https://datasets.datalad.org/shub/Dill-PICL/GOMAP-singularity/v1.0.comet/2019-03-12-12ebff9d-4b4fa619/
+datalad_url: https://datasets.datalad.org?dir=/shub/Dill-PICL/GOMAP-singularity/v1.0.comet/2019-03-12-12ebff9d-4b4fa619/
 recipe: https://datasets.datalad.org/shub/Dill-PICL/GOMAP-singularity/v1.0.comet/2019-03-12-12ebff9d-4b4fa619/Singularity
 collection: Dill-PICL/GOMAP-singularity
 ---

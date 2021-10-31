@@ -9,7 +9,7 @@ build_date: "2020-11-03T02:29:10.562Z"
 size_mb: 2447.0
 size: 932388895
 sif: "https://datasets.datalad.org/shub/nesi/nesi-singularity-recipes/turbo_xfce_centos/2020-11-03-a95a77fc-fd429920/fd429920fce593108e315da1b23e9697.sif"
-url: https://datasets.datalad.org/shub/nesi/nesi-singularity-recipes/turbo_xfce_centos/2020-11-03-a95a77fc-fd429920/
+datalad_url: https://datasets.datalad.org?dir=/shub/nesi/nesi-singularity-recipes/turbo_xfce_centos/2020-11-03-a95a77fc-fd429920/
 recipe: https://datasets.datalad.org/shub/nesi/nesi-singularity-recipes/turbo_xfce_centos/2020-11-03-a95a77fc-fd429920/Singularity
 collection: nesi/nesi-singularity-recipes
 ---

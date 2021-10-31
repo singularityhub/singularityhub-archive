@@ -9,7 +9,7 @@ build_date: "2020-06-10T17:59:15.577Z"
 size_mb: 4850.0
 size: 2297208863
 sif: "https://datasets.datalad.org/shub/HanLabUNLV/hanlab_singularity_defs/rnaseq/2020-06-10-8cdf3e8a-52f3304f/52f3304fa99da85004379f2e0642e5db.sif"
-url: https://datasets.datalad.org/shub/HanLabUNLV/hanlab_singularity_defs/rnaseq/2020-06-10-8cdf3e8a-52f3304f/
+datalad_url: https://datasets.datalad.org?dir=/shub/HanLabUNLV/hanlab_singularity_defs/rnaseq/2020-06-10-8cdf3e8a-52f3304f/
 recipe: https://datasets.datalad.org/shub/HanLabUNLV/hanlab_singularity_defs/rnaseq/2020-06-10-8cdf3e8a-52f3304f/Singularity
 collection: HanLabUNLV/hanlab_singularity_defs
 ---

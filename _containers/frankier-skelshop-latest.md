@@ -9,7 +9,7 @@ build_date: "2021-02-01T08:45:20.798Z"
 size_mb: 5445.37890625
 size: 5709893632
 sif: "https://datasets.datalad.org/shub/frankier/skelshop/latest/2021-02-01-ddb6043f-12354c45/12354c453c20e5d68af23bc1fe952d10a000e5682e6a7b075f5a01397fb3a4bc.sif"
-url: https://datasets.datalad.org/shub/frankier/skelshop/latest/2021-02-01-ddb6043f-12354c45/
+datalad_url: https://datasets.datalad.org?dir=/shub/frankier/skelshop/latest/2021-02-01-ddb6043f-12354c45/
 recipe: https://datasets.datalad.org/shub/frankier/skelshop/latest/2021-02-01-ddb6043f-12354c45/Singularity
 collection: frankier/skelshop
 ---

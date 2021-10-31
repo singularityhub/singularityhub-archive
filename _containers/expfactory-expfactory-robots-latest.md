@@ -9,7 +9,7 @@ build_date: "2018-09-06T00:24:38.690Z"
 size_mb: 980
 size: 400375839
 sif: "https://datasets.datalad.org/shub/expfactory/expfactory-robots/latest/2018-09-06-2875e4eb-5845289e/5845289eece103e00c2a51e50b3f54c8.simg"
-url: https://datasets.datalad.org/shub/expfactory/expfactory-robots/latest/2018-09-06-2875e4eb-5845289e/
+datalad_url: https://datasets.datalad.org?dir=/shub/expfactory/expfactory-robots/latest/2018-09-06-2875e4eb-5845289e/
 recipe: https://datasets.datalad.org/shub/expfactory/expfactory-robots/latest/2018-09-06-2875e4eb-5845289e/Singularity
 collection: expfactory/expfactory-robots
 ---

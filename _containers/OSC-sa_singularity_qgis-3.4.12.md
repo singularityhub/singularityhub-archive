@@ -9,7 +9,7 @@ build_date: "2019-10-11T15:52:39.987Z"
 size_mb: 1356.0
 size: 460763167
 sif: "https://datasets.datalad.org/shub/OSC/sa_singularity_qgis/3.4.12/2019-10-11-86503255-58b72572/58b72572299fdaaa557f9b804f4a5d96.sif"
-url: https://datasets.datalad.org/shub/OSC/sa_singularity_qgis/3.4.12/2019-10-11-86503255-58b72572/
+datalad_url: https://datasets.datalad.org?dir=/shub/OSC/sa_singularity_qgis/3.4.12/2019-10-11-86503255-58b72572/
 recipe: https://datasets.datalad.org/shub/OSC/sa_singularity_qgis/3.4.12/2019-10-11-86503255-58b72572/Singularity
 collection: OSC/sa_singularity_qgis
 ---

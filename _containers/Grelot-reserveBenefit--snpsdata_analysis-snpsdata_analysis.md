@@ -9,7 +9,7 @@ build_date: "2020-10-30T14:26:08.337Z"
 size_mb: 1667.0
 size: 790233119
 sif: "https://datasets.datalad.org/shub/Grelot/reserveBenefit--snpsdata_analysis/snpsdata_analysis/2020-10-30-4e181ee3-5faec8d7/5faec8d7bd0e90cb7ea1d23773f7c755.sif"
-url: https://datasets.datalad.org/shub/Grelot/reserveBenefit--snpsdata_analysis/snpsdata_analysis/2020-10-30-4e181ee3-5faec8d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/Grelot/reserveBenefit--snpsdata_analysis/snpsdata_analysis/2020-10-30-4e181ee3-5faec8d7/
 recipe: https://datasets.datalad.org/shub/Grelot/reserveBenefit--snpsdata_analysis/snpsdata_analysis/2020-10-30-4e181ee3-5faec8d7/Singularity
 collection: Grelot/reserveBenefit--snpsdata_analysis
 ---

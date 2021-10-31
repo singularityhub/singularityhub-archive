@@ -9,7 +9,7 @@ build_date: "2021-04-07T13:06:34.667Z"
 size_mb: 223.73828125
 size: 234606592
 sif: "https://datasets.datalad.org/shub/bast/pandoc/latest/2021-04-07-ad6c4f45-cab1059b/cab1059b3fd5e6eaf91d800dc4557404fd3532b72fc71e874bfd5f409c73e34b.sif"
-url: https://datasets.datalad.org/shub/bast/pandoc/latest/2021-04-07-ad6c4f45-cab1059b/
+datalad_url: https://datasets.datalad.org?dir=/shub/bast/pandoc/latest/2021-04-07-ad6c4f45-cab1059b/
 recipe: https://datasets.datalad.org/shub/bast/pandoc/latest/2021-04-07-ad6c4f45-cab1059b/Singularity
 collection: bast/pandoc
 ---

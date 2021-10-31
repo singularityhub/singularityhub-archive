@@ -9,7 +9,7 @@ build_date: "2020-07-27T06:55:57.243Z"
 size_mb: 3074.0
 size: 1277300767
 sif: "https://datasets.datalad.org/shub/motroy/singularity-sarscov2phylo/latest/2020-07-27-e7903a34-5d12fc5a/5d12fc5acad3437c9f3840fe96be5df5.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-sarscov2phylo/latest/2020-07-27-e7903a34-5d12fc5a/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-sarscov2phylo/latest/2020-07-27-e7903a34-5d12fc5a/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-sarscov2phylo/latest/2020-07-27-e7903a34-5d12fc5a/Singularity
 collection: motroy/singularity-sarscov2phylo
 ---

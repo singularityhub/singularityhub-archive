@@ -9,7 +9,7 @@ build_date: "2019-09-03T13:58:28.495Z"
 size_mb: 3084
 size: 1350897695
 sif: "https://datasets.datalad.org/shub/ambenj/bin_das_tool/dastool/2019-09-03-75dad1fb-02413fc6/02413fc64f488cc7b999742e8762a9a4.simg"
-url: https://datasets.datalad.org/shub/ambenj/bin_das_tool/dastool/2019-09-03-75dad1fb-02413fc6/
+datalad_url: https://datasets.datalad.org?dir=/shub/ambenj/bin_das_tool/dastool/2019-09-03-75dad1fb-02413fc6/
 recipe: https://datasets.datalad.org/shub/ambenj/bin_das_tool/dastool/2019-09-03-75dad1fb-02413fc6/Singularity
 collection: ambenj/bin_das_tool
 ---

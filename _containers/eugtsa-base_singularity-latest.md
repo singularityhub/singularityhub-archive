@@ -9,7 +9,7 @@ build_date: "2021-02-26T14:52:37.491Z"
 size_mb: 4479.62109375
 size: 4697223168
 sif: "https://datasets.datalad.org/shub/eugtsa/base_singularity/latest/2021-02-26-bdd6174b-40e9af8f/40e9af8f3c3df154fb4706a360bde5e64f7b9eb41bab3852a818de23c0828c60.sif"
-url: https://datasets.datalad.org/shub/eugtsa/base_singularity/latest/2021-02-26-bdd6174b-40e9af8f/
+datalad_url: https://datasets.datalad.org?dir=/shub/eugtsa/base_singularity/latest/2021-02-26-bdd6174b-40e9af8f/
 recipe: https://datasets.datalad.org/shub/eugtsa/base_singularity/latest/2021-02-26-bdd6174b-40e9af8f/Singularity
 collection: eugtsa/base_singularity
 ---

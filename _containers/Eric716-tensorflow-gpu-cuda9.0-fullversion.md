@@ -9,7 +9,7 @@ build_date: "2019-06-02T08:13:57.355Z"
 size_mb: 16028
 size: 12680405023
 sif: "https://datasets.datalad.org/shub/Eric716/tensorflow-gpu-cuda9.0/fullversion/2019-06-02-3f4f8cde-c984ae21/c984ae211a46d8da3a6231e4b03fbf21.simg"
-url: https://datasets.datalad.org/shub/Eric716/tensorflow-gpu-cuda9.0/fullversion/2019-06-02-3f4f8cde-c984ae21/
+datalad_url: https://datasets.datalad.org?dir=/shub/Eric716/tensorflow-gpu-cuda9.0/fullversion/2019-06-02-3f4f8cde-c984ae21/
 recipe: https://datasets.datalad.org/shub/Eric716/tensorflow-gpu-cuda9.0/fullversion/2019-06-02-3f4f8cde-c984ae21/Singularity
 collection: Eric716/tensorflow-gpu-cuda9.0
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-14T17:15:23.997Z"
 size_mb: 1934
 size: 680722463
 sif: "https://datasets.datalad.org/shub/chrarnold/Singularity_images/rna_seq_r/2019-11-14-d9183c9a-cad9eb8a/cad9eb8abcf063525e4256c1c7d0e8e4.simg"
-url: https://datasets.datalad.org/shub/chrarnold/Singularity_images/rna_seq_r/2019-11-14-d9183c9a-cad9eb8a/
+datalad_url: https://datasets.datalad.org?dir=/shub/chrarnold/Singularity_images/rna_seq_r/2019-11-14-d9183c9a-cad9eb8a/
 recipe: https://datasets.datalad.org/shub/chrarnold/Singularity_images/rna_seq_r/2019-11-14-d9183c9a-cad9eb8a/Singularity
 collection: chrarnold/Singularity_images
 ---

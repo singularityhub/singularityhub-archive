@@ -9,7 +9,7 @@ build_date: "2021-04-12T07:03:39.760Z"
 size_mb: 186.0
 size: 77590559
 sif: "https://datasets.datalad.org/shub/GeertvanGeest/test_shub/latest/2021-04-12-89592aba-309ef2d6/309ef2d664e3f4a637bd962945e2010d.sif"
-url: https://datasets.datalad.org/shub/GeertvanGeest/test_shub/latest/2021-04-12-89592aba-309ef2d6/
+datalad_url: https://datasets.datalad.org?dir=/shub/GeertvanGeest/test_shub/latest/2021-04-12-89592aba-309ef2d6/
 recipe: https://datasets.datalad.org/shub/GeertvanGeest/test_shub/latest/2021-04-12-89592aba-309ef2d6/Singularity
 collection: GeertvanGeest/test_shub
 ---

@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.110Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/jakob-wirbel/singularity_training/fun/2019-02-27-e2f2d132-3eb4ecd3/3eb4ecd360c78e967f355cb14008df90.simg"
-url: https://datasets.datalad.org/shub/jakob-wirbel/singularity_training/fun/2019-02-27-e2f2d132-3eb4ecd3/
+datalad_url: https://datasets.datalad.org?dir=/shub/jakob-wirbel/singularity_training/fun/2019-02-27-e2f2d132-3eb4ecd3/
 recipe: https://datasets.datalad.org/shub/jakob-wirbel/singularity_training/fun/2019-02-27-e2f2d132-3eb4ecd3/Singularity
 collection: jakob-wirbel/singularity_training
 ---

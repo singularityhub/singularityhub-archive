@@ -9,7 +9,7 @@ build_date: "2019-09-04T14:37:57.566Z"
 size_mb: 965
 size: 354299935
 sif: "https://datasets.datalad.org/shub/raj76/singularity/biocontainers/2019-09-04-e4757bb1-b3140d02/b3140d02605371110112713831ed81c1.simg"
-url: https://datasets.datalad.org/shub/raj76/singularity/biocontainers/2019-09-04-e4757bb1-b3140d02/
+datalad_url: https://datasets.datalad.org?dir=/shub/raj76/singularity/biocontainers/2019-09-04-e4757bb1-b3140d02/
 recipe: https://datasets.datalad.org/shub/raj76/singularity/biocontainers/2019-09-04-e4757bb1-b3140d02/Singularity
 collection: raj76/singularity
 ---

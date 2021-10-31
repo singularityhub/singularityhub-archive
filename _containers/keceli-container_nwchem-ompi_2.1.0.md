@@ -9,7 +9,7 @@ build_date: "2018-10-03T03:26:38.346Z"
 size_mb: 622
 size: 184213535
 sif: "https://datasets.datalad.org/shub/keceli/container_nwchem/ompi_2.1.0/2018-10-03-2aba2430-32359c1b/32359c1b00aa93adf9bbe5a6014c92a1.simg"
-url: https://datasets.datalad.org/shub/keceli/container_nwchem/ompi_2.1.0/2018-10-03-2aba2430-32359c1b/
+datalad_url: https://datasets.datalad.org?dir=/shub/keceli/container_nwchem/ompi_2.1.0/2018-10-03-2aba2430-32359c1b/
 recipe: https://datasets.datalad.org/shub/keceli/container_nwchem/ompi_2.1.0/2018-10-03-2aba2430-32359c1b/Singularity
 collection: keceli/container_nwchem
 ---

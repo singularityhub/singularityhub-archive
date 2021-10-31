@@ -9,7 +9,7 @@ build_date: "2020-02-23T19:51:06.006Z"
 size_mb: 2247.0
 size: 565997599
 sif: "https://datasets.datalad.org/shub/datalad/datalad/git-annex-dev/2020-02-23-d57c1436-eeef9b4d/eeef9b4dc21a177fdb9112bf8d300259.sif"
-url: https://datasets.datalad.org/shub/datalad/datalad/git-annex-dev/2020-02-23-d57c1436-eeef9b4d/
+datalad_url: https://datasets.datalad.org?dir=/shub/datalad/datalad/git-annex-dev/2020-02-23-d57c1436-eeef9b4d/
 recipe: https://datasets.datalad.org/shub/datalad/datalad/git-annex-dev/2020-02-23-d57c1436-eeef9b4d/Singularity
 collection: datalad/datalad
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-02T00:17:59.075Z"
 size_mb: 972
 size: 449441823
 sif: "https://datasets.datalad.org/shub/Grelot/bioinfo_singularity_recipes/obitoolsmbb/2020-12-02-17581a04-75f895e2/75f895e21b82eb3e0ea01f4fb6eb52e0.simg"
-url: https://datasets.datalad.org/shub/Grelot/bioinfo_singularity_recipes/obitoolsmbb/2020-12-02-17581a04-75f895e2/
+datalad_url: https://datasets.datalad.org?dir=/shub/Grelot/bioinfo_singularity_recipes/obitoolsmbb/2020-12-02-17581a04-75f895e2/
 recipe: https://datasets.datalad.org/shub/Grelot/bioinfo_singularity_recipes/obitoolsmbb/2020-12-02-17581a04-75f895e2/Singularity
 collection: Grelot/bioinfo_singularity_recipes
 ---

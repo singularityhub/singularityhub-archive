@@ -9,7 +9,7 @@ build_date: "2018-08-13T19:33:55.556Z"
 size_mb: 1396
 size: 401960991
 sif: "https://datasets.datalad.org/shub/outbackCrustacian/python_singularity_recipes/graphing/2018-08-13-bc5645a2-fc3f12be/fc3f12be984d1b87ae19bea6828572a2.simg"
-url: https://datasets.datalad.org/shub/outbackCrustacian/python_singularity_recipes/graphing/2018-08-13-bc5645a2-fc3f12be/
+datalad_url: https://datasets.datalad.org?dir=/shub/outbackCrustacian/python_singularity_recipes/graphing/2018-08-13-bc5645a2-fc3f12be/
 recipe: https://datasets.datalad.org/shub/outbackCrustacian/python_singularity_recipes/graphing/2018-08-13-bc5645a2-fc3f12be/Singularity
 collection: outbackCrustacian/python_singularity_recipes
 ---

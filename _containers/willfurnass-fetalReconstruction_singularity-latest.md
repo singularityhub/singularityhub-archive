@@ -9,7 +9,7 @@ build_date: "2019-05-29T23:06:07.669Z"
 size_mb: 2747
 size: 1466675231
 sif: "https://datasets.datalad.org/shub/willfurnass/fetalReconstruction_singularity/latest/2019-05-29-70161d34-c10ae4cb/c10ae4cb00c194b6c6d4113e9aaa5379.simg"
-url: https://datasets.datalad.org/shub/willfurnass/fetalReconstruction_singularity/latest/2019-05-29-70161d34-c10ae4cb/
+datalad_url: https://datasets.datalad.org?dir=/shub/willfurnass/fetalReconstruction_singularity/latest/2019-05-29-70161d34-c10ae4cb/
 recipe: https://datasets.datalad.org/shub/willfurnass/fetalReconstruction_singularity/latest/2019-05-29-70161d34-c10ae4cb/Singularity
 collection: willfurnass/fetalReconstruction_singularity
 ---

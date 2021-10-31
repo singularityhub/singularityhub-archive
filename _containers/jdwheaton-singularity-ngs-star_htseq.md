@@ -9,7 +9,7 @@ build_date: "2020-06-05T17:22:24.649Z"
 size_mb: 662
 size: 229560351
 sif: "https://datasets.datalad.org/shub/jdwheaton/singularity-ngs/star_htseq/2020-06-05-c21ec4a8-a8f9502c/a8f9502c230f5824bc33ee1a26376d79.simg"
-url: https://datasets.datalad.org/shub/jdwheaton/singularity-ngs/star_htseq/2020-06-05-c21ec4a8-a8f9502c/
+datalad_url: https://datasets.datalad.org?dir=/shub/jdwheaton/singularity-ngs/star_htseq/2020-06-05-c21ec4a8-a8f9502c/
 recipe: https://datasets.datalad.org/shub/jdwheaton/singularity-ngs/star_htseq/2020-06-05-c21ec4a8-a8f9502c/Singularity
 collection: jdwheaton/singularity-ngs
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-20T08:24:17.337Z"
 size_mb: 372
 size: 131285023
 sif: "https://datasets.datalad.org/shub/achiam21/GridFTP/latest/2019-03-20-6cdd3978-c3735f60/c3735f60777cf7436f9d2e5d65afd170.simg"
-url: https://datasets.datalad.org/shub/achiam21/GridFTP/latest/2019-03-20-6cdd3978-c3735f60/
+datalad_url: https://datasets.datalad.org?dir=/shub/achiam21/GridFTP/latest/2019-03-20-6cdd3978-c3735f60/
 recipe: https://datasets.datalad.org/shub/achiam21/GridFTP/latest/2019-03-20-6cdd3978-c3735f60/Singularity
 collection: achiam21/GridFTP
 ---

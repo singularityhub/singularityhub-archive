@@ -9,7 +9,7 @@ build_date: "2021-03-15T15:20:14.768Z"
 size_mb: 9738.0
 size: 4519936031
 sif: "https://datasets.datalad.org/shub/shnizzedy/C-PAC/latest/2021-03-15-70346dcc-d44b0a51/d44b0a51c5c05029701f7d2aa38ad431.sif"
-url: https://datasets.datalad.org/shub/shnizzedy/C-PAC/latest/2021-03-15-70346dcc-d44b0a51/
+datalad_url: https://datasets.datalad.org?dir=/shub/shnizzedy/C-PAC/latest/2021-03-15-70346dcc-d44b0a51/
 recipe: https://datasets.datalad.org/shub/shnizzedy/C-PAC/latest/2021-03-15-70346dcc-d44b0a51/Singularity
 collection: shnizzedy/C-PAC
 ---

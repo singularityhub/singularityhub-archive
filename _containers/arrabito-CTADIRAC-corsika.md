@@ -9,7 +9,7 @@ build_date: "2020-05-06T15:24:23.826Z"
 size_mb: 588.0
 size: 216477727
 sif: "https://datasets.datalad.org/shub/arrabito/CTADIRAC/corsika/2020-05-06-9da48b6a-c234e3a3/c234e3a30201ec3dbc4c1a2f67490c3b.sif"
-url: https://datasets.datalad.org/shub/arrabito/CTADIRAC/corsika/2020-05-06-9da48b6a-c234e3a3/
+datalad_url: https://datasets.datalad.org?dir=/shub/arrabito/CTADIRAC/corsika/2020-05-06-9da48b6a-c234e3a3/
 recipe: https://datasets.datalad.org/shub/arrabito/CTADIRAC/corsika/2020-05-06-9da48b6a-c234e3a3/Singularity
 collection: arrabito/CTADIRAC
 ---

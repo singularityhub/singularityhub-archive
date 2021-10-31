@@ -9,7 +9,7 @@ build_date: "2019-05-24T15:49:14.294Z"
 size_mb: 533
 size: 208490527
 sif: "https://datasets.datalad.org/shub/MaraSedlins/build_container_on_shub/latest/2019-05-24-c791fa6c-a7d4baeb/a7d4baeb80437d56d0c2b7745452b438.simg"
-url: https://datasets.datalad.org/shub/MaraSedlins/build_container_on_shub/latest/2019-05-24-c791fa6c-a7d4baeb/
+datalad_url: https://datasets.datalad.org?dir=/shub/MaraSedlins/build_container_on_shub/latest/2019-05-24-c791fa6c-a7d4baeb/
 recipe: https://datasets.datalad.org/shub/MaraSedlins/build_container_on_shub/latest/2019-05-24-c791fa6c-a7d4baeb/Singularity
 collection: MaraSedlins/build_container_on_shub
 ---

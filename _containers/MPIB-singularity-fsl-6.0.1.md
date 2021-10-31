@@ -9,7 +9,7 @@ build_date: "2021-01-25T22:58:18.664Z"
 size_mb: 4590.48828125
 size: 4813475840
 sif: "https://datasets.datalad.org/shub/MPIB/singularity-fsl/6.0.1/2021-01-25-ceb8d1fb-c5d93031/c5d930313f429fd42a5eb32548657a2b34e9dfa26875e9e602fc0962cf4036e9.sif"
-url: https://datasets.datalad.org/shub/MPIB/singularity-fsl/6.0.1/2021-01-25-ceb8d1fb-c5d93031/
+datalad_url: https://datasets.datalad.org?dir=/shub/MPIB/singularity-fsl/6.0.1/2021-01-25-ceb8d1fb-c5d93031/
 recipe: https://datasets.datalad.org/shub/MPIB/singularity-fsl/6.0.1/2021-01-25-ceb8d1fb-c5d93031/Singularity
 collection: MPIB/singularity-fsl
 ---

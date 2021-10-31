@@ -9,7 +9,7 @@ build_date: "2021-03-17T09:49:52.092Z"
 size_mb: 985.0
 size: 371560479
 sif: "https://datasets.datalad.org/shub/pmitev/UPPMAX-Singularity/gapseq/2021-03-17-c1650168-fff416ae/fff416aeec9a3ce4488ecdfb4b049278.sif"
-url: https://datasets.datalad.org/shub/pmitev/UPPMAX-Singularity/gapseq/2021-03-17-c1650168-fff416ae/
+datalad_url: https://datasets.datalad.org?dir=/shub/pmitev/UPPMAX-Singularity/gapseq/2021-03-17-c1650168-fff416ae/
 recipe: https://datasets.datalad.org/shub/pmitev/UPPMAX-Singularity/gapseq/2021-03-17-c1650168-fff416ae/Singularity
 collection: pmitev/UPPMAX-Singularity
 ---

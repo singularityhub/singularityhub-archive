@@ -9,7 +9,7 @@ build_date: "2021-04-04T02:13:22.951Z"
 size_mb: 1784.0
 size: 563654687
 sif: "https://datasets.datalad.org/shub/reisportela/PythonCourse/def/2021-04-04-fc07d979-d1ec925e/d1ec925e0b05f291dbe1261032650550.sif"
-url: https://datasets.datalad.org/shub/reisportela/PythonCourse/def/2021-04-04-fc07d979-d1ec925e/
+datalad_url: https://datasets.datalad.org?dir=/shub/reisportela/PythonCourse/def/2021-04-04-fc07d979-d1ec925e/
 recipe: https://datasets.datalad.org/shub/reisportela/PythonCourse/def/2021-04-04-fc07d979-d1ec925e/Singularity
 collection: reisportela/PythonCourse
 ---

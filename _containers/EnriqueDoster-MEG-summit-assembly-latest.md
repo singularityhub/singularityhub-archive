@@ -9,7 +9,7 @@ build_date: "2019-10-10T19:31:22.717Z"
 size_mb: 1745
 size: 681218079
 sif: "https://datasets.datalad.org/shub/EnriqueDoster/MEG-summit-assembly/latest/2019-10-10-b1f2fc00-7d5ffd60/7d5ffd60364f9ef55079fe1e5fe9a872.simg"
-url: https://datasets.datalad.org/shub/EnriqueDoster/MEG-summit-assembly/latest/2019-10-10-b1f2fc00-7d5ffd60/
+datalad_url: https://datasets.datalad.org?dir=/shub/EnriqueDoster/MEG-summit-assembly/latest/2019-10-10-b1f2fc00-7d5ffd60/
 recipe: https://datasets.datalad.org/shub/EnriqueDoster/MEG-summit-assembly/latest/2019-10-10-b1f2fc00-7d5ffd60/Singularity
 collection: EnriqueDoster/MEG-summit-assembly
 ---

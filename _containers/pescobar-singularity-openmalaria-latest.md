@@ -9,7 +9,7 @@ build_date: "2018-09-13T11:38:52.487Z"
 size_mb: 672
 size: 186212383
 sif: "https://datasets.datalad.org/shub/pescobar/singularity-openmalaria/latest/2018-09-13-633db93a-6149a5b9/6149a5b9ff7f5350e534157d1f3f01df.simg"
-url: https://datasets.datalad.org/shub/pescobar/singularity-openmalaria/latest/2018-09-13-633db93a-6149a5b9/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/singularity-openmalaria/latest/2018-09-13-633db93a-6149a5b9/
 recipe: https://datasets.datalad.org/shub/pescobar/singularity-openmalaria/latest/2018-09-13-633db93a-6149a5b9/Singularity
 collection: pescobar/singularity-openmalaria
 ---

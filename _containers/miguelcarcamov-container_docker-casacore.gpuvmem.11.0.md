@@ -9,7 +9,7 @@ build_date: "2020-11-10T21:32:14.298Z"
 size_mb: 13183.0
 size: 5759897631
 sif: "https://datasets.datalad.org/shub/miguelcarcamov/container_docker/casacore.gpuvmem.11.0/2020-11-10-c4a54bd7-25c63fdd/25c63fdd36fa5806fb6b3197e30bd614.sif"
-url: https://datasets.datalad.org/shub/miguelcarcamov/container_docker/casacore.gpuvmem.11.0/2020-11-10-c4a54bd7-25c63fdd/
+datalad_url: https://datasets.datalad.org?dir=/shub/miguelcarcamov/container_docker/casacore.gpuvmem.11.0/2020-11-10-c4a54bd7-25c63fdd/
 recipe: https://datasets.datalad.org/shub/miguelcarcamov/container_docker/casacore.gpuvmem.11.0/2020-11-10-c4a54bd7-25c63fdd/Singularity
 collection: miguelcarcamov/container_docker
 ---

@@ -9,7 +9,7 @@ build_date: "2018-07-12T08:20:47.644Z"
 size_mb: 4333
 size: 2184863775
 sif: "https://datasets.datalad.org/shub/ddnguyen2/Centos7/conda/2018-07-12-a7429c4f-e689ef44/e689ef440df0f66958b78344492157ba.simg"
-url: https://datasets.datalad.org/shub/ddnguyen2/Centos7/conda/2018-07-12-a7429c4f-e689ef44/
+datalad_url: https://datasets.datalad.org?dir=/shub/ddnguyen2/Centos7/conda/2018-07-12-a7429c4f-e689ef44/
 recipe: https://datasets.datalad.org/shub/ddnguyen2/Centos7/conda/2018-07-12-a7429c4f-e689ef44/Singularity
 collection: ddnguyen2/Centos7
 ---

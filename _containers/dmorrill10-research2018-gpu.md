@@ -9,7 +9,7 @@ build_date: "2018-11-01T21:55:11.790Z"
 size_mb: 3266
 size: 1616293919
 sif: "https://datasets.datalad.org/shub/dmorrill10/research2018/gpu/2018-11-01-26d55be3-fb5f82c0/fb5f82c0a49ccc7594b5ab81cfc254fe.simg"
-url: https://datasets.datalad.org/shub/dmorrill10/research2018/gpu/2018-11-01-26d55be3-fb5f82c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/dmorrill10/research2018/gpu/2018-11-01-26d55be3-fb5f82c0/
 recipe: https://datasets.datalad.org/shub/dmorrill10/research2018/gpu/2018-11-01-26d55be3-fb5f82c0/Singularity
 collection: dmorrill10/research2018
 ---

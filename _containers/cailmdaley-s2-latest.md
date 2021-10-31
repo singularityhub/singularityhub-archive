@@ -9,7 +9,7 @@ build_date: "2019-07-04T08:37:38.271Z"
 size_mb: 690
 size: 233652255
 sif: "https://datasets.datalad.org/shub/cailmdaley/s2/latest/2019-07-04-ecc64d5c-f62331ec/f62331ec8825ec9409a40689d35db08c.simg"
-url: https://datasets.datalad.org/shub/cailmdaley/s2/latest/2019-07-04-ecc64d5c-f62331ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/cailmdaley/s2/latest/2019-07-04-ecc64d5c-f62331ec/
 recipe: https://datasets.datalad.org/shub/cailmdaley/s2/latest/2019-07-04-ecc64d5c-f62331ec/Singularity
 collection: cailmdaley/s2
 ---

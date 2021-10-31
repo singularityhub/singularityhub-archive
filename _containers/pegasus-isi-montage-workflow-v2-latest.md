@@ -9,7 +9,7 @@ build_date: "2021-04-17T03:09:18.067Z"
 size_mb: 1626
 size: 511606815
 sif: "https://datasets.datalad.org/shub/pegasus-isi/montage-workflow-v2/latest/2021-04-17-9841ddab-577cc337/577cc3372152a358c34cab99302278a8.simg"
-url: https://datasets.datalad.org/shub/pegasus-isi/montage-workflow-v2/latest/2021-04-17-9841ddab-577cc337/
+datalad_url: https://datasets.datalad.org?dir=/shub/pegasus-isi/montage-workflow-v2/latest/2021-04-17-9841ddab-577cc337/
 recipe: https://datasets.datalad.org/shub/pegasus-isi/montage-workflow-v2/latest/2021-04-17-9841ddab-577cc337/Singularity
 collection: pegasus-isi/montage-workflow-v2
 ---

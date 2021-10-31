@@ -9,7 +9,7 @@ build_date: "2019-05-08T15:10:10.733Z"
 size_mb: 4448
 size: 1338691615
 sif: "https://datasets.datalad.org/shub/klshrinidhi/carla/0_9_5/2019-05-08-5218580f-256089bc/256089bcfaa97a788fa318b4338e7445.simg"
-url: https://datasets.datalad.org/shub/klshrinidhi/carla/0_9_5/2019-05-08-5218580f-256089bc/
+datalad_url: https://datasets.datalad.org?dir=/shub/klshrinidhi/carla/0_9_5/2019-05-08-5218580f-256089bc/
 recipe: https://datasets.datalad.org/shub/klshrinidhi/carla/0_9_5/2019-05-08-5218580f-256089bc/Singularity
 collection: klshrinidhi/carla
 ---

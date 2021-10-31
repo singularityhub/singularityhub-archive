@@ -9,7 +9,7 @@ build_date: "2018-04-13T04:44:04.862Z"
 size_mb: 1410
 size: 467394591
 sif: "https://datasets.datalad.org/shub/dshyshlov/GPflow_singularity/latest/2018-04-13-40e37c06-39e5c863/39e5c86355f70d745125b13bdb9c60f5.simg"
-url: https://datasets.datalad.org/shub/dshyshlov/GPflow_singularity/latest/2018-04-13-40e37c06-39e5c863/
+datalad_url: https://datasets.datalad.org?dir=/shub/dshyshlov/GPflow_singularity/latest/2018-04-13-40e37c06-39e5c863/
 recipe: https://datasets.datalad.org/shub/dshyshlov/GPflow_singularity/latest/2018-04-13-40e37c06-39e5c863/Singularity
 collection: dshyshlov/GPflow_singularity
 ---

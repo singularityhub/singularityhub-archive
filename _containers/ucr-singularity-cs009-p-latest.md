@@ -9,7 +9,7 @@ build_date: "2019-01-04T07:48:36.788Z"
 size_mb: 3365
 size: 1487708191
 sif: "https://datasets.datalad.org/shub/ucr-singularity/cs009-p/latest/2019-01-04-869dadc1-84d0706e/84d0706e56d33d9058996a7bd0ec510e.simg"
-url: https://datasets.datalad.org/shub/ucr-singularity/cs009-p/latest/2019-01-04-869dadc1-84d0706e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ucr-singularity/cs009-p/latest/2019-01-04-869dadc1-84d0706e/
 recipe: https://datasets.datalad.org/shub/ucr-singularity/cs009-p/latest/2019-01-04-869dadc1-84d0706e/Singularity
 collection: ucr-singularity/cs009-p
 ---

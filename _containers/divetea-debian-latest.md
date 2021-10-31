@@ -9,7 +9,7 @@ build_date: "2020-04-22T12:53:55.247Z"
 size_mb: 471
 size: 131092511
 sif: "https://datasets.datalad.org/shub/divetea/debian/latest/2020-04-22-12bfe05b-4431bac4/4431bac4fcb6788acd1d6a55c056f209.simg"
-url: https://datasets.datalad.org/shub/divetea/debian/latest/2020-04-22-12bfe05b-4431bac4/
+datalad_url: https://datasets.datalad.org?dir=/shub/divetea/debian/latest/2020-04-22-12bfe05b-4431bac4/
 recipe: https://datasets.datalad.org/shub/divetea/debian/latest/2020-04-22-12bfe05b-4431bac4/Singularity
 collection: divetea/debian
 ---

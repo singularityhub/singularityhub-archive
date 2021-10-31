@@ -9,7 +9,7 @@ build_date: "2020-11-19T06:30:00.293Z"
 size_mb: 515.19140625
 size: 540217344
 sif: "https://datasets.datalad.org/shub/lukegun/BIOMEC/def/2020-11-19-553fd7c6-29a78b42/29a78b42a0d276e679ab044424d0a6e24900470978c10c575c6a1e30c30acd07.sif"
-url: https://datasets.datalad.org/shub/lukegun/BIOMEC/def/2020-11-19-553fd7c6-29a78b42/
+datalad_url: https://datasets.datalad.org?dir=/shub/lukegun/BIOMEC/def/2020-11-19-553fd7c6-29a78b42/
 recipe: https://datasets.datalad.org/shub/lukegun/BIOMEC/def/2020-11-19-553fd7c6-29a78b42/Singularity
 collection: lukegun/BIOMEC
 ---

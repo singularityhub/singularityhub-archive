@@ -9,7 +9,7 @@ build_date: "2019-04-24T22:19:52.095Z"
 size_mb: 7649
 size: 3934949407
 sif: "https://datasets.datalad.org/shub/raorr/amuse-11.2-singularity/latest/2019-04-24-c26d5360-b9cc7022/b9cc7022b883da56af57c02b62feae30.simg"
-url: https://datasets.datalad.org/shub/raorr/amuse-11.2-singularity/latest/2019-04-24-c26d5360-b9cc7022/
+datalad_url: https://datasets.datalad.org?dir=/shub/raorr/amuse-11.2-singularity/latest/2019-04-24-c26d5360-b9cc7022/
 recipe: https://datasets.datalad.org/shub/raorr/amuse-11.2-singularity/latest/2019-04-24-c26d5360-b9cc7022/Singularity
 collection: raorr/amuse-11.2-singularity
 ---

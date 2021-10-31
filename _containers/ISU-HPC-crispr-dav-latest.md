@@ -9,7 +9,7 @@ build_date: "2018-04-23T18:42:48.803Z"
 size_mb: 2055
 size: 1046204447
 sif: "https://datasets.datalad.org/shub/ISU-HPC/crispr-dav/latest/2018-04-23-d35583cb-999fb0da/999fb0da6cf5024354e114f4d3260e1a.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/crispr-dav/latest/2018-04-23-d35583cb-999fb0da/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/crispr-dav/latest/2018-04-23-d35583cb-999fb0da/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/crispr-dav/latest/2018-04-23-d35583cb-999fb0da/Singularity
 collection: ISU-HPC/crispr-dav
 ---

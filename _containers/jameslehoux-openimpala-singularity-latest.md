@@ -9,7 +9,7 @@ build_date: "2021-04-19T12:18:23.517Z"
 size_mb: 3475.0
 size: 849747999
 sif: "https://datasets.datalad.org/shub/jameslehoux/openimpala-singularity/latest/2021-04-19-4fbd4c57-e74f7b93/e74f7b939b8aad299f40e9ffbdfd1292.sif"
-url: https://datasets.datalad.org/shub/jameslehoux/openimpala-singularity/latest/2021-04-19-4fbd4c57-e74f7b93/
+datalad_url: https://datasets.datalad.org?dir=/shub/jameslehoux/openimpala-singularity/latest/2021-04-19-4fbd4c57-e74f7b93/
 recipe: https://datasets.datalad.org/shub/jameslehoux/openimpala-singularity/latest/2021-04-19-4fbd4c57-e74f7b93/Singularity
 collection: jameslehoux/openimpala-singularity
 ---

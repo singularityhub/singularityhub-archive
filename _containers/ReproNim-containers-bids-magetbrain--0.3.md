@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:54.068Z"
 size_mb: 5918
 size: 4551880735
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-magetbrain--0.3/2021-03-19-f46580a5-3eff65fd/3eff65fd1d6d10886c6cc8f843065643.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-magetbrain--0.3/2021-03-19-f46580a5-3eff65fd/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-magetbrain--0.3/2021-03-19-f46580a5-3eff65fd/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-magetbrain--0.3/2021-03-19-f46580a5-3eff65fd/Singularity
 collection: ReproNim/containers
 ---

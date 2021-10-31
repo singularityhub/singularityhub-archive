@@ -9,7 +9,7 @@ build_date: "2020-10-26T16:23:52.697Z"
 size_mb: 749.30078125
 size: 785698816
 sif: "https://datasets.datalad.org/shub/marchoeppner/ikmb_amplicon_processing/latest/2020-10-26-30a43651-0aca19b7/0aca19b7959f595814f0b3e71c7507616f9b6a13bd094d7a8485c383058b8287.sif"
-url: https://datasets.datalad.org/shub/marchoeppner/ikmb_amplicon_processing/latest/2020-10-26-30a43651-0aca19b7/
+datalad_url: https://datasets.datalad.org?dir=/shub/marchoeppner/ikmb_amplicon_processing/latest/2020-10-26-30a43651-0aca19b7/
 recipe: https://datasets.datalad.org/shub/marchoeppner/ikmb_amplicon_processing/latest/2020-10-26-30a43651-0aca19b7/Singularity
 collection: marchoeppner/ikmb_amplicon_processing
 ---

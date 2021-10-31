@@ -9,7 +9,7 @@ build_date: "2020-02-25T22:05:20.065Z"
 size_mb: 950
 size: 543309855
 sif: "https://datasets.datalad.org/shub/pescobar/lexnet-linux/latest/2020-02-25-cc3d4204-0d8a1e18/0d8a1e18db915af84a317502ba041818.simg"
-url: https://datasets.datalad.org/shub/pescobar/lexnet-linux/latest/2020-02-25-cc3d4204-0d8a1e18/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/lexnet-linux/latest/2020-02-25-cc3d4204-0d8a1e18/
 recipe: https://datasets.datalad.org/shub/pescobar/lexnet-linux/latest/2020-02-25-cc3d4204-0d8a1e18/Singularity
 collection: pescobar/lexnet-linux
 ---

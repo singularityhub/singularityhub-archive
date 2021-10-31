@@ -9,7 +9,7 @@ build_date: "2019-04-10T23:02:51.466Z"
 size_mb: 3380
 size: 1689133087
 sif: "https://datasets.datalad.org/shub/liuhoward/tensorflow_container/latest/2019-04-10-c3b39d58-946472cb/946472cb0773ed781e3e9829f868e733.simg"
-url: https://datasets.datalad.org/shub/liuhoward/tensorflow_container/latest/2019-04-10-c3b39d58-946472cb/
+datalad_url: https://datasets.datalad.org?dir=/shub/liuhoward/tensorflow_container/latest/2019-04-10-c3b39d58-946472cb/
 recipe: https://datasets.datalad.org/shub/liuhoward/tensorflow_container/latest/2019-04-10-c3b39d58-946472cb/Singularity
 collection: liuhoward/tensorflow_container
 ---

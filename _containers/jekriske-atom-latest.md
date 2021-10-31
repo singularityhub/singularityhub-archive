@@ -9,7 +9,7 @@ build_date: "2021-04-12T22:19:29.089Z"
 size_mb: 863
 size: 260898847
 sif: "https://datasets.datalad.org/shub/jekriske/atom/latest/2021-04-12-cb287fad-6eec7dee/6eec7dee9f745436269f5564c21cf1b6.simg"
-url: https://datasets.datalad.org/shub/jekriske/atom/latest/2021-04-12-cb287fad-6eec7dee/
+datalad_url: https://datasets.datalad.org?dir=/shub/jekriske/atom/latest/2021-04-12-cb287fad-6eec7dee/
 recipe: https://datasets.datalad.org/shub/jekriske/atom/latest/2021-04-12-cb287fad-6eec7dee/Singularity
 collection: jekriske/atom
 ---

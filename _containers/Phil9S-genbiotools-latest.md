@@ -9,7 +9,7 @@ build_date: "2020-01-20T23:30:53.917Z"
 size_mb: 1327.0
 size: 780627999
 sif: "https://datasets.datalad.org/shub/Phil9S/genbiotools/latest/2020-01-20-d12811d0-83424413/83424413f5ad4a646e2a74facbd168d6.sif"
-url: https://datasets.datalad.org/shub/Phil9S/genbiotools/latest/2020-01-20-d12811d0-83424413/
+datalad_url: https://datasets.datalad.org?dir=/shub/Phil9S/genbiotools/latest/2020-01-20-d12811d0-83424413/
 recipe: https://datasets.datalad.org/shub/Phil9S/genbiotools/latest/2020-01-20-d12811d0-83424413/Singularity
 collection: Phil9S/genbiotools
 ---

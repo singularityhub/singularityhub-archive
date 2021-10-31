@@ -9,7 +9,7 @@ build_date: "2020-01-07T20:53:20.468Z"
 size_mb: 1407.0
 size: 482615327
 sif: "https://datasets.datalad.org/shub/onuryukselen/initialrun/latest/2020-01-07-9ea62a2c-7a8a6691/7a8a66919e840b06170b6126d913d9dd.sif"
-url: https://datasets.datalad.org/shub/onuryukselen/initialrun/latest/2020-01-07-9ea62a2c-7a8a6691/
+datalad_url: https://datasets.datalad.org?dir=/shub/onuryukselen/initialrun/latest/2020-01-07-9ea62a2c-7a8a6691/
 recipe: https://datasets.datalad.org/shub/onuryukselen/initialrun/latest/2020-01-07-9ea62a2c-7a8a6691/Singularity
 collection: onuryukselen/initialrun
 ---

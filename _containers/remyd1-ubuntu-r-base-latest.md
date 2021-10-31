@@ -9,7 +9,7 @@ build_date: "2020-06-05T12:15:17.727Z"
 size_mb: 697
 size: 285986847
 sif: "https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/latest/2020-06-05-b79ba285-d399f469/d399f46997b8714520456c8bb782974e.simg"
-url: https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/latest/2020-06-05-b79ba285-d399f469/
+datalad_url: https://datasets.datalad.org?dir=/shub/remyd1/ubuntu-r-base/latest/2020-06-05-b79ba285-d399f469/
 recipe: https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/latest/2020-06-05-b79ba285-d399f469/Singularity
 collection: remyd1/ubuntu-r-base
 ---

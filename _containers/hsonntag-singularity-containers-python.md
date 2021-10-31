@@ -9,7 +9,7 @@ build_date: "2020-09-18T08:01:46.050Z"
 size_mb: 1383.0
 size: 554082335
 sif: "https://datasets.datalad.org/shub/hsonntag/singularity-containers/python/2020-09-18-d097b9fe-69d6aeb5/69d6aeb584373da94596ec2b1dfa3b53.sif"
-url: https://datasets.datalad.org/shub/hsonntag/singularity-containers/python/2020-09-18-d097b9fe-69d6aeb5/
+datalad_url: https://datasets.datalad.org?dir=/shub/hsonntag/singularity-containers/python/2020-09-18-d097b9fe-69d6aeb5/
 recipe: https://datasets.datalad.org/shub/hsonntag/singularity-containers/python/2020-09-18-d097b9fe-69d6aeb5/Singularity
 collection: hsonntag/singularity-containers
 ---

@@ -9,7 +9,7 @@ build_date: "2017-11-28T19:11:34.824Z"
 size_mb: 782
 size: 330559519
 sif: "https://datasets.datalad.org/shub/patrickvdb/kallisto-singularity/latest/2017-11-28-0e451698-0753e13e/0753e13e6d7e24e4c012bc187cdcbd7c.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/kallisto-singularity/latest/2017-11-28-0e451698-0753e13e/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/kallisto-singularity/latest/2017-11-28-0e451698-0753e13e/
 recipe: https://datasets.datalad.org/shub/patrickvdb/kallisto-singularity/latest/2017-11-28-0e451698-0753e13e/Singularity
 collection: patrickvdb/kallisto-singularity
 ---

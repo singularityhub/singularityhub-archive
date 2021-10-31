@@ -9,7 +9,7 @@ build_date: "2021-04-14T16:25:50.350Z"
 size_mb: 4505.0
 size: 2137473055
 sif: "https://datasets.datalad.org/shub/martinobertoni/BBBpredictor/latest/2021-04-14-14e641c3-9aa127d6/9aa127d603a320cd746afad5ad8d811f.sif"
-url: https://datasets.datalad.org/shub/martinobertoni/BBBpredictor/latest/2021-04-14-14e641c3-9aa127d6/
+datalad_url: https://datasets.datalad.org?dir=/shub/martinobertoni/BBBpredictor/latest/2021-04-14-14e641c3-9aa127d6/
 recipe: https://datasets.datalad.org/shub/martinobertoni/BBBpredictor/latest/2021-04-14-14e641c3-9aa127d6/Singularity
 collection: martinobertoni/BBBpredictor
 ---

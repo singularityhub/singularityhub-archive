@@ -9,7 +9,7 @@ build_date: "2018-10-24T18:39:33.700Z"
 size_mb: 3589
 size: 1581383711
 sif: "https://datasets.datalad.org/shub/baxpr/fmri_conncalc/v1.0.0/2018-10-24-cd316395-9385959c/9385959c90d6b29e9074323edbcffbff.simg"
-url: https://datasets.datalad.org/shub/baxpr/fmri_conncalc/v1.0.0/2018-10-24-cd316395-9385959c/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/fmri_conncalc/v1.0.0/2018-10-24-cd316395-9385959c/
 recipe: https://datasets.datalad.org/shub/baxpr/fmri_conncalc/v1.0.0/2018-10-24-cd316395-9385959c/Singularity
 collection: baxpr/fmri_conncalc
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-04T04:07:33.969Z"
 size_mb: 16276.0
 size: 4630155295
 sif: "https://datasets.datalad.org/shub/kevin-harms/sycltrain/latest/2019-12-04-0eff0e5a-adbe4427/adbe4427f225aa95800de2a0d00dc4a7.sif"
-url: https://datasets.datalad.org/shub/kevin-harms/sycltrain/latest/2019-12-04-0eff0e5a-adbe4427/
+datalad_url: https://datasets.datalad.org?dir=/shub/kevin-harms/sycltrain/latest/2019-12-04-0eff0e5a-adbe4427/
 recipe: https://datasets.datalad.org/shub/kevin-harms/sycltrain/latest/2019-12-04-0eff0e5a-adbe4427/Singularity
 collection: kevin-harms/sycltrain
 ---

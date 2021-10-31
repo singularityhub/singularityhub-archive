@@ -9,7 +9,7 @@ build_date: "2018-11-27T20:50:55.275Z"
 size_mb: 7285
 size: 3089481759
 sif: "https://datasets.datalad.org/shub/scleveland/qiime2-singularity/2018.2/2018-11-27-f26ba988-1e1bb583/1e1bb5831900d1a19e90742f1b7de709.simg"
-url: https://datasets.datalad.org/shub/scleveland/qiime2-singularity/2018.2/2018-11-27-f26ba988-1e1bb583/
+datalad_url: https://datasets.datalad.org?dir=/shub/scleveland/qiime2-singularity/2018.2/2018-11-27-f26ba988-1e1bb583/
 recipe: https://datasets.datalad.org/shub/scleveland/qiime2-singularity/2018.2/2018-11-27-f26ba988-1e1bb583/Singularity
 collection: scleveland/qiime2-singularity
 ---

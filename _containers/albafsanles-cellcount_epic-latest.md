@@ -9,7 +9,7 @@ build_date: "2019-05-18T10:56:40.595Z"
 size_mb: 1857
 size: 686436383
 sif: "https://datasets.datalad.org/shub/albafsanles/cellcount_epic/latest/2019-05-18-2ccaf90c-ea859d14/ea859d14b43329d6ae21c1a88a161094.simg"
-url: https://datasets.datalad.org/shub/albafsanles/cellcount_epic/latest/2019-05-18-2ccaf90c-ea859d14/
+datalad_url: https://datasets.datalad.org?dir=/shub/albafsanles/cellcount_epic/latest/2019-05-18-2ccaf90c-ea859d14/
 recipe: https://datasets.datalad.org/shub/albafsanles/cellcount_epic/latest/2019-05-18-2ccaf90c-ea859d14/Singularity
 collection: albafsanles/cellcount_epic
 ---

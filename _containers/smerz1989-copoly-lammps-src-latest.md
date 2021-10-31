@@ -9,7 +9,7 @@ build_date: "2019-08-14T23:24:04.501Z"
 size_mb: 1740.0
 size: 827068447
 sif: "https://datasets.datalad.org/shub/smerz1989/copoly-lammps-src/latest/2019-08-14-4bcd5d31-ad3783b4/ad3783b45fce7b87c7444a8812d7798d.sif"
-url: https://datasets.datalad.org/shub/smerz1989/copoly-lammps-src/latest/2019-08-14-4bcd5d31-ad3783b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/smerz1989/copoly-lammps-src/latest/2019-08-14-4bcd5d31-ad3783b4/
 recipe: https://datasets.datalad.org/shub/smerz1989/copoly-lammps-src/latest/2019-08-14-4bcd5d31-ad3783b4/Singularity
 collection: smerz1989/copoly-lammps-src
 ---

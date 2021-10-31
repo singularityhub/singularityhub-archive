@@ -9,7 +9,7 @@ build_date: "2020-02-24T17:52:25.886Z"
 size_mb: 4436.0
 size: 2087079967
 sif: "https://datasets.datalad.org/shub/tpentzien/hcc/latest/2020-02-24-6147d22b-abcf1132/abcf11320edc4d2515c4ec517be7f824.sif"
-url: https://datasets.datalad.org/shub/tpentzien/hcc/latest/2020-02-24-6147d22b-abcf1132/
+datalad_url: https://datasets.datalad.org?dir=/shub/tpentzien/hcc/latest/2020-02-24-6147d22b-abcf1132/
 recipe: https://datasets.datalad.org/shub/tpentzien/hcc/latest/2020-02-24-6147d22b-abcf1132/Singularity
 collection: tpentzien/hcc
 ---

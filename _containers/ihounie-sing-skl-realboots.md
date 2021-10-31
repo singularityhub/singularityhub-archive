@@ -9,7 +9,7 @@ build_date: "2020-06-16T14:53:37.078Z"
 size_mb: 10402.0
 size: 5480914975
 sif: "https://datasets.datalad.org/shub/ihounie/sing-skl/realboots/2020-06-16-41be40b1-fad0b1d0/fad0b1d0606d80cc95cf74b4cec0c6a9.sif"
-url: https://datasets.datalad.org/shub/ihounie/sing-skl/realboots/2020-06-16-41be40b1-fad0b1d0/
+datalad_url: https://datasets.datalad.org?dir=/shub/ihounie/sing-skl/realboots/2020-06-16-41be40b1-fad0b1d0/
 recipe: https://datasets.datalad.org/shub/ihounie/sing-skl/realboots/2020-06-16-41be40b1-fad0b1d0/Singularity
 collection: ihounie/sing-skl
 ---

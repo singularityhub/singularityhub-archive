@@ -9,7 +9,7 @@ build_date: "2021-03-17T17:20:15.375Z"
 size_mb: 1956.0
 size: 1035628575
 sif: "https://datasets.datalad.org/shub/kristinebilgrav/heihallo/latest/2021-03-17-38dcd30b-d02e822c/d02e822c244ee0b2e604e955ee38a39b.sif"
-url: https://datasets.datalad.org/shub/kristinebilgrav/heihallo/latest/2021-03-17-38dcd30b-d02e822c/
+datalad_url: https://datasets.datalad.org?dir=/shub/kristinebilgrav/heihallo/latest/2021-03-17-38dcd30b-d02e822c/
 recipe: https://datasets.datalad.org/shub/kristinebilgrav/heihallo/latest/2021-03-17-38dcd30b-d02e822c/Singularity
 collection: kristinebilgrav/heihallo
 ---

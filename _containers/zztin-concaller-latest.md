@@ -9,7 +9,7 @@ build_date: "2020-03-18T17:31:20.382Z"
 size_mb: 495.0
 size: 235675679
 sif: "https://datasets.datalad.org/shub/zztin/concaller/latest/2020-03-18-88b5ed5d-d24271f2/d24271f283d1819dc6a26e32dc1fa792.sif"
-url: https://datasets.datalad.org/shub/zztin/concaller/latest/2020-03-18-88b5ed5d-d24271f2/
+datalad_url: https://datasets.datalad.org?dir=/shub/zztin/concaller/latest/2020-03-18-88b5ed5d-d24271f2/
 recipe: https://datasets.datalad.org/shub/zztin/concaller/latest/2020-03-18-88b5ed5d-d24271f2/Singularity
 collection: zztin/concaller
 ---

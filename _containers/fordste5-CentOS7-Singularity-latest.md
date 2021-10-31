@@ -9,7 +9,7 @@ build_date: "2020-03-22T17:30:35.390Z"
 size_mb: 460
 size: 147378207
 sif: "https://datasets.datalad.org/shub/fordste5/CentOS7-Singularity/latest/2020-03-22-097716ca-2b1570ac/2b1570ac832e335e9e90557766e8917d.simg"
-url: https://datasets.datalad.org/shub/fordste5/CentOS7-Singularity/latest/2020-03-22-097716ca-2b1570ac/
+datalad_url: https://datasets.datalad.org?dir=/shub/fordste5/CentOS7-Singularity/latest/2020-03-22-097716ca-2b1570ac/
 recipe: https://datasets.datalad.org/shub/fordste5/CentOS7-Singularity/latest/2020-03-22-097716ca-2b1570ac/Singularity
 collection: fordste5/CentOS7-Singularity
 ---

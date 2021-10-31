@@ -9,7 +9,7 @@ build_date: "2017-10-20T13:38:17.337Z"
 size_mb: 1859
 size: 770846751
 sif: "https://datasets.datalad.org/shub/fordste5/multiqc/latest/2017-10-20-ca935921-1db24d84/1db24d849e49778f4de35dad56cb6abf.simg"
-url: https://datasets.datalad.org/shub/fordste5/multiqc/latest/2017-10-20-ca935921-1db24d84/
+datalad_url: https://datasets.datalad.org?dir=/shub/fordste5/multiqc/latest/2017-10-20-ca935921-1db24d84/
 recipe: https://datasets.datalad.org/shub/fordste5/multiqc/latest/2017-10-20-ca935921-1db24d84/Singularity
 collection: fordste5/multiqc
 ---

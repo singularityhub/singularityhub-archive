@@ -9,7 +9,7 @@ build_date: "2019-08-01T23:05:54.738Z"
 size_mb: 4019.0
 size: 2036256799
 sif: "https://datasets.datalad.org/shub/wsjeon/maddpg-rllib/latest/2019-08-01-867ce84a-8ff905fd/8ff905fd7343732d7a7c3ba9c87ba0be.sif"
-url: https://datasets.datalad.org/shub/wsjeon/maddpg-rllib/latest/2019-08-01-867ce84a-8ff905fd/
+datalad_url: https://datasets.datalad.org?dir=/shub/wsjeon/maddpg-rllib/latest/2019-08-01-867ce84a-8ff905fd/
 recipe: https://datasets.datalad.org/shub/wsjeon/maddpg-rllib/latest/2019-08-01-867ce84a-8ff905fd/Singularity
 collection: wsjeon/maddpg-rllib
 ---

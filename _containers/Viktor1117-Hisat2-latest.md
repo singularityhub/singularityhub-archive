@@ -9,7 +9,7 @@ build_date: "2020-07-15T13:46:49.324Z"
 size_mb: 1027.0
 size: 418623519
 sif: "https://datasets.datalad.org/shub/Viktor1117/Hisat2/latest/2020-07-15-827058b8-f15035fc/f15035fcc0e99a237f21941769a57f38.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/Hisat2/latest/2020-07-15-827058b8-f15035fc/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/Hisat2/latest/2020-07-15-827058b8-f15035fc/
 recipe: https://datasets.datalad.org/shub/Viktor1117/Hisat2/latest/2020-07-15-827058b8-f15035fc/Singularity
 collection: Viktor1117/Hisat2
 ---

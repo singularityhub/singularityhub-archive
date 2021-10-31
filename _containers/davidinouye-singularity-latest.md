@@ -9,7 +9,7 @@ build_date: "2018-04-05T16:53:47.976Z"
 size_mb: 6913
 size: 2602864671
 sif: "https://datasets.datalad.org/shub/davidinouye/singularity/latest/2018-04-05-c4021d3b-52a536c2/52a536c2567b4059693a5d356e192e70.simg"
-url: https://datasets.datalad.org/shub/davidinouye/singularity/latest/2018-04-05-c4021d3b-52a536c2/
+datalad_url: https://datasets.datalad.org?dir=/shub/davidinouye/singularity/latest/2018-04-05-c4021d3b-52a536c2/
 recipe: https://datasets.datalad.org/shub/davidinouye/singularity/latest/2018-04-05-c4021d3b-52a536c2/Singularity
 collection: davidinouye/singularity
 ---

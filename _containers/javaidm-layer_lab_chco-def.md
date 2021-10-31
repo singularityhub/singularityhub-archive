@@ -9,7 +9,7 @@ build_date: "2021-02-23T21:30:56.954Z"
 size_mb: 6632.0
 size: 3215282207
 sif: "https://datasets.datalad.org/shub/javaidm/layer_lab_chco/def/2021-02-23-2b27140b-304911fa/304911faf8f67ecfc7709b58caa679bf.sif"
-url: https://datasets.datalad.org/shub/javaidm/layer_lab_chco/def/2021-02-23-2b27140b-304911fa/
+datalad_url: https://datasets.datalad.org?dir=/shub/javaidm/layer_lab_chco/def/2021-02-23-2b27140b-304911fa/
 recipe: https://datasets.datalad.org/shub/javaidm/layer_lab_chco/def/2021-02-23-2b27140b-304911fa/Singularity
 collection: javaidm/layer_lab_chco
 ---

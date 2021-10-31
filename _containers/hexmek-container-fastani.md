@@ -9,7 +9,7 @@ build_date: "2021-01-06T15:54:46.445Z"
 size_mb: 1314.0
 size: 405192735
 sif: "https://datasets.datalad.org/shub/hexmek/container/fastani/2021-01-06-05a88c30-e612b09d/e612b09d9a58e6c8ae083087cb706283.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/fastani/2021-01-06-05a88c30-e612b09d/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/fastani/2021-01-06-05a88c30-e612b09d/
 recipe: https://datasets.datalad.org/shub/hexmek/container/fastani/2021-01-06-05a88c30-e612b09d/Singularity
 collection: hexmek/container
 ---

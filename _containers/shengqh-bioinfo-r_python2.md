@@ -9,7 +9,7 @@ build_date: "2019-06-18T22:10:58.884Z"
 size_mb: 1095
 size: 432992287
 sif: "https://datasets.datalad.org/shub/shengqh/bioinfo/r_python2/2019-06-18-7142955f-eb5064b6/eb5064b61e9f5e03196443ef837f5cac.simg"
-url: https://datasets.datalad.org/shub/shengqh/bioinfo/r_python2/2019-06-18-7142955f-eb5064b6/
+datalad_url: https://datasets.datalad.org?dir=/shub/shengqh/bioinfo/r_python2/2019-06-18-7142955f-eb5064b6/
 recipe: https://datasets.datalad.org/shub/shengqh/bioinfo/r_python2/2019-06-18-7142955f-eb5064b6/Singularity
 collection: shengqh/bioinfo
 ---

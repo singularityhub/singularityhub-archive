@@ -9,7 +9,7 @@ build_date: "2019-04-09T10:20:46.833Z"
 size_mb: 890
 size: 399863839
 sif: "https://datasets.datalad.org/shub/gem-pasteur/Integron_Finder/2.0rc6/2019-04-09-e64c1a75-ddf3883b/ddf3883bdb40fafd627d703d163f3665.simg"
-url: https://datasets.datalad.org/shub/gem-pasteur/Integron_Finder/2.0rc6/2019-04-09-e64c1a75-ddf3883b/
+datalad_url: https://datasets.datalad.org?dir=/shub/gem-pasteur/Integron_Finder/2.0rc6/2019-04-09-e64c1a75-ddf3883b/
 recipe: https://datasets.datalad.org/shub/gem-pasteur/Integron_Finder/2.0rc6/2019-04-09-e64c1a75-ddf3883b/Singularity
 collection: gem-pasteur/Integron_Finder
 ---

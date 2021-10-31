@@ -9,7 +9,7 @@ build_date: "2020-08-17T10:39:56.997Z"
 size_mb: 1873.0
 size: 825761823
 sif: "https://datasets.datalad.org/shub/motroy/singularity-scagaire/latest/2020-08-17-c790e82f-4c6b78ea/4c6b78eacc78b0ee05a9653ef8d5e03e.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-scagaire/latest/2020-08-17-c790e82f-4c6b78ea/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-scagaire/latest/2020-08-17-c790e82f-4c6b78ea/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-scagaire/latest/2020-08-17-c790e82f-4c6b78ea/Singularity
 collection: motroy/singularity-scagaire
 ---

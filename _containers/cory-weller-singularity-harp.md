@@ -9,7 +9,7 @@ build_date: "2020-07-28T18:13:12.934Z"
 size_mb: 922.0
 size: 288522271
 sif: "https://datasets.datalad.org/shub/cory-weller/singularity/harp/2020-07-28-fc2769e0-6b5f480f/6b5f480fa435bc043245e3dfe2cc24e5.sif"
-url: https://datasets.datalad.org/shub/cory-weller/singularity/harp/2020-07-28-fc2769e0-6b5f480f/
+datalad_url: https://datasets.datalad.org?dir=/shub/cory-weller/singularity/harp/2020-07-28-fc2769e0-6b5f480f/
 recipe: https://datasets.datalad.org/shub/cory-weller/singularity/harp/2020-07-28-fc2769e0-6b5f480f/Singularity
 collection: cory-weller/singularity
 ---

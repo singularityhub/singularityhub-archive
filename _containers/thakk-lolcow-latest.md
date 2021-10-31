@@ -9,7 +9,7 @@ build_date: "2020-12-17T14:09:26.002Z"
 size_mb: 76.0
 size: 24125471
 sif: "https://datasets.datalad.org/shub/thakk/lolcow/latest/2020-12-17-3cf95c24-88846654/88846654122efbbf01afa817b4fb8a3e.sif"
-url: https://datasets.datalad.org/shub/thakk/lolcow/latest/2020-12-17-3cf95c24-88846654/
+datalad_url: https://datasets.datalad.org?dir=/shub/thakk/lolcow/latest/2020-12-17-3cf95c24-88846654/
 recipe: https://datasets.datalad.org/shub/thakk/lolcow/latest/2020-12-17-3cf95c24-88846654/Singularity
 collection: thakk/lolcow
 ---

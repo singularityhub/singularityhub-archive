@@ -9,7 +9,7 @@ build_date: "2018-02-02T03:30:19.597Z"
 size_mb: 171
 size: 54419487
 sif: "https://datasets.datalad.org/shub/dcs02d/singularity_workflows/latest/2018-02-02-c07e95ff-c68ef92e/c68ef92e076e15afb272f82f79a19cf7.simg"
-url: https://datasets.datalad.org/shub/dcs02d/singularity_workflows/latest/2018-02-02-c07e95ff-c68ef92e/
+datalad_url: https://datasets.datalad.org?dir=/shub/dcs02d/singularity_workflows/latest/2018-02-02-c07e95ff-c68ef92e/
 recipe: https://datasets.datalad.org/shub/dcs02d/singularity_workflows/latest/2018-02-02-c07e95ff-c68ef92e/Singularity
 collection: dcs02d/singularity_workflows
 ---

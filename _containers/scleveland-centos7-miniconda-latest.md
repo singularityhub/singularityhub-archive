@@ -9,7 +9,7 @@ build_date: "2021-04-02T13:52:23.002Z"
 size_mb: 1431
 size: 593027103
 sif: "https://datasets.datalad.org/shub/scleveland/centos7-miniconda/latest/2021-04-02-f5db452a-fc59f744/fc59f744792e0c0b37a371ff17c61e5c.simg"
-url: https://datasets.datalad.org/shub/scleveland/centos7-miniconda/latest/2021-04-02-f5db452a-fc59f744/
+datalad_url: https://datasets.datalad.org?dir=/shub/scleveland/centos7-miniconda/latest/2021-04-02-f5db452a-fc59f744/
 recipe: https://datasets.datalad.org/shub/scleveland/centos7-miniconda/latest/2021-04-02-f5db452a-fc59f744/Singularity
 collection: scleveland/centos7-miniconda
 ---

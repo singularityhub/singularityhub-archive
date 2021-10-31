@@ -9,7 +9,7 @@ build_date: "2018-08-14T08:40:39.557Z"
 size_mb: 414
 size: 166264863
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/dragondisk_v1_0_5/2018-08-14-dd833864-8e11918b/8e11918b6c92e25085ba4ae33bed4ebb.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/dragondisk_v1_0_5/2018-08-14-dd833864-8e11918b/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/dragondisk_v1_0_5/2018-08-14-dd833864-8e11918b/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/dragondisk_v1_0_5/2018-08-14-dd833864-8e11918b/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

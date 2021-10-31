@@ -9,7 +9,7 @@ build_date: "2018-12-01T16:42:26.399Z"
 size_mb: 2370
 size: 1071468575
 sif: "https://datasets.datalad.org/shub/bcdarwin/minc-toolkit-containers/base/2018-12-01-df4202ee-5eca773d/5eca773d29dbe05fd1b406b11c6b275a.simg"
-url: https://datasets.datalad.org/shub/bcdarwin/minc-toolkit-containers/base/2018-12-01-df4202ee-5eca773d/
+datalad_url: https://datasets.datalad.org?dir=/shub/bcdarwin/minc-toolkit-containers/base/2018-12-01-df4202ee-5eca773d/
 recipe: https://datasets.datalad.org/shub/bcdarwin/minc-toolkit-containers/base/2018-12-01-df4202ee-5eca773d/Singularity
 collection: bcdarwin/minc-toolkit-containers
 ---

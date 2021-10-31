@@ -9,7 +9,7 @@ build_date: "2020-10-30T01:13:32.353Z"
 size_mb: 10518
 size: 5010014239
 sif: "https://datasets.datalad.org/shub/mvdoc/pycortex-singularity/latest/2020-10-30-faae98e3-b032e5fb/b032e5fb9c7c8066a2596bada6b2b649.simg"
-url: https://datasets.datalad.org/shub/mvdoc/pycortex-singularity/latest/2020-10-30-faae98e3-b032e5fb/
+datalad_url: https://datasets.datalad.org?dir=/shub/mvdoc/pycortex-singularity/latest/2020-10-30-faae98e3-b032e5fb/
 recipe: https://datasets.datalad.org/shub/mvdoc/pycortex-singularity/latest/2020-10-30-faae98e3-b032e5fb/Singularity
 collection: mvdoc/pycortex-singularity
 ---

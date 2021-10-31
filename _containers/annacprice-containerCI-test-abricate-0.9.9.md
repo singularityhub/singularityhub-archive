@@ -9,7 +9,7 @@ build_date: "2020-10-28T18:24:39.172Z"
 size_mb: 2111.0
 size: 666501151
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/abricate-0.9.9/2020-10-28-f1074cae-3deb03c9/3deb03c96c8eca370efaf1d78ae51dfd.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/abricate-0.9.9/2020-10-28-f1074cae-3deb03c9/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/abricate-0.9.9/2020-10-28-f1074cae-3deb03c9/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/abricate-0.9.9/2020-10-28-f1074cae-3deb03c9/Singularity
 collection: annacprice/containerCI-test
 ---

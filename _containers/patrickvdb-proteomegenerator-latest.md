@@ -9,7 +9,7 @@ build_date: "2020-07-06T00:04:47.587Z"
 size_mb: 2709
 size: 1224417311
 sif: "https://datasets.datalad.org/shub/patrickvdb/proteomegenerator/latest/2020-07-06-70223d8d-3edd56d1/3edd56d1e17e67ba031d9e6e383d85bd.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/proteomegenerator/latest/2020-07-06-70223d8d-3edd56d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/proteomegenerator/latest/2020-07-06-70223d8d-3edd56d1/
 recipe: https://datasets.datalad.org/shub/patrickvdb/proteomegenerator/latest/2020-07-06-70223d8d-3edd56d1/Singularity
 collection: patrickvdb/proteomegenerator
 ---

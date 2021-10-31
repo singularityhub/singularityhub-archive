@@ -9,7 +9,7 @@ build_date: "2018-03-03T01:06:29.788Z"
 size_mb: 990
 size: 367177759
 sif: "https://datasets.datalad.org/shub/pescobar/singularity-easybuild/3.5.2/2018-03-03-047958c7-8333d449/8333d44955bef45bbcf53ac3ccff3ca6.simg"
-url: https://datasets.datalad.org/shub/pescobar/singularity-easybuild/3.5.2/2018-03-03-047958c7-8333d449/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/singularity-easybuild/3.5.2/2018-03-03-047958c7-8333d449/
 recipe: https://datasets.datalad.org/shub/pescobar/singularity-easybuild/3.5.2/2018-03-03-047958c7-8333d449/Singularity
 collection: pescobar/singularity-easybuild
 ---

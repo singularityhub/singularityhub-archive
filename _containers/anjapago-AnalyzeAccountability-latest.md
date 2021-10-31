@@ -9,7 +9,7 @@ build_date: "2019-08-20T23:34:12.245Z"
 size_mb: 3131.0
 size: 1984942111
 sif: "https://datasets.datalad.org/shub/anjapago/AnalyzeAccountability/latest/2019-08-20-030c5dfe-34db2d24/34db2d2421365c6d13ddc79295b1e639.sif"
-url: https://datasets.datalad.org/shub/anjapago/AnalyzeAccountability/latest/2019-08-20-030c5dfe-34db2d24/
+datalad_url: https://datasets.datalad.org?dir=/shub/anjapago/AnalyzeAccountability/latest/2019-08-20-030c5dfe-34db2d24/
 recipe: https://datasets.datalad.org/shub/anjapago/AnalyzeAccountability/latest/2019-08-20-030c5dfe-34db2d24/Singularity
 collection: anjapago/AnalyzeAccountability
 ---

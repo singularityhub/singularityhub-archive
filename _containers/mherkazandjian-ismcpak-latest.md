@@ -9,7 +9,7 @@ build_date: "2019-02-14T21:05:11.723Z"
 size_mb: 2423
 size: 713211935
 sif: "https://datasets.datalad.org/shub/mherkazandjian/ismcpak/latest/2019-02-14-54501707-8d45fc5a/8d45fc5a4d06798b99ceca7958d60edf.simg"
-url: https://datasets.datalad.org/shub/mherkazandjian/ismcpak/latest/2019-02-14-54501707-8d45fc5a/
+datalad_url: https://datasets.datalad.org?dir=/shub/mherkazandjian/ismcpak/latest/2019-02-14-54501707-8d45fc5a/
 recipe: https://datasets.datalad.org/shub/mherkazandjian/ismcpak/latest/2019-02-14-54501707-8d45fc5a/Singularity
 collection: mherkazandjian/ismcpak
 ---

@@ -9,7 +9,7 @@ build_date: "2018-11-24T04:49:42.379Z"
 size_mb: 4351
 size: 1972510751
 sif: "https://datasets.datalad.org/shub/muhammadzaheer/singularity-recipes/deeprl/2018-11-24-d678dd88-900548a3/900548a3ecda9421188805554bb73373.simg"
-url: https://datasets.datalad.org/shub/muhammadzaheer/singularity-recipes/deeprl/2018-11-24-d678dd88-900548a3/
+datalad_url: https://datasets.datalad.org?dir=/shub/muhammadzaheer/singularity-recipes/deeprl/2018-11-24-d678dd88-900548a3/
 recipe: https://datasets.datalad.org/shub/muhammadzaheer/singularity-recipes/deeprl/2018-11-24-d678dd88-900548a3/Singularity
 collection: muhammadzaheer/singularity-recipes
 ---

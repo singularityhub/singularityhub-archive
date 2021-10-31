@@ -9,7 +9,7 @@ build_date: "2019-10-22T19:05:02.375Z"
 size_mb: 3096
 size: 1018007583
 sif: "https://datasets.datalad.org/shub/d-bohn/rstudio_aci/latest/2019-10-22-b0e04b88-d0372e68/d0372e6820a2e0ff22cf8d9e2a6c5d92.simg"
-url: https://datasets.datalad.org/shub/d-bohn/rstudio_aci/latest/2019-10-22-b0e04b88-d0372e68/
+datalad_url: https://datasets.datalad.org?dir=/shub/d-bohn/rstudio_aci/latest/2019-10-22-b0e04b88-d0372e68/
 recipe: https://datasets.datalad.org/shub/d-bohn/rstudio_aci/latest/2019-10-22-b0e04b88-d0372e68/Singularity
 collection: d-bohn/rstudio_aci
 ---

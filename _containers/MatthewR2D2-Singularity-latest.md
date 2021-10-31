@@ -9,7 +9,7 @@ build_date: "2020-07-13T11:56:33.268Z"
 size_mb: 4510.0
 size: 1911967775
 sif: "https://datasets.datalad.org/shub/MatthewR2D2/Singularity/latest/2020-07-13-ce373595-432b7073/432b7073ffdc92cbb16d888fe94860fc.sif"
-url: https://datasets.datalad.org/shub/MatthewR2D2/Singularity/latest/2020-07-13-ce373595-432b7073/
+datalad_url: https://datasets.datalad.org?dir=/shub/MatthewR2D2/Singularity/latest/2020-07-13-ce373595-432b7073/
 recipe: https://datasets.datalad.org/shub/MatthewR2D2/Singularity/latest/2020-07-13-ce373595-432b7073/Singularity
 collection: MatthewR2D2/Singularity
 ---

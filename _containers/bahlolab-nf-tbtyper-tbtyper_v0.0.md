@@ -9,7 +9,7 @@ build_date: "2020-04-11T02:07:57.963Z"
 size_mb: 3208.0
 size: 1310920735
 sif: "https://datasets.datalad.org/shub/bahlolab/nf-tbtyper/tbtyper_v0.0/2020-04-11-07e75ab5-54c3b4d2/54c3b4d297534a1454af1702000d8477.sif"
-url: https://datasets.datalad.org/shub/bahlolab/nf-tbtyper/tbtyper_v0.0/2020-04-11-07e75ab5-54c3b4d2/
+datalad_url: https://datasets.datalad.org?dir=/shub/bahlolab/nf-tbtyper/tbtyper_v0.0/2020-04-11-07e75ab5-54c3b4d2/
 recipe: https://datasets.datalad.org/shub/bahlolab/nf-tbtyper/tbtyper_v0.0/2020-04-11-07e75ab5-54c3b4d2/Singularity
 collection: bahlolab/nf-tbtyper
 ---

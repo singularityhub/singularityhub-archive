@@ -9,7 +9,7 @@ build_date: "2017-12-22T18:52:48.292Z"
 size_mb: 2383
 size: 1130610719
 sif: "https://datasets.datalad.org/shub/nterhoeven/reper/latest/2017-12-22-1778417c-c6de4b23/c6de4b232cb4c4edc18b12482417bef3.simg"
-url: https://datasets.datalad.org/shub/nterhoeven/reper/latest/2017-12-22-1778417c-c6de4b23/
+datalad_url: https://datasets.datalad.org?dir=/shub/nterhoeven/reper/latest/2017-12-22-1778417c-c6de4b23/
 recipe: https://datasets.datalad.org/shub/nterhoeven/reper/latest/2017-12-22-1778417c-c6de4b23/Singularity
 collection: nterhoeven/reper
 ---

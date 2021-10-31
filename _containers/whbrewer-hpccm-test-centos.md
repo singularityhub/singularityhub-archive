@@ -9,7 +9,7 @@ build_date: "2019-02-15T19:29:45.753Z"
 size_mb: 213
 size: 73412639
 sif: "https://datasets.datalad.org/shub/whbrewer/hpccm-test/centos/2019-02-15-8bc5db54-2e8dc7a8/2e8dc7a89c6a722d4a6ac18f36d141ca.simg"
-url: https://datasets.datalad.org/shub/whbrewer/hpccm-test/centos/2019-02-15-8bc5db54-2e8dc7a8/
+datalad_url: https://datasets.datalad.org?dir=/shub/whbrewer/hpccm-test/centos/2019-02-15-8bc5db54-2e8dc7a8/
 recipe: https://datasets.datalad.org/shub/whbrewer/hpccm-test/centos/2019-02-15-8bc5db54-2e8dc7a8/Singularity
 collection: whbrewer/hpccm-test
 ---

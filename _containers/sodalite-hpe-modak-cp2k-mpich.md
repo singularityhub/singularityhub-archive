@@ -9,7 +9,7 @@ build_date: "2020-12-06T04:30:45.536Z"
 size_mb: 2068.0
 size: 951844895
 sif: "https://datasets.datalad.org/shub/sodalite-hpe/modak/cp2k-mpich/2020-12-06-5ff5d487-7423a1eb/7423a1eb7ce24a124d2b9171ae11c315.sif"
-url: https://datasets.datalad.org/shub/sodalite-hpe/modak/cp2k-mpich/2020-12-06-5ff5d487-7423a1eb/
+datalad_url: https://datasets.datalad.org?dir=/shub/sodalite-hpe/modak/cp2k-mpich/2020-12-06-5ff5d487-7423a1eb/
 recipe: https://datasets.datalad.org/shub/sodalite-hpe/modak/cp2k-mpich/2020-12-06-5ff5d487-7423a1eb/Singularity
 collection: sodalite-hpe/modak
 ---

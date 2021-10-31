@@ -9,7 +9,7 @@ build_date: "2021-02-22T09:04:03.974Z"
 size_mb: 6984.0
 size: 4017606687
 sif: "https://datasets.datalad.org/shub/Grelot/global_fish_genetic_diversity/global_fish_genetic_diversity/2021-02-22-631e6180-c452f22a/c452f22ab396d2bba077a4fa2dc67fa8.sif"
-url: https://datasets.datalad.org/shub/Grelot/global_fish_genetic_diversity/global_fish_genetic_diversity/2021-02-22-631e6180-c452f22a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Grelot/global_fish_genetic_diversity/global_fish_genetic_diversity/2021-02-22-631e6180-c452f22a/
 recipe: https://datasets.datalad.org/shub/Grelot/global_fish_genetic_diversity/global_fish_genetic_diversity/2021-02-22-631e6180-c452f22a/Singularity
 collection: Grelot/global_fish_genetic_diversity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-11T03:56:34.872Z"
 size_mb: 234.0
 size: 71413791
 sif: "https://datasets.datalad.org/shub/powerPlant/racon-srf/1.4.3/2020-03-11-6f13d5b9-24ebd1d1/24ebd1d107fec1ee497f265541cb3b5d.sif"
-url: https://datasets.datalad.org/shub/powerPlant/racon-srf/1.4.3/2020-03-11-6f13d5b9-24ebd1d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/racon-srf/1.4.3/2020-03-11-6f13d5b9-24ebd1d1/
 recipe: https://datasets.datalad.org/shub/powerPlant/racon-srf/1.4.3/2020-03-11-6f13d5b9-24ebd1d1/Singularity
 collection: powerPlant/racon-srf
 ---

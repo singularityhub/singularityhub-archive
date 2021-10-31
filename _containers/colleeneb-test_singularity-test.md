@@ -9,7 +9,7 @@ build_date: "2019-05-16T20:22:33.708Z"
 size_mb: 936
 size: 320614431
 sif: "https://datasets.datalad.org/shub/colleeneb/test_singularity/test/2019-05-16-dd2eed4c-c3b5e12f/c3b5e12ffc896afb1e5945d025092c81.simg"
-url: https://datasets.datalad.org/shub/colleeneb/test_singularity/test/2019-05-16-dd2eed4c-c3b5e12f/
+datalad_url: https://datasets.datalad.org?dir=/shub/colleeneb/test_singularity/test/2019-05-16-dd2eed4c-c3b5e12f/
 recipe: https://datasets.datalad.org/shub/colleeneb/test_singularity/test/2019-05-16-dd2eed4c-c3b5e12f/Singularity
 collection: colleeneb/test_singularity
 ---

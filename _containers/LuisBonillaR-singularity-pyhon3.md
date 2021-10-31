@@ -9,7 +9,7 @@ build_date: "2019-08-30T14:34:17.002Z"
 size_mb: 5556.0
 size: 2305081375
 sif: "https://datasets.datalad.org/shub/LuisBonillaR/singularity/pyhon3/2019-08-30-5ecc57d1-2ffe2c3b/2ffe2c3b10971330b855df6bbc889bdc.sif"
-url: https://datasets.datalad.org/shub/LuisBonillaR/singularity/pyhon3/2019-08-30-5ecc57d1-2ffe2c3b/
+datalad_url: https://datasets.datalad.org?dir=/shub/LuisBonillaR/singularity/pyhon3/2019-08-30-5ecc57d1-2ffe2c3b/
 recipe: https://datasets.datalad.org/shub/LuisBonillaR/singularity/pyhon3/2019-08-30-5ecc57d1-2ffe2c3b/Singularity
 collection: LuisBonillaR/singularity
 ---

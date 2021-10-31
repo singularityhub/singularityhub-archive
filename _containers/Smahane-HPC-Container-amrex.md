@@ -9,7 +9,7 @@ build_date: "2018-05-08T13:50:23.748Z"
 size_mb: 2709
 size: 894783519
 sif: "https://datasets.datalad.org/shub/Smahane/HPC-Container/amrex/2018-05-08-cb3ef54d-d46ccd81/d46ccd819e0634c6c00ad864f827560d.simg"
-url: https://datasets.datalad.org/shub/Smahane/HPC-Container/amrex/2018-05-08-cb3ef54d-d46ccd81/
+datalad_url: https://datasets.datalad.org?dir=/shub/Smahane/HPC-Container/amrex/2018-05-08-cb3ef54d-d46ccd81/
 recipe: https://datasets.datalad.org/shub/Smahane/HPC-Container/amrex/2018-05-08-cb3ef54d-d46ccd81/Singularity
 collection: Smahane/HPC-Container
 ---

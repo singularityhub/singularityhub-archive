@@ -9,7 +9,7 @@ build_date: "2020-10-21T03:23:02.245Z"
 size_mb: 5000.0
 size: 2303795231
 sif: "https://datasets.datalad.org/shub/willgpaik/qt5_aci/qt5/2020-10-21-54746f84-ca1c3c50/ca1c3c50755db793bc4615576a54bc3c.sif"
-url: https://datasets.datalad.org/shub/willgpaik/qt5_aci/qt5/2020-10-21-54746f84-ca1c3c50/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/qt5_aci/qt5/2020-10-21-54746f84-ca1c3c50/
 recipe: https://datasets.datalad.org/shub/willgpaik/qt5_aci/qt5/2020-10-21-54746f84-ca1c3c50/Singularity
 collection: willgpaik/qt5_aci
 ---

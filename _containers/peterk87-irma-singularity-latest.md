@@ -9,7 +9,7 @@ build_date: "2021-04-19T13:29:17.328Z"
 size_mb: 1525.0
 size: 491175967
 sif: "https://datasets.datalad.org/shub/peterk87/irma-singularity/latest/2021-04-19-403635f3-a047628e/a047628e4dc5b1f93e1eea778ab02295.sif"
-url: https://datasets.datalad.org/shub/peterk87/irma-singularity/latest/2021-04-19-403635f3-a047628e/
+datalad_url: https://datasets.datalad.org?dir=/shub/peterk87/irma-singularity/latest/2021-04-19-403635f3-a047628e/
 recipe: https://datasets.datalad.org/shub/peterk87/irma-singularity/latest/2021-04-19-403635f3-a047628e/Singularity
 collection: peterk87/irma-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2018-10-11T09:24:02.437Z"
 size_mb: 2222
 size: 754700319
 sif: "https://datasets.datalad.org/shub/jkitzes/opensoundscape/latest/2018-10-11-c23bac4b-d457227e/d457227e472aa076fafdfaeee252037d.simg"
-url: https://datasets.datalad.org/shub/jkitzes/opensoundscape/latest/2018-10-11-c23bac4b-d457227e/
+datalad_url: https://datasets.datalad.org?dir=/shub/jkitzes/opensoundscape/latest/2018-10-11-c23bac4b-d457227e/
 recipe: https://datasets.datalad.org/shub/jkitzes/opensoundscape/latest/2018-10-11-c23bac4b-d457227e/Singularity
 collection: jkitzes/opensoundscape
 ---

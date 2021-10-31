@@ -9,7 +9,7 @@ build_date: "2019-09-01T10:58:42.025Z"
 size_mb: 70.0
 size: 25849887
 sif: "https://datasets.datalad.org/shub/klm122/asr/latest/2019-09-01-96060b3f-d3ced363/d3ced363efc5f48878600630232ce036.sif"
-url: https://datasets.datalad.org/shub/klm122/asr/latest/2019-09-01-96060b3f-d3ced363/
+datalad_url: https://datasets.datalad.org?dir=/shub/klm122/asr/latest/2019-09-01-96060b3f-d3ced363/
 recipe: https://datasets.datalad.org/shub/klm122/asr/latest/2019-09-01-96060b3f-d3ced363/Singularity
 collection: klm122/asr
 ---

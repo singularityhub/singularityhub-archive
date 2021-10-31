@@ -9,7 +9,7 @@ build_date: "2020-06-05T04:10:21.853Z"
 size_mb: 3133.0
 size: 3331342336
 sif: "https://datasets.datalad.org/shub/willgpaik/pytorch_aci/latest/2020-06-05-969e9251-8800e446/8800e4467d023a0eea0d9fd875f4cecd40ab2d849d7ea0c74861f50b2104ddbe.sif"
-url: https://datasets.datalad.org/shub/willgpaik/pytorch_aci/latest/2020-06-05-969e9251-8800e446/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/pytorch_aci/latest/2020-06-05-969e9251-8800e446/
 recipe: https://datasets.datalad.org/shub/willgpaik/pytorch_aci/latest/2020-06-05-969e9251-8800e446/Singularity
 collection: willgpaik/pytorch_aci
 ---

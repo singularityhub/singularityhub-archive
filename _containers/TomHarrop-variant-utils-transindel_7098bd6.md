@@ -9,7 +9,7 @@ build_date: "2019-12-16T21:58:12.908Z"
 size_mb: 447.29296875
 size: 469020672
 sif: "https://datasets.datalad.org/shub/TomHarrop/variant-utils/transindel_7098bd6/2019-12-16-b5e6f926-a0aa9857/a0aa985746dfe810fb9af6f9740f0e7811b680458b9a2e1ed4c5fb1cec170ff4.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/variant-utils/transindel_7098bd6/2019-12-16-b5e6f926-a0aa9857/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/variant-utils/transindel_7098bd6/2019-12-16-b5e6f926-a0aa9857/
 recipe: https://datasets.datalad.org/shub/TomHarrop/variant-utils/transindel_7098bd6/2019-12-16-b5e6f926-a0aa9857/Singularity
 collection: TomHarrop/variant-utils
 ---

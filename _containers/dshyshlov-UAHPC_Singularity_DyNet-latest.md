@@ -9,7 +9,7 @@ build_date: "2018-10-24T22:41:52.918Z"
 size_mb: 3660
 size: 1767055391
 sif: "https://datasets.datalad.org/shub/dshyshlov/UAHPC_Singularity_DyNet/latest/2018-10-24-73a8ec56-9e90e0e9/9e90e0e933310d52faa2927b1d23d9ee.simg"
-url: https://datasets.datalad.org/shub/dshyshlov/UAHPC_Singularity_DyNet/latest/2018-10-24-73a8ec56-9e90e0e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/dshyshlov/UAHPC_Singularity_DyNet/latest/2018-10-24-73a8ec56-9e90e0e9/
 recipe: https://datasets.datalad.org/shub/dshyshlov/UAHPC_Singularity_DyNet/latest/2018-10-24-73a8ec56-9e90e0e9/Singularity
 collection: dshyshlov/UAHPC_Singularity_DyNet
 ---

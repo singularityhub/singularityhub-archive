@@ -9,7 +9,7 @@ build_date: "2019-02-01T14:00:52.409Z"
 size_mb: 3002
 size: 1039638559
 sif: "https://datasets.datalad.org/shub/nf-core/methylseq/latest/2019-02-01-1d3f5cc5-033e5ab2/033e5ab2c4b5b367db2577f023eb5315.simg"
-url: https://datasets.datalad.org/shub/nf-core/methylseq/latest/2019-02-01-1d3f5cc5-033e5ab2/
+datalad_url: https://datasets.datalad.org?dir=/shub/nf-core/methylseq/latest/2019-02-01-1d3f5cc5-033e5ab2/
 recipe: https://datasets.datalad.org/shub/nf-core/methylseq/latest/2019-02-01-1d3f5cc5-033e5ab2/Singularity
 collection: nf-core/methylseq
 ---

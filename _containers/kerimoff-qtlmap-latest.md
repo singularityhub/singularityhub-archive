@@ -9,7 +9,7 @@ build_date: "2019-04-28T09:30:56.233Z"
 size_mb: 1825
 size: 685445151
 sif: "https://datasets.datalad.org/shub/kerimoff/qtlmap/latest/2019-04-28-8e6b19fb-7ab535b8/7ab535b87cdb973dc3a61fba0c56a968.simg"
-url: https://datasets.datalad.org/shub/kerimoff/qtlmap/latest/2019-04-28-8e6b19fb-7ab535b8/
+datalad_url: https://datasets.datalad.org?dir=/shub/kerimoff/qtlmap/latest/2019-04-28-8e6b19fb-7ab535b8/
 recipe: https://datasets.datalad.org/shub/kerimoff/qtlmap/latest/2019-04-28-8e6b19fb-7ab535b8/Singularity
 collection: kerimoff/qtlmap
 ---

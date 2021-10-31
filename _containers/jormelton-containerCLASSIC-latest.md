@@ -9,7 +9,7 @@ build_date: "2019-11-05T23:17:20.591Z"
 size_mb: 634
 size: 233447455
 sif: "https://datasets.datalad.org/shub/jormelton/containerCLASSIC/latest/2019-11-05-87ae59a7-bcd16e17/bcd16e17f9ed8d38afd7b16ba0728215.simg"
-url: https://datasets.datalad.org/shub/jormelton/containerCLASSIC/latest/2019-11-05-87ae59a7-bcd16e17/
+datalad_url: https://datasets.datalad.org?dir=/shub/jormelton/containerCLASSIC/latest/2019-11-05-87ae59a7-bcd16e17/
 recipe: https://datasets.datalad.org/shub/jormelton/containerCLASSIC/latest/2019-11-05-87ae59a7-bcd16e17/Singularity
 collection: jormelton/containerCLASSIC
 ---

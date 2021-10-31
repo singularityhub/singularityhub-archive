@@ -9,7 +9,7 @@ build_date: "2021-03-13T19:22:24.488Z"
 size_mb: 2585
 size: 1285648415
 sif: "https://datasets.datalad.org/shub/OvcharenkoLab/keras_demo/latest/2021-03-13-9faf2a46-4ba93c72/4ba93c7295966a104e02a139e4b5ebd2.simg"
-url: https://datasets.datalad.org/shub/OvcharenkoLab/keras_demo/latest/2021-03-13-9faf2a46-4ba93c72/
+datalad_url: https://datasets.datalad.org?dir=/shub/OvcharenkoLab/keras_demo/latest/2021-03-13-9faf2a46-4ba93c72/
 recipe: https://datasets.datalad.org/shub/OvcharenkoLab/keras_demo/latest/2021-03-13-9faf2a46-4ba93c72/Singularity
 collection: OvcharenkoLab/keras_demo
 ---

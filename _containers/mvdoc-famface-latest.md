@@ -9,7 +9,7 @@ build_date: "2018-02-01T11:37:39.142Z"
 size_mb: 1850
 size: 646983711
 sif: "https://datasets.datalad.org/shub/mvdoc/famface/latest/2018-02-01-33131389-8b95f867/8b95f867920234ea9de113bd183975c1.simg"
-url: https://datasets.datalad.org/shub/mvdoc/famface/latest/2018-02-01-33131389-8b95f867/
+datalad_url: https://datasets.datalad.org?dir=/shub/mvdoc/famface/latest/2018-02-01-33131389-8b95f867/
 recipe: https://datasets.datalad.org/shub/mvdoc/famface/latest/2018-02-01-33131389-8b95f867/Singularity
 collection: mvdoc/famface
 ---

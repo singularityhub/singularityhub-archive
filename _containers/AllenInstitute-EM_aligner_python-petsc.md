@@ -9,7 +9,7 @@ build_date: "2019-05-10T10:48:47.606Z"
 size_mb: 2071
 size: 586702879
 sif: "https://datasets.datalad.org/shub/AllenInstitute/EM_aligner_python/petsc/2019-05-10-bfde0506-cf2cbf2a/cf2cbf2ac9cf9367754469183e2f65ee.simg"
-url: https://datasets.datalad.org/shub/AllenInstitute/EM_aligner_python/petsc/2019-05-10-bfde0506-cf2cbf2a/
+datalad_url: https://datasets.datalad.org?dir=/shub/AllenInstitute/EM_aligner_python/petsc/2019-05-10-bfde0506-cf2cbf2a/
 recipe: https://datasets.datalad.org/shub/AllenInstitute/EM_aligner_python/petsc/2019-05-10-bfde0506-cf2cbf2a/Singularity
 collection: AllenInstitute/EM_aligner_python
 ---

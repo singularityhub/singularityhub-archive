@@ -9,7 +9,7 @@ build_date: "2019-03-26T10:53:49.505Z"
 size_mb: 156
 size: 51462175
 sif: "https://datasets.datalad.org/shub/bow/crimson/latest/2019-03-26-ffa505c2-fa208580/fa2085800b869e301135023c57b64ef6.simg"
-url: https://datasets.datalad.org/shub/bow/crimson/latest/2019-03-26-ffa505c2-fa208580/
+datalad_url: https://datasets.datalad.org?dir=/shub/bow/crimson/latest/2019-03-26-ffa505c2-fa208580/
 recipe: https://datasets.datalad.org/shub/bow/crimson/latest/2019-03-26-ffa505c2-fa208580/Singularity
 collection: bow/crimson
 ---

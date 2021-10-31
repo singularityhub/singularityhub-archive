@@ -9,7 +9,7 @@ build_date: "2021-01-28T13:07:31.183Z"
 size_mb: 928.0
 size: 399802399
 sif: "https://datasets.datalad.org/shub/kristinebilgrav/Retro_files/latest/2021-01-28-5deb744b-d6fe1fc6/d6fe1fc608ebb69dcf37605e6782a336.sif"
-url: https://datasets.datalad.org/shub/kristinebilgrav/Retro_files/latest/2021-01-28-5deb744b-d6fe1fc6/
+datalad_url: https://datasets.datalad.org?dir=/shub/kristinebilgrav/Retro_files/latest/2021-01-28-5deb744b-d6fe1fc6/
 recipe: https://datasets.datalad.org/shub/kristinebilgrav/Retro_files/latest/2021-01-28-5deb744b-d6fe1fc6/Singularity
 collection: kristinebilgrav/Retro_files
 ---

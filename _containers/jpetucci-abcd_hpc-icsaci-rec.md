@@ -9,7 +9,7 @@ build_date: "2019-03-12T15:09:01.714Z"
 size_mb: 13608
 size: 5907972127
 sif: "https://datasets.datalad.org/shub/jpetucci/abcd_hpc-icsaci/rec/2019-03-12-09fdddf8-a38bc153/a38bc1532334f27d9873c5a9c186f652.simg"
-url: https://datasets.datalad.org/shub/jpetucci/abcd_hpc-icsaci/rec/2019-03-12-09fdddf8-a38bc153/
+datalad_url: https://datasets.datalad.org?dir=/shub/jpetucci/abcd_hpc-icsaci/rec/2019-03-12-09fdddf8-a38bc153/
 recipe: https://datasets.datalad.org/shub/jpetucci/abcd_hpc-icsaci/rec/2019-03-12-09fdddf8-a38bc153/Singularity
 collection: jpetucci/abcd_hpc-icsaci
 ---

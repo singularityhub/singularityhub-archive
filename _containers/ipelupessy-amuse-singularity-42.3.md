@@ -9,7 +9,7 @@ build_date: "2018-04-20T05:38:16.608Z"
 size_mb: 450
 size: 184012831
 sif: "https://datasets.datalad.org/shub/ipelupessy/amuse-singularity/42.3/2018-04-20-083128d7-60f2187e/60f2187e0535fba2103554e53766ef2e.simg"
-url: https://datasets.datalad.org/shub/ipelupessy/amuse-singularity/42.3/2018-04-20-083128d7-60f2187e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ipelupessy/amuse-singularity/42.3/2018-04-20-083128d7-60f2187e/
 recipe: https://datasets.datalad.org/shub/ipelupessy/amuse-singularity/42.3/2018-04-20-083128d7-60f2187e/Singularity
 collection: ipelupessy/amuse-singularity
 ---

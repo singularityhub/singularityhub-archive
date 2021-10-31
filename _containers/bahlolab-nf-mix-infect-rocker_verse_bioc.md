@@ -9,7 +9,7 @@ build_date: "2020-04-07T06:50:03.543Z"
 size_mb: 3153.0
 size: 1297690655
 sif: "https://datasets.datalad.org/shub/bahlolab/nf-mix-infect/rocker_verse_bioc/2020-04-07-444d6569-a1755d7f/a1755d7ff91cf98c2c45f58188ee14a3.sif"
-url: https://datasets.datalad.org/shub/bahlolab/nf-mix-infect/rocker_verse_bioc/2020-04-07-444d6569-a1755d7f/
+datalad_url: https://datasets.datalad.org?dir=/shub/bahlolab/nf-mix-infect/rocker_verse_bioc/2020-04-07-444d6569-a1755d7f/
 recipe: https://datasets.datalad.org/shub/bahlolab/nf-mix-infect/rocker_verse_bioc/2020-04-07-444d6569-a1755d7f/Singularity
 collection: bahlolab/nf-mix-infect
 ---

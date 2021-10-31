@@ -9,7 +9,7 @@ build_date: "2020-09-02T15:49:36.877Z"
 size_mb: 3262.0
 size: 1006239775
 sif: "https://datasets.datalad.org/shub/Bioconductor/bioconductor_docker/release_3_10/2020-09-02-817c8b27-17eb9e4e/17eb9e4e035f8320966c73a577585b02.sif"
-url: https://datasets.datalad.org/shub/Bioconductor/bioconductor_docker/release_3_10/2020-09-02-817c8b27-17eb9e4e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Bioconductor/bioconductor_docker/release_3_10/2020-09-02-817c8b27-17eb9e4e/
 recipe: https://datasets.datalad.org/shub/Bioconductor/bioconductor_docker/release_3_10/2020-09-02-817c8b27-17eb9e4e/Singularity
 collection: Bioconductor/bioconductor_docker
 ---

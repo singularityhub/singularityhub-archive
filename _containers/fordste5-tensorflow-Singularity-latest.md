@@ -9,7 +9,7 @@ build_date: "2021-01-11T10:25:50.759Z"
 size_mb: 3334
 size: 1559437343
 sif: "https://datasets.datalad.org/shub/fordste5/tensorflow-Singularity/latest/2021-01-11-33a20e4e-66f01a8c/66f01a8cf2ce3bac64d5a5adee34f25a.simg"
-url: https://datasets.datalad.org/shub/fordste5/tensorflow-Singularity/latest/2021-01-11-33a20e4e-66f01a8c/
+datalad_url: https://datasets.datalad.org?dir=/shub/fordste5/tensorflow-Singularity/latest/2021-01-11-33a20e4e-66f01a8c/
 recipe: https://datasets.datalad.org/shub/fordste5/tensorflow-Singularity/latest/2021-01-11-33a20e4e-66f01a8c/Singularity
 collection: fordste5/tensorflow-Singularity
 ---

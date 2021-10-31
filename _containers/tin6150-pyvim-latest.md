@@ -9,7 +9,7 @@ build_date: "2021-01-07T18:10:36.286Z"
 size_mb: 109.4453125
 size: 114761728
 sif: "https://datasets.datalad.org/shub/tin6150/pyvim/latest/2021-01-07-773bb2df-779c5aeb/779c5aeb9300a88ce4dc9391a9ee9fb0786eb723fbedec37f450bde8e330576f.sif"
-url: https://datasets.datalad.org/shub/tin6150/pyvim/latest/2021-01-07-773bb2df-779c5aeb/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/pyvim/latest/2021-01-07-773bb2df-779c5aeb/
 recipe: https://datasets.datalad.org/shub/tin6150/pyvim/latest/2021-01-07-773bb2df-779c5aeb/Singularity
 collection: tin6150/pyvim
 ---

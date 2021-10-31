@@ -9,7 +9,7 @@ build_date: "2018-10-18T17:22:06.231Z"
 size_mb: 523
 size: 179589151
 sif: "https://datasets.datalad.org/shub/ii-bioinfo/dialign2/2.2.1/2018-10-18-b409431e-bb6625a9/bb6625a94a46e62f432321d202f883df.simg"
-url: https://datasets.datalad.org/shub/ii-bioinfo/dialign2/2.2.1/2018-10-18-b409431e-bb6625a9/
+datalad_url: https://datasets.datalad.org?dir=/shub/ii-bioinfo/dialign2/2.2.1/2018-10-18-b409431e-bb6625a9/
 recipe: https://datasets.datalad.org/shub/ii-bioinfo/dialign2/2.2.1/2018-10-18-b409431e-bb6625a9/Singularity
 collection: ii-bioinfo/dialign2
 ---

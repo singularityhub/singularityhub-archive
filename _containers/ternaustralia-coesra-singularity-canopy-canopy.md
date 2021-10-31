@@ -9,7 +9,7 @@ build_date: "2020-12-14T04:35:32.132Z"
 size_mb: 2104.0
 size: 837296159
 sif: "https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-canopy/canopy/2020-12-14-01e3cc2b-10df5377/10df53770f0a8fff323ff344f193c58d.sif"
-url: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-canopy/canopy/2020-12-14-01e3cc2b-10df5377/
+datalad_url: https://datasets.datalad.org?dir=/shub/ternaustralia/coesra-singularity-canopy/canopy/2020-12-14-01e3cc2b-10df5377/
 recipe: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-canopy/canopy/2020-12-14-01e3cc2b-10df5377/Singularity
 collection: ternaustralia/coesra-singularity-canopy
 ---

@@ -9,7 +9,7 @@ build_date: "2020-11-10T03:02:27.757Z"
 size_mb: 4819.0
 size: 1783046175
 sif: "https://datasets.datalad.org/shub/AdamWilsonLab/singularity-rocker-geospatial/latest/2020-11-10-450de952-0096b44d/0096b44dbc0a70ea6f9b97e36476f19a.sif"
-url: https://datasets.datalad.org/shub/AdamWilsonLab/singularity-rocker-geospatial/latest/2020-11-10-450de952-0096b44d/
+datalad_url: https://datasets.datalad.org?dir=/shub/AdamWilsonLab/singularity-rocker-geospatial/latest/2020-11-10-450de952-0096b44d/
 recipe: https://datasets.datalad.org/shub/AdamWilsonLab/singularity-rocker-geospatial/latest/2020-11-10-450de952-0096b44d/Singularity
 collection: AdamWilsonLab/singularity-rocker-geospatial
 ---

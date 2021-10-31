@@ -9,7 +9,7 @@ build_date: "2020-04-30T23:22:14.432Z"
 size_mb: 449.26171875
 size: 471085056
 sif: "https://datasets.datalad.org/shub/TomHarrop/variant-utils/easysfs_c2b26c5/2020-04-30-d4b8b1b9-f0b1c194/f0b1c194c1370d4deeb893f3a71433231469dc115833bdbc35e2ee43096e0c82.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/variant-utils/easysfs_c2b26c5/2020-04-30-d4b8b1b9-f0b1c194/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/variant-utils/easysfs_c2b26c5/2020-04-30-d4b8b1b9-f0b1c194/
 recipe: https://datasets.datalad.org/shub/TomHarrop/variant-utils/easysfs_c2b26c5/2020-04-30-d4b8b1b9-f0b1c194/Singularity
 collection: TomHarrop/variant-utils
 ---

@@ -9,7 +9,7 @@ build_date: "2018-04-03T19:57:11.411Z"
 size_mb: 3033
 size: 786472991
 sif: "https://datasets.datalad.org/shub/maflister/surpi/1.0.18/2018-04-03-9cb8e657-b350c933/b350c93379dce4a6d67d299a368b8a18.simg"
-url: https://datasets.datalad.org/shub/maflister/surpi/1.0.18/2018-04-03-9cb8e657-b350c933/
+datalad_url: https://datasets.datalad.org?dir=/shub/maflister/surpi/1.0.18/2018-04-03-9cb8e657-b350c933/
 recipe: https://datasets.datalad.org/shub/maflister/surpi/1.0.18/2018-04-03-9cb8e657-b350c933/Singularity
 collection: maflister/surpi
 ---

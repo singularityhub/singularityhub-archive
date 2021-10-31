@@ -9,7 +9,7 @@ build_date: "2018-02-22T21:43:25.911Z"
 size_mb: 2949
 size: 1226223647
 sif: "https://datasets.datalad.org/shub/dmorrill10/py3-tf-gpu-ale/latest/2018-02-22-c8e1090e-157c0032/157c0032987bee79bc4bb53a5aadc761.simg"
-url: https://datasets.datalad.org/shub/dmorrill10/py3-tf-gpu-ale/latest/2018-02-22-c8e1090e-157c0032/
+datalad_url: https://datasets.datalad.org?dir=/shub/dmorrill10/py3-tf-gpu-ale/latest/2018-02-22-c8e1090e-157c0032/
 recipe: https://datasets.datalad.org/shub/dmorrill10/py3-tf-gpu-ale/latest/2018-02-22-c8e1090e-157c0032/Singularity
 collection: dmorrill10/py3-tf-gpu-ale
 ---

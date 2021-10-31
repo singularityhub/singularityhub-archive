@@ -9,7 +9,7 @@ build_date: "2021-04-16T12:08:17.926Z"
 size_mb: 318.0
 size: 117895199
 sif: "https://datasets.datalad.org/shub/bioexcel/biobb_io/latest/2021-04-16-fe7bb793-9cd4b617/9cd4b6174886cda953a5159b31c6aa4f.sif"
-url: https://datasets.datalad.org/shub/bioexcel/biobb_io/latest/2021-04-16-fe7bb793-9cd4b617/
+datalad_url: https://datasets.datalad.org?dir=/shub/bioexcel/biobb_io/latest/2021-04-16-fe7bb793-9cd4b617/
 recipe: https://datasets.datalad.org/shub/bioexcel/biobb_io/latest/2021-04-16-fe7bb793-9cd4b617/Singularity
 collection: bioexcel/biobb_io
 ---

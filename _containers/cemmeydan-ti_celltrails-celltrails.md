@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.786Z"
 size_mb: 2181
 size: 847962143
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_celltrails/celltrails/2019-04-04-416a954d-7f905bc1/7f905bc1458edf2c9dcc66df88b369cb.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_celltrails/celltrails/2019-04-04-416a954d-7f905bc1/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_celltrails/celltrails/2019-04-04-416a954d-7f905bc1/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_celltrails/celltrails/2019-04-04-416a954d-7f905bc1/Singularity
 collection: cemmeydan/ti_celltrails
 ---

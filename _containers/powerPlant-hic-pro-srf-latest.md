@@ -9,7 +9,7 @@ build_date: "2019-05-02T05:40:51.542Z"
 size_mb: 2091
 size: 724090911
 sif: "https://datasets.datalad.org/shub/powerPlant/hic-pro-srf/latest/2019-05-02-54b7c6de-e066e4ee/e066e4ee61e8f13a32a8e18931b472f8.simg"
-url: https://datasets.datalad.org/shub/powerPlant/hic-pro-srf/latest/2019-05-02-54b7c6de-e066e4ee/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/hic-pro-srf/latest/2019-05-02-54b7c6de-e066e4ee/
 recipe: https://datasets.datalad.org/shub/powerPlant/hic-pro-srf/latest/2019-05-02-54b7c6de-e066e4ee/Singularity
 collection: powerPlant/hic-pro-srf
 ---

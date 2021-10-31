@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.202Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/gtca/singularity_training/fun/2019-02-27-1a142213-09a8864d/09a8864db17a45b65f73a6e9c7322ff5.simg"
-url: https://datasets.datalad.org/shub/gtca/singularity_training/fun/2019-02-27-1a142213-09a8864d/
+datalad_url: https://datasets.datalad.org?dir=/shub/gtca/singularity_training/fun/2019-02-27-1a142213-09a8864d/
 recipe: https://datasets.datalad.org/shub/gtca/singularity_training/fun/2019-02-27-1a142213-09a8864d/Singularity
 collection: gtca/singularity_training
 ---

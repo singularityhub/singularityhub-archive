@@ -9,7 +9,7 @@ build_date: "2021-04-06T07:13:24.526Z"
 size_mb: 6865.0
 size: 1957732383
 sif: "https://datasets.datalad.org/shub/timo-singularity/pytorch/latest/2021-04-06-862ac281-131e565d/131e565de1cfcaa9c03b682d4683ec31.sif"
-url: https://datasets.datalad.org/shub/timo-singularity/pytorch/latest/2021-04-06-862ac281-131e565d/
+datalad_url: https://datasets.datalad.org?dir=/shub/timo-singularity/pytorch/latest/2021-04-06-862ac281-131e565d/
 recipe: https://datasets.datalad.org/shub/timo-singularity/pytorch/latest/2021-04-06-862ac281-131e565d/Singularity
 collection: timo-singularity/pytorch
 ---

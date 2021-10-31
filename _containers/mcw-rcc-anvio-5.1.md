@@ -9,7 +9,7 @@ build_date: "2019-08-28T21:51:40.441Z"
 size_mb: 4989
 size: 2085060639
 sif: "https://datasets.datalad.org/shub/mcw-rcc/anvio/5.1/2019-08-28-a06ef7c2-e149ed2f/e149ed2f37bf3ffe0ef8b740017dba00.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/anvio/5.1/2019-08-28-a06ef7c2-e149ed2f/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/anvio/5.1/2019-08-28-a06ef7c2-e149ed2f/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/anvio/5.1/2019-08-28-a06ef7c2-e149ed2f/Singularity
 collection: mcw-rcc/anvio
 ---

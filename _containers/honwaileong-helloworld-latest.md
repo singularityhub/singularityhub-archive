@@ -9,7 +9,7 @@ build_date: "2019-08-19T12:57:29.190Z"
 size_mb: 725
 size: 226185247
 sif: "https://datasets.datalad.org/shub/honwaileong/helloworld/latest/2019-08-19-502d5d71-158e7c71/158e7c7124a5bbc48314c20b5a4e34c7.simg"
-url: https://datasets.datalad.org/shub/honwaileong/helloworld/latest/2019-08-19-502d5d71-158e7c71/
+datalad_url: https://datasets.datalad.org?dir=/shub/honwaileong/helloworld/latest/2019-08-19-502d5d71-158e7c71/
 recipe: https://datasets.datalad.org/shub/honwaileong/helloworld/latest/2019-08-19-502d5d71-158e7c71/Singularity
 collection: honwaileong/helloworld
 ---

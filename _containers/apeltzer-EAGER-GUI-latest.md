@@ -9,7 +9,7 @@ build_date: "2021-04-12T13:57:45.879Z"
 size_mb: 2089
 size: 1409404959
 sif: "https://datasets.datalad.org/shub/apeltzer/EAGER-GUI/latest/2021-04-12-07f51999-ed6c9812/ed6c9812552e081c87fb9bafd01cde2b.simg"
-url: https://datasets.datalad.org/shub/apeltzer/EAGER-GUI/latest/2021-04-12-07f51999-ed6c9812/
+datalad_url: https://datasets.datalad.org?dir=/shub/apeltzer/EAGER-GUI/latest/2021-04-12-07f51999-ed6c9812/
 recipe: https://datasets.datalad.org/shub/apeltzer/EAGER-GUI/latest/2021-04-12-07f51999-ed6c9812/Singularity
 collection: apeltzer/EAGER-GUI
 ---

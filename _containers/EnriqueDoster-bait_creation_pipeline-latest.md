@@ -9,7 +9,7 @@ build_date: "2020-01-14T05:08:01.530Z"
 size_mb: 5702.0
 size: 2997768223
 sif: "https://datasets.datalad.org/shub/EnriqueDoster/bait_creation_pipeline/latest/2020-01-14-0134fab5-dd89e70c/dd89e70ca2d13eddc898075425e1d3eb.sif"
-url: https://datasets.datalad.org/shub/EnriqueDoster/bait_creation_pipeline/latest/2020-01-14-0134fab5-dd89e70c/
+datalad_url: https://datasets.datalad.org?dir=/shub/EnriqueDoster/bait_creation_pipeline/latest/2020-01-14-0134fab5-dd89e70c/
 recipe: https://datasets.datalad.org/shub/EnriqueDoster/bait_creation_pipeline/latest/2020-01-14-0134fab5-dd89e70c/Singularity
 collection: EnriqueDoster/bait_creation_pipeline
 ---

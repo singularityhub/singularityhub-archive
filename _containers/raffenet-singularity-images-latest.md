@@ -9,7 +9,7 @@ build_date: "2020-08-24T20:49:44.442Z"
 size_mb: 395.0
 size: 142282783
 sif: "https://datasets.datalad.org/shub/raffenet/singularity-images/latest/2020-08-24-ae4372b2-11fa9c08/11fa9c087507e5ffd57ecc0617039874.sif"
-url: https://datasets.datalad.org/shub/raffenet/singularity-images/latest/2020-08-24-ae4372b2-11fa9c08/
+datalad_url: https://datasets.datalad.org?dir=/shub/raffenet/singularity-images/latest/2020-08-24-ae4372b2-11fa9c08/
 recipe: https://datasets.datalad.org/shub/raffenet/singularity-images/latest/2020-08-24-ae4372b2-11fa9c08/Singularity
 collection: raffenet/singularity-images
 ---

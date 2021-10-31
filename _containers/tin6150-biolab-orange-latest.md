@@ -9,7 +9,7 @@ build_date: "2017-12-11T03:00:01.747Z"
 size_mb: 3770
 size: 1593262111
 sif: "https://datasets.datalad.org/shub/tin6150/biolab-orange/latest/2017-12-11-49891c45-0a298495/0a29849594a4fb7c74f1716101aa3708.simg"
-url: https://datasets.datalad.org/shub/tin6150/biolab-orange/latest/2017-12-11-49891c45-0a298495/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/biolab-orange/latest/2017-12-11-49891c45-0a298495/
 recipe: https://datasets.datalad.org/shub/tin6150/biolab-orange/latest/2017-12-11-49891c45-0a298495/Singularity
 collection: tin6150/biolab-orange
 ---

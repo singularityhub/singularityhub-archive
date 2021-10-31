@@ -9,7 +9,7 @@ build_date: "2020-09-03T14:04:46.512Z"
 size_mb: 6539.0
 size: 3320188959
 sif: "https://datasets.datalad.org/shub/jpetucci/pytorch_aci/latest/2020-09-03-528b9e3b-3fe4b124/3fe4b124874b4e7196897acd82bd2bad.sif"
-url: https://datasets.datalad.org/shub/jpetucci/pytorch_aci/latest/2020-09-03-528b9e3b-3fe4b124/
+datalad_url: https://datasets.datalad.org?dir=/shub/jpetucci/pytorch_aci/latest/2020-09-03-528b9e3b-3fe4b124/
 recipe: https://datasets.datalad.org/shub/jpetucci/pytorch_aci/latest/2020-09-03-528b9e3b-3fe4b124/Singularity
 collection: jpetucci/pytorch_aci
 ---

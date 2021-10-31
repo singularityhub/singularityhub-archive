@@ -9,7 +9,7 @@ build_date: "2019-03-27T08:48:37.128Z"
 size_mb: 5555
 size: 2402934815
 sif: "https://datasets.datalad.org/shub/jjhelmus/sample_singularity_containers/cpu_36/2019-03-27-59f17a08-2790f5bd/2790f5bd2ac4698923b0fbccfd9634e6.simg"
-url: https://datasets.datalad.org/shub/jjhelmus/sample_singularity_containers/cpu_36/2019-03-27-59f17a08-2790f5bd/
+datalad_url: https://datasets.datalad.org?dir=/shub/jjhelmus/sample_singularity_containers/cpu_36/2019-03-27-59f17a08-2790f5bd/
 recipe: https://datasets.datalad.org/shub/jjhelmus/sample_singularity_containers/cpu_36/2019-03-27-59f17a08-2790f5bd/Singularity
 collection: jjhelmus/sample_singularity_containers
 ---

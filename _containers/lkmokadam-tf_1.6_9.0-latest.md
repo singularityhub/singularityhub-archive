@@ -9,7 +9,7 @@ build_date: "2018-03-24T15:18:06.515Z"
 size_mb: 3844
 size: 1847365663
 sif: "https://datasets.datalad.org/shub/lkmokadam/tf_1.6_9.0/latest/2018-03-24-9d725378-e7cdf21b/e7cdf21b1d6ed87f7908c5e70f8600b2.simg"
-url: https://datasets.datalad.org/shub/lkmokadam/tf_1.6_9.0/latest/2018-03-24-9d725378-e7cdf21b/
+datalad_url: https://datasets.datalad.org?dir=/shub/lkmokadam/tf_1.6_9.0/latest/2018-03-24-9d725378-e7cdf21b/
 recipe: https://datasets.datalad.org/shub/lkmokadam/tf_1.6_9.0/latest/2018-03-24-9d725378-e7cdf21b/Singularity
 collection: lkmokadam/tf_1.6_9.0
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-20T17:45:28.956Z"
 size_mb: 261
 size: 99262495
 sif: "https://datasets.datalad.org/shub/MSO4SC/Singularity/ring_1.10.7/2019-11-20-abb6dda6-e6716958/e671695857ce9a9f0333eeebe2844fd3.simg"
-url: https://datasets.datalad.org/shub/MSO4SC/Singularity/ring_1.10.7/2019-11-20-abb6dda6-e6716958/
+datalad_url: https://datasets.datalad.org?dir=/shub/MSO4SC/Singularity/ring_1.10.7/2019-11-20-abb6dda6-e6716958/
 recipe: https://datasets.datalad.org/shub/MSO4SC/Singularity/ring_1.10.7/2019-11-20-abb6dda6-e6716958/Singularity
 collection: MSO4SC/Singularity
 ---

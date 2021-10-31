@@ -9,7 +9,7 @@ build_date: "2020-10-24T21:55:35.108Z"
 size_mb: 1524.0
 size: 530698271
 sif: "https://datasets.datalad.org/shub/sskashaf/MAG_wf_containers/isolatescompare/2020-10-24-ff93c752-10d17d0e/10d17d0ed76e15316c936347a961376b.sif"
-url: https://datasets.datalad.org/shub/sskashaf/MAG_wf_containers/isolatescompare/2020-10-24-ff93c752-10d17d0e/
+datalad_url: https://datasets.datalad.org?dir=/shub/sskashaf/MAG_wf_containers/isolatescompare/2020-10-24-ff93c752-10d17d0e/
 recipe: https://datasets.datalad.org/shub/sskashaf/MAG_wf_containers/isolatescompare/2020-10-24-ff93c752-10d17d0e/Singularity
 collection: sskashaf/MAG_wf_containers
 ---

@@ -9,7 +9,7 @@ build_date: "2019-05-06T15:37:43.867Z"
 size_mb: 2774
 size: 943927327
 sif: "https://datasets.datalad.org/shub/chaeger/ray_singularity/recipe/2019-05-06-42973bfb-d3a759d4/d3a759d43637da83800d25679e6a9857.simg"
-url: https://datasets.datalad.org/shub/chaeger/ray_singularity/recipe/2019-05-06-42973bfb-d3a759d4/
+datalad_url: https://datasets.datalad.org?dir=/shub/chaeger/ray_singularity/recipe/2019-05-06-42973bfb-d3a759d4/
 recipe: https://datasets.datalad.org/shub/chaeger/ray_singularity/recipe/2019-05-06-42973bfb-d3a759d4/Singularity
 collection: chaeger/ray_singularity
 ---

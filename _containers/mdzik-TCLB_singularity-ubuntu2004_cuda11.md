@@ -9,7 +9,7 @@ build_date: "2020-12-17T09:23:24.078Z"
 size_mb: 810.83984375
 size: 850227200
 sif: "https://datasets.datalad.org/shub/mdzik/TCLB_singularity/ubuntu2004_cuda11/2020-12-17-e913b5a7-ef3a01d8/ef3a01d82277d431d04116ad49e337979697edc3c506ec93133247a80eec0814.sif"
-url: https://datasets.datalad.org/shub/mdzik/TCLB_singularity/ubuntu2004_cuda11/2020-12-17-e913b5a7-ef3a01d8/
+datalad_url: https://datasets.datalad.org?dir=/shub/mdzik/TCLB_singularity/ubuntu2004_cuda11/2020-12-17-e913b5a7-ef3a01d8/
 recipe: https://datasets.datalad.org/shub/mdzik/TCLB_singularity/ubuntu2004_cuda11/2020-12-17-e913b5a7-ef3a01d8/Singularity
 collection: mdzik/TCLB_singularity
 ---

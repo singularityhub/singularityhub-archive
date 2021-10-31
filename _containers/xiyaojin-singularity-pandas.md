@@ -9,7 +9,7 @@ build_date: "2019-10-09T20:49:48.367Z"
 size_mb: 3821.0
 size: 1853702175
 sif: "https://datasets.datalad.org/shub/xiyaojin/singularity/pandas/2019-10-09-5355f866-a692606b/a692606bdb5947989210cfe5813d3bc1.sif"
-url: https://datasets.datalad.org/shub/xiyaojin/singularity/pandas/2019-10-09-5355f866-a692606b/
+datalad_url: https://datasets.datalad.org?dir=/shub/xiyaojin/singularity/pandas/2019-10-09-5355f866-a692606b/
 recipe: https://datasets.datalad.org/shub/xiyaojin/singularity/pandas/2019-10-09-5355f866-a692606b/Singularity
 collection: xiyaojin/singularity
 ---

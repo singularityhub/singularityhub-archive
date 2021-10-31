@@ -9,7 +9,7 @@ build_date: "2017-10-19T17:45:42.820Z"
 size_mb: 9813
 size: 3296556875
 sif: "https://datasets.datalad.org/shub/satra/om-images/torch-gpu/2017-10-19-e4fd09db-1837ea95/1837ea95c56bc0ea983c7697c30a22fb.img.gz"
-url: https://datasets.datalad.org/shub/satra/om-images/torch-gpu/2017-10-19-e4fd09db-1837ea95/
+datalad_url: https://datasets.datalad.org?dir=/shub/satra/om-images/torch-gpu/2017-10-19-e4fd09db-1837ea95/
 recipe: https://datasets.datalad.org/shub/satra/om-images/torch-gpu/2017-10-19-e4fd09db-1837ea95/Singularity
 collection: satra/om-images
 ---

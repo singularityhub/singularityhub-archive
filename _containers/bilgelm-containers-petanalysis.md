@@ -9,7 +9,7 @@ build_date: "2020-12-21T18:00:08.424Z"
 size_mb: 14592.0
 size: 5830451231
 sif: "https://datasets.datalad.org/shub/bilgelm/containers/petanalysis/2020-12-21-5b5f77c6-874b474a/874b474a4c76eab22abad27c17da05c7.sif"
-url: https://datasets.datalad.org/shub/bilgelm/containers/petanalysis/2020-12-21-5b5f77c6-874b474a/
+datalad_url: https://datasets.datalad.org?dir=/shub/bilgelm/containers/petanalysis/2020-12-21-5b5f77c6-874b474a/
 recipe: https://datasets.datalad.org/shub/bilgelm/containers/petanalysis/2020-12-21-5b5f77c6-874b474a/Singularity
 collection: bilgelm/containers
 ---

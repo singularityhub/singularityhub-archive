@@ -9,7 +9,7 @@ build_date: "2019-08-06T11:52:28.745Z"
 size_mb: 1722.0
 size: 611188767
 sif: "https://datasets.datalad.org/shub/multifunkim/spark-hpc/latest/2019-08-06-3af4744f-b2728099/b27280995f6d5b78ebf4862e9e2ba29f.sif"
-url: https://datasets.datalad.org/shub/multifunkim/spark-hpc/latest/2019-08-06-3af4744f-b2728099/
+datalad_url: https://datasets.datalad.org?dir=/shub/multifunkim/spark-hpc/latest/2019-08-06-3af4744f-b2728099/
 recipe: https://datasets.datalad.org/shub/multifunkim/spark-hpc/latest/2019-08-06-3af4744f-b2728099/Singularity
 collection: multifunkim/spark-hpc
 ---

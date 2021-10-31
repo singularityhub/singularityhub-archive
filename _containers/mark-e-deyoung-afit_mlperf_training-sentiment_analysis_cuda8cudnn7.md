@@ -9,7 +9,7 @@ build_date: "2020-05-06T17:54:25.000Z"
 size_mb: 3327
 size: 1738809375
 sif: "https://datasets.datalad.org/shub/mark-e-deyoung/afit_mlperf_training/sentiment_analysis_cuda8cudnn7/2020-05-06-eaf1758a-5a00b3f9/5a00b3f9a03cfd0933907717a30a643f.simg"
-url: https://datasets.datalad.org/shub/mark-e-deyoung/afit_mlperf_training/sentiment_analysis_cuda8cudnn7/2020-05-06-eaf1758a-5a00b3f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/mark-e-deyoung/afit_mlperf_training/sentiment_analysis_cuda8cudnn7/2020-05-06-eaf1758a-5a00b3f9/
 recipe: https://datasets.datalad.org/shub/mark-e-deyoung/afit_mlperf_training/sentiment_analysis_cuda8cudnn7/2020-05-06-eaf1758a-5a00b3f9/Singularity
 collection: mark-e-deyoung/afit_mlperf_training
 ---

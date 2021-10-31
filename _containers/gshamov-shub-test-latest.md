@@ -9,7 +9,7 @@ build_date: "2019-10-14T14:06:37.550Z"
 size_mb: 1013
 size: 327229471
 sif: "https://datasets.datalad.org/shub/gshamov/shub-test/latest/2019-10-14-80023392-d40159bf/d40159bf7de42b5174b57704f504f64a.simg"
-url: https://datasets.datalad.org/shub/gshamov/shub-test/latest/2019-10-14-80023392-d40159bf/
+datalad_url: https://datasets.datalad.org?dir=/shub/gshamov/shub-test/latest/2019-10-14-80023392-d40159bf/
 recipe: https://datasets.datalad.org/shub/gshamov/shub-test/latest/2019-10-14-80023392-d40159bf/Singularity
 collection: gshamov/shub-test
 ---

@@ -9,7 +9,7 @@ build_date: "2018-06-29T02:57:07.358Z"
 size_mb: 562
 size: 195387423
 sif: "https://datasets.datalad.org/shub/bpow/bioinfo-containers/ubuntu/2018-06-29-38439e63-3c844ca5/3c844ca597776cf567be5187ff5cdb48.simg"
-url: https://datasets.datalad.org/shub/bpow/bioinfo-containers/ubuntu/2018-06-29-38439e63-3c844ca5/
+datalad_url: https://datasets.datalad.org?dir=/shub/bpow/bioinfo-containers/ubuntu/2018-06-29-38439e63-3c844ca5/
 recipe: https://datasets.datalad.org/shub/bpow/bioinfo-containers/ubuntu/2018-06-29-38439e63-3c844ca5/Singularity
 collection: bpow/bioinfo-containers
 ---

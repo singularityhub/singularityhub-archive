@@ -9,7 +9,7 @@ build_date: "2019-09-23T05:01:37.420Z"
 size_mb: 4598
 size: 2312183839
 sif: "https://datasets.datalad.org/shub/marcc-hpc/apache-spark/latest/2019-09-23-ad74fe7d-2b53c051/2b53c051a98cfe12620c9fed2cc35b3f.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/apache-spark/latest/2019-09-23-ad74fe7d-2b53c051/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/apache-spark/latest/2019-09-23-ad74fe7d-2b53c051/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/apache-spark/latest/2019-09-23-ad74fe7d-2b53c051/Singularity
 collection: marcc-hpc/apache-spark
 ---

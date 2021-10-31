@@ -9,7 +9,7 @@ build_date: "2020-11-19T12:40:23.384Z"
 size_mb: 2133.0
 size: 496635935
 sif: "https://datasets.datalad.org/shub/rmcolq/pandora/pandora/2020-11-19-ed953d1f-860a2cd2/860a2cd2ab7685d143bf85a5aeb15f78.sif"
-url: https://datasets.datalad.org/shub/rmcolq/pandora/pandora/2020-11-19-ed953d1f-860a2cd2/
+datalad_url: https://datasets.datalad.org?dir=/shub/rmcolq/pandora/pandora/2020-11-19-ed953d1f-860a2cd2/
 recipe: https://datasets.datalad.org/shub/rmcolq/pandora/pandora/2020-11-19-ed953d1f-860a2cd2/Singularity
 collection: rmcolq/pandora
 ---

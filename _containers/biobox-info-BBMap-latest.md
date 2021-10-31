@@ -9,7 +9,7 @@ build_date: "2019-09-17T06:15:32.111Z"
 size_mb: 130.56640625
 size: 136908800
 sif: "https://datasets.datalad.org/shub/biobox-info/BBMap/latest/2019-09-17-0a233ff0-160c5366/160c536668ebb816b475952d8c941a481927737a3be1fb0b65e3fcddff40355a.sif"
-url: https://datasets.datalad.org/shub/biobox-info/BBMap/latest/2019-09-17-0a233ff0-160c5366/
+datalad_url: https://datasets.datalad.org?dir=/shub/biobox-info/BBMap/latest/2019-09-17-0a233ff0-160c5366/
 recipe: https://datasets.datalad.org/shub/biobox-info/BBMap/latest/2019-09-17-0a233ff0-160c5366/Singularity
 collection: biobox-info/BBMap
 ---

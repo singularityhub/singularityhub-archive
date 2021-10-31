@@ -9,7 +9,7 @@ build_date: "2020-03-31T11:42:46.964Z"
 size_mb: 1050
 size: 431546399
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/nanocomp/2020-03-31-8bf52d42-6dde5ece/6dde5ece9a6d7b59e13c3bae7d49d609.simg"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/nanocomp/2020-03-31-8bf52d42-6dde5ece/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/nanocomp/2020-03-31-8bf52d42-6dde5ece/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/nanocomp/2020-03-31-8bf52d42-6dde5ece/Singularity
 collection: dominik-handler/AP_singu
 ---

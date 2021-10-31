@@ -9,7 +9,7 @@ build_date: "2018-01-04T05:49:23.466Z"
 size_mb: 7637
 size: 3322773535
 sif: "https://datasets.datalad.org/shub/cdarby/zoomx-singularity/latest/2018-01-04-01e5f004-3af44c4f/3af44c4faa60f950adf85d1996783a86.simg"
-url: https://datasets.datalad.org/shub/cdarby/zoomx-singularity/latest/2018-01-04-01e5f004-3af44c4f/
+datalad_url: https://datasets.datalad.org?dir=/shub/cdarby/zoomx-singularity/latest/2018-01-04-01e5f004-3af44c4f/
 recipe: https://datasets.datalad.org/shub/cdarby/zoomx-singularity/latest/2018-01-04-01e5f004-3af44c4f/Singularity
 collection: cdarby/zoomx-singularity
 ---

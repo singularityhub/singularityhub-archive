@@ -9,7 +9,7 @@ build_date: "2018-05-29T12:58:44.799Z"
 size_mb: 1448
 size: 686800927
 sif: "https://datasets.datalad.org/shub/skptic/dpa-analysis/latest/2018-05-29-c9e853bf-c50f752b/c50f752b11009793d994940a340d80b8.simg"
-url: https://datasets.datalad.org/shub/skptic/dpa-analysis/latest/2018-05-29-c9e853bf-c50f752b/
+datalad_url: https://datasets.datalad.org?dir=/shub/skptic/dpa-analysis/latest/2018-05-29-c9e853bf-c50f752b/
 recipe: https://datasets.datalad.org/shub/skptic/dpa-analysis/latest/2018-05-29-c9e853bf-c50f752b/Singularity
 collection: skptic/dpa-analysis
 ---

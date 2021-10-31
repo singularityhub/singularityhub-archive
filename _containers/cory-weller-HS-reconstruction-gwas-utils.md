@@ -9,7 +9,7 @@ build_date: "2020-09-17T13:44:05.220Z"
 size_mb: 1501.0
 size: 748589087
 sif: "https://datasets.datalad.org/shub/cory-weller/HS-reconstruction-gwas/utils/2020-09-17-d3377f1b-29017bb0/29017bb049ba2439551899218c2d8619.sif"
-url: https://datasets.datalad.org/shub/cory-weller/HS-reconstruction-gwas/utils/2020-09-17-d3377f1b-29017bb0/
+datalad_url: https://datasets.datalad.org?dir=/shub/cory-weller/HS-reconstruction-gwas/utils/2020-09-17-d3377f1b-29017bb0/
 recipe: https://datasets.datalad.org/shub/cory-weller/HS-reconstruction-gwas/utils/2020-09-17-d3377f1b-29017bb0/Singularity
 collection: cory-weller/HS-reconstruction-gwas
 ---

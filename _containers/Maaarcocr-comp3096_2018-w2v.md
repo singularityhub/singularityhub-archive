@@ -9,7 +9,7 @@ build_date: "2018-02-16T17:20:20.399Z"
 size_mb: 719
 size: 251998239
 sif: "https://datasets.datalad.org/shub/Maaarcocr/comp3096_2018/w2v/2018-02-16-c6db01a4-210742a4/210742a4966e6769a2ea90dfe4859ab1.simg"
-url: https://datasets.datalad.org/shub/Maaarcocr/comp3096_2018/w2v/2018-02-16-c6db01a4-210742a4/
+datalad_url: https://datasets.datalad.org?dir=/shub/Maaarcocr/comp3096_2018/w2v/2018-02-16-c6db01a4-210742a4/
 recipe: https://datasets.datalad.org/shub/Maaarcocr/comp3096_2018/w2v/2018-02-16-c6db01a4-210742a4/Singularity
 collection: Maaarcocr/comp3096_2018
 ---

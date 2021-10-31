@@ -9,7 +9,7 @@ build_date: "2019-09-17T07:34:21.910Z"
 size_mb: 861
 size: 366690335
 sif: "https://datasets.datalad.org/shub/singularityhub/sregistry-cli/latest/2019-09-17-feb34d1a-37710369/37710369b0653ec5120e2f880693e24a.simg"
-url: https://datasets.datalad.org/shub/singularityhub/sregistry-cli/latest/2019-09-17-feb34d1a-37710369/
+datalad_url: https://datasets.datalad.org?dir=/shub/singularityhub/sregistry-cli/latest/2019-09-17-feb34d1a-37710369/
 recipe: https://datasets.datalad.org/shub/singularityhub/sregistry-cli/latest/2019-09-17-feb34d1a-37710369/Singularity
 collection: singularityhub/sregistry-cli
 ---

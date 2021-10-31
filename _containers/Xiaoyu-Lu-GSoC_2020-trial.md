@@ -9,7 +9,7 @@ build_date: "2020-08-13T02:15:29.145Z"
 size_mb: 79.0
 size: 27725855
 sif: "https://datasets.datalad.org/shub/Xiaoyu-Lu/GSoC_2020/trial/2020-08-13-3c31e992-66843ea8/66843ea8a84ce2d35fcb21292693449b.sif"
-url: https://datasets.datalad.org/shub/Xiaoyu-Lu/GSoC_2020/trial/2020-08-13-3c31e992-66843ea8/
+datalad_url: https://datasets.datalad.org?dir=/shub/Xiaoyu-Lu/GSoC_2020/trial/2020-08-13-3c31e992-66843ea8/
 recipe: https://datasets.datalad.org/shub/Xiaoyu-Lu/GSoC_2020/trial/2020-08-13-3c31e992-66843ea8/Singularity
 collection: Xiaoyu-Lu/GSoC_2020
 ---

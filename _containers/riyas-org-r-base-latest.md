@@ -9,7 +9,7 @@ build_date: "2020-04-14T12:22:27.264Z"
 size_mb: 669
 size: 260358175
 sif: "https://datasets.datalad.org/shub/riyas-org/r-base/latest/2020-04-14-9cf8d49e-4bc0bcdb/4bc0bcdb8e3b4e168239ce18684f1083.simg"
-url: https://datasets.datalad.org/shub/riyas-org/r-base/latest/2020-04-14-9cf8d49e-4bc0bcdb/
+datalad_url: https://datasets.datalad.org?dir=/shub/riyas-org/r-base/latest/2020-04-14-9cf8d49e-4bc0bcdb/
 recipe: https://datasets.datalad.org/shub/riyas-org/r-base/latest/2020-04-14-9cf8d49e-4bc0bcdb/Singularity
 collection: riyas-org/r-base
 ---

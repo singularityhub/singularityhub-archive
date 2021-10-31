@@ -9,7 +9,7 @@ build_date: "2020-12-05T15:43:09.717Z"
 size_mb: 363
 size: 140050463
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/clustalo/2020-12-05-c0af79dc-471147b7/471147b74611e8faf0cfd72e56f6262f.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/clustalo/2020-12-05-c0af79dc-471147b7/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/clustalo/2020-12-05-c0af79dc-471147b7/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/clustalo/2020-12-05-c0af79dc-471147b7/Singularity
 collection: mbhall88/Singularity_recipes
 ---

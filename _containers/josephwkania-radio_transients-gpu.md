@@ -9,7 +9,7 @@ build_date: "2021-03-13T07:19:55.728Z"
 size_mb: 3341.109375
 size: 3503407104
 sif: "https://datasets.datalad.org/shub/josephwkania/radio_transients/gpu/2021-03-13-b78cdfad-af36c21a/af36c21a70bdfae286ba8f0f4100ad2de2a4718a756f0701f493ac95971b447f.sif"
-url: https://datasets.datalad.org/shub/josephwkania/radio_transients/gpu/2021-03-13-b78cdfad-af36c21a/
+datalad_url: https://datasets.datalad.org?dir=/shub/josephwkania/radio_transients/gpu/2021-03-13-b78cdfad-af36c21a/
 recipe: https://datasets.datalad.org/shub/josephwkania/radio_transients/gpu/2021-03-13-b78cdfad-af36c21a/Singularity
 collection: josephwkania/radio_transients
 ---

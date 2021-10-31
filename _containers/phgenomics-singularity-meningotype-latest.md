@@ -9,7 +9,7 @@ build_date: "2021-02-22T10:44:14.555Z"
 size_mb: 3967
 size: 1474502687
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/meningotype/latest/2021-02-22-1fcdaeca-ef2dd84f/ef2dd84fc7cdf1309229ea88add9f062.simg"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/meningotype/latest/2021-02-22-1fcdaeca-ef2dd84f/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/meningotype/latest/2021-02-22-1fcdaeca-ef2dd84f/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/meningotype/latest/2021-02-22-1fcdaeca-ef2dd84f/Singularity
 collection: phgenomics-singularity/meningotype
 ---

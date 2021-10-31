@@ -9,7 +9,7 @@ build_date: "2020-05-05T04:39:00.108Z"
 size_mb: 852.0
 size: 343113759
 sif: "https://datasets.datalad.org/shub/h3abionet/h3ameta/ariba/2020-05-05-5555cd3a-aa41387f/aa41387f09d7ac82a4677081a0e564c4.sif"
-url: https://datasets.datalad.org/shub/h3abionet/h3ameta/ariba/2020-05-05-5555cd3a-aa41387f/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/h3ameta/ariba/2020-05-05-5555cd3a-aa41387f/
 recipe: https://datasets.datalad.org/shub/h3abionet/h3ameta/ariba/2020-05-05-5555cd3a-aa41387f/Singularity
 collection: h3abionet/h3ameta
 ---

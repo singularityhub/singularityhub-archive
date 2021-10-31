@@ -9,7 +9,7 @@ build_date: "2020-10-17T15:29:48.289Z"
 size_mb: 475.0
 size: 158380063
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-samtools/1.9/2020-10-17-351b5805-b6e58ab5/b6e58ab5eec3531b549a5cb8ab495672.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-samtools/1.9/2020-10-17-351b5805-b6e58ab5/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-samtools/1.9/2020-10-17-351b5805-b6e58ab5/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-samtools/1.9/2020-10-17-351b5805-b6e58ab5/Singularity
 collection: yh549848/singularity-samtools
 ---

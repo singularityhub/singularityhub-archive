@@ -9,7 +9,7 @@ build_date: "2020-04-30T23:17:55.950Z"
 size_mb: 6868
 size: 2549157919
 sif: "https://datasets.datalad.org/shub/ertheisen/wildcat_centos/hg19v1.centos/2020-04-30-de6a929c-6a4fa69e/6a4fa69ec9a45d282c22a464ae4d49c6.simg"
-url: https://datasets.datalad.org/shub/ertheisen/wildcat_centos/hg19v1.centos/2020-04-30-de6a929c-6a4fa69e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ertheisen/wildcat_centos/hg19v1.centos/2020-04-30-de6a929c-6a4fa69e/
 recipe: https://datasets.datalad.org/shub/ertheisen/wildcat_centos/hg19v1.centos/2020-04-30-de6a929c-6a4fa69e/Singularity
 collection: ertheisen/wildcat_centos
 ---

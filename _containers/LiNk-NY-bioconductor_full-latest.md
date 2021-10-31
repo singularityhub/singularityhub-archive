@@ -9,7 +9,7 @@ build_date: "2019-06-14T18:25:05.886Z"
 size_mb: 5614
 size: 2599481375
 sif: "https://datasets.datalad.org/shub/LiNk-NY/bioconductor_full/latest/2019-06-14-c4a44f7a-6d80c09a/6d80c09a9ced65c2cf6de292e9dfc2ff.simg"
-url: https://datasets.datalad.org/shub/LiNk-NY/bioconductor_full/latest/2019-06-14-c4a44f7a-6d80c09a/
+datalad_url: https://datasets.datalad.org?dir=/shub/LiNk-NY/bioconductor_full/latest/2019-06-14-c4a44f7a-6d80c09a/
 recipe: https://datasets.datalad.org/shub/LiNk-NY/bioconductor_full/latest/2019-06-14-c4a44f7a-6d80c09a/Singularity
 collection: LiNk-NY/bioconductor_full
 ---

@@ -9,7 +9,7 @@ build_date: "2018-02-16T17:20:20.108Z"
 size_mb: 8813
 size: 3153326111
 sif: "https://datasets.datalad.org/shub/endrebak/singularity_recipes/chipseeker_1_14_0/2018-02-16-4a97fa7d-0f8af440/0f8af44053927f7aa76d22e141a052d9.simg"
-url: https://datasets.datalad.org/shub/endrebak/singularity_recipes/chipseeker_1_14_0/2018-02-16-4a97fa7d-0f8af440/
+datalad_url: https://datasets.datalad.org?dir=/shub/endrebak/singularity_recipes/chipseeker_1_14_0/2018-02-16-4a97fa7d-0f8af440/
 recipe: https://datasets.datalad.org/shub/endrebak/singularity_recipes/chipseeker_1_14_0/2018-02-16-4a97fa7d-0f8af440/Singularity
 collection: endrebak/singularity_recipes
 ---

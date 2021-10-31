@@ -9,7 +9,7 @@ build_date: "2019-07-02T13:32:17.023Z"
 size_mb: 1102
 size: 299937823
 sif: "https://datasets.datalad.org/shub/sternacht/tf_singu/va/2019-07-02-6b4f5a7e-c881222d/c881222d1feb5eed364de57ebe2e02cd.simg"
-url: https://datasets.datalad.org/shub/sternacht/tf_singu/va/2019-07-02-6b4f5a7e-c881222d/
+datalad_url: https://datasets.datalad.org?dir=/shub/sternacht/tf_singu/va/2019-07-02-6b4f5a7e-c881222d/
 recipe: https://datasets.datalad.org/shub/sternacht/tf_singu/va/2019-07-02-6b4f5a7e-c881222d/Singularity
 collection: sternacht/tf_singu
 ---

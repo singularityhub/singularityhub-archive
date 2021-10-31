@@ -9,7 +9,7 @@ build_date: "2019-03-07T14:19:12.966Z"
 size_mb: 12982
 size: 5535989791
 sif: "https://datasets.datalad.org/shub/ZhifangYe/ciftify_build/latest/2019-03-07-3109fdbc-021395ed/021395ed36c0d7b40e548ab398205fd9.simg"
-url: https://datasets.datalad.org/shub/ZhifangYe/ciftify_build/latest/2019-03-07-3109fdbc-021395ed/
+datalad_url: https://datasets.datalad.org?dir=/shub/ZhifangYe/ciftify_build/latest/2019-03-07-3109fdbc-021395ed/
 recipe: https://datasets.datalad.org/shub/ZhifangYe/ciftify_build/latest/2019-03-07-3109fdbc-021395ed/Singularity
 collection: ZhifangYe/ciftify_build
 ---

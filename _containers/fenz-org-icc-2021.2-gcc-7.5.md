@@ -9,7 +9,7 @@ build_date: "2021-04-12T20:02:15.683Z"
 size_mb: 1240.5234375
 size: 1300783104
 sif: "https://datasets.datalad.org/shub/fenz-org/icc/2021.2-gcc-7.5/2021-04-12-205f3f7d-71648d8b/71648d8b1ec4503cecdbd0d5b58e33db5306e986fb2569a68f6dc08f26ca6df6.sif"
-url: https://datasets.datalad.org/shub/fenz-org/icc/2021.2-gcc-7.5/2021-04-12-205f3f7d-71648d8b/
+datalad_url: https://datasets.datalad.org?dir=/shub/fenz-org/icc/2021.2-gcc-7.5/2021-04-12-205f3f7d-71648d8b/
 recipe: https://datasets.datalad.org/shub/fenz-org/icc/2021.2-gcc-7.5/2021-04-12-205f3f7d-71648d8b/Singularity
 collection: fenz-org/icc
 ---

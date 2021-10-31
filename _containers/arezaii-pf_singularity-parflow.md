@@ -9,7 +9,7 @@ build_date: "2020-01-23T05:17:30.054Z"
 size_mb: 907.0
 size: 266100767
 sif: "https://datasets.datalad.org/shub/arezaii/pf_singularity/parflow/2020-01-23-33d7910a-5c9002b0/5c9002b0a75b27fb9b54d6a5d7c901f3.sif"
-url: https://datasets.datalad.org/shub/arezaii/pf_singularity/parflow/2020-01-23-33d7910a-5c9002b0/
+datalad_url: https://datasets.datalad.org?dir=/shub/arezaii/pf_singularity/parflow/2020-01-23-33d7910a-5c9002b0/
 recipe: https://datasets.datalad.org/shub/arezaii/pf_singularity/parflow/2020-01-23-33d7910a-5c9002b0/Singularity
 collection: arezaii/pf_singularity
 ---

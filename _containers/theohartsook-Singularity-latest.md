@@ -9,7 +9,7 @@ build_date: "2019-10-23T17:39:13.103Z"
 size_mb: 660.68359375
 size: 692776960
 sif: "https://datasets.datalad.org/shub/theohartsook/Singularity/latest/2019-10-23-964ec86a-ba597975/ba5979754cfd27cbf925859952e384842aa66540f6bbcad4f863cfc2563e0351.sif"
-url: https://datasets.datalad.org/shub/theohartsook/Singularity/latest/2019-10-23-964ec86a-ba597975/
+datalad_url: https://datasets.datalad.org?dir=/shub/theohartsook/Singularity/latest/2019-10-23-964ec86a-ba597975/
 recipe: https://datasets.datalad.org/shub/theohartsook/Singularity/latest/2019-10-23-964ec86a-ba597975/Singularity
 collection: theohartsook/Singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-10T23:02:51.983Z"
 size_mb: 977
 size: 316936223
 sif: "https://datasets.datalad.org/shub/pndni/centos7-base/dev/2019-04-10-46428187-32d3ed67/32d3ed6717b8aa7e3aa5f88cefb450d9.simg"
-url: https://datasets.datalad.org/shub/pndni/centos7-base/dev/2019-04-10-46428187-32d3ed67/
+datalad_url: https://datasets.datalad.org?dir=/shub/pndni/centos7-base/dev/2019-04-10-46428187-32d3ed67/
 recipe: https://datasets.datalad.org/shub/pndni/centos7-base/dev/2019-04-10-46428187-32d3ed67/Singularity
 collection: pndni/centos7-base
 ---

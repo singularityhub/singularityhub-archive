@@ -9,7 +9,7 @@ build_date: "2020-01-24T16:21:01.360Z"
 size_mb: 3707.0
 size: 1912447007
 sif: "https://datasets.datalad.org/shub/arangurr/singularity-tf2/latest/2020-01-24-1aae14bf-a6b75424/a6b7542409ea58d5d00588d275ad524d.sif"
-url: https://datasets.datalad.org/shub/arangurr/singularity-tf2/latest/2020-01-24-1aae14bf-a6b75424/
+datalad_url: https://datasets.datalad.org?dir=/shub/arangurr/singularity-tf2/latest/2020-01-24-1aae14bf-a6b75424/
 recipe: https://datasets.datalad.org/shub/arangurr/singularity-tf2/latest/2020-01-24-1aae14bf-a6b75424/Singularity
 collection: arangurr/singularity-tf2
 ---

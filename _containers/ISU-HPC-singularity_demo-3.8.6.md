@@ -9,7 +9,7 @@ build_date: "2019-01-08T21:54:25.323Z"
 size_mb: 1750
 size: 809033759
 sif: "https://datasets.datalad.org/shub/ISU-HPC/singularity_demo/3.8.6/2019-01-08-200f8b16-87038930/87038930cbc7f0527922bb33ff866dbc.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/singularity_demo/3.8.6/2019-01-08-200f8b16-87038930/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/singularity_demo/3.8.6/2019-01-08-200f8b16-87038930/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/singularity_demo/3.8.6/2019-01-08-200f8b16-87038930/Singularity
 collection: ISU-HPC/singularity_demo
 ---

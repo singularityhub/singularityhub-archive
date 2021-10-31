@@ -9,7 +9,7 @@ build_date: "2018-11-07T13:35:01.485Z"
 size_mb: 3900
 size: 1103241247
 sif: "https://datasets.datalad.org/shub/cb-geo/mpm-container/latest/2018-11-07-9c0871b0-37d78232/37d78232f165c752a9d01c0bf7d01377.simg"
-url: https://datasets.datalad.org/shub/cb-geo/mpm-container/latest/2018-11-07-9c0871b0-37d78232/
+datalad_url: https://datasets.datalad.org?dir=/shub/cb-geo/mpm-container/latest/2018-11-07-9c0871b0-37d78232/
 recipe: https://datasets.datalad.org/shub/cb-geo/mpm-container/latest/2018-11-07-9c0871b0-37d78232/Singularity
 collection: cb-geo/mpm-container
 ---

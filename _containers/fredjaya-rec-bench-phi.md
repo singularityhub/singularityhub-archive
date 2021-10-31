@@ -9,7 +9,7 @@ build_date: "2019-06-26T22:56:26.350Z"
 size_mb: 540
 size: 184090655
 sif: "https://datasets.datalad.org/shub/fredjaya/rec-bench/phi/2019-06-26-88933dd4-504008dd/504008dda59023e7ea5862130357a12d.simg"
-url: https://datasets.datalad.org/shub/fredjaya/rec-bench/phi/2019-06-26-88933dd4-504008dd/
+datalad_url: https://datasets.datalad.org?dir=/shub/fredjaya/rec-bench/phi/2019-06-26-88933dd4-504008dd/
 recipe: https://datasets.datalad.org/shub/fredjaya/rec-bench/phi/2019-06-26-88933dd4-504008dd/Singularity
 collection: fredjaya/rec-bench
 ---

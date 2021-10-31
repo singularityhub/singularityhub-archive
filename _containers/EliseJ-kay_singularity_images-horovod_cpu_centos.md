@@ -9,7 +9,7 @@ build_date: "2020-09-21T12:44:08.278Z"
 size_mb: 5468.0
 size: 2502971423
 sif: "https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/horovod_cpu_centos/2020-09-21-ed96773b-20b7a5fb/20b7a5fbe9ed2d5a82685d6aa743c38c.sif"
-url: https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/horovod_cpu_centos/2020-09-21-ed96773b-20b7a5fb/
+datalad_url: https://datasets.datalad.org?dir=/shub/EliseJ/kay_singularity_images/horovod_cpu_centos/2020-09-21-ed96773b-20b7a5fb/
 recipe: https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/horovod_cpu_centos/2020-09-21-ed96773b-20b7a5fb/Singularity
 collection: EliseJ/kay_singularity_images
 ---

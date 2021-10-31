@@ -9,7 +9,7 @@ build_date: "2020-12-16T00:45:05.573Z"
 size_mb: 5149.0
 size: 2478391327
 sif: "https://datasets.datalad.org/shub/verysure/mlstack-rdkit/latest/2020-12-16-d5c98140-7587f39d/7587f39d7615d8e8fe438ad0361856a9.sif"
-url: https://datasets.datalad.org/shub/verysure/mlstack-rdkit/latest/2020-12-16-d5c98140-7587f39d/
+datalad_url: https://datasets.datalad.org?dir=/shub/verysure/mlstack-rdkit/latest/2020-12-16-d5c98140-7587f39d/
 recipe: https://datasets.datalad.org/shub/verysure/mlstack-rdkit/latest/2020-12-16-d5c98140-7587f39d/Singularity
 collection: verysure/mlstack-rdkit
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-07T16:21:16.054Z"
 size_mb: 8349.0
 size: 4487159839
 sif: "https://datasets.datalad.org/shub/EnriqueDoster/sing_biotools/latest/2021-03-07-9b32ac3f-57d50ed5/57d50ed527271d60d0a9989f303e6ff2.sif"
-url: https://datasets.datalad.org/shub/EnriqueDoster/sing_biotools/latest/2021-03-07-9b32ac3f-57d50ed5/
+datalad_url: https://datasets.datalad.org?dir=/shub/EnriqueDoster/sing_biotools/latest/2021-03-07-9b32ac3f-57d50ed5/
 recipe: https://datasets.datalad.org/shub/EnriqueDoster/sing_biotools/latest/2021-03-07-9b32ac3f-57d50ed5/Singularity
 collection: EnriqueDoster/sing_biotools
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-23T07:26:41.999Z"
 size_mb: 1144.0
 size: 507355167
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/fastqc-0.11.8/2019-10-23-68bbe653-efa515ec/efa515ec7e743ca834d22c70e3932bc6.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/fastqc-0.11.8/2019-10-23-68bbe653-efa515ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/fastqc-0.11.8/2019-10-23-68bbe653-efa515ec/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/fastqc-0.11.8/2019-10-23-68bbe653-efa515ec/Singularity
 collection: Clinical-Genomics/MIP
 ---

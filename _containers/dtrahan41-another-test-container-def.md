@@ -9,7 +9,7 @@ build_date: "2019-04-01T19:11:54.020Z"
 size_mb: 76
 size: 27959327
 sif: "https://datasets.datalad.org/shub/dtrahan41/another-test-container/def/2019-04-01-ec95c5fe-3ae21527/3ae21527c2d80b028ca058bf94b5b6ba.simg"
-url: https://datasets.datalad.org/shub/dtrahan41/another-test-container/def/2019-04-01-ec95c5fe-3ae21527/
+datalad_url: https://datasets.datalad.org?dir=/shub/dtrahan41/another-test-container/def/2019-04-01-ec95c5fe-3ae21527/
 recipe: https://datasets.datalad.org/shub/dtrahan41/another-test-container/def/2019-04-01-ec95c5fe-3ae21527/Singularity
 collection: dtrahan41/another-test-container
 ---

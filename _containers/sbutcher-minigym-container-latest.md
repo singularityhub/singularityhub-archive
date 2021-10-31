@@ -9,7 +9,7 @@ build_date: "2021-02-18T08:31:08.044Z"
 size_mb: 4674
 size: 2226274335
 sif: "https://datasets.datalad.org/shub/sbutcher/minigym-container/latest/2021-02-18-aac8ae57-50ddff17/50ddff17cec5fda19b158e5307a59dbb.simg"
-url: https://datasets.datalad.org/shub/sbutcher/minigym-container/latest/2021-02-18-aac8ae57-50ddff17/
+datalad_url: https://datasets.datalad.org?dir=/shub/sbutcher/minigym-container/latest/2021-02-18-aac8ae57-50ddff17/
 recipe: https://datasets.datalad.org/shub/sbutcher/minigym-container/latest/2021-02-18-aac8ae57-50ddff17/Singularity
 collection: sbutcher/minigym-container
 ---

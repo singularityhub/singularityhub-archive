@@ -9,7 +9,7 @@ build_date: "2019-04-29T20:57:13.949Z"
 size_mb: 622
 size: 206176287
 sif: "https://datasets.datalad.org/shub/MPIB/singularity-r/3.6.0/2019-04-29-53b54713-79f13aa3/79f13aa3f9c14a772b3647065fada3f8.simg"
-url: https://datasets.datalad.org/shub/MPIB/singularity-r/3.6.0/2019-04-29-53b54713-79f13aa3/
+datalad_url: https://datasets.datalad.org?dir=/shub/MPIB/singularity-r/3.6.0/2019-04-29-53b54713-79f13aa3/
 recipe: https://datasets.datalad.org/shub/MPIB/singularity-r/3.6.0/2019-04-29-53b54713-79f13aa3/Singularity
 collection: MPIB/singularity-r
 ---

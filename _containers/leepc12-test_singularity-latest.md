@@ -9,7 +9,7 @@ build_date: "2018-11-15T01:37:41.966Z"
 size_mb: 3692
 size: 1253969951
 sif: "https://datasets.datalad.org/shub/leepc12/test_singularity/latest/2018-11-15-a17a6a09-7a784740/7a7847409daad1664e36bda16eca5f59.simg"
-url: https://datasets.datalad.org/shub/leepc12/test_singularity/latest/2018-11-15-a17a6a09-7a784740/
+datalad_url: https://datasets.datalad.org?dir=/shub/leepc12/test_singularity/latest/2018-11-15-a17a6a09-7a784740/
 recipe: https://datasets.datalad.org/shub/leepc12/test_singularity/latest/2018-11-15-a17a6a09-7a784740/Singularity
 collection: leepc12/test_singularity
 ---

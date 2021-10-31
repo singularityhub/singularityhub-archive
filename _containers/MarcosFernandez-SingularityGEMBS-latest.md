@@ -9,7 +9,7 @@ build_date: "2018-03-14T08:39:58.751Z"
 size_mb: 2061
 size: 1148338207
 sif: "https://datasets.datalad.org/shub/MarcosFernandez/SingularityGEMBS/latest/2018-03-14-c31e99d4-85ecb387/85ecb3875e19a704ca23fe86ae1dc878.simg"
-url: https://datasets.datalad.org/shub/MarcosFernandez/SingularityGEMBS/latest/2018-03-14-c31e99d4-85ecb387/
+datalad_url: https://datasets.datalad.org?dir=/shub/MarcosFernandez/SingularityGEMBS/latest/2018-03-14-c31e99d4-85ecb387/
 recipe: https://datasets.datalad.org/shub/MarcosFernandez/SingularityGEMBS/latest/2018-03-14-c31e99d4-85ecb387/Singularity
 collection: MarcosFernandez/SingularityGEMBS
 ---

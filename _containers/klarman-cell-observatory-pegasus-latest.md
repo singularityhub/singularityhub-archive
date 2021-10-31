@@ -9,7 +9,7 @@ build_date: "2021-03-10T16:13:58.303Z"
 size_mb: 2424.0703125
 size: 2541821952
 sif: "https://datasets.datalad.org/shub/klarman-cell-observatory/pegasus/latest/2021-03-10-ca5ef209-d4aa0917/d4aa0917f81ebed851a1250a56534232016596fc2f35467b2885a39a46ef7d40.sif"
-url: https://datasets.datalad.org/shub/klarman-cell-observatory/pegasus/latest/2021-03-10-ca5ef209-d4aa0917/
+datalad_url: https://datasets.datalad.org?dir=/shub/klarman-cell-observatory/pegasus/latest/2021-03-10-ca5ef209-d4aa0917/
 recipe: https://datasets.datalad.org/shub/klarman-cell-observatory/pegasus/latest/2021-03-10-ca5ef209-d4aa0917/Singularity
 collection: klarman-cell-observatory/pegasus
 ---

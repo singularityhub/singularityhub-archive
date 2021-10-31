@@ -9,7 +9,7 @@ build_date: "2021-03-03T11:41:10.994Z"
 size_mb: 489
 size: 201273375
 sif: "https://datasets.datalad.org/shub/ResearchIT/spack-singularity/spack/2021-03-03-1ec19eec-0a6cb0d7/0a6cb0d7ff00f05dc956f6e289a3c7d8.simg"
-url: https://datasets.datalad.org/shub/ResearchIT/spack-singularity/spack/2021-03-03-1ec19eec-0a6cb0d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchIT/spack-singularity/spack/2021-03-03-1ec19eec-0a6cb0d7/
 recipe: https://datasets.datalad.org/shub/ResearchIT/spack-singularity/spack/2021-03-03-1ec19eec-0a6cb0d7/Singularity
 collection: ResearchIT/spack-singularity
 ---

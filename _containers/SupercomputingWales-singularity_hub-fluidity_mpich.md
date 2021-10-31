@@ -9,7 +9,7 @@ build_date: "2020-06-12T22:01:17.250Z"
 size_mb: 1991
 size: 739954719
 sif: "https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/fluidity_mpich/2020-06-12-fb4b14f3-f5820527/f58205271e27b7e7a232934f4d578249.simg"
-url: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/fluidity_mpich/2020-06-12-fb4b14f3-f5820527/
+datalad_url: https://datasets.datalad.org?dir=/shub/SupercomputingWales/singularity_hub/fluidity_mpich/2020-06-12-fb4b14f3-f5820527/
 recipe: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/fluidity_mpich/2020-06-12-fb4b14f3-f5820527/Singularity
 collection: SupercomputingWales/singularity_hub
 ---

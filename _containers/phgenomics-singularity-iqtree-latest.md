@@ -9,7 +9,7 @@ build_date: "2020-03-02T23:51:46.044Z"
 size_mb: 788.0
 size: 260861983
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/iqtree/latest/2020-03-02-2cefa5c1-0effd285/0effd285efb20bc8f1ddc3db5346ad2f.sif"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/iqtree/latest/2020-03-02-2cefa5c1-0effd285/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/iqtree/latest/2020-03-02-2cefa5c1-0effd285/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/iqtree/latest/2020-03-02-2cefa5c1-0effd285/Singularity
 collection: phgenomics-singularity/iqtree
 ---

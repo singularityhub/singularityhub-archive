@@ -9,7 +9,7 @@ build_date: "2018-09-19T22:54:39.055Z"
 size_mb: 4913
 size: 1849155615
 sif: "https://datasets.datalad.org/shub/biotext/Singularity-cpu/latest/2018-09-19-5b8ca6f5-c463d194/c463d1943144739545cacc667d80cb25.simg"
-url: https://datasets.datalad.org/shub/biotext/Singularity-cpu/latest/2018-09-19-5b8ca6f5-c463d194/
+datalad_url: https://datasets.datalad.org?dir=/shub/biotext/Singularity-cpu/latest/2018-09-19-5b8ca6f5-c463d194/
 recipe: https://datasets.datalad.org/shub/biotext/Singularity-cpu/latest/2018-09-19-5b8ca6f5-c463d194/Singularity
 collection: biotext/Singularity-cpu
 ---

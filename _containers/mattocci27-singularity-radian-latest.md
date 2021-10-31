@@ -9,7 +9,7 @@ build_date: "2020-07-07T03:51:23.642Z"
 size_mb: 284.69921875
 size: 298528768
 sif: "https://datasets.datalad.org/shub/mattocci27/singularity-radian/latest/2020-07-07-0e6113f9-f1dc0e79/f1dc0e796665f344950e106107257fc2c05f6a3366f0843eabc26713505d0048.sif"
-url: https://datasets.datalad.org/shub/mattocci27/singularity-radian/latest/2020-07-07-0e6113f9-f1dc0e79/
+datalad_url: https://datasets.datalad.org?dir=/shub/mattocci27/singularity-radian/latest/2020-07-07-0e6113f9-f1dc0e79/
 recipe: https://datasets.datalad.org/shub/mattocci27/singularity-radian/latest/2020-07-07-0e6113f9-f1dc0e79/Singularity
 collection: mattocci27/singularity-radian
 ---

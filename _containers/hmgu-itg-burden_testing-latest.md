@@ -9,7 +9,7 @@ build_date: "2021-02-25T11:08:01.782Z"
 size_mb: 1491.0
 size: 607711263
 sif: "https://datasets.datalad.org/shub/hmgu-itg/burden_testing/latest/2021-02-25-492dc4f2-c91452df/c91452dfdfc45f0320518127ab4d5736.sif"
-url: https://datasets.datalad.org/shub/hmgu-itg/burden_testing/latest/2021-02-25-492dc4f2-c91452df/
+datalad_url: https://datasets.datalad.org?dir=/shub/hmgu-itg/burden_testing/latest/2021-02-25-492dc4f2-c91452df/
 recipe: https://datasets.datalad.org/shub/hmgu-itg/burden_testing/latest/2021-02-25-492dc4f2-c91452df/Singularity
 collection: hmgu-itg/burden_testing
 ---

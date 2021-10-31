@@ -9,7 +9,7 @@ build_date: "2021-01-13T16:06:38.365Z"
 size_mb: 7568.0
 size: 3089068063
 sif: "https://datasets.datalad.org/shub/mticlla/OmicSingularities/meta16s/2021-01-13-591b6c06-9ca1d7c0/9ca1d7c0f6e361551332cb1b7474d088.sif"
-url: https://datasets.datalad.org/shub/mticlla/OmicSingularities/meta16s/2021-01-13-591b6c06-9ca1d7c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/mticlla/OmicSingularities/meta16s/2021-01-13-591b6c06-9ca1d7c0/
 recipe: https://datasets.datalad.org/shub/mticlla/OmicSingularities/meta16s/2021-01-13-591b6c06-9ca1d7c0/Singularity
 collection: mticlla/OmicSingularities
 ---

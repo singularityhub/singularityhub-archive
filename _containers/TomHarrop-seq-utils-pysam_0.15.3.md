@@ -9,7 +9,7 @@ build_date: "2019-12-16T20:45:47.875Z"
 size_mb: 352.53125
 size: 369655808
 sif: "https://datasets.datalad.org/shub/TomHarrop/seq-utils/pysam_0.15.3/2019-12-16-eb6e9de5-973c3acc/973c3acc1e56e609ac9b594151ddff1a3591b8794a1382221bc835289e66242f.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/seq-utils/pysam_0.15.3/2019-12-16-eb6e9de5-973c3acc/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/seq-utils/pysam_0.15.3/2019-12-16-eb6e9de5-973c3acc/
 recipe: https://datasets.datalad.org/shub/TomHarrop/seq-utils/pysam_0.15.3/2019-12-16-eb6e9de5-973c3acc/Singularity
 collection: TomHarrop/seq-utils
 ---

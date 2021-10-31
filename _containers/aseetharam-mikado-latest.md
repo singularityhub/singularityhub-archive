@@ -9,7 +9,7 @@ build_date: "2020-10-25T10:03:18.619Z"
 size_mb: 1323.0
 size: 396939295
 sif: "https://datasets.datalad.org/shub/aseetharam/mikado/latest/2020-10-25-afeb6f10-e967ae3b/e967ae3bfaf0ad6e57998063e13f303d.sif"
-url: https://datasets.datalad.org/shub/aseetharam/mikado/latest/2020-10-25-afeb6f10-e967ae3b/
+datalad_url: https://datasets.datalad.org?dir=/shub/aseetharam/mikado/latest/2020-10-25-afeb6f10-e967ae3b/
 recipe: https://datasets.datalad.org/shub/aseetharam/mikado/latest/2020-10-25-afeb6f10-e967ae3b/Singularity
 collection: aseetharam/mikado
 ---

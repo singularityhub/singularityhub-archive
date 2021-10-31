@@ -9,7 +9,7 @@ build_date: "2018-06-28T16:08:29.860Z"
 size_mb: 369
 size: 143953951
 sif: "https://datasets.datalad.org/shub/d-w-moore/singularity-python-irodsclient/prc-0_8_0/2018-06-28-b016de54-a533e553/a533e553ce517c377a609ff9676862cf.simg"
-url: https://datasets.datalad.org/shub/d-w-moore/singularity-python-irodsclient/prc-0_8_0/2018-06-28-b016de54-a533e553/
+datalad_url: https://datasets.datalad.org?dir=/shub/d-w-moore/singularity-python-irodsclient/prc-0_8_0/2018-06-28-b016de54-a533e553/
 recipe: https://datasets.datalad.org/shub/d-w-moore/singularity-python-irodsclient/prc-0_8_0/2018-06-28-b016de54-a533e553/Singularity
 collection: d-w-moore/singularity-python-irodsclient
 ---

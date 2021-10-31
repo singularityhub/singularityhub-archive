@@ -9,7 +9,7 @@ build_date: "2021-03-27T08:06:46.922Z"
 size_mb: 205
 size: 81621023
 sif: "https://datasets.datalad.org/shub/achiam21/lolcow/latest/2021-03-27-a59d8de3-de708bca/de708bcac9886eec381735167b2b9a20.simg"
-url: https://datasets.datalad.org/shub/achiam21/lolcow/latest/2021-03-27-a59d8de3-de708bca/
+datalad_url: https://datasets.datalad.org?dir=/shub/achiam21/lolcow/latest/2021-03-27-a59d8de3-de708bca/
 recipe: https://datasets.datalad.org/shub/achiam21/lolcow/latest/2021-03-27-a59d8de3-de708bca/Singularity
 collection: achiam21/lolcow
 ---

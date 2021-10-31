@@ -9,7 +9,7 @@ build_date: "2017-11-16T10:30:36.862Z"
 size_mb: 3681
 size: 959365151
 sif: "https://datasets.datalad.org/shub/openhpc/ohpc/1.3.3.el7/2017-11-16-3b54145b-e65307d6/e65307d67e368c00c6e3867f163d7314.simg"
-url: https://datasets.datalad.org/shub/openhpc/ohpc/1.3.3.el7/2017-11-16-3b54145b-e65307d6/
+datalad_url: https://datasets.datalad.org?dir=/shub/openhpc/ohpc/1.3.3.el7/2017-11-16-3b54145b-e65307d6/
 recipe: https://datasets.datalad.org/shub/openhpc/ohpc/1.3.3.el7/2017-11-16-3b54145b-e65307d6/Singularity
 collection: openhpc/ohpc
 ---

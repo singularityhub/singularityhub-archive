@@ -9,7 +9,7 @@ build_date: "2019-11-18T15:29:42.722Z"
 size_mb: 4671.0
 size: 2535964703
 sif: "https://datasets.datalad.org/shub/drewpolasky/vapor_aci/rec/2019-11-18-fabb4155-00a93377/00a93377d31002eff55cc55f87551bb2.sif"
-url: https://datasets.datalad.org/shub/drewpolasky/vapor_aci/rec/2019-11-18-fabb4155-00a93377/
+datalad_url: https://datasets.datalad.org?dir=/shub/drewpolasky/vapor_aci/rec/2019-11-18-fabb4155-00a93377/
 recipe: https://datasets.datalad.org/shub/drewpolasky/vapor_aci/rec/2019-11-18-fabb4155-00a93377/Singularity
 collection: drewpolasky/vapor_aci
 ---

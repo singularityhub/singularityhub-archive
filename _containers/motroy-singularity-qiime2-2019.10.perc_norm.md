@@ -9,7 +9,7 @@ build_date: "2020-02-13T10:18:36.882Z"
 size_mb: 5111.0
 size: 2389078047
 sif: "https://datasets.datalad.org/shub/motroy/singularity-qiime2/2019.10.perc_norm/2020-02-13-4d0e5d21-e0b1bbdd/e0b1bbdd5542ce57a4571b661027641e.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-qiime2/2019.10.perc_norm/2020-02-13-4d0e5d21-e0b1bbdd/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-qiime2/2019.10.perc_norm/2020-02-13-4d0e5d21-e0b1bbdd/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-qiime2/2019.10.perc_norm/2020-02-13-4d0e5d21-e0b1bbdd/Singularity
 collection: motroy/singularity-qiime2
 ---

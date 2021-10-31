@@ -9,7 +9,7 @@ build_date: "2020-01-06T22:06:14.715Z"
 size_mb: 2586
 size: 969924639
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/purge_haplotigs_20181203/2020-01-06-a71c1166-02c2d344/02c2d344b2d1f5938b4dd9b38922a4bb.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/purge_haplotigs_20181203/2020-01-06-a71c1166-02c2d344/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/purge_haplotigs_20181203/2020-01-06-a71c1166-02c2d344/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/purge_haplotigs_20181203/2020-01-06-a71c1166-02c2d344/Singularity
 collection: TomHarrop/singularity-containers
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-14T15:44:01.582Z"
 size_mb: 3126
 size: 1154015263
 sif: "https://datasets.datalad.org/shub/sbilge/ClinVAP/report/2019-03-14-490dbe8a-dfaa1204/dfaa12040130992aa7e5399213c6b9a5.simg"
-url: https://datasets.datalad.org/shub/sbilge/ClinVAP/report/2019-03-14-490dbe8a-dfaa1204/
+datalad_url: https://datasets.datalad.org?dir=/shub/sbilge/ClinVAP/report/2019-03-14-490dbe8a-dfaa1204/
 recipe: https://datasets.datalad.org/shub/sbilge/ClinVAP/report/2019-03-14-490dbe8a-dfaa1204/Singularity
 collection: sbilge/ClinicalReportingPipeline
 ---

@@ -9,7 +9,7 @@ build_date: "2018-11-16T10:50:05.360Z"
 size_mb: 629
 size: 217899039
 sif: "https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/blast-legacy/2018-11-16-ab664c07-8fdca7aa/8fdca7aa1d4ac6c2017c5e1b22092aa7.simg"
-url: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/blast-legacy/2018-11-16-ab664c07-8fdca7aa/
+datalad_url: https://datasets.datalad.org?dir=/shub/CompBio-TDU-Japan/containers/blast-legacy/2018-11-16-ab664c07-8fdca7aa/
 recipe: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/blast-legacy/2018-11-16-ab664c07-8fdca7aa/Singularity
 collection: CompBio-TDU-Japan/containers
 ---

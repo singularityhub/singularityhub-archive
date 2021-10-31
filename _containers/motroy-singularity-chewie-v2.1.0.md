@@ -9,7 +9,7 @@ build_date: "2021-01-07T11:51:59.572Z"
 size_mb: 1633.0
 size: 527790111
 sif: "https://datasets.datalad.org/shub/motroy/singularity-chewie/v2.1.0/2021-01-07-560eafa5-d336369e/d336369ebd919ff3103b4146f8aedc17.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-chewie/v2.1.0/2021-01-07-560eafa5-d336369e/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-chewie/v2.1.0/2021-01-07-560eafa5-d336369e/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-chewie/v2.1.0/2021-01-07-560eafa5-d336369e/Singularity
 collection: motroy/singularity-chewie
 ---

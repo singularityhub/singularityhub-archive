@@ -9,7 +9,7 @@ build_date: "2020-04-23T13:19:39.910Z"
 size_mb: 420
 size: 147406879
 sif: "https://datasets.datalad.org/shub/xrobin/singularity-dropbox/latest/2020-04-23-756cb325-e2ace61c/e2ace61ce4ed05b839bd8976026c0d56.simg"
-url: https://datasets.datalad.org/shub/xrobin/singularity-dropbox/latest/2020-04-23-756cb325-e2ace61c/
+datalad_url: https://datasets.datalad.org?dir=/shub/xrobin/singularity-dropbox/latest/2020-04-23-756cb325-e2ace61c/
 recipe: https://datasets.datalad.org/shub/xrobin/singularity-dropbox/latest/2020-04-23-756cb325-e2ace61c/Singularity
 collection: xrobin/singularity-dropbox
 ---

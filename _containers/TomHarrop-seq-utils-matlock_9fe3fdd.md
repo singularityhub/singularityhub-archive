@@ -9,7 +9,7 @@ build_date: "2020-03-02T01:17:11.401Z"
 size_mb: 164.1484375
 size: 172122112
 sif: "https://datasets.datalad.org/shub/TomHarrop/seq-utils/matlock_9fe3fdd/2020-03-02-96b30d44-ccafc433/ccafc433a4538f37686c2d454f5813aa42c49e7fd89176226ed5fa302a0fe560.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/seq-utils/matlock_9fe3fdd/2020-03-02-96b30d44-ccafc433/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/seq-utils/matlock_9fe3fdd/2020-03-02-96b30d44-ccafc433/
 recipe: https://datasets.datalad.org/shub/TomHarrop/seq-utils/matlock_9fe3fdd/2020-03-02-96b30d44-ccafc433/Singularity
 collection: TomHarrop/seq-utils
 ---

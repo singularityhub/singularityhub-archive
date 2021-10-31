@@ -9,7 +9,7 @@ build_date: "2020-06-07T17:31:54.183Z"
 size_mb: 7594.0
 size: 5123178527
 sif: "https://datasets.datalad.org/shub/tperezdevelopment/singularity_biomarkers/latest/2020-06-07-62cad35b-02348ebd/02348ebd33a163ff3f774aa1e6d5cf35.sif"
-url: https://datasets.datalad.org/shub/tperezdevelopment/singularity_biomarkers/latest/2020-06-07-62cad35b-02348ebd/
+datalad_url: https://datasets.datalad.org?dir=/shub/tperezdevelopment/singularity_biomarkers/latest/2020-06-07-62cad35b-02348ebd/
 recipe: https://datasets.datalad.org/shub/tperezdevelopment/singularity_biomarkers/latest/2020-06-07-62cad35b-02348ebd/Singularity
 collection: tperezdevelopment/singularity_biomarkers
 ---

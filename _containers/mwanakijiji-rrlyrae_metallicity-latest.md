@@ -9,7 +9,7 @@ build_date: "2019-03-11T02:27:57.766Z"
 size_mb: 76
 size: 27959327
 sif: "https://datasets.datalad.org/shub/mwanakijiji/rrlyrae_metallicity/latest/2019-03-11-1d3e9395-7765b9a0/7765b9a06cd31ee5f286f5447f2f2956.simg"
-url: https://datasets.datalad.org/shub/mwanakijiji/rrlyrae_metallicity/latest/2019-03-11-1d3e9395-7765b9a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/mwanakijiji/rrlyrae_metallicity/latest/2019-03-11-1d3e9395-7765b9a0/
 recipe: https://datasets.datalad.org/shub/mwanakijiji/rrlyrae_metallicity/latest/2019-03-11-1d3e9395-7765b9a0/Singularity
 collection: mwanakijiji/rrlyrae_metallicity
 ---

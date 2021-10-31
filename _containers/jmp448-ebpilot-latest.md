@@ -9,7 +9,7 @@ build_date: "2020-06-23T17:12:08.222Z"
 size_mb: 1750.0
 size: 753381407
 sif: "https://datasets.datalad.org/shub/jmp448/ebpilot/latest/2020-06-23-1c1a9ed8-89a1f2e0/89a1f2e0262cc83756e845286ba9f1f1.sif"
-url: https://datasets.datalad.org/shub/jmp448/ebpilot/latest/2020-06-23-1c1a9ed8-89a1f2e0/
+datalad_url: https://datasets.datalad.org?dir=/shub/jmp448/ebpilot/latest/2020-06-23-1c1a9ed8-89a1f2e0/
 recipe: https://datasets.datalad.org/shub/jmp448/ebpilot/latest/2020-06-23-1c1a9ed8-89a1f2e0/Singularity
 collection: jmp448/ebpilot
 ---

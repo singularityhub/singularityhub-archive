@@ -9,7 +9,7 @@ build_date: "2021-03-25T22:56:10.583Z"
 size_mb: 3951.0
 size: 1411588127
 sif: "https://datasets.datalad.org/shub/togop/singularity_recipes/scrnaseq/2021-03-25-0801cd90-aff3c73f/aff3c73ff5d785f99be26929db226053.sif"
-url: https://datasets.datalad.org/shub/togop/singularity_recipes/scrnaseq/2021-03-25-0801cd90-aff3c73f/
+datalad_url: https://datasets.datalad.org?dir=/shub/togop/singularity_recipes/scrnaseq/2021-03-25-0801cd90-aff3c73f/
 recipe: https://datasets.datalad.org/shub/togop/singularity_recipes/scrnaseq/2021-03-25-0801cd90-aff3c73f/Singularity
 collection: togop/singularity_recipes
 ---

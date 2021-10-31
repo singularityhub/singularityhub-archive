@@ -9,7 +9,7 @@ build_date: "2017-11-22T15:36:09.748Z"
 size_mb: 2843
 size: 1418207263
 sif: "https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/keras/2017-11-22-2ccdc4a3-0c8c1e1e/0c8c1e1ebb18227cb6a6eb1ea8a79984.simg"
-url: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/keras/2017-11-22-2ccdc4a3-0c8c1e1e/
+datalad_url: https://datasets.datalad.org?dir=/shub/NIH-HPC/singularity-examples/keras/2017-11-22-2ccdc4a3-0c8c1e1e/
 recipe: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/keras/2017-11-22-2ccdc4a3-0c8c1e1e/Singularity
 collection: NIH-HPC/singularity-examples
 ---

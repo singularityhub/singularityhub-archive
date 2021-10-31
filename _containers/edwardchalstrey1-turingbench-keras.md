@@ -9,7 +9,7 @@ build_date: "2019-05-23T03:52:52.805Z"
 size_mb: 3094
 size: 1595330591
 sif: "https://datasets.datalad.org/shub/edwardchalstrey1/turingbench/keras/2019-05-23-fc40b8ed-5ba1b315/5ba1b3153a830c54282bb65c31f88dff.simg"
-url: https://datasets.datalad.org/shub/edwardchalstrey1/turingbench/keras/2019-05-23-fc40b8ed-5ba1b315/
+datalad_url: https://datasets.datalad.org?dir=/shub/edwardchalstrey1/turingbench/keras/2019-05-23-fc40b8ed-5ba1b315/
 recipe: https://datasets.datalad.org/shub/edwardchalstrey1/turingbench/keras/2019-05-23-fc40b8ed-5ba1b315/Singularity
 collection: edwardchalstrey1/turingbench
 ---

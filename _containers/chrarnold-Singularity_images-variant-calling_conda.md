@@ -9,7 +9,7 @@ build_date: "2019-03-05T12:44:55.496Z"
 size_mb: 3122
 size: 1552502815
 sif: "https://datasets.datalad.org/shub/chrarnold/Singularity_images/variant-calling_conda/2019-03-05-5ca192fd-ac3bccee/ac3bccee30ee3db3e0c327b08ea778b6.simg"
-url: https://datasets.datalad.org/shub/chrarnold/Singularity_images/variant-calling_conda/2019-03-05-5ca192fd-ac3bccee/
+datalad_url: https://datasets.datalad.org?dir=/shub/chrarnold/Singularity_images/variant-calling_conda/2019-03-05-5ca192fd-ac3bccee/
 recipe: https://datasets.datalad.org/shub/chrarnold/Singularity_images/variant-calling_conda/2019-03-05-5ca192fd-ac3bccee/Singularity
 collection: chrarnold/Singularity_images
 ---

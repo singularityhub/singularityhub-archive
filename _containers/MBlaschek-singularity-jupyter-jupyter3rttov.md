@@ -9,7 +9,7 @@ build_date: "2020-12-25T17:15:34.610Z"
 size_mb: 1429.91015625
 size: 1499369472
 sif: "https://datasets.datalad.org/shub/MBlaschek/singularity-jupyter/jupyter3rttov/2020-12-25-6c67323a-c6d548fd/c6d548fd33281990c251bb917d52d7c70a4d5dcc5d7848b401a27cc6137f319c.sif"
-url: https://datasets.datalad.org/shub/MBlaschek/singularity-jupyter/jupyter3rttov/2020-12-25-6c67323a-c6d548fd/
+datalad_url: https://datasets.datalad.org?dir=/shub/MBlaschek/singularity-jupyter/jupyter3rttov/2020-12-25-6c67323a-c6d548fd/
 recipe: https://datasets.datalad.org/shub/MBlaschek/singularity-jupyter/jupyter3rttov/2020-12-25-6c67323a-c6d548fd/Singularity
 collection: MBlaschek/singularity-jupyter
 ---

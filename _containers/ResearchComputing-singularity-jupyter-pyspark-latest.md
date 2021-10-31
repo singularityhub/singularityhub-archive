@@ -9,7 +9,7 @@ build_date: "2020-05-22T10:18:37.349Z"
 size_mb: 2207
 size: 1195200543
 sif: "https://datasets.datalad.org/shub/ResearchComputing/singularity-jupyter-pyspark/latest/2020-05-22-395caae3-daea24d6/daea24d6b714a25e3a5cd69b3e89764b.simg"
-url: https://datasets.datalad.org/shub/ResearchComputing/singularity-jupyter-pyspark/latest/2020-05-22-395caae3-daea24d6/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchComputing/singularity-jupyter-pyspark/latest/2020-05-22-395caae3-daea24d6/
 recipe: https://datasets.datalad.org/shub/ResearchComputing/singularity-jupyter-pyspark/latest/2020-05-22-395caae3-daea24d6/Singularity
 collection: ResearchComputing/singularity-jupyter-pyspark
 ---

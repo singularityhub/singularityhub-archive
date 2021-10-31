@@ -9,7 +9,7 @@ build_date: "2018-07-23T19:59:43.834Z"
 size_mb: 12072
 size: 5204885535
 sif: "https://datasets.datalad.org/shub/tjhendrickson/simnibs/latest/2018-07-23-35e71b8c-1130178c/1130178c33df7d0928a288af629ed327.simg"
-url: https://datasets.datalad.org/shub/tjhendrickson/simnibs/latest/2018-07-23-35e71b8c-1130178c/
+datalad_url: https://datasets.datalad.org?dir=/shub/tjhendrickson/simnibs/latest/2018-07-23-35e71b8c-1130178c/
 recipe: https://datasets.datalad.org/shub/tjhendrickson/simnibs/latest/2018-07-23-35e71b8c-1130178c/Singularity
 collection: tjhendrickson/simnibs
 ---

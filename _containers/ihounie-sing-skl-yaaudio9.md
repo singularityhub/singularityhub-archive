@@ -9,7 +9,7 @@ build_date: "2020-07-11T07:54:28.992Z"
 size_mb: 8712.0
 size: 4002365471
 sif: "https://datasets.datalad.org/shub/ihounie/sing-skl/yaaudio9/2020-07-11-6a7c86d8-650788e5/650788e53061d5b3d2e2e53ee820fb51.sif"
-url: https://datasets.datalad.org/shub/ihounie/sing-skl/yaaudio9/2020-07-11-6a7c86d8-650788e5/
+datalad_url: https://datasets.datalad.org?dir=/shub/ihounie/sing-skl/yaaudio9/2020-07-11-6a7c86d8-650788e5/
 recipe: https://datasets.datalad.org/shub/ihounie/sing-skl/yaaudio9/2020-07-11-6a7c86d8-650788e5/Singularity
 collection: ihounie/sing-skl
 ---

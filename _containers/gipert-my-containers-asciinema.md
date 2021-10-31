@@ -9,7 +9,7 @@ build_date: "2019-04-05T20:03:00.552Z"
 size_mb: 217
 size: 89382943
 sif: "https://datasets.datalad.org/shub/gipert/my-containers/asciinema/2019-04-05-cb7d5abe-52f4e2d9/52f4e2d9748ae555b833e5be51196ff9.simg"
-url: https://datasets.datalad.org/shub/gipert/my-containers/asciinema/2019-04-05-cb7d5abe-52f4e2d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/gipert/my-containers/asciinema/2019-04-05-cb7d5abe-52f4e2d9/
 recipe: https://datasets.datalad.org/shub/gipert/my-containers/asciinema/2019-04-05-cb7d5abe-52f4e2d9/Singularity
 collection: gipert/my-containers
 ---

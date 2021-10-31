@@ -9,7 +9,7 @@ build_date: "2018-01-25T14:23:39.384Z"
 size_mb: 8053
 size: 4273877023
 sif: "https://datasets.datalad.org/shub/octomike/singularity-containers/openmx-4323/2018-01-25-50526368-25d01d1a/25d01d1a7257e8c1a3feb91b89854feb.simg"
-url: https://datasets.datalad.org/shub/octomike/singularity-containers/openmx-4323/2018-01-25-50526368-25d01d1a/
+datalad_url: https://datasets.datalad.org?dir=/shub/octomike/singularity-containers/openmx-4323/2018-01-25-50526368-25d01d1a/
 recipe: https://datasets.datalad.org/shub/octomike/singularity-containers/openmx-4323/2018-01-25-50526368-25d01d1a/Singularity
 collection: octomike/singularity-containers
 ---

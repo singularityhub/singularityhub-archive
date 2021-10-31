@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.151Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/sudeepsahadevan/singulartiy_training/fun/2019-02-27-55f5f766-79573b8c/79573b8c4ca18df93db3f7ca6cbca8e9.simg"
-url: https://datasets.datalad.org/shub/sudeepsahadevan/singulartiy_training/fun/2019-02-27-55f5f766-79573b8c/
+datalad_url: https://datasets.datalad.org?dir=/shub/sudeepsahadevan/singulartiy_training/fun/2019-02-27-55f5f766-79573b8c/
 recipe: https://datasets.datalad.org/shub/sudeepsahadevan/singulartiy_training/fun/2019-02-27-55f5f766-79573b8c/Singularity
 collection: sudeepsahadevan/singulartiy_training
 ---

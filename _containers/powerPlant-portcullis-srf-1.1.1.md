@@ -9,7 +9,7 @@ build_date: "2019-02-05T05:54:32.417Z"
 size_mb: 681
 size: 222298143
 sif: "https://datasets.datalad.org/shub/powerPlant/portcullis-srf/1.1.1/2019-02-05-6e990061-3b4f80dc/3b4f80dcdf7d8ceb0e76c79264a4d254.simg"
-url: https://datasets.datalad.org/shub/powerPlant/portcullis-srf/1.1.1/2019-02-05-6e990061-3b4f80dc/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/portcullis-srf/1.1.1/2019-02-05-6e990061-3b4f80dc/
 recipe: https://datasets.datalad.org/shub/powerPlant/portcullis-srf/1.1.1/2019-02-05-6e990061-3b4f80dc/Singularity
 collection: powerPlant/portcullis-srf
 ---

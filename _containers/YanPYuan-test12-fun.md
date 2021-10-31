@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.272Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/YanPYuan/test12/fun/2019-02-27-d65ce3f6-402d81f3/402d81f3006117170991c01fecb7ad47.simg"
-url: https://datasets.datalad.org/shub/YanPYuan/test12/fun/2019-02-27-d65ce3f6-402d81f3/
+datalad_url: https://datasets.datalad.org?dir=/shub/YanPYuan/test12/fun/2019-02-27-d65ce3f6-402d81f3/
 recipe: https://datasets.datalad.org/shub/YanPYuan/test12/fun/2019-02-27-d65ce3f6-402d81f3/Singularity
 collection: YanPYuan/test12
 ---

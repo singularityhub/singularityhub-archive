@@ -9,7 +9,7 @@ build_date: "2018-02-15T11:57:05.783Z"
 size_mb: 717
 size: 225517599
 sif: "https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/m4-1.4.18/2018-02-15-10142708-f07c3c28/f07c3c289a53bc36dd1b6903fe589724.simg"
-url: https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/m4-1.4.18/2018-02-15-10142708-f07c3c28/
+datalad_url: https://datasets.datalad.org?dir=/shub/shahzebsiddiqui/eb-singularity/m4-1.4.18/2018-02-15-10142708-f07c3c28/
 recipe: https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/m4-1.4.18/2018-02-15-10142708-f07c3c28/Singularity
 collection: shahzebsiddiqui/eb-singularity
 ---

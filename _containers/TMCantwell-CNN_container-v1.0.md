@@ -9,7 +9,7 @@ build_date: "2018-04-06T14:51:53.990Z"
 size_mb: 10644
 size: 6853599263
 sif: "https://datasets.datalad.org/shub/TMCantwell/CNN_container/v1.0/2018-04-06-a25c8e79-fcb1ba6b/fcb1ba6ba309febf2780b11f536b3de7.simg"
-url: https://datasets.datalad.org/shub/TMCantwell/CNN_container/v1.0/2018-04-06-a25c8e79-fcb1ba6b/
+datalad_url: https://datasets.datalad.org?dir=/shub/TMCantwell/CNN_container/v1.0/2018-04-06-a25c8e79-fcb1ba6b/
 recipe: https://datasets.datalad.org/shub/TMCantwell/CNN_container/v1.0/2018-04-06-a25c8e79-fcb1ba6b/Singularity
 collection: TMCantwell/CNN_container
 ---

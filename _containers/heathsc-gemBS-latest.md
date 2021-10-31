@@ -9,7 +9,7 @@ build_date: "2021-04-08T12:00:32.115Z"
 size_mb: 679.0
 size: 293077023
 sif: "https://datasets.datalad.org/shub/heathsc/gemBS/latest/2021-04-08-522d41a6-c9fa382b/c9fa382bf2a7a5489b7bd459a0aa5124.sif"
-url: https://datasets.datalad.org/shub/heathsc/gemBS/latest/2021-04-08-522d41a6-c9fa382b/
+datalad_url: https://datasets.datalad.org?dir=/shub/heathsc/gemBS/latest/2021-04-08-522d41a6-c9fa382b/
 recipe: https://datasets.datalad.org/shub/heathsc/gemBS/latest/2021-04-08-522d41a6-c9fa382b/Singularity
 collection: heathsc/gemBS
 ---

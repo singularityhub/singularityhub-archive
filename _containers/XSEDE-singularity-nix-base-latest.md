@@ -9,7 +9,7 @@ build_date: "2020-06-18T16:32:24.797Z"
 size_mb: 191.453125
 size: 200753152
 sif: "https://datasets.datalad.org/shub/XSEDE/singularity-nix-base/latest/2020-06-18-5e00031e-3fbb4976/3fbb49762dc64ab98a55307deebe0671ad587a376153e6b817f6fc1fb64d634a.sif"
-url: https://datasets.datalad.org/shub/XSEDE/singularity-nix-base/latest/2020-06-18-5e00031e-3fbb4976/
+datalad_url: https://datasets.datalad.org?dir=/shub/XSEDE/singularity-nix-base/latest/2020-06-18-5e00031e-3fbb4976/
 recipe: https://datasets.datalad.org/shub/XSEDE/singularity-nix-base/latest/2020-06-18-5e00031e-3fbb4976/Singularity
 collection: XSEDE/singularity-nix-base
 ---

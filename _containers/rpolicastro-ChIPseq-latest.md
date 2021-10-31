@@ -9,7 +9,7 @@ build_date: "2019-11-16T20:17:05.827Z"
 size_mb: 3584
 size: 1312874527
 sif: "https://datasets.datalad.org/shub/rpolicastro/ChIPseq/latest/2019-11-16-86e52075-5be1b8e5/5be1b8e5e21b7db569407b1822d3f83c.simg"
-url: https://datasets.datalad.org/shub/rpolicastro/ChIPseq/latest/2019-11-16-86e52075-5be1b8e5/
+datalad_url: https://datasets.datalad.org?dir=/shub/rpolicastro/ChIPseq/latest/2019-11-16-86e52075-5be1b8e5/
 recipe: https://datasets.datalad.org/shub/rpolicastro/ChIPseq/latest/2019-11-16-86e52075-5be1b8e5/Singularity
 collection: rpolicastro/ChIPseq
 ---

@@ -9,7 +9,7 @@ build_date: "2019-09-12T14:34:07.472Z"
 size_mb: 3705.0
 size: 1780572191
 sif: "https://datasets.datalad.org/shub/munkarkin96/SingularityRepo/latest/2019-09-12-754d4ac6-31277f19/31277f1941913c409bd7d09e20168931.sif"
-url: https://datasets.datalad.org/shub/munkarkin96/SingularityRepo/latest/2019-09-12-754d4ac6-31277f19/
+datalad_url: https://datasets.datalad.org?dir=/shub/munkarkin96/SingularityRepo/latest/2019-09-12-754d4ac6-31277f19/
 recipe: https://datasets.datalad.org/shub/munkarkin96/SingularityRepo/latest/2019-09-12-754d4ac6-31277f19/Singularity
 collection: munkarkin96/SingularityRepo
 ---

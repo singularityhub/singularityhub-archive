@@ -9,7 +9,7 @@ build_date: "2020-10-29T19:37:54.994Z"
 size_mb: 1383.0
 size: 554971167
 sif: "https://datasets.datalad.org/shub/pgpmartin/SingIMG/r36_nanobac/2020-10-29-3f9c2a0f-cb46fb28/cb46fb2822ce1ed72334dcdffb000b0d.sif"
-url: https://datasets.datalad.org/shub/pgpmartin/SingIMG/r36_nanobac/2020-10-29-3f9c2a0f-cb46fb28/
+datalad_url: https://datasets.datalad.org?dir=/shub/pgpmartin/SingIMG/r36_nanobac/2020-10-29-3f9c2a0f-cb46fb28/
 recipe: https://datasets.datalad.org/shub/pgpmartin/SingIMG/r36_nanobac/2020-10-29-3f9c2a0f-cb46fb28/Singularity
 collection: pgpmartin/SingIMG
 ---

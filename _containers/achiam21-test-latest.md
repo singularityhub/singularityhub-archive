@@ -9,7 +9,7 @@ build_date: "2019-03-16T19:00:01.529Z"
 size_mb: 205
 size: 81637407
 sif: "https://datasets.datalad.org/shub/achiam21/test/latest/2019-03-16-55dee316-0126a68d/0126a68d10883dde9717aa794f2aad56.simg"
-url: https://datasets.datalad.org/shub/achiam21/test/latest/2019-03-16-55dee316-0126a68d/
+datalad_url: https://datasets.datalad.org?dir=/shub/achiam21/test/latest/2019-03-16-55dee316-0126a68d/
 recipe: https://datasets.datalad.org/shub/achiam21/test/latest/2019-03-16-55dee316-0126a68d/Singularity
 collection: achiam21/test
 ---

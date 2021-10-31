@@ -9,7 +9,7 @@ build_date: "2019-08-15T12:03:49.189Z"
 size_mb: 1304.0
 size: 452710431
 sif: "https://datasets.datalad.org/shub/benatuts/aip-container/latest/2019-08-15-142c29da-8a6f771c/8a6f771c659bb180460a7c195969b5c7.sif"
-url: https://datasets.datalad.org/shub/benatuts/aip-container/latest/2019-08-15-142c29da-8a6f771c/
+datalad_url: https://datasets.datalad.org?dir=/shub/benatuts/aip-container/latest/2019-08-15-142c29da-8a6f771c/
 recipe: https://datasets.datalad.org/shub/benatuts/aip-container/latest/2019-08-15-142c29da-8a6f771c/Singularity
 collection: benatuts/aip-container
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-01T15:55:18.246Z"
 size_mb: 16468
 size: 7998976031
 sif: "https://datasets.datalad.org/shub/madduri/singularity-freesurfer-gpu/latest/2021-01-01-4f1c0ce1-efd97cdf/efd97cdfcdbfc8c2677de3122564dc7e.simg"
-url: https://datasets.datalad.org/shub/madduri/singularity-freesurfer-gpu/latest/2021-01-01-4f1c0ce1-efd97cdf/
+datalad_url: https://datasets.datalad.org?dir=/shub/madduri/singularity-freesurfer-gpu/latest/2021-01-01-4f1c0ce1-efd97cdf/
 recipe: https://datasets.datalad.org/shub/madduri/singularity-freesurfer-gpu/latest/2021-01-01-4f1c0ce1-efd97cdf/Singularity
 collection: madduri/singularity-freesurfer-gpu
 ---

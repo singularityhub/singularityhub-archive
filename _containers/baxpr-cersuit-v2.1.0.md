@@ -9,7 +9,7 @@ build_date: "2020-10-05T20:06:38.873Z"
 size_mb: 20767.0
 size: 9244467231
 sif: "https://datasets.datalad.org/shub/baxpr/cersuit/v2.1.0/2020-10-05-631d4e1e-d6ba0f48/d6ba0f489be7b2ddac606c857a701cd5.sif"
-url: https://datasets.datalad.org/shub/baxpr/cersuit/v2.1.0/2020-10-05-631d4e1e-d6ba0f48/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/cersuit/v2.1.0/2020-10-05-631d4e1e-d6ba0f48/
 recipe: https://datasets.datalad.org/shub/baxpr/cersuit/v2.1.0/2020-10-05-631d4e1e-d6ba0f48/Singularity
 collection: baxpr/cersuit
 ---

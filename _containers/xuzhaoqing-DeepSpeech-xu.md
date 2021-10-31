@@ -9,7 +9,7 @@ build_date: "2018-09-24T07:21:05.041Z"
 size_mb: 4175
 size: 2685673503
 sif: "https://datasets.datalad.org/shub/xuzhaoqing/DeepSpeech/xu/2018-09-24-b0a06b55-bb085ebf/bb085ebfe89971809bdb5846fd4f8686.simg"
-url: https://datasets.datalad.org/shub/xuzhaoqing/DeepSpeech/xu/2018-09-24-b0a06b55-bb085ebf/
+datalad_url: https://datasets.datalad.org?dir=/shub/xuzhaoqing/DeepSpeech/xu/2018-09-24-b0a06b55-bb085ebf/
 recipe: https://datasets.datalad.org/shub/xuzhaoqing/DeepSpeech/xu/2018-09-24-b0a06b55-bb085ebf/Singularity
 collection: xuzhaoqing/DeepSpeech
 ---

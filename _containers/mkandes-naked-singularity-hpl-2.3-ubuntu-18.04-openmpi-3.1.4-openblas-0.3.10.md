@@ -9,7 +9,7 @@ build_date: "2021-03-18T20:54:36.477Z"
 size_mb: 1309.0
 size: 390221855
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/hpl-2.3-ubuntu-18.04-openmpi-3.1.4-openblas-0.3.10/2021-03-18-c54cdf3e-d01ff8ff/d01ff8ff3f5db315e551194928755dc7.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/hpl-2.3-ubuntu-18.04-openmpi-3.1.4-openblas-0.3.10/2021-03-18-c54cdf3e-d01ff8ff/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/hpl-2.3-ubuntu-18.04-openmpi-3.1.4-openblas-0.3.10/2021-03-18-c54cdf3e-d01ff8ff/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/hpl-2.3-ubuntu-18.04-openmpi-3.1.4-openblas-0.3.10/2021-03-18-c54cdf3e-d01ff8ff/Singularity
 collection: mkandes/naked-singularity
 ---

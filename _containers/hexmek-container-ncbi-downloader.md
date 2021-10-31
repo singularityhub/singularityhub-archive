@@ -9,7 +9,7 @@ build_date: "2020-06-03T13:14:35.109Z"
 size_mb: 860.0
 size: 327680031
 sif: "https://datasets.datalad.org/shub/hexmek/container/ncbi-downloader/2020-06-03-d22488ae-71fec967/71fec96752925b72487f87ef1547e839.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/ncbi-downloader/2020-06-03-d22488ae-71fec967/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/ncbi-downloader/2020-06-03-d22488ae-71fec967/
 recipe: https://datasets.datalad.org/shub/hexmek/container/ncbi-downloader/2020-06-03-d22488ae-71fec967/Singularity
 collection: hexmek/container
 ---

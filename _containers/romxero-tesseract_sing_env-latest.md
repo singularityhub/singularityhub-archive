@@ -9,7 +9,7 @@ build_date: "2020-10-02T18:20:26.793Z"
 size_mb: 1131.0
 size: 431304735
 sif: "https://datasets.datalad.org/shub/romxero/tesseract_sing_env/latest/2020-10-02-4d82a977-d27549a0/d27549a0b27c43f9bf7244d9f105a829.sif"
-url: https://datasets.datalad.org/shub/romxero/tesseract_sing_env/latest/2020-10-02-4d82a977-d27549a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/tesseract_sing_env/latest/2020-10-02-4d82a977-d27549a0/
 recipe: https://datasets.datalad.org/shub/romxero/tesseract_sing_env/latest/2020-10-02-4d82a977-d27549a0/Singularity
 collection: romxero/tesseract_sing_env
 ---

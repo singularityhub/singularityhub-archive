@@ -9,7 +9,7 @@ build_date: "2019-01-14T23:12:35.723Z"
 size_mb: 14485
 size: 6600216607
 sif: "https://datasets.datalad.org/shub/feilong/neurodebian_singularity/beaver_2019-01-14/2019-01-14-e82b01d5-9a7b2270/9a7b227060cb09a8bdb6d022978dd929.simg"
-url: https://datasets.datalad.org/shub/feilong/neurodebian_singularity/beaver_2019-01-14/2019-01-14-e82b01d5-9a7b2270/
+datalad_url: https://datasets.datalad.org?dir=/shub/feilong/neurodebian_singularity/beaver_2019-01-14/2019-01-14-e82b01d5-9a7b2270/
 recipe: https://datasets.datalad.org/shub/feilong/neurodebian_singularity/beaver_2019-01-14/2019-01-14-e82b01d5-9a7b2270/Singularity
 collection: feilong/neurodebian_singularity
 ---

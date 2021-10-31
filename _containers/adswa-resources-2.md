@@ -9,7 +9,7 @@ build_date: "2021-04-15T13:39:00.915Z"
 size_mb: 704.0
 size: 230694943
 sif: "https://datasets.datalad.org/shub/adswa/resources/2/2021-04-15-62b4fff7-944b0300/944b0300fab145c7ebbd86078498b393.sif"
-url: https://datasets.datalad.org/shub/adswa/resources/2/2021-04-15-62b4fff7-944b0300/
+datalad_url: https://datasets.datalad.org?dir=/shub/adswa/resources/2/2021-04-15-62b4fff7-944b0300/
 recipe: https://datasets.datalad.org/shub/adswa/resources/2/2021-04-15-62b4fff7-944b0300/Singularity
 collection: adswa/resources
 ---

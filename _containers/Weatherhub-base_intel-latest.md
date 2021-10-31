@@ -9,7 +9,7 @@ build_date: "2018-08-10T20:17:51.481Z"
 size_mb: 4490
 size: 1524658207
 sif: "https://datasets.datalad.org/shub/Weatherhub/base_intel/latest/2018-08-10-e9d00ba5-89b0a757/89b0a757c6abef8753aa7901d8fa3520.simg"
-url: https://datasets.datalad.org/shub/Weatherhub/base_intel/latest/2018-08-10-e9d00ba5-89b0a757/
+datalad_url: https://datasets.datalad.org?dir=/shub/Weatherhub/base_intel/latest/2018-08-10-e9d00ba5-89b0a757/
 recipe: https://datasets.datalad.org/shub/Weatherhub/base_intel/latest/2018-08-10-e9d00ba5-89b0a757/Singularity
 collection: Weatherhub/base_intel
 ---

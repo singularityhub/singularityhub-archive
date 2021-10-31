@@ -9,7 +9,7 @@ build_date: "2020-10-06T22:03:54.379Z"
 size_mb: 3178.0
 size: 1017323551
 sif: "https://datasets.datalad.org/shub/alecchap/devenv/latest/2020-10-06-8edc31a2-59a39f66/59a39f66cfb3c5c86596dadc9b58e66e.sif"
-url: https://datasets.datalad.org/shub/alecchap/devenv/latest/2020-10-06-8edc31a2-59a39f66/
+datalad_url: https://datasets.datalad.org?dir=/shub/alecchap/devenv/latest/2020-10-06-8edc31a2-59a39f66/
 recipe: https://datasets.datalad.org/shub/alecchap/devenv/latest/2020-10-06-8edc31a2-59a39f66/Singularity
 collection: alecchap/devenv
 ---

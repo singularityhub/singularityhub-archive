@@ -9,7 +9,7 @@ build_date: "2020-08-07T09:32:17.539Z"
 size_mb: 154.0
 size: 76697631
 sif: "https://datasets.datalad.org/shub/stephansmit/license_containers/latest/2020-08-07-b2c2fd79-f965d9e6/f965d9e618527e45ad0501e86cecfbd0.sif"
-url: https://datasets.datalad.org/shub/stephansmit/license_containers/latest/2020-08-07-b2c2fd79-f965d9e6/
+datalad_url: https://datasets.datalad.org?dir=/shub/stephansmit/license_containers/latest/2020-08-07-b2c2fd79-f965d9e6/
 recipe: https://datasets.datalad.org/shub/stephansmit/license_containers/latest/2020-08-07-b2c2fd79-f965d9e6/Singularity
 collection: stephansmit/license_containers
 ---

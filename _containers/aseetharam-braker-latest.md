@@ -9,7 +9,7 @@ build_date: "2021-04-16T21:27:56.100Z"
 size_mb: 1075.0
 size: 294858783
 sif: "https://datasets.datalad.org/shub/aseetharam/braker/latest/2021-04-16-f97c6674-300ebf2e/300ebf2e0d568e0ffd74565977d6271b.sif"
-url: https://datasets.datalad.org/shub/aseetharam/braker/latest/2021-04-16-f97c6674-300ebf2e/
+datalad_url: https://datasets.datalad.org?dir=/shub/aseetharam/braker/latest/2021-04-16-f97c6674-300ebf2e/
 recipe: https://datasets.datalad.org/shub/aseetharam/braker/latest/2021-04-16-f97c6674-300ebf2e/Singularity
 collection: aseetharam/braker
 ---

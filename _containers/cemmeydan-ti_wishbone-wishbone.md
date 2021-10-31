@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.771Z"
 size_mb: 1458
 size: 561504287
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_wishbone/wishbone/2019-04-04-90fc57c3-f3bc014c/f3bc014c20584b43678a6964b4820966.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_wishbone/wishbone/2019-04-04-90fc57c3-f3bc014c/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_wishbone/wishbone/2019-04-04-90fc57c3-f3bc014c/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_wishbone/wishbone/2019-04-04-90fc57c3-f3bc014c/Singularity
 collection: cemmeydan/ti_wishbone
 ---

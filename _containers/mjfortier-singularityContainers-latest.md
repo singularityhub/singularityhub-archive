@@ -9,7 +9,7 @@ build_date: "2019-07-03T23:18:03.546Z"
 size_mb: 1706
 size: 501133343
 sif: "https://datasets.datalad.org/shub/mjfortier/singularityContainers/latest/2019-07-03-6388cbdf-fd95e92c/fd95e92cf1294f8f82db4fe7cdf11a0b.simg"
-url: https://datasets.datalad.org/shub/mjfortier/singularityContainers/latest/2019-07-03-6388cbdf-fd95e92c/
+datalad_url: https://datasets.datalad.org?dir=/shub/mjfortier/singularityContainers/latest/2019-07-03-6388cbdf-fd95e92c/
 recipe: https://datasets.datalad.org/shub/mjfortier/singularityContainers/latest/2019-07-03-6388cbdf-fd95e92c/Singularity
 collection: mjfortier/singularityContainers
 ---

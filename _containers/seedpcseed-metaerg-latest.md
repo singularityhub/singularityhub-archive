@@ -9,7 +9,7 @@ build_date: "2021-01-19T14:31:34.685Z"
 size_mb: 2312.0
 size: 791584799
 sif: "https://datasets.datalad.org/shub/seedpcseed/metaerg/latest/2021-01-19-b7275a68-21888627/218886271db1435c2f9fe6fe1a371bad.sif"
-url: https://datasets.datalad.org/shub/seedpcseed/metaerg/latest/2021-01-19-b7275a68-21888627/
+datalad_url: https://datasets.datalad.org?dir=/shub/seedpcseed/metaerg/latest/2021-01-19-b7275a68-21888627/
 recipe: https://datasets.datalad.org/shub/seedpcseed/metaerg/latest/2021-01-19-b7275a68-21888627/Singularity
 collection: seedpcseed/metaerg
 ---

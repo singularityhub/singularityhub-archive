@@ -9,7 +9,7 @@ build_date: "2018-02-05T16:13:05.809Z"
 size_mb: 6133
 size: 3054657567
 sif: "https://datasets.datalad.org/shub/markmenezes11/COMPM091/latest/2018-02-05-dcc81d2d-3c3ab038/3c3ab0387635c338c44b475de5ba07ef.simg"
-url: https://datasets.datalad.org/shub/markmenezes11/COMPM091/latest/2018-02-05-dcc81d2d-3c3ab038/
+datalad_url: https://datasets.datalad.org?dir=/shub/markmenezes11/COMPM091/latest/2018-02-05-dcc81d2d-3c3ab038/
 recipe: https://datasets.datalad.org/shub/markmenezes11/COMPM091/latest/2018-02-05-dcc81d2d-3c3ab038/Singularity
 collection: markmenezes11/COMPM091
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-24T02:14:23.792Z"
 size_mb: 12186
 size: 4810731551
 sif: "https://datasets.datalad.org/shub/rwblair/singularity_fmriprep/1.3.1.post1/2019-04-24-0b20ae46-6e324dc9/6e324dc9f6973099537d0092834ac9ea.simg"
-url: https://datasets.datalad.org/shub/rwblair/singularity_fmriprep/1.3.1.post1/2019-04-24-0b20ae46-6e324dc9/
+datalad_url: https://datasets.datalad.org?dir=/shub/rwblair/singularity_fmriprep/1.3.1.post1/2019-04-24-0b20ae46-6e324dc9/
 recipe: https://datasets.datalad.org/shub/rwblair/singularity_fmriprep/1.3.1.post1/2019-04-24-0b20ae46-6e324dc9/Singularity
 collection: rwblair/singularity_fmriprep
 ---

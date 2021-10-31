@@ -9,7 +9,7 @@ build_date: "2020-08-31T16:25:04.728Z"
 size_mb: 4440.0
 size: 1435820063
 sif: "https://datasets.datalad.org/shub/snystrom/bioconductor_docker_meme/latest/2020-08-31-640b9309-acdb8f24/acdb8f247ce0adf4df9aaea6a40f1218.sif"
-url: https://datasets.datalad.org/shub/snystrom/bioconductor_docker_meme/latest/2020-08-31-640b9309-acdb8f24/
+datalad_url: https://datasets.datalad.org?dir=/shub/snystrom/bioconductor_docker_meme/latest/2020-08-31-640b9309-acdb8f24/
 recipe: https://datasets.datalad.org/shub/snystrom/bioconductor_docker_meme/latest/2020-08-31-640b9309-acdb8f24/Singularity
 collection: snystrom/bioconductor_docker_meme
 ---

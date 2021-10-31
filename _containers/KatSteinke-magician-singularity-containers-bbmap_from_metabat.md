@@ -9,7 +9,7 @@ build_date: "2021-04-15T07:58:40.446Z"
 size_mb: 931.0
 size: 402354207
 sif: "https://datasets.datalad.org/shub/KatSteinke/magician-singularity-containers/bbmap_from_metabat/2021-04-15-550647ab-1e21f00e/1e21f00e5aca331c5d4b01264d9d4dfc.sif"
-url: https://datasets.datalad.org/shub/KatSteinke/magician-singularity-containers/bbmap_from_metabat/2021-04-15-550647ab-1e21f00e/
+datalad_url: https://datasets.datalad.org?dir=/shub/KatSteinke/magician-singularity-containers/bbmap_from_metabat/2021-04-15-550647ab-1e21f00e/
 recipe: https://datasets.datalad.org/shub/KatSteinke/magician-singularity-containers/bbmap_from_metabat/2021-04-15-550647ab-1e21f00e/Singularity
 collection: KatSteinke/magician-singularity-containers
 ---

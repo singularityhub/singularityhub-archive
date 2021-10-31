@@ -9,7 +9,7 @@ build_date: "2019-07-19T16:27:28.898Z"
 size_mb: 5653.0
 size: 1633484831
 sif: "https://datasets.datalad.org/shub/willgpaik/locust_mc_aci/latest/2019-07-19-b1cfe614-8a52c936/8a52c93607e9823609cd8f3165c1319a.sif"
-url: https://datasets.datalad.org/shub/willgpaik/locust_mc_aci/latest/2019-07-19-b1cfe614-8a52c936/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/locust_mc_aci/latest/2019-07-19-b1cfe614-8a52c936/
 recipe: https://datasets.datalad.org/shub/willgpaik/locust_mc_aci/latest/2019-07-19-b1cfe614-8a52c936/Singularity
 collection: willgpaik/locust_mc_aci
 ---

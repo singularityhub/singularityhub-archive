@@ -9,7 +9,7 @@ build_date: "2017-10-17T19:43:59.775Z"
 size_mb: 5120
 size: 2342745179
 sif: "https://datasets.datalad.org/shub/YeoLab/cellrangerdev/master/2017-10-17-e36c0aa3-5fac8838/5fac88388dfeb2c2e14824237e0ad7b2.img.gz"
-url: https://datasets.datalad.org/shub/YeoLab/cellrangerdev/master/2017-10-17-e36c0aa3-5fac8838/
+datalad_url: https://datasets.datalad.org?dir=/shub/YeoLab/cellrangerdev/master/2017-10-17-e36c0aa3-5fac8838/
 recipe: https://datasets.datalad.org/shub/YeoLab/cellrangerdev/master/2017-10-17-e36c0aa3-5fac8838/Singularity
 collection: YeoLab/cellrangerdev
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-31T09:25:42.206Z"
 size_mb: 5956.0
 size: 1838166047
 sif: "https://datasets.datalad.org/shub/statisticalbiotechnology/quandenser-pipeline/dev/2021-01-31-7effde4d-9ed0acc8/9ed0acc8bae59215c6a90dc255cf4f80.sif"
-url: https://datasets.datalad.org/shub/statisticalbiotechnology/quandenser-pipeline/dev/2021-01-31-7effde4d-9ed0acc8/
+datalad_url: https://datasets.datalad.org?dir=/shub/statisticalbiotechnology/quandenser-pipeline/dev/2021-01-31-7effde4d-9ed0acc8/
 recipe: https://datasets.datalad.org/shub/statisticalbiotechnology/quandenser-pipeline/dev/2021-01-31-7effde4d-9ed0acc8/Singularity
 collection: statisticalbiotechnology/quandenser-pipeline
 ---

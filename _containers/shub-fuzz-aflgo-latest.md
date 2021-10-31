@@ -9,7 +9,7 @@ build_date: "2021-02-03T20:38:14.489Z"
 size_mb: 498.16015625
 size: 522358784
 sif: "https://datasets.datalad.org/shub/shub-fuzz/aflgo/latest/2021-02-03-7fb2e9ec-f7a64006/f7a6400667b211b866b8dcaf36060b163190fbdc061e551df94056c70fb5ce79.sif"
-url: https://datasets.datalad.org/shub/shub-fuzz/aflgo/latest/2021-02-03-7fb2e9ec-f7a64006/
+datalad_url: https://datasets.datalad.org?dir=/shub/shub-fuzz/aflgo/latest/2021-02-03-7fb2e9ec-f7a64006/
 recipe: https://datasets.datalad.org/shub/shub-fuzz/aflgo/latest/2021-02-03-7fb2e9ec-f7a64006/Singularity
 collection: shub-fuzz/aflgo
 ---

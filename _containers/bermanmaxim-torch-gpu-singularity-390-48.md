@@ -9,7 +9,7 @@ build_date: "2018-04-20T11:21:32.387Z"
 size_mb: 9529
 size: 3100815391
 sif: "https://datasets.datalad.org/shub/bermanmaxim/torch-gpu-singularity/390-48/2018-04-20-075fe4d4-58699008/5869900815d883e0a5fb29f55a7f191e.simg"
-url: https://datasets.datalad.org/shub/bermanmaxim/torch-gpu-singularity/390-48/2018-04-20-075fe4d4-58699008/
+datalad_url: https://datasets.datalad.org?dir=/shub/bermanmaxim/torch-gpu-singularity/390-48/2018-04-20-075fe4d4-58699008/
 recipe: https://datasets.datalad.org/shub/bermanmaxim/torch-gpu-singularity/390-48/2018-04-20-075fe4d4-58699008/Singularity
 collection: bermanmaxim/torch-gpu-singularity
 ---

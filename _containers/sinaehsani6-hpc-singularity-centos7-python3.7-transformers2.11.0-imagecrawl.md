@@ -9,7 +9,7 @@ build_date: "2020-12-06T22:04:24.092Z"
 size_mb: 8524.0
 size: 4695261215
 sif: "https://datasets.datalad.org/shub/sinaehsani6/hpc-singularity/centos7-python3.7-transformers2.11.0-imagecrawl/2020-12-06-e7fdc253-9382f19a/9382f19a4889f78bf1ba1cd3dc9f9ca0.sif"
-url: https://datasets.datalad.org/shub/sinaehsani6/hpc-singularity/centos7-python3.7-transformers2.11.0-imagecrawl/2020-12-06-e7fdc253-9382f19a/
+datalad_url: https://datasets.datalad.org?dir=/shub/sinaehsani6/hpc-singularity/centos7-python3.7-transformers2.11.0-imagecrawl/2020-12-06-e7fdc253-9382f19a/
 recipe: https://datasets.datalad.org/shub/sinaehsani6/hpc-singularity/centos7-python3.7-transformers2.11.0-imagecrawl/2020-12-06-e7fdc253-9382f19a/Singularity
 collection: sinaehsani6/hpc-singularity
 ---

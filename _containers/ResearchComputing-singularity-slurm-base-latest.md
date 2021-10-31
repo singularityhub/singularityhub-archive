@@ -9,7 +9,7 @@ build_date: "2020-11-20T10:06:38.679Z"
 size_mb: 1095
 size: 354254879
 sif: "https://datasets.datalad.org/shub/ResearchComputing/singularity-slurm-base/latest/2020-11-20-5cbba925-d23511ff/d23511ff647f9b766e24ae2e132e39bf.simg"
-url: https://datasets.datalad.org/shub/ResearchComputing/singularity-slurm-base/latest/2020-11-20-5cbba925-d23511ff/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchComputing/singularity-slurm-base/latest/2020-11-20-5cbba925-d23511ff/
 recipe: https://datasets.datalad.org/shub/ResearchComputing/singularity-slurm-base/latest/2020-11-20-5cbba925-d23511ff/Singularity
 collection: ResearchComputing/singularity-slurm-base
 ---

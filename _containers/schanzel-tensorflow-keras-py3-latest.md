@@ -9,7 +9,7 @@ build_date: "2019-11-04T17:08:56.686Z"
 size_mb: 1575
 size: 533913631
 sif: "https://datasets.datalad.org/shub/schanzel/tensorflow-keras-py3/latest/2019-11-04-5a2ab783-db96bbaf/db96bbaf3c8781c7878c6e9877bc9137.simg"
-url: https://datasets.datalad.org/shub/schanzel/tensorflow-keras-py3/latest/2019-11-04-5a2ab783-db96bbaf/
+datalad_url: https://datasets.datalad.org?dir=/shub/schanzel/tensorflow-keras-py3/latest/2019-11-04-5a2ab783-db96bbaf/
 recipe: https://datasets.datalad.org/shub/schanzel/tensorflow-keras-py3/latest/2019-11-04-5a2ab783-db96bbaf/Singularity
 collection: schanzel/tensorflow-keras-py3
 ---

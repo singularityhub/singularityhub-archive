@@ -9,7 +9,7 @@ build_date: "2021-04-15T06:49:02.945Z"
 size_mb: 653.0
 size: 229965855
 sif: "https://datasets.datalad.org/shub/darachm/itermae/latest/2021-04-15-bc108dbd-b064fc4b/b064fc4b5e6e192ef74f025b4bb8ef88.sif"
-url: https://datasets.datalad.org/shub/darachm/itermae/latest/2021-04-15-bc108dbd-b064fc4b/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/itermae/latest/2021-04-15-bc108dbd-b064fc4b/
 recipe: https://datasets.datalad.org/shub/darachm/itermae/latest/2021-04-15-bc108dbd-b064fc4b/Singularity
 collection: darachm/itermae
 ---

@@ -9,7 +9,7 @@ build_date: "2018-09-10T20:28:03.200Z"
 size_mb: 627
 size: 363278367
 sif: "https://datasets.datalad.org/shub/h3abionet/chipimputation/latest/2018-09-10-02b28051-ff4aba9d/ff4aba9de20939086e388ed137053540.simg"
-url: https://datasets.datalad.org/shub/h3abionet/chipimputation/latest/2018-09-10-02b28051-ff4aba9d/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/chipimputation/latest/2018-09-10-02b28051-ff4aba9d/
 recipe: https://datasets.datalad.org/shub/h3abionet/chipimputation/latest/2018-09-10-02b28051-ff4aba9d/Singularity
 collection: h3abionet/chipimputation
 ---

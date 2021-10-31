@@ -9,7 +9,7 @@ build_date: "2020-09-17T15:35:11.447Z"
 size_mb: 600.2890625
 size: 629448704
 sif: "https://datasets.datalad.org/shub/wilkinson-nu/nuisance_project/34.36_pythia6.def/2020-09-17-d59a16fc-e7805ea8/e7805ea89f7aa46028edcccc6b9983dd781913e7757a6522c45e655c020d3d66.sif"
-url: https://datasets.datalad.org/shub/wilkinson-nu/nuisance_project/34.36_pythia6.def/2020-09-17-d59a16fc-e7805ea8/
+datalad_url: https://datasets.datalad.org?dir=/shub/wilkinson-nu/nuisance_project/34.36_pythia6.def/2020-09-17-d59a16fc-e7805ea8/
 recipe: https://datasets.datalad.org/shub/wilkinson-nu/nuisance_project/34.36_pythia6.def/2020-09-17-d59a16fc-e7805ea8/Singularity
 collection: wilkinson-nu/nuisance_project
 ---

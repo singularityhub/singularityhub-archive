@@ -9,7 +9,7 @@ build_date: "2018-10-17T23:52:16.100Z"
 size_mb: 856
 size: 362700831
 sif: "https://datasets.datalad.org/shub/ReproNim/ohbm2018-training/fsl/2018-10-17-2026209c-4887b3cd/4887b3cd8e71a317cb153a3949772fe1.simg"
-url: https://datasets.datalad.org/shub/ReproNim/ohbm2018-training/fsl/2018-10-17-2026209c-4887b3cd/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/ohbm2018-training/fsl/2018-10-17-2026209c-4887b3cd/
 recipe: https://datasets.datalad.org/shub/ReproNim/ohbm2018-training/fsl/2018-10-17-2026209c-4887b3cd/Singularity
 collection: ReproNim/ohbm2018-training
 ---

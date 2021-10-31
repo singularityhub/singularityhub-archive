@@ -9,7 +9,7 @@ build_date: "2021-04-15T18:57:06.898Z"
 size_mb: 4381.08984375
 size: 4593905664
 sif: "https://datasets.datalad.org/shub/cfusting/conditional-growth/latest/2021-04-15-0c12fed4-1711010f/1711010fd7050049b3a0d93f880cf161dad5d9cf17d6af975ad055887fdf653c.sif"
-url: https://datasets.datalad.org/shub/cfusting/conditional-growth/latest/2021-04-15-0c12fed4-1711010f/
+datalad_url: https://datasets.datalad.org?dir=/shub/cfusting/conditional-growth/latest/2021-04-15-0c12fed4-1711010f/
 recipe: https://datasets.datalad.org/shub/cfusting/conditional-growth/latest/2021-04-15-0c12fed4-1711010f/Singularity
 collection: cfusting/conditional-growth
 ---

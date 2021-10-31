@@ -9,7 +9,7 @@ build_date: "2019-01-26T22:48:03.042Z"
 size_mb: 236
 size: 107687967
 sif: "https://datasets.datalad.org/shub/IvayloStoimenov/Singa/hh/2019-01-26-e5ad8841-45d9118f/45d9118fe8b7aaff676d651e9790a73d.simg"
-url: https://datasets.datalad.org/shub/IvayloStoimenov/Singa/hh/2019-01-26-e5ad8841-45d9118f/
+datalad_url: https://datasets.datalad.org?dir=/shub/IvayloStoimenov/Singa/hh/2019-01-26-e5ad8841-45d9118f/
 recipe: https://datasets.datalad.org/shub/IvayloStoimenov/Singa/hh/2019-01-26-e5ad8841-45d9118f/Singularity
 collection: IvayloStoimenov/Singa
 ---

@@ -9,7 +9,7 @@ build_date: "2020-07-04T01:38:37.125Z"
 size_mb: 5584
 size: 2735325215
 sif: "https://datasets.datalad.org/shub/BensonYang1999/tensorflow-gpu/v8/2020-07-04-4f5163f7-c65cd9f1/c65cd9f18f7aec12b221c78585d2e78d.simg"
-url: https://datasets.datalad.org/shub/BensonYang1999/tensorflow-gpu/v8/2020-07-04-4f5163f7-c65cd9f1/
+datalad_url: https://datasets.datalad.org?dir=/shub/BensonYang1999/tensorflow-gpu/v8/2020-07-04-4f5163f7-c65cd9f1/
 recipe: https://datasets.datalad.org/shub/BensonYang1999/tensorflow-gpu/v8/2020-07-04-4f5163f7-c65cd9f1/Singularity
 collection: BensonYang1999/tensorflow-gpu
 ---

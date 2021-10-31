@@ -9,7 +9,7 @@ build_date: "2018-06-11T18:30:26.230Z"
 size_mb: 5808
 size: 2160414751
 sif: "https://datasets.datalad.org/shub/khanlab/qsm_sstv/v0.1.0/2018-06-11-5524dc64-b9a81b8b/b9a81b8b47c98c9c26a4762d87f29715.simg"
-url: https://datasets.datalad.org/shub/khanlab/qsm_sstv/v0.1.0/2018-06-11-5524dc64-b9a81b8b/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/qsm_sstv/v0.1.0/2018-06-11-5524dc64-b9a81b8b/
 recipe: https://datasets.datalad.org/shub/khanlab/qsm_sstv/v0.1.0/2018-06-11-5524dc64-b9a81b8b/Singularity
 collection: khanlab/qsm_sstv
 ---

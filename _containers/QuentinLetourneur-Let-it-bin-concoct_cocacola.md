@@ -9,7 +9,7 @@ build_date: "2018-09-02T17:27:42.152Z"
 size_mb: 1092
 size: 418054175
 sif: "https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/concoct_cocacola/2018-09-02-647c7b5e-5cb025b8/5cb025b8ad0282ae12c0a879fb9cbcd3.simg"
-url: https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/concoct_cocacola/2018-09-02-647c7b5e-5cb025b8/
+datalad_url: https://datasets.datalad.org?dir=/shub/QuentinLetourneur/Let-it-bin/concoct_cocacola/2018-09-02-647c7b5e-5cb025b8/
 recipe: https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/concoct_cocacola/2018-09-02-647c7b5e-5cb025b8/Singularity
 collection: QuentinLetourneur/Let-it-bin
 ---

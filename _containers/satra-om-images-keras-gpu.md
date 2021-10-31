@@ -9,7 +9,7 @@ build_date: "2019-07-31T07:07:05.691Z"
 size_mb: 3446
 size: 1562221744
 sif: "https://datasets.datalad.org/shub/satra/om-images/keras-gpu/2019-07-31-e4871c36-e195e797/e195e797f84ec0159d26b23257c6b1da.img.gz"
-url: https://datasets.datalad.org/shub/satra/om-images/keras-gpu/2019-07-31-e4871c36-e195e797/
+datalad_url: https://datasets.datalad.org?dir=/shub/satra/om-images/keras-gpu/2019-07-31-e4871c36-e195e797/
 recipe: https://datasets.datalad.org/shub/satra/om-images/keras-gpu/2019-07-31-e4871c36-e195e797/Singularity
 collection: satra/om-images
 ---

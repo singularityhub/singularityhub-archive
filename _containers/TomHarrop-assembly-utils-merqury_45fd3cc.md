@@ -9,7 +9,7 @@ build_date: "2021-01-19T17:06:10.147Z"
 size_mb: 534.5703125
 size: 560537600
 sif: "https://datasets.datalad.org/shub/TomHarrop/assembly-utils/merqury_45fd3cc/2021-01-19-febe3aa5-10afc6e7/10afc6e7d8d127e8ea9d8f72d0303307074b099ad92b8c7b78a133de74a5fe65.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/merqury_45fd3cc/2021-01-19-febe3aa5-10afc6e7/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assembly-utils/merqury_45fd3cc/2021-01-19-febe3aa5-10afc6e7/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/merqury_45fd3cc/2021-01-19-febe3aa5-10afc6e7/Singularity
 collection: TomHarrop/assembly-utils
 ---

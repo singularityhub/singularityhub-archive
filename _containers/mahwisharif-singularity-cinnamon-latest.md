@@ -9,7 +9,7 @@ build_date: "2021-04-15T16:36:16.307Z"
 size_mb: 2061.0
 size: 715456543
 sif: "https://datasets.datalad.org/shub/mahwisharif/singularity-cinnamon/latest/2021-04-15-28a805d5-1301be6c/1301be6c5b08296cceff2517662d7008.sif"
-url: https://datasets.datalad.org/shub/mahwisharif/singularity-cinnamon/latest/2021-04-15-28a805d5-1301be6c/
+datalad_url: https://datasets.datalad.org?dir=/shub/mahwisharif/singularity-cinnamon/latest/2021-04-15-28a805d5-1301be6c/
 recipe: https://datasets.datalad.org/shub/mahwisharif/singularity-cinnamon/latest/2021-04-15-28a805d5-1301be6c/Singularity
 collection: mahwisharif/singularity-cinnamon
 ---

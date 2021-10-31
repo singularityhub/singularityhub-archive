@@ -9,7 +9,7 @@ build_date: "2018-08-03T14:14:03.716Z"
 size_mb: 76
 size: 27947039
 sif: "https://datasets.datalad.org/shub/khanlab/template-ci/latest/2018-08-03-0db53123-e6b60d13/e6b60d133734118af13938f8fecabc69.simg"
-url: https://datasets.datalad.org/shub/khanlab/template-ci/latest/2018-08-03-0db53123-e6b60d13/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/template-ci/latest/2018-08-03-0db53123-e6b60d13/
 recipe: https://datasets.datalad.org/shub/khanlab/template-ci/latest/2018-08-03-0db53123-e6b60d13/Singularity
 collection: khanlab/template-ci
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-23T10:08:41.234Z"
 size_mb: 1971
 size: 528134175
 sif: "https://datasets.datalad.org/shub/granek/singularity-rstudio-base/3.6.0/2021-01-23-1bd10085-3c75c850/3c75c8500acbc2dcbde46cf6f3d1e4ec.simg"
-url: https://datasets.datalad.org/shub/granek/singularity-rstudio-base/3.6.0/2021-01-23-1bd10085-3c75c850/
+datalad_url: https://datasets.datalad.org?dir=/shub/granek/singularity-rstudio-base/3.6.0/2021-01-23-1bd10085-3c75c850/
 recipe: https://datasets.datalad.org/shub/granek/singularity-rstudio-base/3.6.0/2021-01-23-1bd10085-3c75c850/Singularity
 collection: granek/singularity-rstudio-base
 ---

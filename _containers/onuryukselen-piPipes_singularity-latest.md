@@ -9,7 +9,7 @@ build_date: "2018-09-20T19:10:30.884Z"
 size_mb: 7142
 size: 3676807199
 sif: "https://datasets.datalad.org/shub/onuryukselen/piPipes_singularity/latest/2018-09-20-c965c336-aac9c0ce/aac9c0ce0162c500f61ced2461d2b6fd.simg"
-url: https://datasets.datalad.org/shub/onuryukselen/piPipes_singularity/latest/2018-09-20-c965c336-aac9c0ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/onuryukselen/piPipes_singularity/latest/2018-09-20-c965c336-aac9c0ce/
 recipe: https://datasets.datalad.org/shub/onuryukselen/piPipes_singularity/latest/2018-09-20-c965c336-aac9c0ce/Singularity
 collection: onuryukselen/piPipes_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-16T23:38:32.334Z"
 size_mb: 4656
 size: 2125987871
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cistem-1.0.0-beta/2020-09-16-fdb426a7-3ecc91c4/3ecc91c4e4e0397d10e22f461c131f06.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cistem-1.0.0-beta/2020-09-16-fdb426a7-3ecc91c4/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cistem-1.0.0-beta/2020-09-16-fdb426a7-3ecc91c4/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cistem-1.0.0-beta/2020-09-16-fdb426a7-3ecc91c4/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

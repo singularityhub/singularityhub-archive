@@ -9,7 +9,7 @@ build_date: "2019-07-02T13:32:14.878Z"
 size_mb: 2071
 size: 854798367
 sif: "https://datasets.datalad.org/shub/mypandos/exome_analysis/eigensoft/2019-07-02-1826868f-5e4215f2/5e4215f2f2c5ffa99b9d220144921e51.simg"
-url: https://datasets.datalad.org/shub/mypandos/exome_analysis/eigensoft/2019-07-02-1826868f-5e4215f2/
+datalad_url: https://datasets.datalad.org?dir=/shub/mypandos/exome_analysis/eigensoft/2019-07-02-1826868f-5e4215f2/
 recipe: https://datasets.datalad.org/shub/mypandos/exome_analysis/eigensoft/2019-07-02-1826868f-5e4215f2/Singularity
 collection: mypandos/exome_analysis
 ---

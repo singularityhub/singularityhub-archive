@@ -9,7 +9,7 @@ build_date: "2018-02-27T17:10:25.434Z"
 size_mb: 11
 size: 4526111
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-skewer/latest/2018-02-27-8568b77d-2aec83a4/2aec83a4e59fe8df8bccf9e35fbf1bd2.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-skewer/latest/2018-02-27-8568b77d-2aec83a4/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-skewer/latest/2018-02-27-8568b77d-2aec83a4/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-skewer/latest/2018-02-27-8568b77d-2aec83a4/Singularity
 collection: qbicsoftware/qbic-singularity-skewer
 ---

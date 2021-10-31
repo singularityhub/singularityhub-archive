@@ -9,7 +9,7 @@ build_date: "2018-09-24T07:21:06.638Z"
 size_mb: 6508
 size: 3367157791
 sif: "https://datasets.datalad.org/shub/sujoyp/cuda-9.0-base-simu/latest/2018-09-24-c447c059-9349c95b/9349c95bef421302f22a02e4f0eb3c0e.simg"
-url: https://datasets.datalad.org/shub/sujoyp/cuda-9.0-base-simu/latest/2018-09-24-c447c059-9349c95b/
+datalad_url: https://datasets.datalad.org?dir=/shub/sujoyp/cuda-9.0-base-simu/latest/2018-09-24-c447c059-9349c95b/
 recipe: https://datasets.datalad.org/shub/sujoyp/cuda-9.0-base-simu/latest/2018-09-24-c447c059-9349c95b/Singularity
 collection: sujoyp/cuda-9.0-base-simu
 ---

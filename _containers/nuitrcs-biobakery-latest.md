@@ -9,7 +9,7 @@ build_date: "2021-01-29T17:33:21.612Z"
 size_mb: 11524
 size: 5632598047
 sif: "https://datasets.datalad.org/shub/nuitrcs/biobakery/latest/2021-01-29-4bcf87dd-9e29950e/9e29950e4a08359f000dfb6ccb4a555b.simg"
-url: https://datasets.datalad.org/shub/nuitrcs/biobakery/latest/2021-01-29-4bcf87dd-9e29950e/
+datalad_url: https://datasets.datalad.org?dir=/shub/nuitrcs/biobakery/latest/2021-01-29-4bcf87dd-9e29950e/
 recipe: https://datasets.datalad.org/shub/nuitrcs/biobakery/latest/2021-01-29-4bcf87dd-9e29950e/Singularity
 collection: nuitrcs/biobakery
 ---

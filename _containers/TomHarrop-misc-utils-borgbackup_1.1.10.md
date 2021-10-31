@@ -9,7 +9,7 @@ build_date: "2020-01-05T22:05:42.022Z"
 size_mb: 214.65234375
 size: 225079296
 sif: "https://datasets.datalad.org/shub/TomHarrop/misc-utils/borgbackup_1.1.10/2020-01-05-a47adc2b-a2cefe6e/a2cefe6ec9185d8251314e42930b4496328c7ed08ec98b1021ca01f4e3e29952.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/misc-utils/borgbackup_1.1.10/2020-01-05-a47adc2b-a2cefe6e/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/misc-utils/borgbackup_1.1.10/2020-01-05-a47adc2b-a2cefe6e/
 recipe: https://datasets.datalad.org/shub/TomHarrop/misc-utils/borgbackup_1.1.10/2020-01-05-a47adc2b-a2cefe6e/Singularity
 collection: TomHarrop/misc-utils
 ---

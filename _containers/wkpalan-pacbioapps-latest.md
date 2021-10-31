@@ -9,7 +9,7 @@ build_date: "2019-02-09T23:03:29.251Z"
 size_mb: 1405
 size: 545005599
 sif: "https://datasets.datalad.org/shub/wkpalan/pacbioapps/latest/2019-02-09-6eaffab6-049485f2/049485f25dab1606638b03cd672ccc45.simg"
-url: https://datasets.datalad.org/shub/wkpalan/pacbioapps/latest/2019-02-09-6eaffab6-049485f2/
+datalad_url: https://datasets.datalad.org?dir=/shub/wkpalan/pacbioapps/latest/2019-02-09-6eaffab6-049485f2/
 recipe: https://datasets.datalad.org/shub/wkpalan/pacbioapps/latest/2019-02-09-6eaffab6-049485f2/Singularity
 collection: wkpalan/pacbioapps
 ---

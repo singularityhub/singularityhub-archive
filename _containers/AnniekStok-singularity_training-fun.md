@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.181Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/AnniekStok/singularity_training/fun/2019-02-27-39327e6b-ce66db2a/ce66db2ac175362e948a3926e442cfe7.simg"
-url: https://datasets.datalad.org/shub/AnniekStok/singularity_training/fun/2019-02-27-39327e6b-ce66db2a/
+datalad_url: https://datasets.datalad.org?dir=/shub/AnniekStok/singularity_training/fun/2019-02-27-39327e6b-ce66db2a/
 recipe: https://datasets.datalad.org/shub/AnniekStok/singularity_training/fun/2019-02-27-39327e6b-ce66db2a/Singularity
 collection: AnniekStok/singularity_training
 ---

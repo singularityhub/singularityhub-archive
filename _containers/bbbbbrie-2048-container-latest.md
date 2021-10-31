@@ -9,7 +9,7 @@ build_date: "2019-04-26T11:40:29.093Z"
 size_mb: 317
 size: 115564575
 sif: "https://datasets.datalad.org/shub/bbbbbrie/2048-container/latest/2019-04-26-912d7bf1-22920fb4/22920fb441a34a29836c354a583083ee.simg"
-url: https://datasets.datalad.org/shub/bbbbbrie/2048-container/latest/2019-04-26-912d7bf1-22920fb4/
+datalad_url: https://datasets.datalad.org?dir=/shub/bbbbbrie/2048-container/latest/2019-04-26-912d7bf1-22920fb4/
 recipe: https://datasets.datalad.org/shub/bbbbbrie/2048-container/latest/2019-04-26-912d7bf1-22920fb4/Singularity
 collection: bbbbbrie/2048-container
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-22T18:38:41.695Z"
 size_mb: 3939.17578125
 size: 4130525184
 sif: "https://datasets.datalad.org/shub/wsjeon/singularity-asaf/latest/2020-05-22-b1f775b9-2bb334f4/2bb334f407b8764627d25105958fe364da04825421a895571ef0abed12600cc6.sif"
-url: https://datasets.datalad.org/shub/wsjeon/singularity-asaf/latest/2020-05-22-b1f775b9-2bb334f4/
+datalad_url: https://datasets.datalad.org?dir=/shub/wsjeon/singularity-asaf/latest/2020-05-22-b1f775b9-2bb334f4/
 recipe: https://datasets.datalad.org/shub/wsjeon/singularity-asaf/latest/2020-05-22-b1f775b9-2bb334f4/Singularity
 collection: wsjeon/singularity-asaf
 ---

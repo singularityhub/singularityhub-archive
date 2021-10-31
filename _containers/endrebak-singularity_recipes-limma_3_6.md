@@ -9,7 +9,7 @@ build_date: "2018-03-07T14:12:48.411Z"
 size_mb: 689
 size: 270262303
 sif: "https://datasets.datalad.org/shub/endrebak/singularity_recipes/limma_3_6/2018-03-07-a0668e60-54d5b527/54d5b527ed693fa174163f8a0dc2cf00.simg"
-url: https://datasets.datalad.org/shub/endrebak/singularity_recipes/limma_3_6/2018-03-07-a0668e60-54d5b527/
+datalad_url: https://datasets.datalad.org?dir=/shub/endrebak/singularity_recipes/limma_3_6/2018-03-07-a0668e60-54d5b527/
 recipe: https://datasets.datalad.org/shub/endrebak/singularity_recipes/limma_3_6/2018-03-07-a0668e60-54d5b527/Singularity
 collection: endrebak/singularity_recipes
 ---

@@ -9,7 +9,7 @@ build_date: "2019-02-14T08:45:05.056Z"
 size_mb: 3805
 size: 2260480031
 sif: "https://datasets.datalad.org/shub/powerPlant/swan-srf/3516c2f/2019-02-14-433697ec-1de4e125/1de4e12584dee00ea5666428da6febb8.simg"
-url: https://datasets.datalad.org/shub/powerPlant/swan-srf/3516c2f/2019-02-14-433697ec-1de4e125/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/swan-srf/3516c2f/2019-02-14-433697ec-1de4e125/
 recipe: https://datasets.datalad.org/shub/powerPlant/swan-srf/3516c2f/2019-02-14-433697ec-1de4e125/Singularity
 collection: powerPlant/swan-srf
 ---

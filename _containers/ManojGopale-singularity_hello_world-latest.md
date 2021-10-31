@@ -9,7 +9,7 @@ build_date: "2021-03-01T14:01:21.802Z"
 size_mb: 235
 size: 97300511
 sif: "https://datasets.datalad.org/shub/ManojGopale/singularity_hello_world/latest/2021-03-01-a9f6f7fb-69da3c3b/69da3c3bc7ac1eae97b9ae558a02abf5.simg"
-url: https://datasets.datalad.org/shub/ManojGopale/singularity_hello_world/latest/2021-03-01-a9f6f7fb-69da3c3b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ManojGopale/singularity_hello_world/latest/2021-03-01-a9f6f7fb-69da3c3b/
 recipe: https://datasets.datalad.org/shub/ManojGopale/singularity_hello_world/latest/2021-03-01-a9f6f7fb-69da3c3b/Singularity
 collection: ManojGopale/singularity_hello_world
 ---

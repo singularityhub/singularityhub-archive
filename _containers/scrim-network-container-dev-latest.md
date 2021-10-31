@@ -9,7 +9,7 @@ build_date: "2019-03-13T03:34:53.267Z"
 size_mb: 418
 size: 172736543
 sif: "https://datasets.datalad.org/shub/scrim-network/container-dev/latest/2019-03-13-e29cdb5f-bc8eb652/bc8eb652975fdf31b13878c669faab74.simg"
-url: https://datasets.datalad.org/shub/scrim-network/container-dev/latest/2019-03-13-e29cdb5f-bc8eb652/
+datalad_url: https://datasets.datalad.org?dir=/shub/scrim-network/container-dev/latest/2019-03-13-e29cdb5f-bc8eb652/
 recipe: https://datasets.datalad.org/shub/scrim-network/container-dev/latest/2019-03-13-e29cdb5f-bc8eb652/Singularity
 collection: scrim-network/container-dev
 ---

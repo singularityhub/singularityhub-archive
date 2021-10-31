@@ -9,7 +9,7 @@ build_date: "2021-03-02T02:44:33.609Z"
 size_mb: 56
 size: 15130655
 sif: "https://datasets.datalad.org/shub/overcookedfrog/vcftools/latest/2021-03-02-9ff04d2a-d9538d57/d9538d57a47b18ef999789393cdd80dd.simg"
-url: https://datasets.datalad.org/shub/overcookedfrog/vcftools/latest/2021-03-02-9ff04d2a-d9538d57/
+datalad_url: https://datasets.datalad.org?dir=/shub/overcookedfrog/vcftools/latest/2021-03-02-9ff04d2a-d9538d57/
 recipe: https://datasets.datalad.org/shub/overcookedfrog/vcftools/latest/2021-03-02-9ff04d2a-d9538d57/Singularity
 collection: overcookedfrog/vcftools
 ---

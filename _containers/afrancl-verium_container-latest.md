@@ -9,7 +9,7 @@ build_date: "2018-01-15T15:00:26.285Z"
 size_mb: 416
 size: 163967007
 sif: "https://datasets.datalad.org/shub/afrancl/verium_container/latest/2018-01-15-824d8c3d-7b9630ff/7b9630ff231c94ee0dc9c0a7e75072ef.simg"
-url: https://datasets.datalad.org/shub/afrancl/verium_container/latest/2018-01-15-824d8c3d-7b9630ff/
+datalad_url: https://datasets.datalad.org?dir=/shub/afrancl/verium_container/latest/2018-01-15-824d8c3d-7b9630ff/
 recipe: https://datasets.datalad.org/shub/afrancl/verium_container/latest/2018-01-15-824d8c3d-7b9630ff/Singularity
 collection: afrancl/verium_container
 ---

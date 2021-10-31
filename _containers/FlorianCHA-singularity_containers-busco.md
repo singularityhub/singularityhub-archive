@@ -9,7 +9,7 @@ build_date: "2021-03-31T13:50:12.556Z"
 size_mb: 3466.0
 size: 1521205279
 sif: "https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/busco/2021-03-31-02b2c3f5-84750f09/84750f0985a264334c28f93251dbb11d.sif"
-url: https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/busco/2021-03-31-02b2c3f5-84750f09/
+datalad_url: https://datasets.datalad.org?dir=/shub/FlorianCHA/singularity_containers/busco/2021-03-31-02b2c3f5-84750f09/
 recipe: https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/busco/2021-03-31-02b2c3f5-84750f09/Singularity
 collection: FlorianCHA/singularity_containers
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.530Z"
 size_mb: 8700
 size: 3934859295
 sif: "https://datasets.datalad.org/shub/Sylvia-Liang/gpupy2/latest/2019-04-04-581b1cdb-973da133/973da1334fd49b2c37c769391bf807ae.simg"
-url: https://datasets.datalad.org/shub/Sylvia-Liang/gpupy2/latest/2019-04-04-581b1cdb-973da133/
+datalad_url: https://datasets.datalad.org?dir=/shub/Sylvia-Liang/gpupy2/latest/2019-04-04-581b1cdb-973da133/
 recipe: https://datasets.datalad.org/shub/Sylvia-Liang/gpupy2/latest/2019-04-04-581b1cdb-973da133/Singularity
 collection: Sylvia-Liang/gpupy2
 ---

@@ -9,7 +9,7 @@ build_date: "2019-05-09T22:11:39.864Z"
 size_mb: 8458
 size: 5514649631
 sif: "https://datasets.datalad.org/shub/netcatninja/fashionMNIST/cuda10/2019-05-09-c39e1c89-b26f38de/b26f38de175b5262b2d86f8e627a263c.simg"
-url: https://datasets.datalad.org/shub/netcatninja/fashionMNIST/cuda10/2019-05-09-c39e1c89-b26f38de/
+datalad_url: https://datasets.datalad.org?dir=/shub/netcatninja/fashionMNIST/cuda10/2019-05-09-c39e1c89-b26f38de/
 recipe: https://datasets.datalad.org/shub/netcatninja/fashionMNIST/cuda10/2019-05-09-c39e1c89-b26f38de/Singularity
 collection: netcatninja/fashionMNIST
 ---

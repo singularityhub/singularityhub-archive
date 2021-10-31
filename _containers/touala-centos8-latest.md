@@ -9,7 +9,7 @@ build_date: "2020-12-14T07:43:47.293Z"
 size_mb: 647.0
 size: 288174111
 sif: "https://datasets.datalad.org/shub/touala/centos8/latest/2020-12-14-07cd0683-c0c60bca/c0c60bca445746a18db532f2e68b5b1e.sif"
-url: https://datasets.datalad.org/shub/touala/centos8/latest/2020-12-14-07cd0683-c0c60bca/
+datalad_url: https://datasets.datalad.org?dir=/shub/touala/centos8/latest/2020-12-14-07cd0683-c0c60bca/
 recipe: https://datasets.datalad.org/shub/touala/centos8/latest/2020-12-14-07cd0683-c0c60bca/Singularity
 collection: touala/centos8
 ---

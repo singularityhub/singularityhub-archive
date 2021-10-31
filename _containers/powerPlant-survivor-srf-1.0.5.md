@@ -9,7 +9,7 @@ build_date: "2019-02-15T05:11:19.338Z"
 size_mb: 175
 size: 65699871
 sif: "https://datasets.datalad.org/shub/powerPlant/survivor-srf/1.0.5/2019-02-15-0cb9c5e4-4d3e362b/4d3e362b224c447bd275f5139caec023.simg"
-url: https://datasets.datalad.org/shub/powerPlant/survivor-srf/1.0.5/2019-02-15-0cb9c5e4-4d3e362b/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/survivor-srf/1.0.5/2019-02-15-0cb9c5e4-4d3e362b/
 recipe: https://datasets.datalad.org/shub/powerPlant/survivor-srf/1.0.5/2019-02-15-0cb9c5e4-4d3e362b/Singularity
 collection: powerPlant/survivor-srf
 ---

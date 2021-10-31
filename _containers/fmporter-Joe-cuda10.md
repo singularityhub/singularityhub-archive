@@ -9,7 +9,7 @@ build_date: "2020-03-23T16:34:22.001Z"
 size_mb: 11921.0
 size: 6829527071
 sif: "https://datasets.datalad.org/shub/fmporter/Joe/cuda10/2020-03-23-77f83cd1-36422d90/36422d901a2a15ae2975990872f218c1.sif"
-url: https://datasets.datalad.org/shub/fmporter/Joe/cuda10/2020-03-23-77f83cd1-36422d90/
+datalad_url: https://datasets.datalad.org?dir=/shub/fmporter/Joe/cuda10/2020-03-23-77f83cd1-36422d90/
 recipe: https://datasets.datalad.org/shub/fmporter/Joe/cuda10/2020-03-23-77f83cd1-36422d90/Singularity
 collection: fmporter/Joe
 ---

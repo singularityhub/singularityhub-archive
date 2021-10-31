@@ -9,7 +9,7 @@ build_date: "2020-07-29T22:04:07.908Z"
 size_mb: 488.0
 size: 204877855
 sif: "https://datasets.datalad.org/shub/FS3113/Repo2/recipe/2020-07-29-4079afa1-d2fe8163/d2fe816374858ee71e503d7ea80464d7.sif"
-url: https://datasets.datalad.org/shub/FS3113/Repo2/recipe/2020-07-29-4079afa1-d2fe8163/
+datalad_url: https://datasets.datalad.org?dir=/shub/FS3113/Repo2/recipe/2020-07-29-4079afa1-d2fe8163/
 recipe: https://datasets.datalad.org/shub/FS3113/Repo2/recipe/2020-07-29-4079afa1-d2fe8163/Singularity
 collection: FS3113/Repo2
 ---

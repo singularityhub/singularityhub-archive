@@ -9,7 +9,7 @@ build_date: "2020-12-05T19:50:01.745Z"
 size_mb: 784.51953125
 size: 822628352
 sif: "https://datasets.datalad.org/shub/AroArz/singularity_playground/snakemake/2020-12-05-6c889370-0b2039c8/0b2039c8ad4a676f9e4771ab9bc928f2d31098bb7fea54a94d57d376fcb5d48e.sif"
-url: https://datasets.datalad.org/shub/AroArz/singularity_playground/snakemake/2020-12-05-6c889370-0b2039c8/
+datalad_url: https://datasets.datalad.org?dir=/shub/AroArz/singularity_playground/snakemake/2020-12-05-6c889370-0b2039c8/
 recipe: https://datasets.datalad.org/shub/AroArz/singularity_playground/snakemake/2020-12-05-6c889370-0b2039c8/Singularity
 collection: AroArz/singularity_playground
 ---

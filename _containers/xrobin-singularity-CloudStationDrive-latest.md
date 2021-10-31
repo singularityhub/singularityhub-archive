@@ -9,7 +9,7 @@ build_date: "2019-02-18T23:30:20.365Z"
 size_mb: 474
 size: 216657951
 sif: "https://datasets.datalad.org/shub/xrobin/singularity-CloudStationDrive/latest/2019-02-18-d3438bb9-919748ec/919748ece838453479fc333cf5080405.simg"
-url: https://datasets.datalad.org/shub/xrobin/singularity-CloudStationDrive/latest/2019-02-18-d3438bb9-919748ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/xrobin/singularity-CloudStationDrive/latest/2019-02-18-d3438bb9-919748ec/
 recipe: https://datasets.datalad.org/shub/xrobin/singularity-CloudStationDrive/latest/2019-02-18-d3438bb9-919748ec/Singularity
 collection: xrobin/singularity-CloudStationDrive
 ---

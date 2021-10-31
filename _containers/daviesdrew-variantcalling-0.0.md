@@ -9,7 +9,7 @@ build_date: "2020-08-21T20:22:32.921Z"
 size_mb: 2263.0
 size: 811102239
 sif: "https://datasets.datalad.org/shub/daviesdrew/variantcalling/0.0/2020-08-21-9fe0ffa0-57c7d541/57c7d5417ae00fe6c6e6e858ac85d6ab.sif"
-url: https://datasets.datalad.org/shub/daviesdrew/variantcalling/0.0/2020-08-21-9fe0ffa0-57c7d541/
+datalad_url: https://datasets.datalad.org?dir=/shub/daviesdrew/variantcalling/0.0/2020-08-21-9fe0ffa0-57c7d541/
 recipe: https://datasets.datalad.org/shub/daviesdrew/variantcalling/0.0/2020-08-21-9fe0ffa0-57c7d541/Singularity
 collection: daviesdrew/variantcalling
 ---

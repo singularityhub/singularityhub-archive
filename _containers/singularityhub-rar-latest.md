@@ -9,7 +9,7 @@ build_date: "2020-05-24T05:54:44.987Z"
 size_mb: 136
 size: 67948575
 sif: "https://datasets.datalad.org/shub/singularityhub/rar/latest/2020-05-24-3990b8ce-5a8cb417/5a8cb417f6d742faf0d03f9b5d532df8.simg"
-url: https://datasets.datalad.org/shub/singularityhub/rar/latest/2020-05-24-3990b8ce-5a8cb417/
+datalad_url: https://datasets.datalad.org?dir=/shub/singularityhub/rar/latest/2020-05-24-3990b8ce-5a8cb417/
 recipe: https://datasets.datalad.org/shub/singularityhub/rar/latest/2020-05-24-3990b8ce-5a8cb417/Singularity
 collection: singularityhub/rar
 ---

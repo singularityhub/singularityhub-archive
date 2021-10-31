@@ -9,7 +9,7 @@ build_date: "2020-06-28T17:42:07.420Z"
 size_mb: 2304.0
 size: 901062687
 sif: "https://datasets.datalad.org/shub/sodalite-hpe/modak-containers/tensorflow-ngraph/2020-06-28-e8027bab-1ed7e251/1ed7e251f6288209a4621c8d3197eecb.sif"
-url: https://datasets.datalad.org/shub/sodalite-hpe/modak-containers/tensorflow-ngraph/2020-06-28-e8027bab-1ed7e251/
+datalad_url: https://datasets.datalad.org?dir=/shub/sodalite-hpe/modak-containers/tensorflow-ngraph/2020-06-28-e8027bab-1ed7e251/
 recipe: https://datasets.datalad.org/shub/sodalite-hpe/modak-containers/tensorflow-ngraph/2020-06-28-e8027bab-1ed7e251/Singularity
 collection: sodalite-hpe/modak-containers
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-22T09:02:09.222Z"
 size_mb: 843.0
 size: 308695071
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/chanjo-4.2.0/2019-10-22-ca528748-bea0189e/bea0189ef13607c704f17556adf7dda7.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/chanjo-4.2.0/2019-10-22-ca528748-bea0189e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/chanjo-4.2.0/2019-10-22-ca528748-bea0189e/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/chanjo-4.2.0/2019-10-22-ca528748-bea0189e/Singularity
 collection: Clinical-Genomics/MIP
 ---

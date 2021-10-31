@@ -9,7 +9,7 @@ build_date: "2020-10-19T12:02:33.454Z"
 size_mb: 4490.0
 size: 2444451871
 sif: "https://datasets.datalad.org/shub/martindevora/SHERLOCK/latest/2020-10-19-5e749255-e4dc79f6/e4dc79f6e589ee6218b581e6d303e50c.sif"
-url: https://datasets.datalad.org/shub/martindevora/SHERLOCK/latest/2020-10-19-5e749255-e4dc79f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/martindevora/SHERLOCK/latest/2020-10-19-5e749255-e4dc79f6/
 recipe: https://datasets.datalad.org/shub/martindevora/SHERLOCK/latest/2020-10-19-5e749255-e4dc79f6/Singularity
 collection: martindevora/SHERLOCK
 ---

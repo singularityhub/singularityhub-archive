@@ -9,7 +9,7 @@ build_date: "2019-03-31T19:21:50.066Z"
 size_mb: 1014
 size: 441098271
 sif: "https://datasets.datalad.org/shub/rgrandin/Singularity-GNUCash/fedora29/2019-03-31-77975cca-20f5397f/20f5397f0f64da521f8ab32a936b51bf.simg"
-url: https://datasets.datalad.org/shub/rgrandin/Singularity-GNUCash/fedora29/2019-03-31-77975cca-20f5397f/
+datalad_url: https://datasets.datalad.org?dir=/shub/rgrandin/Singularity-GNUCash/fedora29/2019-03-31-77975cca-20f5397f/
 recipe: https://datasets.datalad.org/shub/rgrandin/Singularity-GNUCash/fedora29/2019-03-31-77975cca-20f5397f/Singularity
 collection: rgrandin/Singularity-GNUCash
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-29T15:00:59.214Z"
 size_mb: 113.28515625
 size: 118788096
 sif: "https://datasets.datalad.org/shub/pescobar/mysql-singularity-container/latest/2020-05-29-9efe4a8f-7dd35962/7dd35962c6c7b5d77592d656090278c248050a91bb5f8ffdfb4f90aea80be3be.sif"
-url: https://datasets.datalad.org/shub/pescobar/mysql-singularity-container/latest/2020-05-29-9efe4a8f-7dd35962/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/mysql-singularity-container/latest/2020-05-29-9efe4a8f-7dd35962/
 recipe: https://datasets.datalad.org/shub/pescobar/mysql-singularity-container/latest/2020-05-29-9efe4a8f-7dd35962/Singularity
 collection: pescobar/mysql-singularity-container
 ---

@@ -9,7 +9,7 @@ build_date: "2017-11-09T14:26:04.449Z"
 size_mb: 1055
 size: 509796383
 sif: "https://datasets.datalad.org/shub/patrickvdb/drop-seq_singularity/latest/2017-11-09-78530032-d8e45b9b/d8e45b9bd955e38bf138bc025ea8db15.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/drop-seq_singularity/latest/2017-11-09-78530032-d8e45b9b/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/drop-seq_singularity/latest/2017-11-09-78530032-d8e45b9b/
 recipe: https://datasets.datalad.org/shub/patrickvdb/drop-seq_singularity/latest/2017-11-09-78530032-d8e45b9b/Singularity
 collection: patrickvdb/drop-seq_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-10T18:28:53.292Z"
 size_mb: 2891.0
 size: 1009127455
 sif: "https://datasets.datalad.org/shub/JCSDA/singularity/latest/2021-03-10-c65f9145-cc14d440/cc14d4405f8c119ab42ae5effcead576.sif"
-url: https://datasets.datalad.org/shub/JCSDA/singularity/latest/2021-03-10-c65f9145-cc14d440/
+datalad_url: https://datasets.datalad.org?dir=/shub/JCSDA/singularity/latest/2021-03-10-c65f9145-cc14d440/
 recipe: https://datasets.datalad.org/shub/JCSDA/singularity/latest/2021-03-10-c65f9145-cc14d440/Singularity
 collection: JCSDA/singularity
 ---

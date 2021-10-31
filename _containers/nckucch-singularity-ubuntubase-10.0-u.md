@@ -9,7 +9,7 @@ build_date: "2019-05-05T08:37:08.399Z"
 size_mb: 2933
 size: 1721081887
 sif: "https://datasets.datalad.org/shub/nckucch/singularity/ubuntubase-10.0-u/2019-05-05-f3f0700f-e7955441/e79554410cfc7001b14f30fec2a1194b.simg"
-url: https://datasets.datalad.org/shub/nckucch/singularity/ubuntubase-10.0-u/2019-05-05-f3f0700f-e7955441/
+datalad_url: https://datasets.datalad.org?dir=/shub/nckucch/singularity/ubuntubase-10.0-u/2019-05-05-f3f0700f-e7955441/
 recipe: https://datasets.datalad.org/shub/nckucch/singularity/ubuntubase-10.0-u/2019-05-05-f3f0700f-e7955441/Singularity
 collection: nckucch/singularity
 ---

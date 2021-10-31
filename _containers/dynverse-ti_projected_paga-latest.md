@@ -9,7 +9,7 @@ build_date: "2018-11-12T16:21:17.046Z"
 size_mb: 1555
 size: 602357791
 sif: "https://datasets.datalad.org/shub/dynverse/ti_projected_paga/latest/2018-11-12-f6d281ac-fee6989a/fee6989ada3dad9a49ed4dcf4b0c225b.simg"
-url: https://datasets.datalad.org/shub/dynverse/ti_projected_paga/latest/2018-11-12-f6d281ac-fee6989a/
+datalad_url: https://datasets.datalad.org?dir=/shub/dynverse/ti_projected_paga/latest/2018-11-12-f6d281ac-fee6989a/
 recipe: https://datasets.datalad.org/shub/dynverse/ti_projected_paga/latest/2018-11-12-f6d281ac-fee6989a/Singularity
 collection: dynverse/ti_projected_paga
 ---

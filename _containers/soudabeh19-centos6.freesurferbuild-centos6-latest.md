@@ -9,7 +9,7 @@ build_date: "2020-10-21T06:23:58.302Z"
 size_mb: 12784
 size: 7732428831
 sif: "https://datasets.datalad.org/shub/soudabeh19/centos6.freesurferbuild-centos6/latest/2020-10-21-7c4595e4-1c2c701a/1c2c701ab1f501a430943ce9a2da06d4.simg"
-url: https://datasets.datalad.org/shub/soudabeh19/centos6.freesurferbuild-centos6/latest/2020-10-21-7c4595e4-1c2c701a/
+datalad_url: https://datasets.datalad.org?dir=/shub/soudabeh19/centos6.freesurferbuild-centos6/latest/2020-10-21-7c4595e4-1c2c701a/
 recipe: https://datasets.datalad.org/shub/soudabeh19/centos6.freesurferbuild-centos6/latest/2020-10-21-7c4595e4-1c2c701a/Singularity
 collection: soudabeh19/centos6.freesurferbuild-centos6
 ---

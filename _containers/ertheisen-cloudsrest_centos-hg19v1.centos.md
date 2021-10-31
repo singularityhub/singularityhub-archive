@@ -9,7 +9,7 @@ build_date: "2019-06-14T18:25:03.475Z"
 size_mb: 6868
 size: 2549145631
 sif: "https://datasets.datalad.org/shub/ertheisen/cloudsrest_centos/hg19v1.centos/2019-06-14-ed24b4e6-872b33cf/872b33cf062f5590baa06e41327cf096.simg"
-url: https://datasets.datalad.org/shub/ertheisen/cloudsrest_centos/hg19v1.centos/2019-06-14-ed24b4e6-872b33cf/
+datalad_url: https://datasets.datalad.org?dir=/shub/ertheisen/cloudsrest_centos/hg19v1.centos/2019-06-14-ed24b4e6-872b33cf/
 recipe: https://datasets.datalad.org/shub/ertheisen/cloudsrest_centos/hg19v1.centos/2019-06-14-ed24b4e6-872b33cf/Singularity
 collection: ertheisen/cloudsrest_centos
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-04T06:54:42.135Z"
 size_mb: 251
 size: 83910687
 sif: "https://datasets.datalad.org/shub/overcookedfrog/bcl2fastq2/2.20.0.422/2020-08-04-61070485-5fa2e879/5fa2e87926120ae0466b5964bdc970d8.simg"
-url: https://datasets.datalad.org/shub/overcookedfrog/bcl2fastq2/2.20.0.422/2020-08-04-61070485-5fa2e879/
+datalad_url: https://datasets.datalad.org?dir=/shub/overcookedfrog/bcl2fastq2/2.20.0.422/2020-08-04-61070485-5fa2e879/
 recipe: https://datasets.datalad.org/shub/overcookedfrog/bcl2fastq2/2.20.0.422/2020-08-04-61070485-5fa2e879/Singularity
 collection: overcookedfrog/bcl2fastq2
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-15T14:57:58.473Z"
 size_mb: 5413
 size: 3308302367
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/convolutionalneuralnetworkonmnist/2019-03-15-0fa42062-a7603e6c/a7603e6c8336bc76bc51a552d7885473.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/convolutionalneuralnetworkonmnist/2019-03-15-0fa42062-a7603e6c/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/convolutionalneuralnetworkonmnist/2019-03-15-0fa42062-a7603e6c/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/convolutionalneuralnetworkonmnist/2019-03-15-0fa42062-a7603e6c/Singularity
 collection: staeglis/HPOlib2
 ---

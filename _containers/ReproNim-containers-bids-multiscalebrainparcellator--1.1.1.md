@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:52.902Z"
 size_mb: 14655.0
 size: 5146234911
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-multiscalebrainparcellator--1.1.1/2021-03-19-d3593998-e399f4f5/e399f4f5bde9e3d88f623ae8175c7066.sif"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-multiscalebrainparcellator--1.1.1/2021-03-19-d3593998-e399f4f5/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-multiscalebrainparcellator--1.1.1/2021-03-19-d3593998-e399f4f5/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-multiscalebrainparcellator--1.1.1/2021-03-19-d3593998-e399f4f5/Singularity
 collection: ReproNim/containers
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-18T09:44:12.746Z"
 size_mb: 1598
 size: 628219935
 sif: "https://datasets.datalad.org/shub/iferres/Singularity_recipes/get_homologues/2019-10-18-92f333e5-36047330/3604733037a576babc2c651c33955d94.simg"
-url: https://datasets.datalad.org/shub/iferres/Singularity_recipes/get_homologues/2019-10-18-92f333e5-36047330/
+datalad_url: https://datasets.datalad.org?dir=/shub/iferres/Singularity_recipes/get_homologues/2019-10-18-92f333e5-36047330/
 recipe: https://datasets.datalad.org/shub/iferres/Singularity_recipes/get_homologues/2019-10-18-92f333e5-36047330/Singularity
 collection: iferres/Singularity_recipes
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-21T13:36:55.661Z"
 size_mb: 96.0
 size: 46661663
 sif: "https://datasets.datalad.org/shub/nathanjent/i_will_do_science_to_it/latest/2019-11-21-3b3f5e93-749bbda5/749bbda570d784c98a89e5e6c2f10bfa.sif"
-url: https://datasets.datalad.org/shub/nathanjent/i_will_do_science_to_it/latest/2019-11-21-3b3f5e93-749bbda5/
+datalad_url: https://datasets.datalad.org?dir=/shub/nathanjent/i_will_do_science_to_it/latest/2019-11-21-3b3f5e93-749bbda5/
 recipe: https://datasets.datalad.org/shub/nathanjent/i_will_do_science_to_it/latest/2019-11-21-3b3f5e93-749bbda5/Singularity
 collection: nathanjent/i_will_do_science_to_it
 ---

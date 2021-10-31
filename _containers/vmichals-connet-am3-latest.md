@@ -9,7 +9,7 @@ build_date: "2019-08-31T19:40:14.885Z"
 size_mb: 3659.0
 size: 1795518495
 sif: "https://datasets.datalad.org/shub/vmichals/connet-am3/latest/2019-08-31-ac46e457-91ba5ad2/91ba5ad2e971c6e6ef87be2c462e94ce.sif"
-url: https://datasets.datalad.org/shub/vmichals/connet-am3/latest/2019-08-31-ac46e457-91ba5ad2/
+datalad_url: https://datasets.datalad.org?dir=/shub/vmichals/connet-am3/latest/2019-08-31-ac46e457-91ba5ad2/
 recipe: https://datasets.datalad.org/shub/vmichals/connet-am3/latest/2019-08-31-ac46e457-91ba5ad2/Singularity
 collection: vmichals/connet-am3
 ---

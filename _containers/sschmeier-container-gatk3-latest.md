@@ -9,7 +9,7 @@ build_date: "2020-08-27T11:55:01.619Z"
 size_mb: 70.56640625
 size: 73994240
 sif: "https://datasets.datalad.org/shub/sschmeier/container-gatk3/latest/2020-08-27-bc0a3fea-8d9966f9/8d9966f96e654e549c7b90b53461dbf1bd6beaa7b0d525293016cb3f37f69122.sif"
-url: https://datasets.datalad.org/shub/sschmeier/container-gatk3/latest/2020-08-27-bc0a3fea-8d9966f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/container-gatk3/latest/2020-08-27-bc0a3fea-8d9966f9/
 recipe: https://datasets.datalad.org/shub/sschmeier/container-gatk3/latest/2020-08-27-bc0a3fea-8d9966f9/Singularity
 collection: sschmeier/container-gatk3
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-13T16:10:18.856Z"
 size_mb: 3820.265625
 size: 4005838848
 sif: "https://datasets.datalad.org/shub/gongyh/nf-core-scgs/latest/2020-10-13-f5923314-157e9280/157e92808bee4f8e76035d56be1ab9737032facce7ed4770ecd317bec05d4fdb.sif"
-url: https://datasets.datalad.org/shub/gongyh/nf-core-scgs/latest/2020-10-13-f5923314-157e9280/
+datalad_url: https://datasets.datalad.org?dir=/shub/gongyh/nf-core-scgs/latest/2020-10-13-f5923314-157e9280/
 recipe: https://datasets.datalad.org/shub/gongyh/nf-core-scgs/latest/2020-10-13-f5923314-157e9280/Singularity
 collection: gongyh/nf-core-scgs
 ---

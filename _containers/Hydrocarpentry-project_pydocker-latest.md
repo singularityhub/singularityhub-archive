@@ -9,7 +9,7 @@ build_date: "2018-07-29T13:44:03.079Z"
 size_mb: 1283
 size: 451678239
 sif: "https://datasets.datalad.org/shub/Hydrocarpentry/project_pydocker/latest/2018-07-29-3115e72a-3570f40f/3570f40fac218227ed9e09c1b04bf7fb.simg"
-url: https://datasets.datalad.org/shub/Hydrocarpentry/project_pydocker/latest/2018-07-29-3115e72a-3570f40f/
+datalad_url: https://datasets.datalad.org?dir=/shub/Hydrocarpentry/project_pydocker/latest/2018-07-29-3115e72a-3570f40f/
 recipe: https://datasets.datalad.org/shub/Hydrocarpentry/project_pydocker/latest/2018-07-29-3115e72a-3570f40f/Singularity
 collection: Hydrocarpentry/project_pydocker
 ---

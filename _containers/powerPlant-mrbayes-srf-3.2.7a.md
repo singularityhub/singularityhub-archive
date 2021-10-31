@@ -9,7 +9,7 @@ build_date: "2020-09-03T11:47:18.671Z"
 size_mb: 104.6796875
 size: 109764608
 sif: "https://datasets.datalad.org/shub/powerPlant/mrbayes-srf/3.2.7a/2020-09-03-172eea0b-99197b48/99197b4846425791f988c6337e06f2e6fb7fa652b088697cf673343af260a74e.sif"
-url: https://datasets.datalad.org/shub/powerPlant/mrbayes-srf/3.2.7a/2020-09-03-172eea0b-99197b48/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/mrbayes-srf/3.2.7a/2020-09-03-172eea0b-99197b48/
 recipe: https://datasets.datalad.org/shub/powerPlant/mrbayes-srf/3.2.7a/2020-09-03-172eea0b-99197b48/Singularity
 collection: powerPlant/mrbayes-srf
 ---

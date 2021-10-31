@@ -9,7 +9,7 @@ build_date: "2021-01-20T16:55:48.549Z"
 size_mb: 576.94921875
 size: 604975104
 sif: "https://datasets.datalad.org/shub/edg1983/Singularity_images/qcbam-v1.0.def/2021-01-20-f4b53e73-0e6774fb/0e6774fb498512d7b961aeb3539a87e6428b0ee50758e6ae71f3ff1265e5b231.sif"
-url: https://datasets.datalad.org/shub/edg1983/Singularity_images/qcbam-v1.0.def/2021-01-20-f4b53e73-0e6774fb/
+datalad_url: https://datasets.datalad.org?dir=/shub/edg1983/Singularity_images/qcbam-v1.0.def/2021-01-20-f4b53e73-0e6774fb/
 recipe: https://datasets.datalad.org/shub/edg1983/Singularity_images/qcbam-v1.0.def/2021-01-20-f4b53e73-0e6774fb/Singularity
 collection: edg1983/Singularity_images
 ---

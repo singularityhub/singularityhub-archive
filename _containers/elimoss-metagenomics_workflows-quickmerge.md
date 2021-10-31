@@ -9,7 +9,7 @@ build_date: "2019-03-19T05:26:45.228Z"
 size_mb: 966
 size: 396791839
 sif: "https://datasets.datalad.org/shub/elimoss/metagenomics_workflows/quickmerge/2019-03-19-881308b2-62983268/629832687e24e9d46ae97bb96437068a.simg"
-url: https://datasets.datalad.org/shub/elimoss/metagenomics_workflows/quickmerge/2019-03-19-881308b2-62983268/
+datalad_url: https://datasets.datalad.org?dir=/shub/elimoss/metagenomics_workflows/quickmerge/2019-03-19-881308b2-62983268/
 recipe: https://datasets.datalad.org/shub/elimoss/metagenomics_workflows/quickmerge/2019-03-19-881308b2-62983268/Singularity
 collection: elimoss/metagenomics_workflows
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-31T20:22:58.480Z"
 size_mb: 7142
 size: 3676844063
 sif: "https://datasets.datalad.org/shub/UMMS-Biocore/piPipes_singularity/latest/2020-01-31-78b2e9d5-9d8f7988/9d8f798867c4a2f2c89ce7ed99fdb7f0.simg"
-url: https://datasets.datalad.org/shub/UMMS-Biocore/piPipes_singularity/latest/2020-01-31-78b2e9d5-9d8f7988/
+datalad_url: https://datasets.datalad.org?dir=/shub/UMMS-Biocore/piPipes_singularity/latest/2020-01-31-78b2e9d5-9d8f7988/
 recipe: https://datasets.datalad.org/shub/UMMS-Biocore/piPipes_singularity/latest/2020-01-31-78b2e9d5-9d8f7988/Singularity
 collection: UMMS-Biocore/piPipes_singularity
 ---

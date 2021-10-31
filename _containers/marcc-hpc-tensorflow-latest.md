@@ -9,7 +9,7 @@ build_date: "2021-04-18T21:15:07.310Z"
 size_mb: 3199
 size: 1544392735
 sif: "https://datasets.datalad.org/shub/marcc-hpc/tensorflow/latest/2021-04-18-e760bee8-5e9fe752/5e9fe752de149c1cbae442599ae0bdec.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/tensorflow/latest/2021-04-18-e760bee8-5e9fe752/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/tensorflow/latest/2021-04-18-e760bee8-5e9fe752/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/tensorflow/latest/2021-04-18-e760bee8-5e9fe752/Singularity
 collection: marcc-hpc/tensorflow
 ---

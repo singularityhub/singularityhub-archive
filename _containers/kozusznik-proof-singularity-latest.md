@@ -9,7 +9,7 @@ build_date: "2018-06-01T09:59:30.918Z"
 size_mb: 220
 size: 93085727
 sif: "https://datasets.datalad.org/shub/kozusznik/proof-singularity/latest/2018-06-01-4d4f3a8c-ea14d604/ea14d604eb674156f147d80057ce0c86.simg"
-url: https://datasets.datalad.org/shub/kozusznik/proof-singularity/latest/2018-06-01-4d4f3a8c-ea14d604/
+datalad_url: https://datasets.datalad.org?dir=/shub/kozusznik/proof-singularity/latest/2018-06-01-4d4f3a8c-ea14d604/
 recipe: https://datasets.datalad.org/shub/kozusznik/proof-singularity/latest/2018-06-01-4d4f3a8c-ea14d604/Singularity
 collection: kozusznik/proof-singularity
 ---

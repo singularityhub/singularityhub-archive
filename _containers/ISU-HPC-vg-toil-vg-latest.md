@@ -9,7 +9,7 @@ build_date: "2019-02-18T23:30:21.401Z"
 size_mb: 1061
 size: 395100191
 sif: "https://datasets.datalad.org/shub/ISU-HPC/vg-toil-vg/latest/2019-02-18-013f0924-c262107b/c262107b669a1b13affa405877046bea.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/vg-toil-vg/latest/2019-02-18-013f0924-c262107b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/vg-toil-vg/latest/2019-02-18-013f0924-c262107b/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/vg-toil-vg/latest/2019-02-18-013f0924-c262107b/Singularity
 collection: ISU-HPC/vg-toil-vg
 ---

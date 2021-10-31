@@ -9,7 +9,7 @@ build_date: "2019-09-06T07:27:51.256Z"
 size_mb: 2427.0
 size: 931426335
 sif: "https://datasets.datalad.org/shub/SKA-INAF/yandasoft-container/bionic/2019-09-06-b059eb17-ca20c11c/ca20c11c067e7d7b06620310a5eeca78.sif"
-url: https://datasets.datalad.org/shub/SKA-INAF/yandasoft-container/bionic/2019-09-06-b059eb17-ca20c11c/
+datalad_url: https://datasets.datalad.org?dir=/shub/SKA-INAF/yandasoft-container/bionic/2019-09-06-b059eb17-ca20c11c/
 recipe: https://datasets.datalad.org/shub/SKA-INAF/yandasoft-container/bionic/2019-09-06-b059eb17-ca20c11c/Singularity
 collection: SKA-INAF/yandasoft-container
 ---

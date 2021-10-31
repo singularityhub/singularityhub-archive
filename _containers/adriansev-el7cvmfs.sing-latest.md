@@ -9,7 +9,7 @@ build_date: "2021-04-14T19:20:55.974Z"
 size_mb: 364.453125
 size: 382156800
 sif: "https://datasets.datalad.org/shub/adriansev/el7cvmfs.sing/latest/2021-04-14-e39656ae-5c5d65cc/5c5d65cc8431edc48ab1dd8af7da1c47e3bf6afaa28aaa03af4cd848adf1df4f.sif"
-url: https://datasets.datalad.org/shub/adriansev/el7cvmfs.sing/latest/2021-04-14-e39656ae-5c5d65cc/
+datalad_url: https://datasets.datalad.org?dir=/shub/adriansev/el7cvmfs.sing/latest/2021-04-14-e39656ae-5c5d65cc/
 recipe: https://datasets.datalad.org/shub/adriansev/el7cvmfs.sing/latest/2021-04-14-e39656ae-5c5d65cc/Singularity
 collection: adriansev/el7cvmfs.sing
 ---

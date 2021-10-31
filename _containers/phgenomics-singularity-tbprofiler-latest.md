@@ -9,7 +9,7 @@ build_date: "2020-01-06T01:52:28.113Z"
 size_mb: 3645.0
 size: 1781182495
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/tbprofiler/latest/2020-01-06-215eb93f-8459e8d0/8459e8d0c02cd3539ed17c4ad5b50c9b.sif"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/tbprofiler/latest/2020-01-06-215eb93f-8459e8d0/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/tbprofiler/latest/2020-01-06-215eb93f-8459e8d0/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/tbprofiler/latest/2020-01-06-215eb93f-8459e8d0/Singularity
 collection: phgenomics-singularity/tbprofiler
 ---

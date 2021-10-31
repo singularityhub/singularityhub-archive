@@ -9,7 +9,7 @@ build_date: "2020-01-19T23:43:09.359Z"
 size_mb: 247.0
 size: 208183327
 sif: "https://datasets.datalad.org/shub/dermatologist/fhirql/latest/2020-01-19-2cfad030-34517329/34517329efb43be397c15762d90be0ed.sif"
-url: https://datasets.datalad.org/shub/dermatologist/fhirql/latest/2020-01-19-2cfad030-34517329/
+datalad_url: https://datasets.datalad.org?dir=/shub/dermatologist/fhirql/latest/2020-01-19-2cfad030-34517329/
 recipe: https://datasets.datalad.org/shub/dermatologist/fhirql/latest/2020-01-19-2cfad030-34517329/Singularity
 collection: dermatologist/fhirql
 ---

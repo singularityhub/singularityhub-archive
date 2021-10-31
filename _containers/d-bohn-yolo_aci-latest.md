@@ -9,7 +9,7 @@ build_date: "2019-06-28T07:13:44.831Z"
 size_mb: 4107
 size: 2046128159
 sif: "https://datasets.datalad.org/shub/d-bohn/yolo_aci/latest/2019-06-28-48d76973-37f7241c/37f7241c798489d11c9319e3c31886b6.simg"
-url: https://datasets.datalad.org/shub/d-bohn/yolo_aci/latest/2019-06-28-48d76973-37f7241c/
+datalad_url: https://datasets.datalad.org?dir=/shub/d-bohn/yolo_aci/latest/2019-06-28-48d76973-37f7241c/
 recipe: https://datasets.datalad.org/shub/d-bohn/yolo_aci/latest/2019-06-28-48d76973-37f7241c/Singularity
 collection: d-bohn/yolo_aci
 ---

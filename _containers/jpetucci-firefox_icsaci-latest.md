@@ -9,7 +9,7 @@ build_date: "2021-02-08T19:37:06.508Z"
 size_mb: 755
 size: 265023519
 sif: "https://datasets.datalad.org/shub/jpetucci/firefox_icsaci/latest/2021-02-08-84342170-053c9afa/053c9afaedf168b15cfc6ebcd29dcab8.simg"
-url: https://datasets.datalad.org/shub/jpetucci/firefox_icsaci/latest/2021-02-08-84342170-053c9afa/
+datalad_url: https://datasets.datalad.org?dir=/shub/jpetucci/firefox_icsaci/latest/2021-02-08-84342170-053c9afa/
 recipe: https://datasets.datalad.org/shub/jpetucci/firefox_icsaci/latest/2021-02-08-84342170-053c9afa/Singularity
 collection: jpetucci/firefox_icsaci
 ---

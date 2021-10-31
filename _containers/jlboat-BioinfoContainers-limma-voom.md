@@ -9,7 +9,7 @@ build_date: "2019-05-08T15:11:14.332Z"
 size_mb: 2600
 size: 993087519
 sif: "https://datasets.datalad.org/shub/jlboat/BioinfoContainers/limma-voom/2019-05-08-5f15386e-98b2d97f/98b2d97f318e15c4cb98a2e84a3787f2.simg"
-url: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/limma-voom/2019-05-08-5f15386e-98b2d97f/
+datalad_url: https://datasets.datalad.org?dir=/shub/jlboat/BioinfoContainers/limma-voom/2019-05-08-5f15386e-98b2d97f/
 recipe: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/limma-voom/2019-05-08-5f15386e-98b2d97f/Singularity
 collection: jlboat/BioinfoContainers
 ---

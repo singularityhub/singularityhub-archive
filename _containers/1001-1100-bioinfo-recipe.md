@@ -9,7 +9,7 @@ build_date: "2019-12-14T11:14:43.489Z"
 size_mb: 70.0
 size: 25849887
 sif: "https://datasets.datalad.org/shub/1001-1100/bioinfo/recipe/2019-12-14-d12fd020-fa989848/fa98984827a6aaf4ca93fc1154015e9a.sif"
-url: https://datasets.datalad.org/shub/1001-1100/bioinfo/recipe/2019-12-14-d12fd020-fa989848/
+datalad_url: https://datasets.datalad.org?dir=/shub/1001-1100/bioinfo/recipe/2019-12-14-d12fd020-fa989848/
 recipe: https://datasets.datalad.org/shub/1001-1100/bioinfo/recipe/2019-12-14-d12fd020-fa989848/Singularity
 collection: 1001-1100/bioinfo
 ---

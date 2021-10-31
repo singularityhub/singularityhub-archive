@@ -9,7 +9,7 @@ build_date: "2021-01-26T10:07:19.800Z"
 size_mb: 2152.0
 size: 867713055
 sif: "https://datasets.datalad.org/shub/afonsoguerra/CargoShip/pangolin/2021-01-26-d67697a6-3998c764/3998c76488a10fae6820b33aac6a5402.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/pangolin/2021-01-26-d67697a6-3998c764/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/CargoShip/pangolin/2021-01-26-d67697a6-3998c764/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/pangolin/2021-01-26-d67697a6-3998c764/Singularity
 collection: afonsoguerra/CargoShip
 ---

@@ -9,7 +9,7 @@ build_date: "2018-03-24T22:42:28.788Z"
 size_mb: 207
 size: 71278623
 sif: "https://datasets.datalad.org/shub/abhi18av/cli-tools/latest/2018-03-24-33aa48f0-ed72fb5b/ed72fb5b1f91a119e3997f19b43c389c.simg"
-url: https://datasets.datalad.org/shub/abhi18av/cli-tools/latest/2018-03-24-33aa48f0-ed72fb5b/
+datalad_url: https://datasets.datalad.org?dir=/shub/abhi18av/cli-tools/latest/2018-03-24-33aa48f0-ed72fb5b/
 recipe: https://datasets.datalad.org/shub/abhi18av/cli-tools/latest/2018-03-24-33aa48f0-ed72fb5b/Singularity
 collection: abhi18av/cli-tools
 ---

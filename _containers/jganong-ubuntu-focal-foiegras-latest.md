@@ -9,7 +9,7 @@ build_date: "2020-12-08T16:45:03.189Z"
 size_mb: 399.86328125
 size: 419287040
 sif: "https://datasets.datalad.org/shub/jganong/ubuntu-focal-foiegras/latest/2020-12-08-825898b0-4d85b3c3/4d85b3c3c70ce285ae350f33decc4ac2521798dc9f3fbc50e3f3f5861a2fdaaa.sif"
-url: https://datasets.datalad.org/shub/jganong/ubuntu-focal-foiegras/latest/2020-12-08-825898b0-4d85b3c3/
+datalad_url: https://datasets.datalad.org?dir=/shub/jganong/ubuntu-focal-foiegras/latest/2020-12-08-825898b0-4d85b3c3/
 recipe: https://datasets.datalad.org/shub/jganong/ubuntu-focal-foiegras/latest/2020-12-08-825898b0-4d85b3c3/Singularity
 collection: jganong/ubuntu-focal-foiegras
 ---

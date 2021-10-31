@@ -9,7 +9,7 @@ build_date: "2020-10-14T21:27:18.399Z"
 size_mb: 2572.0
 size: 1089875999
 sif: "https://datasets.datalad.org/shub/tfunck/julich-receptor-atlas/latest/2020-10-14-09f6e81f-54c41685/54c41685e4a9837b44288e8505aa0bb9.sif"
-url: https://datasets.datalad.org/shub/tfunck/julich-receptor-atlas/latest/2020-10-14-09f6e81f-54c41685/
+datalad_url: https://datasets.datalad.org?dir=/shub/tfunck/julich-receptor-atlas/latest/2020-10-14-09f6e81f-54c41685/
 recipe: https://datasets.datalad.org/shub/tfunck/julich-receptor-atlas/latest/2020-10-14-09f6e81f-54c41685/Singularity
 collection: tfunck/julich-receptor-atlas
 ---

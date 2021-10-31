@@ -9,7 +9,7 @@ build_date: "2018-07-18T13:16:13.170Z"
 size_mb: 9344
 size: 4128325663
 sif: "https://datasets.datalad.org/shub/CAIsr/qsm/tgvqsm_fsl_5p0p11/2018-07-18-e1d5e410-906c1624/906c1624097b273681b5d5d13d333d68.simg"
-url: https://datasets.datalad.org/shub/CAIsr/qsm/tgvqsm_fsl_5p0p11/2018-07-18-e1d5e410-906c1624/
+datalad_url: https://datasets.datalad.org?dir=/shub/CAIsr/qsm/tgvqsm_fsl_5p0p11/2018-07-18-e1d5e410-906c1624/
 recipe: https://datasets.datalad.org/shub/CAIsr/qsm/tgvqsm_fsl_5p0p11/2018-07-18-e1d5e410-906c1624/Singularity
 collection: CAIsr/qsm
 ---

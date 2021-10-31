@@ -9,7 +9,7 @@ build_date: "2021-04-16T17:19:32.157Z"
 size_mb: 1959.765625
 size: 2054963200
 sif: "https://datasets.datalad.org/shub/aseetharam/transcript-assemblers/latest/2021-04-16-983aa1c9-95d76e63/95d76e63f32c7718d852b779b07a9fcd8c60b68ff176e1ad2cb558316b26ef7e.sif"
-url: https://datasets.datalad.org/shub/aseetharam/transcript-assemblers/latest/2021-04-16-983aa1c9-95d76e63/
+datalad_url: https://datasets.datalad.org?dir=/shub/aseetharam/transcript-assemblers/latest/2021-04-16-983aa1c9-95d76e63/
 recipe: https://datasets.datalad.org/shub/aseetharam/transcript-assemblers/latest/2021-04-16-983aa1c9-95d76e63/Singularity
 collection: aseetharam/transcript-assemblers
 ---

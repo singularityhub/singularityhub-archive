@@ -9,7 +9,7 @@ build_date: "2021-04-12T20:01:37.928Z"
 size_mb: 6505
 size: 3107274783
 sif: "https://datasets.datalad.org/shub/JFresnedo/AmpSeq/ampseq/2021-04-12-23d27295-0c0395fd/0c0395fd85f969bc22ba66c6795906ad.simg"
-url: https://datasets.datalad.org/shub/JFresnedo/AmpSeq/ampseq/2021-04-12-23d27295-0c0395fd/
+datalad_url: https://datasets.datalad.org?dir=/shub/JFresnedo/AmpSeq/ampseq/2021-04-12-23d27295-0c0395fd/
 recipe: https://datasets.datalad.org/shub/JFresnedo/AmpSeq/ampseq/2021-04-12-23d27295-0c0395fd/Singularity
 collection: JFresnedo/AmpSeq
 ---

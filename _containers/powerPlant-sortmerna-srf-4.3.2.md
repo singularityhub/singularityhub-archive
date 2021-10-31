@@ -9,7 +9,7 @@ build_date: "2021-04-16T03:08:04.099Z"
 size_mb: 55.55859375
 size: 58257408
 sif: "https://datasets.datalad.org/shub/powerPlant/sortmerna-srf/4.3.2/2021-04-16-ecd4c3db-9015cd02/9015cd0249e61b94567b2caadca48920874b9915d2959bbee54821133429fa1e.sif"
-url: https://datasets.datalad.org/shub/powerPlant/sortmerna-srf/4.3.2/2021-04-16-ecd4c3db-9015cd02/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/sortmerna-srf/4.3.2/2021-04-16-ecd4c3db-9015cd02/
 recipe: https://datasets.datalad.org/shub/powerPlant/sortmerna-srf/4.3.2/2021-04-16-ecd4c3db-9015cd02/Singularity
 collection: powerPlant/sortmerna-srf
 ---

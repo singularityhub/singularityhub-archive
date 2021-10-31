@@ -9,7 +9,7 @@ build_date: "2018-11-26T17:12:55.483Z"
 size_mb: 11606
 size: 4034715679
 sif: "https://datasets.datalad.org/shub/sualehasif996/om-pytorch-image/latest/2018-11-26-f778eaa1-ad52e9a6/ad52e9a69e257d15324a62a01e0b5490.simg"
-url: https://datasets.datalad.org/shub/sualehasif996/om-pytorch-image/latest/2018-11-26-f778eaa1-ad52e9a6/
+datalad_url: https://datasets.datalad.org?dir=/shub/sualehasif996/om-pytorch-image/latest/2018-11-26-f778eaa1-ad52e9a6/
 recipe: https://datasets.datalad.org/shub/sualehasif996/om-pytorch-image/latest/2018-11-26-f778eaa1-ad52e9a6/Singularity
 collection: sualehasif996/om-pytorch-image
 ---

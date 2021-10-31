@@ -9,7 +9,7 @@ build_date: "2019-08-09T12:59:29.191Z"
 size_mb: 2548.0
 size: 1035206687
 sif: "https://datasets.datalad.org/shub/team113sanger/t113-singularity/r-3.6.0.subclonal_reconstruction-1.0.0/2019-08-09-61404fce-0c2820bc/0c2820bc6805183c7d1e8ebef07ff831.sif"
-url: https://datasets.datalad.org/shub/team113sanger/t113-singularity/r-3.6.0.subclonal_reconstruction-1.0.0/2019-08-09-61404fce-0c2820bc/
+datalad_url: https://datasets.datalad.org?dir=/shub/team113sanger/t113-singularity/r-3.6.0.subclonal_reconstruction-1.0.0/2019-08-09-61404fce-0c2820bc/
 recipe: https://datasets.datalad.org/shub/team113sanger/t113-singularity/r-3.6.0.subclonal_reconstruction-1.0.0/2019-08-09-61404fce-0c2820bc/Singularity
 collection: team113sanger/t113-singularity
 ---

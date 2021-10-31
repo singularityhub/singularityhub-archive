@@ -9,7 +9,7 @@ build_date: "2018-08-08T03:56:32.216Z"
 size_mb: 1007
 size: 417480735
 sif: "https://datasets.datalad.org/shub/rgrandin/Singularity-Handbrake/fedora28/2018-08-08-edb2cbac-2317bf40/2317bf407d265d996fb694916832ce1a.simg"
-url: https://datasets.datalad.org/shub/rgrandin/Singularity-Handbrake/fedora28/2018-08-08-edb2cbac-2317bf40/
+datalad_url: https://datasets.datalad.org?dir=/shub/rgrandin/Singularity-Handbrake/fedora28/2018-08-08-edb2cbac-2317bf40/
 recipe: https://datasets.datalad.org/shub/rgrandin/Singularity-Handbrake/fedora28/2018-08-08-edb2cbac-2317bf40/Singularity
 collection: rgrandin/Singularity-Handbrake
 ---

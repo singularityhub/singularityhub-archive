@@ -9,7 +9,7 @@ build_date: "2018-12-03T17:26:30.234Z"
 size_mb: 8037
 size: 3892191263
 sif: "https://datasets.datalad.org/shub/LSSTDESC/ALCF_1.2i/latest/2018-12-03-5741843f-7cb36262/7cb36262780b228dba92616f5229fc57.simg"
-url: https://datasets.datalad.org/shub/LSSTDESC/ALCF_1.2i/latest/2018-12-03-5741843f-7cb36262/
+datalad_url: https://datasets.datalad.org?dir=/shub/LSSTDESC/ALCF_1.2i/latest/2018-12-03-5741843f-7cb36262/
 recipe: https://datasets.datalad.org/shub/LSSTDESC/ALCF_1.2i/latest/2018-12-03-5741843f-7cb36262/Singularity
 collection: LSSTDESC/ALCF_1.2i
 ---

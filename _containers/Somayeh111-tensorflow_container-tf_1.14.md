@@ -9,7 +9,7 @@ build_date: "2019-08-14T22:10:03.043Z"
 size_mb: 3683.0
 size: 1872437279
 sif: "https://datasets.datalad.org/shub/Somayeh111/tensorflow_container/tf_1.14/2019-08-14-3203defb-def2885e/def2885e62f16449207c50d77981c755.sif"
-url: https://datasets.datalad.org/shub/Somayeh111/tensorflow_container/tf_1.14/2019-08-14-3203defb-def2885e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Somayeh111/tensorflow_container/tf_1.14/2019-08-14-3203defb-def2885e/
 recipe: https://datasets.datalad.org/shub/Somayeh111/tensorflow_container/tf_1.14/2019-08-14-3203defb-def2885e/Singularity
 collection: Somayeh111/tensorflow_container
 ---

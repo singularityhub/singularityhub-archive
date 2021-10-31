@@ -9,7 +9,7 @@ build_date: "2019-10-22T22:24:04.622Z"
 size_mb: 6127
 size: 3446775839
 sif: "https://datasets.datalad.org/shub/muhammadzaheer/singularity-recipes/selectivedynagpu/2019-10-22-4672cb71-881cd193/881cd19327f3216c63577aac64713802.simg"
-url: https://datasets.datalad.org/shub/muhammadzaheer/singularity-recipes/selectivedynagpu/2019-10-22-4672cb71-881cd193/
+datalad_url: https://datasets.datalad.org?dir=/shub/muhammadzaheer/singularity-recipes/selectivedynagpu/2019-10-22-4672cb71-881cd193/
 recipe: https://datasets.datalad.org/shub/muhammadzaheer/singularity-recipes/selectivedynagpu/2019-10-22-4672cb71-881cd193/Singularity
 collection: muhammadzaheer/singularity-recipes
 ---

@@ -9,7 +9,7 @@ build_date: "2018-11-06T09:27:21.090Z"
 size_mb: 2405
 size: 898101279
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/basecall_wrapper_0.0.30_albacore_2.3.3/2018-11-06-f37a45ad-2bdb1bca/2bdb1bca9dc9f3481946b59e67ca72c0.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/basecall_wrapper_0.0.30_albacore_2.3.3/2018-11-06-f37a45ad-2bdb1bca/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/basecall_wrapper_0.0.30_albacore_2.3.3/2018-11-06-f37a45ad-2bdb1bca/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/basecall_wrapper_0.0.30_albacore_2.3.3/2018-11-06-f37a45ad-2bdb1bca/Singularity
 collection: TomHarrop/singularity-containers
 ---

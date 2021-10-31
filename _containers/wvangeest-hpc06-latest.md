@@ -9,7 +9,7 @@ build_date: "2019-12-05T14:11:58.312Z"
 size_mb: 2603.0
 size: 1736069151
 sif: "https://datasets.datalad.org/shub/wvangeest/hpc06/latest/2019-12-05-cd9ffe27-780e33f9/780e33f908e22412d1cec419ecaaf0ed.sif"
-url: https://datasets.datalad.org/shub/wvangeest/hpc06/latest/2019-12-05-cd9ffe27-780e33f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/wvangeest/hpc06/latest/2019-12-05-cd9ffe27-780e33f9/
 recipe: https://datasets.datalad.org/shub/wvangeest/hpc06/latest/2019-12-05-cd9ffe27-780e33f9/Singularity
 collection: wvangeest/hpc06
 ---

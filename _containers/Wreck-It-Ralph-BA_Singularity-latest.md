@@ -9,7 +9,7 @@ build_date: "2020-04-27T14:41:27.994Z"
 size_mb: 6029.0
 size: 3824050207
 sif: "https://datasets.datalad.org/shub/Wreck-It-Ralph/BA_Singularity/latest/2020-04-27-fed1aac6-5f33ac8e/5f33ac8e55fe3d2cb9f055e5a7b4bb09.sif"
-url: https://datasets.datalad.org/shub/Wreck-It-Ralph/BA_Singularity/latest/2020-04-27-fed1aac6-5f33ac8e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Wreck-It-Ralph/BA_Singularity/latest/2020-04-27-fed1aac6-5f33ac8e/
 recipe: https://datasets.datalad.org/shub/Wreck-It-Ralph/BA_Singularity/latest/2020-04-27-fed1aac6-5f33ac8e/Singularity
 collection: Wreck-It-Ralph/BA_Singularity
 ---

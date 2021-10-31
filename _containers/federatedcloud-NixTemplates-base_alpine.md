@@ -9,7 +9,7 @@ build_date: "2018-07-16T20:47:11.179Z"
 size_mb: 300
 size: 53358623
 sif: "https://datasets.datalad.org/shub/federatedcloud/NixTemplates/base_alpine/2018-07-16-986d6260-c3d67c7d/c3d67c7d2f88b37236f721e52e083472.simg"
-url: https://datasets.datalad.org/shub/federatedcloud/NixTemplates/base_alpine/2018-07-16-986d6260-c3d67c7d/
+datalad_url: https://datasets.datalad.org?dir=/shub/federatedcloud/NixTemplates/base_alpine/2018-07-16-986d6260-c3d67c7d/
 recipe: https://datasets.datalad.org/shub/federatedcloud/NixTemplates/base_alpine/2018-07-16-986d6260-c3d67c7d/Singularity
 collection: federatedcloud/NixTemplates
 ---

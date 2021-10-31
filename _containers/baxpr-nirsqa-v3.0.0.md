@@ -9,7 +9,7 @@ build_date: "2021-02-17T17:37:10.806Z"
 size_mb: 3485
 size: 1473167391
 sif: "https://datasets.datalad.org/shub/baxpr/nirsqa/v3.0.0/2021-02-17-5a425b11-785ac9a0/785ac9a0202ac499624cd1f8e58eefe6.simg"
-url: https://datasets.datalad.org/shub/baxpr/nirsqa/v3.0.0/2021-02-17-5a425b11-785ac9a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/nirsqa/v3.0.0/2021-02-17-5a425b11-785ac9a0/
 recipe: https://datasets.datalad.org/shub/baxpr/nirsqa/v3.0.0/2021-02-17-5a425b11-785ac9a0/Singularity
 collection: baxpr/nirsqa
 ---

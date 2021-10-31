@@ -9,7 +9,7 @@ build_date: "2020-12-18T02:31:22.689Z"
 size_mb: 142.0
 size: 60813343
 sif: "https://datasets.datalad.org/shub/lozza10/singularity_test/latest/2020-12-18-cabf1470-b53c83e6/b53c83e617c0d508d820bfe37f6a1612.sif"
-url: https://datasets.datalad.org/shub/lozza10/singularity_test/latest/2020-12-18-cabf1470-b53c83e6/
+datalad_url: https://datasets.datalad.org?dir=/shub/lozza10/singularity_test/latest/2020-12-18-cabf1470-b53c83e6/
 recipe: https://datasets.datalad.org/shub/lozza10/singularity_test/latest/2020-12-18-cabf1470-b53c83e6/Singularity
 collection: lozza10/singularity_test
 ---

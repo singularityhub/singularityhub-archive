@@ -9,7 +9,7 @@ build_date: "2020-11-18T06:25:30.060Z"
 size_mb: 4132.0
 size: 1633820703
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/globus-connect-personal_latest/2020-11-18-b01b2eac-f72394af/f72394af48c65aa66fc3ea68c6d3b053.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/globus-connect-personal_latest/2020-11-18-b01b2eac-f72394af/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/globus-connect-personal_latest/2020-11-18-b01b2eac-f72394af/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/globus-connect-personal_latest/2020-11-18-b01b2eac-f72394af/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

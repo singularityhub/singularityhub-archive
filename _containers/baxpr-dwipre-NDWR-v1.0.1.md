@@ -9,7 +9,7 @@ build_date: "2020-07-24T12:19:04.539Z"
 size_mb: 12678.0
 size: 5186371615
 sif: "https://datasets.datalad.org/shub/baxpr/dwipre-NDWR/v1.0.1/2020-07-24-c07f2ba0-dd803332/dd8033322a1947c4679d106aa679695a.sif"
-url: https://datasets.datalad.org/shub/baxpr/dwipre-NDWR/v1.0.1/2020-07-24-c07f2ba0-dd803332/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/dwipre-NDWR/v1.0.1/2020-07-24-c07f2ba0-dd803332/
 recipe: https://datasets.datalad.org/shub/baxpr/dwipre-NDWR/v1.0.1/2020-07-24-c07f2ba0-dd803332/Singularity
 collection: baxpr/dwipre-NDWR
 ---

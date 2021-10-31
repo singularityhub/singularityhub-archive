@@ -9,7 +9,7 @@ build_date: "2018-04-15T03:24:04.340Z"
 size_mb: 2216
 size: 1013133343
 sif: "https://datasets.datalad.org/shub/bouthilx/qtrack/flow/2018-04-15-a0194a86-1dae58e2/1dae58e223f181f36016eb1c3d5b2580.simg"
-url: https://datasets.datalad.org/shub/bouthilx/qtrack/flow/2018-04-15-a0194a86-1dae58e2/
+datalad_url: https://datasets.datalad.org?dir=/shub/bouthilx/qtrack/flow/2018-04-15-a0194a86-1dae58e2/
 recipe: https://datasets.datalad.org/shub/bouthilx/qtrack/flow/2018-04-15-a0194a86-1dae58e2/Singularity
 collection: bouthilx/qtrack
 ---

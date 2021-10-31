@@ -9,7 +9,7 @@ build_date: "2020-09-29T07:45:38.162Z"
 size_mb: 383
 size: 137494559
 sif: "https://datasets.datalad.org/shub/okuisatoshi/singularity-haskell-stack/latest/2020-09-29-01dd6783-4bffba99/4bffba998545d6b13d4628732ad3439b.simg"
-url: https://datasets.datalad.org/shub/okuisatoshi/singularity-haskell-stack/latest/2020-09-29-01dd6783-4bffba99/
+datalad_url: https://datasets.datalad.org?dir=/shub/okuisatoshi/singularity-haskell-stack/latest/2020-09-29-01dd6783-4bffba99/
 recipe: https://datasets.datalad.org/shub/okuisatoshi/singularity-haskell-stack/latest/2020-09-29-01dd6783-4bffba99/Singularity
 collection: okuisatoshi/singularity-haskell-stack
 ---

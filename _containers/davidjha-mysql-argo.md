@@ -9,7 +9,7 @@ build_date: "2020-03-14T20:04:41.872Z"
 size_mb: 364.0
 size: 118747167
 sif: "https://datasets.datalad.org/shub/davidjha/mysql/argo/2020-03-14-9ddec59d-120ef188/120ef18851e7cf7c066a14945864d76f.sif"
-url: https://datasets.datalad.org/shub/davidjha/mysql/argo/2020-03-14-9ddec59d-120ef188/
+datalad_url: https://datasets.datalad.org?dir=/shub/davidjha/mysql/argo/2020-03-14-9ddec59d-120ef188/
 recipe: https://datasets.datalad.org/shub/davidjha/mysql/argo/2020-03-14-9ddec59d-120ef188/Singularity
 collection: davidjha/mysql
 ---

@@ -9,7 +9,7 @@ build_date: "2018-07-19T11:53:19.042Z"
 size_mb: 158
 size: 67805215
 sif: "https://datasets.datalad.org/shub/colinsauze/singularity_example/latest/2018-07-19-28eb7d98-4a924675/4a924675592da94ba87cdb930e682cee.simg"
-url: https://datasets.datalad.org/shub/colinsauze/singularity_example/latest/2018-07-19-28eb7d98-4a924675/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinsauze/singularity_example/latest/2018-07-19-28eb7d98-4a924675/
 recipe: https://datasets.datalad.org/shub/colinsauze/singularity_example/latest/2018-07-19-28eb7d98-4a924675/Singularity
 collection: colinsauze/singularity_example
 ---

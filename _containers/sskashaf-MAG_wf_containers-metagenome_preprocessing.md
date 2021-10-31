@@ -9,7 +9,7 @@ build_date: "2021-03-19T21:53:24.954Z"
 size_mb: 3981.0
 size: 1841238047
 sif: "https://datasets.datalad.org/shub/sskashaf/MAG_wf_containers/metagenome_preprocessing/2021-03-19-f296062f-1f7121b3/1f7121b3ff2bf4a45d6b134f47e723ee.sif"
-url: https://datasets.datalad.org/shub/sskashaf/MAG_wf_containers/metagenome_preprocessing/2021-03-19-f296062f-1f7121b3/
+datalad_url: https://datasets.datalad.org?dir=/shub/sskashaf/MAG_wf_containers/metagenome_preprocessing/2021-03-19-f296062f-1f7121b3/
 recipe: https://datasets.datalad.org/shub/sskashaf/MAG_wf_containers/metagenome_preprocessing/2021-03-19-f296062f-1f7121b3/Singularity
 collection: sskashaf/MAG_wf_containers
 ---

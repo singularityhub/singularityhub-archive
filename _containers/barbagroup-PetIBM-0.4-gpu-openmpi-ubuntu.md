@@ -9,7 +9,7 @@ build_date: "2019-08-13T19:59:16.303Z"
 size_mb: 4449
 size: 1470709791
 sif: "https://datasets.datalad.org/shub/barbagroup/PetIBM/0.4-gpu-openmpi-ubuntu/2019-08-13-a8fc7ae8-3a704950/3a704950b0e8f9743386538877530115.simg"
-url: https://datasets.datalad.org/shub/barbagroup/PetIBM/0.4-gpu-openmpi-ubuntu/2019-08-13-a8fc7ae8-3a704950/
+datalad_url: https://datasets.datalad.org?dir=/shub/barbagroup/PetIBM/0.4-gpu-openmpi-ubuntu/2019-08-13-a8fc7ae8-3a704950/
 recipe: https://datasets.datalad.org/shub/barbagroup/PetIBM/0.4-gpu-openmpi-ubuntu/2019-08-13-a8fc7ae8-3a704950/Singularity
 collection: barbagroup/PetIBM
 ---

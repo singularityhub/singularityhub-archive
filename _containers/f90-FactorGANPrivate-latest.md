@@ -9,7 +9,7 @@ build_date: "2019-10-24T12:23:26.741Z"
 size_mb: 6679.0
 size: 4118331423
 sif: "https://datasets.datalad.org/shub/f90/FactorGANPrivate/latest/2019-10-24-a8856c75-36fffa48/36fffa489dac94700365f34a0fa52e9c.sif"
-url: https://datasets.datalad.org/shub/f90/FactorGANPrivate/latest/2019-10-24-a8856c75-36fffa48/
+datalad_url: https://datasets.datalad.org?dir=/shub/f90/FactorGANPrivate/latest/2019-10-24-a8856c75-36fffa48/
 recipe: https://datasets.datalad.org/shub/f90/FactorGANPrivate/latest/2019-10-24-a8856c75-36fffa48/Singularity
 collection: f90/FactorGANPrivate
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-16T23:48:05.238Z"
 size_mb: 7408
 size: 2680221727
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/apex_master/2020-09-16-f63957ae-bf804917/bf8049177df226209d9e3e98cae2aae2.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/apex_master/2020-09-16-f63957ae-bf804917/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/apex_master/2020-09-16-f63957ae-bf804917/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/apex_master/2020-09-16-f63957ae-bf804917/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

@@ -9,7 +9,7 @@ build_date: "2019-08-26T20:11:46.684Z"
 size_mb: 7589.0
 size: 4456415263
 sif: "https://datasets.datalad.org/shub/CreRecombinase/ptb_container/latest/2019-08-26-8e729869-9d5af63e/9d5af63e3ae5d23d36cb359a6a826f9d.sif"
-url: https://datasets.datalad.org/shub/CreRecombinase/ptb_container/latest/2019-08-26-8e729869-9d5af63e/
+datalad_url: https://datasets.datalad.org?dir=/shub/CreRecombinase/ptb_container/latest/2019-08-26-8e729869-9d5af63e/
 recipe: https://datasets.datalad.org/shub/CreRecombinase/ptb_container/latest/2019-08-26-8e729869-9d5af63e/Singularity
 collection: CreRecombinase/ptb_container
 ---

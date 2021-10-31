@@ -9,7 +9,7 @@ build_date: "2019-11-18T15:32:06.473Z"
 size_mb: 2079.0
 size: 1056055327
 sif: "https://datasets.datalad.org/shub/smerz1989/np-mc/branched/2019-11-18-9d4731c7-28c68e86/28c68e8661f4dd0e289c365faa5b1c12.sif"
-url: https://datasets.datalad.org/shub/smerz1989/np-mc/branched/2019-11-18-9d4731c7-28c68e86/
+datalad_url: https://datasets.datalad.org?dir=/shub/smerz1989/np-mc/branched/2019-11-18-9d4731c7-28c68e86/
 recipe: https://datasets.datalad.org/shub/smerz1989/np-mc/branched/2019-11-18-9d4731c7-28c68e86/Singularity
 collection: smerz1989/np-mc
 ---

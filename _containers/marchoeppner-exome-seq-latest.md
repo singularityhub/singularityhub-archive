@@ -9,7 +9,7 @@ build_date: "2019-04-03T10:00:06.836Z"
 size_mb: 5225
 size: 1817653279
 sif: "https://datasets.datalad.org/shub/marchoeppner/exome-seq/latest/2019-04-03-598b67c8-72726214/72726214d4161589b9933dedf0fe5175.simg"
-url: https://datasets.datalad.org/shub/marchoeppner/exome-seq/latest/2019-04-03-598b67c8-72726214/
+datalad_url: https://datasets.datalad.org?dir=/shub/marchoeppner/exome-seq/latest/2019-04-03-598b67c8-72726214/
 recipe: https://datasets.datalad.org/shub/marchoeppner/exome-seq/latest/2019-04-03-598b67c8-72726214/Singularity
 collection: marchoeppner/exome-seq
 ---

@@ -9,7 +9,7 @@ build_date: "2017-11-16T10:30:37.337Z"
 size_mb: 3051
 size: 1491283999
 sif: "https://datasets.datalad.org/shub/edraizen/Singularity/latest/2017-11-16-0ace0aeb-ee98bc7e/ee98bc7eff9b294be30a8fe6388353fe.simg"
-url: https://datasets.datalad.org/shub/edraizen/Singularity/latest/2017-11-16-0ace0aeb-ee98bc7e/
+datalad_url: https://datasets.datalad.org?dir=/shub/edraizen/Singularity/latest/2017-11-16-0ace0aeb-ee98bc7e/
 recipe: https://datasets.datalad.org/shub/edraizen/Singularity/latest/2017-11-16-0ace0aeb-ee98bc7e/Singularity
 collection: edraizen/Singularity
 ---

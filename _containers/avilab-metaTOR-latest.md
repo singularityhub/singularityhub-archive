@@ -9,7 +9,7 @@ build_date: "2019-01-24T13:55:00.989Z"
 size_mb: 1124
 size: 426565663
 sif: "https://datasets.datalad.org/shub/avilab/metaTOR/latest/2019-01-24-3db1b676-1944d382/1944d3820e12df60193b953f2259bd53.simg"
-url: https://datasets.datalad.org/shub/avilab/metaTOR/latest/2019-01-24-3db1b676-1944d382/
+datalad_url: https://datasets.datalad.org?dir=/shub/avilab/metaTOR/latest/2019-01-24-3db1b676-1944d382/
 recipe: https://datasets.datalad.org/shub/avilab/metaTOR/latest/2019-01-24-3db1b676-1944d382/Singularity
 collection: avilab/metaTOR
 ---

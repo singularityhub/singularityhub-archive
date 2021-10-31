@@ -9,7 +9,7 @@ build_date: "2021-03-16T16:45:14.470Z"
 size_mb: 3061.0
 size: 1351696415
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/pyclone-vi.centos7.conda/2021-03-16-d320c0b2-ad4367b2/ad4367b2fb7d40c3a7b4738ed466eb4a.sif"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/pyclone-vi.centos7.conda/2021-03-16-d320c0b2-ad4367b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/pyclone-vi.centos7.conda/2021-03-16-d320c0b2-ad4367b2/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/pyclone-vi.centos7.conda/2021-03-16-d320c0b2-ad4367b2/Singularity
 collection: brucemoran/Singularity
 ---

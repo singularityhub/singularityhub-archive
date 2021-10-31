@@ -9,7 +9,7 @@ build_date: "2019-11-18T23:32:04.433Z"
 size_mb: 3876
 size: 1511628831
 sif: "https://datasets.datalad.org/shub/lakinsm/bear-wgs/latest/2019-11-18-138863f3-acdb6409/acdb64095642241a59a50fdfd1c946ef.simg"
-url: https://datasets.datalad.org/shub/lakinsm/bear-wgs/latest/2019-11-18-138863f3-acdb6409/
+datalad_url: https://datasets.datalad.org?dir=/shub/lakinsm/bear-wgs/latest/2019-11-18-138863f3-acdb6409/
 recipe: https://datasets.datalad.org/shub/lakinsm/bear-wgs/latest/2019-11-18-138863f3-acdb6409/Singularity
 collection: lakinsm/bear-wgs
 ---

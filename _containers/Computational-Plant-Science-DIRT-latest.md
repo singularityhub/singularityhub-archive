@@ -9,7 +9,7 @@ build_date: "2020-12-22T03:59:28.608Z"
 size_mb: 1288
 size: 477188127
 sif: "https://datasets.datalad.org/shub/Computational-Plant-Science/DIRT/latest/2020-12-22-52c477b4-42e4a2b1/42e4a2b1dbf881441a90a72c39a166bc.simg"
-url: https://datasets.datalad.org/shub/Computational-Plant-Science/DIRT/latest/2020-12-22-52c477b4-42e4a2b1/
+datalad_url: https://datasets.datalad.org?dir=/shub/Computational-Plant-Science/DIRT/latest/2020-12-22-52c477b4-42e4a2b1/
 recipe: https://datasets.datalad.org/shub/Computational-Plant-Science/DIRT/latest/2020-12-22-52c477b4-42e4a2b1/Singularity
 collection: Computational-Plant-Science/DIRT
 ---

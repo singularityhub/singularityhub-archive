@@ -9,7 +9,7 @@ build_date: "2020-09-30T11:28:52.750Z"
 size_mb: 3564.0
 size: 2186465311
 sif: "https://datasets.datalad.org/shub/user381/sing-reci/9.2-cudnn7-runtime-ubuntu18.04/2020-09-30-2708de05-ac90f09a/ac90f09a9198835dbb8aad30c33e6cd5.sif"
-url: https://datasets.datalad.org/shub/user381/sing-reci/9.2-cudnn7-runtime-ubuntu18.04/2020-09-30-2708de05-ac90f09a/
+datalad_url: https://datasets.datalad.org?dir=/shub/user381/sing-reci/9.2-cudnn7-runtime-ubuntu18.04/2020-09-30-2708de05-ac90f09a/
 recipe: https://datasets.datalad.org/shub/user381/sing-reci/9.2-cudnn7-runtime-ubuntu18.04/2020-09-30-2708de05-ac90f09a/Singularity
 collection: user381/sing-reci
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-29T14:37:41.855Z"
 size_mb: 5603
 size: 1817960479
 sif: "https://datasets.datalad.org/shub/libAtoms/QUIP/latest/2021-01-29-b44be91d-6d7ea951/6d7ea951343aef488039cc792c16cbdb.simg"
-url: https://datasets.datalad.org/shub/libAtoms/QUIP/latest/2021-01-29-b44be91d-6d7ea951/
+datalad_url: https://datasets.datalad.org?dir=/shub/libAtoms/QUIP/latest/2021-01-29-b44be91d-6d7ea951/
 recipe: https://datasets.datalad.org/shub/libAtoms/QUIP/latest/2021-01-29-b44be91d-6d7ea951/Singularity
 collection: libAtoms/QUIP
 ---

@@ -9,7 +9,7 @@ build_date: "2020-02-12T21:23:08.125Z"
 size_mb: 2287
 size: 880869407
 sif: "https://datasets.datalad.org/shub/phelelani/transcriptomics/r/2020-02-12-2727089b-d7f8bba7/d7f8bba7d0a1902f846eca9c8d0875da.simg"
-url: https://datasets.datalad.org/shub/phelelani/transcriptomics/r/2020-02-12-2727089b-d7f8bba7/
+datalad_url: https://datasets.datalad.org?dir=/shub/phelelani/transcriptomics/r/2020-02-12-2727089b-d7f8bba7/
 recipe: https://datasets.datalad.org/shub/phelelani/transcriptomics/r/2020-02-12-2727089b-d7f8bba7/Singularity
 collection: phelelani/transcriptomics
 ---

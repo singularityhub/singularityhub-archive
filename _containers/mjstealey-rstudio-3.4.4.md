@@ -9,7 +9,7 @@ build_date: "2018-07-21T00:28:21.655Z"
 size_mb: 1541
 size: 498069535
 sif: "https://datasets.datalad.org/shub/mjstealey/rstudio/3.4.4/2018-07-21-50828c53-f1171514/f1171514a03b200361db2c971d7fc000.simg"
-url: https://datasets.datalad.org/shub/mjstealey/rstudio/3.4.4/2018-07-21-50828c53-f1171514/
+datalad_url: https://datasets.datalad.org?dir=/shub/mjstealey/rstudio/3.4.4/2018-07-21-50828c53-f1171514/
 recipe: https://datasets.datalad.org/shub/mjstealey/rstudio/3.4.4/2018-07-21-50828c53-f1171514/Singularity
 collection: mjstealey/rstudio
 ---

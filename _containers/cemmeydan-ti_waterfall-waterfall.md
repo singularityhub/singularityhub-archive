@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.655Z"
 size_mb: 2523
 size: 930865183
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_waterfall/waterfall/2019-04-04-62b7c1b5-78996a00/78996a006bd4f46db67f869d9cafcd0d.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_waterfall/waterfall/2019-04-04-62b7c1b5-78996a00/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_waterfall/waterfall/2019-04-04-62b7c1b5-78996a00/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_waterfall/waterfall/2019-04-04-62b7c1b5-78996a00/Singularity
 collection: cemmeydan/ti_waterfall
 ---

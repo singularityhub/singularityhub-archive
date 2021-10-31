@@ -9,7 +9,7 @@ build_date: "2020-04-20T05:28:59.840Z"
 size_mb: 1710.0
 size: 769863711
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cellprofiler_3.1.5/2020-04-20-ca61ae77-1b7dc90d/1b7dc90d12469cc775fcf6f403d7e98f.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cellprofiler_3.1.5/2020-04-20-ca61ae77-1b7dc90d/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cellprofiler_3.1.5/2020-04-20-ca61ae77-1b7dc90d/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cellprofiler_3.1.5/2020-04-20-ca61ae77-1b7dc90d/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

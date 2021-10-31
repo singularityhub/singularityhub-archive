@@ -9,7 +9,7 @@ build_date: "2020-09-15T09:40:42.546Z"
 size_mb: 2774.0
 size: 1139949599
 sif: "https://datasets.datalad.org/shub/BarquistLab/Dual_RNA_seq/main/2020-09-15-89835a0a-4d1ff3e3/4d1ff3e31d7d0b3b764be4eb93fb265d.sif"
-url: https://datasets.datalad.org/shub/BarquistLab/Dual_RNA_seq/main/2020-09-15-89835a0a-4d1ff3e3/
+datalad_url: https://datasets.datalad.org?dir=/shub/BarquistLab/Dual_RNA_seq/main/2020-09-15-89835a0a-4d1ff3e3/
 recipe: https://datasets.datalad.org/shub/BarquistLab/Dual_RNA_seq/main/2020-09-15-89835a0a-4d1ff3e3/Singularity
 collection: BarquistLab/Dual_RNA_seq
 ---

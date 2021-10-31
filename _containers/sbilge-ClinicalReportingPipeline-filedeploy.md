@@ -9,7 +9,7 @@ build_date: "2018-11-19T13:45:58.794Z"
 size_mb: 1685
 size: 632848415
 sif: "https://datasets.datalad.org/shub/sbilge/ClinicalReportingPipeline/filedeploy/2018-11-19-3d527171-4859de26/4859de263452e344c88f486c5baaa5bd.simg"
-url: https://datasets.datalad.org/shub/sbilge/ClinicalReportingPipeline/filedeploy/2018-11-19-3d527171-4859de26/
+datalad_url: https://datasets.datalad.org?dir=/shub/sbilge/ClinicalReportingPipeline/filedeploy/2018-11-19-3d527171-4859de26/
 recipe: https://datasets.datalad.org/shub/sbilge/ClinicalReportingPipeline/filedeploy/2018-11-19-3d527171-4859de26/Singularity
 collection: sbilge/ClinicalReportingPipeline
 ---

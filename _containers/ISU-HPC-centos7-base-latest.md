@@ -9,7 +9,7 @@ build_date: "2021-01-26T12:31:34.590Z"
 size_mb: 279
 size: 83030047
 sif: "https://datasets.datalad.org/shub/ISU-HPC/centos7-base/latest/2021-01-26-72d02f43-8dde701b/8dde701bb4904a367e981d349c7f4c29.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/centos7-base/latest/2021-01-26-72d02f43-8dde701b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/centos7-base/latest/2021-01-26-72d02f43-8dde701b/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/centos7-base/latest/2021-01-26-72d02f43-8dde701b/Singularity
 collection: ISU-HPC/centos7-base
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-26T10:31:37.044Z"
 size_mb: 6142
 size: 2375434271
 sif: "https://datasets.datalad.org/shub/anoyaro84/snakemake_ChIPseq/latest/2020-01-26-3221b709-dba242df/dba242df54b2b6ddf03d8f8e4e6c2b50.simg"
-url: https://datasets.datalad.org/shub/anoyaro84/snakemake_ChIPseq/latest/2020-01-26-3221b709-dba242df/
+datalad_url: https://datasets.datalad.org?dir=/shub/anoyaro84/snakemake_ChIPseq/latest/2020-01-26-3221b709-dba242df/
 recipe: https://datasets.datalad.org/shub/anoyaro84/snakemake_ChIPseq/latest/2020-01-26-3221b709-dba242df/Singularity
 collection: anoyaro84/snakemake_ChIPseq
 ---

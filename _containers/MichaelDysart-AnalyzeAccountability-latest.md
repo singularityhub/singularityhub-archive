@@ -9,7 +9,7 @@ build_date: "2019-08-19T04:27:23.425Z"
 size_mb: 2506.0
 size: 1138667551
 sif: "https://datasets.datalad.org/shub/MichaelDysart/AnalyzeAccountability/latest/2019-08-19-2c6fde4e-1385f9bd/1385f9bd5bbc285e15efcbd7748ff72e.sif"
-url: https://datasets.datalad.org/shub/MichaelDysart/AnalyzeAccountability/latest/2019-08-19-2c6fde4e-1385f9bd/
+datalad_url: https://datasets.datalad.org?dir=/shub/MichaelDysart/AnalyzeAccountability/latest/2019-08-19-2c6fde4e-1385f9bd/
 recipe: https://datasets.datalad.org/shub/MichaelDysart/AnalyzeAccountability/latest/2019-08-19-2c6fde4e-1385f9bd/Singularity
 collection: MichaelDysart/AnalyzeAccountability
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-12T05:49:42.091Z"
 size_mb: 656.0
 size: 219430943
 sif: "https://datasets.datalad.org/shub/datalad/datalad/0.11.5/2020-06-12-43d8a6ad-f1397801/f1397801f09f9199be95d1dd82f2c297.sif"
-url: https://datasets.datalad.org/shub/datalad/datalad/0.11.5/2020-06-12-43d8a6ad-f1397801/
+datalad_url: https://datasets.datalad.org?dir=/shub/datalad/datalad/0.11.5/2020-06-12-43d8a6ad-f1397801/
 recipe: https://datasets.datalad.org/shub/datalad/datalad/0.11.5/2020-06-12-43d8a6ad-f1397801/Singularity
 collection: datalad/datalad
 ---

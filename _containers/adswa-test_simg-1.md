@@ -9,7 +9,7 @@ build_date: "2019-11-11T11:10:05.827Z"
 size_mb: 703.0
 size: 230756383
 sif: "https://datasets.datalad.org/shub/adswa/test_simg/1/2019-11-11-1375a16e-ef91f1aa/ef91f1aaa75ae8d22d71cdbb263ecc37.sif"
-url: https://datasets.datalad.org/shub/adswa/test_simg/1/2019-11-11-1375a16e-ef91f1aa/
+datalad_url: https://datasets.datalad.org?dir=/shub/adswa/test_simg/1/2019-11-11-1375a16e-ef91f1aa/
 recipe: https://datasets.datalad.org/shub/adswa/test_simg/1/2019-11-11-1375a16e-ef91f1aa/Singularity
 collection: adswa/test_simg
 ---

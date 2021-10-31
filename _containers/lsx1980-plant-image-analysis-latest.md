@@ -9,7 +9,7 @@ build_date: "2021-02-22T23:43:43.266Z"
 size_mb: 3442
 size: 1845227551
 sif: "https://datasets.datalad.org/shub/lsx1980/plant-image-analysis/latest/2021-02-22-6939a422-cb9efff5/cb9efff5ccf4fec31c6257a115589594.simg"
-url: https://datasets.datalad.org/shub/lsx1980/plant-image-analysis/latest/2021-02-22-6939a422-cb9efff5/
+datalad_url: https://datasets.datalad.org?dir=/shub/lsx1980/plant-image-analysis/latest/2021-02-22-6939a422-cb9efff5/
 recipe: https://datasets.datalad.org/shub/lsx1980/plant-image-analysis/latest/2021-02-22-6939a422-cb9efff5/Singularity
 collection: lsx1980/plant-image-analysis
 ---

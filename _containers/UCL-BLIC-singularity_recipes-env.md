@@ -9,7 +9,7 @@ build_date: "2019-10-15T12:28:07.881Z"
 size_mb: 2235.0
 size: 868311071
 sif: "https://datasets.datalad.org/shub/UCL-BLIC/singularity_recipes/env/2019-10-15-2fa1c801-df83c2b3/df83c2b355c7cabd81f3e75795e3eaeb.sif"
-url: https://datasets.datalad.org/shub/UCL-BLIC/singularity_recipes/env/2019-10-15-2fa1c801-df83c2b3/
+datalad_url: https://datasets.datalad.org?dir=/shub/UCL-BLIC/singularity_recipes/env/2019-10-15-2fa1c801-df83c2b3/
 recipe: https://datasets.datalad.org/shub/UCL-BLIC/singularity_recipes/env/2019-10-15-2fa1c801-df83c2b3/Singularity
 collection: UCL-BLIC/singularity_recipes
 ---

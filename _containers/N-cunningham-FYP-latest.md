@@ -9,7 +9,7 @@ build_date: "2019-03-26T16:54:25.213Z"
 size_mb: 3041
 size: 1407197215
 sif: "https://datasets.datalad.org/shub/N-cunningham/FYP/latest/2019-03-26-11a124e3-2c0fb76c/2c0fb76c72f26942065d3a8e4bb56ac5.simg"
-url: https://datasets.datalad.org/shub/N-cunningham/FYP/latest/2019-03-26-11a124e3-2c0fb76c/
+datalad_url: https://datasets.datalad.org?dir=/shub/N-cunningham/FYP/latest/2019-03-26-11a124e3-2c0fb76c/
 recipe: https://datasets.datalad.org/shub/N-cunningham/FYP/latest/2019-03-26-11a124e3-2c0fb76c/Singularity
 collection: N-cunningham/FYP
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-19T13:03:54.306Z"
 size_mb: 1299
 size: 453275679
 sif: "https://datasets.datalad.org/shub/aertslab/pySCENIC/0.9.5/2020-12-19-1cdca2da-fdfc5010/fdfc5010b3aef6410738455f9138e1fd.simg"
-url: https://datasets.datalad.org/shub/aertslab/pySCENIC/0.9.5/2020-12-19-1cdca2da-fdfc5010/
+datalad_url: https://datasets.datalad.org?dir=/shub/aertslab/pySCENIC/0.9.5/2020-12-19-1cdca2da-fdfc5010/
 recipe: https://datasets.datalad.org/shub/aertslab/pySCENIC/0.9.5/2020-12-19-1cdca2da-fdfc5010/Singularity
 collection: aertslab/pySCENIC
 ---

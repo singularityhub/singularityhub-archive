@@ -9,7 +9,7 @@ build_date: "2019-10-18T09:34:33.857Z"
 size_mb: 2264
 size: 742490143
 sif: "https://datasets.datalad.org/shub/iferres/Singularity_recipes/roary/2019-10-18-8fc6b3a2-c7bbdc78/c7bbdc7846df890dcd43a818a1419bcf.simg"
-url: https://datasets.datalad.org/shub/iferres/Singularity_recipes/roary/2019-10-18-8fc6b3a2-c7bbdc78/
+datalad_url: https://datasets.datalad.org?dir=/shub/iferres/Singularity_recipes/roary/2019-10-18-8fc6b3a2-c7bbdc78/
 recipe: https://datasets.datalad.org/shub/iferres/Singularity_recipes/roary/2019-10-18-8fc6b3a2-c7bbdc78/Singularity
 collection: iferres/Singularity_recipes
 ---

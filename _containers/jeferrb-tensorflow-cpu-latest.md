@@ -9,7 +9,7 @@ build_date: "2018-05-18T02:49:52.939Z"
 size_mb: 6370
 size: 3060084767
 sif: "https://datasets.datalad.org/shub/jeferrb/tensorflow-cpu/latest/2018-05-18-bdeb255f-539c4b4c/539c4b4cfaeddecd5f298b3eb84fd356.simg"
-url: https://datasets.datalad.org/shub/jeferrb/tensorflow-cpu/latest/2018-05-18-bdeb255f-539c4b4c/
+datalad_url: https://datasets.datalad.org?dir=/shub/jeferrb/tensorflow-cpu/latest/2018-05-18-bdeb255f-539c4b4c/
 recipe: https://datasets.datalad.org/shub/jeferrb/tensorflow-cpu/latest/2018-05-18-bdeb255f-539c4b4c/Singularity
 collection: jeferrb/tensorflow-cpu
 ---

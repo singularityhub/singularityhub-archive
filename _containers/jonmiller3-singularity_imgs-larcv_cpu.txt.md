@@ -9,7 +9,7 @@ build_date: "2019-02-08T18:50:09.714Z"
 size_mb: 5371
 size: 2556682271
 sif: "https://datasets.datalad.org/shub/jonmiller3/singularity_imgs/larcv_cpu.txt/2019-02-08-5a1c3167-a8395743/a83957434c137e7fa018297ff02254af.simg"
-url: https://datasets.datalad.org/shub/jonmiller3/singularity_imgs/larcv_cpu.txt/2019-02-08-5a1c3167-a8395743/
+datalad_url: https://datasets.datalad.org?dir=/shub/jonmiller3/singularity_imgs/larcv_cpu.txt/2019-02-08-5a1c3167-a8395743/
 recipe: https://datasets.datalad.org/shub/jonmiller3/singularity_imgs/larcv_cpu.txt/2019-02-08-5a1c3167-a8395743/Singularity
 collection: jonmiller3/singularity_imgs
 ---

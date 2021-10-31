@@ -9,7 +9,7 @@ build_date: "2019-11-07T14:59:53.158Z"
 size_mb: 4433.0
 size: 2392571935
 sif: "https://datasets.datalad.org/shub/ynop/siubuntu/ubuntu18/2019-11-07-39c5e45e-432436b5/432436b5a870623fae1ee8f3b9507730.sif"
-url: https://datasets.datalad.org/shub/ynop/siubuntu/ubuntu18/2019-11-07-39c5e45e-432436b5/
+datalad_url: https://datasets.datalad.org?dir=/shub/ynop/siubuntu/ubuntu18/2019-11-07-39c5e45e-432436b5/
 recipe: https://datasets.datalad.org/shub/ynop/siubuntu/ubuntu18/2019-11-07-39c5e45e-432436b5/Singularity
 collection: ynop/siubuntu
 ---

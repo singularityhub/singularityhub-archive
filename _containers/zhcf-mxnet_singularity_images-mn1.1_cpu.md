@@ -9,7 +9,7 @@ build_date: "2018-07-08T15:19:20.954Z"
 size_mb: 630
 size: 232103967
 sif: "https://datasets.datalad.org/shub/zhcf/mxnet_singularity_images/mn1.1_cpu/2018-07-08-abb2502c-98718d75/98718d75767c4713983a8efa2818ff0f.simg"
-url: https://datasets.datalad.org/shub/zhcf/mxnet_singularity_images/mn1.1_cpu/2018-07-08-abb2502c-98718d75/
+datalad_url: https://datasets.datalad.org?dir=/shub/zhcf/mxnet_singularity_images/mn1.1_cpu/2018-07-08-abb2502c-98718d75/
 recipe: https://datasets.datalad.org/shub/zhcf/mxnet_singularity_images/mn1.1_cpu/2018-07-08-abb2502c-98718d75/Singularity
 collection: zhcf/mxnet_singularity_images
 ---

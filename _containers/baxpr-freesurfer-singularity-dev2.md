@@ -9,7 +9,7 @@ build_date: "2021-02-27T15:23:17.116Z"
 size_mb: 11153
 size: 5045129247
 sif: "https://datasets.datalad.org/shub/baxpr/freesurfer-singularity/dev2/2021-02-27-01baacb3-1e2bfbae/1e2bfbae1588e2ac52f8e427fdf21dec.simg"
-url: https://datasets.datalad.org/shub/baxpr/freesurfer-singularity/dev2/2021-02-27-01baacb3-1e2bfbae/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/freesurfer-singularity/dev2/2021-02-27-01baacb3-1e2bfbae/
 recipe: https://datasets.datalad.org/shub/baxpr/freesurfer-singularity/dev2/2021-02-27-01baacb3-1e2bfbae/Singularity
 collection: baxpr/freesurfer-singularity
 ---

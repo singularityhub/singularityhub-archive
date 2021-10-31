@@ -9,7 +9,7 @@ build_date: "2017-11-21T18:32:10.934Z"
 size_mb: 579
 size: 194437151
 sif: "https://datasets.datalad.org/shub/rjeschmi/singularity-easybuild/latest/2017-11-21-4e7f3e70-7a102099/7a102099cbe1ace408e1876ffd4e7794.simg"
-url: https://datasets.datalad.org/shub/rjeschmi/singularity-easybuild/latest/2017-11-21-4e7f3e70-7a102099/
+datalad_url: https://datasets.datalad.org?dir=/shub/rjeschmi/singularity-easybuild/latest/2017-11-21-4e7f3e70-7a102099/
 recipe: https://datasets.datalad.org/shub/rjeschmi/singularity-easybuild/latest/2017-11-21-4e7f3e70-7a102099/Singularity
 collection: rjeschmi/singularity-easybuild
 ---

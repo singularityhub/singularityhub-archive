@@ -9,7 +9,7 @@ build_date: "2020-07-13T15:03:36.523Z"
 size_mb: 3116.0
 size: 1287618591
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/BQSR-nf/v1.1/2020-07-13-791aedf9-5661e0dd/5661e0ddd74d92bf1302d5c60eae3790.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/BQSR-nf/v1.1/2020-07-13-791aedf9-5661e0dd/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/BQSR-nf/v1.1/2020-07-13-791aedf9-5661e0dd/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/BQSR-nf/v1.1/2020-07-13-791aedf9-5661e0dd/Singularity
 collection: IARCbioinfo/BQSR-nf
 ---

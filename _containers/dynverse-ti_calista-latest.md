@@ -9,7 +9,7 @@ build_date: "2018-10-29T20:59:12.371Z"
 size_mb: 2484
 size: 923217951
 sif: "https://datasets.datalad.org/shub/dynverse/ti_calista/latest/2018-10-29-01e0fcab-6c58d599/6c58d599b03b9f2ad012a46e0c2a12d3.simg"
-url: https://datasets.datalad.org/shub/dynverse/ti_calista/latest/2018-10-29-01e0fcab-6c58d599/
+datalad_url: https://datasets.datalad.org?dir=/shub/dynverse/ti_calista/latest/2018-10-29-01e0fcab-6c58d599/
 recipe: https://datasets.datalad.org/shub/dynverse/ti_calista/latest/2018-10-29-01e0fcab-6c58d599/Singularity
 collection: dynverse/ti_calista
 ---

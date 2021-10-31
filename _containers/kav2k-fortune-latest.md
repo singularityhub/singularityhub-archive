@@ -9,7 +9,7 @@ build_date: "2020-06-23T13:26:41.671Z"
 size_mb: 352
 size: 89604127
 sif: "https://datasets.datalad.org/shub/kav2k/fortune/latest/2020-06-23-f5aff902-08292086/08292086c832dc2d29c1887808fedbde.simg"
-url: https://datasets.datalad.org/shub/kav2k/fortune/latest/2020-06-23-f5aff902-08292086/
+datalad_url: https://datasets.datalad.org?dir=/shub/kav2k/fortune/latest/2020-06-23-f5aff902-08292086/
 recipe: https://datasets.datalad.org/shub/kav2k/fortune/latest/2020-06-23-f5aff902-08292086/Singularity
 collection: kav2k/fortune
 ---

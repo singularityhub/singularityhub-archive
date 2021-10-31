@@ -9,7 +9,7 @@ build_date: "2021-02-16T02:45:34.861Z"
 size_mb: 306
 size: 128073759
 sif: "https://datasets.datalad.org/shub/connor-lab/singularity-recipes/canu/2021-02-16-a43cefa7-23d139eb/23d139eb7f9377eedd448af284aea408.simg"
-url: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/canu/2021-02-16-a43cefa7-23d139eb/
+datalad_url: https://datasets.datalad.org?dir=/shub/connor-lab/singularity-recipes/canu/2021-02-16-a43cefa7-23d139eb/
 recipe: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/canu/2021-02-16-a43cefa7-23d139eb/Singularity
 collection: connor-lab/singularity-recipes
 ---

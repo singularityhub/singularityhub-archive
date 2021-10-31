@@ -9,7 +9,7 @@ build_date: "2019-08-01T14:42:02.383Z"
 size_mb: 2043
 size: 663617567
 sif: "https://datasets.datalad.org/shub/rohinijoshi06/LOFARSoftware/latest/2019-08-01-8f92594a-71a8f84b/71a8f84b3df59552b6efc832f23b8d6a.simg"
-url: https://datasets.datalad.org/shub/rohinijoshi06/LOFARSoftware/latest/2019-08-01-8f92594a-71a8f84b/
+datalad_url: https://datasets.datalad.org?dir=/shub/rohinijoshi06/LOFARSoftware/latest/2019-08-01-8f92594a-71a8f84b/
 recipe: https://datasets.datalad.org/shub/rohinijoshi06/LOFARSoftware/latest/2019-08-01-8f92594a-71a8f84b/Singularity
 collection: rohinijoshi06/LOFARSoftware
 ---

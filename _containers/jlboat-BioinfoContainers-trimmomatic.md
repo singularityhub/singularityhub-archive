@@ -9,7 +9,7 @@ build_date: "2021-03-06T01:04:48.545Z"
 size_mb: 504
 size: 188510239
 sif: "https://datasets.datalad.org/shub/jlboat/BioinfoContainers/trimmomatic/2021-03-06-5f15386e-5ce48ddf/5ce48ddf51d112b4a96f6ce95aba8c57.simg"
-url: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/trimmomatic/2021-03-06-5f15386e-5ce48ddf/
+datalad_url: https://datasets.datalad.org?dir=/shub/jlboat/BioinfoContainers/trimmomatic/2021-03-06-5f15386e-5ce48ddf/
 recipe: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/trimmomatic/2021-03-06-5f15386e-5ce48ddf/Singularity
 collection: jlboat/BioinfoContainers
 ---

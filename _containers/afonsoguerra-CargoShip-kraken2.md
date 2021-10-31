@@ -9,7 +9,7 @@ build_date: "2020-10-10T13:27:03.017Z"
 size_mb: 2698.0
 size: 1082241055
 sif: "https://datasets.datalad.org/shub/afonsoguerra/CargoShip/kraken2/2020-10-10-f1793a8c-e32b7a4d/e32b7a4d0af29a8afccd5fa21f3aaa49.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/kraken2/2020-10-10-f1793a8c-e32b7a4d/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/CargoShip/kraken2/2020-10-10-f1793a8c-e32b7a4d/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/kraken2/2020-10-10-f1793a8c-e32b7a4d/Singularity
 collection: afonsoguerra/CargoShip
 ---

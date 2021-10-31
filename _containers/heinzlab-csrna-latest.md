@@ -9,7 +9,7 @@ build_date: "2018-11-11T00:03:06.740Z"
 size_mb: 3740
 size: 1254473759
 sif: "https://datasets.datalad.org/shub/heinzlab/csrna/latest/2018-11-11-fd54a7dc-c826a101/c826a1016cb292f848f8d78f442509e5.simg"
-url: https://datasets.datalad.org/shub/heinzlab/csrna/latest/2018-11-11-fd54a7dc-c826a101/
+datalad_url: https://datasets.datalad.org?dir=/shub/heinzlab/csrna/latest/2018-11-11-fd54a7dc-c826a101/
 recipe: https://datasets.datalad.org/shub/heinzlab/csrna/latest/2018-11-11-fd54a7dc-c826a101/Singularity
 collection: heinzlab/csrna
 ---

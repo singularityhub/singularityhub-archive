@@ -9,7 +9,7 @@ build_date: "2020-12-01T06:23:04.733Z"
 size_mb: 1240.0
 size: 405413919
 sif: "https://datasets.datalad.org/shub/romxero/libbpg_container/latest/2020-12-01-98b273d3-a7c8eeae/a7c8eeae4cc790ee22538b3578374319.sif"
-url: https://datasets.datalad.org/shub/romxero/libbpg_container/latest/2020-12-01-98b273d3-a7c8eeae/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/libbpg_container/latest/2020-12-01-98b273d3-a7c8eeae/
 recipe: https://datasets.datalad.org/shub/romxero/libbpg_container/latest/2020-12-01-98b273d3-a7c8eeae/Singularity
 collection: romxero/libbpg_container
 ---

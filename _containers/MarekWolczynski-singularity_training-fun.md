@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.192Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/MarekWolczynski/singularity_training/fun/2019-02-27-865b2381-6ae8e934/6ae8e9349c220560a3d5c49c4f1d90d2.simg"
-url: https://datasets.datalad.org/shub/MarekWolczynski/singularity_training/fun/2019-02-27-865b2381-6ae8e934/
+datalad_url: https://datasets.datalad.org?dir=/shub/MarekWolczynski/singularity_training/fun/2019-02-27-865b2381-6ae8e934/
 recipe: https://datasets.datalad.org/shub/MarekWolczynski/singularity_training/fun/2019-02-27-865b2381-6ae8e934/Singularity
 collection: MarekWolczynski/singularity_training
 ---

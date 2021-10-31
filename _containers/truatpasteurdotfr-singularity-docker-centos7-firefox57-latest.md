@@ -9,7 +9,7 @@ build_date: "2021-02-08T19:37:43.894Z"
 size_mb: 612
 size: 221327391
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-centos7-firefox57/latest/2021-02-08-c1856949-fa2f040c/fa2f040c615beb5ff80a6be188eb0e73.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-centos7-firefox57/latest/2021-02-08-c1856949-fa2f040c/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-docker-centos7-firefox57/latest/2021-02-08-c1856949-fa2f040c/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-centos7-firefox57/latest/2021-02-08-c1856949-fa2f040c/Singularity
 collection: truatpasteurdotfr/singularity-docker-centos7-firefox57
 ---

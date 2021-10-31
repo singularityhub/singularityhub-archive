@@ -9,7 +9,7 @@ build_date: "2018-07-02T14:24:04.419Z"
 size_mb: 300
 size: 148070431
 sif: "https://datasets.datalad.org/shub/overcookedfrog/tumour-normal-enrichment/1.0.4/2018-07-02-5d1dcd66-7ac8e702/7ac8e702348bb13ac4441347ec7ffd67.simg"
-url: https://datasets.datalad.org/shub/overcookedfrog/tumour-normal-enrichment/1.0.4/2018-07-02-5d1dcd66-7ac8e702/
+datalad_url: https://datasets.datalad.org?dir=/shub/overcookedfrog/tumour-normal-enrichment/1.0.4/2018-07-02-5d1dcd66-7ac8e702/
 recipe: https://datasets.datalad.org/shub/overcookedfrog/tumour-normal-enrichment/1.0.4/2018-07-02-5d1dcd66-7ac8e702/Singularity
 collection: overcookedfrog/tumour-normal-enrichment
 ---

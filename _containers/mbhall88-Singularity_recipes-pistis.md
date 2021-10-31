@@ -9,7 +9,7 @@ build_date: "2019-02-21T11:20:56.833Z"
 size_mb: 1022
 size: 416387103
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/pistis/2019-02-21-af7b5cd9-c0161afb/c0161afb485b937f58e38f7bf16c7966.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/pistis/2019-02-21-af7b5cd9-c0161afb/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/pistis/2019-02-21-af7b5cd9-c0161afb/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/pistis/2019-02-21-af7b5cd9-c0161afb/Singularity
 collection: mbhall88/Singularity_recipes
 ---

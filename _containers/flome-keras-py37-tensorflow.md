@@ -9,7 +9,7 @@ build_date: "2019-05-21T02:41:10.754Z"
 size_mb: 6952
 size: 3287257119
 sif: "https://datasets.datalad.org/shub/flome/keras/py37-tensorflow/2019-05-21-95c2e75b-4309ef93/4309ef931503c24dbd649c485fe3e383.simg"
-url: https://datasets.datalad.org/shub/flome/keras/py37-tensorflow/2019-05-21-95c2e75b-4309ef93/
+datalad_url: https://datasets.datalad.org?dir=/shub/flome/keras/py37-tensorflow/2019-05-21-95c2e75b-4309ef93/
 recipe: https://datasets.datalad.org/shub/flome/keras/py37-tensorflow/2019-05-21-95c2e75b-4309ef93/Singularity
 collection: flome/keras
 ---

@@ -9,7 +9,7 @@ build_date: "2018-11-07T13:35:00.974Z"
 size_mb: 5767
 size: 2807123999
 sif: "https://datasets.datalad.org/shub/opensciencegrid/osgvo-el6/latest/2018-11-07-3e83e665-60ffeee7/60ffeee7df556250515e6cae8580ce42.simg"
-url: https://datasets.datalad.org/shub/opensciencegrid/osgvo-el6/latest/2018-11-07-3e83e665-60ffeee7/
+datalad_url: https://datasets.datalad.org?dir=/shub/opensciencegrid/osgvo-el6/latest/2018-11-07-3e83e665-60ffeee7/
 recipe: https://datasets.datalad.org/shub/opensciencegrid/osgvo-el6/latest/2018-11-07-3e83e665-60ffeee7/Singularity
 collection: opensciencegrid/osgvo-el6
 ---

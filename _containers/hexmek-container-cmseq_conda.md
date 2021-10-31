@@ -9,7 +9,7 @@ build_date: "2020-12-11T12:47:04.915Z"
 size_mb: 2855.0
 size: 1213915167
 sif: "https://datasets.datalad.org/shub/hexmek/container/cmseq_conda/2020-12-11-fbd14869-79c3c912/79c3c912ea62e7cfb9956abe55a371fe.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/cmseq_conda/2020-12-11-fbd14869-79c3c912/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/cmseq_conda/2020-12-11-fbd14869-79c3c912/
 recipe: https://datasets.datalad.org/shub/hexmek/container/cmseq_conda/2020-12-11-fbd14869-79c3c912/Singularity
 collection: hexmek/container
 ---

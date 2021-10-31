@@ -9,7 +9,7 @@ build_date: "2018-01-19T22:16:27.738Z"
 size_mb: 795
 size: 320557087
 sif: "https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/cran-mirror/2018-01-19-b79ba285-728aab06/728aab06b5becdf25a59b9e171e3e50e.simg"
-url: https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/cran-mirror/2018-01-19-b79ba285-728aab06/
+datalad_url: https://datasets.datalad.org?dir=/shub/remyd1/ubuntu-r-base/cran-mirror/2018-01-19-b79ba285-728aab06/
 recipe: https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/cran-mirror/2018-01-19-b79ba285-728aab06/Singularity
 collection: remyd1/ubuntu-r-base
 ---

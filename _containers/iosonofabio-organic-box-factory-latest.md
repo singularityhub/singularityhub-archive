@@ -9,7 +9,7 @@ build_date: "2017-11-22T15:36:09.158Z"
 size_mb: 778
 size: 259346463
 sif: "https://datasets.datalad.org/shub/iosonofabio/organic-box-factory/latest/2017-11-22-3c21aa55-3f7eb06e/3f7eb06ee09749c7e539963fe7ba13d0.simg"
-url: https://datasets.datalad.org/shub/iosonofabio/organic-box-factory/latest/2017-11-22-3c21aa55-3f7eb06e/
+datalad_url: https://datasets.datalad.org?dir=/shub/iosonofabio/organic-box-factory/latest/2017-11-22-3c21aa55-3f7eb06e/
 recipe: https://datasets.datalad.org/shub/iosonofabio/organic-box-factory/latest/2017-11-22-3c21aa55-3f7eb06e/Singularity
 collection: iosonofabio/organic-box-factory
 ---

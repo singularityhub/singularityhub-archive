@@ -9,7 +9,7 @@ build_date: "2019-09-18T23:44:01.131Z"
 size_mb: 769.0
 size: 271290399
 sif: "https://datasets.datalad.org/shub/tobsecret/singularity_containers/annotategenomes/2019-09-18-3a7bdc22-49a8ebff/49a8ebff3e68846070def426f3121610.sif"
-url: https://datasets.datalad.org/shub/tobsecret/singularity_containers/annotategenomes/2019-09-18-3a7bdc22-49a8ebff/
+datalad_url: https://datasets.datalad.org?dir=/shub/tobsecret/singularity_containers/annotategenomes/2019-09-18-3a7bdc22-49a8ebff/
 recipe: https://datasets.datalad.org/shub/tobsecret/singularity_containers/annotategenomes/2019-09-18-3a7bdc22-49a8ebff/Singularity
 collection: tobsecret/singularity_containers
 ---

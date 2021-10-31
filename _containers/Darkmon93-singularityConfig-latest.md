@@ -9,7 +9,7 @@ build_date: "2018-04-27T08:59:00.298Z"
 size_mb: 477
 size: 205541407
 sif: "https://datasets.datalad.org/shub/Darkmon93/singularityConfig/latest/2018-04-27-c634ec4d-39674b75/39674b75af16f316f8153ff43af05a66.simg"
-url: https://datasets.datalad.org/shub/Darkmon93/singularityConfig/latest/2018-04-27-c634ec4d-39674b75/
+datalad_url: https://datasets.datalad.org?dir=/shub/Darkmon93/singularityConfig/latest/2018-04-27-c634ec4d-39674b75/
 recipe: https://datasets.datalad.org/shub/Darkmon93/singularityConfig/latest/2018-04-27-c634ec4d-39674b75/Singularity
 collection: Darkmon93/singularityConfig
 ---

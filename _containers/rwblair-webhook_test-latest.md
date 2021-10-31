@@ -9,7 +9,7 @@ build_date: "2020-02-18T22:08:08.928Z"
 size_mb: 952
 size: 322773023
 sif: "https://datasets.datalad.org/shub/rwblair/webhook_test/latest/2020-02-18-ff0f321b-62c178e7/62c178e739e058b9b59fb0e35bedb9c5.simg"
-url: https://datasets.datalad.org/shub/rwblair/webhook_test/latest/2020-02-18-ff0f321b-62c178e7/
+datalad_url: https://datasets.datalad.org?dir=/shub/rwblair/webhook_test/latest/2020-02-18-ff0f321b-62c178e7/
 recipe: https://datasets.datalad.org/shub/rwblair/webhook_test/latest/2020-02-18-ff0f321b-62c178e7/Singularity
 collection: rwblair/webhook_test
 ---

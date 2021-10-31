@@ -9,7 +9,7 @@ build_date: "2019-06-07T11:19:41.494Z"
 size_mb: 4827
 size: 1320775711
 sif: "https://datasets.datalad.org/shub/pbranson/simages/pangeo-notebook/2019-06-07-ac1ed6f2-1eaf9061/1eaf9061067032bfc271d3b179bdbd1b.simg"
-url: https://datasets.datalad.org/shub/pbranson/simages/pangeo-notebook/2019-06-07-ac1ed6f2-1eaf9061/
+datalad_url: https://datasets.datalad.org?dir=/shub/pbranson/simages/pangeo-notebook/2019-06-07-ac1ed6f2-1eaf9061/
 recipe: https://datasets.datalad.org/shub/pbranson/simages/pangeo-notebook/2019-06-07-ac1ed6f2-1eaf9061/Singularity
 collection: pbranson/simages
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-13T21:42:29.585Z"
 size_mb: 7275
 size: 2781982751
 sif: "https://datasets.datalad.org/shub/shots47s/cbrain-plugins-mriqc/latest/2019-12-13-a94559ec-27241ff2/27241ff22d5312108e2225659ebdc7dd.simg"
-url: https://datasets.datalad.org/shub/shots47s/cbrain-plugins-mriqc/latest/2019-12-13-a94559ec-27241ff2/
+datalad_url: https://datasets.datalad.org?dir=/shub/shots47s/cbrain-plugins-mriqc/latest/2019-12-13-a94559ec-27241ff2/
 recipe: https://datasets.datalad.org/shub/shots47s/cbrain-plugins-mriqc/latest/2019-12-13-a94559ec-27241ff2/Singularity
 collection: shots47s/cbrain-plugins-mriqc
 ---

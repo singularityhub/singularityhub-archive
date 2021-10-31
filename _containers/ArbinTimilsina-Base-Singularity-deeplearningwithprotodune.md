@@ -9,7 +9,7 @@ build_date: "2019-01-24T13:54:59.083Z"
 size_mb: 3857
 size: 1707327519
 sif: "https://datasets.datalad.org/shub/ArbinTimilsina/Base-Singularity/deeplearningwithprotodune/2019-01-24-3fe23aee-e249a557/e249a557d77029851752216cc2456f89.simg"
-url: https://datasets.datalad.org/shub/ArbinTimilsina/Base-Singularity/deeplearningwithprotodune/2019-01-24-3fe23aee-e249a557/
+datalad_url: https://datasets.datalad.org?dir=/shub/ArbinTimilsina/Base-Singularity/deeplearningwithprotodune/2019-01-24-3fe23aee-e249a557/
 recipe: https://datasets.datalad.org/shub/ArbinTimilsina/Base-Singularity/deeplearningwithprotodune/2019-01-24-3fe23aee-e249a557/Singularity
 collection: ArbinTimilsina/Base-Singularity
 ---

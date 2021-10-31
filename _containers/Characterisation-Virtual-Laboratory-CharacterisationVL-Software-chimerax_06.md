@@ -9,7 +9,7 @@ build_date: "2020-09-16T23:30:08.628Z"
 size_mb: 6075
 size: 2926747679
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/chimerax_06/2020-09-16-81a8ecdf-9c0fa209/9c0fa20945cf5e767263d4b65d617031.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/chimerax_06/2020-09-16-81a8ecdf-9c0fa209/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/chimerax_06/2020-09-16-81a8ecdf-9c0fa209/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/chimerax_06/2020-09-16-81a8ecdf-9c0fa209/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

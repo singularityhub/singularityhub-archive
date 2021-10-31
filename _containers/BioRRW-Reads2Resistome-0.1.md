@@ -9,7 +9,7 @@ build_date: "2021-01-08T19:52:19.144Z"
 size_mb: 1439.0
 size: 657285151
 sif: "https://datasets.datalad.org/shub/BioRRW/Reads2Resistome/0.1/2021-01-08-1f17587a-1fcce922/1fcce92248f6b50129b7e93312dc38cd.sif"
-url: https://datasets.datalad.org/shub/BioRRW/Reads2Resistome/0.1/2021-01-08-1f17587a-1fcce922/
+datalad_url: https://datasets.datalad.org?dir=/shub/BioRRW/Reads2Resistome/0.1/2021-01-08-1f17587a-1fcce922/
 recipe: https://datasets.datalad.org/shub/BioRRW/Reads2Resistome/0.1/2021-01-08-1f17587a-1fcce922/Singularity
 collection: BioRRW/Reads2Resistome
 ---

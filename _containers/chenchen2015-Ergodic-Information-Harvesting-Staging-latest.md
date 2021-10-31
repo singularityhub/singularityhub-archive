@@ -9,7 +9,7 @@ build_date: "2020-06-07T22:31:14.462Z"
 size_mb: 264.4140625
 size: 277258240
 sif: "https://datasets.datalad.org/shub/chenchen2015/Ergodic-Information-Harvesting-Staging/latest/2020-06-07-2a58fa6f-2d689663/2d689663f0f3081dbb2c64f12e56a2568e5a9778459140bc3a59555b186b1924.sif"
-url: https://datasets.datalad.org/shub/chenchen2015/Ergodic-Information-Harvesting-Staging/latest/2020-06-07-2a58fa6f-2d689663/
+datalad_url: https://datasets.datalad.org?dir=/shub/chenchen2015/Ergodic-Information-Harvesting-Staging/latest/2020-06-07-2a58fa6f-2d689663/
 recipe: https://datasets.datalad.org/shub/chenchen2015/Ergodic-Information-Harvesting-Staging/latest/2020-06-07-2a58fa6f-2d689663/Singularity
 collection: chenchen2015/Ergodic-Information-Harvesting-Staging
 ---

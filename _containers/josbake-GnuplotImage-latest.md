@@ -9,7 +9,7 @@ build_date: "2018-08-31T03:21:36.678Z"
 size_mb: 415
 size: 179175455
 sif: "https://datasets.datalad.org/shub/josbake/GnuplotImage/latest/2018-08-31-6c18ea56-27388886/273888862b61bd6945bd0f164d328267.simg"
-url: https://datasets.datalad.org/shub/josbake/GnuplotImage/latest/2018-08-31-6c18ea56-27388886/
+datalad_url: https://datasets.datalad.org?dir=/shub/josbake/GnuplotImage/latest/2018-08-31-6c18ea56-27388886/
 recipe: https://datasets.datalad.org/shub/josbake/GnuplotImage/latest/2018-08-31-6c18ea56-27388886/Singularity
 collection: josbake/GnuplotImage
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-22T19:18:47.356Z"
 size_mb: 6361.0
 size: 3266326559
 sif: "https://datasets.datalad.org/shub/ecetter/hwsing/latest/2019-11-22-9efb875b-31f44152/31f441528eaaddbb93be928930a9a781.sif"
-url: https://datasets.datalad.org/shub/ecetter/hwsing/latest/2019-11-22-9efb875b-31f44152/
+datalad_url: https://datasets.datalad.org?dir=/shub/ecetter/hwsing/latest/2019-11-22-9efb875b-31f44152/
 recipe: https://datasets.datalad.org/shub/ecetter/hwsing/latest/2019-11-22-9efb875b-31f44152/Singularity
 collection: ecetter/hwsing
 ---

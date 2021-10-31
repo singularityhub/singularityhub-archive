@@ -9,7 +9,7 @@ build_date: "2021-04-19T13:29:39.934Z"
 size_mb: 1109.0
 size: 398360607
 sif: "https://datasets.datalad.org/shub/peterk87/nf-iav-illumina/latest/2021-04-19-39610c05-cb8f2e45/cb8f2e45d5cb4336df775e73a8fba659.sif"
-url: https://datasets.datalad.org/shub/peterk87/nf-iav-illumina/latest/2021-04-19-39610c05-cb8f2e45/
+datalad_url: https://datasets.datalad.org?dir=/shub/peterk87/nf-iav-illumina/latest/2021-04-19-39610c05-cb8f2e45/
 recipe: https://datasets.datalad.org/shub/peterk87/nf-iav-illumina/latest/2021-04-19-39610c05-cb8f2e45/Singularity
 collection: peterk87/nf-iav-illumina
 ---

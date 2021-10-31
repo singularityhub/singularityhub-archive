@@ -9,7 +9,7 @@ build_date: "2020-07-02T09:17:21.795Z"
 size_mb: 12193
 size: 7578312735
 sif: "https://datasets.datalad.org/shub/lalet/Singularity-hcp-prefreesurfer/latest/2020-07-02-efd8fdb4-85cf7fb3/85cf7fb33fd5e86f7e9b51533a9edb94.simg"
-url: https://datasets.datalad.org/shub/lalet/Singularity-hcp-prefreesurfer/latest/2020-07-02-efd8fdb4-85cf7fb3/
+datalad_url: https://datasets.datalad.org?dir=/shub/lalet/Singularity-hcp-prefreesurfer/latest/2020-07-02-efd8fdb4-85cf7fb3/
 recipe: https://datasets.datalad.org/shub/lalet/Singularity-hcp-prefreesurfer/latest/2020-07-02-efd8fdb4-85cf7fb3/Singularity
 collection: lalet/Singularity-hcp-prefreesurfer
 ---

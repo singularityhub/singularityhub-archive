@@ -9,7 +9,7 @@ build_date: "2019-02-04T16:33:11.342Z"
 size_mb: 823
 size: 268333087
 sif: "https://datasets.datalad.org/shub/arcsUVA/inkscape/0.92.3/2019-02-04-27627435-301ae6b6/301ae6b69a91723114d08b591191c3e1.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/inkscape/0.92.3/2019-02-04-27627435-301ae6b6/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/inkscape/0.92.3/2019-02-04-27627435-301ae6b6/
 recipe: https://datasets.datalad.org/shub/arcsUVA/inkscape/0.92.3/2019-02-04-27627435-301ae6b6/Singularity
 collection: arcsUVA/inkscape
 ---

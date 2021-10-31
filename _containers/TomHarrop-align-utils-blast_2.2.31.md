@@ -9,7 +9,7 @@ build_date: "2020-12-15T21:08:28.722Z"
 size_mb: 297.1015625
 size: 311533568
 sif: "https://datasets.datalad.org/shub/TomHarrop/align-utils/blast_2.2.31/2020-12-15-e87ac827-4364f047/4364f04767e6022ec939e2e71597a708942615cc4e071a14b7c029e6309c928c.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/align-utils/blast_2.2.31/2020-12-15-e87ac827-4364f047/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/align-utils/blast_2.2.31/2020-12-15-e87ac827-4364f047/
 recipe: https://datasets.datalad.org/shub/TomHarrop/align-utils/blast_2.2.31/2020-12-15-e87ac827-4364f047/Singularity
 collection: TomHarrop/align-utils
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-01T16:04:25.246Z"
 size_mb: 3458
 size: 927146015
 sif: "https://datasets.datalad.org/shub/hans/research-labs/deepo-cpu-nlp/2019-10-01-f263d05a-38b126b1/38b126b1ba4bc82674616190f412f843.simg"
-url: https://datasets.datalad.org/shub/hans/research-labs/deepo-cpu-nlp/2019-10-01-f263d05a-38b126b1/
+datalad_url: https://datasets.datalad.org?dir=/shub/hans/research-labs/deepo-cpu-nlp/2019-10-01-f263d05a-38b126b1/
 recipe: https://datasets.datalad.org/shub/hans/research-labs/deepo-cpu-nlp/2019-10-01-f263d05a-38b126b1/Singularity
 collection: hans/research-labs
 ---

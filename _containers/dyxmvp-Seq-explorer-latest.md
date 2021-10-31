@@ -9,7 +9,7 @@ build_date: "2019-01-26T22:48:03.176Z"
 size_mb: 1565
 size: 527044639
 sif: "https://datasets.datalad.org/shub/dyxmvp/Seq-explorer/latest/2019-01-26-ab651fb3-4d3cc632/4d3cc63290fa9c060d78641694c05bc8.simg"
-url: https://datasets.datalad.org/shub/dyxmvp/Seq-explorer/latest/2019-01-26-ab651fb3-4d3cc632/
+datalad_url: https://datasets.datalad.org?dir=/shub/dyxmvp/Seq-explorer/latest/2019-01-26-ab651fb3-4d3cc632/
 recipe: https://datasets.datalad.org/shub/dyxmvp/Seq-explorer/latest/2019-01-26-ab651fb3-4d3cc632/Singularity
 collection: dyxmvp/Seq-explorer
 ---

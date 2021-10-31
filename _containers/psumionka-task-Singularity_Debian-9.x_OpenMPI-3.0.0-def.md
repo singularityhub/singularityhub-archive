@@ -9,7 +9,7 @@ build_date: "2019-10-30T10:01:06.021Z"
 size_mb: 714.54296875
 size: 749252608
 sif: "https://datasets.datalad.org/shub/psumionka-task/Singularity_Debian-9.x_OpenMPI-3.0.0/def/2019-10-30-2cde261c-c35f9bb1/c35f9bb1d198159fc6235d3f9f90e58b3a11bf1782e4c1d56253dbfcdb76c8b0.sif"
-url: https://datasets.datalad.org/shub/psumionka-task/Singularity_Debian-9.x_OpenMPI-3.0.0/def/2019-10-30-2cde261c-c35f9bb1/
+datalad_url: https://datasets.datalad.org?dir=/shub/psumionka-task/Singularity_Debian-9.x_OpenMPI-3.0.0/def/2019-10-30-2cde261c-c35f9bb1/
 recipe: https://datasets.datalad.org/shub/psumionka-task/Singularity_Debian-9.x_OpenMPI-3.0.0/def/2019-10-30-2cde261c-c35f9bb1/Singularity
 collection: psumionka-task/Singularity_Debian-9.x_OpenMPI-3.0.0
 ---

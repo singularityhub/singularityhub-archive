@@ -9,7 +9,7 @@ build_date: "2018-08-09T02:18:32.499Z"
 size_mb: 1182
 size: 556273695
 sif: "https://datasets.datalad.org/shub/incertae-sedis/cavatica/latest/2018-08-09-f4fe278d-4110f0b2/4110f0b27a42c198625afa0aac438e09.simg"
-url: https://datasets.datalad.org/shub/incertae-sedis/cavatica/latest/2018-08-09-f4fe278d-4110f0b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/incertae-sedis/cavatica/latest/2018-08-09-f4fe278d-4110f0b2/
 recipe: https://datasets.datalad.org/shub/incertae-sedis/cavatica/latest/2018-08-09-f4fe278d-4110f0b2/Singularity
 collection: incertae-sedis/cavatica
 ---

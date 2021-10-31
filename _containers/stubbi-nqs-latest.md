@@ -9,7 +9,7 @@ build_date: "2021-03-08T05:30:09.388Z"
 size_mb: 2200.0
 size: 744898591
 sif: "https://datasets.datalad.org/shub/stubbi/nqs/latest/2021-03-08-9cf8313c-621e88b9/621e88b9a502a80657ae7a4ec271e109.sif"
-url: https://datasets.datalad.org/shub/stubbi/nqs/latest/2021-03-08-9cf8313c-621e88b9/
+datalad_url: https://datasets.datalad.org?dir=/shub/stubbi/nqs/latest/2021-03-08-9cf8313c-621e88b9/
 recipe: https://datasets.datalad.org/shub/stubbi/nqs/latest/2021-03-08-9cf8313c-621e88b9/Singularity
 collection: stubbi/nqs
 ---

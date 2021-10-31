@@ -9,7 +9,7 @@ build_date: "2020-05-10T18:40:25.351Z"
 size_mb: 1328
 size: 629014559
 sif: "https://datasets.datalad.org/shub/rgrandin/Singularity-Photography/latest/2020-05-10-f5721b73-c0176872/c0176872347dfab6afcd6a2a40f3796c.simg"
-url: https://datasets.datalad.org/shub/rgrandin/Singularity-Photography/latest/2020-05-10-f5721b73-c0176872/
+datalad_url: https://datasets.datalad.org?dir=/shub/rgrandin/Singularity-Photography/latest/2020-05-10-f5721b73-c0176872/
 recipe: https://datasets.datalad.org/shub/rgrandin/Singularity-Photography/latest/2020-05-10-f5721b73-c0176872/Singularity
 collection: rgrandin/Singularity-Photography
 ---

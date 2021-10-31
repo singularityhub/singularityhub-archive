@@ -9,7 +9,7 @@ build_date: "2021-03-31T13:30:26.670Z"
 size_mb: 95
 size: 37011487
 sif: "https://datasets.datalad.org/shub/RyanAshbaugh/ubuntu-leaves-17.04/latest/2021-03-31-93596f36-e2e644b3/e2e644b391a8dfcece0bc266824a0b9c.simg"
-url: https://datasets.datalad.org/shub/RyanAshbaugh/ubuntu-leaves-17.04/latest/2021-03-31-93596f36-e2e644b3/
+datalad_url: https://datasets.datalad.org?dir=/shub/RyanAshbaugh/ubuntu-leaves-17.04/latest/2021-03-31-93596f36-e2e644b3/
 recipe: https://datasets.datalad.org/shub/RyanAshbaugh/ubuntu-leaves-17.04/latest/2021-03-31-93596f36-e2e644b3/Singularity
 collection: RyanAshbaugh/ubuntu-leaves-17.04
 ---

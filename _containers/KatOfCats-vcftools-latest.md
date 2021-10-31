@@ -9,7 +9,7 @@ build_date: "2019-06-19T16:10:43.545Z"
 size_mb: 949
 size: 316342303
 sif: "https://datasets.datalad.org/shub/KatOfCats/vcftools/latest/2019-06-19-afe8590a-5520807f/5520807f12bdb01a7a89613fec9d9c2e.simg"
-url: https://datasets.datalad.org/shub/KatOfCats/vcftools/latest/2019-06-19-afe8590a-5520807f/
+datalad_url: https://datasets.datalad.org?dir=/shub/KatOfCats/vcftools/latest/2019-06-19-afe8590a-5520807f/
 recipe: https://datasets.datalad.org/shub/KatOfCats/vcftools/latest/2019-06-19-afe8590a-5520807f/Singularity
 collection: KatOfCats/vcftools
 ---

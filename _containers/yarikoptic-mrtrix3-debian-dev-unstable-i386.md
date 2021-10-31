@@ -9,7 +9,7 @@ build_date: "2018-12-17T16:03:53.116Z"
 size_mb: 1996
 size: 710877215
 sif: "https://datasets.datalad.org/shub/yarikoptic/mrtrix3/debian-dev-unstable-i386/2018-12-17-14e696d0-39eb5a1c/39eb5a1c7e4d88dbc4e471a50e3d5271.simg"
-url: https://datasets.datalad.org/shub/yarikoptic/mrtrix3/debian-dev-unstable-i386/2018-12-17-14e696d0-39eb5a1c/
+datalad_url: https://datasets.datalad.org?dir=/shub/yarikoptic/mrtrix3/debian-dev-unstable-i386/2018-12-17-14e696d0-39eb5a1c/
 recipe: https://datasets.datalad.org/shub/yarikoptic/mrtrix3/debian-dev-unstable-i386/2018-12-17-14e696d0-39eb5a1c/Singularity
 collection: yarikoptic/mrtrix3
 ---

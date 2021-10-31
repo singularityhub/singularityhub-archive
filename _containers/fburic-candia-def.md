@@ -9,7 +9,7 @@ build_date: "2021-04-16T13:16:50.424Z"
 size_mb: 4256.8671875
 size: 4463648768
 sif: "https://datasets.datalad.org/shub/fburic/candia/def/2021-04-16-846a742b-a852d117/a852d11776cc54f32f30263d5920c04feb7d250f5da9805d0e39f92dc24b6c6d.sif"
-url: https://datasets.datalad.org/shub/fburic/candia/def/2021-04-16-846a742b-a852d117/
+datalad_url: https://datasets.datalad.org?dir=/shub/fburic/candia/def/2021-04-16-846a742b-a852d117/
 recipe: https://datasets.datalad.org/shub/fburic/candia/def/2021-04-16-846a742b-a852d117/Singularity
 collection: fburic/candia
 ---

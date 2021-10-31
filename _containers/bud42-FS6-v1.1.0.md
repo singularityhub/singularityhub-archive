@@ -9,7 +9,7 @@ build_date: "2018-08-08T03:56:29.780Z"
 size_mb: 6453
 size: 2754588703
 sif: "https://datasets.datalad.org/shub/bud42/FS6/v1.1.0/2018-08-08-6e2c1286-38b18e47/38b18e4702cf74f2b3472a6b02a6beca.simg"
-url: https://datasets.datalad.org/shub/bud42/FS6/v1.1.0/2018-08-08-6e2c1286-38b18e47/
+datalad_url: https://datasets.datalad.org?dir=/shub/bud42/FS6/v1.1.0/2018-08-08-6e2c1286-38b18e47/
 recipe: https://datasets.datalad.org/shub/bud42/FS6/v1.1.0/2018-08-08-6e2c1286-38b18e47/Singularity
 collection: bud42/FS6
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-05T20:16:59.649Z"
 size_mb: 2678
 size: 801996831
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/pandora/2020-12-05-54c141a2-ac594f67/ac594f67db8a2f66e1c5cc049cfe1968.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/pandora/2020-12-05-54c141a2-ac594f67/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/pandora/2020-12-05-54c141a2-ac594f67/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/pandora/2020-12-05-54c141a2-ac594f67/Singularity
 collection: mbhall88/Singularity_recipes
 ---

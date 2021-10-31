@@ -9,7 +9,7 @@ build_date: "2018-08-13T18:43:12.908Z"
 size_mb: 2669
 size: 1434456095
 sif: "https://datasets.datalad.org/shub/suujia/orca/latest/2018-08-13-d18aa69c-4c4aab7e/4c4aab7e2cb608fcfb94bb03483cefe1.simg"
-url: https://datasets.datalad.org/shub/suujia/orca/latest/2018-08-13-d18aa69c-4c4aab7e/
+datalad_url: https://datasets.datalad.org?dir=/shub/suujia/orca/latest/2018-08-13-d18aa69c-4c4aab7e/
 recipe: https://datasets.datalad.org/shub/suujia/orca/latest/2018-08-13-d18aa69c-4c4aab7e/Singularity
 collection: suujia/orca
 ---

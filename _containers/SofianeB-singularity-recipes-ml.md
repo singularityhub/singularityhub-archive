@@ -9,7 +9,7 @@ build_date: "2021-02-24T14:46:29.052Z"
 size_mb: 483.171875
 size: 506642432
 sif: "https://datasets.datalad.org/shub/SofianeB/singularity-recipes/ml/2021-02-24-522d5c33-259fe9ef/259fe9efbd18c1a64dca9640c6daadf564f3b34785cda416832cc8b2b2514bf8.sif"
-url: https://datasets.datalad.org/shub/SofianeB/singularity-recipes/ml/2021-02-24-522d5c33-259fe9ef/
+datalad_url: https://datasets.datalad.org?dir=/shub/SofianeB/singularity-recipes/ml/2021-02-24-522d5c33-259fe9ef/
 recipe: https://datasets.datalad.org/shub/SofianeB/singularity-recipes/ml/2021-02-24-522d5c33-259fe9ef/Singularity
 collection: statiksof/singularity-recipes
 ---

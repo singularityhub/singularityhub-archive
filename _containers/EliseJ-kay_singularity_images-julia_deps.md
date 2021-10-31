@@ -9,7 +9,7 @@ build_date: "2021-02-02T13:45:32.428Z"
 size_mb: 819.0
 size: 176627743
 sif: "https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/julia_deps/2021-02-02-90321191-be2b860a/be2b860ab1cb23a16b6e77a04960912f.sif"
-url: https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/julia_deps/2021-02-02-90321191-be2b860a/
+datalad_url: https://datasets.datalad.org?dir=/shub/EliseJ/kay_singularity_images/julia_deps/2021-02-02-90321191-be2b860a/
 recipe: https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/julia_deps/2021-02-02-90321191-be2b860a/Singularity
 collection: EliseJ/kay_singularity_images
 ---

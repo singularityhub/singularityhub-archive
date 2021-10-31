@@ -9,7 +9,7 @@ build_date: "2018-11-05T14:28:49.783Z"
 size_mb: 5834
 size: 2537971743
 sif: "https://datasets.datalad.org/shub/nelsonihc/singularity/base1804/2018-11-05-b85a1285-30fd240c/30fd240c36f0dcb89b4cd793e56e01b2.simg"
-url: https://datasets.datalad.org/shub/nelsonihc/singularity/base1804/2018-11-05-b85a1285-30fd240c/
+datalad_url: https://datasets.datalad.org?dir=/shub/nelsonihc/singularity/base1804/2018-11-05-b85a1285-30fd240c/
 recipe: https://datasets.datalad.org/shub/nelsonihc/singularity/base1804/2018-11-05-b85a1285-30fd240c/Singularity
 collection: nelsonihc/singularity
 ---

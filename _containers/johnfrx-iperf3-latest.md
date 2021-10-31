@@ -9,7 +9,7 @@ build_date: "2019-03-27T08:48:38.120Z"
 size_mb: 308
 size: 113315871
 sif: "https://datasets.datalad.org/shub/johnfrx/iperf3/latest/2019-03-27-f5ed9768-10dcfd52/10dcfd5215e3343f930c17293fcf2dac.simg"
-url: https://datasets.datalad.org/shub/johnfrx/iperf3/latest/2019-03-27-f5ed9768-10dcfd52/
+datalad_url: https://datasets.datalad.org?dir=/shub/johnfrx/iperf3/latest/2019-03-27-f5ed9768-10dcfd52/
 recipe: https://datasets.datalad.org/shub/johnfrx/iperf3/latest/2019-03-27-f5ed9768-10dcfd52/Singularity
 collection: johnfrx/iperf3
 ---

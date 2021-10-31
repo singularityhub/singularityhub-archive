@@ -9,7 +9,7 @@ build_date: "2019-03-11T14:27:19.786Z"
 size_mb: 4471
 size: 2294796319
 sif: "https://datasets.datalad.org/shub/xiaozhah/PytorchSingularity/latest/2019-03-11-d20e9e7c-0ed302ca/0ed302ca23cd63aa8381fd9e7a095440.simg"
-url: https://datasets.datalad.org/shub/xiaozhah/PytorchSingularity/latest/2019-03-11-d20e9e7c-0ed302ca/
+datalad_url: https://datasets.datalad.org?dir=/shub/xiaozhah/PytorchSingularity/latest/2019-03-11-d20e9e7c-0ed302ca/
 recipe: https://datasets.datalad.org/shub/xiaozhah/PytorchSingularity/latest/2019-03-11-d20e9e7c-0ed302ca/Singularity
 collection: xiaozhah/PytorchSingularity
 ---

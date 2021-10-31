@@ -9,7 +9,7 @@ build_date: "2021-01-07T05:59:34.307Z"
 size_mb: 842.0
 size: 344203295
 sif: "https://datasets.datalad.org/shub/barbagroup/geoclaw-landspill/v0.1.bionic/2021-01-07-4e97d9be-399a1b79/399a1b7999810c02815fec55cd7ba267.sif"
-url: https://datasets.datalad.org/shub/barbagroup/geoclaw-landspill/v0.1.bionic/2021-01-07-4e97d9be-399a1b79/
+datalad_url: https://datasets.datalad.org?dir=/shub/barbagroup/geoclaw-landspill/v0.1.bionic/2021-01-07-4e97d9be-399a1b79/
 recipe: https://datasets.datalad.org/shub/barbagroup/geoclaw-landspill/v0.1.bionic/2021-01-07-4e97d9be-399a1b79/Singularity
 collection: barbagroup/geoclaw-landspill
 ---

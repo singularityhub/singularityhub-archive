@@ -9,7 +9,7 @@ build_date: "2018-04-03T16:39:16.654Z"
 size_mb: 778
 size: 232427551
 sif: "https://datasets.datalad.org/shub/neurodebian/dcm2niix/debian-unstable-i386/2018-04-03-8d2e296b-d09a28ec/d09a28ec39c4fb936f854f56bea4d1c9.simg"
-url: https://datasets.datalad.org/shub/neurodebian/dcm2niix/debian-unstable-i386/2018-04-03-8d2e296b-d09a28ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/neurodebian/dcm2niix/debian-unstable-i386/2018-04-03-8d2e296b-d09a28ec/
 recipe: https://datasets.datalad.org/shub/neurodebian/dcm2niix/debian-unstable-i386/2018-04-03-8d2e296b-d09a28ec/Singularity
 collection: neurodebian/dcm2niix
 ---

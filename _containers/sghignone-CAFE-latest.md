@@ -9,7 +9,7 @@ build_date: "2021-02-02T17:18:44.149Z"
 size_mb: 493.0
 size: 161984543
 sif: "https://datasets.datalad.org/shub/sghignone/CAFE/latest/2021-02-02-df3cbc1b-972083f1/972083f18949804006cf926f61712d09.sif"
-url: https://datasets.datalad.org/shub/sghignone/CAFE/latest/2021-02-02-df3cbc1b-972083f1/
+datalad_url: https://datasets.datalad.org?dir=/shub/sghignone/CAFE/latest/2021-02-02-df3cbc1b-972083f1/
 recipe: https://datasets.datalad.org/shub/sghignone/CAFE/latest/2021-02-02-df3cbc1b-972083f1/Singularity
 collection: sghignone/CAFE
 ---

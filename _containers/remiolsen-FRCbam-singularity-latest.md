@@ -9,7 +9,7 @@ build_date: "2017-10-30T16:11:34.719Z"
 size_mb: 1033
 size: 314036255
 sif: "https://datasets.datalad.org/shub/remiolsen/FRCbam-singularity/latest/2017-10-30-a0907801-c09bc96d/c09bc96df7a3eb1f2404d4710a4fac46.simg"
-url: https://datasets.datalad.org/shub/remiolsen/FRCbam-singularity/latest/2017-10-30-a0907801-c09bc96d/
+datalad_url: https://datasets.datalad.org?dir=/shub/remiolsen/FRCbam-singularity/latest/2017-10-30-a0907801-c09bc96d/
 recipe: https://datasets.datalad.org/shub/remiolsen/FRCbam-singularity/latest/2017-10-30-a0907801-c09bc96d/Singularity
 collection: remiolsen/FRCbam-singularity
 ---

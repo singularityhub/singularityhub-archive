@@ -9,7 +9,7 @@ build_date: "2020-11-08T20:09:07.310Z"
 size_mb: 280
 size: 83046431
 sif: "https://datasets.datalad.org/shub/hongchengkuan/hello-singularity/latest/2020-11-08-fb117540-642338d1/642338d191174dd6086c30d3570bf7cb.simg"
-url: https://datasets.datalad.org/shub/hongchengkuan/hello-singularity/latest/2020-11-08-fb117540-642338d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/hongchengkuan/hello-singularity/latest/2020-11-08-fb117540-642338d1/
 recipe: https://datasets.datalad.org/shub/hongchengkuan/hello-singularity/latest/2020-11-08-fb117540-642338d1/Singularity
 collection: hongchengkuan/hello-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-27T16:47:51.720Z"
 size_mb: 3066.0
 size: 1373483039
 sif: "https://datasets.datalad.org/shub/sodalite-hpe/modak-containers/tensorflow-2.1-cpu-pip/2020-06-27-4c977898-4e838e30/4e838e3025e294417a8a63b3b6af3145.sif"
-url: https://datasets.datalad.org/shub/sodalite-hpe/modak-containers/tensorflow-2.1-cpu-pip/2020-06-27-4c977898-4e838e30/
+datalad_url: https://datasets.datalad.org?dir=/shub/sodalite-hpe/modak-containers/tensorflow-2.1-cpu-pip/2020-06-27-4c977898-4e838e30/
 recipe: https://datasets.datalad.org/shub/sodalite-hpe/modak-containers/tensorflow-2.1-cpu-pip/2020-06-27-4c977898-4e838e30/Singularity
 collection: sodalite-hpe/modak-containers
 ---

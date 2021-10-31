@@ -9,7 +9,7 @@ build_date: "2018-01-11T17:30:50.108Z"
 size_mb: 6185
 size: 1573474335
 sif: "https://datasets.datalad.org/shub/ResearchIT/tofu2/v17/2018-01-11-4dba1b53-9863702e/9863702e2125b56bfbb5f890b41d7b60.simg"
-url: https://datasets.datalad.org/shub/ResearchIT/tofu2/v17/2018-01-11-4dba1b53-9863702e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchIT/tofu2/v17/2018-01-11-4dba1b53-9863702e/
 recipe: https://datasets.datalad.org/shub/ResearchIT/tofu2/v17/2018-01-11-4dba1b53-9863702e/Singularity
 collection: ResearchIT/tofu2
 ---

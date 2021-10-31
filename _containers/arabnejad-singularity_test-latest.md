@@ -9,7 +9,7 @@ build_date: "2019-02-26T20:10:24.053Z"
 size_mb: 1072
 size: 372985887
 sif: "https://datasets.datalad.org/shub/arabnejad/singularity_test/latest/2019-02-26-8130fb5f-b4d24053/b4d24053eba3a1e85780201d8ecc30a6.simg"
-url: https://datasets.datalad.org/shub/arabnejad/singularity_test/latest/2019-02-26-8130fb5f-b4d24053/
+datalad_url: https://datasets.datalad.org?dir=/shub/arabnejad/singularity_test/latest/2019-02-26-8130fb5f-b4d24053/
 recipe: https://datasets.datalad.org/shub/arabnejad/singularity_test/latest/2019-02-26-8130fb5f-b4d24053/Singularity
 collection: arabnejad/singularity_test
 ---

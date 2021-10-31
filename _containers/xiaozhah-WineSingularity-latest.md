@@ -9,7 +9,7 @@ build_date: "2019-11-18T10:57:17.058Z"
 size_mb: 2797
 size: 371965983
 sif: "https://datasets.datalad.org/shub/xiaozhah/WineSingularity/latest/2019-11-18-8e9ed0f9-4c46b24c/4c46b24cd57a1af0621cf66fc1456495.simg"
-url: https://datasets.datalad.org/shub/xiaozhah/WineSingularity/latest/2019-11-18-8e9ed0f9-4c46b24c/
+datalad_url: https://datasets.datalad.org?dir=/shub/xiaozhah/WineSingularity/latest/2019-11-18-8e9ed0f9-4c46b24c/
 recipe: https://datasets.datalad.org/shub/xiaozhah/WineSingularity/latest/2019-11-18-8e9ed0f9-4c46b24c/Singularity
 collection: xiaozhah/WineSingularity
 ---

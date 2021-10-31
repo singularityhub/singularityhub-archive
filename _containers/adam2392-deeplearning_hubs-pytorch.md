@@ -9,7 +9,7 @@ build_date: "2018-06-13T15:01:49.016Z"
 size_mb: 8601
 size: 4049891359
 sif: "https://datasets.datalad.org/shub/adam2392/deeplearning_hubs/pytorch/2018-06-13-55919c93-c2402cb6/c2402cb62a2bff6fdc53763e6b9100fe.simg"
-url: https://datasets.datalad.org/shub/adam2392/deeplearning_hubs/pytorch/2018-06-13-55919c93-c2402cb6/
+datalad_url: https://datasets.datalad.org?dir=/shub/adam2392/deeplearning_hubs/pytorch/2018-06-13-55919c93-c2402cb6/
 recipe: https://datasets.datalad.org/shub/adam2392/deeplearning_hubs/pytorch/2018-06-13-55919c93-c2402cb6/Singularity
 collection: adam2392/deeplearning_hubs
 ---

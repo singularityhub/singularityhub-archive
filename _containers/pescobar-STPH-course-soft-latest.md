@@ -9,7 +9,7 @@ build_date: "2020-08-15T07:05:10.379Z"
 size_mb: 5152
 size: 2762510367
 sif: "https://datasets.datalad.org/shub/pescobar/STPH-course-soft/latest/2020-08-15-63cbb15e-177b1583/177b15836d5fa842470346c4a0ade338.simg"
-url: https://datasets.datalad.org/shub/pescobar/STPH-course-soft/latest/2020-08-15-63cbb15e-177b1583/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/STPH-course-soft/latest/2020-08-15-63cbb15e-177b1583/
 recipe: https://datasets.datalad.org/shub/pescobar/STPH-course-soft/latest/2020-08-15-63cbb15e-177b1583/Singularity
 collection: pescobar/STPH-course-soft
 ---

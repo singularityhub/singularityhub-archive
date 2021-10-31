@@ -9,7 +9,7 @@ build_date: "2018-06-20T16:42:28.197Z"
 size_mb: 696
 size: 278237215
 sif: "https://datasets.datalad.org/shub/ISUGIFsingularity/snpPhylo/1.0.0/2018-06-20-f8c6e508-bce964b2/bce964b26feea689a38a65a08550936b.simg"
-url: https://datasets.datalad.org/shub/ISUGIFsingularity/snpPhylo/1.0.0/2018-06-20-f8c6e508-bce964b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISUGIFsingularity/snpPhylo/1.0.0/2018-06-20-f8c6e508-bce964b2/
 recipe: https://datasets.datalad.org/shub/ISUGIFsingularity/snpPhylo/1.0.0/2018-06-20-f8c6e508-bce964b2/Singularity
 collection: ISUGIFsingularity/snpPhylo
 ---

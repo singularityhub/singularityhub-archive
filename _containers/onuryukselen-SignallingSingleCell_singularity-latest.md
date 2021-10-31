@@ -9,7 +9,7 @@ build_date: "2018-07-29T13:44:02.861Z"
 size_mb: 3494
 size: 1247858719
 sif: "https://datasets.datalad.org/shub/onuryukselen/SignallingSingleCell_singularity/latest/2018-07-29-81689462-262b2a0c/262b2a0c0b8a9a59132b578a323b50ab.simg"
-url: https://datasets.datalad.org/shub/onuryukselen/SignallingSingleCell_singularity/latest/2018-07-29-81689462-262b2a0c/
+datalad_url: https://datasets.datalad.org?dir=/shub/onuryukselen/SignallingSingleCell_singularity/latest/2018-07-29-81689462-262b2a0c/
 recipe: https://datasets.datalad.org/shub/onuryukselen/SignallingSingleCell_singularity/latest/2018-07-29-81689462-262b2a0c/Singularity
 collection: onuryukselen/SignallingSingleCell_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-04-01T20:31:44.367Z"
 size_mb: 2414.0
 size: 797360159
 sif: "https://datasets.datalad.org/shub/jsmentch/dyneusr_container/latest/2020-04-01-367cd7cf-937a9a9b/937a9a9b8f3ebdf835495e5be647f8c3.sif"
-url: https://datasets.datalad.org/shub/jsmentch/dyneusr_container/latest/2020-04-01-367cd7cf-937a9a9b/
+datalad_url: https://datasets.datalad.org?dir=/shub/jsmentch/dyneusr_container/latest/2020-04-01-367cd7cf-937a9a9b/
 recipe: https://datasets.datalad.org/shub/jsmentch/dyneusr_container/latest/2020-04-01-367cd7cf-937a9a9b/Singularity
 collection: jsmentch/dyneusr_container
 ---

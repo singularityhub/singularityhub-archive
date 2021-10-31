@@ -9,7 +9,7 @@ build_date: "2021-04-02T16:40:28.717Z"
 size_mb: 532.0
 size: 196919327
 sif: "https://datasets.datalad.org/shub/icaoberg/singularity-gnuplot/latest/2021-04-02-c0845cf3-773f3f76/773f3f76d70a2ebd58b4d71e511d79c9.sif"
-url: https://datasets.datalad.org/shub/icaoberg/singularity-gnuplot/latest/2021-04-02-c0845cf3-773f3f76/
+datalad_url: https://datasets.datalad.org?dir=/shub/icaoberg/singularity-gnuplot/latest/2021-04-02-c0845cf3-773f3f76/
 recipe: https://datasets.datalad.org/shub/icaoberg/singularity-gnuplot/latest/2021-04-02-c0845cf3-773f3f76/Singularity
 collection: icaoberg/singularity-gnuplot
 ---

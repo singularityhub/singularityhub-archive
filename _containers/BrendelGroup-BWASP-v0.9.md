@@ -9,7 +9,7 @@ build_date: "2019-04-17T14:27:57.752Z"
 size_mb: 2834
 size: 1091567647
 sif: "https://datasets.datalad.org/shub/BrendelGroup/BWASP/v0.9/2019-04-17-5303d5fd-20d9ed74/20d9ed7482a80056d4338ac7571abe7c.simg"
-url: https://datasets.datalad.org/shub/BrendelGroup/BWASP/v0.9/2019-04-17-5303d5fd-20d9ed74/
+datalad_url: https://datasets.datalad.org?dir=/shub/BrendelGroup/BWASP/v0.9/2019-04-17-5303d5fd-20d9ed74/
 recipe: https://datasets.datalad.org/shub/BrendelGroup/BWASP/v0.9/2019-04-17-5303d5fd-20d9ed74/Singularity
 collection: BrendelGroup/BWASP
 ---

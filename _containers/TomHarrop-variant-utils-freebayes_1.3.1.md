@@ -9,7 +9,7 @@ build_date: "2019-11-25T02:45:47.083Z"
 size_mb: 424.83984375
 size: 445476864
 sif: "https://datasets.datalad.org/shub/TomHarrop/variant-utils/freebayes_1.3.1/2019-11-25-f2cc069c-63eb007c/63eb007cd05b2245fc14838c1b6b03613879a009406f3e664e22dfd71880c0ba.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/variant-utils/freebayes_1.3.1/2019-11-25-f2cc069c-63eb007c/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/variant-utils/freebayes_1.3.1/2019-11-25-f2cc069c-63eb007c/
 recipe: https://datasets.datalad.org/shub/TomHarrop/variant-utils/freebayes_1.3.1/2019-11-25-f2cc069c-63eb007c/Singularity
 collection: TomHarrop/variant-utils
 ---

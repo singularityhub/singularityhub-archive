@@ -9,7 +9,7 @@ build_date: "2021-04-09T21:42:37.026Z"
 size_mb: 10969.0
 size: 5532938271
 sif: "https://datasets.datalad.org/shub/willgpaik/centos8_roar/gpu/2021-04-09-a12587ae-70a55963/70a55963eaf48f932e3823ef86bdb472.sif"
-url: https://datasets.datalad.org/shub/willgpaik/centos8_roar/gpu/2021-04-09-a12587ae-70a55963/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/centos8_roar/gpu/2021-04-09-a12587ae-70a55963/
 recipe: https://datasets.datalad.org/shub/willgpaik/centos8_roar/gpu/2021-04-09-a12587ae-70a55963/Singularity
 collection: willgpaik/centos8_roar
 ---

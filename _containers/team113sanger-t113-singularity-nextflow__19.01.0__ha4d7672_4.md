@@ -9,7 +9,7 @@ build_date: "2019-04-25T08:10:15.952Z"
 size_mb: 1203
 size: 503500831
 sif: "https://datasets.datalad.org/shub/team113sanger/t113-singularity/nextflow__19.01.0__ha4d7672_4/2019-04-25-c002fcaa-83758d93/83758d931f0c0d6ba689b71683fe4719.simg"
-url: https://datasets.datalad.org/shub/team113sanger/t113-singularity/nextflow__19.01.0__ha4d7672_4/2019-04-25-c002fcaa-83758d93/
+datalad_url: https://datasets.datalad.org?dir=/shub/team113sanger/t113-singularity/nextflow__19.01.0__ha4d7672_4/2019-04-25-c002fcaa-83758d93/
 recipe: https://datasets.datalad.org/shub/team113sanger/t113-singularity/nextflow__19.01.0__ha4d7672_4/2019-04-25-c002fcaa-83758d93/Singularity
 collection: team113sanger/t113-singularity
 ---

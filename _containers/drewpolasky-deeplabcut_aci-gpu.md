@@ -9,7 +9,7 @@ build_date: "2020-02-27T08:42:23.434Z"
 size_mb: 4986.0
 size: 2483925023
 sif: "https://datasets.datalad.org/shub/drewpolasky/deeplabcut_aci/gpu/2020-02-27-0fce0425-13d22b91/13d22b9155636dc1429c98b6453244c2.sif"
-url: https://datasets.datalad.org/shub/drewpolasky/deeplabcut_aci/gpu/2020-02-27-0fce0425-13d22b91/
+datalad_url: https://datasets.datalad.org?dir=/shub/drewpolasky/deeplabcut_aci/gpu/2020-02-27-0fce0425-13d22b91/
 recipe: https://datasets.datalad.org/shub/drewpolasky/deeplabcut_aci/gpu/2020-02-27-0fce0425-13d22b91/Singularity
 collection: drewpolasky/deeplabcut_aci
 ---

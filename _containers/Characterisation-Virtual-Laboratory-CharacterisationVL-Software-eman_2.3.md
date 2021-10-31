@@ -9,7 +9,7 @@ build_date: "2020-09-16T23:50:29.081Z"
 size_mb: 11640
 size: 5739835423
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/eman_2.3/2020-09-16-7ba5eb84-88afa06c/88afa06c6a7c9064d5af8c367a51f916.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/eman_2.3/2020-09-16-7ba5eb84-88afa06c/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/eman_2.3/2020-09-16-7ba5eb84-88afa06c/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/eman_2.3/2020-09-16-7ba5eb84-88afa06c/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

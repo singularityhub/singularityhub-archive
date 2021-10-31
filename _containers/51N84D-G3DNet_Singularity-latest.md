@@ -9,7 +9,7 @@ build_date: "2019-03-24T08:12:38.536Z"
 size_mb: 4582
 size: 2275192863
 sif: "https://datasets.datalad.org/shub/51N84D/G3DNet_Singularity/latest/2019-03-24-9d9e7777-9423a775/9423a775f9c38e41fb6c48226498a501.simg"
-url: https://datasets.datalad.org/shub/51N84D/G3DNet_Singularity/latest/2019-03-24-9d9e7777-9423a775/
+datalad_url: https://datasets.datalad.org?dir=/shub/51N84D/G3DNet_Singularity/latest/2019-03-24-9d9e7777-9423a775/
 recipe: https://datasets.datalad.org/shub/51N84D/G3DNet_Singularity/latest/2019-03-24-9d9e7777-9423a775/Singularity
 collection: 51N84D/G3DNet_Singularity
 ---

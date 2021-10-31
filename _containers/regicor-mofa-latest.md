@@ -9,7 +9,7 @@ build_date: "2020-03-05T10:54:51.767Z"
 size_mb: 1687.0
 size: 650539039
 sif: "https://datasets.datalad.org/shub/regicor/mofa/latest/2020-03-05-94b20426-f1e61636/f1e61636da66f5f2329e2159f0ae0433.sif"
-url: https://datasets.datalad.org/shub/regicor/mofa/latest/2020-03-05-94b20426-f1e61636/
+datalad_url: https://datasets.datalad.org?dir=/shub/regicor/mofa/latest/2020-03-05-94b20426-f1e61636/
 recipe: https://datasets.datalad.org/shub/regicor/mofa/latest/2020-03-05-94b20426-f1e61636/Singularity
 collection: regicor/mofa
 ---

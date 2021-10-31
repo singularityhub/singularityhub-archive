@@ -9,7 +9,7 @@ build_date: "2018-03-04T02:27:33.647Z"
 size_mb: 2100
 size: 847249439
 sif: "https://datasets.datalad.org/shub/raj76/singularity/busco/2018-03-04-73c71316-c908fce0/c908fce0f29735b7b1461892583381e3.simg"
-url: https://datasets.datalad.org/shub/raj76/singularity/busco/2018-03-04-73c71316-c908fce0/
+datalad_url: https://datasets.datalad.org?dir=/shub/raj76/singularity/busco/2018-03-04-73c71316-c908fce0/
 recipe: https://datasets.datalad.org/shub/raj76/singularity/busco/2018-03-04-73c71316-c908fce0/Singularity
 collection: raj76/singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-01-24T17:50:02.579Z"
 size_mb: 5750
 size: 2498928671
 sif: "https://datasets.datalad.org/shub/DeepLearnPhysics/larcv2-singularity/ub16.04-tf1.12.0-root6.14.04/2019-01-24-be669c05-7bbac90a/7bbac90a1a7de9fd0875e7ad160ec9d8.simg"
-url: https://datasets.datalad.org/shub/DeepLearnPhysics/larcv2-singularity/ub16.04-tf1.12.0-root6.14.04/2019-01-24-be669c05-7bbac90a/
+datalad_url: https://datasets.datalad.org?dir=/shub/DeepLearnPhysics/larcv2-singularity/ub16.04-tf1.12.0-root6.14.04/2019-01-24-be669c05-7bbac90a/
 recipe: https://datasets.datalad.org/shub/DeepLearnPhysics/larcv2-singularity/ub16.04-tf1.12.0-root6.14.04/2019-01-24-be669c05-7bbac90a/Singularity
 collection: DeepLearnPhysics/larcv2-singularity
 ---

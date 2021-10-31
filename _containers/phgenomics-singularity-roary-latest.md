@@ -9,7 +9,7 @@ build_date: "2020-05-30T04:44:20.647Z"
 size_mb: 2185.0
 size: 875601951
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/roary/latest/2020-05-30-8d20b89f-e9602632/e960263221fe745113ec4d7ec5728cbc.sif"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/roary/latest/2020-05-30-8d20b89f-e9602632/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/roary/latest/2020-05-30-8d20b89f-e9602632/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/roary/latest/2020-05-30-8d20b89f-e9602632/Singularity
 collection: phgenomics-singularity/roary
 ---

@@ -9,7 +9,7 @@ build_date: "2019-08-08T23:21:14.817Z"
 size_mb: 7178.0
 size: 2470776863
 sif: "https://datasets.datalad.org/shub/lawrencelifshitz/OnurSingularity/latest/2019-08-08-34d982c7-e97ed7ba/e97ed7babcb0edbc6a01c828984a8bee.sif"
-url: https://datasets.datalad.org/shub/lawrencelifshitz/OnurSingularity/latest/2019-08-08-34d982c7-e97ed7ba/
+datalad_url: https://datasets.datalad.org?dir=/shub/lawrencelifshitz/OnurSingularity/latest/2019-08-08-34d982c7-e97ed7ba/
 recipe: https://datasets.datalad.org/shub/lawrencelifshitz/OnurSingularity/latest/2019-08-08-34d982c7-e97ed7ba/Singularity
 collection: lawrencelifshitz/OnurSingularity
 ---

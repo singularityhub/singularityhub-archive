@@ -9,7 +9,7 @@ build_date: "2018-07-13T21:19:59.912Z"
 size_mb: 2490
 size: 851406879
 sif: "https://datasets.datalad.org/shub/nf-core/smrnaseq/latest/2018-07-13-553e17f8-d0c7fb2a/d0c7fb2af68a0c824fbde9c6db949b28.simg"
-url: https://datasets.datalad.org/shub/nf-core/smrnaseq/latest/2018-07-13-553e17f8-d0c7fb2a/
+datalad_url: https://datasets.datalad.org?dir=/shub/nf-core/smrnaseq/latest/2018-07-13-553e17f8-d0c7fb2a/
 recipe: https://datasets.datalad.org/shub/nf-core/smrnaseq/latest/2018-07-13-553e17f8-d0c7fb2a/Singularity
 collection: nf-core/smrnaseq
 ---

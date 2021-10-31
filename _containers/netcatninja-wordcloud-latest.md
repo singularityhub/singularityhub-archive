@@ -9,7 +9,7 @@ build_date: "2019-04-29T05:02:48.477Z"
 size_mb: 858
 size: 259928095
 sif: "https://datasets.datalad.org/shub/netcatninja/wordcloud/latest/2019-04-29-692dec99-20fc0a25/20fc0a25f66e3dce529f82b62594f12d.simg"
-url: https://datasets.datalad.org/shub/netcatninja/wordcloud/latest/2019-04-29-692dec99-20fc0a25/
+datalad_url: https://datasets.datalad.org?dir=/shub/netcatninja/wordcloud/latest/2019-04-29-692dec99-20fc0a25/
 recipe: https://datasets.datalad.org/shub/netcatninja/wordcloud/latest/2019-04-29-692dec99-20fc0a25/Singularity
 collection: netcatninja/wordcloud
 ---

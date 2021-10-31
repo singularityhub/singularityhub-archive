@@ -9,7 +9,7 @@ build_date: "2019-03-06T12:46:34.208Z"
 size_mb: 296
 size: 132423711
 sif: "https://datasets.datalad.org/shub/giovannipizzi/singularity-quantum-espresso/apt-5.1/2019-03-06-9d192bfc-f42117d3/f42117d3e55fbb49cbaf0fc9514bae2e.simg"
-url: https://datasets.datalad.org/shub/giovannipizzi/singularity-quantum-espresso/apt-5.1/2019-03-06-9d192bfc-f42117d3/
+datalad_url: https://datasets.datalad.org?dir=/shub/giovannipizzi/singularity-quantum-espresso/apt-5.1/2019-03-06-9d192bfc-f42117d3/
 recipe: https://datasets.datalad.org/shub/giovannipizzi/singularity-quantum-espresso/apt-5.1/2019-03-06-9d192bfc-f42117d3/Singularity
 collection: giovannipizzi/singularity-quantum-espresso
 ---

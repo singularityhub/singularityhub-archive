@@ -9,7 +9,7 @@ build_date: "2021-04-19T07:58:51.366Z"
 size_mb: 499.0
 size: 212033567
 sif: "https://datasets.datalad.org/shub/CATG-UMAG/tandem-substitution-simulation/latest/2021-04-19-68e74d98-56316a4f/56316a4f7097ed6c3d62da74b173c204.sif"
-url: https://datasets.datalad.org/shub/CATG-UMAG/tandem-substitution-simulation/latest/2021-04-19-68e74d98-56316a4f/
+datalad_url: https://datasets.datalad.org?dir=/shub/CATG-UMAG/tandem-substitution-simulation/latest/2021-04-19-68e74d98-56316a4f/
 recipe: https://datasets.datalad.org/shub/CATG-UMAG/tandem-substitution-simulation/latest/2021-04-19-68e74d98-56316a4f/Singularity
 collection: CATG-UMAG/tandem-substitution-simulation
 ---

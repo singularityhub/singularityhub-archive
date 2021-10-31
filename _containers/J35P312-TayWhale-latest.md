@@ -9,7 +9,7 @@ build_date: "2018-12-17T16:03:48.677Z"
 size_mb: 3735
 size: 1645273119
 sif: "https://datasets.datalad.org/shub/J35P312/TayWhale/latest/2018-12-17-37bebe36-251034f5/251034f53ac40249ac0f69a6583c72a8.simg"
-url: https://datasets.datalad.org/shub/J35P312/TayWhale/latest/2018-12-17-37bebe36-251034f5/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/TayWhale/latest/2018-12-17-37bebe36-251034f5/
 recipe: https://datasets.datalad.org/shub/J35P312/TayWhale/latest/2018-12-17-37bebe36-251034f5/Singularity
 collection: J35P312/TayWhale
 ---

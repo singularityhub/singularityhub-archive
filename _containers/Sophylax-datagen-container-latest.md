@@ -9,7 +9,7 @@ build_date: "2018-02-06T14:11:39.253Z"
 size_mb: 2365
 size: 696627231
 sif: "https://datasets.datalad.org/shub/Sophylax/datagen-container/latest/2018-02-06-715395f6-877a0f7f/877a0f7f0431764992676741568ae36d.simg"
-url: https://datasets.datalad.org/shub/Sophylax/datagen-container/latest/2018-02-06-715395f6-877a0f7f/
+datalad_url: https://datasets.datalad.org?dir=/shub/Sophylax/datagen-container/latest/2018-02-06-715395f6-877a0f7f/
 recipe: https://datasets.datalad.org/shub/Sophylax/datagen-container/latest/2018-02-06-715395f6-877a0f7f/Singularity
 collection: Sophylax/datagen-container
 ---

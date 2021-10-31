@@ -9,7 +9,7 @@ build_date: "2017-12-19T06:40:02.490Z"
 size_mb: 843
 size: 330870815
 sif: "https://datasets.datalad.org/shub/DaleDupont/singularity-ga4gh/latest/2017-12-19-bd216984-8ccdb431/8ccdb43121fbb9954c89947011d2830e.simg"
-url: https://datasets.datalad.org/shub/DaleDupont/singularity-ga4gh/latest/2017-12-19-bd216984-8ccdb431/
+datalad_url: https://datasets.datalad.org?dir=/shub/DaleDupont/singularity-ga4gh/latest/2017-12-19-bd216984-8ccdb431/
 recipe: https://datasets.datalad.org/shub/DaleDupont/singularity-ga4gh/latest/2017-12-19-bd216984-8ccdb431/Singularity
 collection: DaleDupont/singularity-ga4gh
 ---

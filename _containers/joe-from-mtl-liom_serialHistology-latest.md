@@ -9,7 +9,7 @@ build_date: "2019-04-01T10:55:59.453Z"
 size_mb: 573
 size: 199184415
 sif: "https://datasets.datalad.org/shub/joe-from-mtl/liom_serialHistology/latest/2019-04-01-cb2f82ce-69f0c277/69f0c277864ef32ee7f7726c8ea4a5c4.simg"
-url: https://datasets.datalad.org/shub/joe-from-mtl/liom_serialHistology/latest/2019-04-01-cb2f82ce-69f0c277/
+datalad_url: https://datasets.datalad.org?dir=/shub/joe-from-mtl/liom_serialHistology/latest/2019-04-01-cb2f82ce-69f0c277/
 recipe: https://datasets.datalad.org/shub/joe-from-mtl/liom_serialHistology/latest/2019-04-01-cb2f82ce-69f0c277/Singularity
 collection: joe-from-mtl/liom_serialHistology
 ---

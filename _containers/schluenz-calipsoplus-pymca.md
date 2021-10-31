@@ -9,7 +9,7 @@ build_date: "2018-10-23T17:47:48.202Z"
 size_mb: 7214
 size: 2996240415
 sif: "https://datasets.datalad.org/shub/schluenz/calipsoplus/pymca/2018-10-23-42cb84a6-d347dff8/d347dff8fde8c1cf6bde5b43fce7f194.simg"
-url: https://datasets.datalad.org/shub/schluenz/calipsoplus/pymca/2018-10-23-42cb84a6-d347dff8/
+datalad_url: https://datasets.datalad.org?dir=/shub/schluenz/calipsoplus/pymca/2018-10-23-42cb84a6-d347dff8/
 recipe: https://datasets.datalad.org/shub/schluenz/calipsoplus/pymca/2018-10-23-42cb84a6-d347dff8/Singularity
 collection: schluenz/calipsoplus
 ---

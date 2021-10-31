@@ -9,7 +9,7 @@ build_date: "2020-08-31T06:22:36.491Z"
 size_mb: 1469.0
 size: 496418847
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/strelka2-nf/v1.1/2020-08-31-7d05418d-d1c38a2c/d1c38a2cf7a7bbed7361da58005a6bad.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/strelka2-nf/v1.1/2020-08-31-7d05418d-d1c38a2c/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/strelka2-nf/v1.1/2020-08-31-7d05418d-d1c38a2c/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/strelka2-nf/v1.1/2020-08-31-7d05418d-d1c38a2c/Singularity
 collection: IARCbioinfo/strelka2-nf
 ---

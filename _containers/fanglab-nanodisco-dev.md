@@ -9,7 +9,7 @@ build_date: "2020-11-27T04:28:19.942Z"
 size_mb: 3661.0
 size: 1982607391
 sif: "https://datasets.datalad.org/shub/fanglab/nanodisco/dev/2020-11-27-058e7539-bdfffc73/bdfffc7364fe384eb00908e5cc9841dd.sif"
-url: https://datasets.datalad.org/shub/fanglab/nanodisco/dev/2020-11-27-058e7539-bdfffc73/
+datalad_url: https://datasets.datalad.org?dir=/shub/fanglab/nanodisco/dev/2020-11-27-058e7539-bdfffc73/
 recipe: https://datasets.datalad.org/shub/fanglab/nanodisco/dev/2020-11-27-058e7539-bdfffc73/Singularity
 collection: fanglab/nanodisco
 ---

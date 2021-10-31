@@ -9,7 +9,7 @@ build_date: "2019-01-16T07:21:12.067Z"
 size_mb: 2603
 size: 898850847
 sif: "https://datasets.datalad.org/shub/keceli/ffn/centos7-mkl_dnn-tf1.11.0-root6.14.04-mpich3.2.1/2019-01-16-00b86e34-ef3943ea/ef3943ea0b788a6135b1079eb670cad1.simg"
-url: https://datasets.datalad.org/shub/keceli/ffn/centos7-mkl_dnn-tf1.11.0-root6.14.04-mpich3.2.1/2019-01-16-00b86e34-ef3943ea/
+datalad_url: https://datasets.datalad.org?dir=/shub/keceli/ffn/centos7-mkl_dnn-tf1.11.0-root6.14.04-mpich3.2.1/2019-01-16-00b86e34-ef3943ea/
 recipe: https://datasets.datalad.org/shub/keceli/ffn/centos7-mkl_dnn-tf1.11.0-root6.14.04-mpich3.2.1/2019-01-16-00b86e34-ef3943ea/Singularity
 collection: keceli/ffn
 ---

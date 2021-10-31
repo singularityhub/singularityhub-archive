@@ -9,7 +9,7 @@ build_date: "2021-01-29T17:06:18.731Z"
 size_mb: 1867.89453125
 size: 1958629376
 sif: "https://datasets.datalad.org/shub/kalibera/rchk/def/2021-01-29-3d653b7c-77662476/77662476109e7dba6c4571322df3e31cb395d5281842a3d50df88be7439c205c.sif"
-url: https://datasets.datalad.org/shub/kalibera/rchk/def/2021-01-29-3d653b7c-77662476/
+datalad_url: https://datasets.datalad.org?dir=/shub/kalibera/rchk/def/2021-01-29-3d653b7c-77662476/
 recipe: https://datasets.datalad.org/shub/kalibera/rchk/def/2021-01-29-3d653b7c-77662476/Singularity
 collection: kalibera/rchk
 ---

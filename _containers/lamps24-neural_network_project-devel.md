@@ -9,7 +9,7 @@ build_date: "2020-05-08T15:41:54.334Z"
 size_mb: 3300.0
 size: 1485176863
 sif: "https://datasets.datalad.org/shub/lamps24/neural_network_project/devel/2020-05-08-6b9ad520-ecf9e8d8/ecf9e8d8a856a2478f1ffd271c44d203.sif"
-url: https://datasets.datalad.org/shub/lamps24/neural_network_project/devel/2020-05-08-6b9ad520-ecf9e8d8/
+datalad_url: https://datasets.datalad.org?dir=/shub/lamps24/neural_network_project/devel/2020-05-08-6b9ad520-ecf9e8d8/
 recipe: https://datasets.datalad.org/shub/lamps24/neural_network_project/devel/2020-05-08-6b9ad520-ecf9e8d8/Singularity
 collection: lamps24/neural_network_project
 ---

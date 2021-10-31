@@ -9,7 +9,7 @@ build_date: "2019-05-03T14:43:26.233Z"
 size_mb: 1037
 size: 359714847
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/py3.6.3_biopython1.73/2019-05-03-b1a188ec-98d1b750/98d1b75009a4e2eba88d834787d37dcb.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/py3.6.3_biopython1.73/2019-05-03-b1a188ec-98d1b750/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/py3.6.3_biopython1.73/2019-05-03-b1a188ec-98d1b750/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/py3.6.3_biopython1.73/2019-05-03-b1a188ec-98d1b750/Singularity
 collection: TomHarrop/singularity-containers
 ---

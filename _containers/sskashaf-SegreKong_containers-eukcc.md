@@ -9,7 +9,7 @@ build_date: "2021-04-05T00:22:50.869Z"
 size_mb: 3093.0
 size: 1157292063
 sif: "https://datasets.datalad.org/shub/sskashaf/SegreKong_containers/eukcc/2021-04-05-50664301-d528d36c/d528d36c4c3ff248ea0e1281cfed4aab.sif"
-url: https://datasets.datalad.org/shub/sskashaf/SegreKong_containers/eukcc/2021-04-05-50664301-d528d36c/
+datalad_url: https://datasets.datalad.org?dir=/shub/sskashaf/SegreKong_containers/eukcc/2021-04-05-50664301-d528d36c/
 recipe: https://datasets.datalad.org/shub/sskashaf/SegreKong_containers/eukcc/2021-04-05-50664301-d528d36c/Singularity
 collection: sskashaf/SegreKong_containers
 ---

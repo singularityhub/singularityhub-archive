@@ -9,7 +9,7 @@ build_date: "2019-07-04T11:15:23.953Z"
 size_mb: None
 size: 875700255
 sif: "https://datasets.datalad.org/shub/sneuensc/singularity_KFMC/latest/2019-07-04-b9bca86f-70f6153c/70f6153c5f0ece722e2b59f85de7ddbe.simg"
-url: https://datasets.datalad.org/shub/sneuensc/singularity_KFMC/latest/2019-07-04-b9bca86f-70f6153c/
+datalad_url: https://datasets.datalad.org?dir=/shub/sneuensc/singularity_KFMC/latest/2019-07-04-b9bca86f-70f6153c/
 recipe: https://datasets.datalad.org/shub/sneuensc/singularity_KFMC/latest/2019-07-04-b9bca86f-70f6153c/Singularity
 collection: sneuensc/singularity_KFMC
 ---

@@ -9,7 +9,7 @@ build_date: "2018-06-12T18:08:06.632Z"
 size_mb: 2239
 size: 930639903
 sif: "https://datasets.datalad.org/shub/jasonserviss/sp.scRNAseq/latest/2018-06-12-a50ba2b4-d4ec3884/d4ec388452c1ed6440554b79403dc850.simg"
-url: https://datasets.datalad.org/shub/jasonserviss/sp.scRNAseq/latest/2018-06-12-a50ba2b4-d4ec3884/
+datalad_url: https://datasets.datalad.org?dir=/shub/jasonserviss/sp.scRNAseq/latest/2018-06-12-a50ba2b4-d4ec3884/
 recipe: https://datasets.datalad.org/shub/jasonserviss/sp.scRNAseq/latest/2018-06-12-a50ba2b4-d4ec3884/Singularity
 collection: jasonserviss/sp.scRNAseq
 ---

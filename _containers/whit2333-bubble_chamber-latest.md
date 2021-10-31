@@ -9,7 +9,7 @@ build_date: "2018-02-17T22:08:50.986Z"
 size_mb: 3356
 size: 1263124511
 sif: "https://datasets.datalad.org/shub/whit2333/bubble_chamber/latest/2018-02-17-0e6da3ed-404e0e38/404e0e3879cac4333299d39ae626b932.simg"
-url: https://datasets.datalad.org/shub/whit2333/bubble_chamber/latest/2018-02-17-0e6da3ed-404e0e38/
+datalad_url: https://datasets.datalad.org?dir=/shub/whit2333/bubble_chamber/latest/2018-02-17-0e6da3ed-404e0e38/
 recipe: https://datasets.datalad.org/shub/whit2333/bubble_chamber/latest/2018-02-17-0e6da3ed-404e0e38/Singularity
 collection: whit2333/bubble_chamber
 ---

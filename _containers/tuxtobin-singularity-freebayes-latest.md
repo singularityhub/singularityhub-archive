@@ -9,7 +9,7 @@ build_date: "2020-11-19T15:37:42.147Z"
 size_mb: 1048.0
 size: 371372063
 sif: "https://datasets.datalad.org/shub/tuxtobin/singularity-freebayes/latest/2020-11-19-56a2411e-1aa25107/1aa2510745a5fee5dea6eec5a1ecbdf5.sif"
-url: https://datasets.datalad.org/shub/tuxtobin/singularity-freebayes/latest/2020-11-19-56a2411e-1aa25107/
+datalad_url: https://datasets.datalad.org?dir=/shub/tuxtobin/singularity-freebayes/latest/2020-11-19-56a2411e-1aa25107/
 recipe: https://datasets.datalad.org/shub/tuxtobin/singularity-freebayes/latest/2020-11-19-56a2411e-1aa25107/Singularity
 collection: tuxtobin/singularity-freebayes
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-13T14:28:23.606Z"
 size_mb: 1028.0
 size: 388694047
 sif: "https://datasets.datalad.org/shub/jkaessens/testcontainer/latest/2019-11-13-5e940572-8460b0be/8460b0be1702ff391aa308a22e898071.sif"
-url: https://datasets.datalad.org/shub/jkaessens/testcontainer/latest/2019-11-13-5e940572-8460b0be/
+datalad_url: https://datasets.datalad.org?dir=/shub/jkaessens/testcontainer/latest/2019-11-13-5e940572-8460b0be/
 recipe: https://datasets.datalad.org/shub/jkaessens/testcontainer/latest/2019-11-13-5e940572-8460b0be/Singularity
 collection: jkaessens/testcontainer
 ---

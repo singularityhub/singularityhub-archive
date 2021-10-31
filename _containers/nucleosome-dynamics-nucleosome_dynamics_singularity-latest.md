@@ -9,7 +9,7 @@ build_date: "2021-03-09T23:30:23.655Z"
 size_mb: 1416
 size: 646918175
 sif: "https://datasets.datalad.org/shub/nucleosome-dynamics/nucleosome_dynamics_singularity/latest/2021-03-09-a1c61d26-fd8edc8a/fd8edc8a646000f24fb7c9f393a4fcce.simg"
-url: https://datasets.datalad.org/shub/nucleosome-dynamics/nucleosome_dynamics_singularity/latest/2021-03-09-a1c61d26-fd8edc8a/
+datalad_url: https://datasets.datalad.org?dir=/shub/nucleosome-dynamics/nucleosome_dynamics_singularity/latest/2021-03-09-a1c61d26-fd8edc8a/
 recipe: https://datasets.datalad.org/shub/nucleosome-dynamics/nucleosome_dynamics_singularity/latest/2021-03-09-a1c61d26-fd8edc8a/Singularity
 collection: nucleosome-dynamics/nucleosome_dynamics_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-12T09:55:42.021Z"
 size_mb: 2587
 size: 966656031
 sif: "https://datasets.datalad.org/shub/mcw-rcc/rstudio/1.1.442/2019-11-12-281fa24b-c8c5910d/c8c5910d45d7e9b59c397f8be98e4268.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/rstudio/1.1.442/2019-11-12-281fa24b-c8c5910d/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/rstudio/1.1.442/2019-11-12-281fa24b-c8c5910d/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/rstudio/1.1.442/2019-11-12-281fa24b-c8c5910d/Singularity
 collection: mcw-rcc/rstudio
 ---

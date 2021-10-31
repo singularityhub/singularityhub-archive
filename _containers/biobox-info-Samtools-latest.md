@@ -9,7 +9,7 @@ build_date: "2019-10-21T07:12:07.628Z"
 size_mb: 122.1875
 size: 128122880
 sif: "https://datasets.datalad.org/shub/biobox-info/Samtools/latest/2019-10-21-d4596578-c2a2ad6e/c2a2ad6ee46aa4347f7bce5d89e55187e80cc31b07d8119cc04bbeddd986e19c.sif"
-url: https://datasets.datalad.org/shub/biobox-info/Samtools/latest/2019-10-21-d4596578-c2a2ad6e/
+datalad_url: https://datasets.datalad.org?dir=/shub/biobox-info/Samtools/latest/2019-10-21-d4596578-c2a2ad6e/
 recipe: https://datasets.datalad.org/shub/biobox-info/Samtools/latest/2019-10-21-d4596578-c2a2ad6e/Singularity
 collection: biobox-info/Samtools
 ---

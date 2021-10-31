@@ -9,7 +9,7 @@ build_date: "2021-04-19T20:49:05.714Z"
 size_mb: 694
 size: 277757983
 sif: "https://datasets.datalad.org/shub/ResearchIT/spack-singularity/openmpi/2021-04-19-4b571c31-12938774/12938774d3e1c6f7dec7a10f451edc80.simg"
-url: https://datasets.datalad.org/shub/ResearchIT/spack-singularity/openmpi/2021-04-19-4b571c31-12938774/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchIT/spack-singularity/openmpi/2021-04-19-4b571c31-12938774/
 recipe: https://datasets.datalad.org/shub/ResearchIT/spack-singularity/openmpi/2021-04-19-4b571c31-12938774/Singularity
 collection: ResearchIT/spack-singularity
 ---

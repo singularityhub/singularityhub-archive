@@ -9,7 +9,7 @@ build_date: "2019-09-16T13:14:41.868Z"
 size_mb: 185.4453125
 size: 194453504
 sif: "https://datasets.datalad.org/shub/biobox-info/Bowtie2/latest/2019-09-16-f6e6ebd0-b25c4ff2/b25c4ff24b77e5168d10915e6686982221cf6d9394404d942e51be9dd6d0db18.sif"
-url: https://datasets.datalad.org/shub/biobox-info/Bowtie2/latest/2019-09-16-f6e6ebd0-b25c4ff2/
+datalad_url: https://datasets.datalad.org?dir=/shub/biobox-info/Bowtie2/latest/2019-09-16-f6e6ebd0-b25c4ff2/
 recipe: https://datasets.datalad.org/shub/biobox-info/Bowtie2/latest/2019-09-16-f6e6ebd0-b25c4ff2/Singularity
 collection: biobox-info/Bowtie2
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-25T06:14:45.026Z"
 size_mb: 4038.0
 size: 1932070943
 sif: "https://datasets.datalad.org/shub/myzkyuki/singularity_recipe/tf-2.0.0-gpu-py3/2020-06-25-e6060096-5340c741/5340c741cc4f65c04554d5330b1ef488.sif"
-url: https://datasets.datalad.org/shub/myzkyuki/singularity_recipe/tf-2.0.0-gpu-py3/2020-06-25-e6060096-5340c741/
+datalad_url: https://datasets.datalad.org?dir=/shub/myzkyuki/singularity_recipe/tf-2.0.0-gpu-py3/2020-06-25-e6060096-5340c741/
 recipe: https://datasets.datalad.org/shub/myzkyuki/singularity_recipe/tf-2.0.0-gpu-py3/2020-06-25-e6060096-5340c741/Singularity
 collection: myzkyuki/singularity_recipe
 ---

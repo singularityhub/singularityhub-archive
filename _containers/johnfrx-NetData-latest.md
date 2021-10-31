@@ -9,7 +9,7 @@ build_date: "2019-07-30T09:47:08.763Z"
 size_mb: 474.0
 size: 171073567
 sif: "https://datasets.datalad.org/shub/johnfrx/NetData/latest/2019-07-30-d7657741-fa337620/fa3376203c4d492389d9f19aa088d419.sif"
-url: https://datasets.datalad.org/shub/johnfrx/NetData/latest/2019-07-30-d7657741-fa337620/
+datalad_url: https://datasets.datalad.org?dir=/shub/johnfrx/NetData/latest/2019-07-30-d7657741-fa337620/
 recipe: https://datasets.datalad.org/shub/johnfrx/NetData/latest/2019-07-30-d7657741-fa337620/Singularity
 collection: johnfrx/NetData
 ---

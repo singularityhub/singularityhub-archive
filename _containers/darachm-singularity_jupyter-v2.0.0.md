@@ -9,7 +9,7 @@ build_date: "2021-03-10T23:46:29.494Z"
 size_mb: 1153.0
 size: 460021791
 sif: "https://datasets.datalad.org/shub/darachm/singularity_jupyter/v2.0.0/2021-03-10-beeb7c66-d5e2cb56/d5e2cb561b4840b85fde0999c69e5415.sif"
-url: https://datasets.datalad.org/shub/darachm/singularity_jupyter/v2.0.0/2021-03-10-beeb7c66-d5e2cb56/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_jupyter/v2.0.0/2021-03-10-beeb7c66-d5e2cb56/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_jupyter/v2.0.0/2021-03-10-beeb7c66-d5e2cb56/Singularity
 collection: darachm/singularity_jupyter
 ---

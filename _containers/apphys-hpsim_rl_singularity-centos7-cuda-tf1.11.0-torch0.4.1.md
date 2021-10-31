@@ -9,7 +9,7 @@ build_date: "2018-11-16T01:38:15.819Z"
 size_mb: 5650
 size: 2564530207
 sif: "https://datasets.datalad.org/shub/apphys/hpsim_rl_singularity/centos7-cuda-tf1.11.0-torch0.4.1/2018-11-16-c66fc008-ffebff44/ffebff4451526e218eb0bea64c0fc6d0.simg"
-url: https://datasets.datalad.org/shub/apphys/hpsim_rl_singularity/centos7-cuda-tf1.11.0-torch0.4.1/2018-11-16-c66fc008-ffebff44/
+datalad_url: https://datasets.datalad.org?dir=/shub/apphys/hpsim_rl_singularity/centos7-cuda-tf1.11.0-torch0.4.1/2018-11-16-c66fc008-ffebff44/
 recipe: https://datasets.datalad.org/shub/apphys/hpsim_rl_singularity/centos7-cuda-tf1.11.0-torch0.4.1/2018-11-16-c66fc008-ffebff44/Singularity
 collection: apphys/hpsim_rl_singularity
 ---

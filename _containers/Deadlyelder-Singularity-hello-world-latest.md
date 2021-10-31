@@ -9,7 +9,7 @@ build_date: "2020-04-21T19:58:40.048Z"
 size_mb: 203
 size: 67432479
 sif: "https://datasets.datalad.org/shub/Deadlyelder/Singularity-hello-world/latest/2020-04-21-78dee2c9-36d8e676/36d8e6760606fbe3be5bfb27ba29eb3f.simg"
-url: https://datasets.datalad.org/shub/Deadlyelder/Singularity-hello-world/latest/2020-04-21-78dee2c9-36d8e676/
+datalad_url: https://datasets.datalad.org?dir=/shub/Deadlyelder/Singularity-hello-world/latest/2020-04-21-78dee2c9-36d8e676/
 recipe: https://datasets.datalad.org/shub/Deadlyelder/Singularity-hello-world/latest/2020-04-21-78dee2c9-36d8e676/Singularity
 collection: Deadlyelder/Singularity-hello-world
 ---

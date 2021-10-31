@@ -9,7 +9,7 @@ build_date: "2018-07-27T11:59:51.499Z"
 size_mb: 2332
 size: 585093151
 sif: "https://datasets.datalad.org/shub/Hydrocarpentry/project_pysingularity/latest/2018-07-27-1c574d3e-46daa01a/46daa01a4cdd14aeb6be969209711f58.simg"
-url: https://datasets.datalad.org/shub/Hydrocarpentry/project_pysingularity/latest/2018-07-27-1c574d3e-46daa01a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Hydrocarpentry/project_pysingularity/latest/2018-07-27-1c574d3e-46daa01a/
 recipe: https://datasets.datalad.org/shub/Hydrocarpentry/project_pysingularity/latest/2018-07-27-1c574d3e-46daa01a/Singularity
 collection: Hydrocarpentry/project_pysingularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-05-03T16:23:22.418Z"
 size_mb: 7589
 size: 2928967711
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-mriqc--0.15.0/2019-05-03-585d6728-b76d4d85/b76d4d850bf94dbea13d0a3331451842.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-mriqc--0.15.0/2019-05-03-585d6728-b76d4d85/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-mriqc--0.15.0/2019-05-03-585d6728-b76d4d85/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-mriqc--0.15.0/2019-05-03-585d6728-b76d4d85/Singularity
 collection: ReproNim/containers
 ---

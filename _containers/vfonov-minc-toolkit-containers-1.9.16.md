@@ -9,7 +9,7 @@ build_date: "2020-12-17T17:00:49.994Z"
 size_mb: 4046
 size: 1237930015
 sif: "https://datasets.datalad.org/shub/vfonov/minc-toolkit-containers/1.9.16/2020-12-17-a97db6ad-9c6cfba8/9c6cfba8cb1f6631213dbf53701fa921.simg"
-url: https://datasets.datalad.org/shub/vfonov/minc-toolkit-containers/1.9.16/2020-12-17-a97db6ad-9c6cfba8/
+datalad_url: https://datasets.datalad.org?dir=/shub/vfonov/minc-toolkit-containers/1.9.16/2020-12-17-a97db6ad-9c6cfba8/
 recipe: https://datasets.datalad.org/shub/vfonov/minc-toolkit-containers/1.9.16/2020-12-17-a97db6ad-9c6cfba8/Singularity
 collection: vfonov/minc-toolkit-containers
 ---

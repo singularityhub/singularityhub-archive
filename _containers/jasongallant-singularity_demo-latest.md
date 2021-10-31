@@ -9,7 +9,7 @@ build_date: "2018-02-26T16:06:31.492Z"
 size_mb: 234
 size: 97132575
 sif: "https://datasets.datalad.org/shub/jasongallant/singularity_demo/latest/2018-02-26-7626f34a-6e392d1f/6e392d1ff06a071053f64125c7cc5559.simg"
-url: https://datasets.datalad.org/shub/jasongallant/singularity_demo/latest/2018-02-26-7626f34a-6e392d1f/
+datalad_url: https://datasets.datalad.org?dir=/shub/jasongallant/singularity_demo/latest/2018-02-26-7626f34a-6e392d1f/
 recipe: https://datasets.datalad.org/shub/jasongallant/singularity_demo/latest/2018-02-26-7626f34a-6e392d1f/Singularity
 collection: jasongallant/singularity_demo
 ---

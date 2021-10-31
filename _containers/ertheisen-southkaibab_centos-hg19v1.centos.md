@@ -9,7 +9,7 @@ build_date: "2019-03-01T19:49:13.176Z"
 size_mb: 10747
 size: 3998711839
 sif: "https://datasets.datalad.org/shub/ertheisen/southkaibab_centos/hg19v1.centos/2019-03-01-84e7561f-320c0148/320c014848a51f8a7d590d3d627094b2.simg"
-url: https://datasets.datalad.org/shub/ertheisen/southkaibab_centos/hg19v1.centos/2019-03-01-84e7561f-320c0148/
+datalad_url: https://datasets.datalad.org?dir=/shub/ertheisen/southkaibab_centos/hg19v1.centos/2019-03-01-84e7561f-320c0148/
 recipe: https://datasets.datalad.org/shub/ertheisen/southkaibab_centos/hg19v1.centos/2019-03-01-84e7561f-320c0148/Singularity
 collection: ertheisen/southkaibab_centos
 ---

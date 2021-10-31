@@ -9,7 +9,7 @@ build_date: "2020-05-21T09:44:18.123Z"
 size_mb: 9028
 size: 4229750815
 sif: "https://datasets.datalad.org/shub/marcc-hpc/pytorch/latest/2020-05-21-902a887b-4015e08c/4015e08c7c652c85c811f40024548087.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/pytorch/latest/2020-05-21-902a887b-4015e08c/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/pytorch/latest/2020-05-21-902a887b-4015e08c/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/pytorch/latest/2020-05-21-902a887b-4015e08c/Singularity
 collection: marcc-hpc/pytorch
 ---

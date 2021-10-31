@@ -9,7 +9,7 @@ build_date: "2018-03-13T01:25:23.365Z"
 size_mb: 99
 size: 32112671
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-alpine-ctfr/latest/2018-03-13-bf2d9573-6cd640ce/6cd640cef08d0e78caf1aae2ea67782d.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-alpine-ctfr/latest/2018-03-13-bf2d9573-6cd640ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-docker-alpine-ctfr/latest/2018-03-13-bf2d9573-6cd640ce/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-alpine-ctfr/latest/2018-03-13-bf2d9573-6cd640ce/Singularity
 collection: truatpasteurdotfr/singularity-docker-alpine-ctfr
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-10T23:21:28.210Z"
 size_mb: 3629
 size: 1390419999
 sif: "https://datasets.datalad.org/shub/glass-consortium/glasstools/beta/2019-11-10-402ecb7c-e3fcd575/e3fcd575b10b6869cbf9faa5d98acdb4.simg"
-url: https://datasets.datalad.org/shub/glass-consortium/glasstools/beta/2019-11-10-402ecb7c-e3fcd575/
+datalad_url: https://datasets.datalad.org?dir=/shub/glass-consortium/glasstools/beta/2019-11-10-402ecb7c-e3fcd575/
 recipe: https://datasets.datalad.org/shub/glass-consortium/glasstools/beta/2019-11-10-402ecb7c-e3fcd575/Singularity
 collection: glass-consortium/glasstools
 ---

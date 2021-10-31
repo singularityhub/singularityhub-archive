@@ -9,7 +9,7 @@ build_date: "2021-02-03T12:58:20.300Z"
 size_mb: 1081.0
 size: 448847903
 sif: "https://datasets.datalad.org/shub/SergFern/Demultiplexing/def/2021-02-03-fd3f4e6b-3c62df49/3c62df495c684d4b80044ddfae80dcf3.sif"
-url: https://datasets.datalad.org/shub/SergFern/Demultiplexing/def/2021-02-03-fd3f4e6b-3c62df49/
+datalad_url: https://datasets.datalad.org?dir=/shub/SergFern/Demultiplexing/def/2021-02-03-fd3f4e6b-3c62df49/
 recipe: https://datasets.datalad.org/shub/SergFern/Demultiplexing/def/2021-02-03-fd3f4e6b-3c62df49/Singularity
 collection: SergFern/Demultiplexing
 ---

@@ -9,7 +9,7 @@ build_date: "2019-08-27T07:23:53.593Z"
 size_mb: 852
 size: 275435551
 sif: "https://datasets.datalad.org/shub/bramkamp-nsc/singularity-docker-centos7-blender/latest/2019-08-27-df2521ce-7ea97d60/7ea97d60a709f0d4232d37bbd3d66117.simg"
-url: https://datasets.datalad.org/shub/bramkamp-nsc/singularity-docker-centos7-blender/latest/2019-08-27-df2521ce-7ea97d60/
+datalad_url: https://datasets.datalad.org?dir=/shub/bramkamp-nsc/singularity-docker-centos7-blender/latest/2019-08-27-df2521ce-7ea97d60/
 recipe: https://datasets.datalad.org/shub/bramkamp-nsc/singularity-docker-centos7-blender/latest/2019-08-27-df2521ce-7ea97d60/Singularity
 collection: bramkamp-nsc/singularity-docker-centos7-blender
 ---

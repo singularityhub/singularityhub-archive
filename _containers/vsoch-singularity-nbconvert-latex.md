@@ -9,7 +9,7 @@ build_date: "2017-10-20T13:19:09.986Z"
 size_mb: 2073
 size: 1177014303
 sif: "https://datasets.datalad.org/shub/vsoch/singularity-nbconvert/latex/2017-10-20-e307f130-85ac0525/85ac05252c6c4cf4ac1f40308dc49405.simg"
-url: https://datasets.datalad.org/shub/vsoch/singularity-nbconvert/latex/2017-10-20-e307f130-85ac0525/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/singularity-nbconvert/latex/2017-10-20-e307f130-85ac0525/
 recipe: https://datasets.datalad.org/shub/vsoch/singularity-nbconvert/latex/2017-10-20-e307f130-85ac0525/Singularity
 collection: vsoch/singularity-nbconvert
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-21T13:53:24.552Z"
 size_mb: 3484
 size: 1427677215
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/ucs_ucec_rnaseq.analysis/2019-06-21-c574a3f1-0fc1799f/0fc1799f49674dddc5c26203f84de264.simg"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/ucs_ucec_rnaseq.analysis/2019-06-21-c574a3f1-0fc1799f/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/ucs_ucec_rnaseq.analysis/2019-06-21-c574a3f1-0fc1799f/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/ucs_ucec_rnaseq.analysis/2019-06-21-c574a3f1-0fc1799f/Singularity
 collection: brucemoran/Singularity
 ---

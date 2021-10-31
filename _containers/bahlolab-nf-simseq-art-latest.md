@@ -9,7 +9,7 @@ build_date: "2019-06-06T09:15:19.423Z"
 size_mb: 1740
 size: 585654303
 sif: "https://datasets.datalad.org/shub/bahlolab/nf-simseq-art/latest/2019-06-06-f43e1bb4-6cc2999f/6cc2999fa04dd32912d49a6fbf079cf4.simg"
-url: https://datasets.datalad.org/shub/bahlolab/nf-simseq-art/latest/2019-06-06-f43e1bb4-6cc2999f/
+datalad_url: https://datasets.datalad.org?dir=/shub/bahlolab/nf-simseq-art/latest/2019-06-06-f43e1bb4-6cc2999f/
 recipe: https://datasets.datalad.org/shub/bahlolab/nf-simseq-art/latest/2019-06-06-f43e1bb4-6cc2999f/Singularity
 collection: bahlolab/nf-simseq-art
 ---

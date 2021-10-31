@@ -9,7 +9,7 @@ build_date: "2021-04-09T22:32:53.761Z"
 size_mb: 1255.640625
 size: 1316634624
 sif: "https://datasets.datalad.org/shub/dcgc-bfx/dcgc-base-conda/0.1.1/2021-04-09-32610472-e7889a60/e7889a60384d3f009fbdb2d3a093efc44137cc6a3a35f6caeb6d49d54fb56dae.sif"
-url: https://datasets.datalad.org/shub/dcgc-bfx/dcgc-base-conda/0.1.1/2021-04-09-32610472-e7889a60/
+datalad_url: https://datasets.datalad.org?dir=/shub/dcgc-bfx/dcgc-base-conda/0.1.1/2021-04-09-32610472-e7889a60/
 recipe: https://datasets.datalad.org/shub/dcgc-bfx/dcgc-base-conda/0.1.1/2021-04-09-32610472-e7889a60/Singularity
 collection: dcgc-bfx/dcgc-base-conda
 ---

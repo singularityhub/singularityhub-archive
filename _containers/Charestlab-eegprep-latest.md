@@ -9,7 +9,7 @@ build_date: "2019-11-22T20:51:02.372Z"
 size_mb: 1319.0
 size: 472330271
 sif: "https://datasets.datalad.org/shub/Charestlab/eegprep/latest/2019-11-22-f8ca1e82-087c92eb/087c92ebf1aefba091087baaf5e20ee1.sif"
-url: https://datasets.datalad.org/shub/Charestlab/eegprep/latest/2019-11-22-f8ca1e82-087c92eb/
+datalad_url: https://datasets.datalad.org?dir=/shub/Charestlab/eegprep/latest/2019-11-22-f8ca1e82-087c92eb/
 recipe: https://datasets.datalad.org/shub/Charestlab/eegprep/latest/2019-11-22-f8ca1e82-087c92eb/Singularity
 collection: Charestlab/eegprep
 ---

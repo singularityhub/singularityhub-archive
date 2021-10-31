@@ -9,7 +9,7 @@ build_date: "2021-04-16T02:01:51.873Z"
 size_mb: 4665.40234375
 size: 4892028928
 sif: "https://datasets.datalad.org/shub/dongfang91/hpc-ml/centos7-python3.7-transformers4.4.1/2021-04-16-070326e4-8269e4fa/8269e4fa7ab8712525b845e71b9aaf38768d0a7061b8a40f5f4f362d0b98d890.sif"
-url: https://datasets.datalad.org/shub/dongfang91/hpc-ml/centos7-python3.7-transformers4.4.1/2021-04-16-070326e4-8269e4fa/
+datalad_url: https://datasets.datalad.org?dir=/shub/dongfang91/hpc-ml/centos7-python3.7-transformers4.4.1/2021-04-16-070326e4-8269e4fa/
 recipe: https://datasets.datalad.org/shub/dongfang91/hpc-ml/centos7-python3.7-transformers4.4.1/2021-04-16-070326e4-8269e4fa/Singularity
 collection: dongfang91/hpc-ml
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-25T19:29:57.012Z"
 size_mb: 810.0
 size: 275636255
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/trimgalore-latest/2020-10-25-db8d71f9-bfe869b4/bfe869b4642ce9641a7b83b02dc2117c.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/trimgalore-latest/2020-10-25-db8d71f9-bfe869b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/trimgalore-latest/2020-10-25-db8d71f9-bfe869b4/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/trimgalore-latest/2020-10-25-db8d71f9-bfe869b4/Singularity
 collection: annacprice/containerCI-test
 ---

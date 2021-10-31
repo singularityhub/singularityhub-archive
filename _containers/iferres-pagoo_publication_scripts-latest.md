@@ -9,7 +9,7 @@ build_date: "2021-01-29T14:58:06.552Z"
 size_mb: 2665.0
 size: 927166495
 sif: "https://datasets.datalad.org/shub/iferres/pagoo_publication_scripts/latest/2021-01-29-c0919622-ba939950/ba939950d87135e4aefdc0ff12f0b13b.sif"
-url: https://datasets.datalad.org/shub/iferres/pagoo_publication_scripts/latest/2021-01-29-c0919622-ba939950/
+datalad_url: https://datasets.datalad.org?dir=/shub/iferres/pagoo_publication_scripts/latest/2021-01-29-c0919622-ba939950/
 recipe: https://datasets.datalad.org/shub/iferres/pagoo_publication_scripts/latest/2021-01-29-c0919622-ba939950/Singularity
 collection: iferres/pagoo_publication_scripts
 ---

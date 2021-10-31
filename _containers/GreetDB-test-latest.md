@@ -9,7 +9,7 @@ build_date: "2021-03-16T18:29:45.722Z"
 size_mb: 2251.0
 size: 851345439
 sif: "https://datasets.datalad.org/shub/GreetDB/test/latest/2021-03-16-4b0c959d-645838a5/645838a5bb5eb1fd89b8b6b74a42a868.sif"
-url: https://datasets.datalad.org/shub/GreetDB/test/latest/2021-03-16-4b0c959d-645838a5/
+datalad_url: https://datasets.datalad.org?dir=/shub/GreetDB/test/latest/2021-03-16-4b0c959d-645838a5/
 recipe: https://datasets.datalad.org/shub/GreetDB/test/latest/2021-03-16-4b0c959d-645838a5/Singularity
 collection: GreetDB/test
 ---

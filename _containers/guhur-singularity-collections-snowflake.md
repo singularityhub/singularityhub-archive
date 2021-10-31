@@ -9,7 +9,7 @@ build_date: "2021-01-23T18:02:52.955Z"
 size_mb: 6172.0
 size: 3529883679
 sif: "https://datasets.datalad.org/shub/guhur/singularity-collections/snowflake/2021-01-23-ed876d35-cbaf6f77/cbaf6f7792a6cdb0eef37840d9dad2a7.sif"
-url: https://datasets.datalad.org/shub/guhur/singularity-collections/snowflake/2021-01-23-ed876d35-cbaf6f77/
+datalad_url: https://datasets.datalad.org?dir=/shub/guhur/singularity-collections/snowflake/2021-01-23-ed876d35-cbaf6f77/
 recipe: https://datasets.datalad.org/shub/guhur/singularity-collections/snowflake/2021-01-23-ed876d35-cbaf6f77/Singularity
 collection: guhur/singularity-collections
 ---

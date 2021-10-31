@@ -9,7 +9,7 @@ build_date: "2020-03-27T12:15:22.763Z"
 size_mb: 5695
 size: 3474735135
 sif: "https://datasets.datalad.org/shub/maxemil/Biodiversity-pipeline/latest/2020-03-27-8dc5f108-dd9060cb/dd9060cbeabadf2ac7917b3cffd47338.simg"
-url: https://datasets.datalad.org/shub/maxemil/Biodiversity-pipeline/latest/2020-03-27-8dc5f108-dd9060cb/
+datalad_url: https://datasets.datalad.org?dir=/shub/maxemil/Biodiversity-pipeline/latest/2020-03-27-8dc5f108-dd9060cb/
 recipe: https://datasets.datalad.org/shub/maxemil/Biodiversity-pipeline/latest/2020-03-27-8dc5f108-dd9060cb/Singularity
 collection: maxemil/Biodiversity-pipeline
 ---

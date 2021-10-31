@@ -9,7 +9,7 @@ build_date: "2018-09-19T07:00:18.687Z"
 size_mb: 545
 size: 219426847
 sif: "https://datasets.datalad.org/shub/chunhuazhou/build_container_on_shub/latest/2018-09-19-c4827fb9-ee520b29/ee520b29696dae80fbc40f3b5cf47b83.simg"
-url: https://datasets.datalad.org/shub/chunhuazhou/build_container_on_shub/latest/2018-09-19-c4827fb9-ee520b29/
+datalad_url: https://datasets.datalad.org?dir=/shub/chunhuazhou/build_container_on_shub/latest/2018-09-19-c4827fb9-ee520b29/
 recipe: https://datasets.datalad.org/shub/chunhuazhou/build_container_on_shub/latest/2018-09-19-c4827fb9-ee520b29/Singularity
 collection: chunhuazhou/build_container_on_shub
 ---

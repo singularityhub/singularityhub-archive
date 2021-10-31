@@ -9,7 +9,7 @@ build_date: "2020-09-16T23:57:25.715Z"
 size_mb: 3629.0
 size: 1450823711
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/mrtrix3tissue-5.2.8/2020-09-16-a9839141-daa18c44/daa18c44ab6eafe5d80c6e822a0f2b2c.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/mrtrix3tissue-5.2.8/2020-09-16-a9839141-daa18c44/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/mrtrix3tissue-5.2.8/2020-09-16-a9839141-daa18c44/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/mrtrix3tissue-5.2.8/2020-09-16-a9839141-daa18c44/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

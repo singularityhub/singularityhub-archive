@@ -9,7 +9,7 @@ build_date: "2019-12-09T12:41:31.284Z"
 size_mb: 1809
 size: 699994143
 sif: "https://datasets.datalad.org/shub/team113sanger/t113-singularity/r-3.6.0.methylation-1.0.0/2019-12-09-4dc2c1f3-284dd0d7/284dd0d77ca7233a318279a2eac04772.simg"
-url: https://datasets.datalad.org/shub/team113sanger/t113-singularity/r-3.6.0.methylation-1.0.0/2019-12-09-4dc2c1f3-284dd0d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/team113sanger/t113-singularity/r-3.6.0.methylation-1.0.0/2019-12-09-4dc2c1f3-284dd0d7/
 recipe: https://datasets.datalad.org/shub/team113sanger/t113-singularity/r-3.6.0.methylation-1.0.0/2019-12-09-4dc2c1f3-284dd0d7/Singularity
 collection: team113sanger/t113-singularity
 ---

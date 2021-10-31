@@ -9,7 +9,7 @@ build_date: "2018-04-05T16:53:48.370Z"
 size_mb: 6748
 size: 3340107807
 sif: "https://datasets.datalad.org/shub/aizjForever/darch_recipe/cuda/2018-04-05-41dbe7ba-5e6f0330/5e6f03306a226c108e2a89ad9494cc4b.simg"
-url: https://datasets.datalad.org/shub/aizjForever/darch_recipe/cuda/2018-04-05-41dbe7ba-5e6f0330/
+datalad_url: https://datasets.datalad.org?dir=/shub/aizjForever/darch_recipe/cuda/2018-04-05-41dbe7ba-5e6f0330/
 recipe: https://datasets.datalad.org/shub/aizjForever/darch_recipe/cuda/2018-04-05-41dbe7ba-5e6f0330/Singularity
 collection: aizjForever/darch_recipe
 ---

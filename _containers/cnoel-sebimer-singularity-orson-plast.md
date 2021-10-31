@@ -9,7 +9,7 @@ build_date: "2021-03-11T09:34:30.799Z"
 size_mb: 146.0
 size: 69238815
 sif: "https://datasets.datalad.org/shub/cnoel-sebimer/singularity-orson/plast/2021-03-11-5fc859e7-e722fd88/e722fd889b43d2f174fa81f438c7c508.sif"
-url: https://datasets.datalad.org/shub/cnoel-sebimer/singularity-orson/plast/2021-03-11-5fc859e7-e722fd88/
+datalad_url: https://datasets.datalad.org?dir=/shub/cnoel-sebimer/singularity-orson/plast/2021-03-11-5fc859e7-e722fd88/
 recipe: https://datasets.datalad.org/shub/cnoel-sebimer/singularity-orson/plast/2021-03-11-5fc859e7-e722fd88/Singularity
 collection: cnoel-sebimer/singularity-orson
 ---

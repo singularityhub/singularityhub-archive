@@ -9,7 +9,7 @@ build_date: "2017-11-09T15:40:54.524Z"
 size_mb: 246
 size: 27406367
 sif: "https://datasets.datalad.org/shub/ldynia/containerized-workshop/latest/2017-11-09-67c280db-8be74919/8be74919d7ac1a44daa75dfcbbf35fa5.simg"
-url: https://datasets.datalad.org/shub/ldynia/containerized-workshop/latest/2017-11-09-67c280db-8be74919/
+datalad_url: https://datasets.datalad.org?dir=/shub/ldynia/containerized-workshop/latest/2017-11-09-67c280db-8be74919/
 recipe: https://datasets.datalad.org/shub/ldynia/containerized-workshop/latest/2017-11-09-67c280db-8be74919/Singularity
 collection: ldynia/containerized-workshop
 ---

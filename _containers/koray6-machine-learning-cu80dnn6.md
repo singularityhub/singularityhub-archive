@@ -9,7 +9,7 @@ build_date: "2019-02-05T05:54:32.643Z"
 size_mb: 8068
 size: 3431776287
 sif: "https://datasets.datalad.org/shub/koray6/machine-learning/cu80dnn6/2019-02-05-89c2aaa7-18d930a7/18d930a75b817f471b003f9dd3c5cb20.simg"
-url: https://datasets.datalad.org/shub/koray6/machine-learning/cu80dnn6/2019-02-05-89c2aaa7-18d930a7/
+datalad_url: https://datasets.datalad.org?dir=/shub/koray6/machine-learning/cu80dnn6/2019-02-05-89c2aaa7-18d930a7/
 recipe: https://datasets.datalad.org/shub/koray6/machine-learning/cu80dnn6/2019-02-05-89c2aaa7-18d930a7/Singularity
 collection: koray6/machine-learning
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-20T01:46:46.244Z"
 size_mb: 6893.0
 size: 3386449951
 sif: "https://datasets.datalad.org/shub/DeepLearnPhysics/larcv2-singularity/ub18.04-gpu-ana0-mn/2019-12-20-1cf88635-614d41eb/614d41eb9086388946e0afd96ce66e18.sif"
-url: https://datasets.datalad.org/shub/DeepLearnPhysics/larcv2-singularity/ub18.04-gpu-ana0-mn/2019-12-20-1cf88635-614d41eb/
+datalad_url: https://datasets.datalad.org?dir=/shub/DeepLearnPhysics/larcv2-singularity/ub18.04-gpu-ana0-mn/2019-12-20-1cf88635-614d41eb/
 recipe: https://datasets.datalad.org/shub/DeepLearnPhysics/larcv2-singularity/ub18.04-gpu-ana0-mn/2019-12-20-1cf88635-614d41eb/Singularity
 collection: DeepLearnPhysics/larcv2-singularity
 ---

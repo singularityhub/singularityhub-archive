@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.252Z"
 size_mb: 841
 size: 404971551
 sif: "https://datasets.datalad.org/shub/scholtalbers/singularity-gifascii/gif/2019-02-27-e7c1ef0a-71c4c853/71c4c853250d7ccee5b8b289fe6ba551.simg"
-url: https://datasets.datalad.org/shub/scholtalbers/singularity-gifascii/gif/2019-02-27-e7c1ef0a-71c4c853/
+datalad_url: https://datasets.datalad.org?dir=/shub/scholtalbers/singularity-gifascii/gif/2019-02-27-e7c1ef0a-71c4c853/
 recipe: https://datasets.datalad.org/shub/scholtalbers/singularity-gifascii/gif/2019-02-27-e7c1ef0a-71c4c853/Singularity
 collection: scholtalbers/singularity-gifascii
 ---

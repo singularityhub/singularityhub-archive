@@ -9,7 +9,7 @@ build_date: "2019-06-21T11:07:46.685Z"
 size_mb: 1252
 size: 445980703
 sif: "https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/molden/2019-06-21-6612464e-3f1e81e2/3f1e81e29a3e4550854922020b0e6918.simg"
-url: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/molden/2019-06-21-6612464e-3f1e81e2/
+datalad_url: https://datasets.datalad.org?dir=/shub/SupercomputingWales/singularity_hub/molden/2019-06-21-6612464e-3f1e81e2/
 recipe: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/molden/2019-06-21-6612464e-3f1e81e2/Singularity
 collection: SupercomputingWales/singularity_hub
 ---

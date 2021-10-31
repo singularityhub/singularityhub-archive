@@ -9,7 +9,7 @@ build_date: "2019-02-18T10:57:37.362Z"
 size_mb: 633
 size: 231665695
 sif: "https://datasets.datalad.org/shub/cfljam/Pop-Genomics-Workshop2019/latest/2019-02-18-6f040916-f6ea633e/f6ea633e87d2f1386e0090bbc38a646a.simg"
-url: https://datasets.datalad.org/shub/cfljam/Pop-Genomics-Workshop2019/latest/2019-02-18-6f040916-f6ea633e/
+datalad_url: https://datasets.datalad.org?dir=/shub/cfljam/Pop-Genomics-Workshop2019/latest/2019-02-18-6f040916-f6ea633e/
 recipe: https://datasets.datalad.org/shub/cfljam/Pop-Genomics-Workshop2019/latest/2019-02-18-6f040916-f6ea633e/Singularity
 collection: cfljam/Pop-Genomics-Workshop2019
 ---

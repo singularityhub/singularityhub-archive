@@ -9,7 +9,7 @@ build_date: "2020-02-11T00:00:02.273Z"
 size_mb: 1278
 size: 426467359
 sif: "https://datasets.datalad.org/shub/romxero/nco_singularity/latest/2020-02-11-09778dd3-eefb6e14/eefb6e14d3958de5fb538c6522e881a2.simg"
-url: https://datasets.datalad.org/shub/romxero/nco_singularity/latest/2020-02-11-09778dd3-eefb6e14/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/nco_singularity/latest/2020-02-11-09778dd3-eefb6e14/
 recipe: https://datasets.datalad.org/shub/romxero/nco_singularity/latest/2020-02-11-09778dd3-eefb6e14/Singularity
 collection: romxero/nco_singularity
 ---

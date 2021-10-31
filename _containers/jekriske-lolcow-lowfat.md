@@ -9,7 +9,7 @@ build_date: "2020-08-02T16:26:43.616Z"
 size_mb: 187
 size: 3563551
 sif: "https://datasets.datalad.org/shub/jekriske/lolcow/lowfat/2020-08-02-2b64452c-7899209b/7899209b8e9cb5e8363707be57bfe9a1.simg"
-url: https://datasets.datalad.org/shub/jekriske/lolcow/lowfat/2020-08-02-2b64452c-7899209b/
+datalad_url: https://datasets.datalad.org?dir=/shub/jekriske/lolcow/lowfat/2020-08-02-2b64452c-7899209b/
 recipe: https://datasets.datalad.org/shub/jekriske/lolcow/lowfat/2020-08-02-2b64452c-7899209b/Singularity
 collection: jekriske/lolcow
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-04T23:21:52.875Z"
 size_mb: 3618
 size: 1788268575
 sif: "https://datasets.datalad.org/shub/ucr-singularity/caffe-gpu/latest/2020-05-04-47de8bc2-1cf092e9/1cf092e9af39bd7f54e8104eb7ca05b3.simg"
-url: https://datasets.datalad.org/shub/ucr-singularity/caffe-gpu/latest/2020-05-04-47de8bc2-1cf092e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/ucr-singularity/caffe-gpu/latest/2020-05-04-47de8bc2-1cf092e9/
 recipe: https://datasets.datalad.org/shub/ucr-singularity/caffe-gpu/latest/2020-05-04-47de8bc2-1cf092e9/Singularity
 collection: ucr-singularity/caffe-gpu
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-13T19:08:23.793Z"
 size_mb: 4741
 size: 1917321247
 sif: "https://datasets.datalad.org/shub/llucifer97/openposecluster/latest/2020-01-13-87b8ddd2-39ff178f/39ff178f7c5b34f7ed1d30d4d07b106e.simg"
-url: https://datasets.datalad.org/shub/llucifer97/openposecluster/latest/2020-01-13-87b8ddd2-39ff178f/
+datalad_url: https://datasets.datalad.org?dir=/shub/llucifer97/openposecluster/latest/2020-01-13-87b8ddd2-39ff178f/
 recipe: https://datasets.datalad.org/shub/llucifer97/openposecluster/latest/2020-01-13-87b8ddd2-39ff178f/Singularity
 collection: llucifer97/openposecluster
 ---

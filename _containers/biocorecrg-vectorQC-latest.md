@@ -9,7 +9,7 @@ build_date: "2018-09-04T14:36:37.005Z"
 size_mb: 2739
 size: 1151488031
 sif: "https://datasets.datalad.org/shub/biocorecrg/vectorQC/latest/2018-09-04-2c047a2b-73ce6710/73ce671029a29b1fc5880470c30fbf47.simg"
-url: https://datasets.datalad.org/shub/biocorecrg/vectorQC/latest/2018-09-04-2c047a2b-73ce6710/
+datalad_url: https://datasets.datalad.org?dir=/shub/biocorecrg/vectorQC/latest/2018-09-04-2c047a2b-73ce6710/
 recipe: https://datasets.datalad.org/shub/biocorecrg/vectorQC/latest/2018-09-04-2c047a2b-73ce6710/Singularity
 collection: biocorecrg/vectorQC
 ---

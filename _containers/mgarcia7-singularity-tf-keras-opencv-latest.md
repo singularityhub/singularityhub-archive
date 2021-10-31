@@ -9,7 +9,7 @@ build_date: "2020-11-07T01:28:22.201Z"
 size_mb: 3955.0
 size: 2014511135
 sif: "https://datasets.datalad.org/shub/mgarcia7/singularity-tf-keras-opencv/latest/2020-11-07-e8daea46-d8e0f8a5/d8e0f8a5766136b8a38ec58c0355a6b0.sif"
-url: https://datasets.datalad.org/shub/mgarcia7/singularity-tf-keras-opencv/latest/2020-11-07-e8daea46-d8e0f8a5/
+datalad_url: https://datasets.datalad.org?dir=/shub/mgarcia7/singularity-tf-keras-opencv/latest/2020-11-07-e8daea46-d8e0f8a5/
 recipe: https://datasets.datalad.org/shub/mgarcia7/singularity-tf-keras-opencv/latest/2020-11-07-e8daea46-d8e0f8a5/Singularity
 collection: mgarcia7/singularity-tf-keras-opencv
 ---

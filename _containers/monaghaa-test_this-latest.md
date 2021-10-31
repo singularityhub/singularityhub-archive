@@ -9,7 +9,7 @@ build_date: "2019-02-06T18:43:57.425Z"
 size_mb: 531
 size: 207220767
 sif: "https://datasets.datalad.org/shub/monaghaa/test_this/latest/2019-02-06-2a664187-690ab443/690ab443ed4c37a2d290d90c9db5e128.simg"
-url: https://datasets.datalad.org/shub/monaghaa/test_this/latest/2019-02-06-2a664187-690ab443/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/test_this/latest/2019-02-06-2a664187-690ab443/
 recipe: https://datasets.datalad.org/shub/monaghaa/test_this/latest/2019-02-06-2a664187-690ab443/Singularity
 collection: monaghaa/test_this
 ---

@@ -9,7 +9,7 @@ build_date: "2019-01-18T10:30:21.636Z"
 size_mb: 1372
 size: 420515871
 sif: "https://datasets.datalad.org/shub/bahlolab/nf-pacbio-amplicon-analysis/amplicon_phasing_utils_v0.2/2019-01-18-93c6890c-b9cf6edf/b9cf6edf6114dfb415fce768022afb66.simg"
-url: https://datasets.datalad.org/shub/bahlolab/nf-pacbio-amplicon-analysis/amplicon_phasing_utils_v0.2/2019-01-18-93c6890c-b9cf6edf/
+datalad_url: https://datasets.datalad.org?dir=/shub/bahlolab/nf-pacbio-amplicon-analysis/amplicon_phasing_utils_v0.2/2019-01-18-93c6890c-b9cf6edf/
 recipe: https://datasets.datalad.org/shub/bahlolab/nf-pacbio-amplicon-analysis/amplicon_phasing_utils_v0.2/2019-01-18-93c6890c-b9cf6edf/Singularity
 collection: bahlolab/nf-pacbio-amplicon-analysis
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-23T19:02:39.311Z"
 size_mb: 585.0
 size: 186830879
 sif: "https://datasets.datalad.org/shub/seb-mueller/singularity_srna_phasing/latest/2019-12-23-37cec0c8-1cf4ebbb/1cf4ebbb856e98f86786cbb93685e6ab.sif"
-url: https://datasets.datalad.org/shub/seb-mueller/singularity_srna_phasing/latest/2019-12-23-37cec0c8-1cf4ebbb/
+datalad_url: https://datasets.datalad.org?dir=/shub/seb-mueller/singularity_srna_phasing/latest/2019-12-23-37cec0c8-1cf4ebbb/
 recipe: https://datasets.datalad.org/shub/seb-mueller/singularity_srna_phasing/latest/2019-12-23-37cec0c8-1cf4ebbb/Singularity
 collection: seb-mueller/singularity_srna_phasing
 ---

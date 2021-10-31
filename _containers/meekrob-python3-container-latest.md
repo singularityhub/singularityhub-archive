@@ -9,7 +9,7 @@ build_date: "2021-01-27T21:59:28.751Z"
 size_mb: 3930.0
 size: 1570639903
 sif: "https://datasets.datalad.org/shub/meekrob/python3-container/latest/2021-01-27-57708548-e327cca8/e327cca805f25b201c102422b69bbad6.sif"
-url: https://datasets.datalad.org/shub/meekrob/python3-container/latest/2021-01-27-57708548-e327cca8/
+datalad_url: https://datasets.datalad.org?dir=/shub/meekrob/python3-container/latest/2021-01-27-57708548-e327cca8/
 recipe: https://datasets.datalad.org/shub/meekrob/python3-container/latest/2021-01-27-57708548-e327cca8/Singularity
 collection: meekrob/python3-container
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-29T01:42:55.214Z"
 size_mb: 280.0
 size: 83341343
 sif: "https://datasets.datalad.org/shub/scleveland/centos7-base-singularity/latest/2021-03-29-fd19672b-7e28ab81/7e28ab816ab183d1ca47f9e47a9cecf3.sif"
-url: https://datasets.datalad.org/shub/scleveland/centos7-base-singularity/latest/2021-03-29-fd19672b-7e28ab81/
+datalad_url: https://datasets.datalad.org?dir=/shub/scleveland/centos7-base-singularity/latest/2021-03-29-fd19672b-7e28ab81/
 recipe: https://datasets.datalad.org/shub/scleveland/centos7-base-singularity/latest/2021-03-29-fd19672b-7e28ab81/Singularity
 collection: scleveland/centos7-base-singularity
 ---

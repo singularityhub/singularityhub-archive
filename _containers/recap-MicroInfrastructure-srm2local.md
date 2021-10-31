@@ -9,7 +9,7 @@ build_date: "2019-10-04T11:25:03.193Z"
 size_mb: 318.0
 size: 130211871
 sif: "https://datasets.datalad.org/shub/recap/MicroInfrastructure/srm2local/2019-10-04-046edd67-2595fff5/2595fff51847148ed7ff31d60abe2149.sif"
-url: https://datasets.datalad.org/shub/recap/MicroInfrastructure/srm2local/2019-10-04-046edd67-2595fff5/
+datalad_url: https://datasets.datalad.org?dir=/shub/recap/MicroInfrastructure/srm2local/2019-10-04-046edd67-2595fff5/
 recipe: https://datasets.datalad.org/shub/recap/MicroInfrastructure/srm2local/2019-10-04-046edd67-2595fff5/Singularity
 collection: recap/MicroInfrastructure
 ---

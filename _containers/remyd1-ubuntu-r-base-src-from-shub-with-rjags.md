@@ -9,7 +9,7 @@ build_date: "2018-04-11T17:52:04.816Z"
 size_mb: 1320
 size: 482037791
 sif: "https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/src-from-shub-with-rjags/2018-04-11-b7055651-328c70d9/328c70d92754dcc2bb0e0a821ba409a0.simg"
-url: https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/src-from-shub-with-rjags/2018-04-11-b7055651-328c70d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/remyd1/ubuntu-r-base/src-from-shub-with-rjags/2018-04-11-b7055651-328c70d9/
 recipe: https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/src-from-shub-with-rjags/2018-04-11-b7055651-328c70d9/Singularity
 collection: remyd1/ubuntu-r-base
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-19T14:16:15.313Z"
 size_mb: 1203.0
 size: 473374751
 sif: "https://datasets.datalad.org/shub/hexmek/container/puntseq/2020-08-19-07d37054-237445b1/237445b1c7a01530c92f324cae62ea00.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/puntseq/2020-08-19-07d37054-237445b1/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/puntseq/2020-08-19-07d37054-237445b1/
 recipe: https://datasets.datalad.org/shub/hexmek/container/puntseq/2020-08-19-07d37054-237445b1/Singularity
 collection: hexmek/container
 ---

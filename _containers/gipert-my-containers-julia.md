@@ -9,7 +9,7 @@ build_date: "2019-11-28T03:28:55.764Z"
 size_mb: 1448
 size: 379838495
 sif: "https://datasets.datalad.org/shub/gipert/my-containers/julia/2019-11-28-4351299d-43280f63/43280f6338d5c1d8835a5cdf4aadea7c.simg"
-url: https://datasets.datalad.org/shub/gipert/my-containers/julia/2019-11-28-4351299d-43280f63/
+datalad_url: https://datasets.datalad.org?dir=/shub/gipert/my-containers/julia/2019-11-28-4351299d-43280f63/
 recipe: https://datasets.datalad.org/shub/gipert/my-containers/julia/2019-11-28-4351299d-43280f63/Singularity
 collection: gipert/my-containers
 ---

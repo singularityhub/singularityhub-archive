@@ -9,7 +9,7 @@ build_date: "2020-12-07T23:44:17.563Z"
 size_mb: 1144.0
 size: 443412511
 sif: "https://datasets.datalad.org/shub/cschu/dada2_container/latest/2020-12-07-3396a298-243820d9/243820d9177045cbb56590082896c2d2.sif"
-url: https://datasets.datalad.org/shub/cschu/dada2_container/latest/2020-12-07-3396a298-243820d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/cschu/dada2_container/latest/2020-12-07-3396a298-243820d9/
 recipe: https://datasets.datalad.org/shub/cschu/dada2_container/latest/2020-12-07-3396a298-243820d9/Singularity
 collection: cschu/dada2_container
 ---

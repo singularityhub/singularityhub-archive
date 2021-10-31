@@ -9,7 +9,7 @@ build_date: "2020-05-27T14:35:23.227Z"
 size_mb: 4173
 size: 1204170783
 sif: "https://datasets.datalad.org/shub/marcc-hpc/deepTools/latest/2020-05-27-692c2586-096b12b3/096b12b388caa821ad793209406781ba.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/deepTools/latest/2020-05-27-692c2586-096b12b3/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/deepTools/latest/2020-05-27-692c2586-096b12b3/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/deepTools/latest/2020-05-27-692c2586-096b12b3/Singularity
 collection: marcc-hpc/deepTools
 ---

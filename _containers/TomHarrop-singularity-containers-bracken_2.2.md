@@ -9,7 +9,7 @@ build_date: "2019-06-13T22:59:54.038Z"
 size_mb: 487
 size: 169119775
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/bracken_2.2/2019-06-13-5c281287-57b00299/57b002998bb026cc75c32d6c4f7f261e.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/bracken_2.2/2019-06-13-5c281287-57b00299/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/bracken_2.2/2019-06-13-5c281287-57b00299/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/bracken_2.2/2019-06-13-5c281287-57b00299/Singularity
 collection: TomHarrop/singularity-containers
 ---

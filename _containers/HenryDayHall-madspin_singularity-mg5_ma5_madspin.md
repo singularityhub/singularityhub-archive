@@ -9,7 +9,7 @@ build_date: "2020-10-08T16:43:44.035Z"
 size_mb: 4239.0
 size: 2284040223
 sif: "https://datasets.datalad.org/shub/HenryDayHall/madspin_singularity/mg5_ma5_madspin/2020-10-08-a0c232e7-462e5f38/462e5f382af94c29b01964aaa4042fbe.sif"
-url: https://datasets.datalad.org/shub/HenryDayHall/madspin_singularity/mg5_ma5_madspin/2020-10-08-a0c232e7-462e5f38/
+datalad_url: https://datasets.datalad.org?dir=/shub/HenryDayHall/madspin_singularity/mg5_ma5_madspin/2020-10-08-a0c232e7-462e5f38/
 recipe: https://datasets.datalad.org/shub/HenryDayHall/madspin_singularity/mg5_ma5_madspin/2020-10-08-a0c232e7-462e5f38/Singularity
 collection: HenryDayHall/madspin_singularity
 ---

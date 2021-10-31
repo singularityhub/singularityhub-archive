@@ -9,7 +9,7 @@ build_date: "2019-01-11T15:17:05.162Z"
 size_mb: 4339
 size: 1848410143
 sif: "https://datasets.datalad.org/shub/bhattlab/wits_workshop/classification/2019-01-11-378137db-47cd119e/47cd119e7269909380c67f2991da1e2c.simg"
-url: https://datasets.datalad.org/shub/bhattlab/wits_workshop/classification/2019-01-11-378137db-47cd119e/
+datalad_url: https://datasets.datalad.org?dir=/shub/bhattlab/wits_workshop/classification/2019-01-11-378137db-47cd119e/
 recipe: https://datasets.datalad.org/shub/bhattlab/wits_workshop/classification/2019-01-11-378137db-47cd119e/Singularity
 collection: bhattlab/wits_workshop
 ---

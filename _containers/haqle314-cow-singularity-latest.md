@@ -9,7 +9,7 @@ build_date: "2019-08-05T20:51:58.285Z"
 size_mb: 205.0
 size: 82026527
 sif: "https://datasets.datalad.org/shub/haqle314/cow-singularity/latest/2019-08-05-089dd1d4-acac5c09/acac5c0948c076c6cf0b9c3126be5377.sif"
-url: https://datasets.datalad.org/shub/haqle314/cow-singularity/latest/2019-08-05-089dd1d4-acac5c09/
+datalad_url: https://datasets.datalad.org?dir=/shub/haqle314/cow-singularity/latest/2019-08-05-089dd1d4-acac5c09/
 recipe: https://datasets.datalad.org/shub/haqle314/cow-singularity/latest/2019-08-05-089dd1d4-acac5c09/Singularity
 collection: haqle314/cow-singularity
 ---

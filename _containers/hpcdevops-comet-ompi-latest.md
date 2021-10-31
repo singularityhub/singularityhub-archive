@@ -9,7 +9,7 @@ build_date: "2018-07-28T02:46:38.562Z"
 size_mb: 713
 size: 222732319
 sif: "https://datasets.datalad.org/shub/hpcdevops/comet-ompi/latest/2018-07-28-c006eb59-27395a97/27395a97d1b48afd961f407463f8fca2.simg"
-url: https://datasets.datalad.org/shub/hpcdevops/comet-ompi/latest/2018-07-28-c006eb59-27395a97/
+datalad_url: https://datasets.datalad.org?dir=/shub/hpcdevops/comet-ompi/latest/2018-07-28-c006eb59-27395a97/
 recipe: https://datasets.datalad.org/shub/hpcdevops/comet-ompi/latest/2018-07-28-c006eb59-27395a97/Singularity
 collection: hpcdevops/comet-ompi
 ---

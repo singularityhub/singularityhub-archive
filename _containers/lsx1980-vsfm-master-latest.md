@@ -9,7 +9,7 @@ build_date: "2020-11-30T18:53:24.478Z"
 size_mb: 1622
 size: 622522399
 sif: "https://datasets.datalad.org/shub/lsx1980/vsfm-master/latest/2020-11-30-7ef5803c-9e141f3f/9e141f3f68609aaceb63c8481a758aa0.simg"
-url: https://datasets.datalad.org/shub/lsx1980/vsfm-master/latest/2020-11-30-7ef5803c-9e141f3f/
+datalad_url: https://datasets.datalad.org?dir=/shub/lsx1980/vsfm-master/latest/2020-11-30-7ef5803c-9e141f3f/
 recipe: https://datasets.datalad.org/shub/lsx1980/vsfm-master/latest/2020-11-30-7ef5803c-9e141f3f/Singularity
 collection: lsx1980/vsfm-master
 ---

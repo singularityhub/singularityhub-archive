@@ -9,7 +9,7 @@ build_date: "2019-05-30T04:44:56.336Z"
 size_mb: 2230
 size: 799436831
 sif: "https://datasets.datalad.org/shub/bcaffo/kerasSingularity/centos6/2019-05-30-487c2800-35376461/3537646130caa233bc182d246631cbbb.simg"
-url: https://datasets.datalad.org/shub/bcaffo/kerasSingularity/centos6/2019-05-30-487c2800-35376461/
+datalad_url: https://datasets.datalad.org?dir=/shub/bcaffo/kerasSingularity/centos6/2019-05-30-487c2800-35376461/
 recipe: https://datasets.datalad.org/shub/bcaffo/kerasSingularity/centos6/2019-05-30-487c2800-35376461/Singularity
 collection: bcaffo/kerasSingularity
 ---

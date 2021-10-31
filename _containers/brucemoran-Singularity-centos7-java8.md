@@ -9,7 +9,7 @@ build_date: "2020-10-14T00:29:26.035Z"
 size_mb: 843
 size: 286138399
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/centos7-java8/2020-10-14-8f60228e-37a89617/37a89617ba33c31e300dde041548eda4.simg"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/centos7-java8/2020-10-14-8f60228e-37a89617/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/centos7-java8/2020-10-14-8f60228e-37a89617/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/centos7-java8/2020-10-14-8f60228e-37a89617/Singularity
 collection: brucemoran/Singularity
 ---

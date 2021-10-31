@@ -9,7 +9,7 @@ build_date: "2021-02-23T03:59:46.495Z"
 size_mb: 1838.0
 size: 894132255
 sif: "https://datasets.datalad.org/shub/funnell/nowellpack_singularity/latest/2021-02-23-53d50e1d-85088263/85088263d3032e08222a573b929a2c34.sif"
-url: https://datasets.datalad.org/shub/funnell/nowellpack_singularity/latest/2021-02-23-53d50e1d-85088263/
+datalad_url: https://datasets.datalad.org?dir=/shub/funnell/nowellpack_singularity/latest/2021-02-23-53d50e1d-85088263/
 recipe: https://datasets.datalad.org/shub/funnell/nowellpack_singularity/latest/2021-02-23-53d50e1d-85088263/Singularity
 collection: funnell/nowellpack_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2018-08-09T15:28:12.788Z"
 size_mb: 794
 size: 242348063
 sif: "https://datasets.datalad.org/shub/natacha-beck/containers/ants/2018-08-09-904d8053-a28aa0cf/a28aa0cf42879f2553b39c889def32f9.simg"
-url: https://datasets.datalad.org/shub/natacha-beck/containers/ants/2018-08-09-904d8053-a28aa0cf/
+datalad_url: https://datasets.datalad.org?dir=/shub/natacha-beck/containers/ants/2018-08-09-904d8053-a28aa0cf/
 recipe: https://datasets.datalad.org/shub/natacha-beck/containers/ants/2018-08-09-904d8053-a28aa0cf/Singularity
 collection: natacha-beck/containers
 ---

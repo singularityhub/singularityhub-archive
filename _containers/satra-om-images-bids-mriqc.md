@@ -9,7 +9,7 @@ build_date: "2017-10-19T17:45:42.646Z"
 size_mb: 5849
 size: 2263293052
 sif: "https://datasets.datalad.org/shub/satra/om-images/bids-mriqc/2017-10-19-16763d38-3565598f/3565598fd3e3485f17393b6c37caec14.img.gz"
-url: https://datasets.datalad.org/shub/satra/om-images/bids-mriqc/2017-10-19-16763d38-3565598f/
+datalad_url: https://datasets.datalad.org?dir=/shub/satra/om-images/bids-mriqc/2017-10-19-16763d38-3565598f/
 recipe: https://datasets.datalad.org/shub/satra/om-images/bids-mriqc/2017-10-19-16763d38-3565598f/Singularity
 collection: satra/om-images
 ---

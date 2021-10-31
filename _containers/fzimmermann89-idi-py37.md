@@ -9,7 +9,7 @@ build_date: "2021-01-20T20:18:03.299Z"
 size_mb: 3895.41796875
 size: 4084641792
 sif: "https://datasets.datalad.org/shub/fzimmermann89/idi/py37/2021-01-20-c041f367-8eeac578/8eeac578229c1d44a11f76cb0a22445559d04f2c1079520897303a01041ba111.sif"
-url: https://datasets.datalad.org/shub/fzimmermann89/idi/py37/2021-01-20-c041f367-8eeac578/
+datalad_url: https://datasets.datalad.org?dir=/shub/fzimmermann89/idi/py37/2021-01-20-c041f367-8eeac578/
 recipe: https://datasets.datalad.org/shub/fzimmermann89/idi/py37/2021-01-20-c041f367-8eeac578/Singularity
 collection: fzimmermann89/idi
 ---

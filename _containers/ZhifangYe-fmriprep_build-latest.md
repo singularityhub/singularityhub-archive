@@ -9,7 +9,7 @@ build_date: "2019-05-16T02:35:10.001Z"
 size_mb: 12142
 size: 4780552223
 sif: "https://datasets.datalad.org/shub/ZhifangYe/fmriprep_build/latest/2019-05-16-f5759422-c01174f7/c01174f7a2a77df5c47eff22ede72db8.simg"
-url: https://datasets.datalad.org/shub/ZhifangYe/fmriprep_build/latest/2019-05-16-f5759422-c01174f7/
+datalad_url: https://datasets.datalad.org?dir=/shub/ZhifangYe/fmriprep_build/latest/2019-05-16-f5759422-c01174f7/
 recipe: https://datasets.datalad.org/shub/ZhifangYe/fmriprep_build/latest/2019-05-16-f5759422-c01174f7/Singularity
 collection: ZhifangYe/fmriprep_build
 ---

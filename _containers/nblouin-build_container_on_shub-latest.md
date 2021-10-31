@@ -9,7 +9,7 @@ build_date: "2019-08-09T17:51:14.519Z"
 size_mb: 201.12890625
 size: 210898944
 sif: "https://datasets.datalad.org/shub/nblouin/build_container_on_shub/latest/2019-08-09-d66bb903-923bf472/923bf472a5bf23e3b391088fc927075b75787f6d967135ea90ff2dc98a2e9bb7.sif"
-url: https://datasets.datalad.org/shub/nblouin/build_container_on_shub/latest/2019-08-09-d66bb903-923bf472/
+datalad_url: https://datasets.datalad.org?dir=/shub/nblouin/build_container_on_shub/latest/2019-08-09-d66bb903-923bf472/
 recipe: https://datasets.datalad.org/shub/nblouin/build_container_on_shub/latest/2019-08-09-d66bb903-923bf472/Singularity
 collection: nblouin/build_container_on_shub
 ---

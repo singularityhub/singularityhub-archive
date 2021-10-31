@@ -9,7 +9,7 @@ build_date: "2019-09-25T16:48:36.888Z"
 size_mb: 433.0
 size: 178864159
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/sratoolkit/2019-09-25-84689122-b80cbba8/b80cbba82fac6eb1fb728260aaaf7d6f.sif"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/sratoolkit/2019-09-25-84689122-b80cbba8/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/sratoolkit/2019-09-25-84689122-b80cbba8/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/sratoolkit/2019-09-25-84689122-b80cbba8/Singularity
 collection: dominik-handler/AP_singu
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-28T18:50:29.768Z"
 size_mb: 2399.0
 size: 664580127
 sif: "https://datasets.datalad.org/shub/zhihongyou/Singularity-OpenFOAM/def/2020-08-28-7434e311-4886beb5/4886beb540f62e2a2ae1f26729718ba0.sif"
-url: https://datasets.datalad.org/shub/zhihongyou/Singularity-OpenFOAM/def/2020-08-28-7434e311-4886beb5/
+datalad_url: https://datasets.datalad.org?dir=/shub/zhihongyou/Singularity-OpenFOAM/def/2020-08-28-7434e311-4886beb5/
 recipe: https://datasets.datalad.org/shub/zhihongyou/Singularity-OpenFOAM/def/2020-08-28-7434e311-4886beb5/Singularity
 collection: zhihongyou/Singularity-OpenFOAM
 ---

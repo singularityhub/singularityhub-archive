@@ -9,7 +9,7 @@ build_date: "2020-05-12T22:38:36.429Z"
 size_mb: 79.0
 size: 27725855
 sif: "https://datasets.datalad.org/shub/kangzhiq/test_singularity_2/test/2020-05-12-d8799155-eba23be1/eba23be132ce3de08b4bebbc9f3bb138.sif"
-url: https://datasets.datalad.org/shub/kangzhiq/test_singularity_2/test/2020-05-12-d8799155-eba23be1/
+datalad_url: https://datasets.datalad.org?dir=/shub/kangzhiq/test_singularity_2/test/2020-05-12-d8799155-eba23be1/
 recipe: https://datasets.datalad.org/shub/kangzhiq/test_singularity_2/test/2020-05-12-d8799155-eba23be1/Singularity
 collection: kangzhiq/test_singularity_2
 ---

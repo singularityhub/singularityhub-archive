@@ -9,7 +9,7 @@ build_date: "2020-08-10T06:23:45.368Z"
 size_mb: 1112.0
 size: 395677727
 sif: "https://datasets.datalad.org/shub/churchill-lab/scRATE/latest/2020-08-10-e31c6d76-ddb9e1af/ddb9e1af8de277699f172145b40b59b7.sif"
-url: https://datasets.datalad.org/shub/churchill-lab/scRATE/latest/2020-08-10-e31c6d76-ddb9e1af/
+datalad_url: https://datasets.datalad.org?dir=/shub/churchill-lab/scRATE/latest/2020-08-10-e31c6d76-ddb9e1af/
 recipe: https://datasets.datalad.org/shub/churchill-lab/scRATE/latest/2020-08-10-e31c6d76-ddb9e1af/Singularity
 collection: churchill-lab/scRATE
 ---

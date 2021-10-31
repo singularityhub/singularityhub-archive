@@ -9,7 +9,7 @@ build_date: "2019-07-19T15:20:10.282Z"
 size_mb: 1854.0
 size: 889987103
 sif: "https://datasets.datalad.org/shub/yarikoptic/demo-cifar-preproc/preproc/2019-07-19-be2279b7-dd070d0e/dd070d0e835fbb714508d5c3183da36d.sif"
-url: https://datasets.datalad.org/shub/yarikoptic/demo-cifar-preproc/preproc/2019-07-19-be2279b7-dd070d0e/
+datalad_url: https://datasets.datalad.org?dir=/shub/yarikoptic/demo-cifar-preproc/preproc/2019-07-19-be2279b7-dd070d0e/
 recipe: https://datasets.datalad.org/shub/yarikoptic/demo-cifar-preproc/preproc/2019-07-19-be2279b7-dd070d0e/Singularity
 collection: yarikoptic/demo-cifar-preproc
 ---

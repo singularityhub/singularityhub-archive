@@ -9,7 +9,7 @@ build_date: "2019-11-10T18:50:15.304Z"
 size_mb: 685.0
 size: 290865183
 sif: "https://datasets.datalad.org/shub/arcsUVA/R/3.6.0/2019-11-10-792812a2-f72b146f/f72b146f661c4f668c7a66ef9b6c3519.sif"
-url: https://datasets.datalad.org/shub/arcsUVA/R/3.6.0/2019-11-10-792812a2-f72b146f/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/R/3.6.0/2019-11-10-792812a2-f72b146f/
 recipe: https://datasets.datalad.org/shub/arcsUVA/R/3.6.0/2019-11-10-792812a2-f72b146f/Singularity
 collection: arcsUVA/R
 ---

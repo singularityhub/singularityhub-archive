@@ -9,7 +9,7 @@ build_date: "2021-04-09T14:58:17.897Z"
 size_mb: 186.0
 size: 77590559
 sif: "https://datasets.datalad.org/shub/nbarlowATI/shub-test/basic/2021-04-09-3771f212-e3061f3e/e3061f3ebe5b69b6a14c4e154ab10333.sif"
-url: https://datasets.datalad.org/shub/nbarlowATI/shub-test/basic/2021-04-09-3771f212-e3061f3e/
+datalad_url: https://datasets.datalad.org?dir=/shub/nbarlowATI/shub-test/basic/2021-04-09-3771f212-e3061f3e/
 recipe: https://datasets.datalad.org/shub/nbarlowATI/shub-test/basic/2021-04-09-3771f212-e3061f3e/Singularity
 collection: nbarlowATI/shub-test
 ---

@@ -9,7 +9,7 @@ build_date: "2019-08-19T13:01:27.810Z"
 size_mb: 121
 size: 41930783
 sif: "https://datasets.datalad.org/shub/Jia94/hello-world/latest/2019-08-19-b21f8625-f07990d5/f07990d5fceef74aee261a302aa1f8ec.simg"
-url: https://datasets.datalad.org/shub/Jia94/hello-world/latest/2019-08-19-b21f8625-f07990d5/
+datalad_url: https://datasets.datalad.org?dir=/shub/Jia94/hello-world/latest/2019-08-19-b21f8625-f07990d5/
 recipe: https://datasets.datalad.org/shub/Jia94/hello-world/latest/2019-08-19-b21f8625-f07990d5/Singularity
 collection: Jia94/hello-world
 ---

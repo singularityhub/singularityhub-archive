@@ -9,7 +9,7 @@ build_date: "2020-03-05T10:53:07.387Z"
 size_mb: 1422
 size: 472473631
 sif: "https://datasets.datalad.org/shub/kalebabram/singularity_rstudio/latest/2020-03-05-8bc78975-b0afed0a/b0afed0ab0372de9a6027550941c0051.simg"
-url: https://datasets.datalad.org/shub/kalebabram/singularity_rstudio/latest/2020-03-05-8bc78975-b0afed0a/
+datalad_url: https://datasets.datalad.org?dir=/shub/kalebabram/singularity_rstudio/latest/2020-03-05-8bc78975-b0afed0a/
 recipe: https://datasets.datalad.org/shub/kalebabram/singularity_rstudio/latest/2020-03-05-8bc78975-b0afed0a/Singularity
 collection: kalebabram/singularity_rstudio
 ---

@@ -9,7 +9,7 @@ build_date: "2019-01-24T23:41:06.112Z"
 size_mb: 4111
 size: 2184720415
 sif: "https://datasets.datalad.org/shub/coreyjadams/larcv2-singularity/centos7-cuda-core/2019-01-24-fa0ddaa6-c2f9b6b9/c2f9b6b9596db19cd302d1c5ea89e546.simg"
-url: https://datasets.datalad.org/shub/coreyjadams/larcv2-singularity/centos7-cuda-core/2019-01-24-fa0ddaa6-c2f9b6b9/
+datalad_url: https://datasets.datalad.org?dir=/shub/coreyjadams/larcv2-singularity/centos7-cuda-core/2019-01-24-fa0ddaa6-c2f9b6b9/
 recipe: https://datasets.datalad.org/shub/coreyjadams/larcv2-singularity/centos7-cuda-core/2019-01-24-fa0ddaa6-c2f9b6b9/Singularity
 collection: coreyjadams/larcv2-singularity
 ---

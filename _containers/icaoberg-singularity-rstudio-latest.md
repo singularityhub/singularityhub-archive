@@ -9,7 +9,7 @@ build_date: "2020-03-05T14:06:06.682Z"
 size_mb: 705
 size: 278618143
 sif: "https://datasets.datalad.org/shub/icaoberg/singularity-rstudio/latest/2020-03-05-78d23562-fb19ed28/fb19ed286a29a8a8aa07e747b2b36908.simg"
-url: https://datasets.datalad.org/shub/icaoberg/singularity-rstudio/latest/2020-03-05-78d23562-fb19ed28/
+datalad_url: https://datasets.datalad.org?dir=/shub/icaoberg/singularity-rstudio/latest/2020-03-05-78d23562-fb19ed28/
 recipe: https://datasets.datalad.org/shub/icaoberg/singularity-rstudio/latest/2020-03-05-78d23562-fb19ed28/Singularity
 collection: icaoberg/singularity-rstudio
 ---

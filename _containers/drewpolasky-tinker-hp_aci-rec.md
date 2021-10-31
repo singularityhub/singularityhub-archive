@@ -9,7 +9,7 @@ build_date: "2019-09-03T13:14:29.216Z"
 size_mb: 4514.0
 size: 1654702111
 sif: "https://datasets.datalad.org/shub/drewpolasky/tinker-hp_aci/rec/2019-09-03-48276d18-1f658ae5/1f658ae5384ba42311a73246c7ed760d.sif"
-url: https://datasets.datalad.org/shub/drewpolasky/tinker-hp_aci/rec/2019-09-03-48276d18-1f658ae5/
+datalad_url: https://datasets.datalad.org?dir=/shub/drewpolasky/tinker-hp_aci/rec/2019-09-03-48276d18-1f658ae5/
 recipe: https://datasets.datalad.org/shub/drewpolasky/tinker-hp_aci/rec/2019-09-03-48276d18-1f658ae5/Singularity
 collection: drewpolasky/tinker-hp_aci
 ---

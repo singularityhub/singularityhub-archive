@@ -9,7 +9,7 @@ build_date: "2019-02-25T20:22:55.882Z"
 size_mb: 2374
 size: 1218945055
 sif: "https://datasets.datalad.org/shub/albafsanles/cellcount/latest/2019-02-25-4300918f-13be1ded/13be1ded90c9db3c3df6e49d828c1eed.simg"
-url: https://datasets.datalad.org/shub/albafsanles/cellcount/latest/2019-02-25-4300918f-13be1ded/
+datalad_url: https://datasets.datalad.org?dir=/shub/albafsanles/cellcount/latest/2019-02-25-4300918f-13be1ded/
 recipe: https://datasets.datalad.org/shub/albafsanles/cellcount/latest/2019-02-25-4300918f-13be1ded/Singularity
 collection: albafsanles/cellcount
 ---

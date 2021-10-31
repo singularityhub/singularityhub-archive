@@ -9,7 +9,7 @@ build_date: "2019-12-12T17:18:25.547Z"
 size_mb: 3108
 size: 955097119
 sif: "https://datasets.datalad.org/shub/c-guzman/csrna/latest/2019-12-12-5e39b92d-c5883386/c588338616bd1eee56d699ab458b7270.simg"
-url: https://datasets.datalad.org/shub/c-guzman/csrna/latest/2019-12-12-5e39b92d-c5883386/
+datalad_url: https://datasets.datalad.org?dir=/shub/c-guzman/csrna/latest/2019-12-12-5e39b92d-c5883386/
 recipe: https://datasets.datalad.org/shub/c-guzman/csrna/latest/2019-12-12-5e39b92d-c5883386/Singularity
 collection: c-guzman/csrna
 ---

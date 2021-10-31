@@ -9,7 +9,7 @@ build_date: "2020-05-13T19:30:12.596Z"
 size_mb: 7784.0
 size: 3218317343
 sif: "https://datasets.datalad.org/shub/thakk/biobase/methylkit/2020-05-13-db341b66-bf813969/bf8139693a24d6504b89da9e53249bfb.sif"
-url: https://datasets.datalad.org/shub/thakk/biobase/methylkit/2020-05-13-db341b66-bf813969/
+datalad_url: https://datasets.datalad.org?dir=/shub/thakk/biobase/methylkit/2020-05-13-db341b66-bf813969/
 recipe: https://datasets.datalad.org/shub/thakk/biobase/methylkit/2020-05-13-db341b66-bf813969/Singularity
 collection: thakk/biobase
 ---

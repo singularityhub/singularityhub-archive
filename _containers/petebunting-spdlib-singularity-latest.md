@@ -9,7 +9,7 @@ build_date: "2019-04-04T07:45:35.660Z"
 size_mb: 3277
 size: 977883167
 sif: "https://datasets.datalad.org/shub/petebunting/spdlib-singularity/latest/2019-04-04-94a32ce6-74d3aa74/74d3aa742a12a936651a22f05c18441b.simg"
-url: https://datasets.datalad.org/shub/petebunting/spdlib-singularity/latest/2019-04-04-94a32ce6-74d3aa74/
+datalad_url: https://datasets.datalad.org?dir=/shub/petebunting/spdlib-singularity/latest/2019-04-04-94a32ce6-74d3aa74/
 recipe: https://datasets.datalad.org/shub/petebunting/spdlib-singularity/latest/2019-04-04-94a32ce6-74d3aa74/Singularity
 collection: petebunting/spdlib-singularity
 ---

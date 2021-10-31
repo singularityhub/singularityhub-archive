@@ -9,7 +9,7 @@ build_date: "2021-02-19T21:48:39.536Z"
 size_mb: 6129.34765625
 size: 6427086848
 sif: "https://datasets.datalad.org/shub/tin6150/metabolic/latest/2021-02-19-617c1fa7-763ed7d5/763ed7d56a3eeaff8d0a88baf9f4d1af8bd2507fd89daf9d5d60676f2df75d23.sif"
-url: https://datasets.datalad.org/shub/tin6150/metabolic/latest/2021-02-19-617c1fa7-763ed7d5/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/metabolic/latest/2021-02-19-617c1fa7-763ed7d5/
 recipe: https://datasets.datalad.org/shub/tin6150/metabolic/latest/2021-02-19-617c1fa7-763ed7d5/Singularity
 collection: tin6150/metabolic
 ---

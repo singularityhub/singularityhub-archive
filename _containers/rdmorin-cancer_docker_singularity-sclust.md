@@ -9,7 +9,7 @@ build_date: "2019-09-11T22:57:52.635Z"
 size_mb: 11805.0
 size: 7050756127
 sif: "https://datasets.datalad.org/shub/rdmorin/cancer_docker_singularity/sclust/2019-09-11-fd08aae1-664e03c7/664e03c78066a4037e417e48ec3c2730.sif"
-url: https://datasets.datalad.org/shub/rdmorin/cancer_docker_singularity/sclust/2019-09-11-fd08aae1-664e03c7/
+datalad_url: https://datasets.datalad.org?dir=/shub/rdmorin/cancer_docker_singularity/sclust/2019-09-11-fd08aae1-664e03c7/
 recipe: https://datasets.datalad.org/shub/rdmorin/cancer_docker_singularity/sclust/2019-09-11-fd08aae1-664e03c7/Singularity
 collection: rdmorin/cancer_docker_singularity
 ---

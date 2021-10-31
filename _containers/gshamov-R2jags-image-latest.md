@@ -9,7 +9,7 @@ build_date: "2020-10-22T15:26:54.971Z"
 size_mb: 444.8046875
 size: 466411520
 sif: "https://datasets.datalad.org/shub/gshamov/R2jags-image/latest/2020-10-22-1f0b9c35-1cfb78dc/1cfb78dc84ef251332c429002a1001ba4682d2aa773d7278a6560f7b0a830692.sif"
-url: https://datasets.datalad.org/shub/gshamov/R2jags-image/latest/2020-10-22-1f0b9c35-1cfb78dc/
+datalad_url: https://datasets.datalad.org?dir=/shub/gshamov/R2jags-image/latest/2020-10-22-1f0b9c35-1cfb78dc/
 recipe: https://datasets.datalad.org/shub/gshamov/R2jags-image/latest/2020-10-22-1f0b9c35-1cfb78dc/Singularity
 collection: gshamov/R2jags-image
 ---

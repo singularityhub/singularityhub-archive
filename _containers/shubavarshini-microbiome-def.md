@@ -9,7 +9,7 @@ build_date: "2019-09-26T13:06:26.899Z"
 size_mb: 688.4296875
 size: 721870848
 sif: "https://datasets.datalad.org/shub/shubavarshini/microbiome/def/2019-09-26-62e1c87f-e6175006/e617500632fa54f57ddc7c4cf069ca1c06ac0a9f2d7dfe54ccd5533be1be171b.sif"
-url: https://datasets.datalad.org/shub/shubavarshini/microbiome/def/2019-09-26-62e1c87f-e6175006/
+datalad_url: https://datasets.datalad.org?dir=/shub/shubavarshini/microbiome/def/2019-09-26-62e1c87f-e6175006/
 recipe: https://datasets.datalad.org/shub/shubavarshini/microbiome/def/2019-09-26-62e1c87f-e6175006/Singularity
 collection: shubavarshini/microbiome
 ---

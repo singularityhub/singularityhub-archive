@@ -9,7 +9,7 @@ build_date: "2020-12-23T08:18:22.251Z"
 size_mb: 3036
 size: 1014485023
 sif: "https://datasets.datalad.org/shub/intel/HPC-containers-from-Intel/lammps/2020-12-23-a191f249-af99c64b/af99c64b9da6bfe7dc88bce5e73be225.simg"
-url: https://datasets.datalad.org/shub/intel/HPC-containers-from-Intel/lammps/2020-12-23-a191f249-af99c64b/
+datalad_url: https://datasets.datalad.org?dir=/shub/intel/HPC-containers-from-Intel/lammps/2020-12-23-a191f249-af99c64b/
 recipe: https://datasets.datalad.org/shub/intel/HPC-containers-from-Intel/lammps/2020-12-23-a191f249-af99c64b/Singularity
 collection: intel/HPC-containers-from-Intel
 ---

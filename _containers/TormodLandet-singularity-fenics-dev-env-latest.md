@@ -9,7 +9,7 @@ build_date: "2020-03-13T18:26:14.911Z"
 size_mb: 2107
 size: 678461471
 sif: "https://datasets.datalad.org/shub/TormodLandet/singularity-fenics-dev-env/latest/2020-03-13-c18681b9-74cf75ae/74cf75aece58e781602b47d8c7c85a34.simg"
-url: https://datasets.datalad.org/shub/TormodLandet/singularity-fenics-dev-env/latest/2020-03-13-c18681b9-74cf75ae/
+datalad_url: https://datasets.datalad.org?dir=/shub/TormodLandet/singularity-fenics-dev-env/latest/2020-03-13-c18681b9-74cf75ae/
 recipe: https://datasets.datalad.org/shub/TormodLandet/singularity-fenics-dev-env/latest/2020-03-13-c18681b9-74cf75ae/Singularity
 collection: TormodLandet/singularity-fenics-dev-env
 ---

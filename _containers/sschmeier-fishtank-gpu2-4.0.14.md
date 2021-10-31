@@ -9,7 +9,7 @@ build_date: "2021-02-23T07:06:52.287Z"
 size_mb: 1971.25390625
 size: 2067009536
 sif: "https://datasets.datalad.org/shub/sschmeier/fishtank-gpu2/4.0.14/2021-02-23-69334da5-97b0f48e/97b0f48eb2c2c031123e312cebbcf1a8f2a38e15ea117b8848d0506ec739482c.sif"
-url: https://datasets.datalad.org/shub/sschmeier/fishtank-gpu2/4.0.14/2021-02-23-69334da5-97b0f48e/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/fishtank-gpu2/4.0.14/2021-02-23-69334da5-97b0f48e/
 recipe: https://datasets.datalad.org/shub/sschmeier/fishtank-gpu2/4.0.14/2021-02-23-69334da5-97b0f48e/Singularity
 collection: sschmeier/fishtank-gpu2
 ---

@@ -9,7 +9,7 @@ build_date: "2017-12-04T18:35:39.448Z"
 size_mb: 664
 size: 245387295
 sif: "https://datasets.datalad.org/shub/billspat/photoscancontainer/latest/2017-12-04-7246cba6-dd7e433e/dd7e433e4c64a095e52c076864a15a34.simg"
-url: https://datasets.datalad.org/shub/billspat/photoscancontainer/latest/2017-12-04-7246cba6-dd7e433e/
+datalad_url: https://datasets.datalad.org?dir=/shub/billspat/photoscancontainer/latest/2017-12-04-7246cba6-dd7e433e/
 recipe: https://datasets.datalad.org/shub/billspat/photoscancontainer/latest/2017-12-04-7246cba6-dd7e433e/Singularity
 collection: billspat/photoscancontainer
 ---

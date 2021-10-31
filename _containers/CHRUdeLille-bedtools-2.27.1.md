@@ -9,7 +9,7 @@ build_date: "2020-06-04T09:03:08.747Z"
 size_mb: 674
 size: 288477215
 sif: "https://datasets.datalad.org/shub/CHRUdeLille/bedtools/2.27.1/2020-06-04-91a119e5-f8f61b88/f8f61b88498fc9e365c3bc03afe1b362.simg"
-url: https://datasets.datalad.org/shub/CHRUdeLille/bedtools/2.27.1/2020-06-04-91a119e5-f8f61b88/
+datalad_url: https://datasets.datalad.org?dir=/shub/CHRUdeLille/bedtools/2.27.1/2020-06-04-91a119e5-f8f61b88/
 recipe: https://datasets.datalad.org/shub/CHRUdeLille/bedtools/2.27.1/2020-06-04-91a119e5-f8f61b88/Singularity
 collection: CHRUdeLille/bedtools
 ---

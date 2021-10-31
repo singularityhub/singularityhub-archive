@@ -9,7 +9,7 @@ build_date: "2021-04-06T12:26:36.437Z"
 size_mb: 117.0
 size: 41930783
 sif: "https://datasets.datalad.org/shub/ctpelok77/fi-singularity/latest/2021-04-06-9c70e75c-df2ed5cd/df2ed5cd6674f934110a78a1d0b07d7a.sif"
-url: https://datasets.datalad.org/shub/ctpelok77/fi-singularity/latest/2021-04-06-9c70e75c-df2ed5cd/
+datalad_url: https://datasets.datalad.org?dir=/shub/ctpelok77/fi-singularity/latest/2021-04-06-9c70e75c-df2ed5cd/
 recipe: https://datasets.datalad.org/shub/ctpelok77/fi-singularity/latest/2021-04-06-9c70e75c-df2ed5cd/Singularity
 collection: ctpelok77/fi-singularity
 ---

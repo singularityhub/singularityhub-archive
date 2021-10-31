@@ -9,7 +9,7 @@ build_date: "2020-01-17T08:29:05.425Z"
 size_mb: 3104.0
 size: 1029046303
 sif: "https://datasets.datalad.org/shub/tpall/geo-rnaseq/latest/2020-01-17-cbbb4555-80210c38/80210c381b28932a0140aee78450a34e.sif"
-url: https://datasets.datalad.org/shub/tpall/geo-rnaseq/latest/2020-01-17-cbbb4555-80210c38/
+datalad_url: https://datasets.datalad.org?dir=/shub/tpall/geo-rnaseq/latest/2020-01-17-cbbb4555-80210c38/
 recipe: https://datasets.datalad.org/shub/tpall/geo-rnaseq/latest/2020-01-17-cbbb4555-80210c38/Singularity
 collection: tpall/geo-rnaseq
 ---

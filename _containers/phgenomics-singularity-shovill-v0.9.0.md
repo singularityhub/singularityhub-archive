@@ -9,7 +9,7 @@ build_date: "2018-03-20T06:09:57.788Z"
 size_mb: 975
 size: 380817439
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/shovill/v0.9.0/2018-03-20-f1cf0d1f-27b1900a/27b1900aa2d56827e3400f0cf3c2085b.simg"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/shovill/v0.9.0/2018-03-20-f1cf0d1f-27b1900a/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/shovill/v0.9.0/2018-03-20-f1cf0d1f-27b1900a/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/shovill/v0.9.0/2018-03-20-f1cf0d1f-27b1900a/Singularity
 collection: phgenomics-singularity/shovill
 ---

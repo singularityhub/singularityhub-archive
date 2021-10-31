@@ -9,7 +9,7 @@ build_date: "2019-09-25T04:31:35.290Z"
 size_mb: 6270
 size: 3132313631
 sif: "https://datasets.datalad.org/shub/jeffacce/singularity-ml-box/ubuntu-bionic-cuda10/2019-09-25-c4184e68-5e28108d/5e28108d69c1016ef04095b53fa198e2.simg"
-url: https://datasets.datalad.org/shub/jeffacce/singularity-ml-box/ubuntu-bionic-cuda10/2019-09-25-c4184e68-5e28108d/
+datalad_url: https://datasets.datalad.org?dir=/shub/jeffacce/singularity-ml-box/ubuntu-bionic-cuda10/2019-09-25-c4184e68-5e28108d/
 recipe: https://datasets.datalad.org/shub/jeffacce/singularity-ml-box/ubuntu-bionic-cuda10/2019-09-25-c4184e68-5e28108d/Singularity
 collection: jeffacce/singularity-ml-box
 ---

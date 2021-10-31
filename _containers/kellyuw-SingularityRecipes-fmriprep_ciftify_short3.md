@@ -9,7 +9,7 @@ build_date: "2019-10-24T14:57:59.594Z"
 size_mb: 12137.0
 size: 4802510879
 sif: "https://datasets.datalad.org/shub/kellyuw/SingularityRecipes/fmriprep_ciftify_short3/2019-10-24-5e32de23-ef684971/ef684971c088c4a32f43f54edfe6861c.sif"
-url: https://datasets.datalad.org/shub/kellyuw/SingularityRecipes/fmriprep_ciftify_short3/2019-10-24-5e32de23-ef684971/
+datalad_url: https://datasets.datalad.org?dir=/shub/kellyuw/SingularityRecipes/fmriprep_ciftify_short3/2019-10-24-5e32de23-ef684971/
 recipe: https://datasets.datalad.org/shub/kellyuw/SingularityRecipes/fmriprep_ciftify_short3/2019-10-24-5e32de23-ef684971/Singularity
 collection: kellyuw/SingularityRecipes
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-23T16:37:34.287Z"
 size_mb: 616.0
 size: 216657951
 sif: "https://datasets.datalad.org/shub/arezaii/pf_singularity/ompi/2020-01-23-f4428a18-0f1015ff/0f1015ffaac70cd7eb0c1f35b22fd586.sif"
-url: https://datasets.datalad.org/shub/arezaii/pf_singularity/ompi/2020-01-23-f4428a18-0f1015ff/
+datalad_url: https://datasets.datalad.org?dir=/shub/arezaii/pf_singularity/ompi/2020-01-23-f4428a18-0f1015ff/
 recipe: https://datasets.datalad.org/shub/arezaii/pf_singularity/ompi/2020-01-23-f4428a18-0f1015ff/Singularity
 collection: arezaii/pf_singularity
 ---

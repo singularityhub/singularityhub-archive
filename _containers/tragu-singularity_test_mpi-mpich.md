@@ -9,7 +9,7 @@ build_date: "2020-01-11T12:56:55.331Z"
 size_mb: 711.0
 size: 144953375
 sif: "https://datasets.datalad.org/shub/tragu/singularity_test_mpi/mpich/2020-01-11-97b028e3-e1db19d0/e1db19d02ebb59c8a382e52c73e9585a.sif"
-url: https://datasets.datalad.org/shub/tragu/singularity_test_mpi/mpich/2020-01-11-97b028e3-e1db19d0/
+datalad_url: https://datasets.datalad.org?dir=/shub/tragu/singularity_test_mpi/mpich/2020-01-11-97b028e3-e1db19d0/
 recipe: https://datasets.datalad.org/shub/tragu/singularity_test_mpi/mpich/2020-01-11-97b028e3-e1db19d0/Singularity
 collection: tragu/singularity_test_mpi
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-27T17:24:05.531Z"
 size_mb: 2214.0
 size: 997974047
 sif: "https://datasets.datalad.org/shub/mesnardo/petibm-decoupledibpm/petibm0.5-xenial/2020-01-27-86f63410-b6fd5dc9/b6fd5dc93de84f3e7a08e3270d8a0fa1.sif"
-url: https://datasets.datalad.org/shub/mesnardo/petibm-decoupledibpm/petibm0.5-xenial/2020-01-27-86f63410-b6fd5dc9/
+datalad_url: https://datasets.datalad.org?dir=/shub/mesnardo/petibm-decoupledibpm/petibm0.5-xenial/2020-01-27-86f63410-b6fd5dc9/
 recipe: https://datasets.datalad.org/shub/mesnardo/petibm-decoupledibpm/petibm0.5-xenial/2020-01-27-86f63410-b6fd5dc9/Singularity
 collection: mesnardo/petibm-decoupledibpm
 ---

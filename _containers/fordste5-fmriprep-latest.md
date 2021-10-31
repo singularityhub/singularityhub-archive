@@ -9,7 +9,7 @@ build_date: "2017-12-05T23:23:53.060Z"
 size_mb: 10371
 size: 4367347743
 sif: "https://datasets.datalad.org/shub/fordste5/fmriprep/latest/2017-12-05-9b97cd28-bf5066f4/bf5066f49578d286698b2e7c05ea3243.simg"
-url: https://datasets.datalad.org/shub/fordste5/fmriprep/latest/2017-12-05-9b97cd28-bf5066f4/
+datalad_url: https://datasets.datalad.org?dir=/shub/fordste5/fmriprep/latest/2017-12-05-9b97cd28-bf5066f4/
 recipe: https://datasets.datalad.org/shub/fordste5/fmriprep/latest/2017-12-05-9b97cd28-bf5066f4/Singularity
 collection: fordste5/fmriprep
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-12T23:25:39.937Z"
 size_mb: 1240.0
 size: 344203295
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/svaba-nf/v1.0/2021-01-12-fc9ed669-f467e2d4/f467e2d44761e95b8699daf79343ea5b.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/svaba-nf/v1.0/2021-01-12-fc9ed669-f467e2d4/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/svaba-nf/v1.0/2021-01-12-fc9ed669-f467e2d4/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/svaba-nf/v1.0/2021-01-12-fc9ed669-f467e2d4/Singularity
 collection: IARCbioinfo/svaba-nf
 ---

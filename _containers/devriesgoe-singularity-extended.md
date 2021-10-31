@@ -9,7 +9,7 @@ build_date: "2019-05-28T04:27:35.878Z"
 size_mb: 1064
 size: 432422943
 sif: "https://datasets.datalad.org/shub/devriesgoe/singularity/extended/2019-05-28-d279c818-086b7f7b/086b7f7ba2ea59b0b3554dd6ba7a8f1c.simg"
-url: https://datasets.datalad.org/shub/devriesgoe/singularity/extended/2019-05-28-d279c818-086b7f7b/
+datalad_url: https://datasets.datalad.org?dir=/shub/devriesgoe/singularity/extended/2019-05-28-d279c818-086b7f7b/
 recipe: https://datasets.datalad.org/shub/devriesgoe/singularity/extended/2019-05-28-d279c818-086b7f7b/Singularity
 collection: devriesgoe/singularity
 ---

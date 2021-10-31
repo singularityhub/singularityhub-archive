@@ -9,7 +9,7 @@ build_date: "2021-01-27T22:28:33.805Z"
 size_mb: 956.0
 size: 423464991
 sif: "https://datasets.datalad.org/shub/okuisatoshi/singularity-jupyter-notebook/latest/2021-01-27-0169d632-d492177f/d492177f4c8fef779189afb4ff3c5bea.sif"
-url: https://datasets.datalad.org/shub/okuisatoshi/singularity-jupyter-notebook/latest/2021-01-27-0169d632-d492177f/
+datalad_url: https://datasets.datalad.org?dir=/shub/okuisatoshi/singularity-jupyter-notebook/latest/2021-01-27-0169d632-d492177f/
 recipe: https://datasets.datalad.org/shub/okuisatoshi/singularity-jupyter-notebook/latest/2021-01-27-0169d632-d492177f/Singularity
 collection: okuisatoshi/singularity-jupyter-notebook
 ---

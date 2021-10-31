@@ -9,7 +9,7 @@ build_date: "2019-01-23T18:33:57.849Z"
 size_mb: 106
 size: 48848927
 sif: "https://datasets.datalad.org/shub/s-andrews/singtest3/latest/2019-01-23-994e0fce-cde85398/cde853980bf15f3e22fefb4957c8b33d.simg"
-url: https://datasets.datalad.org/shub/s-andrews/singtest3/latest/2019-01-23-994e0fce-cde85398/
+datalad_url: https://datasets.datalad.org?dir=/shub/s-andrews/singtest3/latest/2019-01-23-994e0fce-cde85398/
 recipe: https://datasets.datalad.org/shub/s-andrews/singtest3/latest/2019-01-23-994e0fce-cde85398/Singularity
 collection: s-andrews/singtest3
 ---

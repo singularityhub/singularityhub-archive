@@ -9,7 +9,7 @@ build_date: "2018-07-24T19:19:06.082Z"
 size_mb: 76
 size: 27947039
 sif: "https://datasets.datalad.org/shub/yinglilu/test_singularity/latest/2018-07-24-ad8e7110-147cf928/147cf92891daa598ae566d8c1e64b00d.simg"
-url: https://datasets.datalad.org/shub/yinglilu/test_singularity/latest/2018-07-24-ad8e7110-147cf928/
+datalad_url: https://datasets.datalad.org?dir=/shub/yinglilu/test_singularity/latest/2018-07-24-ad8e7110-147cf928/
 recipe: https://datasets.datalad.org/shub/yinglilu/test_singularity/latest/2018-07-24-ad8e7110-147cf928/Singularity
 collection: yinglilu/test_singularity
 ---

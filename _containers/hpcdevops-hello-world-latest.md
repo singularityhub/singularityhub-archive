@@ -9,7 +9,7 @@ build_date: "2019-08-19T12:59:06.368Z"
 size_mb: 196
 size: 62603295
 sif: "https://datasets.datalad.org/shub/hpcdevops/hello-world/latest/2019-08-19-fd7cd814-4589d81c/4589d81c79512f0f7ac29dc19ebcca70.simg"
-url: https://datasets.datalad.org/shub/hpcdevops/hello-world/latest/2019-08-19-fd7cd814-4589d81c/
+datalad_url: https://datasets.datalad.org?dir=/shub/hpcdevops/hello-world/latest/2019-08-19-fd7cd814-4589d81c/
 recipe: https://datasets.datalad.org/shub/hpcdevops/hello-world/latest/2019-08-19-fd7cd814-4589d81c/Singularity
 collection: hpcdevops/hello-world
 ---

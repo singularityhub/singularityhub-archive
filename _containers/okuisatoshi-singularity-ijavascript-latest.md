@@ -9,7 +9,7 @@ build_date: "2020-09-01T02:37:38.224Z"
 size_mb: 155.0078125
 size: 162537472
 sif: "https://datasets.datalad.org/shub/okuisatoshi/singularity-ijavascript/latest/2020-09-01-44af6b61-ab338864/ab338864559db9f301b85831c702e49daf44c6ef67ef48f563f8a916fab3fd1b.sif"
-url: https://datasets.datalad.org/shub/okuisatoshi/singularity-ijavascript/latest/2020-09-01-44af6b61-ab338864/
+datalad_url: https://datasets.datalad.org?dir=/shub/okuisatoshi/singularity-ijavascript/latest/2020-09-01-44af6b61-ab338864/
 recipe: https://datasets.datalad.org/shub/okuisatoshi/singularity-ijavascript/latest/2020-09-01-44af6b61-ab338864/Singularity
 collection: okuisatoshi/singularity-ijavascript
 ---

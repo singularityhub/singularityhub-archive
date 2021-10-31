@@ -9,7 +9,7 @@ build_date: "2020-11-18T22:09:11.893Z"
 size_mb: 4121.0
 size: 1600925727
 sif: "https://datasets.datalad.org/shub/rmarkello/antslct/latest/2020-11-18-d2964a10-611be587/611be5874a9f3d787a7c92f88c328a13.sif"
-url: https://datasets.datalad.org/shub/rmarkello/antslct/latest/2020-11-18-d2964a10-611be587/
+datalad_url: https://datasets.datalad.org?dir=/shub/rmarkello/antslct/latest/2020-11-18-d2964a10-611be587/
 recipe: https://datasets.datalad.org/shub/rmarkello/antslct/latest/2020-11-18-d2964a10-611be587/Singularity
 collection: rmarkello/antslct
 ---

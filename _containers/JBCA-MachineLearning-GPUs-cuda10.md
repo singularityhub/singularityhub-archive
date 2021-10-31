@@ -9,7 +9,7 @@ build_date: "2019-10-09T14:50:44.021Z"
 size_mb: 8458
 size: 4196528159
 sif: "https://datasets.datalad.org/shub/JBCA-MachineLearning/GPUs/cuda10/2019-10-09-a00df5da-3dcfdfd6/3dcfdfd6927cebada88060e6d63da539.simg"
-url: https://datasets.datalad.org/shub/JBCA-MachineLearning/GPUs/cuda10/2019-10-09-a00df5da-3dcfdfd6/
+datalad_url: https://datasets.datalad.org?dir=/shub/JBCA-MachineLearning/GPUs/cuda10/2019-10-09-a00df5da-3dcfdfd6/
 recipe: https://datasets.datalad.org/shub/JBCA-MachineLearning/GPUs/cuda10/2019-10-09-a00df5da-3dcfdfd6/Singularity
 collection: JBCA-MachineLearning/GPUs
 ---

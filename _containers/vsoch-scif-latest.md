@@ -9,7 +9,7 @@ build_date: "2020-06-19T16:16:26.171Z"
 size_mb: 758
 size: 325922847
 sif: "https://datasets.datalad.org/shub/vsoch/scif/latest/2020-06-19-7784f0db-c02b6bf1/c02b6bf17d5602717a4e5e7b6c3e42b7.simg"
-url: https://datasets.datalad.org/shub/vsoch/scif/latest/2020-06-19-7784f0db-c02b6bf1/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/scif/latest/2020-06-19-7784f0db-c02b6bf1/
 recipe: https://datasets.datalad.org/shub/vsoch/scif/latest/2020-06-19-7784f0db-c02b6bf1/Singularity
 collection: vsoch/scif
 ---

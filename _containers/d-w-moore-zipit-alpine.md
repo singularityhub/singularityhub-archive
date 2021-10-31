@@ -9,7 +9,7 @@ build_date: "2020-08-19T20:16:31.944Z"
 size_mb: 65.0
 size: 23232543
 sif: "https://datasets.datalad.org/shub/d-w-moore/zipit/alpine/2020-08-19-d1595456-ffbda89c/ffbda89c886ff4c0091e7599f27d5b9d.sif"
-url: https://datasets.datalad.org/shub/d-w-moore/zipit/alpine/2020-08-19-d1595456-ffbda89c/
+datalad_url: https://datasets.datalad.org?dir=/shub/d-w-moore/zipit/alpine/2020-08-19-d1595456-ffbda89c/
 recipe: https://datasets.datalad.org/shub/d-w-moore/zipit/alpine/2020-08-19-d1595456-ffbda89c/Singularity
 collection: d-w-moore/zipit
 ---

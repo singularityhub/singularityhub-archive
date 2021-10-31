@@ -9,7 +9,7 @@ build_date: "2018-11-29T17:21:08.863Z"
 size_mb: 1002
 size: 401616927
 sif: "https://datasets.datalad.org/shub/compmetagen/taxies/latest/2018-11-29-58f42fcc-9e23d8fb/9e23d8fb87db32c3d200ce861489e02f.simg"
-url: https://datasets.datalad.org/shub/compmetagen/taxies/latest/2018-11-29-58f42fcc-9e23d8fb/
+datalad_url: https://datasets.datalad.org?dir=/shub/compmetagen/taxies/latest/2018-11-29-58f42fcc-9e23d8fb/
 recipe: https://datasets.datalad.org/shub/compmetagen/taxies/latest/2018-11-29-58f42fcc-9e23d8fb/Singularity
 collection: compmetagen/taxies
 ---

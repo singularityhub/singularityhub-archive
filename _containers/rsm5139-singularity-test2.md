@@ -9,7 +9,7 @@ build_date: "2019-03-01T19:49:14.166Z"
 size_mb: 76
 size: 27959327
 sif: "https://datasets.datalad.org/shub/rsm5139/singularity/test2/2019-03-01-223d9bdf-94335a4d/94335a4d2563c28307cec72e4835125f.simg"
-url: https://datasets.datalad.org/shub/rsm5139/singularity/test2/2019-03-01-223d9bdf-94335a4d/
+datalad_url: https://datasets.datalad.org?dir=/shub/rsm5139/singularity/test2/2019-03-01-223d9bdf-94335a4d/
 recipe: https://datasets.datalad.org/shub/rsm5139/singularity/test2/2019-03-01-223d9bdf-94335a4d/Singularity
 collection: rsm5139/singularity
 ---

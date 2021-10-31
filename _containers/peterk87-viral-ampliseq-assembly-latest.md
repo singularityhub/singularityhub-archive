@@ -9,7 +9,7 @@ build_date: "2020-09-28T15:29:58.718Z"
 size_mb: 3909.0
 size: 1307729951
 sif: "https://datasets.datalad.org/shub/peterk87/viral-ampliseq-assembly/latest/2020-09-28-60e7cdb0-f45ccb63/f45ccb63cd12e7f674490464dabc435f.sif"
-url: https://datasets.datalad.org/shub/peterk87/viral-ampliseq-assembly/latest/2020-09-28-60e7cdb0-f45ccb63/
+datalad_url: https://datasets.datalad.org?dir=/shub/peterk87/viral-ampliseq-assembly/latest/2020-09-28-60e7cdb0-f45ccb63/
 recipe: https://datasets.datalad.org/shub/peterk87/viral-ampliseq-assembly/latest/2020-09-28-60e7cdb0-f45ccb63/Singularity
 collection: peterk87/viral-ampliseq-assembly
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-14T05:35:10.329Z"
 size_mb: 780
 size: 253370399
 sif: "https://datasets.datalad.org/shub/szaman19/singularity_containers/latest/2019-06-14-adaba7c0-4712505a/4712505afd8d41446f1e82a3d5db7a45.simg"
-url: https://datasets.datalad.org/shub/szaman19/singularity_containers/latest/2019-06-14-adaba7c0-4712505a/
+datalad_url: https://datasets.datalad.org?dir=/shub/szaman19/singularity_containers/latest/2019-06-14-adaba7c0-4712505a/
 recipe: https://datasets.datalad.org/shub/szaman19/singularity_containers/latest/2019-06-14-adaba7c0-4712505a/Singularity
 collection: szaman19/singularity_containers
 ---

@@ -9,7 +9,7 @@ build_date: "2021-02-25T16:21:50.811Z"
 size_mb: 867
 size: 334467103
 sif: "https://datasets.datalad.org/shub/ISU-HPC/hisat2/latest/2021-02-25-1361322e-04a209f5/04a209f5dcff1d6f9fb140629e2f69f3.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/hisat2/latest/2021-02-25-1361322e-04a209f5/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/hisat2/latest/2021-02-25-1361322e-04a209f5/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/hisat2/latest/2021-02-25-1361322e-04a209f5/Singularity
 collection: ISU-HPC/hisat2
 ---

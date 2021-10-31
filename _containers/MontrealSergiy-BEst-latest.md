@@ -9,7 +9,7 @@ build_date: "2019-08-12T14:26:59.332Z"
 size_mb: 5160
 size: 2436993055
 sif: "https://datasets.datalad.org/shub/MontrealSergiy/BEst/latest/2019-08-12-7d22155a-c88f60bb/c88f60bbaa6ca1fc869262c3022fe761.simg"
-url: https://datasets.datalad.org/shub/MontrealSergiy/BEst/latest/2019-08-12-7d22155a-c88f60bb/
+datalad_url: https://datasets.datalad.org?dir=/shub/MontrealSergiy/BEst/latest/2019-08-12-7d22155a-c88f60bb/
 recipe: https://datasets.datalad.org/shub/MontrealSergiy/BEst/latest/2019-08-12-7d22155a-c88f60bb/Singularity
 collection: MontrealSergiy/BEst
 ---

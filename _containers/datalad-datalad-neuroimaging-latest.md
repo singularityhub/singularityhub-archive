@@ -9,7 +9,7 @@ build_date: "2020-05-13T16:56:00.781Z"
 size_mb: 1295
 size: 453541919
 sif: "https://datasets.datalad.org/shub/datalad/datalad-neuroimaging/latest/2020-05-13-88746668-9ab85752/9ab8575268426a9aeaf67b9c6cb5566d.simg"
-url: https://datasets.datalad.org/shub/datalad/datalad-neuroimaging/latest/2020-05-13-88746668-9ab85752/
+datalad_url: https://datasets.datalad.org?dir=/shub/datalad/datalad-neuroimaging/latest/2020-05-13-88746668-9ab85752/
 recipe: https://datasets.datalad.org/shub/datalad/datalad-neuroimaging/latest/2020-05-13-88746668-9ab85752/Singularity
 collection: datalad/datalad-neuroimaging
 ---

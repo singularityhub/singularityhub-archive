@@ -9,7 +9,7 @@ build_date: "2018-07-03T09:02:32.754Z"
 size_mb: 3358
 size: 1384103967
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/sistr/latest/2018-07-03-eca66fff-ba171af1/ba171af1deaa6bf6d31bae264abc7d4d.simg"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/sistr/latest/2018-07-03-eca66fff-ba171af1/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/sistr/latest/2018-07-03-eca66fff-ba171af1/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/sistr/latest/2018-07-03-eca66fff-ba171af1/Singularity
 collection: phgenomics-singularity/sistr
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-18T20:35:38.923Z"
 size_mb: 1049.0
 size: 355299359
 sif: "https://datasets.datalad.org/shub/sskashaf/Rcontainers/biomart/2020-08-18-4196ad71-4d5257f3/4d5257f3c7abc8f01b7f2134ee210c21.sif"
-url: https://datasets.datalad.org/shub/sskashaf/Rcontainers/biomart/2020-08-18-4196ad71-4d5257f3/
+datalad_url: https://datasets.datalad.org?dir=/shub/sskashaf/Rcontainers/biomart/2020-08-18-4196ad71-4d5257f3/
 recipe: https://datasets.datalad.org/shub/sskashaf/Rcontainers/biomart/2020-08-18-4196ad71-4d5257f3/Singularity
 collection: sskashaf/Rcontainers
 ---

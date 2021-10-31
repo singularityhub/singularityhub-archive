@@ -9,7 +9,7 @@ build_date: "2020-11-25T12:09:57.977Z"
 size_mb: 2744.0
 size: 852828191
 sif: "https://datasets.datalad.org/shub/lumpiluk/vce-container/latest/2020-11-25-b39c3bb0-4410e121/4410e121a1b7e6aa4b2a564907c94359.sif"
-url: https://datasets.datalad.org/shub/lumpiluk/vce-container/latest/2020-11-25-b39c3bb0-4410e121/
+datalad_url: https://datasets.datalad.org?dir=/shub/lumpiluk/vce-container/latest/2020-11-25-b39c3bb0-4410e121/
 recipe: https://datasets.datalad.org/shub/lumpiluk/vce-container/latest/2020-11-25-b39c3bb0-4410e121/Singularity
 collection: lumpiluk/vce-container
 ---

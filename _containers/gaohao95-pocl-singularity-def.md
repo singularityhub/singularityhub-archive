@@ -9,7 +9,7 @@ build_date: "2019-04-18T21:44:23.951Z"
 size_mb: 957
 size: 411054111
 sif: "https://datasets.datalad.org/shub/gaohao95/pocl-singularity/def/2019-04-18-a0075326-184fb7d3/184fb7d3a06b393dc098753d18b41dfd.simg"
-url: https://datasets.datalad.org/shub/gaohao95/pocl-singularity/def/2019-04-18-a0075326-184fb7d3/
+datalad_url: https://datasets.datalad.org?dir=/shub/gaohao95/pocl-singularity/def/2019-04-18-a0075326-184fb7d3/
 recipe: https://datasets.datalad.org/shub/gaohao95/pocl-singularity/def/2019-04-18-a0075326-184fb7d3/Singularity
 collection: gaohao95/pocl-singularity
 ---

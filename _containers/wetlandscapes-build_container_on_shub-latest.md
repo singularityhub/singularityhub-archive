@@ -9,7 +9,7 @@ build_date: "2019-08-09T17:52:53.970Z"
 size_mb: 201.12890625
 size: 210898944
 sif: "https://datasets.datalad.org/shub/wetlandscapes/build_container_on_shub/latest/2019-08-09-51ad5b38-f427d97e/f427d97e4b8d0f7231de148a41bef194c05d1e28f3b87b3909a3bd349623682e.sif"
-url: https://datasets.datalad.org/shub/wetlandscapes/build_container_on_shub/latest/2019-08-09-51ad5b38-f427d97e/
+datalad_url: https://datasets.datalad.org?dir=/shub/wetlandscapes/build_container_on_shub/latest/2019-08-09-51ad5b38-f427d97e/
 recipe: https://datasets.datalad.org/shub/wetlandscapes/build_container_on_shub/latest/2019-08-09-51ad5b38-f427d97e/Singularity
 collection: wetlandscapes/build_container_on_shub
 ---

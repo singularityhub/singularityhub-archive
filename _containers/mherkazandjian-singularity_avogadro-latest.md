@@ -9,7 +9,7 @@ build_date: "2018-11-11T00:03:06.767Z"
 size_mb: 541
 size: 188325919
 sif: "https://datasets.datalad.org/shub/mherkazandjian/singularity_avogadro/latest/2018-11-11-8790786d-29920d91/29920d911f4e1062445137866e121be0.simg"
-url: https://datasets.datalad.org/shub/mherkazandjian/singularity_avogadro/latest/2018-11-11-8790786d-29920d91/
+datalad_url: https://datasets.datalad.org?dir=/shub/mherkazandjian/singularity_avogadro/latest/2018-11-11-8790786d-29920d91/
 recipe: https://datasets.datalad.org/shub/mherkazandjian/singularity_avogadro/latest/2018-11-11-8790786d-29920d91/Singularity
 collection: mherkazandjian/singularity_avogadro
 ---

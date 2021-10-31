@@ -9,7 +9,7 @@ build_date: "2020-09-29T09:48:59.623Z"
 size_mb: 1637.0
 size: 440610847
 sif: "https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/abyss/2020-09-29-c678e7d1-38e35998/38e3599824cac40c8c43e26d858304c2.sif"
-url: https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/abyss/2020-09-29-c678e7d1-38e35998/
+datalad_url: https://datasets.datalad.org?dir=/shub/FlorianCHA/singularity_containers/abyss/2020-09-29-c678e7d1-38e35998/
 recipe: https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/abyss/2020-09-29-c678e7d1-38e35998/Singularity
 collection: FlorianCHA/singularity_containers
 ---

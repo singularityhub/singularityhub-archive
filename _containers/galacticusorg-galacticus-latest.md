@@ -9,7 +9,7 @@ build_date: "2021-03-26T17:41:36.062Z"
 size_mb: 5451.0
 size: 2843136031
 sif: "https://datasets.datalad.org/shub/galacticusorg/galacticus/latest/2021-03-26-7aadaa95-c41f8505/c41f85057ce529aebbc2a3fe8706e3df.sif"
-url: https://datasets.datalad.org/shub/galacticusorg/galacticus/latest/2021-03-26-7aadaa95-c41f8505/
+datalad_url: https://datasets.datalad.org?dir=/shub/galacticusorg/galacticus/latest/2021-03-26-7aadaa95-c41f8505/
 recipe: https://datasets.datalad.org/shub/galacticusorg/galacticus/latest/2021-03-26-7aadaa95-c41f8505/Singularity
 collection: galacticusorg/galacticus
 ---

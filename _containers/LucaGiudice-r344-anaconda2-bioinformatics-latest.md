@@ -9,7 +9,7 @@ build_date: "2020-04-05T10:55:13.478Z"
 size_mb: 2504.71484375
 size: 2626383872
 sif: "https://datasets.datalad.org/shub/LucaGiudice/r344-anaconda2-bioinformatics/latest/2020-04-05-d161bf48-731b5f88/731b5f88446970a824ee4138fd770d39bed2eefcdf28773643bd01df1306abcc.sif"
-url: https://datasets.datalad.org/shub/LucaGiudice/r344-anaconda2-bioinformatics/latest/2020-04-05-d161bf48-731b5f88/
+datalad_url: https://datasets.datalad.org?dir=/shub/LucaGiudice/r344-anaconda2-bioinformatics/latest/2020-04-05-d161bf48-731b5f88/
 recipe: https://datasets.datalad.org/shub/LucaGiudice/r344-anaconda2-bioinformatics/latest/2020-04-05-d161bf48-731b5f88/Singularity
 collection: LucaGiudice/r344-anaconda2-bioinformatics
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-16T16:53:50.194Z"
 size_mb: 3362.0
 size: 1569386527
 sif: "https://datasets.datalad.org/shub/jacobhepkema/basset_singularity_from_docker/latest/2020-06-16-95dfe5d0-e13b939e/e13b939efd140edf8bd35f7bd01cfa45.sif"
-url: https://datasets.datalad.org/shub/jacobhepkema/basset_singularity_from_docker/latest/2020-06-16-95dfe5d0-e13b939e/
+datalad_url: https://datasets.datalad.org?dir=/shub/jacobhepkema/basset_singularity_from_docker/latest/2020-06-16-95dfe5d0-e13b939e/
 recipe: https://datasets.datalad.org/shub/jacobhepkema/basset_singularity_from_docker/latest/2020-06-16-95dfe5d0-e13b939e/Singularity
 collection: jacobhepkema/basset_singularity_from_docker
 ---

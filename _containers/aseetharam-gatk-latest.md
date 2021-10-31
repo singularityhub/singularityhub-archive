@@ -9,7 +9,7 @@ build_date: "2021-04-16T18:55:22.882Z"
 size_mb: 1700.859375
 size: 1783480320
 sif: "https://datasets.datalad.org/shub/aseetharam/gatk/latest/2021-04-16-ce52603c-f3fd8202/f3fd82023ffd34704886912a2c626796c7b61673527852bcf888b96366f2bc00.sif"
-url: https://datasets.datalad.org/shub/aseetharam/gatk/latest/2021-04-16-ce52603c-f3fd8202/
+datalad_url: https://datasets.datalad.org?dir=/shub/aseetharam/gatk/latest/2021-04-16-ce52603c-f3fd8202/
 recipe: https://datasets.datalad.org/shub/aseetharam/gatk/latest/2021-04-16-ce52603c-f3fd8202/Singularity
 collection: aseetharam/gatk
 ---

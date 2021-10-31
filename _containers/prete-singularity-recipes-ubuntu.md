@@ -9,7 +9,7 @@ build_date: "2020-07-02T15:54:35.091Z"
 size_mb: 26.4765625
 size: 27762688
 sif: "https://datasets.datalad.org/shub/prete/singularity-recipes/ubuntu/2020-07-02-a0bb4891-8485de20/8485de200778d45b9dd0f87d9b159c24833d698890009fd2deeafb989f7d5bd0.sif"
-url: https://datasets.datalad.org/shub/prete/singularity-recipes/ubuntu/2020-07-02-a0bb4891-8485de20/
+datalad_url: https://datasets.datalad.org?dir=/shub/prete/singularity-recipes/ubuntu/2020-07-02-a0bb4891-8485de20/
 recipe: https://datasets.datalad.org/shub/prete/singularity-recipes/ubuntu/2020-07-02-a0bb4891-8485de20/Singularity
 collection: prete/singularity-recipes
 ---

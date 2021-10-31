@@ -9,7 +9,7 @@ build_date: "2020-09-24T18:13:32.335Z"
 size_mb: 384
 size: 176492575
 sif: "https://datasets.datalad.org/shub/MarissaLL/singularity-containers/bayescan_2.1/2020-09-24-e34376da-1d873163/1d8731632aee596881ab88d0b1aa4e9d.simg"
-url: https://datasets.datalad.org/shub/MarissaLL/singularity-containers/bayescan_2.1/2020-09-24-e34376da-1d873163/
+datalad_url: https://datasets.datalad.org?dir=/shub/MarissaLL/singularity-containers/bayescan_2.1/2020-09-24-e34376da-1d873163/
 recipe: https://datasets.datalad.org/shub/MarissaLL/singularity-containers/bayescan_2.1/2020-09-24-e34376da-1d873163/Singularity
 collection: MarissaLL/singularity-containers
 ---

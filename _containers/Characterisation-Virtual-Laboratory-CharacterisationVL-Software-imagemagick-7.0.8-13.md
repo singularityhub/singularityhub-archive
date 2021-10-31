@@ -9,7 +9,7 @@ build_date: "2020-04-23T11:01:53.948Z"
 size_mb: 6347
 size: 2942877727
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/imagemagick-7.0.8-13/2020-04-23-0dc75873-a9323f5a/a9323f5a19534650694f75ea61d9cfee.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/imagemagick-7.0.8-13/2020-04-23-0dc75873-a9323f5a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/imagemagick-7.0.8-13/2020-04-23-0dc75873-a9323f5a/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/imagemagick-7.0.8-13/2020-04-23-0dc75873-a9323f5a/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

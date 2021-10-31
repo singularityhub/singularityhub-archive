@@ -9,7 +9,7 @@ build_date: "2019-04-04T07:45:35.650Z"
 size_mb: 8140
 size: 3580842015
 sif: "https://datasets.datalad.org/shub/switt4/SingularityTeaching/0.0/2019-04-04-ff5a3ef8-a1040577/a10405774f2f1aa5ce58fea84d778476.simg"
-url: https://datasets.datalad.org/shub/switt4/SingularityTeaching/0.0/2019-04-04-ff5a3ef8-a1040577/
+datalad_url: https://datasets.datalad.org?dir=/shub/switt4/SingularityTeaching/0.0/2019-04-04-ff5a3ef8-a1040577/
 recipe: https://datasets.datalad.org/shub/switt4/SingularityTeaching/0.0/2019-04-04-ff5a3ef8-a1040577/Singularity
 collection: switt4/SingularityTeaching
 ---

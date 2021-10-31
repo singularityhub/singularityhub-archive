@@ -9,7 +9,7 @@ build_date: "2021-04-12T08:42:46.400Z"
 size_mb: 2685.14453125
 size: 2815578112
 sif: "https://datasets.datalad.org/shub/dcgc-bfx/dcgc-single-cell/latest/2021-04-12-108d2bda-dc1a4c6d/dc1a4c6d7fef4d6ed157c44bd22babab36b635bdd70b31adee18020e21294fd8.sif"
-url: https://datasets.datalad.org/shub/dcgc-bfx/dcgc-single-cell/latest/2021-04-12-108d2bda-dc1a4c6d/
+datalad_url: https://datasets.datalad.org?dir=/shub/dcgc-bfx/dcgc-single-cell/latest/2021-04-12-108d2bda-dc1a4c6d/
 recipe: https://datasets.datalad.org/shub/dcgc-bfx/dcgc-single-cell/latest/2021-04-12-108d2bda-dc1a4c6d/Singularity
 collection: dcgc-bfx/dcgc-single-cell
 ---

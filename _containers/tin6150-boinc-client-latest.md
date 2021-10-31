@@ -9,7 +9,7 @@ build_date: "2021-03-23T21:38:43.903Z"
 size_mb: 1118
 size: 615444511
 sif: "https://datasets.datalad.org/shub/tin6150/boinc-client/latest/2021-03-23-a0a8e680-55ec4c92/55ec4c92afc2372ff0cecf6560e875d2.simg"
-url: https://datasets.datalad.org/shub/tin6150/boinc-client/latest/2021-03-23-a0a8e680-55ec4c92/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/boinc-client/latest/2021-03-23-a0a8e680-55ec4c92/
 recipe: https://datasets.datalad.org/shub/tin6150/boinc-client/latest/2021-03-23-a0a8e680-55ec4c92/Singularity
 collection: tin6150/boinc-client
 ---

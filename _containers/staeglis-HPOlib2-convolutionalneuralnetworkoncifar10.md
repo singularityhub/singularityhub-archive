@@ -9,7 +9,7 @@ build_date: "2021-03-01T15:17:47.907Z"
 size_mb: 5753
 size: 3648921631
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/convolutionalneuralnetworkoncifar10/2021-03-01-753a663c-b59a5fdd/b59a5fddef2939fbe14945b014c10eaa.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/convolutionalneuralnetworkoncifar10/2021-03-01-753a663c-b59a5fdd/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/convolutionalneuralnetworkoncifar10/2021-03-01-753a663c-b59a5fdd/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/convolutionalneuralnetworkoncifar10/2021-03-01-753a663c-b59a5fdd/Singularity
 collection: staeglis/HPOlib2
 ---

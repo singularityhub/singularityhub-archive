@@ -9,7 +9,7 @@ build_date: "2021-04-16T09:15:31.895Z"
 size_mb: 817.73046875
 size: 857452544
 sif: "https://datasets.datalad.org/shub/ddeweerd/DMDPipe/latest/2021-04-16-56c31f2a-27304286/273042865af692572e03a9a73ebd5fb718898720d30b112c1ecdaf36beb0bb84.sif"
-url: https://datasets.datalad.org/shub/ddeweerd/DMDPipe/latest/2021-04-16-56c31f2a-27304286/
+datalad_url: https://datasets.datalad.org?dir=/shub/ddeweerd/DMDPipe/latest/2021-04-16-56c31f2a-27304286/
 recipe: https://datasets.datalad.org/shub/ddeweerd/DMDPipe/latest/2021-04-16-56c31f2a-27304286/Singularity
 collection: ddeweerd/DMDPipe
 ---

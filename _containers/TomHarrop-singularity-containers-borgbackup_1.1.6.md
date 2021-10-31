@@ -9,7 +9,7 @@ build_date: "2018-08-13T01:36:23.128Z"
 size_mb: 600
 size: 223957023
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/borgbackup_1.1.6/2018-08-13-b6d12582-19fd504c/19fd504c092cd087e01f9baadd4dad2c.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/borgbackup_1.1.6/2018-08-13-b6d12582-19fd504c/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/borgbackup_1.1.6/2018-08-13-b6d12582-19fd504c/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/borgbackup_1.1.6/2018-08-13-b6d12582-19fd504c/Singularity
 collection: TomHarrop/singularity-containers
 ---

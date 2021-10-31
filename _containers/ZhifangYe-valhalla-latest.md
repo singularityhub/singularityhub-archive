@@ -9,7 +9,7 @@ build_date: "2021-02-17T03:23:05.540Z"
 size_mb: 10256
 size: 4151627807
 sif: "https://datasets.datalad.org/shub/ZhifangYe/valhalla/latest/2021-02-17-a59063b4-978994d3/978994d3bdc25bd892ef949da6feb884.simg"
-url: https://datasets.datalad.org/shub/ZhifangYe/valhalla/latest/2021-02-17-a59063b4-978994d3/
+datalad_url: https://datasets.datalad.org?dir=/shub/ZhifangYe/valhalla/latest/2021-02-17-a59063b4-978994d3/
 recipe: https://datasets.datalad.org/shub/ZhifangYe/valhalla/latest/2021-02-17-a59063b4-978994d3/Singularity
 collection: ZhifangYe/valhalla
 ---

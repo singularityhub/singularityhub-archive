@@ -9,7 +9,7 @@ build_date: "2020-09-16T18:44:47.521Z"
 size_mb: 5329.26953125
 size: 5588144128
 sif: "https://datasets.datalad.org/shub/fzimmermann89/singularity-condajupyter/latest/2020-09-16-9c7d470e-9f8f3689/9f8f368928ce54fbb8daa8ed077c1a91baa50173c54e36bd394d2b0f078b3e2a.sif"
-url: https://datasets.datalad.org/shub/fzimmermann89/singularity-condajupyter/latest/2020-09-16-9c7d470e-9f8f3689/
+datalad_url: https://datasets.datalad.org?dir=/shub/fzimmermann89/singularity-condajupyter/latest/2020-09-16-9c7d470e-9f8f3689/
 recipe: https://datasets.datalad.org/shub/fzimmermann89/singularity-condajupyter/latest/2020-09-16-9c7d470e-9f8f3689/Singularity
 collection: fzimmermann89/singularity-condajupyter
 ---

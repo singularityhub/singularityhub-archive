@@ -9,7 +9,7 @@ build_date: "2020-05-03T09:07:59.234Z"
 size_mb: 9996.0
 size: 6003204127
 sif: "https://datasets.datalad.org/shub/masoudrezai/Singularity/5/2020-05-03-bdd0bf48-6c92d7c0/6c92d7c036489ef8cb8108568b42ac4d.sif"
-url: https://datasets.datalad.org/shub/masoudrezai/Singularity/5/2020-05-03-bdd0bf48-6c92d7c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/masoudrezai/Singularity/5/2020-05-03-bdd0bf48-6c92d7c0/
 recipe: https://datasets.datalad.org/shub/masoudrezai/Singularity/5/2020-05-03-bdd0bf48-6c92d7c0/Singularity
 collection: masoudrezai/Singularity
 ---

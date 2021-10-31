@@ -9,7 +9,7 @@ build_date: "2021-01-29T16:54:23.070Z"
 size_mb: 3258.0
 size: 1293193247
 sif: "https://datasets.datalad.org/shub/APPIAN-PET/APPIAN/base/2021-01-29-42ddc5ff-53417ffe/53417ffe6cfba9150e7ba86b8ebca337.sif"
-url: https://datasets.datalad.org/shub/APPIAN-PET/APPIAN/base/2021-01-29-42ddc5ff-53417ffe/
+datalad_url: https://datasets.datalad.org?dir=/shub/APPIAN-PET/APPIAN/base/2021-01-29-42ddc5ff-53417ffe/
 recipe: https://datasets.datalad.org/shub/APPIAN-PET/APPIAN/base/2021-01-29-42ddc5ff-53417ffe/Singularity
 collection: APPIAN-PET/APPIAN
 ---

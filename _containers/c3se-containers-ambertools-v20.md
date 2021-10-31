@@ -9,7 +9,7 @@ build_date: "2020-10-14T12:16:54.311Z"
 size_mb: 1932.0
 size: 805597215
 sif: "https://datasets.datalad.org/shub/c3se/containers/ambertools-v20/2020-10-14-b725e2e6-3f9bccc8/3f9bccc83ba15cdcba417a431297c6c5.sif"
-url: https://datasets.datalad.org/shub/c3se/containers/ambertools-v20/2020-10-14-b725e2e6-3f9bccc8/
+datalad_url: https://datasets.datalad.org?dir=/shub/c3se/containers/ambertools-v20/2020-10-14-b725e2e6-3f9bccc8/
 recipe: https://datasets.datalad.org/shub/c3se/containers/ambertools-v20/2020-10-14-b725e2e6-3f9bccc8/Singularity
 collection: c3se/containers
 ---

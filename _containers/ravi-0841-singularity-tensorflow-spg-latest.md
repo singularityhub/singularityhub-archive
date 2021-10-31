@@ -9,7 +9,7 @@ build_date: "2021-03-25T04:00:55.492Z"
 size_mb: 4522.0
 size: 2433589279
 sif: "https://datasets.datalad.org/shub/ravi-0841/singularity-tensorflow-spg/latest/2021-03-25-16112a04-4b2ad6cd/4b2ad6cdb7701137f8c5c934c6e2a7a0.sif"
-url: https://datasets.datalad.org/shub/ravi-0841/singularity-tensorflow-spg/latest/2021-03-25-16112a04-4b2ad6cd/
+datalad_url: https://datasets.datalad.org?dir=/shub/ravi-0841/singularity-tensorflow-spg/latest/2021-03-25-16112a04-4b2ad6cd/
 recipe: https://datasets.datalad.org/shub/ravi-0841/singularity-tensorflow-spg/latest/2021-03-25-16112a04-4b2ad6cd/Singularity
 collection: ravi-0841/singularity-tensorflow-spg
 ---

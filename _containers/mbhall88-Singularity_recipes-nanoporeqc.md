@@ -9,7 +9,7 @@ build_date: "2020-05-15T06:42:25.398Z"
 size_mb: 1605
 size: 617533471
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/nanoporeqc/2020-05-15-985a10c7-e310be8f/e310be8fd3b50d5c0c130f8799f8a0ad.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/nanoporeqc/2020-05-15-985a10c7-e310be8f/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/nanoporeqc/2020-05-15-985a10c7-e310be8f/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/nanoporeqc/2020-05-15-985a10c7-e310be8f/Singularity
 collection: mbhall88/Singularity_recipes
 ---

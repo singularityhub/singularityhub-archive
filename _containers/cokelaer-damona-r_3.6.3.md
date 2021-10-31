@@ -9,7 +9,7 @@ build_date: "2020-08-04T19:57:43.508Z"
 size_mb: 862.0
 size: 298680351
 sif: "https://datasets.datalad.org/shub/cokelaer/damona/r_3.6.3/2020-08-04-f91cc013-a00186de/a00186def9388d3cdf73f32c9fa9c037.sif"
-url: https://datasets.datalad.org/shub/cokelaer/damona/r_3.6.3/2020-08-04-f91cc013-a00186de/
+datalad_url: https://datasets.datalad.org?dir=/shub/cokelaer/damona/r_3.6.3/2020-08-04-f91cc013-a00186de/
 recipe: https://datasets.datalad.org/shub/cokelaer/damona/r_3.6.3/2020-08-04-f91cc013-a00186de/Singularity
 collection: cokelaer/ngstools
 ---

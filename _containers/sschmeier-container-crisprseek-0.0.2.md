@@ -9,7 +9,7 @@ build_date: "2020-04-21T20:57:56.226Z"
 size_mb: 3306.765625
 size: 3467395072
 sif: "https://datasets.datalad.org/shub/sschmeier/container-crisprseek/0.0.2/2020-04-21-faa9d138-362f8cd3/362f8cd394d407e0574dc3abcae526a94362693ff6f03489471a8fe6162be86c.sif"
-url: https://datasets.datalad.org/shub/sschmeier/container-crisprseek/0.0.2/2020-04-21-faa9d138-362f8cd3/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/container-crisprseek/0.0.2/2020-04-21-faa9d138-362f8cd3/
 recipe: https://datasets.datalad.org/shub/sschmeier/container-crisprseek/0.0.2/2020-04-21-faa9d138-362f8cd3/Singularity
 collection: sschmeier/container-crisprseek
 ---

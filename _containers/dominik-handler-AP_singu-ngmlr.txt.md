@@ -9,7 +9,7 @@ build_date: "2019-01-15T15:20:37.355Z"
 size_mb: 604
 size: 309137439
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/ngmlr.txt/2019-01-15-d1ba2e26-05fd3546/05fd3546dc548192249e5893483a218c.simg"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/ngmlr.txt/2019-01-15-d1ba2e26-05fd3546/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/ngmlr.txt/2019-01-15-d1ba2e26-05fd3546/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/ngmlr.txt/2019-01-15-d1ba2e26-05fd3546/Singularity
 collection: dominik-handler/AP_singu
 ---

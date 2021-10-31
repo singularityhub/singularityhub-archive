@@ -9,7 +9,7 @@ build_date: "2020-05-19T18:39:07.916Z"
 size_mb: 1189.0
 size: 404115487
 sif: "https://datasets.datalad.org/shub/photocyte/recoll-webui_singularity/latest/2020-05-19-44a0af9d-bd978c00/bd978c00eae9769c170e33aee201462c.sif"
-url: https://datasets.datalad.org/shub/photocyte/recoll-webui_singularity/latest/2020-05-19-44a0af9d-bd978c00/
+datalad_url: https://datasets.datalad.org?dir=/shub/photocyte/recoll-webui_singularity/latest/2020-05-19-44a0af9d-bd978c00/
 recipe: https://datasets.datalad.org/shub/photocyte/recoll-webui_singularity/latest/2020-05-19-44a0af9d-bd978c00/Singularity
 collection: photocyte/recoll-webui_singularity
 ---

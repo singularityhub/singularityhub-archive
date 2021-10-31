@@ -9,7 +9,7 @@ build_date: "2020-08-12T10:57:45.638Z"
 size_mb: 666
 size: 259964959
 sif: "https://datasets.datalad.org/shub/mjstealey/r-base/latest/2020-08-12-9cf8d49e-a572a355/a572a355ba90a9de385e819245c28d85.simg"
-url: https://datasets.datalad.org/shub/mjstealey/r-base/latest/2020-08-12-9cf8d49e-a572a355/
+datalad_url: https://datasets.datalad.org?dir=/shub/mjstealey/r-base/latest/2020-08-12-9cf8d49e-a572a355/
 recipe: https://datasets.datalad.org/shub/mjstealey/r-base/latest/2020-08-12-9cf8d49e-a572a355/Singularity
 collection: mjstealey/r-base
 ---

@@ -9,7 +9,7 @@ build_date: "2020-02-07T20:47:18.725Z"
 size_mb: 2293
 size: 868626463
 sif: "https://datasets.datalad.org/shub/bud42/AMYVIDQA/latest/2020-02-07-9b704d2e-e5a35cbd/e5a35cbd49a0fea7d8551c4319e6ad9a.simg"
-url: https://datasets.datalad.org/shub/bud42/AMYVIDQA/latest/2020-02-07-9b704d2e-e5a35cbd/
+datalad_url: https://datasets.datalad.org?dir=/shub/bud42/AMYVIDQA/latest/2020-02-07-9b704d2e-e5a35cbd/
 recipe: https://datasets.datalad.org/shub/bud42/AMYVIDQA/latest/2020-02-07-9b704d2e-e5a35cbd/Singularity
 collection: bud42/AMYVIDQA
 ---

@@ -9,7 +9,7 @@ build_date: "2018-10-20T06:03:23.697Z"
 size_mb: 6601
 size: 3120554015
 sif: "https://datasets.datalad.org/shub/tomuram/ALCF_1.2i/latest/2018-10-20-0d0b8948-140d01dd/140d01dd2bf951cc323acb95b141a14e.simg"
-url: https://datasets.datalad.org/shub/tomuram/ALCF_1.2i/latest/2018-10-20-0d0b8948-140d01dd/
+datalad_url: https://datasets.datalad.org?dir=/shub/tomuram/ALCF_1.2i/latest/2018-10-20-0d0b8948-140d01dd/
 recipe: https://datasets.datalad.org/shub/tomuram/ALCF_1.2i/latest/2018-10-20-0d0b8948-140d01dd/Singularity
 collection: tomuram/ALCF_1.2i
 ---

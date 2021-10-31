@@ -9,7 +9,7 @@ build_date: "2017-11-20T17:42:29.415Z"
 size_mb: 3057
 size: 1491247135
 sif: "https://datasets.datalad.org/shub/ovcharennih/Singularity/latest/2017-11-20-b8d51ccb-61882e3e/61882e3ed7da5ab1021cc847bd33409e.simg"
-url: https://datasets.datalad.org/shub/ovcharennih/Singularity/latest/2017-11-20-b8d51ccb-61882e3e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ovcharennih/Singularity/latest/2017-11-20-b8d51ccb-61882e3e/
 recipe: https://datasets.datalad.org/shub/ovcharennih/Singularity/latest/2017-11-20-b8d51ccb-61882e3e/Singularity
 collection: ovcharennih/Singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-02-21T20:57:18.326Z"
 size_mb: 216
 size: 79208479
 sif: "https://datasets.datalad.org/shub/powerPlant/ragoo-srf/latest/2019-02-21-0b8f2b4f-47fcba15/47fcba155d1a65487f8849f5b7c08d4a.simg"
-url: https://datasets.datalad.org/shub/powerPlant/ragoo-srf/latest/2019-02-21-0b8f2b4f-47fcba15/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/ragoo-srf/latest/2019-02-21-0b8f2b4f-47fcba15/
 recipe: https://datasets.datalad.org/shub/powerPlant/ragoo-srf/latest/2019-02-21-0b8f2b4f-47fcba15/Singularity
 collection: powerPlant/ragoo-srf
 ---

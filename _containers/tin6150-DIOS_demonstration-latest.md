@@ -9,7 +9,7 @@ build_date: "2020-09-29T17:53:42.408Z"
 size_mb: 1873.2109375
 size: 1964204032
 sif: "https://datasets.datalad.org/shub/tin6150/DIOS_demonstration/latest/2020-09-29-047e4cb7-16126427/16126427ebd23145fc792f6e139823290b73eed470e3021ca712e02ec50f37be.sif"
-url: https://datasets.datalad.org/shub/tin6150/DIOS_demonstration/latest/2020-09-29-047e4cb7-16126427/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/DIOS_demonstration/latest/2020-09-29-047e4cb7-16126427/
 recipe: https://datasets.datalad.org/shub/tin6150/DIOS_demonstration/latest/2020-09-29-047e4cb7-16126427/Singularity
 collection: tin6150/DIOS_demonstration
 ---

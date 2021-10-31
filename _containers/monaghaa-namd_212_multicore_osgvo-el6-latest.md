@@ -9,7 +9,7 @@ build_date: "2021-02-03T22:55:29.774Z"
 size_mb: 5995
 size: 2875654175
 sif: "https://datasets.datalad.org/shub/monaghaa/namd_212_multicore_osgvo-el6/latest/2021-02-03-784b3bfd-810caaec/810caaec62711955d06964afd855f551.simg"
-url: https://datasets.datalad.org/shub/monaghaa/namd_212_multicore_osgvo-el6/latest/2021-02-03-784b3bfd-810caaec/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/namd_212_multicore_osgvo-el6/latest/2021-02-03-784b3bfd-810caaec/
 recipe: https://datasets.datalad.org/shub/monaghaa/namd_212_multicore_osgvo-el6/latest/2021-02-03-784b3bfd-810caaec/Singularity
 collection: monaghaa/namd_212_multicore_osgvo-el6
 ---

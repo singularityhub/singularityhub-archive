@@ -9,7 +9,7 @@ build_date: "2020-07-09T08:23:52.235Z"
 size_mb: 7785.0
 size: 4557815839
 sif: "https://datasets.datalad.org/shub/jacobhepkema/singularity_pytorch/latest/2020-07-09-d1b3cbdf-881aec7f/881aec7fc18867367eaf6c2cefb77d7d.sif"
-url: https://datasets.datalad.org/shub/jacobhepkema/singularity_pytorch/latest/2020-07-09-d1b3cbdf-881aec7f/
+datalad_url: https://datasets.datalad.org?dir=/shub/jacobhepkema/singularity_pytorch/latest/2020-07-09-d1b3cbdf-881aec7f/
 recipe: https://datasets.datalad.org/shub/jacobhepkema/singularity_pytorch/latest/2020-07-09-d1b3cbdf-881aec7f/Singularity
 collection: jacobhepkema/singularity_pytorch
 ---

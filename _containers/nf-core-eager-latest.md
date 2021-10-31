@@ -9,7 +9,7 @@ build_date: "2020-09-03T14:06:50.889Z"
 size_mb: 3605
 size: 1400860703
 sif: "https://datasets.datalad.org/shub/nf-core/eager/latest/2020-09-03-c44b8811-d940c96d/d940c96d4ea92436e80c27f0e4dd4d12.simg"
-url: https://datasets.datalad.org/shub/nf-core/eager/latest/2020-09-03-c44b8811-d940c96d/
+datalad_url: https://datasets.datalad.org?dir=/shub/nf-core/eager/latest/2020-09-03-c44b8811-d940c96d/
 recipe: https://datasets.datalad.org/shub/nf-core/eager/latest/2020-09-03-c44b8811-d940c96d/Singularity
 collection: nf-core/eager
 ---

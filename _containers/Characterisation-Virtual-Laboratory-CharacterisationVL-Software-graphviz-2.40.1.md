@@ -9,7 +9,7 @@ build_date: "2020-04-27T05:45:16.033Z"
 size_mb: 3252.0
 size: 1329901599
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/graphviz-2.40.1/2020-04-27-92d5c8de-b3a45175/b3a45175a65e440271843982b442a220.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/graphviz-2.40.1/2020-04-27-92d5c8de-b3a45175/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/graphviz-2.40.1/2020-04-27-92d5c8de-b3a45175/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/graphviz-2.40.1/2020-04-27-92d5c8de-b3a45175/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

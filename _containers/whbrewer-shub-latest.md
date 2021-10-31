@@ -9,7 +9,7 @@ build_date: "2019-02-15T19:29:45.764Z"
 size_mb: 213
 size: 73412639
 sif: "https://datasets.datalad.org/shub/whbrewer/shub/latest/2019-02-15-acdbcfc3-9335fd27/9335fd27becdf57e687426eec8f3ca1e.simg"
-url: https://datasets.datalad.org/shub/whbrewer/shub/latest/2019-02-15-acdbcfc3-9335fd27/
+datalad_url: https://datasets.datalad.org?dir=/shub/whbrewer?dir=/shub/latest/2019-02-15-acdbcfc3-9335fd27/
 recipe: https://datasets.datalad.org/shub/whbrewer/shub/latest/2019-02-15-acdbcfc3-9335fd27/Singularity
 collection: whbrewer/shub
 ---

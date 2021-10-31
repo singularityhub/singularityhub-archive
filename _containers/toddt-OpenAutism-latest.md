@@ -9,7 +9,7 @@ build_date: "2018-08-15T09:33:42.914Z"
 size_mb: 2588
 size: 983277599
 sif: "https://datasets.datalad.org/shub/toddt/OpenAutism/latest/2018-08-15-2c79a150-b6d8abba/b6d8abbaa56f5639fbd4b87c0166c20f.simg"
-url: https://datasets.datalad.org/shub/toddt/OpenAutism/latest/2018-08-15-2c79a150-b6d8abba/
+datalad_url: https://datasets.datalad.org?dir=/shub/toddt/OpenAutism/latest/2018-08-15-2c79a150-b6d8abba/
 recipe: https://datasets.datalad.org/shub/toddt/OpenAutism/latest/2018-08-15-2c79a150-b6d8abba/Singularity
 collection: toddt/OpenAutism
 ---

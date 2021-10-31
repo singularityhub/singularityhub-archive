@@ -9,7 +9,7 @@ build_date: "2019-10-22T15:58:46.213Z"
 size_mb: 5277.0
 size: 1834983455
 sif: "https://datasets.datalad.org/shub/klabhub/singularity/hddm/2019-10-22-bf75872b-6ffad0a1/6ffad0a1067b75028dd8f1a819234e84.sif"
-url: https://datasets.datalad.org/shub/klabhub/singularity/hddm/2019-10-22-bf75872b-6ffad0a1/
+datalad_url: https://datasets.datalad.org?dir=/shub/klabhub/singularity/hddm/2019-10-22-bf75872b-6ffad0a1/
 recipe: https://datasets.datalad.org/shub/klabhub/singularity/hddm/2019-10-22-bf75872b-6ffad0a1/Singularity
 collection: klabhub/singularity
 ---

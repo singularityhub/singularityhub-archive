@@ -9,7 +9,7 @@ build_date: "2019-11-13T11:06:42.730Z"
 size_mb: 1343.0
 size: 392761375
 sif: "https://datasets.datalad.org/shub/ivs-containers/r/latest/2019-11-13-814ccc3a-00053eb5/00053eb5b87a3df132566b28d1e1212b.sif"
-url: https://datasets.datalad.org/shub/ivs-containers/r/latest/2019-11-13-814ccc3a-00053eb5/
+datalad_url: https://datasets.datalad.org?dir=/shub/ivs-containers/r/latest/2019-11-13-814ccc3a-00053eb5/
 recipe: https://datasets.datalad.org/shub/ivs-containers/r/latest/2019-11-13-814ccc3a-00053eb5/Singularity
 collection: ivs-containers/r
 ---

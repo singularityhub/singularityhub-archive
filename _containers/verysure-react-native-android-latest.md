@@ -9,7 +9,7 @@ build_date: "2020-06-09T01:25:30.444Z"
 size_mb: 2569.0
 size: 1254498335
 sif: "https://datasets.datalad.org/shub/verysure/react-native-android/latest/2020-06-09-f940404d-55b4e72f/55b4e72f69e9c0ca33a5242217e956ff.sif"
-url: https://datasets.datalad.org/shub/verysure/react-native-android/latest/2020-06-09-f940404d-55b4e72f/
+datalad_url: https://datasets.datalad.org?dir=/shub/verysure/react-native-android/latest/2020-06-09-f940404d-55b4e72f/
 recipe: https://datasets.datalad.org/shub/verysure/react-native-android/latest/2020-06-09-f940404d-55b4e72f/Singularity
 collection: verysure/react-native-android
 ---

@@ -9,7 +9,7 @@ build_date: "2018-11-12T16:21:16.831Z"
 size_mb: 2437
 size: 938475551
 sif: "https://datasets.datalad.org/shub/dynverse/ti_cellrouter/latest/2018-11-12-1951e185-0161593f/0161593f461a9aad1525a2bdb75daeff.simg"
-url: https://datasets.datalad.org/shub/dynverse/ti_cellrouter/latest/2018-11-12-1951e185-0161593f/
+datalad_url: https://datasets.datalad.org?dir=/shub/dynverse/ti_cellrouter/latest/2018-11-12-1951e185-0161593f/
 recipe: https://datasets.datalad.org/shub/dynverse/ti_cellrouter/latest/2018-11-12-1951e185-0161593f/Singularity
 collection: dynverse/ti_cellrouter
 ---

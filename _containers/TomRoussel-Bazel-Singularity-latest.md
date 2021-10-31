@@ -9,7 +9,7 @@ build_date: "2018-03-09T10:25:28.085Z"
 size_mb: 3542
 size: 1828089887
 sif: "https://datasets.datalad.org/shub/TomRoussel/Bazel-Singularity/latest/2018-03-09-b90bff3c-24296ecf/24296ecf252450058f47ba6feea647b7.simg"
-url: https://datasets.datalad.org/shub/TomRoussel/Bazel-Singularity/latest/2018-03-09-b90bff3c-24296ecf/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomRoussel/Bazel-Singularity/latest/2018-03-09-b90bff3c-24296ecf/
 recipe: https://datasets.datalad.org/shub/TomRoussel/Bazel-Singularity/latest/2018-03-09-b90bff3c-24296ecf/Singularity
 collection: TomRoussel/Bazel-Singularity
 ---

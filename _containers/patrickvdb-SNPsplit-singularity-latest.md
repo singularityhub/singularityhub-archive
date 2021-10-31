@@ -9,7 +9,7 @@ build_date: "2017-11-13T21:32:38.522Z"
 size_mb: 1153
 size: 397996063
 sif: "https://datasets.datalad.org/shub/patrickvdb/SNPsplit-singularity/latest/2017-11-13-b10baa8d-5c86e327/5c86e327fcd2ed28add8a3329ff790c8.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/SNPsplit-singularity/latest/2017-11-13-b10baa8d-5c86e327/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/SNPsplit-singularity/latest/2017-11-13-b10baa8d-5c86e327/
 recipe: https://datasets.datalad.org/shub/patrickvdb/SNPsplit-singularity/latest/2017-11-13-b10baa8d-5c86e327/Singularity
 collection: patrickvdb/SNPsplit-singularity
 ---

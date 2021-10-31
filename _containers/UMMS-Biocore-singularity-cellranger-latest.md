@@ -9,7 +9,7 @@ build_date: "2019-05-14T23:21:57.555Z"
 size_mb: 8571
 size: 3771088927
 sif: "https://datasets.datalad.org/shub/UMMS-Biocore/singularity-cellranger/latest/2019-05-14-f49c6a00-8e153954/8e153954fe7e47c6e1a891852e8e30f1.simg"
-url: https://datasets.datalad.org/shub/UMMS-Biocore/singularity-cellranger/latest/2019-05-14-f49c6a00-8e153954/
+datalad_url: https://datasets.datalad.org?dir=/shub/UMMS-Biocore/singularity-cellranger/latest/2019-05-14-f49c6a00-8e153954/
 recipe: https://datasets.datalad.org/shub/UMMS-Biocore/singularity-cellranger/latest/2019-05-14-f49c6a00-8e153954/Singularity
 collection: UMMS-Biocore/singularity-cellranger
 ---

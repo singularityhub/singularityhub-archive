@@ -9,7 +9,7 @@ build_date: "2020-04-01T15:29:16.037Z"
 size_mb: 6231
 size: 2693918751
 sif: "https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/binning/2020-04-01-d0c131e9-a0e91285/a0e912854fb0b5a5816fe2cf55e1a24f.simg"
-url: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/binning/2020-04-01-d0c131e9-a0e91285/
+datalad_url: https://datasets.datalad.org?dir=/shub/bsiranosian/bens_1337_workflows/binning/2020-04-01-d0c131e9-a0e91285/
 recipe: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/binning/2020-04-01-d0c131e9-a0e91285/Singularity
 collection: bsiranosian/bens_1337_workflows
 ---

@@ -9,7 +9,7 @@ build_date: "2018-02-13T08:25:31.506Z"
 size_mb: 3596
 size: 1443188767
 sif: "https://datasets.datalad.org/shub/StanfordCosyne/pancakes/matlab/2018-02-13-b1fc092e-17c4176a/17c4176a685ec7e18c2b691c6a79ef8c.simg"
-url: https://datasets.datalad.org/shub/StanfordCosyne/pancakes/matlab/2018-02-13-b1fc092e-17c4176a/
+datalad_url: https://datasets.datalad.org?dir=/shub/StanfordCosyne/pancakes/matlab/2018-02-13-b1fc092e-17c4176a/
 recipe: https://datasets.datalad.org/shub/StanfordCosyne/pancakes/matlab/2018-02-13-b1fc092e-17c4176a/Singularity
 collection: StanfordCosyne/pancakes
 ---

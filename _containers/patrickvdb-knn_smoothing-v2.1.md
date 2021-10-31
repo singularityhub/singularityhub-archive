@@ -9,7 +9,7 @@ build_date: "2018-11-16T13:28:05.928Z"
 size_mb: 1587
 size: 606216223
 sif: "https://datasets.datalad.org/shub/patrickvdb/knn_smoothing/v2.1/2018-11-16-573616ed-579eb5e7/579eb5e73e9e970721fb427fd75394a1.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/knn_smoothing/v2.1/2018-11-16-573616ed-579eb5e7/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/knn_smoothing/v2.1/2018-11-16-573616ed-579eb5e7/
 recipe: https://datasets.datalad.org/shub/patrickvdb/knn_smoothing/v2.1/2018-11-16-573616ed-579eb5e7/Singularity
 collection: patrickvdb/knn_smoothing
 ---

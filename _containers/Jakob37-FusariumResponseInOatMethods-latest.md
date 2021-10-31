@@ -9,7 +9,7 @@ build_date: "2020-09-29T14:21:57.234Z"
 size_mb: 1176.0
 size: 458162207
 sif: "https://datasets.datalad.org/shub/Jakob37/FusariumResponseInOatMethods/latest/2020-09-29-b9ffface-59090daf/59090daf8267b577f33e546a17bfb969.sif"
-url: https://datasets.datalad.org/shub/Jakob37/FusariumResponseInOatMethods/latest/2020-09-29-b9ffface-59090daf/
+datalad_url: https://datasets.datalad.org?dir=/shub/Jakob37/FusariumResponseInOatMethods/latest/2020-09-29-b9ffface-59090daf/
 recipe: https://datasets.datalad.org/shub/Jakob37/FusariumResponseInOatMethods/latest/2020-09-29-b9ffface-59090daf/Singularity
 collection: Jakob37/FusariumResponseInOatMethods
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-22T12:27:54.625Z"
 size_mb: 215.60546875
 size: 226078720
 sif: "https://datasets.datalad.org/shub/dcgc-bfx/singularity-president/0.6.0/2021-03-22-bd55d167-63a3f992/63a3f99208418ba390e601f943e7337ffd0e885df11808ec11d65a6ff52d0447.sif"
-url: https://datasets.datalad.org/shub/dcgc-bfx/singularity-president/0.6.0/2021-03-22-bd55d167-63a3f992/
+datalad_url: https://datasets.datalad.org?dir=/shub/dcgc-bfx/singularity-president/0.6.0/2021-03-22-bd55d167-63a3f992/
 recipe: https://datasets.datalad.org/shub/dcgc-bfx/singularity-president/0.6.0/2021-03-22-bd55d167-63a3f992/Singularity
 collection: dcgc-bfx/singularity-president
 ---

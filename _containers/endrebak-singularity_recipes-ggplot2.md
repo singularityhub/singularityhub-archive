@@ -9,7 +9,7 @@ build_date: "2018-02-15T09:08:03.775Z"
 size_mb: 892
 size: 317562911
 sif: "https://datasets.datalad.org/shub/endrebak/singularity_recipes/ggplot2/2018-02-15-73627a05-d75eecbd/d75eecbddd89cdf907f8a756c5c2dd27.simg"
-url: https://datasets.datalad.org/shub/endrebak/singularity_recipes/ggplot2/2018-02-15-73627a05-d75eecbd/
+datalad_url: https://datasets.datalad.org?dir=/shub/endrebak/singularity_recipes/ggplot2/2018-02-15-73627a05-d75eecbd/
 recipe: https://datasets.datalad.org/shub/endrebak/singularity_recipes/ggplot2/2018-02-15-73627a05-d75eecbd/Singularity
 collection: endrebak/singularity_recipes
 ---

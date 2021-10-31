@@ -9,7 +9,7 @@ build_date: "2021-04-04T00:03:12.943Z"
 size_mb: 331
 size: 51599774
 sif: "https://datasets.datalad.org/shub/vsoch/singularity-hello-world/master/2021-04-04-54c13f6f-7e5f47bb/7e5f47bb07de3da9105896c1b1a61ea7.img.gz"
-url: https://datasets.datalad.org/shub/vsoch/singularity-hello-world/master/2021-04-04-54c13f6f-7e5f47bb/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/singularity-hello-world/master/2021-04-04-54c13f6f-7e5f47bb/
 recipe: https://datasets.datalad.org/shub/vsoch/singularity-hello-world/master/2021-04-04-54c13f6f-7e5f47bb/Singularity
 collection: vsoch/singularity-hello-world
 ---

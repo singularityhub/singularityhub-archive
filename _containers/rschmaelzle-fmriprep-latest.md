@@ -9,7 +9,7 @@ build_date: "2019-08-26T14:32:36.023Z"
 size_mb: 10426
 size: 4396929055
 sif: "https://datasets.datalad.org/shub/rschmaelzle/fmriprep/latest/2019-08-26-c8bcd013-0bdf7904/0bdf790401c293e0812b997acff6a0cc.simg"
-url: https://datasets.datalad.org/shub/rschmaelzle/fmriprep/latest/2019-08-26-c8bcd013-0bdf7904/
+datalad_url: https://datasets.datalad.org?dir=/shub/rschmaelzle/fmriprep/latest/2019-08-26-c8bcd013-0bdf7904/
 recipe: https://datasets.datalad.org/shub/rschmaelzle/fmriprep/latest/2019-08-26-c8bcd013-0bdf7904/Singularity
 collection: rschmaelzle/fmriprep
 ---

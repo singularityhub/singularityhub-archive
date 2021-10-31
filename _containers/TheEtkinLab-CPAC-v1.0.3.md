@@ -9,7 +9,7 @@ build_date: "2018-03-25T21:23:38.193Z"
 size_mb: 3616
 size: 1499508767
 sif: "https://datasets.datalad.org/shub/TheEtkinLab/CPAC/v1.0.3/2018-03-25-871f75dc-6662e1b3/6662e1b39cf703840031202981aa2507.simg"
-url: https://datasets.datalad.org/shub/TheEtkinLab/CPAC/v1.0.3/2018-03-25-871f75dc-6662e1b3/
+datalad_url: https://datasets.datalad.org?dir=/shub/TheEtkinLab/CPAC/v1.0.3/2018-03-25-871f75dc-6662e1b3/
 recipe: https://datasets.datalad.org/shub/TheEtkinLab/CPAC/v1.0.3/2018-03-25-871f75dc-6662e1b3/Singularity
 collection: TheEtkinLab/CPAC
 ---

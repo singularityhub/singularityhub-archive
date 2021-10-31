@@ -9,7 +9,7 @@ build_date: "2019-11-12T23:01:50.279Z"
 size_mb: 3678.0
 size: 2467729439
 sif: "https://datasets.datalad.org/shub/ml4ai/UA-hpc-containers/pytorch/2019-11-12-834a85bc-c89ea6d3/c89ea6d3346f3507de23616a84843c4e.sif"
-url: https://datasets.datalad.org/shub/ml4ai/UA-hpc-containers/pytorch/2019-11-12-834a85bc-c89ea6d3/
+datalad_url: https://datasets.datalad.org?dir=/shub/ml4ai/UA-hpc-containers/pytorch/2019-11-12-834a85bc-c89ea6d3/
 recipe: https://datasets.datalad.org/shub/ml4ai/UA-hpc-containers/pytorch/2019-11-12-834a85bc-c89ea6d3/Singularity
 collection: ml4ai/UA-hpc-containers
 ---

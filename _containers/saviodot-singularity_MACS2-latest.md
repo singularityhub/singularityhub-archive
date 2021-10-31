@@ -9,7 +9,7 @@ build_date: "2021-03-25T17:05:09.152Z"
 size_mb: 994.0
 size: 348110879
 sif: "https://datasets.datalad.org/shub/saviodot/singularity_MACS2/latest/2021-03-25-829e4bfc-0522b36d/0522b36ddbe9fee52b7203aed5054944.sif"
-url: https://datasets.datalad.org/shub/saviodot/singularity_MACS2/latest/2021-03-25-829e4bfc-0522b36d/
+datalad_url: https://datasets.datalad.org?dir=/shub/saviodot/singularity_MACS2/latest/2021-03-25-829e4bfc-0522b36d/
 recipe: https://datasets.datalad.org/shub/saviodot/singularity_MACS2/latest/2021-03-25-829e4bfc-0522b36d/Singularity
 collection: saviodot/singularity_MACS2
 ---

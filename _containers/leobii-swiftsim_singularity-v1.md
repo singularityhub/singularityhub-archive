@@ -9,7 +9,7 @@ build_date: "2019-05-04T12:32:43.036Z"
 size_mb: 2313
 size: 729915423
 sif: "https://datasets.datalad.org/shub/leobii/swiftsim_singularity/v1/2019-05-04-9d22ac90-5950df01/5950df010988e54b2b7663df6479ce91.simg"
-url: https://datasets.datalad.org/shub/leobii/swiftsim_singularity/v1/2019-05-04-9d22ac90-5950df01/
+datalad_url: https://datasets.datalad.org?dir=/shub/leobii/swiftsim_singularity/v1/2019-05-04-9d22ac90-5950df01/
 recipe: https://datasets.datalad.org/shub/leobii/swiftsim_singularity/v1/2019-05-04-9d22ac90-5950df01/Singularity
 collection: leobii/swiftsim_singularity
 ---

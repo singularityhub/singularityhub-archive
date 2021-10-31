@@ -9,7 +9,7 @@ build_date: "2021-03-12T01:20:39.715Z"
 size_mb: 1278
 size: 456691743
 sif: "https://datasets.datalad.org/shub/GreenwoodLab/pcev_pipelineCBRAIN/pcev_v1.0/2021-03-12-df740bbe-f541c966/f541c966553b13a5ce4d95cc096422ba.simg"
-url: https://datasets.datalad.org/shub/GreenwoodLab/pcev_pipelineCBRAIN/pcev_v1.0/2021-03-12-df740bbe-f541c966/
+datalad_url: https://datasets.datalad.org?dir=/shub/GreenwoodLab/pcev_pipelineCBRAIN/pcev_v1.0/2021-03-12-df740bbe-f541c966/
 recipe: https://datasets.datalad.org/shub/GreenwoodLab/pcev_pipelineCBRAIN/pcev_v1.0/2021-03-12-df740bbe-f541c966/Singularity
 collection: GreenwoodLab/pcev_pipelineCBRAIN
 ---

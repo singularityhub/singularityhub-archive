@@ -9,7 +9,7 @@ build_date: "2020-05-06T02:34:20.579Z"
 size_mb: 3633
 size: 811122719
 sif: "https://datasets.datalad.org/shub/marcc-hpc/cdo/latest/2020-05-06-da61ef06-2f90055c/2f90055c474047f2b671c6978bf342ce.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/cdo/latest/2020-05-06-da61ef06-2f90055c/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/cdo/latest/2020-05-06-da61ef06-2f90055c/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/cdo/latest/2020-05-06-da61ef06-2f90055c/Singularity
 collection: marcc-hpc/cdo
 ---

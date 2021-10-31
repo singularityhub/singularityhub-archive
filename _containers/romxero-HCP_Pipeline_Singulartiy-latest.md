@@ -9,7 +9,7 @@ build_date: "2021-03-29T19:07:26.113Z"
 size_mb: 27971
 size: 14069002271
 sif: "https://datasets.datalad.org/shub/romxero/HCP_Pipeline_Singulartiy/latest/2021-03-29-f31fcf87-a93add5e/a93add5e33a5301db080b8bf2e9143e1.simg"
-url: https://datasets.datalad.org/shub/romxero/HCP_Pipeline_Singulartiy/latest/2021-03-29-f31fcf87-a93add5e/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/HCP_Pipeline_Singulartiy/latest/2021-03-29-f31fcf87-a93add5e/
 recipe: https://datasets.datalad.org/shub/romxero/HCP_Pipeline_Singulartiy/latest/2021-03-29-f31fcf87-a93add5e/Singularity
 collection: romxero/HCP_Pipeline_Singulartiy
 ---

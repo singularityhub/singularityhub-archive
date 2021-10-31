@@ -9,7 +9,7 @@ build_date: "2018-10-16T23:20:50.042Z"
 size_mb: 1490
 size: 522801183
 sif: "https://datasets.datalad.org/shub/Amjadhpc/PHEnix/6.0/2018-10-16-f5f6d059-5a9d0d66/5a9d0d6634fff2e2757e58b61b01f8dc.simg"
-url: https://datasets.datalad.org/shub/Amjadhpc/PHEnix/6.0/2018-10-16-f5f6d059-5a9d0d66/
+datalad_url: https://datasets.datalad.org?dir=/shub/Amjadhpc/PHEnix/6.0/2018-10-16-f5f6d059-5a9d0d66/
 recipe: https://datasets.datalad.org/shub/Amjadhpc/PHEnix/6.0/2018-10-16-f5f6d059-5a9d0d66/Singularity
 collection: Amjadhpc/PHEnix
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-10T02:08:53.473Z"
 size_mb: 4002.0
 size: 1329528863
 sif: "https://datasets.datalad.org/shub/Drew-Oli/Singularity_containers/bioconductor_3.9/2020-08-10-10fdeee6-1be635ba/1be635ba3429a7984624e600a1bc8f34.sif"
-url: https://datasets.datalad.org/shub/Drew-Oli/Singularity_containers/bioconductor_3.9/2020-08-10-10fdeee6-1be635ba/
+datalad_url: https://datasets.datalad.org?dir=/shub/Drew-Oli/Singularity_containers/bioconductor_3.9/2020-08-10-10fdeee6-1be635ba/
 recipe: https://datasets.datalad.org/shub/Drew-Oli/Singularity_containers/bioconductor_3.9/2020-08-10-10fdeee6-1be635ba/Singularity
 collection: Drew-Oli/Singularity_containers
 ---

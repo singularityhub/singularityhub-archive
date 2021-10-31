@@ -9,7 +9,7 @@ build_date: "2018-10-16T23:20:45.484Z"
 size_mb: 11332
 size: 5172973599
 sif: "https://datasets.datalad.org/shub/khanlab/diffparc-sumo/v0.0.1e/2018-10-16-5a6dbb1d-99f6840d/99f6840d75885d73a97c7bf82b156d87.simg"
-url: https://datasets.datalad.org/shub/khanlab/diffparc-sumo/v0.0.1e/2018-10-16-5a6dbb1d-99f6840d/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/diffparc-sumo/v0.0.1e/2018-10-16-5a6dbb1d-99f6840d/
 recipe: https://datasets.datalad.org/shub/khanlab/diffparc-sumo/v0.0.1e/2018-10-16-5a6dbb1d-99f6840d/Singularity
 collection: khanlab/diffparc-sumo
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-14T21:52:55.114Z"
 size_mb: 3297.0
 size: 1263816735
 sif: "https://datasets.datalad.org/shub/motroy/singularity-mompS/latest/2020-12-14-d5828aca-4de65854/4de65854950c09626c778e999c2e1287.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-mompS/latest/2020-12-14-d5828aca-4de65854/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-mompS/latest/2020-12-14-d5828aca-4de65854/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-mompS/latest/2020-12-14-d5828aca-4de65854/Singularity
 collection: motroy/singularity-mompS
 ---

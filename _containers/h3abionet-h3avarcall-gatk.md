@@ -9,7 +9,7 @@ build_date: "2021-01-18T11:11:56.394Z"
 size_mb: 1254.0
 size: 709025823
 sif: "https://datasets.datalad.org/shub/h3abionet/h3avarcall/gatk/2021-01-18-7574717a-d7ec8923/d7ec8923dd2d780dd77f1c313ceb3260.sif"
-url: https://datasets.datalad.org/shub/h3abionet/h3avarcall/gatk/2021-01-18-7574717a-d7ec8923/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/h3avarcall/gatk/2021-01-18-7574717a-d7ec8923/
 recipe: https://datasets.datalad.org/shub/h3abionet/h3avarcall/gatk/2021-01-18-7574717a-d7ec8923/Singularity
 collection: h3abionet/h3avarcall
 ---

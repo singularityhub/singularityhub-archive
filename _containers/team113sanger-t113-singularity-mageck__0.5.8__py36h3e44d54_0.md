@@ -9,7 +9,7 @@ build_date: "2019-07-31T13:38:54.817Z"
 size_mb: 1149
 size: 373329951
 sif: "https://datasets.datalad.org/shub/team113sanger/t113-singularity/mageck__0.5.8__py36h3e44d54_0/2019-07-31-85a1cdab-16cb3f9d/16cb3f9df04604e4a64649b0e05488cd.simg"
-url: https://datasets.datalad.org/shub/team113sanger/t113-singularity/mageck__0.5.8__py36h3e44d54_0/2019-07-31-85a1cdab-16cb3f9d/
+datalad_url: https://datasets.datalad.org?dir=/shub/team113sanger/t113-singularity/mageck__0.5.8__py36h3e44d54_0/2019-07-31-85a1cdab-16cb3f9d/
 recipe: https://datasets.datalad.org/shub/team113sanger/t113-singularity/mageck__0.5.8__py36h3e44d54_0/2019-07-31-85a1cdab-16cb3f9d/Singularity
 collection: team113sanger/t113-singularity
 ---

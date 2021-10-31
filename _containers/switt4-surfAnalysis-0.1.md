@@ -9,7 +9,7 @@ build_date: "2019-03-20T08:24:17.205Z"
 size_mb: 9575
 size: 4171350047
 sif: "https://datasets.datalad.org/shub/switt4/surfAnalysis/0.1/2019-03-20-12991631-2da73f96/2da73f96102317037cdc6b15b0849886.simg"
-url: https://datasets.datalad.org/shub/switt4/surfAnalysis/0.1/2019-03-20-12991631-2da73f96/
+datalad_url: https://datasets.datalad.org?dir=/shub/switt4/surfAnalysis/0.1/2019-03-20-12991631-2da73f96/
 recipe: https://datasets.datalad.org/shub/switt4/surfAnalysis/0.1/2019-03-20-12991631-2da73f96/Singularity
 collection: switt4/surfAnalysis
 ---

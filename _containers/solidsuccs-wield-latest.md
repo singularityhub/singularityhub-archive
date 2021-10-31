@@ -9,7 +9,7 @@ build_date: "2019-11-08T18:24:10.215Z"
 size_mb: 399.0
 size: 146329631
 sif: "https://datasets.datalad.org/shub/solidsuccs/wield/latest/2019-11-08-4109ea34-42e48871/42e488712f2091ae941c878aaa70a2b8.sif"
-url: https://datasets.datalad.org/shub/solidsuccs/wield/latest/2019-11-08-4109ea34-42e48871/
+datalad_url: https://datasets.datalad.org?dir=/shub/solidsuccs/wield/latest/2019-11-08-4109ea34-42e48871/
 recipe: https://datasets.datalad.org/shub/solidsuccs/wield/latest/2019-11-08-4109ea34-42e48871/Singularity
 collection: solidsuccs/wield
 ---

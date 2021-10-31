@@ -9,7 +9,7 @@ build_date: "2019-06-04T21:29:58.322Z"
 size_mb: 2861
 size: 1008840735
 sif: "https://datasets.datalad.org/shub/JCSDA/singularity/academy/2019-06-04-1dc081e0-1123ce0d/1123ce0d51e62aeda7461bc714bcb528.simg"
-url: https://datasets.datalad.org/shub/JCSDA/singularity/academy/2019-06-04-1dc081e0-1123ce0d/
+datalad_url: https://datasets.datalad.org?dir=/shub/JCSDA/singularity/academy/2019-06-04-1dc081e0-1123ce0d/
 recipe: https://datasets.datalad.org/shub/JCSDA/singularity/academy/2019-06-04-1dc081e0-1123ce0d/Singularity
 collection: JCSDA/singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-11-02T21:54:06.201Z"
 size_mb: 611.68359375
 size: 641396736
 sif: "https://datasets.datalad.org/shub/thomas-robinson/fms_containers/fms-gcc10-openmpi-netcdf4.6.3-ubuntu-compile/2020-11-02-cfe1cb6c-5c983505/5c983505096d9df0cd5ca5e652e23abe5fa91ec3169c082abc8bea5ec9decc61.sif"
-url: https://datasets.datalad.org/shub/thomas-robinson/fms_containers/fms-gcc10-openmpi-netcdf4.6.3-ubuntu-compile/2020-11-02-cfe1cb6c-5c983505/
+datalad_url: https://datasets.datalad.org?dir=/shub/thomas-robinson/fms_containers/fms-gcc10-openmpi-netcdf4.6.3-ubuntu-compile/2020-11-02-cfe1cb6c-5c983505/
 recipe: https://datasets.datalad.org/shub/thomas-robinson/fms_containers/fms-gcc10-openmpi-netcdf4.6.3-ubuntu-compile/2020-11-02-cfe1cb6c-5c983505/Singularity
 collection: thomas-robinson/fms_containers
 ---

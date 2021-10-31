@@ -9,7 +9,7 @@ build_date: "2021-03-31T09:53:16.971Z"
 size_mb: 1186.0
 size: 543580191
 sif: "https://datasets.datalad.org/shub/kristinebilgrav/Jitterbug/latest/2021-03-31-5b9ecf0a-5a9bdc49/5a9bdc4914feaa432daba9bd640482e8.sif"
-url: https://datasets.datalad.org/shub/kristinebilgrav/Jitterbug/latest/2021-03-31-5b9ecf0a-5a9bdc49/
+datalad_url: https://datasets.datalad.org?dir=/shub/kristinebilgrav/Jitterbug/latest/2021-03-31-5b9ecf0a-5a9bdc49/
 recipe: https://datasets.datalad.org/shub/kristinebilgrav/Jitterbug/latest/2021-03-31-5b9ecf0a-5a9bdc49/Singularity
 collection: kristinebilgrav/Jitterbug
 ---

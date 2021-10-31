@@ -9,7 +9,7 @@ build_date: "2019-02-05T05:54:32.383Z"
 size_mb: 545
 size: 207396895
 sif: "https://datasets.datalad.org/shub/powerPlant/nextgenmap-srf/v0.5.5/2019-02-05-3df23a87-7ec2d4b9/7ec2d4b9c30a90606941c4c0a777bf33.simg"
-url: https://datasets.datalad.org/shub/powerPlant/nextgenmap-srf/v0.5.5/2019-02-05-3df23a87-7ec2d4b9/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/nextgenmap-srf/v0.5.5/2019-02-05-3df23a87-7ec2d4b9/
 recipe: https://datasets.datalad.org/shub/powerPlant/nextgenmap-srf/v0.5.5/2019-02-05-3df23a87-7ec2d4b9/Singularity
 collection: powerPlant/nextgenmap-srf
 ---

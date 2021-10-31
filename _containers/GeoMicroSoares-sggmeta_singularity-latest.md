@@ -9,7 +9,7 @@ build_date: "2018-10-23T17:47:48.160Z"
 size_mb: 6056
 size: 2369478687
 sif: "https://datasets.datalad.org/shub/GeoMicroSoares/sggmeta_singularity/latest/2018-10-23-e568c7ba-0d9d13bb/0d9d13bb9eab9038f3db07602b44e618.simg"
-url: https://datasets.datalad.org/shub/GeoMicroSoares/sggmeta_singularity/latest/2018-10-23-e568c7ba-0d9d13bb/
+datalad_url: https://datasets.datalad.org?dir=/shub/GeoMicroSoares/sggmeta_singularity/latest/2018-10-23-e568c7ba-0d9d13bb/
 recipe: https://datasets.datalad.org/shub/GeoMicroSoares/sggmeta_singularity/latest/2018-10-23-e568c7ba-0d9d13bb/Singularity
 collection: GeoMicroSoares/sggmeta_singularity
 ---

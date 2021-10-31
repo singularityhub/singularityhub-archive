@@ -9,7 +9,7 @@ build_date: "2019-06-26T22:56:22.144Z"
 size_mb: 9462
 size: 4574941215
 sif: "https://datasets.datalad.org/shub/shreyaskamathkm/Singularity/latest/2019-06-26-bcdb8288-e5c647b6/e5c647b6220e97c665c0b025997b3c24.simg"
-url: https://datasets.datalad.org/shub/shreyaskamathkm/Singularity/latest/2019-06-26-bcdb8288-e5c647b6/
+datalad_url: https://datasets.datalad.org?dir=/shub/shreyaskamathkm/Singularity/latest/2019-06-26-bcdb8288-e5c647b6/
 recipe: https://datasets.datalad.org/shub/shreyaskamathkm/Singularity/latest/2019-06-26-bcdb8288-e5c647b6/Singularity
 collection: shreyaskamathkm/Singularity
 ---

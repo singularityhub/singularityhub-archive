@@ -9,7 +9,7 @@ build_date: "2020-09-14T11:25:31.561Z"
 size_mb: 3322.0
 size: 1475899423
 sif: "https://datasets.datalad.org/shub/markbasham/SeedCoatMap/latest/2020-09-14-800e1a96-9d4a9068/9d4a9068e16b3d3dde6e705f4e080984.sif"
-url: https://datasets.datalad.org/shub/markbasham/SeedCoatMap/latest/2020-09-14-800e1a96-9d4a9068/
+datalad_url: https://datasets.datalad.org?dir=/shub/markbasham/SeedCoatMap/latest/2020-09-14-800e1a96-9d4a9068/
 recipe: https://datasets.datalad.org/shub/markbasham/SeedCoatMap/latest/2020-09-14-800e1a96-9d4a9068/Singularity
 collection: markbasham/SeedCoatMap
 ---

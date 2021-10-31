@@ -9,7 +9,7 @@ build_date: "2018-11-07T13:35:07.928Z"
 size_mb: 2490
 size: 1620709407
 sif: "https://datasets.datalad.org/shub/tonyswoo/naturalbugpatch/latest/2018-11-07-b907ad56-b3426dc2/b3426dc28ac59d26359e806dd0062e12.simg"
-url: https://datasets.datalad.org/shub/tonyswoo/naturalbugpatch/latest/2018-11-07-b907ad56-b3426dc2/
+datalad_url: https://datasets.datalad.org?dir=/shub/tonyswoo/naturalbugpatch/latest/2018-11-07-b907ad56-b3426dc2/
 recipe: https://datasets.datalad.org/shub/tonyswoo/naturalbugpatch/latest/2018-11-07-b907ad56-b3426dc2/Singularity
 collection: tonyswoo/naturalbugpatch
 ---

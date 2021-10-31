@@ -9,7 +9,7 @@ build_date: "2019-04-30T20:21:09.221Z"
 size_mb: 2901
 size: 1248505887
 sif: "https://datasets.datalad.org/shub/kapsakcj/singularities/lyveset.1.1.4f/2019-04-30-a0d2f44f-0848eee9/0848eee9a4a1b5ed141defee44cc9d7b.simg"
-url: https://datasets.datalad.org/shub/kapsakcj/singularities/lyveset.1.1.4f/2019-04-30-a0d2f44f-0848eee9/
+datalad_url: https://datasets.datalad.org?dir=/shub/kapsakcj/singularities/lyveset.1.1.4f/2019-04-30-a0d2f44f-0848eee9/
 recipe: https://datasets.datalad.org/shub/kapsakcj/singularities/lyveset.1.1.4f/2019-04-30-a0d2f44f-0848eee9/Singularity
 collection: kapsakcj/singularities
 ---

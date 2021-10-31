@@ -9,7 +9,7 @@ build_date: "2019-07-25T22:08:04.576Z"
 size_mb: 642.0
 size: 173133855
 sif: "https://datasets.datalad.org/shub/msk-cer/CER_scripts/vep/2019-07-25-64f96076-98cc68e9/98cc68e94721a76fc0ea5ad2e1be6f36.sif"
-url: https://datasets.datalad.org/shub/msk-cer/CER_scripts/vep/2019-07-25-64f96076-98cc68e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/msk-cer/CER_scripts/vep/2019-07-25-64f96076-98cc68e9/
 recipe: https://datasets.datalad.org/shub/msk-cer/CER_scripts/vep/2019-07-25-64f96076-98cc68e9/Singularity
 collection: msk-cer/CER_scripts
 ---

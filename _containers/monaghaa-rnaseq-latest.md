@@ -9,7 +9,7 @@ build_date: "2020-08-28T18:29:33.405Z"
 size_mb: 3624
 size: 1759973407
 sif: "https://datasets.datalad.org/shub/monaghaa/rnaseq/latest/2020-08-28-afd0a9d7-863e93f5/863e93f5337fb6e12c345d46972cd8ae.simg"
-url: https://datasets.datalad.org/shub/monaghaa/rnaseq/latest/2020-08-28-afd0a9d7-863e93f5/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/rnaseq/latest/2020-08-28-afd0a9d7-863e93f5/
 recipe: https://datasets.datalad.org/shub/monaghaa/rnaseq/latest/2020-08-28-afd0a9d7-863e93f5/Singularity
 collection: monaghaa/rnaseq
 ---

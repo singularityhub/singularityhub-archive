@@ -9,7 +9,7 @@ build_date: "2017-11-29T00:37:33.977Z"
 size_mb: 2421
 size: 729284639
 sif: "https://datasets.datalad.org/shub/UNM-CARC/FEniCS/ubuntu/2017-11-29-1e66c00a-c6aada92/c6aada922224535b742acf1eceece0e3.simg"
-url: https://datasets.datalad.org/shub/UNM-CARC/FEniCS/ubuntu/2017-11-29-1e66c00a-c6aada92/
+datalad_url: https://datasets.datalad.org?dir=/shub/UNM-CARC/FEniCS/ubuntu/2017-11-29-1e66c00a-c6aada92/
 recipe: https://datasets.datalad.org/shub/UNM-CARC/FEniCS/ubuntu/2017-11-29-1e66c00a-c6aada92/Singularity
 collection: UNM-CARC/FEniCS
 ---

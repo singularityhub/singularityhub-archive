@@ -9,7 +9,7 @@ build_date: "2019-06-05T18:27:45.579Z"
 size_mb: 1213
 size: 642904095
 sif: "https://datasets.datalad.org/shub/justinblaber/multi_pyspin/1.0.0/2019-06-05-b73aaa7c-a4506430/a450643039e9d6270a7b19655ad581a0.simg"
-url: https://datasets.datalad.org/shub/justinblaber/multi_pyspin/1.0.0/2019-06-05-b73aaa7c-a4506430/
+datalad_url: https://datasets.datalad.org?dir=/shub/justinblaber/multi_pyspin/1.0.0/2019-06-05-b73aaa7c-a4506430/
 recipe: https://datasets.datalad.org/shub/justinblaber/multi_pyspin/1.0.0/2019-06-05-b73aaa7c-a4506430/Singularity
 collection: justinblaber/multi_pyspin
 ---

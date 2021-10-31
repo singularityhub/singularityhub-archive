@@ -9,7 +9,7 @@ build_date: "2021-01-22T11:04:57.358Z"
 size_mb: 921.0
 size: 324546591
 sif: "https://datasets.datalad.org/shub/ComputationalProteomics/OmicLoupe/latest/2021-01-22-e61349a5-f66cee24/f66cee24ceb1c4346c427766a2e5630a.sif"
-url: https://datasets.datalad.org/shub/ComputationalProteomics/OmicLoupe/latest/2021-01-22-e61349a5-f66cee24/
+datalad_url: https://datasets.datalad.org?dir=/shub/ComputationalProteomics/OmicLoupe/latest/2021-01-22-e61349a5-f66cee24/
 recipe: https://datasets.datalad.org/shub/ComputationalProteomics/OmicLoupe/latest/2021-01-22-e61349a5-f66cee24/Singularity
 collection: ComputationalProteomics/OmicLoupe
 ---

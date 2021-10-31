@@ -9,7 +9,7 @@ build_date: "2021-01-18T16:26:43.983Z"
 size_mb: 364.04296875
 size: 381726720
 sif: "https://datasets.datalad.org/shub/shub-fuzz/build-tools/latest/2021-01-18-b7b7d525-3369ab2b/3369ab2b7f664f69a80201893b6cad4003764145accb7df7b56d96dc05a95871.sif"
-url: https://datasets.datalad.org/shub/shub-fuzz/build-tools/latest/2021-01-18-b7b7d525-3369ab2b/
+datalad_url: https://datasets.datalad.org?dir=/shub/shub-fuzz/build-tools/latest/2021-01-18-b7b7d525-3369ab2b/
 recipe: https://datasets.datalad.org/shub/shub-fuzz/build-tools/latest/2021-01-18-b7b7d525-3369ab2b/Singularity
 collection: shub-fuzz/build-tools
 ---

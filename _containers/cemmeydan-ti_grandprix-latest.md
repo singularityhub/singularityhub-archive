@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.746Z"
 size_mb: 2020
 size: 808079391
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_grandprix/latest/2019-04-04-976cd54c-a6875d75/a6875d75ae9799cb96b2c96f2c2bd75a.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_grandprix/latest/2019-04-04-976cd54c-a6875d75/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_grandprix/latest/2019-04-04-976cd54c-a6875d75/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_grandprix/latest/2019-04-04-976cd54c-a6875d75/Singularity
 collection: cemmeydan/ti_grandprix
 ---

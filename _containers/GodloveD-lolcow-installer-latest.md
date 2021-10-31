@@ -9,7 +9,7 @@ build_date: "2021-03-07T10:44:31.429Z"
 size_mb: 253
 size: 101179423
 sif: "https://datasets.datalad.org/shub/GodloveD/lolcow-installer/latest/2021-03-07-554117e7-d0b54f0e/d0b54f0eaac4abd8771b9651f31d513b.simg"
-url: https://datasets.datalad.org/shub/GodloveD/lolcow-installer/latest/2021-03-07-554117e7-d0b54f0e/
+datalad_url: https://datasets.datalad.org?dir=/shub/GodloveD/lolcow-installer/latest/2021-03-07-554117e7-d0b54f0e/
 recipe: https://datasets.datalad.org/shub/GodloveD/lolcow-installer/latest/2021-03-07-554117e7-d0b54f0e/Singularity
 collection: GodloveD/lolcow-installer
 ---

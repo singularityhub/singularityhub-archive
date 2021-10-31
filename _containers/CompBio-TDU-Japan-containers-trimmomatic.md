@@ -9,7 +9,7 @@ build_date: "2018-11-16T10:50:05.350Z"
 size_mb: 111
 size: 73441311
 sif: "https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/trimmomatic/2018-11-16-58478a9f-f2b43e7d/f2b43e7d24aeb87e7f15b975cc561873.simg"
-url: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/trimmomatic/2018-11-16-58478a9f-f2b43e7d/
+datalad_url: https://datasets.datalad.org?dir=/shub/CompBio-TDU-Japan/containers/trimmomatic/2018-11-16-58478a9f-f2b43e7d/
 recipe: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/trimmomatic/2018-11-16-58478a9f-f2b43e7d/Singularity
 collection: CompBio-TDU-Japan/containers
 ---

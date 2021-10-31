@@ -9,7 +9,7 @@ build_date: "2020-06-25T02:03:59.173Z"
 size_mb: 1808.0
 size: 816201759
 sif: "https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/medaka/2020-06-25-f2e080e9-ff384e72/ff384e7241e68f24c957e40759c11e38.sif"
-url: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/medaka/2020-06-25-f2e080e9-ff384e72/
+datalad_url: https://datasets.datalad.org?dir=/shub/rmcolq/Singularity_recipes/medaka/2020-06-25-f2e080e9-ff384e72/
 recipe: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/medaka/2020-06-25-f2e080e9-ff384e72/Singularity
 collection: rmcolq/Singularity_recipes
 ---

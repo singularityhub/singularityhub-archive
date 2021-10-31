@@ -9,7 +9,7 @@ build_date: "2019-01-25T08:49:38.047Z"
 size_mb: 205
 size: 81514527
 sif: "https://datasets.datalad.org/shub/eharkins/singularityhub-test/latest/2019-01-25-ef6f31fa-dd99e54d/dd99e54d3acb90accf4fe52590b23c85.simg"
-url: https://datasets.datalad.org/shub/eharkins/singularityhub-test/latest/2019-01-25-ef6f31fa-dd99e54d/
+datalad_url: https://datasets.datalad.org?dir=/shub/eharkins/singularityhub-test/latest/2019-01-25-ef6f31fa-dd99e54d/
 recipe: https://datasets.datalad.org/shub/eharkins/singularityhub-test/latest/2019-01-25-ef6f31fa-dd99e54d/Singularity
 collection: eharkins/singularityhub-test
 ---

@@ -9,7 +9,7 @@ build_date: "2018-11-17T04:47:28.899Z"
 size_mb: 9196
 size: 6808403999
 sif: "https://datasets.datalad.org/shub/JeffersonLab/remoll/develop/2018-11-17-5006e775-467452ad/467452ad78dd4a1057d9c80292efa768.simg"
-url: https://datasets.datalad.org/shub/JeffersonLab/remoll/develop/2018-11-17-5006e775-467452ad/
+datalad_url: https://datasets.datalad.org?dir=/shub/JeffersonLab/remoll/develop/2018-11-17-5006e775-467452ad/
 recipe: https://datasets.datalad.org/shub/JeffersonLab/remoll/develop/2018-11-17-5006e775-467452ad/Singularity
 collection: JeffersonLab/remoll
 ---

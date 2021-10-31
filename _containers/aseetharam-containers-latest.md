@@ -9,7 +9,7 @@ build_date: "2020-08-02T18:59:25.459Z"
 size_mb: 867.0
 size: 334438431
 sif: "https://datasets.datalad.org/shub/aseetharam/containers/latest/2020-08-02-827f018f-7f83bd2c/7f83bd2cdbe94a14388b893db8007716.sif"
-url: https://datasets.datalad.org/shub/aseetharam/containers/latest/2020-08-02-827f018f-7f83bd2c/
+datalad_url: https://datasets.datalad.org?dir=/shub/aseetharam/containers/latest/2020-08-02-827f018f-7f83bd2c/
 recipe: https://datasets.datalad.org/shub/aseetharam/containers/latest/2020-08-02-827f018f-7f83bd2c/Singularity
 collection: aseetharam/containers
 ---

@@ -9,7 +9,7 @@ build_date: "2018-12-03T17:26:31.312Z"
 size_mb: 537
 size: 187658271
 sif: "https://datasets.datalad.org/shub/HugoMananet/Samtools/samtools.1.9.def/2018-12-03-e30452a4-f7f0a774/f7f0a774efe9cab1c6688287f2b4b055.simg"
-url: https://datasets.datalad.org/shub/HugoMananet/Samtools/samtools.1.9.def/2018-12-03-e30452a4-f7f0a774/
+datalad_url: https://datasets.datalad.org?dir=/shub/HugoMananet/Samtools/samtools.1.9.def/2018-12-03-e30452a4-f7f0a774/
 recipe: https://datasets.datalad.org/shub/HugoMananet/Samtools/samtools.1.9.def/2018-12-03-e30452a4-f7f0a774/Singularity
 collection: HugoMananet/Samtools
 ---

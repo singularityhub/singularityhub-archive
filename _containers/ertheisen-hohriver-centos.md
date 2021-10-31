@@ -9,7 +9,7 @@ build_date: "2019-12-19T20:30:45.778Z"
 size_mb: 11244.0
 size: 4482170911
 sif: "https://datasets.datalad.org/shub/ertheisen/hohriver/centos/2019-12-19-d7747e35-790b15ea/790b15ea8fe1ddecadc20c2fcea0da07.sif"
-url: https://datasets.datalad.org/shub/ertheisen/hohriver/centos/2019-12-19-d7747e35-790b15ea/
+datalad_url: https://datasets.datalad.org?dir=/shub/ertheisen/hohriver/centos/2019-12-19-d7747e35-790b15ea/
 recipe: https://datasets.datalad.org/shub/ertheisen/hohriver/centos/2019-12-19-d7747e35-790b15ea/Singularity
 collection: ertheisen/hohriver
 ---

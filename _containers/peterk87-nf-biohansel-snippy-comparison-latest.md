@@ -9,7 +9,7 @@ build_date: "2019-10-21T15:46:11.674Z"
 size_mb: 3068.0
 size: 1035694111
 sif: "https://datasets.datalad.org/shub/peterk87/nf-biohansel-snippy-comparison/latest/2019-10-21-d063929c-ec3f1588/ec3f1588ecce2e423d0f80441e326139.sif"
-url: https://datasets.datalad.org/shub/peterk87/nf-biohansel-snippy-comparison/latest/2019-10-21-d063929c-ec3f1588/
+datalad_url: https://datasets.datalad.org?dir=/shub/peterk87/nf-biohansel-snippy-comparison/latest/2019-10-21-d063929c-ec3f1588/
 recipe: https://datasets.datalad.org/shub/peterk87/nf-biohansel-snippy-comparison/latest/2019-10-21-d063929c-ec3f1588/Singularity
 collection: peterk87/nf-biohansel-snippy-comparison
 ---

@@ -9,7 +9,7 @@ build_date: "2018-12-12T19:33:34.961Z"
 size_mb: 4236
 size: 2101936159
 sif: "https://datasets.datalad.org/shub/trcook/tf/base/2018-12-12-0df5babe-b908bc7d/b908bc7d9f99697a71f7bd086dcb567c.simg"
-url: https://datasets.datalad.org/shub/trcook/tf/base/2018-12-12-0df5babe-b908bc7d/
+datalad_url: https://datasets.datalad.org?dir=/shub/trcook/tf/base/2018-12-12-0df5babe-b908bc7d/
 recipe: https://datasets.datalad.org/shub/trcook/tf/base/2018-12-12-0df5babe-b908bc7d/Singularity
 collection: trcook/tf
 ---

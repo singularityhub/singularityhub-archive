@@ -9,7 +9,7 @@ build_date: "2021-04-19T19:12:32.597Z"
 size_mb: 734
 size: 316166175
 sif: "https://datasets.datalad.org/shub/romxero/sherlock_www_browsers/firefox_dev/2021-04-19-0d32fcfd-e9bdd2cc/e9bdd2cc44b5c6ddda88fa5538648e27.simg"
-url: https://datasets.datalad.org/shub/romxero/sherlock_www_browsers/firefox_dev/2021-04-19-0d32fcfd-e9bdd2cc/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/sherlock_www_browsers/firefox_dev/2021-04-19-0d32fcfd-e9bdd2cc/
 recipe: https://datasets.datalad.org/shub/romxero/sherlock_www_browsers/firefox_dev/2021-04-19-0d32fcfd-e9bdd2cc/Singularity
 collection: romxero/sherlock_www_browsers
 ---

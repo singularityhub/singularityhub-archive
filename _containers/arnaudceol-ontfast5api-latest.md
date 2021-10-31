@@ -9,7 +9,7 @@ build_date: "2020-03-23T09:59:04.500Z"
 size_mb: 603.0
 size: 254943263
 sif: "https://datasets.datalad.org/shub/arnaudceol/ontfast5api/latest/2020-03-23-2e80ab52-be913c4b/be913c4bc968c0ffa977afa54a7614a4.sif"
-url: https://datasets.datalad.org/shub/arnaudceol/ontfast5api/latest/2020-03-23-2e80ab52-be913c4b/
+datalad_url: https://datasets.datalad.org?dir=/shub/arnaudceol/ontfast5api/latest/2020-03-23-2e80ab52-be913c4b/
 recipe: https://datasets.datalad.org/shub/arnaudceol/ontfast5api/latest/2020-03-23-2e80ab52-be913c4b/Singularity
 collection: arnaudceol/ontfast5api
 ---

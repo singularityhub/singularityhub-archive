@@ -9,7 +9,7 @@ build_date: "2021-03-15T14:22:20.171Z"
 size_mb: 1048.0
 size: 434303007
 sif: "https://datasets.datalad.org/shub/SergFern/RNA_Seq_TCA/def/2021-03-15-9e7937fd-72b8ccd8/72b8ccd8e2772f8566c882c19d33dd10.sif"
-url: https://datasets.datalad.org/shub/SergFern/RNA_Seq_TCA/def/2021-03-15-9e7937fd-72b8ccd8/
+datalad_url: https://datasets.datalad.org?dir=/shub/SergFern/RNA_Seq_TCA/def/2021-03-15-9e7937fd-72b8ccd8/
 recipe: https://datasets.datalad.org/shub/SergFern/RNA_Seq_TCA/def/2021-03-15-9e7937fd-72b8ccd8/Singularity
 collection: SergFern/RNA_Seq_TCA
 ---

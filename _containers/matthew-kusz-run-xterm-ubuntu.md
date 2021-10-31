@@ -9,7 +9,7 @@ build_date: "2019-12-18T20:56:11.728Z"
 size_mb: 196.0
 size: 81715231
 sif: "https://datasets.datalad.org/shub/matthew-kusz/run-xterm/ubuntu/2019-12-18-c8c289c4-a6ecec34/a6ecec34e2d56d6a9fd8200b506dd0dc.sif"
-url: https://datasets.datalad.org/shub/matthew-kusz/run-xterm/ubuntu/2019-12-18-c8c289c4-a6ecec34/
+datalad_url: https://datasets.datalad.org?dir=/shub/matthew-kusz/run-xterm/ubuntu/2019-12-18-c8c289c4-a6ecec34/
 recipe: https://datasets.datalad.org/shub/matthew-kusz/run-xterm/ubuntu/2019-12-18-c8c289c4-a6ecec34/Singularity
 collection: matthew-kusz/run-xterm
 ---

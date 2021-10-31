@@ -9,7 +9,7 @@ build_date: "2018-07-13T21:19:59.938Z"
 size_mb: 1085
 size: 284086303
 sif: "https://datasets.datalad.org/shub/outbackCrustacian/install_MPI_to_Vagrant/derived/2018-07-13-129d921c-e37e50e5/e37e50e5c6db121a522aa98275a8ca61.simg"
-url: https://datasets.datalad.org/shub/outbackCrustacian/install_MPI_to_Vagrant/derived/2018-07-13-129d921c-e37e50e5/
+datalad_url: https://datasets.datalad.org?dir=/shub/outbackCrustacian/install_MPI_to_Vagrant/derived/2018-07-13-129d921c-e37e50e5/
 recipe: https://datasets.datalad.org/shub/outbackCrustacian/install_MPI_to_Vagrant/derived/2018-07-13-129d921c-e37e50e5/Singularity
 collection: outbackCrustacian/install_MPI_to_Vagrant
 ---

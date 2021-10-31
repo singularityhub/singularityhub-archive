@@ -9,7 +9,7 @@ build_date: "2021-03-04T18:06:30.289Z"
 size_mb: 1046
 size: 350425119
 sif: "https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/picard_2-18-15/2021-03-04-261b0ba2-4b6fc9dc/4b6fc9dc7189352ca0578d855ca15733.simg"
-url: https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/picard_2-18-15/2021-03-04-261b0ba2-4b6fc9dc/
+datalad_url: https://datasets.datalad.org?dir=/shub/bballew/NGS_singularity_recipes/picard_2-18-15/2021-03-04-261b0ba2-4b6fc9dc/
 recipe: https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/picard_2-18-15/2021-03-04-261b0ba2-4b6fc9dc/Singularity
 collection: bballew/NGS_singularity_recipes
 ---

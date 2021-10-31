@@ -9,7 +9,7 @@ build_date: "2020-08-13T21:01:33.586Z"
 size_mb: 3287.0
 size: 1322115103
 sif: "https://datasets.datalad.org/shub/motroy/singularity-pyseer/v1.3.6.panaroo.unitigs/2020-08-13-20dfbd42-a2da8549/a2da854934348fede7dcd30fe741c55d.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-pyseer/v1.3.6.panaroo.unitigs/2020-08-13-20dfbd42-a2da8549/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-pyseer/v1.3.6.panaroo.unitigs/2020-08-13-20dfbd42-a2da8549/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-pyseer/v1.3.6.panaroo.unitigs/2020-08-13-20dfbd42-a2da8549/Singularity
 collection: motroy/singularity-pyseer
 ---

@@ -9,7 +9,7 @@ build_date: "2019-08-21T07:31:45.780Z"
 size_mb: 1255.0
 size: 473653279
 sif: "https://datasets.datalad.org/shub/Simontuk/singularity-r/latest/2019-08-21-0c63df49-2094c945/2094c9451da14e245c23ce490917c47b.sif"
-url: https://datasets.datalad.org/shub/Simontuk/singularity-r/latest/2019-08-21-0c63df49-2094c945/
+datalad_url: https://datasets.datalad.org?dir=/shub/Simontuk/singularity-r/latest/2019-08-21-0c63df49-2094c945/
 recipe: https://datasets.datalad.org/shub/Simontuk/singularity-r/latest/2019-08-21-0c63df49-2094c945/Singularity
 collection: Simontuk/singularity-r
 ---

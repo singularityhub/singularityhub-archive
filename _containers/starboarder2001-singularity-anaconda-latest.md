@@ -9,7 +9,7 @@ build_date: "2021-01-25T13:03:04.863Z"
 size_mb: 3685
 size: 1911836703
 sif: "https://datasets.datalad.org/shub/starboarder2001/singularity-anaconda/latest/2021-01-25-269ddbbe-c83cd6de/c83cd6de742f3addae629194ce62d06f.simg"
-url: https://datasets.datalad.org/shub/starboarder2001/singularity-anaconda/latest/2021-01-25-269ddbbe-c83cd6de/
+datalad_url: https://datasets.datalad.org?dir=/shub/starboarder2001/singularity-anaconda/latest/2021-01-25-269ddbbe-c83cd6de/
 recipe: https://datasets.datalad.org/shub/starboarder2001/singularity-anaconda/latest/2021-01-25-269ddbbe-c83cd6de/Singularity
 collection: starboarder2001/singularity-anaconda
 ---

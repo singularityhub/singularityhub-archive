@@ -9,7 +9,7 @@ build_date: "2018-10-12T03:09:53.246Z"
 size_mb: 3085
 size: 1090375711
 sif: "https://datasets.datalad.org/shub/whit2333/container12/latest/2018-10-12-d2a166aa-041f838f/041f838f21f3cc5f3872437000218d82.simg"
-url: https://datasets.datalad.org/shub/whit2333/container12/latest/2018-10-12-d2a166aa-041f838f/
+datalad_url: https://datasets.datalad.org?dir=/shub/whit2333/container12/latest/2018-10-12-d2a166aa-041f838f/
 recipe: https://datasets.datalad.org/shub/whit2333/container12/latest/2018-10-12-d2a166aa-041f838f/Singularity
 collection: whit2333/container12
 ---

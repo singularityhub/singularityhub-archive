@@ -9,7 +9,7 @@ build_date: "2020-09-25T10:21:10.552Z"
 size_mb: 8923.0
 size: 2959970335
 sif: "https://datasets.datalad.org/shub/AndresTanasijczuk/singularity-lscsoft/centos7/2020-09-25-67acdb6d-fac6b8d8/fac6b8d8c4302b4d997822090f1cd334.sif"
-url: https://datasets.datalad.org/shub/AndresTanasijczuk/singularity-lscsoft/centos7/2020-09-25-67acdb6d-fac6b8d8/
+datalad_url: https://datasets.datalad.org?dir=/shub/AndresTanasijczuk/singularity-lscsoft/centos7/2020-09-25-67acdb6d-fac6b8d8/
 recipe: https://datasets.datalad.org/shub/AndresTanasijczuk/singularity-lscsoft/centos7/2020-09-25-67acdb6d-fac6b8d8/Singularity
 collection: AndresTanasijczuk/singularity-lscsoft
 ---

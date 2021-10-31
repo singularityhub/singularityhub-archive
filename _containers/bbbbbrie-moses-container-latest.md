@@ -9,7 +9,7 @@ build_date: "2018-09-26T06:55:03.875Z"
 size_mb: 2004
 size: 813482015
 sif: "https://datasets.datalad.org/shub/bbbbbrie/moses-container/latest/2018-09-26-299683af-16491a4a/16491a4aac1883d8ddbab732e927fb94.simg"
-url: https://datasets.datalad.org/shub/bbbbbrie/moses-container/latest/2018-09-26-299683af-16491a4a/
+datalad_url: https://datasets.datalad.org?dir=/shub/bbbbbrie/moses-container/latest/2018-09-26-299683af-16491a4a/
 recipe: https://datasets.datalad.org/shub/bbbbbrie/moses-container/latest/2018-09-26-299683af-16491a4a/Singularity
 collection: bbbbbrie/moses-container
 ---

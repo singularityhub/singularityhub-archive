@@ -9,7 +9,7 @@ build_date: "2020-05-12T16:39:22.808Z"
 size_mb: 5541
 size: 3440877599
 sif: "https://datasets.datalad.org/shub/jkulhanek/deep-rl-pytorch/latest/2020-05-12-8678d7d6-74033851/74033851c393f63c70aba410737a7bcd.simg"
-url: https://datasets.datalad.org/shub/jkulhanek/deep-rl-pytorch/latest/2020-05-12-8678d7d6-74033851/
+datalad_url: https://datasets.datalad.org?dir=/shub/jkulhanek/deep-rl-pytorch/latest/2020-05-12-8678d7d6-74033851/
 recipe: https://datasets.datalad.org/shub/jkulhanek/deep-rl-pytorch/latest/2020-05-12-8678d7d6-74033851/Singularity
 collection: jkulhanek/deep-rl-pytorch
 ---

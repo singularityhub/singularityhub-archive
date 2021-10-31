@@ -9,7 +9,7 @@ build_date: "2019-04-17T14:28:05.102Z"
 size_mb: 1568
 size: 550219807
 sif: "https://datasets.datalad.org/shub/romxero/flappie_singularity/latest/2019-04-17-1989ba49-d1d36996/d1d3699624b07f28c828f27293805d1a.simg"
-url: https://datasets.datalad.org/shub/romxero/flappie_singularity/latest/2019-04-17-1989ba49-d1d36996/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/flappie_singularity/latest/2019-04-17-1989ba49-d1d36996/
 recipe: https://datasets.datalad.org/shub/romxero/flappie_singularity/latest/2019-04-17-1989ba49-d1d36996/Singularity
 collection: romxero/flappie_singularity
 ---

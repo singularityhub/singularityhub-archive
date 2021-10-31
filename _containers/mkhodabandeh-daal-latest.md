@@ -9,7 +9,7 @@ build_date: "2018-01-13T18:31:12.603Z"
 size_mb: 6946
 size: 2983772191
 sif: "https://datasets.datalad.org/shub/mkhodabandeh/daal/latest/2018-01-13-5541ac26-5e608ea7/5e608ea763cfa8ce88f0543edaaf7489.simg"
-url: https://datasets.datalad.org/shub/mkhodabandeh/daal/latest/2018-01-13-5541ac26-5e608ea7/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkhodabandeh/daal/latest/2018-01-13-5541ac26-5e608ea7/
 recipe: https://datasets.datalad.org/shub/mkhodabandeh/daal/latest/2018-01-13-5541ac26-5e608ea7/Singularity
 collection: mkhodabandeh/daal
 ---

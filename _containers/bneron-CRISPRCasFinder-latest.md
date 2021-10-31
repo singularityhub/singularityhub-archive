@@ -9,7 +9,7 @@ build_date: "2020-12-31T14:33:44.826Z"
 size_mb: 2884
 size: 845594655
 sif: "https://datasets.datalad.org/shub/bneron/CRISPRCasFinder/latest/2020-12-31-d4579927-eab8327f/eab8327f8bf135e25bc0229979e4ebf2.simg"
-url: https://datasets.datalad.org/shub/bneron/CRISPRCasFinder/latest/2020-12-31-d4579927-eab8327f/
+datalad_url: https://datasets.datalad.org?dir=/shub/bneron/CRISPRCasFinder/latest/2020-12-31-d4579927-eab8327f/
 recipe: https://datasets.datalad.org/shub/bneron/CRISPRCasFinder/latest/2020-12-31-d4579927-eab8327f/Singularity
 collection: bneron/CRISPRCasFinder
 ---

@@ -9,7 +9,7 @@ build_date: "2018-03-02T21:00:31.544Z"
 size_mb: 279
 size: 83030047
 sif: "https://datasets.datalad.org/shub/sachinbeepathEC/Singularity/latest/2018-03-02-97fba96c-5090179b/5090179bae4d571514752ac511bf39ca.simg"
-url: https://datasets.datalad.org/shub/sachinbeepathEC/Singularity/latest/2018-03-02-97fba96c-5090179b/
+datalad_url: https://datasets.datalad.org?dir=/shub/sachinbeepathEC/Singularity/latest/2018-03-02-97fba96c-5090179b/
 recipe: https://datasets.datalad.org/shub/sachinbeepathEC/Singularity/latest/2018-03-02-97fba96c-5090179b/Singularity
 collection: sachinbeepathEC/Singularity
 ---

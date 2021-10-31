@@ -9,7 +9,7 @@ build_date: "2019-03-20T16:44:42.974Z"
 size_mb: 4814
 size: 2537947167
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/cartpolebasegpu/2019-03-20-31833c0d-aeac720c/aeac720c3c8f1792d7eed16213d4e043.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/cartpolebasegpu/2019-03-20-31833c0d-aeac720c/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/cartpolebasegpu/2019-03-20-31833c0d-aeac720c/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/cartpolebasegpu/2019-03-20-31833c0d-aeac720c/Singularity
 collection: staeglis/HPOlib2
 ---

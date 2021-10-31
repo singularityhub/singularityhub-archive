@@ -9,7 +9,7 @@ build_date: "2020-09-23T16:45:43.087Z"
 size_mb: 1901.0
 size: 711446559
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/gridss.2.9.4.docker/2020-09-23-9a148692-2a012bbd/2a012bbd82a12deab5e5666a11fbcccf.sif"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/gridss.2.9.4.docker/2020-09-23-9a148692-2a012bbd/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/gridss.2.9.4.docker/2020-09-23-9a148692-2a012bbd/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/gridss.2.9.4.docker/2020-09-23-9a148692-2a012bbd/Singularity
 collection: brucemoran/Singularity
 ---

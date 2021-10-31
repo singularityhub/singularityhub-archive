@@ -9,7 +9,7 @@ build_date: "2018-01-30T14:49:35.398Z"
 size_mb: 766
 size: 300285983
 sif: "https://datasets.datalad.org/shub/maxemil/singularity-container/iqtree/2018-01-30-9633d9a2-a8207348/a8207348b66bc55874a520885ef30263.simg"
-url: https://datasets.datalad.org/shub/maxemil/singularity-container/iqtree/2018-01-30-9633d9a2-a8207348/
+datalad_url: https://datasets.datalad.org?dir=/shub/maxemil/singularity-container/iqtree/2018-01-30-9633d9a2-a8207348/
 recipe: https://datasets.datalad.org/shub/maxemil/singularity-container/iqtree/2018-01-30-9633d9a2-a8207348/Singularity
 collection: maxemil/singularity-container
 ---

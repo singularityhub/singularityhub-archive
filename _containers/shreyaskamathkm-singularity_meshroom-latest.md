@@ -9,7 +9,7 @@ build_date: "2020-10-18T15:58:27.291Z"
 size_mb: 628.0
 size: 207716383
 sif: "https://datasets.datalad.org/shub/shreyaskamathkm/singularity_meshroom/latest/2020-10-18-2061772a-bc250812/bc250812e7ed4d9ecae6b3f65c2d1ee3.sif"
-url: https://datasets.datalad.org/shub/shreyaskamathkm/singularity_meshroom/latest/2020-10-18-2061772a-bc250812/
+datalad_url: https://datasets.datalad.org?dir=/shub/shreyaskamathkm/singularity_meshroom/latest/2020-10-18-2061772a-bc250812/
 recipe: https://datasets.datalad.org/shub/shreyaskamathkm/singularity_meshroom/latest/2020-10-18-2061772a-bc250812/Singularity
 collection: shreyaskamathkm/singularity_meshroom
 ---

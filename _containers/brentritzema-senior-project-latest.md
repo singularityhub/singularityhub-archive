@@ -9,7 +9,7 @@ build_date: "2018-11-15T01:37:41.596Z"
 size_mb: 3094
 size: 1451782175
 sif: "https://datasets.datalad.org/shub/brentritzema/senior-project/latest/2018-11-15-23d84854-8c94046e/8c94046e73ce33be9c97a60da99f75c4.simg"
-url: https://datasets.datalad.org/shub/brentritzema/senior-project/latest/2018-11-15-23d84854-8c94046e/
+datalad_url: https://datasets.datalad.org?dir=/shub/brentritzema/senior-project/latest/2018-11-15-23d84854-8c94046e/
 recipe: https://datasets.datalad.org/shub/brentritzema/senior-project/latest/2018-11-15-23d84854-8c94046e/Singularity
 collection: brentritzema/senior-project
 ---

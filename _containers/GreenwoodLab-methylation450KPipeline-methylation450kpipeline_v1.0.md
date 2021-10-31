@@ -9,7 +9,7 @@ build_date: "2018-09-13T21:15:39.208Z"
 size_mb: 4040
 size: 1583108127
 sif: "https://datasets.datalad.org/shub/GreenwoodLab/methylation450KPipeline/methylation450kpipeline_v1.0/2018-09-13-28a00f26-3dc8a2a1/3dc8a2a11885019d31e575e9a3f53e2a.simg"
-url: https://datasets.datalad.org/shub/GreenwoodLab/methylation450KPipeline/methylation450kpipeline_v1.0/2018-09-13-28a00f26-3dc8a2a1/
+datalad_url: https://datasets.datalad.org?dir=/shub/GreenwoodLab/methylation450KPipeline/methylation450kpipeline_v1.0/2018-09-13-28a00f26-3dc8a2a1/
 recipe: https://datasets.datalad.org/shub/GreenwoodLab/methylation450KPipeline/methylation450kpipeline_v1.0/2018-09-13-28a00f26-3dc8a2a1/Singularity
 collection: GreenwoodLab/methylation450KPipeline
 ---

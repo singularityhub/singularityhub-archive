@@ -9,7 +9,7 @@ build_date: "2020-01-27T09:48:42.752Z"
 size_mb: 4141.0
 size: 1817554975
 sif: "https://datasets.datalad.org/shub/ch-n/DRG_fMRI_Pipeline/latest/2020-01-27-514d7358-2fda5a19/2fda5a19d2cbdc203b51f41b4ab5e63a.sif"
-url: https://datasets.datalad.org/shub/ch-n/DRG_fMRI_Pipeline/latest/2020-01-27-514d7358-2fda5a19/
+datalad_url: https://datasets.datalad.org?dir=/shub/ch-n/DRG_fMRI_Pipeline/latest/2020-01-27-514d7358-2fda5a19/
 recipe: https://datasets.datalad.org/shub/ch-n/DRG_fMRI_Pipeline/latest/2020-01-27-514d7358-2fda5a19/Singularity
 collection: ch-n/DRG_fMRI_Pipeline
 ---

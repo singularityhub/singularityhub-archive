@@ -9,7 +9,7 @@ build_date: "2021-03-15T19:57:40.455Z"
 size_mb: 1667.0
 size: 611991583
 sif: "https://datasets.datalad.org/shub/poojabhat1690/dependencies/latest/2021-03-15-93a993c7-fb4293b4/fb4293b43518eac8d8e1ae98bbc5626d.sif"
-url: https://datasets.datalad.org/shub/poojabhat1690/dependencies/latest/2021-03-15-93a993c7-fb4293b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/poojabhat1690/dependencies/latest/2021-03-15-93a993c7-fb4293b4/
 recipe: https://datasets.datalad.org/shub/poojabhat1690/dependencies/latest/2021-03-15-93a993c7-fb4293b4/Singularity
 collection: poojabhat1690/dependencies
 ---

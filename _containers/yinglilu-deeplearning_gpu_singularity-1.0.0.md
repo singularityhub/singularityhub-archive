@@ -9,7 +9,7 @@ build_date: "2021-03-09T02:54:02.249Z"
 size_mb: 13591
 size: 7488462879
 sif: "https://datasets.datalad.org/shub/yinglilu/deeplearning_gpu_singularity/1.0.0/2021-03-09-d19c14fc-2d811f0b/2d811f0b650938aaab03f1914bfaa5a5.simg"
-url: https://datasets.datalad.org/shub/yinglilu/deeplearning_gpu_singularity/1.0.0/2021-03-09-d19c14fc-2d811f0b/
+datalad_url: https://datasets.datalad.org?dir=/shub/yinglilu/deeplearning_gpu_singularity/1.0.0/2021-03-09-d19c14fc-2d811f0b/
 recipe: https://datasets.datalad.org/shub/yinglilu/deeplearning_gpu_singularity/1.0.0/2021-03-09-d19c14fc-2d811f0b/Singularity
 collection: yinglilu/deeplearning_gpu_singularity
 ---

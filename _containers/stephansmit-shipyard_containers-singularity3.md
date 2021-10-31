@@ -9,7 +9,7 @@ build_date: "2019-08-12T09:46:26.896Z"
 size_mb: 1130.0
 size: 292020255
 sif: "https://datasets.datalad.org/shub/stephansmit/shipyard_containers/singularity3/2019-08-12-a57ef8bf-75055964/75055964bf3132172ab0ff940b2169ae.sif"
-url: https://datasets.datalad.org/shub/stephansmit/shipyard_containers/singularity3/2019-08-12-a57ef8bf-75055964/
+datalad_url: https://datasets.datalad.org?dir=/shub/stephansmit/shipyard_containers/singularity3/2019-08-12-a57ef8bf-75055964/
 recipe: https://datasets.datalad.org/shub/stephansmit/shipyard_containers/singularity3/2019-08-12-a57ef8bf-75055964/Singularity
 collection: stephansmit/shipyard_containers
 ---

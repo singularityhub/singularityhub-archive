@@ -9,7 +9,7 @@ build_date: "2019-05-17T20:05:25.822Z"
 size_mb: 7611
 size: 3050463263
 sif: "https://datasets.datalad.org/shub/dfernandezperez/bioinformatics-singularity/chipseq/2019-05-17-887cfa86-14f8d6ed/14f8d6ed1b4eebcc9a86c2a0fc7a97cf.simg"
-url: https://datasets.datalad.org/shub/dfernandezperez/bioinformatics-singularity/chipseq/2019-05-17-887cfa86-14f8d6ed/
+datalad_url: https://datasets.datalad.org?dir=/shub/dfernandezperez/bioinformatics-singularity/chipseq/2019-05-17-887cfa86-14f8d6ed/
 recipe: https://datasets.datalad.org/shub/dfernandezperez/bioinformatics-singularity/chipseq/2019-05-17-887cfa86-14f8d6ed/Singularity
 collection: dfernandezperez/bioinformatics-singularity
 ---

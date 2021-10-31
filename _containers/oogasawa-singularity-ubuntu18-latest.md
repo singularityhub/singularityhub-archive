@@ -9,7 +9,7 @@ build_date: "2021-03-15T14:48:34.441Z"
 size_mb: 6568.0
 size: 3112894495
 sif: "https://datasets.datalad.org/shub/oogasawa/singularity-ubuntu18/latest/2021-03-15-465022cd-da0eccf6/da0eccf6edaa98237b0e616f7a227e37.sif"
-url: https://datasets.datalad.org/shub/oogasawa/singularity-ubuntu18/latest/2021-03-15-465022cd-da0eccf6/
+datalad_url: https://datasets.datalad.org?dir=/shub/oogasawa/singularity-ubuntu18/latest/2021-03-15-465022cd-da0eccf6/
 recipe: https://datasets.datalad.org/shub/oogasawa/singularity-ubuntu18/latest/2021-03-15-465022cd-da0eccf6/Singularity
 collection: oogasawa/singularity-ubuntu18
 ---

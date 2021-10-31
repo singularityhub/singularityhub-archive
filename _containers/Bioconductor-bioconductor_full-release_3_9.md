@@ -9,7 +9,7 @@ build_date: "2021-01-01T08:23:46.343Z"
 size_mb: 3142
 size: 993144863
 sif: "https://datasets.datalad.org/shub/Bioconductor/bioconductor_full/release_3_9/2021-01-01-8339325a-ff407c44/ff407c443f000e1ae6e264b45fe833ad.simg"
-url: https://datasets.datalad.org/shub/Bioconductor/bioconductor_full/release_3_9/2021-01-01-8339325a-ff407c44/
+datalad_url: https://datasets.datalad.org?dir=/shub/Bioconductor/bioconductor_full/release_3_9/2021-01-01-8339325a-ff407c44/
 recipe: https://datasets.datalad.org/shub/Bioconductor/bioconductor_full/release_3_9/2021-01-01-8339325a-ff407c44/Singularity
 collection: Bioconductor/bioconductor_full
 ---

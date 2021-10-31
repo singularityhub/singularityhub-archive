@@ -9,7 +9,7 @@ build_date: "2020-08-31T15:37:45.194Z"
 size_mb: 7283.0
 size: 4322992159
 sif: "https://datasets.datalad.org/shub/eugtsa/ukb_singularity/stable/2020-08-31-27d50594-81dfd47b/81dfd47b016131f7b9cf0b16b3424963.sif"
-url: https://datasets.datalad.org/shub/eugtsa/ukb_singularity/stable/2020-08-31-27d50594-81dfd47b/
+datalad_url: https://datasets.datalad.org?dir=/shub/eugtsa/ukb_singularity/stable/2020-08-31-27d50594-81dfd47b/
 recipe: https://datasets.datalad.org/shub/eugtsa/ukb_singularity/stable/2020-08-31-27d50594-81dfd47b/Singularity
 collection: eugtsa/ukb_singularity
 ---

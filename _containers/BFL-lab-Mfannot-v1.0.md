@@ -9,7 +9,7 @@ build_date: "2019-03-19T15:51:57.344Z"
 size_mb: 1439
 size: 421740575
 sif: "https://datasets.datalad.org/shub/BFL-lab/Mfannot/v1.0/2019-03-19-6472b973-379e7c76/379e7c764e3af3cd29f97acca1450c47.simg"
-url: https://datasets.datalad.org/shub/BFL-lab/Mfannot/v1.0/2019-03-19-6472b973-379e7c76/
+datalad_url: https://datasets.datalad.org?dir=/shub/BFL-lab/Mfannot/v1.0/2019-03-19-6472b973-379e7c76/
 recipe: https://datasets.datalad.org/shub/BFL-lab/Mfannot/v1.0/2019-03-19-6472b973-379e7c76/Singularity
 collection: BFL-lab/Mfannot
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-27T11:26:49.110Z"
 size_mb: 9510.0
 size: 3523067935
 sif: "https://datasets.datalad.org/shub/ynop/sijasper/latest/2020-01-27-8e3f9fe2-be3e8916/be3e89169c251ab651104d82c6530a42.sif"
-url: https://datasets.datalad.org/shub/ynop/sijasper/latest/2020-01-27-8e3f9fe2-be3e8916/
+datalad_url: https://datasets.datalad.org?dir=/shub/ynop/sijasper/latest/2020-01-27-8e3f9fe2-be3e8916/
 recipe: https://datasets.datalad.org/shub/ynop/sijasper/latest/2020-01-27-8e3f9fe2-be3e8916/Singularity
 collection: ynop/sijasper
 ---

@@ -9,7 +9,7 @@ build_date: "2019-01-18T10:30:23.668Z"
 size_mb: 1255
 size: 416735263
 sif: "https://datasets.datalad.org/shub/TMCantwell/QUfitting_NGC6251/latest/2019-01-18-4d291c45-ba62c0b2/ba62c0b28c383cd9ea3e6a83c181c73e.simg"
-url: https://datasets.datalad.org/shub/TMCantwell/QUfitting_NGC6251/latest/2019-01-18-4d291c45-ba62c0b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/TMCantwell/QUfitting_NGC6251/latest/2019-01-18-4d291c45-ba62c0b2/
 recipe: https://datasets.datalad.org/shub/TMCantwell/QUfitting_NGC6251/latest/2019-01-18-4d291c45-ba62c0b2/Singularity
 collection: TMCantwell/QUfitting_NGC6251
 ---

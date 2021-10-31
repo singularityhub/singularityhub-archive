@@ -9,7 +9,7 @@ build_date: "2018-11-15T15:58:30.229Z"
 size_mb: 76
 size: 27947039
 sif: "https://datasets.datalad.org/shub/rdmelzer/swag_baseline/try/2018-11-15-a4e5a296-109fde35/109fde35e1e5ca284bdad8fd46a0f483.simg"
-url: https://datasets.datalad.org/shub/rdmelzer/swag_baseline/try/2018-11-15-a4e5a296-109fde35/
+datalad_url: https://datasets.datalad.org?dir=/shub/rdmelzer/swag_baseline/try/2018-11-15-a4e5a296-109fde35/
 recipe: https://datasets.datalad.org/shub/rdmelzer/swag_baseline/try/2018-11-15-a4e5a296-109fde35/Singularity
 collection: rdmelzer/swag_baseline
 ---

@@ -9,7 +9,7 @@ build_date: "2018-02-11T21:51:07.432Z"
 size_mb: 600
 size: 260165663
 sif: "https://datasets.datalad.org/shub/vsoch/robotname/latest/2018-02-11-6e120a1b-73e8434c/73e8434cc6c13edcc78cdf6b7c67cd3d.simg"
-url: https://datasets.datalad.org/shub/vsoch/robotname/latest/2018-02-11-6e120a1b-73e8434c/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/robotname/latest/2018-02-11-6e120a1b-73e8434c/
 recipe: https://datasets.datalad.org/shub/vsoch/robotname/latest/2018-02-11-6e120a1b-73e8434c/Singularity
 collection: vsoch/robotname
 ---

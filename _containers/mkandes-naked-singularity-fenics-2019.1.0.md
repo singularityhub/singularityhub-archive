@@ -9,7 +9,7 @@ build_date: "2020-12-29T20:44:07.495Z"
 size_mb: 4605.0
 size: 771588127
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/fenics-2019.1.0/2020-12-29-afe39b7e-6b80f0b1/6b80f0b11f30a522be44c64046d0db6e.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/fenics-2019.1.0/2020-12-29-afe39b7e-6b80f0b1/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/fenics-2019.1.0/2020-12-29-afe39b7e-6b80f0b1/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/fenics-2019.1.0/2020-12-29-afe39b7e-6b80f0b1/Singularity
 collection: mkandes/naked-singularity
 ---

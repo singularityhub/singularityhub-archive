@@ -9,7 +9,7 @@ build_date: "2020-08-18T14:57:44.451Z"
 size_mb: 4471.0
 size: 2223902751
 sif: "https://datasets.datalad.org/shub/uabrc/anaconda3/07/2020-08-18-e9666c7d-ac25b8ca/ac25b8ca675babb2799e45b6ab0a5178.sif"
-url: https://datasets.datalad.org/shub/uabrc/anaconda3/07/2020-08-18-e9666c7d-ac25b8ca/
+datalad_url: https://datasets.datalad.org?dir=/shub/uabrc/anaconda3/07/2020-08-18-e9666c7d-ac25b8ca/
 recipe: https://datasets.datalad.org/shub/uabrc/anaconda3/07/2020-08-18-e9666c7d-ac25b8ca/Singularity
 collection: uabrc/anaconda3
 ---

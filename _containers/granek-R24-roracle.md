@@ -9,7 +9,7 @@ build_date: "2018-04-25T06:48:58.773Z"
 size_mb: 1988
 size: 841273375
 sif: "https://datasets.datalad.org/shub/granek/R24/roracle/2018-04-25-d1cc4135-ea20409b/ea20409bbc713b5c13a2b7ffbfd39497.simg"
-url: https://datasets.datalad.org/shub/granek/R24/roracle/2018-04-25-d1cc4135-ea20409b/
+datalad_url: https://datasets.datalad.org?dir=/shub/granek/R24/roracle/2018-04-25-d1cc4135-ea20409b/
 recipe: https://datasets.datalad.org/shub/granek/R24/roracle/2018-04-25-d1cc4135-ea20409b/Singularity
 collection: granek/R24
 ---

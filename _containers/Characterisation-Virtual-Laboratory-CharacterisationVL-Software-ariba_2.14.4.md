@@ -9,7 +9,7 @@ build_date: "2020-03-02T07:04:30.404Z"
 size_mb: 3548.0
 size: 1455755295
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/ariba_2.14.4/2020-03-02-c13eea8f-9d1ddcb4/9d1ddcb4b4f07ac6d3d089dc46ffeb94.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/ariba_2.14.4/2020-03-02-c13eea8f-9d1ddcb4/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/ariba_2.14.4/2020-03-02-c13eea8f-9d1ddcb4/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/ariba_2.14.4/2020-03-02-c13eea8f-9d1ddcb4/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

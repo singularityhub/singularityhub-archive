@@ -9,7 +9,7 @@ build_date: "2018-03-01T21:03:58.440Z"
 size_mb: 756
 size: 308367391
 sif: "https://datasets.datalad.org/shub/edgano/mBed-nf/latest/2018-03-01-c770be65-dbae5047/dbae504732edc14294ee05239461f818.simg"
-url: https://datasets.datalad.org/shub/edgano/mBed-nf/latest/2018-03-01-c770be65-dbae5047/
+datalad_url: https://datasets.datalad.org?dir=/shub/edgano/mBed-nf/latest/2018-03-01-c770be65-dbae5047/
 recipe: https://datasets.datalad.org/shub/edgano/mBed-nf/latest/2018-03-01-c770be65-dbae5047/Singularity
 collection: edgano/mBed-nf
 ---

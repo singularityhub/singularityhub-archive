@@ -9,7 +9,7 @@ build_date: "2021-02-07T01:39:31.857Z"
 size_mb: 114
 size: 42737695
 sif: "https://datasets.datalad.org/shub/jorgesece/singularity-nginx/latest/2021-02-07-90c4dcd2-1dc35858/1dc35858cfcbb3b5f5ee758b49575c60.simg"
-url: https://datasets.datalad.org/shub/jorgesece/singularity-nginx/latest/2021-02-07-90c4dcd2-1dc35858/
+datalad_url: https://datasets.datalad.org?dir=/shub/jorgesece/singularity-nginx/latest/2021-02-07-90c4dcd2-1dc35858/
 recipe: https://datasets.datalad.org/shub/jorgesece/singularity-nginx/latest/2021-02-07-90c4dcd2-1dc35858/Singularity
 collection: jorgesece/singularity-nginx
 ---

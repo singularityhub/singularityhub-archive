@@ -9,7 +9,7 @@ build_date: "2021-03-05T21:24:48.722Z"
 size_mb: 439.1875
 size: 460521472
 sif: "https://datasets.datalad.org/shub/XSEDE/singularity-nix-openmpi/latest/2021-03-05-659a655f-0f16369e/0f16369e959bf0fa6bdec7395bb6699fbfad1b196e9a9d35944354c9121ec665.sif"
-url: https://datasets.datalad.org/shub/XSEDE/singularity-nix-openmpi/latest/2021-03-05-659a655f-0f16369e/
+datalad_url: https://datasets.datalad.org?dir=/shub/XSEDE/singularity-nix-openmpi/latest/2021-03-05-659a655f-0f16369e/
 recipe: https://datasets.datalad.org/shub/XSEDE/singularity-nix-openmpi/latest/2021-03-05-659a655f-0f16369e/Singularity
 collection: XSEDE/singularity-nix-openmpi
 ---

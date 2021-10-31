@@ -9,7 +9,7 @@ build_date: "2021-02-15T08:50:25.140Z"
 size_mb: 969.0
 size: 400781343
 sif: "https://datasets.datalad.org/shub/hexmek/container/eukrep/2021-02-15-d5fa49a9-c1588c5f/c1588c5f642b25a1fbd773300d79764c.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/eukrep/2021-02-15-d5fa49a9-c1588c5f/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/eukrep/2021-02-15-d5fa49a9-c1588c5f/
 recipe: https://datasets.datalad.org/shub/hexmek/container/eukrep/2021-02-15-d5fa49a9-c1588c5f/Singularity
 collection: hexmek/container
 ---

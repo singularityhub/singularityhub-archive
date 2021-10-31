@@ -9,7 +9,7 @@ build_date: "2020-02-04T01:55:26.941Z"
 size_mb: 672
 size: 214126623
 sif: "https://datasets.datalad.org/shub/alfpark/linpack/latest/2020-02-04-fddc4aa7-da9b774f/da9b774ff1422f4b969654d6e4d37ab9.simg"
-url: https://datasets.datalad.org/shub/alfpark/linpack/latest/2020-02-04-fddc4aa7-da9b774f/
+datalad_url: https://datasets.datalad.org?dir=/shub/alfpark/linpack/latest/2020-02-04-fddc4aa7-da9b774f/
 recipe: https://datasets.datalad.org/shub/alfpark/linpack/latest/2020-02-04-fddc4aa7-da9b774f/Singularity
 collection: alfpark/linpack
 ---

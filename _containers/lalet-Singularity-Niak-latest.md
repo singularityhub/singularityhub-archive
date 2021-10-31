@@ -9,7 +9,7 @@ build_date: "2018-05-31T08:48:56.240Z"
 size_mb: 4607
 size: 1886486559
 sif: "https://datasets.datalad.org/shub/lalet/Singularity-Niak/latest/2018-05-31-ad296fad-48e0560c/48e0560c4d6e90f05e479afe56ed9430.simg"
-url: https://datasets.datalad.org/shub/lalet/Singularity-Niak/latest/2018-05-31-ad296fad-48e0560c/
+datalad_url: https://datasets.datalad.org?dir=/shub/lalet/Singularity-Niak/latest/2018-05-31-ad296fad-48e0560c/
 recipe: https://datasets.datalad.org/shub/lalet/Singularity-Niak/latest/2018-05-31-ad296fad-48e0560c/Singularity
 collection: lalet/Singularity-Niak
 ---

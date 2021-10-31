@@ -9,7 +9,7 @@ build_date: "2017-11-22T15:36:09.798Z"
 size_mb: 345
 size: 96604191
 sif: "https://datasets.datalad.org/shub/netscruff/SingularityTest/latest/2017-11-22-33b495dc-8e27e9e5/8e27e9e5752a837a9051de925f672aea.simg"
-url: https://datasets.datalad.org/shub/netscruff/SingularityTest/latest/2017-11-22-33b495dc-8e27e9e5/
+datalad_url: https://datasets.datalad.org?dir=/shub/netscruff/SingularityTest/latest/2017-11-22-33b495dc-8e27e9e5/
 recipe: https://datasets.datalad.org/shub/netscruff/SingularityTest/latest/2017-11-22-33b495dc-8e27e9e5/Singularity
 collection: netscruff/SingularityTest
 ---

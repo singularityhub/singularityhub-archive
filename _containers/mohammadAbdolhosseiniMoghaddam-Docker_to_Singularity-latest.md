@@ -9,7 +9,7 @@ build_date: "2019-01-23T06:03:11.383Z"
 size_mb: 2013
 size: 789282847
 sif: "https://datasets.datalad.org/shub/mohammadAbdolhosseiniMoghaddam/Docker_to_Singularity/latest/2019-01-23-3b3fe772-155a5a0b/155a5a0b20205870eb1ba6d061fab7f2.simg"
-url: https://datasets.datalad.org/shub/mohammadAbdolhosseiniMoghaddam/Docker_to_Singularity/latest/2019-01-23-3b3fe772-155a5a0b/
+datalad_url: https://datasets.datalad.org?dir=/shub/mohammadAbdolhosseiniMoghaddam/Docker_to_Singularity/latest/2019-01-23-3b3fe772-155a5a0b/
 recipe: https://datasets.datalad.org/shub/mohammadAbdolhosseiniMoghaddam/Docker_to_Singularity/latest/2019-01-23-3b3fe772-155a5a0b/Singularity
 collection: mohammadAbdolhosseiniMoghaddam/Docker_to_Singularity
 ---

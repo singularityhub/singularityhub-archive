@@ -9,7 +9,7 @@ build_date: "2018-02-20T18:48:55.092Z"
 size_mb: 1949
 size: 238116895
 sif: "https://datasets.datalad.org/shub/mheiges/singularity-craig/latest/2018-02-20-326a7080-3089cf00/3089cf00a0ba4a759b45844f9fe8d105.simg"
-url: https://datasets.datalad.org/shub/mheiges/singularity-craig/latest/2018-02-20-326a7080-3089cf00/
+datalad_url: https://datasets.datalad.org?dir=/shub/mheiges/singularity-craig/latest/2018-02-20-326a7080-3089cf00/
 recipe: https://datasets.datalad.org/shub/mheiges/singularity-craig/latest/2018-02-20-326a7080-3089cf00/Singularity
 collection: mheiges/singularity-craig
 ---

@@ -9,7 +9,7 @@ build_date: "2018-09-28T19:48:49.787Z"
 size_mb: 7455
 size: 2399432735
 sif: "https://datasets.datalad.org/shub/mcw-rcc/rstudio-tensorflow/latest/2018-09-28-8fb44fa8-b7735eea/b7735eeab9c8edca6df6a3d312fca1e2.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/rstudio-tensorflow/latest/2018-09-28-8fb44fa8-b7735eea/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/rstudio-tensorflow/latest/2018-09-28-8fb44fa8-b7735eea/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/rstudio-tensorflow/latest/2018-09-28-8fb44fa8-b7735eea/Singularity
 collection: mcw-rcc/rstudio-tensorflow
 ---

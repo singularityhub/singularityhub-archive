@@ -9,7 +9,7 @@ build_date: "2018-08-11T19:03:39.659Z"
 size_mb: 6481
 size: 3072102431
 sif: "https://datasets.datalad.org/shub/adrianpope/singularity_imsim/latest/2018-08-11-025b48b4-7d94a9b3/7d94a9b380d4aae47e27ad9bcef14544.simg"
-url: https://datasets.datalad.org/shub/adrianpope/singularity_imsim/latest/2018-08-11-025b48b4-7d94a9b3/
+datalad_url: https://datasets.datalad.org?dir=/shub/adrianpope/singularity_imsim/latest/2018-08-11-025b48b4-7d94a9b3/
 recipe: https://datasets.datalad.org/shub/adrianpope/singularity_imsim/latest/2018-08-11-025b48b4-7d94a9b3/Singularity
 collection: adrianpope/singularity_imsim
 ---

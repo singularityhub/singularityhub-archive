@@ -9,7 +9,7 @@ build_date: "2020-03-25T06:36:35.729Z"
 size_mb: 830.546875
 size: 870891520
 sif: "https://datasets.datalad.org/shub/kingzhuky/meripseqpipe/latest/2020-03-25-6b7ea0f3-33af030c/33af030c75daac6b13bc816364af04cfa5329ea98d72ac1de0e21c1d5d367b5f.sif"
-url: https://datasets.datalad.org/shub/kingzhuky/meripseqpipe/latest/2020-03-25-6b7ea0f3-33af030c/
+datalad_url: https://datasets.datalad.org?dir=/shub/kingzhuky/meripseqpipe/latest/2020-03-25-6b7ea0f3-33af030c/
 recipe: https://datasets.datalad.org/shub/kingzhuky/meripseqpipe/latest/2020-03-25-6b7ea0f3-33af030c/Singularity
 collection: kingzhuky/meripseqpipe
 ---

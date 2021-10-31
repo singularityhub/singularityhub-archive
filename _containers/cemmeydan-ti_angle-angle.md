@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.868Z"
 size_mb: 2149
 size: 824664095
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_angle/angle/2019-04-04-0380a167-c2aca9a9/c2aca9a9a3dc63f17918507df589e9b0.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_angle/angle/2019-04-04-0380a167-c2aca9a9/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_angle/angle/2019-04-04-0380a167-c2aca9a9/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_angle/angle/2019-04-04-0380a167-c2aca9a9/Singularity
 collection: cemmeydan/ti_angle
 ---

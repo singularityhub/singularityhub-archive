@@ -9,7 +9,7 @@ build_date: "2020-12-29T00:54:00.040Z"
 size_mb: 1520.0
 size: 376254495
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/ubuntu-18.04-mvapich-2.3.2/2020-12-29-00af6ad4-e2c4dbef/e2c4dbef88cee6577ad7895f6ec47a06.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/ubuntu-18.04-mvapich-2.3.2/2020-12-29-00af6ad4-e2c4dbef/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/ubuntu-18.04-mvapich-2.3.2/2020-12-29-00af6ad4-e2c4dbef/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/ubuntu-18.04-mvapich-2.3.2/2020-12-29-00af6ad4-e2c4dbef/Singularity
 collection: mkandes/naked-singularity
 ---

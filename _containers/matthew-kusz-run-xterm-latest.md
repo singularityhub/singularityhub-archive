@@ -9,7 +9,7 @@ build_date: "2019-12-19T14:34:30.406Z"
 size_mb: 406.0
 size: 136499231
 sif: "https://datasets.datalad.org/shub/matthew-kusz/run-xterm/latest/2019-12-19-e84b6f21-7f84c294/7f84c294d0b31964c15c79142c8fd938.sif"
-url: https://datasets.datalad.org/shub/matthew-kusz/run-xterm/latest/2019-12-19-e84b6f21-7f84c294/
+datalad_url: https://datasets.datalad.org?dir=/shub/matthew-kusz/run-xterm/latest/2019-12-19-e84b6f21-7f84c294/
 recipe: https://datasets.datalad.org/shub/matthew-kusz/run-xterm/latest/2019-12-19-e84b6f21-7f84c294/Singularity
 collection: matthew-kusz/run-xterm
 ---

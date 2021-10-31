@@ -9,7 +9,7 @@ build_date: "2020-10-08T08:34:23.826Z"
 size_mb: 5944.0
 size: 2003005471
 sif: "https://datasets.datalad.org/shub/SKA-INAF/caesar-singularity/xenial/2020-10-08-93d8b0ba-2c404ab6/2c404ab6273c0be8fb403af92bde977c.sif"
-url: https://datasets.datalad.org/shub/SKA-INAF/caesar-singularity/xenial/2020-10-08-93d8b0ba-2c404ab6/
+datalad_url: https://datasets.datalad.org?dir=/shub/SKA-INAF/caesar-singularity/xenial/2020-10-08-93d8b0ba-2c404ab6/
 recipe: https://datasets.datalad.org/shub/SKA-INAF/caesar-singularity/xenial/2020-10-08-93d8b0ba-2c404ab6/Singularity
 collection: SKA-INAF/caesar-singularity
 ---

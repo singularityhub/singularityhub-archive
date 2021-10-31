@@ -9,7 +9,7 @@ build_date: "2019-12-04T16:43:36.590Z"
 size_mb: 7465
 size: 3699048479
 sif: "https://datasets.datalad.org/shub/AmirMoMo/pytorch/latest/2019-12-04-35a763f2-b5b61678/b5b616785dfc73d30c94dfd223cfc1c4.simg"
-url: https://datasets.datalad.org/shub/AmirMoMo/pytorch/latest/2019-12-04-35a763f2-b5b61678/
+datalad_url: https://datasets.datalad.org?dir=/shub/AmirMoMo/pytorch/latest/2019-12-04-35a763f2-b5b61678/
 recipe: https://datasets.datalad.org/shub/AmirMoMo/pytorch/latest/2019-12-04-35a763f2-b5b61678/Singularity
 collection: AmirMoMo/pytorch
 ---

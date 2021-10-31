@@ -9,7 +9,7 @@ build_date: "2017-11-28T19:11:34.666Z"
 size_mb: 3830
 size: 1880174623
 sif: "https://datasets.datalad.org/shub/TomaszGolan/mlmpr/caffe-dann-nocudnn/2017-11-28-6b2430ca-eb41bd71/eb41bd713953cdfdc49a50917f202b2f.simg"
-url: https://datasets.datalad.org/shub/TomaszGolan/mlmpr/caffe-dann-nocudnn/2017-11-28-6b2430ca-eb41bd71/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomaszGolan/mlmpr/caffe-dann-nocudnn/2017-11-28-6b2430ca-eb41bd71/
 recipe: https://datasets.datalad.org/shub/TomaszGolan/mlmpr/caffe-dann-nocudnn/2017-11-28-6b2430ca-eb41bd71/Singularity
 collection: TomaszGolan/mlmpr
 ---

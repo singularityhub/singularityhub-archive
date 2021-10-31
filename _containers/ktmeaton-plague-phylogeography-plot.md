@@ -9,7 +9,7 @@ build_date: "2020-10-09T14:29:38.073Z"
 size_mb: 1296.0
 size: 467431455
 sif: "https://datasets.datalad.org/shub/ktmeaton/plague-phylogeography/plot/2020-10-09-e7658c49-ba3e365c/ba3e365ce221dccb73445fcaa2d6336a.sif"
-url: https://datasets.datalad.org/shub/ktmeaton/plague-phylogeography/plot/2020-10-09-e7658c49-ba3e365c/
+datalad_url: https://datasets.datalad.org?dir=/shub/ktmeaton/plague-phylogeography/plot/2020-10-09-e7658c49-ba3e365c/
 recipe: https://datasets.datalad.org/shub/ktmeaton/plague-phylogeography/plot/2020-10-09-e7658c49-ba3e365c/Singularity
 collection: ktmeaton/plague-phylogeography
 ---

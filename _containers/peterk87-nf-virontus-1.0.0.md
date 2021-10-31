@@ -9,7 +9,7 @@ build_date: "2020-06-05T19:31:04.797Z"
 size_mb: 2923.0
 size: 1033728031
 sif: "https://datasets.datalad.org/shub/peterk87/nf-virontus/1.0.0/2020-06-05-048ae79b-5074fc88/5074fc88f5f1d2a6c088e5d4263b2306.sif"
-url: https://datasets.datalad.org/shub/peterk87/nf-virontus/1.0.0/2020-06-05-048ae79b-5074fc88/
+datalad_url: https://datasets.datalad.org?dir=/shub/peterk87/nf-virontus/1.0.0/2020-06-05-048ae79b-5074fc88/
 recipe: https://datasets.datalad.org/shub/peterk87/nf-virontus/1.0.0/2020-06-05-048ae79b-5074fc88/Singularity
 collection: peterk87/nf-virontus
 ---

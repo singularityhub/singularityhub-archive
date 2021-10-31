@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:52.535Z"
 size_mb: 2572.0
 size: 869355551
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/poldracklab-ds003-example--0.0.3/2021-03-19-7b449b4c-832504fd/832504fdccd9ae4971a3082be57dbb08.sif"
-url: https://datasets.datalad.org/shub/ReproNim/containers/poldracklab-ds003-example--0.0.3/2021-03-19-7b449b4c-832504fd/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/poldracklab-ds003-example--0.0.3/2021-03-19-7b449b4c-832504fd/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/poldracklab-ds003-example--0.0.3/2021-03-19-7b449b4c-832504fd/Singularity
 collection: ReproNim/containers
 ---

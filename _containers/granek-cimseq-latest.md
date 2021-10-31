@@ -9,7 +9,7 @@ build_date: "2020-06-27T08:53:01.108Z"
 size_mb: 3769
 size: 1290715167
 sif: "https://datasets.datalad.org/shub/granek/cimseq/latest/2020-06-27-018af957-d83d162d/d83d162d5b4abc31e3072a801fa7c3f0.simg"
-url: https://datasets.datalad.org/shub/granek/cimseq/latest/2020-06-27-018af957-d83d162d/
+datalad_url: https://datasets.datalad.org?dir=/shub/granek/cimseq/latest/2020-06-27-018af957-d83d162d/
 recipe: https://datasets.datalad.org/shub/granek/cimseq/latest/2020-06-27-018af957-d83d162d/Singularity
 collection: granek/cimseq
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-29T05:02:48.458Z"
 size_mb: 7679
 size: 4134178847
 sif: "https://datasets.datalad.org/shub/sinaehsani6/TextProject/latest/2019-04-29-0edcd799-36dae286/36dae2862197dba71c42cb78cc4ddfc9.simg"
-url: https://datasets.datalad.org/shub/sinaehsani6/TextProject/latest/2019-04-29-0edcd799-36dae286/
+datalad_url: https://datasets.datalad.org?dir=/shub/sinaehsani6/TextProject/latest/2019-04-29-0edcd799-36dae286/
 recipe: https://datasets.datalad.org/shub/sinaehsani6/TextProject/latest/2019-04-29-0edcd799-36dae286/Singularity
 collection: sinaehsani6/TextProject
 ---

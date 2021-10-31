@@ -9,7 +9,7 @@ build_date: "2021-03-14T11:53:11.136Z"
 size_mb: 2941.0
 size: 1167896607
 sif: "https://datasets.datalad.org/shub/ghoshmainak/singularity-recipe/mental-ability/2021-03-14-1f630bca-f123ddb5/f123ddb5c25bd83a196ee156c2177c3f.sif"
-url: https://datasets.datalad.org/shub/ghoshmainak/singularity-recipe/mental-ability/2021-03-14-1f630bca-f123ddb5/
+datalad_url: https://datasets.datalad.org?dir=/shub/ghoshmainak/singularity-recipe/mental-ability/2021-03-14-1f630bca-f123ddb5/
 recipe: https://datasets.datalad.org/shub/ghoshmainak/singularity-recipe/mental-ability/2021-03-14-1f630bca-f123ddb5/Singularity
 collection: ghoshmainak/singularity-recipe
 ---

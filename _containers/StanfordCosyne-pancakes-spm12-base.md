@@ -9,7 +9,7 @@ build_date: "2018-02-13T08:25:31.541Z"
 size_mb: 4327
 size: 1861881887
 sif: "https://datasets.datalad.org/shub/StanfordCosyne/pancakes/spm12-base/2018-02-13-c18f9348-e8c42e74/e8c42e74dacf4fca4f07baf9e79c0f3e.simg"
-url: https://datasets.datalad.org/shub/StanfordCosyne/pancakes/spm12-base/2018-02-13-c18f9348-e8c42e74/
+datalad_url: https://datasets.datalad.org?dir=/shub/StanfordCosyne/pancakes/spm12-base/2018-02-13-c18f9348-e8c42e74/
 recipe: https://datasets.datalad.org/shub/StanfordCosyne/pancakes/spm12-base/2018-02-13-c18f9348-e8c42e74/Singularity
 collection: StanfordCosyne/pancakes
 ---

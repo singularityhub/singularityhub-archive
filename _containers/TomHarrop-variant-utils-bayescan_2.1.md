@@ -9,7 +9,7 @@ build_date: "2020-04-30T23:15:51.018Z"
 size_mb: 103.4921875
 size: 108519424
 sif: "https://datasets.datalad.org/shub/TomHarrop/variant-utils/bayescan_2.1/2020-04-30-caa77024-6f6c2c20/6f6c2c2054aaa789a526bedabf9ee6b46d160270127bafb5ba44521ee679a4b0.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/variant-utils/bayescan_2.1/2020-04-30-caa77024-6f6c2c20/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/variant-utils/bayescan_2.1/2020-04-30-caa77024-6f6c2c20/
 recipe: https://datasets.datalad.org/shub/TomHarrop/variant-utils/bayescan_2.1/2020-04-30-caa77024-6f6c2c20/Singularity
 collection: TomHarrop/variant-utils
 ---

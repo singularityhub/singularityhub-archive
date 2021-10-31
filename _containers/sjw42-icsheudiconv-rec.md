@@ -9,7 +9,7 @@ build_date: "2019-12-16T18:50:16.959Z"
 size_mb: 1663.0
 size: 563404831
 sif: "https://datasets.datalad.org/shub/sjw42/icsheudiconv/rec/2019-12-16-afe09f5f-b05ba7ce/b05ba7cedeeb9313854acd63fc8c6a9c.sif"
-url: https://datasets.datalad.org/shub/sjw42/icsheudiconv/rec/2019-12-16-afe09f5f-b05ba7ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/sjw42/icsheudiconv/rec/2019-12-16-afe09f5f-b05ba7ce/
 recipe: https://datasets.datalad.org/shub/sjw42/icsheudiconv/rec/2019-12-16-afe09f5f-b05ba7ce/Singularity
 collection: sjw42/icsheudiconv
 ---

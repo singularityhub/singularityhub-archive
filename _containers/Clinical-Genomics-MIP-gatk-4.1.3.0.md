@@ -9,7 +9,7 @@ build_date: "2020-06-04T09:07:00.075Z"
 size_mb: 1120.0
 size: 603635743
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/gatk-4.1.3.0/2020-06-04-a31c470e-c9abd42a/c9abd42aa6f72509e6265752908599fb.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/gatk-4.1.3.0/2020-06-04-a31c470e-c9abd42a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/gatk-4.1.3.0/2020-06-04-a31c470e-c9abd42a/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/gatk-4.1.3.0/2020-06-04-a31c470e-c9abd42a/Singularity
 collection: Clinical-Genomics/MIP
 ---

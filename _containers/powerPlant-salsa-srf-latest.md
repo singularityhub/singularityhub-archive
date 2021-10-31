@@ -9,7 +9,7 @@ build_date: "2019-02-04T09:08:23.920Z"
 size_mb: 580
 size: 155484191
 sif: "https://datasets.datalad.org/shub/powerPlant/salsa-srf/latest/2019-02-04-69a2f268-d7e01f97/d7e01f97d32fcd13044e374a3d24e6b5.simg"
-url: https://datasets.datalad.org/shub/powerPlant/salsa-srf/latest/2019-02-04-69a2f268-d7e01f97/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/salsa-srf/latest/2019-02-04-69a2f268-d7e01f97/
 recipe: https://datasets.datalad.org/shub/powerPlant/salsa-srf/latest/2019-02-04-69a2f268-d7e01f97/Singularity
 collection: powerPlant/salsa-srf
 ---

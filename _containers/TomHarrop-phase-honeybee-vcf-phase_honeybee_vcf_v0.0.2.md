@@ -9,7 +9,7 @@ build_date: "2020-12-12T05:30:36.187Z"
 size_mb: 635.61328125
 size: 666488832
 sif: "https://datasets.datalad.org/shub/TomHarrop/phase-honeybee-vcf/phase_honeybee_vcf_v0.0.2/2020-12-12-9f96a884-5af932d3/5af932d302d204533c8cc9fa6bf828de22d9632f48c2214da922a5e88d83e58e.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/phase-honeybee-vcf/phase_honeybee_vcf_v0.0.2/2020-12-12-9f96a884-5af932d3/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/phase-honeybee-vcf/phase_honeybee_vcf_v0.0.2/2020-12-12-9f96a884-5af932d3/
 recipe: https://datasets.datalad.org/shub/TomHarrop/phase-honeybee-vcf/phase_honeybee_vcf_v0.0.2/2020-12-12-9f96a884-5af932d3/Singularity
 collection: TomHarrop/phase-honeybee-vcf
 ---

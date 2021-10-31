@@ -9,7 +9,7 @@ build_date: "2021-03-16T12:52:31.468Z"
 size_mb: None
 size: 5167673375
 sif: "https://datasets.datalad.org/shub/tikk3r/lofar-grid-hpccloud/lofar_sksp_base_mkl_cuda/2021-03-16-33acff61-ad306022/ad3060229da7397ffb73516d94349f0b.sif"
-url: https://datasets.datalad.org/shub/tikk3r/lofar-grid-hpccloud/lofar_sksp_base_mkl_cuda/2021-03-16-33acff61-ad306022/
+datalad_url: https://datasets.datalad.org?dir=/shub/tikk3r/lofar-grid-hpccloud/lofar_sksp_base_mkl_cuda/2021-03-16-33acff61-ad306022/
 recipe: https://datasets.datalad.org/shub/tikk3r/lofar-grid-hpccloud/lofar_sksp_base_mkl_cuda/2021-03-16-33acff61-ad306022/Singularity
 collection: tikk3r/lofar-grid-hpccloud
 ---

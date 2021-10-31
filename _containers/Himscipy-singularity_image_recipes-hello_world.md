@@ -9,7 +9,7 @@ build_date: "2019-08-28T16:26:45.703Z"
 size_mb: 607.0
 size: 200523807
 sif: "https://datasets.datalad.org/shub/Himscipy/singularity_image_recipes/hello_world/2019-08-28-c02bf5c8-e79f17c8/e79f17c853fa4da24a2f09ee28a7aead.sif"
-url: https://datasets.datalad.org/shub/Himscipy/singularity_image_recipes/hello_world/2019-08-28-c02bf5c8-e79f17c8/
+datalad_url: https://datasets.datalad.org?dir=/shub/Himscipy/singularity_image_recipes/hello_world/2019-08-28-c02bf5c8-e79f17c8/
 recipe: https://datasets.datalad.org/shub/Himscipy/singularity_image_recipes/hello_world/2019-08-28-c02bf5c8-e79f17c8/Singularity
 collection: Himscipy/singularity_image_recipes
 ---

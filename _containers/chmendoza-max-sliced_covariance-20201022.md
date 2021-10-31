@@ -9,7 +9,7 @@ build_date: "2020-09-24T02:40:47.161Z"
 size_mb: 3673.0
 size: 1873219615
 sif: "https://datasets.datalad.org/shub/chmendoza/max-sliced_covariance/20201022/2020-09-24-ee77a231-92c8acc8/92c8acc85b473f1ad2ab77c29570502c.sif"
-url: https://datasets.datalad.org/shub/chmendoza/max-sliced_covariance/20201022/2020-09-24-ee77a231-92c8acc8/
+datalad_url: https://datasets.datalad.org?dir=/shub/chmendoza/max-sliced_covariance/20201022/2020-09-24-ee77a231-92c8acc8/
 recipe: https://datasets.datalad.org/shub/chmendoza/max-sliced_covariance/20201022/2020-09-24-ee77a231-92c8acc8/Singularity
 collection: chmendoza/max-sliced_covariance
 ---

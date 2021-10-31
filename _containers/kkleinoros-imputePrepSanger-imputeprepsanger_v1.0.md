@@ -9,7 +9,7 @@ build_date: "2018-08-30T10:21:13.089Z"
 size_mb: 6147
 size: 1699786783
 sif: "https://datasets.datalad.org/shub/kkleinoros/imputePrepSanger/imputeprepsanger_v1.0/2018-08-30-8b90c844-f94e5ced/f94e5ced2d72d2d1c4287e2e5ff3d48c.simg"
-url: https://datasets.datalad.org/shub/kkleinoros/imputePrepSanger/imputeprepsanger_v1.0/2018-08-30-8b90c844-f94e5ced/
+datalad_url: https://datasets.datalad.org?dir=/shub/kkleinoros/imputePrepSanger/imputeprepsanger_v1.0/2018-08-30-8b90c844-f94e5ced/
 recipe: https://datasets.datalad.org/shub/kkleinoros/imputePrepSanger/imputeprepsanger_v1.0/2018-08-30-8b90c844-f94e5ced/Singularity
 collection: kkleinoros/imputePrepSanger
 ---

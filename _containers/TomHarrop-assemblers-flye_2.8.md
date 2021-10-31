@@ -9,7 +9,7 @@ build_date: "2021-03-15T01:28:36.982Z"
 size_mb: 218.375
 size: 228982784
 sif: "https://datasets.datalad.org/shub/TomHarrop/assemblers/flye_2.8/2021-03-15-e3b37fe1-c278cd12/c278cd1200bf7a187d6c6c65a37aac9bebaf84cda46b498d8b506e0900e9e37f.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assemblers/flye_2.8/2021-03-15-e3b37fe1-c278cd12/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assemblers/flye_2.8/2021-03-15-e3b37fe1-c278cd12/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assemblers/flye_2.8/2021-03-15-e3b37fe1-c278cd12/Singularity
 collection: TomHarrop/assemblers
 ---

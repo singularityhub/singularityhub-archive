@@ -9,7 +9,7 @@ build_date: "2020-09-04T05:45:15.277Z"
 size_mb: 4857.0
 size: 2690301983
 sif: "https://datasets.datalad.org/shub/photocyte/guppy_gpu_singularity/latest/2020-09-04-f6b2028b-d0e782d1/d0e782d17998256b1814a672a22050a3.sif"
-url: https://datasets.datalad.org/shub/photocyte/guppy_gpu_singularity/latest/2020-09-04-f6b2028b-d0e782d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/photocyte/guppy_gpu_singularity/latest/2020-09-04-f6b2028b-d0e782d1/
 recipe: https://datasets.datalad.org/shub/photocyte/guppy_gpu_singularity/latest/2020-09-04-f6b2028b-d0e782d1/Singularity
 collection: photocyte/guppy_gpu_singularity
 ---

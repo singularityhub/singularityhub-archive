@@ -9,7 +9,7 @@ build_date: "2020-08-07T15:28:38.815Z"
 size_mb: 3027.0
 size: 1133670431
 sif: "https://datasets.datalad.org/shub/drewpolasky/r_aci/rec/2020-08-07-24100c55-414a39f8/414a39f8ea5798d283ce20f3a2f51c85.sif"
-url: https://datasets.datalad.org/shub/drewpolasky/r_aci/rec/2020-08-07-24100c55-414a39f8/
+datalad_url: https://datasets.datalad.org?dir=/shub/drewpolasky/r_aci/rec/2020-08-07-24100c55-414a39f8/
 recipe: https://datasets.datalad.org/shub/drewpolasky/r_aci/rec/2020-08-07-24100c55-414a39f8/Singularity
 collection: drewpolasky/r_aci
 ---

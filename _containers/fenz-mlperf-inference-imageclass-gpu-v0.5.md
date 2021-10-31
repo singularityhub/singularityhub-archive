@@ -9,7 +9,7 @@ build_date: "2020-02-29T18:21:00.978Z"
 size_mb: 9334.0
 size: 5359845407
 sif: "https://datasets.datalad.org/shub/fenz/mlperf-inference/imageclass-gpu-v0.5/2020-02-29-5e32fe1b-f5105bf2/f5105bf2f18220afdbdb05762e650a1a.sif"
-url: https://datasets.datalad.org/shub/fenz/mlperf-inference/imageclass-gpu-v0.5/2020-02-29-5e32fe1b-f5105bf2/
+datalad_url: https://datasets.datalad.org?dir=/shub/fenz/mlperf-inference/imageclass-gpu-v0.5/2020-02-29-5e32fe1b-f5105bf2/
 recipe: https://datasets.datalad.org/shub/fenz/mlperf-inference/imageclass-gpu-v0.5/2020-02-29-5e32fe1b-f5105bf2/Singularity
 collection: fenz/mlperf-inference
 ---

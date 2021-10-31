@@ -9,7 +9,7 @@ build_date: "2019-10-02T16:56:42.138Z"
 size_mb: 18022
 size: 7617454111
 sif: "https://datasets.datalad.org/shub/romxero/mrtrix3_singularity/latest/2019-10-02-2b3dfe3a-ee211eda/ee211eda12d12834a56c10c0a1694c1a.simg"
-url: https://datasets.datalad.org/shub/romxero/mrtrix3_singularity/latest/2019-10-02-2b3dfe3a-ee211eda/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/mrtrix3_singularity/latest/2019-10-02-2b3dfe3a-ee211eda/
 recipe: https://datasets.datalad.org/shub/romxero/mrtrix3_singularity/latest/2019-10-02-2b3dfe3a-ee211eda/Singularity
 collection: romxero/mrtrix3_singularity
 ---

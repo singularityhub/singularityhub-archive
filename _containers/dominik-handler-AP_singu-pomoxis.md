@@ -9,7 +9,7 @@ build_date: "2019-04-26T18:57:08.095Z"
 size_mb: 1493
 size: 661401631
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/pomoxis/2019-04-26-7276d9f7-cca21733/cca21733530577d5e56ac683545c56dc.simg"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/pomoxis/2019-04-26-7276d9f7-cca21733/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/pomoxis/2019-04-26-7276d9f7-cca21733/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/pomoxis/2019-04-26-7276d9f7-cca21733/Singularity
 collection: dominik-handler/AP_singu
 ---

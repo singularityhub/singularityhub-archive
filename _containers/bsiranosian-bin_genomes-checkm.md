@@ -9,7 +9,7 @@ build_date: "2021-04-14T23:42:59.510Z"
 size_mb: 2872
 size: 1086980127
 sif: "https://datasets.datalad.org/shub/bsiranosian/bin_genomes/checkm/2021-04-14-dd352b12-aee385ce/aee385ce96858a2fd90a8d561db80d2e.simg"
-url: https://datasets.datalad.org/shub/bsiranosian/bin_genomes/checkm/2021-04-14-dd352b12-aee385ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/bsiranosian/bin_genomes/checkm/2021-04-14-dd352b12-aee385ce/
 recipe: https://datasets.datalad.org/shub/bsiranosian/bin_genomes/checkm/2021-04-14-dd352b12-aee385ce/Singularity
 collection: bsiranosian/bin_genomes
 ---

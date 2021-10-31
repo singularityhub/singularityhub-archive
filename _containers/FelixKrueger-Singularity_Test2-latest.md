@@ -9,7 +9,7 @@ build_date: "2018-09-24T17:40:58.491Z"
 size_mb: 5143
 size: 2211987487
 sif: "https://datasets.datalad.org/shub/FelixKrueger/Singularity_Test2/latest/2018-09-24-c847f32c-e357bad1/e357bad109a7687f8d37661c6dfa53c5.simg"
-url: https://datasets.datalad.org/shub/FelixKrueger/Singularity_Test2/latest/2018-09-24-c847f32c-e357bad1/
+datalad_url: https://datasets.datalad.org?dir=/shub/FelixKrueger/Singularity_Test2/latest/2018-09-24-c847f32c-e357bad1/
 recipe: https://datasets.datalad.org/shub/FelixKrueger/Singularity_Test2/latest/2018-09-24-c847f32c-e357bad1/Singularity
 collection: FelixKrueger/Singularity_Test2
 ---

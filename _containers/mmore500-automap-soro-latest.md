@@ -9,7 +9,7 @@ build_date: "2019-07-27T17:56:20.222Z"
 size_mb: 1106
 size: 433889311
 sif: "https://datasets.datalad.org/shub/mmore500/automap-soro/latest/2019-07-27-0542395c-85bf24ec/85bf24ec0cc43b541eacbd358f858ee1.simg"
-url: https://datasets.datalad.org/shub/mmore500/automap-soro/latest/2019-07-27-0542395c-85bf24ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/mmore500/automap-soro/latest/2019-07-27-0542395c-85bf24ec/
 recipe: https://datasets.datalad.org/shub/mmore500/automap-soro/latest/2019-07-27-0542395c-85bf24ec/Singularity
 collection: mmore500/automap-soro
 ---

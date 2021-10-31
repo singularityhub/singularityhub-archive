@@ -9,7 +9,7 @@ build_date: "2019-12-06T10:37:55.528Z"
 size_mb: 962.73046875
 size: 1009496064
 sif: "https://datasets.datalad.org/shub/MBlaschek/singularity-jupyter/jedi/2019-12-06-ac28c000-a3be88fc/a3be88fc429f7895b41a86f239602d26c1acc266a29817b53d07ec51caf24d70.sif"
-url: https://datasets.datalad.org/shub/MBlaschek/singularity-jupyter/jedi/2019-12-06-ac28c000-a3be88fc/
+datalad_url: https://datasets.datalad.org?dir=/shub/MBlaschek/singularity-jupyter/jedi/2019-12-06-ac28c000-a3be88fc/
 recipe: https://datasets.datalad.org/shub/MBlaschek/singularity-jupyter/jedi/2019-12-06-ac28c000-a3be88fc/Singularity
 collection: MBlaschek/singularity-jupyter
 ---

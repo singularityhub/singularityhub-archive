@@ -9,7 +9,7 @@ build_date: "2021-02-12T10:46:36.911Z"
 size_mb: 10951.0
 size: 4532092959
 sif: "https://datasets.datalad.org/shub/c3se/containers/pytorch-v1.7.0-py3/2021-02-12-fe569af8-8d2c2ca2/8d2c2ca2b10db3b78892d34719bf30ac.sif"
-url: https://datasets.datalad.org/shub/c3se/containers/pytorch-v1.7.0-py3/2021-02-12-fe569af8-8d2c2ca2/
+datalad_url: https://datasets.datalad.org?dir=/shub/c3se/containers/pytorch-v1.7.0-py3/2021-02-12-fe569af8-8d2c2ca2/
 recipe: https://datasets.datalad.org/shub/c3se/containers/pytorch-v1.7.0-py3/2021-02-12-fe569af8-8d2c2ca2/Singularity
 collection: c3se/containers
 ---

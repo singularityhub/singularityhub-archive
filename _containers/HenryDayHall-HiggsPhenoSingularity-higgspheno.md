@@ -9,7 +9,7 @@ build_date: "2019-05-23T03:52:52.876Z"
 size_mb: 393
 size: 139497503
 sif: "https://datasets.datalad.org/shub/HenryDayHall/HiggsPhenoSingularity/higgspheno/2019-05-23-ebeb66a3-b3a2fd71/b3a2fd71b9b2dae098967b40079fe7fe.simg"
-url: https://datasets.datalad.org/shub/HenryDayHall/HiggsPhenoSingularity/higgspheno/2019-05-23-ebeb66a3-b3a2fd71/
+datalad_url: https://datasets.datalad.org?dir=/shub/HenryDayHall/HiggsPhenoSingularity/higgspheno/2019-05-23-ebeb66a3-b3a2fd71/
 recipe: https://datasets.datalad.org/shub/HenryDayHall/HiggsPhenoSingularity/higgspheno/2019-05-23-ebeb66a3-b3a2fd71/Singularity
 collection: HenryDayHall/HiggsPhenoSingularity
 ---

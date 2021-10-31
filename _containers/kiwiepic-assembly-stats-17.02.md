@@ -9,7 +9,7 @@ build_date: "2021-03-17T01:58:12.937Z"
 size_mb: 48.0
 size: 12816415
 sif: "https://datasets.datalad.org/shub/kiwiepic/assembly-stats/17.02/2021-03-17-ec5b221a-74fed75c/74fed75c129efdf09eff0fa41fc06577.sif"
-url: https://datasets.datalad.org/shub/kiwiepic/assembly-stats/17.02/2021-03-17-ec5b221a-74fed75c/
+datalad_url: https://datasets.datalad.org?dir=/shub/kiwiepic/assembly-stats/17.02/2021-03-17-ec5b221a-74fed75c/
 recipe: https://datasets.datalad.org/shub/kiwiepic/assembly-stats/17.02/2021-03-17-ec5b221a-74fed75c/Singularity
 collection: kiwiepic/assembly-stats
 ---

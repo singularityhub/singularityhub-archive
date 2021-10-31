@@ -9,7 +9,7 @@ build_date: "2020-09-22T14:36:26.700Z"
 size_mb: 4580
 size: 2718154783
 sif: "https://datasets.datalad.org/shub/edwardchalstrey1/turingbench/mandelbrot_gpu/2020-09-22-fc40b8ed-998f4d0a/998f4d0ae99c1cc6ef9b90f55ef14675.simg"
-url: https://datasets.datalad.org/shub/edwardchalstrey1/turingbench/mandelbrot_gpu/2020-09-22-fc40b8ed-998f4d0a/
+datalad_url: https://datasets.datalad.org?dir=/shub/edwardchalstrey1/turingbench/mandelbrot_gpu/2020-09-22-fc40b8ed-998f4d0a/
 recipe: https://datasets.datalad.org/shub/edwardchalstrey1/turingbench/mandelbrot_gpu/2020-09-22-fc40b8ed-998f4d0a/Singularity
 collection: edwardchalstrey1/turingbench
 ---

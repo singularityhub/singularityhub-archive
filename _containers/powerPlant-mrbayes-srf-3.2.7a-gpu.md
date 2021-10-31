@@ -9,7 +9,7 @@ build_date: "2019-11-21T08:43:23.627Z"
 size_mb: 89.265625
 size: 93601792
 sif: "https://datasets.datalad.org/shub/powerPlant/mrbayes-srf/3.2.7a-gpu/2019-11-21-0e6fcd3a-d14daca9/d14daca964292075551ab6a655524e89bbe0eb1ba57a344e5a0698ab84e55dbb.sif"
-url: https://datasets.datalad.org/shub/powerPlant/mrbayes-srf/3.2.7a-gpu/2019-11-21-0e6fcd3a-d14daca9/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/mrbayes-srf/3.2.7a-gpu/2019-11-21-0e6fcd3a-d14daca9/
 recipe: https://datasets.datalad.org/shub/powerPlant/mrbayes-srf/3.2.7a-gpu/2019-11-21-0e6fcd3a-d14daca9/Singularity
 collection: powerPlant/mrbayes-srf
 ---

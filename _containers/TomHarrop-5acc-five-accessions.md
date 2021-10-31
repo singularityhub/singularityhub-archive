@@ -9,7 +9,7 @@ build_date: "2019-07-29T03:37:13.925Z"
 size_mb: 885.91796875
 size: 928952320
 sif: "https://datasets.datalad.org/shub/TomHarrop/5acc/five-accessions/2019-07-29-d315e375-43c579c9/43c579c98f1411004ce398c0123a4854dfaa0f5afd2fcc8cee69a3ad61b9eeb0.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/5acc/five-accessions/2019-07-29-d315e375-43c579c9/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/5acc/five-accessions/2019-07-29-d315e375-43c579c9/
 recipe: https://datasets.datalad.org/shub/TomHarrop/5acc/five-accessions/2019-07-29-d315e375-43c579c9/Singularity
 collection: TomHarrop/5acc
 ---

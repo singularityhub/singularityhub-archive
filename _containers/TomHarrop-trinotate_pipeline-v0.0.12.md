@@ -9,7 +9,7 @@ build_date: "2020-12-02T02:08:22.702Z"
 size_mb: 2558.0625
 size: 2682322944
 sif: "https://datasets.datalad.org/shub/TomHarrop/trinotate_pipeline/v0.0.12/2020-12-02-db1df174-1b8ba368/1b8ba3684fca861f0d384b5706b30952a6a4677f6da0dbe24fba402132d73b42.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/trinotate_pipeline/v0.0.12/2020-12-02-db1df174-1b8ba368/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/trinotate_pipeline/v0.0.12/2020-12-02-db1df174-1b8ba368/
 recipe: https://datasets.datalad.org/shub/TomHarrop/trinotate_pipeline/v0.0.12/2020-12-02-db1df174-1b8ba368/Singularity
 collection: TomHarrop/trinotate_pipeline
 ---

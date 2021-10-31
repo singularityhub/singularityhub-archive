@@ -9,7 +9,7 @@ build_date: "2019-06-08T01:44:30.150Z"
 size_mb: 2013
 size: 747745311
 sif: "https://datasets.datalad.org/shub/drewpolasky/vlc_aci/latest/2019-06-08-adfebed4-4dc39c09/4dc39c091e3b224e8c1a6b1e12bedc8e.simg"
-url: https://datasets.datalad.org/shub/drewpolasky/vlc_aci/latest/2019-06-08-adfebed4-4dc39c09/
+datalad_url: https://datasets.datalad.org?dir=/shub/drewpolasky/vlc_aci/latest/2019-06-08-adfebed4-4dc39c09/
 recipe: https://datasets.datalad.org/shub/drewpolasky/vlc_aci/latest/2019-06-08-adfebed4-4dc39c09/Singularity
 collection: drewpolasky/vlc_aci
 ---

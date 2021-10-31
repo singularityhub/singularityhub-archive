@@ -9,7 +9,7 @@ build_date: "2020-09-11T10:40:08.921Z"
 size_mb: 4988.0
 size: 1659641887
 sif: "https://datasets.datalad.org/shub/mattocci27/dockerfiles/def/2020-09-11-9bb314b0-5f7fef71/5f7fef714ac4ed2936492491d4ea5c97.sif"
-url: https://datasets.datalad.org/shub/mattocci27/dockerfiles/def/2020-09-11-9bb314b0-5f7fef71/
+datalad_url: https://datasets.datalad.org?dir=/shub/mattocci27/dockerfiles/def/2020-09-11-9bb314b0-5f7fef71/
 recipe: https://datasets.datalad.org/shub/mattocci27/dockerfiles/def/2020-09-11-9bb314b0-5f7fef71/Singularity
 collection: mattocci27/dockerfiles
 ---

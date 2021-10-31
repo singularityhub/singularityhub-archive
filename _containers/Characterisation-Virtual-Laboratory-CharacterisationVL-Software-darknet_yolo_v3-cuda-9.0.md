@@ -9,7 +9,7 @@ build_date: "2019-05-01T22:22:24.859Z"
 size_mb: 6935
 size: 3381477407
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/darknet_yolo_v3-cuda-9.0/2019-05-01-a4a84554-b5525a96/b5525a96bd255566bbd3e9fb1dd8d135.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/darknet_yolo_v3-cuda-9.0/2019-05-01-a4a84554-b5525a96/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/darknet_yolo_v3-cuda-9.0/2019-05-01-a4a84554-b5525a96/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/darknet_yolo_v3-cuda-9.0/2019-05-01-a4a84554-b5525a96/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

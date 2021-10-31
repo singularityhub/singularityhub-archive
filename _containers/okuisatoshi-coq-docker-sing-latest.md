@@ -9,7 +9,7 @@ build_date: "2019-04-08T08:50:08.518Z"
 size_mb: 1299
 size: 455319583
 sif: "https://datasets.datalad.org/shub/okuisatoshi/coq-docker-sing/latest/2019-04-08-e3d2e2bf-8dec5104/8dec510475df5c093e742ebbb78e3c92.simg"
-url: https://datasets.datalad.org/shub/okuisatoshi/coq-docker-sing/latest/2019-04-08-e3d2e2bf-8dec5104/
+datalad_url: https://datasets.datalad.org?dir=/shub/okuisatoshi/coq-docker-sing/latest/2019-04-08-e3d2e2bf-8dec5104/
 recipe: https://datasets.datalad.org/shub/okuisatoshi/coq-docker-sing/latest/2019-04-08-e3d2e2bf-8dec5104/Singularity
 collection: okuisatoshi/coq-docker-sing
 ---

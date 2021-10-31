@@ -9,7 +9,7 @@ build_date: "2019-01-03T04:17:35.703Z"
 size_mb: 505
 size: 194678815
 sif: "https://datasets.datalad.org/shub/bouthilx/mahler/latest/2019-01-03-9ae6f95b-1571fb7e/1571fb7e19d8b7e9c1017059b9038205.simg"
-url: https://datasets.datalad.org/shub/bouthilx/mahler/latest/2019-01-03-9ae6f95b-1571fb7e/
+datalad_url: https://datasets.datalad.org?dir=/shub/bouthilx/mahler/latest/2019-01-03-9ae6f95b-1571fb7e/
 recipe: https://datasets.datalad.org/shub/bouthilx/mahler/latest/2019-01-03-9ae6f95b-1571fb7e/Singularity
 collection: bouthilx/mahler
 ---

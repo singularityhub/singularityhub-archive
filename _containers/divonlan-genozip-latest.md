@@ -9,7 +9,7 @@ build_date: "2020-04-03T00:14:28.692Z"
 size_mb: 70.0
 size: 25853983
 sif: "https://datasets.datalad.org/shub/divonlan/genozip/latest/2020-04-03-f45684e4-cd4ba278/cd4ba27811a6c26b92d32cd2bba83ba7.sif"
-url: https://datasets.datalad.org/shub/divonlan/genozip/latest/2020-04-03-f45684e4-cd4ba278/
+datalad_url: https://datasets.datalad.org?dir=/shub/divonlan/genozip/latest/2020-04-03-f45684e4-cd4ba278/
 recipe: https://datasets.datalad.org/shub/divonlan/genozip/latest/2020-04-03-f45684e4-cd4ba278/Singularity
 collection: divonlan/genozip
 ---

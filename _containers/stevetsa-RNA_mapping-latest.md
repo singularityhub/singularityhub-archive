@@ -9,7 +9,7 @@ build_date: "2020-01-30T16:24:42.730Z"
 size_mb: 2691
 size: 1426309151
 sif: "https://datasets.datalad.org/shub/stevetsa/RNA_mapping/latest/2020-01-30-ce0973f0-d8664c7e/d8664c7e26d17bc9b50dbb629e405714.simg"
-url: https://datasets.datalad.org/shub/stevetsa/RNA_mapping/latest/2020-01-30-ce0973f0-d8664c7e/
+datalad_url: https://datasets.datalad.org?dir=/shub/stevetsa/RNA_mapping/latest/2020-01-30-ce0973f0-d8664c7e/
 recipe: https://datasets.datalad.org/shub/stevetsa/RNA_mapping/latest/2020-01-30-ce0973f0-d8664c7e/Singularity
 collection: stevetsa/RNA_mapping
 ---

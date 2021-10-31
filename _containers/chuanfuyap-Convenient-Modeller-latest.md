@@ -9,7 +9,7 @@ build_date: "2020-05-11T17:52:32.045Z"
 size_mb: 984.0
 size: 340660255
 sif: "https://datasets.datalad.org/shub/chuanfuyap/Convenient-Modeller/latest/2020-05-11-35c2a468-87030bc6/87030bc6b5ba889a3de3b93223a4e211.sif"
-url: https://datasets.datalad.org/shub/chuanfuyap/Convenient-Modeller/latest/2020-05-11-35c2a468-87030bc6/
+datalad_url: https://datasets.datalad.org?dir=/shub/chuanfuyap/Convenient-Modeller/latest/2020-05-11-35c2a468-87030bc6/
 recipe: https://datasets.datalad.org/shub/chuanfuyap/Convenient-Modeller/latest/2020-05-11-35c2a468-87030bc6/Singularity
 collection: chuanfuyap/Convenient-Modeller
 ---

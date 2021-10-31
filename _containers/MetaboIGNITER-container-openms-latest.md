@@ -9,7 +9,7 @@ build_date: "2020-03-13T13:50:04.852Z"
 size_mb: 3400.0
 size: 1343569951
 sif: "https://datasets.datalad.org/shub/MetaboIGNITER/container-openms/latest/2020-03-13-e613698e-f571fb0b/f571fb0bbafa93a049e952bfbd5d0945.sif"
-url: https://datasets.datalad.org/shub/MetaboIGNITER/container-openms/latest/2020-03-13-e613698e-f571fb0b/
+datalad_url: https://datasets.datalad.org?dir=/shub/MetaboIGNITER/container-openms/latest/2020-03-13-e613698e-f571fb0b/
 recipe: https://datasets.datalad.org/shub/MetaboIGNITER/container-openms/latest/2020-03-13-e613698e-f571fb0b/Singularity
 collection: MetaboIGNITER/container-openms
 ---

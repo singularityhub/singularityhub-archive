@@ -9,7 +9,7 @@ build_date: "2020-08-19T05:43:01.357Z"
 size_mb: 2352.69140625
 size: 2466975744
 sif: "https://datasets.datalad.org/shub/powerPlant/qiime2-srf/2020.6/2020-08-19-196642e9-d1be7050/d1be7050a06770fedd37899512a704548f736e15cc54372df1de6ae65e666153.sif"
-url: https://datasets.datalad.org/shub/powerPlant/qiime2-srf/2020.6/2020-08-19-196642e9-d1be7050/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/qiime2-srf/2020.6/2020-08-19-196642e9-d1be7050/
 recipe: https://datasets.datalad.org/shub/powerPlant/qiime2-srf/2020.6/2020-08-19-196642e9-d1be7050/Singularity
 collection: powerPlant/qiime2-srf
 ---

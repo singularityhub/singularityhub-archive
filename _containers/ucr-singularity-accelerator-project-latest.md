@@ -9,7 +9,7 @@ build_date: "2018-11-17T04:47:35.434Z"
 size_mb: 842
 size: 299630623
 sif: "https://datasets.datalad.org/shub/ucr-singularity/accelerator-project/latest/2018-11-17-c5b5427b-6bc48ca6/6bc48ca625e8a6035373bf8374d38cc4.simg"
-url: https://datasets.datalad.org/shub/ucr-singularity/accelerator-project/latest/2018-11-17-c5b5427b-6bc48ca6/
+datalad_url: https://datasets.datalad.org?dir=/shub/ucr-singularity/accelerator-project/latest/2018-11-17-c5b5427b-6bc48ca6/
 recipe: https://datasets.datalad.org/shub/ucr-singularity/accelerator-project/latest/2018-11-17-c5b5427b-6bc48ca6/Singularity
 collection: ucr-singularity/accelerator-project
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-18T16:41:21.431Z"
 size_mb: 594.0
 size: 187244575
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-tophat2/2.1.1/2020-10-18-cbd0e2d9-1d5b9cfb/1d5b9cfbf932ba0bf95ed166bd0a830d.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-tophat2/2.1.1/2020-10-18-cbd0e2d9-1d5b9cfb/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-tophat2/2.1.1/2020-10-18-cbd0e2d9-1d5b9cfb/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-tophat2/2.1.1/2020-10-18-cbd0e2d9-1d5b9cfb/Singularity
 collection: yh549848/singularity-tophat2
 ---

@@ -9,7 +9,7 @@ build_date: "2018-06-08T05:56:44.707Z"
 size_mb: 1508
 size: 717840415
 sif: "https://datasets.datalad.org/shub/houzhengyang/gears-singularity/gears-pdal/2018-06-08-a8441489-ba600383/ba60038373f1029eb199fc2365c42153.simg"
-url: https://datasets.datalad.org/shub/houzhengyang/gears-singularity/gears-pdal/2018-06-08-a8441489-ba600383/
+datalad_url: https://datasets.datalad.org?dir=/shub/houzhengyang/gears-singularity/gears-pdal/2018-06-08-a8441489-ba600383/
 recipe: https://datasets.datalad.org/shub/houzhengyang/gears-singularity/gears-pdal/2018-06-08-a8441489-ba600383/Singularity
 collection: houzhengyang/gears-singularity
 ---

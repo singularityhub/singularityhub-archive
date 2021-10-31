@@ -9,7 +9,7 @@ build_date: "2018-04-14T23:57:02.012Z"
 size_mb: 208
 size: 92880927
 sif: "https://datasets.datalad.org/shub/pstrz/cMisoKG/ubuntu/2018-04-14-4a1be081-9044d87a/9044d87a67cdba9a9bdcb5b1ec128b68.simg"
-url: https://datasets.datalad.org/shub/pstrz/cMisoKG/ubuntu/2018-04-14-4a1be081-9044d87a/
+datalad_url: https://datasets.datalad.org?dir=/shub/pstrz/cMisoKG/ubuntu/2018-04-14-4a1be081-9044d87a/
 recipe: https://datasets.datalad.org/shub/pstrz/cMisoKG/ubuntu/2018-04-14-4a1be081-9044d87a/Singularity
 collection: pstrz/cMisoKG
 ---

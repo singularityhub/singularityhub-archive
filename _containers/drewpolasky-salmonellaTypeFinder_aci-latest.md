@@ -9,7 +9,7 @@ build_date: "2020-09-08T14:52:38.002Z"
 size_mb: 2216.0
 size: 1062055967
 sif: "https://datasets.datalad.org/shub/drewpolasky/salmonellaTypeFinder_aci/latest/2020-09-08-215cfb67-d02d3c79/d02d3c79fd8c59ec317b539c430b00d3.sif"
-url: https://datasets.datalad.org/shub/drewpolasky/salmonellaTypeFinder_aci/latest/2020-09-08-215cfb67-d02d3c79/
+datalad_url: https://datasets.datalad.org?dir=/shub/drewpolasky/salmonellaTypeFinder_aci/latest/2020-09-08-215cfb67-d02d3c79/
 recipe: https://datasets.datalad.org/shub/drewpolasky/salmonellaTypeFinder_aci/latest/2020-09-08-215cfb67-d02d3c79/Singularity
 collection: drewpolasky/salmonellaTypeFinder_aci
 ---

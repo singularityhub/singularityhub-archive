@@ -9,7 +9,7 @@ build_date: "2021-02-03T18:18:19.416Z"
 size_mb: 2736.0
 size: 832045087
 sif: "https://datasets.datalad.org/shub/afonsoguerra/CargoShip/rockerrmd/2021-02-03-2078ae3c-03c8898b/03c8898bb6c135fa97c0256fcf19a906.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/rockerrmd/2021-02-03-2078ae3c-03c8898b/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/CargoShip/rockerrmd/2021-02-03-2078ae3c-03c8898b/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/rockerrmd/2021-02-03-2078ae3c-03c8898b/Singularity
 collection: afonsoguerra/CargoShip
 ---

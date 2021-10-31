@@ -9,7 +9,7 @@ build_date: "2020-10-26T21:27:44.828Z"
 size_mb: 1676.0
 size: 678772767
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/mykrobe-0.8.1/2020-10-26-4a48ebcc-e9476dc1/e9476dc1c555e7435e3f66c8eff5f201.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/mykrobe-0.8.1/2020-10-26-4a48ebcc-e9476dc1/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/mykrobe-0.8.1/2020-10-26-4a48ebcc-e9476dc1/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/mykrobe-0.8.1/2020-10-26-4a48ebcc-e9476dc1/Singularity
 collection: annacprice/containerCI-test
 ---

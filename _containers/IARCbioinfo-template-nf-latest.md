@@ -9,7 +9,7 @@ build_date: "2018-12-19T12:57:36.126Z"
 size_mb: 657
 size: 228634655
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/template-nf/latest/2018-12-19-6e61362f-f3fe934b/f3fe934bba0accbcd1d7638f1c1d8d0c.simg"
-url: https://datasets.datalad.org/shub/IARCbioinfo/template-nf/latest/2018-12-19-6e61362f-f3fe934b/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/template-nf/latest/2018-12-19-6e61362f-f3fe934b/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/template-nf/latest/2018-12-19-6e61362f-f3fe934b/Singularity
 collection: IARCbioinfo/template-nf
 ---

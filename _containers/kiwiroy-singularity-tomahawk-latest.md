@@ -9,7 +9,7 @@ build_date: "2020-07-29T09:42:09.779Z"
 size_mb: 236.015625
 size: 247480320
 sif: "https://datasets.datalad.org/shub/kiwiroy/singularity-tomahawk/latest/2020-07-29-6d887777-4ab7c495/4ab7c49529e970b14ab43b603f4fbbff905013f3bb39f8603dc6eb6ca64c4586.sif"
-url: https://datasets.datalad.org/shub/kiwiroy/singularity-tomahawk/latest/2020-07-29-6d887777-4ab7c495/
+datalad_url: https://datasets.datalad.org?dir=/shub/kiwiroy/singularity-tomahawk/latest/2020-07-29-6d887777-4ab7c495/
 recipe: https://datasets.datalad.org/shub/kiwiroy/singularity-tomahawk/latest/2020-07-29-6d887777-4ab7c495/Singularity
 collection: kiwiroy/singularity-tomahawk
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-18T18:12:34.601Z"
 size_mb: 1385
 size: 1090166815
 sif: "https://datasets.datalad.org/shub/Chabrier/sSighma/latest/2019-03-18-da7792c3-3d6652ef/3d6652ef76303bb1cc5a2e17c04f02f8.simg"
-url: https://datasets.datalad.org/shub/Chabrier/sSighma/latest/2019-03-18-da7792c3-3d6652ef/
+datalad_url: https://datasets.datalad.org?dir=/shub/Chabrier/sSighma/latest/2019-03-18-da7792c3-3d6652ef/
 recipe: https://datasets.datalad.org/shub/Chabrier/sSighma/latest/2019-03-18-da7792c3-3d6652ef/Singularity
 collection: Chabrier/sSighma
 ---

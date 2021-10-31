@@ -9,7 +9,7 @@ build_date: "2019-02-01T20:31:20.294Z"
 size_mb: 2631
 size: 1441407007
 sif: "https://datasets.datalad.org/shub/jmhays/singularity-brer/nogpu/2019-02-01-46f83022-a600626a/a600626a71f8bec019554555e181e34b.simg"
-url: https://datasets.datalad.org/shub/jmhays/singularity-brer/nogpu/2019-02-01-46f83022-a600626a/
+datalad_url: https://datasets.datalad.org?dir=/shub/jmhays/singularity-brer/nogpu/2019-02-01-46f83022-a600626a/
 recipe: https://datasets.datalad.org/shub/jmhays/singularity-brer/nogpu/2019-02-01-46f83022-a600626a/Singularity
 collection: jmhays/singularity-brer
 ---

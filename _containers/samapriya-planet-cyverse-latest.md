@@ -9,7 +9,7 @@ build_date: "2018-03-13T01:25:23.321Z"
 size_mb: 1798
 size: 823509023
 sif: "https://datasets.datalad.org/shub/samapriya/planet-cyverse/latest/2018-03-13-90cbfcc7-213958a7/213958a77a2b69d7a49cd799684313d5.simg"
-url: https://datasets.datalad.org/shub/samapriya/planet-cyverse/latest/2018-03-13-90cbfcc7-213958a7/
+datalad_url: https://datasets.datalad.org?dir=/shub/samapriya/planet-cyverse/latest/2018-03-13-90cbfcc7-213958a7/
 recipe: https://datasets.datalad.org/shub/samapriya/planet-cyverse/latest/2018-03-13-90cbfcc7-213958a7/Singularity
 collection: samapriya/planet-cyverse
 ---

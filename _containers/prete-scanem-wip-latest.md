@@ -9,7 +9,7 @@ build_date: "2019-11-27T11:17:56.087Z"
 size_mb: 711.0
 size: 254005279
 sif: "https://datasets.datalad.org/shub/prete/scanem-wip/latest/2019-11-27-fce53e36-f9282dbf/f9282dbf4168ff86959b2c523c9858f2.sif"
-url: https://datasets.datalad.org/shub/prete/scanem-wip/latest/2019-11-27-fce53e36-f9282dbf/
+datalad_url: https://datasets.datalad.org?dir=/shub/prete/scanem-wip/latest/2019-11-27-fce53e36-f9282dbf/
 recipe: https://datasets.datalad.org/shub/prete/scanem-wip/latest/2019-11-27-fce53e36-f9282dbf/Singularity
 collection: prete/scanem-wip
 ---

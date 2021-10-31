@@ -9,7 +9,7 @@ build_date: "2019-05-07T14:45:45.915Z"
 size_mb: 667
 size: 217423903
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/platypus-nf/latest/2019-05-07-ccb7ad95-2284957f/2284957f7e9b0d31e3acff6d64c7e9ad.simg"
-url: https://datasets.datalad.org/shub/IARCbioinfo/platypus-nf/latest/2019-05-07-ccb7ad95-2284957f/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/platypus-nf/latest/2019-05-07-ccb7ad95-2284957f/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/platypus-nf/latest/2019-05-07-ccb7ad95-2284957f/Singularity
 collection: IARCbioinfo/platypus-nf
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-15T01:22:52.256Z"
 size_mb: 461
 size: 147378207
 sif: "https://datasets.datalad.org/shub/emilydolson/CentOS7-Singularity/latest/2019-11-15-8ac16dc0-f985a5c4/f985a5c44f34f15f8bfb8f93b3ca46b4.simg"
-url: https://datasets.datalad.org/shub/emilydolson/CentOS7-Singularity/latest/2019-11-15-8ac16dc0-f985a5c4/
+datalad_url: https://datasets.datalad.org?dir=/shub/emilydolson/CentOS7-Singularity/latest/2019-11-15-8ac16dc0-f985a5c4/
 recipe: https://datasets.datalad.org/shub/emilydolson/CentOS7-Singularity/latest/2019-11-15-8ac16dc0-f985a5c4/Singularity
 collection: emilydolson/CentOS7-Singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-23T13:48:22.540Z"
 size_mb: 3937.30078125
 size: 4128559104
 sif: "https://datasets.datalad.org/shub/fzimmermann89/idi/slurm/2021-01-23-f8551d2e-1803e2d3/1803e2d3c11d5f58924cdf02a807b6e848967bf5aefc0cfc0ea24020142d3aa1.sif"
-url: https://datasets.datalad.org/shub/fzimmermann89/idi/slurm/2021-01-23-f8551d2e-1803e2d3/
+datalad_url: https://datasets.datalad.org?dir=/shub/fzimmermann89/idi/slurm/2021-01-23-f8551d2e-1803e2d3/
 recipe: https://datasets.datalad.org/shub/fzimmermann89/idi/slurm/2021-01-23-f8551d2e-1803e2d3/Singularity
 collection: fzimmermann89/idi
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-17T14:28:05.078Z"
 size_mb: 4425
 size: 1574207519
 sif: "https://datasets.datalad.org/shub/marchoeppner/wgs-calling/latest/2019-04-17-d1183605-912605b3/912605b31295b65cb21c3cdb4381c2ba.simg"
-url: https://datasets.datalad.org/shub/marchoeppner/wgs-calling/latest/2019-04-17-d1183605-912605b3/
+datalad_url: https://datasets.datalad.org?dir=/shub/marchoeppner/wgs-calling/latest/2019-04-17-d1183605-912605b3/
 recipe: https://datasets.datalad.org/shub/marchoeppner/wgs-calling/latest/2019-04-17-d1183605-912605b3/Singularity
 collection: marchoeppner/wgs-calling
 ---

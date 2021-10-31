@@ -9,7 +9,7 @@ build_date: "2019-01-11T19:36:04.242Z"
 size_mb: 580
 size: 177541151
 sif: "https://datasets.datalad.org/shub/bmichanderson/singularity-containers/gapfiller/2019-01-11-be8c5472-9f2687e4/9f2687e46f04ecf264f99ce6bafe1501.simg"
-url: https://datasets.datalad.org/shub/bmichanderson/singularity-containers/gapfiller/2019-01-11-be8c5472-9f2687e4/
+datalad_url: https://datasets.datalad.org?dir=/shub/bmichanderson/singularity-containers/gapfiller/2019-01-11-be8c5472-9f2687e4/
 recipe: https://datasets.datalad.org/shub/bmichanderson/singularity-containers/gapfiller/2019-01-11-be8c5472-9f2687e4/Singularity
 collection: bmichanderson/singularity-containers
 ---

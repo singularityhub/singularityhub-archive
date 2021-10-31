@@ -9,7 +9,7 @@ build_date: "2018-08-08T03:56:31.952Z"
 size_mb: 1917
 size: 638320671
 sif: "https://datasets.datalad.org/shub/nf-core/ICGC-featureCounts/1.0.0/2018-08-08-a3130716-566db4d7/566db4d761042fb908ef6e5186bdcfd1.simg"
-url: https://datasets.datalad.org/shub/nf-core/ICGC-featureCounts/1.0.0/2018-08-08-a3130716-566db4d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/nf-core/ICGC-featureCounts/1.0.0/2018-08-08-a3130716-566db4d7/
 recipe: https://datasets.datalad.org/shub/nf-core/ICGC-featureCounts/1.0.0/2018-08-08-a3130716-566db4d7/Singularity
 collection: nf-core/ICGC-featureCounts
 ---

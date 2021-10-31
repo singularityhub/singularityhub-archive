@@ -9,7 +9,7 @@ build_date: "2019-02-05T16:48:48.026Z"
 size_mb: 2349
 size: 1072955423
 sif: "https://datasets.datalad.org/shub/dp2ski/genome_software_aci/rec/2019-02-05-a2acb6ad-0458787d/0458787dead64b2a2e1cc36a9aebd0f5.simg"
-url: https://datasets.datalad.org/shub/dp2ski/genome_software_aci/rec/2019-02-05-a2acb6ad-0458787d/
+datalad_url: https://datasets.datalad.org?dir=/shub/dp2ski/genome_software_aci/rec/2019-02-05-a2acb6ad-0458787d/
 recipe: https://datasets.datalad.org/shub/dp2ski/genome_software_aci/rec/2019-02-05-a2acb6ad-0458787d/Singularity
 collection: dp2ski/genome_software_aci
 ---

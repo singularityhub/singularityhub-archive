@@ -9,7 +9,7 @@ build_date: "2021-04-08T16:49:47.703Z"
 size_mb: 1447.875
 size: 1518206976
 sif: "https://datasets.datalad.org/shub/georgepar/slp/latest/2021-04-08-4618cf76-b20cf3c7/b20cf3c7ae38bd392eff0a6632a02af0a4ac5c1c6f8387df9b02f84ac1536a3a.sif"
-url: https://datasets.datalad.org/shub/georgepar/slp/latest/2021-04-08-4618cf76-b20cf3c7/
+datalad_url: https://datasets.datalad.org?dir=/shub/georgepar/slp/latest/2021-04-08-4618cf76-b20cf3c7/
 recipe: https://datasets.datalad.org/shub/georgepar/slp/latest/2021-04-08-4618cf76-b20cf3c7/Singularity
 collection: georgepar/slp
 ---

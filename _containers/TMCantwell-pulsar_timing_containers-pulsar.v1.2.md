@@ -9,7 +9,7 @@ build_date: "2018-08-10T20:17:50.110Z"
 size_mb: 2115
 size: 678621215
 sif: "https://datasets.datalad.org/shub/TMCantwell/pulsar_timing_containers/pulsar.v1.2/2018-08-10-6cbe6f35-b5226440/b52264409282ea75b8cc6efff87b76f1.simg"
-url: https://datasets.datalad.org/shub/TMCantwell/pulsar_timing_containers/pulsar.v1.2/2018-08-10-6cbe6f35-b5226440/
+datalad_url: https://datasets.datalad.org?dir=/shub/TMCantwell/pulsar_timing_containers/pulsar.v1.2/2018-08-10-6cbe6f35-b5226440/
 recipe: https://datasets.datalad.org/shub/TMCantwell/pulsar_timing_containers/pulsar.v1.2/2018-08-10-6cbe6f35-b5226440/Singularity
 collection: TMCantwell/pulsar_timing_containers
 ---

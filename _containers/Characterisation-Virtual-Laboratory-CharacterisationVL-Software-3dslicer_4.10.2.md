@@ -9,7 +9,7 @@ build_date: "2020-02-28T03:55:39.286Z"
 size_mb: 7715.0
 size: 3659304991
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/3dslicer_4.10.2/2020-02-28-6204667f-48ea4bc6/48ea4bc690c8fff7d54cadfc09ddc9e6.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/3dslicer_4.10.2/2020-02-28-6204667f-48ea4bc6/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/3dslicer_4.10.2/2020-02-28-6204667f-48ea4bc6/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/3dslicer_4.10.2/2020-02-28-6204667f-48ea4bc6/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

@@ -9,7 +9,7 @@ build_date: "2020-02-23T19:30:39.683Z"
 size_mb: 224.84375
 size: 235765760
 sif: "https://datasets.datalad.org/shub/jeffmm/simcore/latest/2020-02-23-532e3521-54f4dd7b/54f4dd7b89ba23b02380ba0d1ca74ac38804a8d87ba237391c9bbf63709b79cf.sif"
-url: https://datasets.datalad.org/shub/jeffmm/simcore/latest/2020-02-23-532e3521-54f4dd7b/
+datalad_url: https://datasets.datalad.org?dir=/shub/jeffmm/simcore/latest/2020-02-23-532e3521-54f4dd7b/
 recipe: https://datasets.datalad.org/shub/jeffmm/simcore/latest/2020-02-23-532e3521-54f4dd7b/Singularity
 collection: jeffmm/simcore
 ---

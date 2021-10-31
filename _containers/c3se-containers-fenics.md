@@ -9,7 +9,7 @@ build_date: "2020-11-24T04:29:23.053Z"
 size_mb: 3442.0
 size: 1392607263
 sif: "https://datasets.datalad.org/shub/c3se/containers/fenics/2020-11-24-6ba21eda-15e2ddc0/15e2ddc0826d6f200cf824b4ad337e35.sif"
-url: https://datasets.datalad.org/shub/c3se/containers/fenics/2020-11-24-6ba21eda-15e2ddc0/
+datalad_url: https://datasets.datalad.org?dir=/shub/c3se/containers/fenics/2020-11-24-6ba21eda-15e2ddc0/
 recipe: https://datasets.datalad.org/shub/c3se/containers/fenics/2020-11-24-6ba21eda-15e2ddc0/Singularity
 collection: c3se/containers
 ---

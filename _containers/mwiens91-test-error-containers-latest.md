@@ -9,7 +9,7 @@ build_date: "2019-08-09T04:48:11.922Z"
 size_mb: 432
 size: 185978911
 sif: "https://datasets.datalad.org/shub/mwiens91/test-error-containers/latest/2019-08-09-36e4fc34-a819672d/a819672dfe4cb3760da448c52ca83e69.simg"
-url: https://datasets.datalad.org/shub/mwiens91/test-error-containers/latest/2019-08-09-36e4fc34-a819672d/
+datalad_url: https://datasets.datalad.org?dir=/shub/mwiens91/test-error-containers/latest/2019-08-09-36e4fc34-a819672d/
 recipe: https://datasets.datalad.org/shub/mwiens91/test-error-containers/latest/2019-08-09-36e4fc34-a819672d/Singularity
 collection: mwiens91/test-error-containers
 ---

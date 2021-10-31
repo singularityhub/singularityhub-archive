@@ -9,7 +9,7 @@ build_date: "2019-04-12T04:45:45.533Z"
 size_mb: 9257
 size: 4210216991
 sif: "https://datasets.datalad.org/shub/arcsUVA/tensorflow/1.12.0-py36/2019-04-12-bfae53a6-6a6fa20e/6a6fa20e5005e961fde4af2c24fc57d9.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/tensorflow/1.12.0-py36/2019-04-12-bfae53a6-6a6fa20e/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/tensorflow/1.12.0-py36/2019-04-12-bfae53a6-6a6fa20e/
 recipe: https://datasets.datalad.org/shub/arcsUVA/tensorflow/1.12.0-py36/2019-04-12-bfae53a6-6a6fa20e/Singularity
 collection: arcsUVA/tensorflow
 ---

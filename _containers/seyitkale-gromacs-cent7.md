@@ -9,7 +9,7 @@ build_date: "2018-08-04T22:20:18.799Z"
 size_mb: 1587
 size: 532480031
 sif: "https://datasets.datalad.org/shub/seyitkale/gromacs/cent7/2018-08-04-94cb0aa2-979055d7/979055d739dc2895e9210edc008b0b30.simg"
-url: https://datasets.datalad.org/shub/seyitkale/gromacs/cent7/2018-08-04-94cb0aa2-979055d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/seyitkale/gromacs/cent7/2018-08-04-94cb0aa2-979055d7/
 recipe: https://datasets.datalad.org/shub/seyitkale/gromacs/cent7/2018-08-04-94cb0aa2-979055d7/Singularity
 collection: seyitkale/gromacs
 ---

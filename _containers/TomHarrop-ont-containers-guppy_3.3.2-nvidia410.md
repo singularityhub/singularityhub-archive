@@ -9,7 +9,7 @@ build_date: "2019-11-08T02:00:23.430Z"
 size_mb: 578.9609375
 size: 607084544
 sif: "https://datasets.datalad.org/shub/TomHarrop/ont-containers/guppy_3.3.2-nvidia410/2019-11-08-dbe91897-8e2fd885/8e2fd88530f73c7d02cb3a9be5f500e920f2b41e033978b8b2aeaa02ae621a13.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/ont-containers/guppy_3.3.2-nvidia410/2019-11-08-dbe91897-8e2fd885/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/ont-containers/guppy_3.3.2-nvidia410/2019-11-08-dbe91897-8e2fd885/
 recipe: https://datasets.datalad.org/shub/TomHarrop/ont-containers/guppy_3.3.2-nvidia410/2019-11-08-dbe91897-8e2fd885/Singularity
 collection: TomHarrop/ont-containers
 ---

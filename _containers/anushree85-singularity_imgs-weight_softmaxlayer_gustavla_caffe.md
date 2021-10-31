@@ -9,7 +9,7 @@ build_date: "2018-06-08T18:30:25.933Z"
 size_mb: 2523
 size: 1103466527
 sif: "https://datasets.datalad.org/shub/anushree85/singularity_imgs/weight_softmaxlayer_gustavla_caffe/2018-06-08-5881b3af-0fa6fffc/0fa6fffccd5be7bf585f1d6a961a0504.simg"
-url: https://datasets.datalad.org/shub/anushree85/singularity_imgs/weight_softmaxlayer_gustavla_caffe/2018-06-08-5881b3af-0fa6fffc/
+datalad_url: https://datasets.datalad.org?dir=/shub/anushree85/singularity_imgs/weight_softmaxlayer_gustavla_caffe/2018-06-08-5881b3af-0fa6fffc/
 recipe: https://datasets.datalad.org/shub/anushree85/singularity_imgs/weight_softmaxlayer_gustavla_caffe/2018-06-08-5881b3af-0fa6fffc/Singularity
 collection: anushree85/singularity_imgs
 ---

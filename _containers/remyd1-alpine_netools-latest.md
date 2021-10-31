@@ -9,7 +9,7 @@ build_date: "2019-08-19T13:34:22.332Z"
 size_mb: 200
 size: 7180319
 sif: "https://datasets.datalad.org/shub/remyd1/alpine_netools/latest/2019-08-19-b2c1e700-9bbd09b9/9bbd09b958cf5d55ae5e2eb2b948bc13.simg"
-url: https://datasets.datalad.org/shub/remyd1/alpine_netools/latest/2019-08-19-b2c1e700-9bbd09b9/
+datalad_url: https://datasets.datalad.org?dir=/shub/remyd1/alpine_netools/latest/2019-08-19-b2c1e700-9bbd09b9/
 recipe: https://datasets.datalad.org/shub/remyd1/alpine_netools/latest/2019-08-19-b2c1e700-9bbd09b9/Singularity
 collection: remyd1/alpine_netools
 ---

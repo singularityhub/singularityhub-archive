@@ -9,7 +9,7 @@ build_date: "2021-04-05T13:20:16.633Z"
 size_mb: 1337
 size: 502829087
 sif: "https://datasets.datalad.org/shub/cb-geo/lammps-container/latest/2021-04-05-6ff79738-61de148d/61de148d0e8ba4a442cbcad158514300.simg"
-url: https://datasets.datalad.org/shub/cb-geo/lammps-container/latest/2021-04-05-6ff79738-61de148d/
+datalad_url: https://datasets.datalad.org?dir=/shub/cb-geo/lammps-container/latest/2021-04-05-6ff79738-61de148d/
 recipe: https://datasets.datalad.org/shub/cb-geo/lammps-container/latest/2021-04-05-6ff79738-61de148d/Singularity
 collection: cb-geo/lammps-container
 ---

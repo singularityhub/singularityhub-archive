@@ -9,7 +9,7 @@ build_date: "2019-04-27T17:36:59.261Z"
 size_mb: 635
 size: 184770591
 sif: "https://datasets.datalad.org/shub/kiwiroy/singularity-perl/5.28.1/2019-04-27-e1d13ffa-92a23ed6/92a23ed6b3db63fa79d288980b0bd272.simg"
-url: https://datasets.datalad.org/shub/kiwiroy/singularity-perl/5.28.1/2019-04-27-e1d13ffa-92a23ed6/
+datalad_url: https://datasets.datalad.org?dir=/shub/kiwiroy/singularity-perl/5.28.1/2019-04-27-e1d13ffa-92a23ed6/
 recipe: https://datasets.datalad.org/shub/kiwiroy/singularity-perl/5.28.1/2019-04-27-e1d13ffa-92a23ed6/Singularity
 collection: kiwiroy/singularity-perl
 ---

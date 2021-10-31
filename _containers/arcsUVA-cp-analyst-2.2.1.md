@@ -9,7 +9,7 @@ build_date: "2019-02-04T16:33:11.315Z"
 size_mb: 1464
 size: 562909215
 sif: "https://datasets.datalad.org/shub/arcsUVA/cp-analyst/2.2.1/2019-02-04-d692951f-9aa61ea8/9aa61ea85aaa38616427be9aa418c760.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/cp-analyst/2.2.1/2019-02-04-d692951f-9aa61ea8/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/cp-analyst/2.2.1/2019-02-04-d692951f-9aa61ea8/
 recipe: https://datasets.datalad.org/shub/arcsUVA/cp-analyst/2.2.1/2019-02-04-d692951f-9aa61ea8/Singularity
 collection: arcsUVA/cp-analyst
 ---

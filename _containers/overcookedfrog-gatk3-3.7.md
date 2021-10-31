@@ -9,7 +9,7 @@ build_date: "2021-03-10T16:55:53.140Z"
 size_mb: 102
 size: 71938079
 sif: "https://datasets.datalad.org/shub/overcookedfrog/gatk3/3.7/2021-03-10-9e747643-b3f82ebd/b3f82ebdf077bea8463504be443a8c5a.simg"
-url: https://datasets.datalad.org/shub/overcookedfrog/gatk3/3.7/2021-03-10-9e747643-b3f82ebd/
+datalad_url: https://datasets.datalad.org?dir=/shub/overcookedfrog/gatk3/3.7/2021-03-10-9e747643-b3f82ebd/
 recipe: https://datasets.datalad.org/shub/overcookedfrog/gatk3/3.7/2021-03-10-9e747643-b3f82ebd/Singularity
 collection: overcookedfrog/gatk3
 ---

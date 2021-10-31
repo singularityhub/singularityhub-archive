@@ -9,7 +9,7 @@ build_date: "2017-12-08T10:41:24.305Z"
 size_mb: 4546
 size: 1422196767
 sif: "https://datasets.datalad.org/shub/brevans/agalma/latest/2017-12-08-81921885-21e6f2f6/21e6f2f6f9c67a95ab1fa388eaa70a2b.simg"
-url: https://datasets.datalad.org/shub/brevans/agalma/latest/2017-12-08-81921885-21e6f2f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/brevans/agalma/latest/2017-12-08-81921885-21e6f2f6/
 recipe: https://datasets.datalad.org/shub/brevans/agalma/latest/2017-12-08-81921885-21e6f2f6/Singularity
 collection: brevans/agalma
 ---

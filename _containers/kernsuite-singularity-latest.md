@@ -9,7 +9,7 @@ build_date: "2018-04-10T11:55:19.442Z"
 size_mb: 3447
 size: 1672728607
 sif: "https://datasets.datalad.org/shub/kernsuite/singularity/latest/2018-04-10-fc29ca21-c750b38b/c750b38b423a4257d8ddb18718400751.simg"
-url: https://datasets.datalad.org/shub/kernsuite/singularity/latest/2018-04-10-fc29ca21-c750b38b/
+datalad_url: https://datasets.datalad.org?dir=/shub/kernsuite/singularity/latest/2018-04-10-fc29ca21-c750b38b/
 recipe: https://datasets.datalad.org/shub/kernsuite/singularity/latest/2018-04-10-fc29ca21-c750b38b/Singularity
 collection: kernsuite/singularity
 ---

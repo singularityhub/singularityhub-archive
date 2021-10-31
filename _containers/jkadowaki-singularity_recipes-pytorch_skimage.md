@@ -9,7 +9,7 @@ build_date: "2019-12-05T11:10:42.105Z"
 size_mb: 3567
 size: 2344149023
 sif: "https://datasets.datalad.org/shub/jkadowaki/singularity_recipes/pytorch_skimage/2019-12-05-cffc65c5-6c2adff8/6c2adff8642a6843d13c72f0161fe692.simg"
-url: https://datasets.datalad.org/shub/jkadowaki/singularity_recipes/pytorch_skimage/2019-12-05-cffc65c5-6c2adff8/
+datalad_url: https://datasets.datalad.org?dir=/shub/jkadowaki/singularity_recipes/pytorch_skimage/2019-12-05-cffc65c5-6c2adff8/
 recipe: https://datasets.datalad.org/shub/jkadowaki/singularity_recipes/pytorch_skimage/2019-12-05-cffc65c5-6c2adff8/Singularity
 collection: jkadowaki/singularity_recipes
 ---

@@ -9,7 +9,7 @@ build_date: "2020-07-01T05:00:40.467Z"
 size_mb: 985
 size: 382349343
 sif: "https://datasets.datalad.org/shub/jekriske/shinyapp/latest/2020-07-01-cbab4f45-085bc811/085bc811a949a3372dcd3616d8b65993.simg"
-url: https://datasets.datalad.org/shub/jekriske/shinyapp/latest/2020-07-01-cbab4f45-085bc811/
+datalad_url: https://datasets.datalad.org?dir=/shub/jekriske/shinyapp/latest/2020-07-01-cbab4f45-085bc811/
 recipe: https://datasets.datalad.org/shub/jekriske/shinyapp/latest/2020-07-01-cbab4f45-085bc811/Singularity
 collection: jekriske/shinyapp
 ---

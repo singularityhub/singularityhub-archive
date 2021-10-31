@@ -9,7 +9,7 @@ build_date: "2021-04-09T20:50:35.955Z"
 size_mb: 3196.0
 size: 904159263
 sif: "https://datasets.datalad.org/shub/jsmentch/analyze-fmri/nat_img/2021-04-09-c5bd5db5-4f99164d/4f99164daeb181610fd77d9e2c53e85e.sif"
-url: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/nat_img/2021-04-09-c5bd5db5-4f99164d/
+datalad_url: https://datasets.datalad.org?dir=/shub/jsmentch/analyze-fmri/nat_img/2021-04-09-c5bd5db5-4f99164d/
 recipe: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/nat_img/2021-04-09-c5bd5db5-4f99164d/Singularity
 collection: jsmentch/analyze-fmri
 ---

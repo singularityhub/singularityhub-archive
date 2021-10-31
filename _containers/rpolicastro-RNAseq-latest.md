@@ -9,7 +9,7 @@ build_date: "2020-01-30T16:16:27.238Z"
 size_mb: 5541
 size: 1742438431
 sif: "https://datasets.datalad.org/shub/rpolicastro/RNAseq/latest/2020-01-30-274655ba-277ba535/277ba535bebda2188b8c66ae3b95191d.simg"
-url: https://datasets.datalad.org/shub/rpolicastro/RNAseq/latest/2020-01-30-274655ba-277ba535/
+datalad_url: https://datasets.datalad.org?dir=/shub/rpolicastro/RNAseq/latest/2020-01-30-274655ba-277ba535/
 recipe: https://datasets.datalad.org/shub/rpolicastro/RNAseq/latest/2020-01-30-274655ba-277ba535/Singularity
 collection: rpolicastro/RNAseq
 ---

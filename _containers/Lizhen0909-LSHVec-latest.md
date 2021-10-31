@@ -9,7 +9,7 @@ build_date: "2019-08-01T03:47:44.887Z"
 size_mb: 1328.0
 size: 485175327
 sif: "https://datasets.datalad.org/shub/Lizhen0909/LSHVec/latest/2019-08-01-1a761d29-fe52aefe/fe52aefe3a319a1d91a26ce185f9c508.sif"
-url: https://datasets.datalad.org/shub/Lizhen0909/LSHVec/latest/2019-08-01-1a761d29-fe52aefe/
+datalad_url: https://datasets.datalad.org?dir=/shub/Lizhen0909/LSHVec/latest/2019-08-01-1a761d29-fe52aefe/
 recipe: https://datasets.datalad.org/shub/Lizhen0909/LSHVec/latest/2019-08-01-1a761d29-fe52aefe/Singularity
 collection: Lizhen0909/LSHVec
 ---

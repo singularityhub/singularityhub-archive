@@ -9,7 +9,7 @@ build_date: "2019-04-02T06:19:31.753Z"
 size_mb: 3704
 size: 1780326431
 sif: "https://datasets.datalad.org/shub/shelvia1039/Building_Image/1.12.0-devel-gpu/2019-04-02-ff174bbc-fbdeae3e/fbdeae3e1209b9a1a6e26dd1fa14b29e.simg"
-url: https://datasets.datalad.org/shub/shelvia1039/Building_Image/1.12.0-devel-gpu/2019-04-02-ff174bbc-fbdeae3e/
+datalad_url: https://datasets.datalad.org?dir=/shub/shelvia1039/Building_Image/1.12.0-devel-gpu/2019-04-02-ff174bbc-fbdeae3e/
 recipe: https://datasets.datalad.org/shub/shelvia1039/Building_Image/1.12.0-devel-gpu/2019-04-02-ff174bbc-fbdeae3e/Singularity
 collection: shelvia1039/Building_Image
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-24T04:56:28.580Z"
 size_mb: 332.5625
 size: 348717056
 sif: "https://datasets.datalad.org/shub/storey-lab/edirect-srf/10.9/2020-08-24-5321d7b4-9a0af3c5/9a0af3c56d7de6d92ae7bb22373fbace9a178e1bba2684c7339c898e5290ad75.sif"
-url: https://datasets.datalad.org/shub/storey-lab/edirect-srf/10.9/2020-08-24-5321d7b4-9a0af3c5/
+datalad_url: https://datasets.datalad.org?dir=/shub/storey-lab/edirect-srf/10.9/2020-08-24-5321d7b4-9a0af3c5/
 recipe: https://datasets.datalad.org/shub/storey-lab/edirect-srf/10.9/2020-08-24-5321d7b4-9a0af3c5/Singularity
 collection: storey-lab/edirect-srf
 ---

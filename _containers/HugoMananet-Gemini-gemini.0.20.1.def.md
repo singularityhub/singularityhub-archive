@@ -9,7 +9,7 @@ build_date: "2018-12-21T17:01:17.137Z"
 size_mb: 15603
 size: 14474231839
 sif: "https://datasets.datalad.org/shub/HugoMananet/Gemini/gemini.0.20.1.def/2018-12-21-bf8846e0-ce0d133a/ce0d133aa74f056ed5bee2f170d637d5.simg"
-url: https://datasets.datalad.org/shub/HugoMananet/Gemini/gemini.0.20.1.def/2018-12-21-bf8846e0-ce0d133a/
+datalad_url: https://datasets.datalad.org?dir=/shub/HugoMananet/Gemini/gemini.0.20.1.def/2018-12-21-bf8846e0-ce0d133a/
 recipe: https://datasets.datalad.org/shub/HugoMananet/Gemini/gemini.0.20.1.def/2018-12-21-bf8846e0-ce0d133a/Singularity
 collection: HugoMananet/Gemini
 ---

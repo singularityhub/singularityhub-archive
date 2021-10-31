@@ -9,7 +9,7 @@ build_date: "2018-02-01T11:37:40.333Z"
 size_mb: 590
 size: 230719519
 sif: "https://datasets.datalad.org/shub/kalebabram/singularity_r/latest/2018-02-01-3f8bae4d-4815b95f/4815b95f991e9c500722752018a9b633.simg"
-url: https://datasets.datalad.org/shub/kalebabram/singularity_r/latest/2018-02-01-3f8bae4d-4815b95f/
+datalad_url: https://datasets.datalad.org?dir=/shub/kalebabram/singularity_r/latest/2018-02-01-3f8bae4d-4815b95f/
 recipe: https://datasets.datalad.org/shub/kalebabram/singularity_r/latest/2018-02-01-3f8bae4d-4815b95f/Singularity
 collection: kalebabram/singularity_r
 ---

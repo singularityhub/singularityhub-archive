@@ -9,7 +9,7 @@ build_date: "2020-03-13T05:12:49.459Z"
 size_mb: 468.2265625
 size: 490971136
 sif: "https://datasets.datalad.org/shub/ymkwsnsn/shubTest/latest/2020-03-13-e8b5b6ee-46cea684/46cea684533b3f6c414ff29fdc86c7659b25529be308ce4a5e7b132feaa7db11.sif"
-url: https://datasets.datalad.org/shub/ymkwsnsn/shubTest/latest/2020-03-13-e8b5b6ee-46cea684/
+datalad_url: https://datasets.datalad.org?dir=/shub/ymkwsnsn/shubTest/latest/2020-03-13-e8b5b6ee-46cea684/
 recipe: https://datasets.datalad.org/shub/ymkwsnsn/shubTest/latest/2020-03-13-e8b5b6ee-46cea684/Singularity
 collection: ymkwsnsn/shubTest
 ---

@@ -9,7 +9,7 @@ build_date: "2018-01-12T01:02:31.135Z"
 size_mb: 3822
 size: 1895063583
 sif: "https://datasets.datalad.org/shub/billspat/mlmpr/caffe-dann-nocudnn/2018-01-12-6b2430ca-d2470a34/d2470a34a514b34cc31e6c8909ac8769.simg"
-url: https://datasets.datalad.org/shub/billspat/mlmpr/caffe-dann-nocudnn/2018-01-12-6b2430ca-d2470a34/
+datalad_url: https://datasets.datalad.org?dir=/shub/billspat/mlmpr/caffe-dann-nocudnn/2018-01-12-6b2430ca-d2470a34/
 recipe: https://datasets.datalad.org/shub/billspat/mlmpr/caffe-dann-nocudnn/2018-01-12-6b2430ca-d2470a34/Singularity
 collection: billspat/mlmpr
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-17T14:58:26.899Z"
 size_mb: 2177
 size: 826109983
 sif: "https://datasets.datalad.org/shub/powerPlant/squeezemeta-srf/0.4.4/2021-01-17-f52357af-b4ab8d49/b4ab8d499923b20fde8ddfc63e8192e8.simg"
-url: https://datasets.datalad.org/shub/powerPlant/squeezemeta-srf/0.4.4/2021-01-17-f52357af-b4ab8d49/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/squeezemeta-srf/0.4.4/2021-01-17-f52357af-b4ab8d49/
 recipe: https://datasets.datalad.org/shub/powerPlant/squeezemeta-srf/0.4.4/2021-01-17-f52357af-b4ab8d49/Singularity
 collection: powerPlant/squeezemeta-srf
 ---

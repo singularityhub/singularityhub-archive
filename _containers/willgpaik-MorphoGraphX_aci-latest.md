@@ -9,7 +9,7 @@ build_date: "2019-11-08T14:03:35.561Z"
 size_mb: 3840.0
 size: 1786650655
 sif: "https://datasets.datalad.org/shub/willgpaik/MorphoGraphX_aci/latest/2019-11-08-a096818a-2ab045d7/2ab045d7df6a61f53a1689346fe2d88c.sif"
-url: https://datasets.datalad.org/shub/willgpaik/MorphoGraphX_aci/latest/2019-11-08-a096818a-2ab045d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/MorphoGraphX_aci/latest/2019-11-08-a096818a-2ab045d7/
 recipe: https://datasets.datalad.org/shub/willgpaik/MorphoGraphX_aci/latest/2019-11-08-a096818a-2ab045d7/Singularity
 collection: willgpaik/MorphoGraphX_aci
 ---

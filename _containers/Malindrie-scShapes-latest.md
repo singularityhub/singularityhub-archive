@@ -9,7 +9,7 @@ build_date: "2021-04-05T10:47:29.469Z"
 size_mb: 911.0
 size: 315580447
 sif: "https://datasets.datalad.org/shub/Malindrie/scShapes/latest/2021-04-05-822c9aef-38e45aa9/38e45aa99b415afefbb0322289cce7a1.sif"
-url: https://datasets.datalad.org/shub/Malindrie/scShapes/latest/2021-04-05-822c9aef-38e45aa9/
+datalad_url: https://datasets.datalad.org?dir=/shub/Malindrie/scShapes/latest/2021-04-05-822c9aef-38e45aa9/
 recipe: https://datasets.datalad.org/shub/Malindrie/scShapes/latest/2021-04-05-822c9aef-38e45aa9/Singularity
 collection: Malindrie/scShapes
 ---

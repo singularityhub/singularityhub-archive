@@ -9,7 +9,7 @@ build_date: "2019-10-24T10:40:15.426Z"
 size_mb: 6368.0
 size: 2082971679
 sif: "https://datasets.datalad.org/shub/afonsoguerra/GenomeChroniclerDev/latest/2019-10-24-6e91f064-f60920b2/f60920b2b8108f9e2483a5fc9dbcd38a.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/GenomeChroniclerDev/latest/2019-10-24-6e91f064-f60920b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/GenomeChroniclerDev/latest/2019-10-24-6e91f064-f60920b2/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/GenomeChroniclerDev/latest/2019-10-24-6e91f064-f60920b2/Singularity
 collection: afonsoguerra/GenomeChroniclerDev
 ---

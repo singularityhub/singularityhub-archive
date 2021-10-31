@@ -9,7 +9,7 @@ build_date: "2019-06-07T11:19:42.491Z"
 size_mb: 4103
 size: 1343303711
 sif: "https://datasets.datalad.org/shub/cemmeydan/nfcore_chipseq/latest/2019-06-07-e22b4071-fd5bcbc9/fd5bcbc9972fa9040e73bcf8c0607475.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/nfcore_chipseq/latest/2019-06-07-e22b4071-fd5bcbc9/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/nfcore_chipseq/latest/2019-06-07-e22b4071-fd5bcbc9/
 recipe: https://datasets.datalad.org/shub/cemmeydan/nfcore_chipseq/latest/2019-06-07-e22b4071-fd5bcbc9/Singularity
 collection: cemmeydan/nfcore_chipseq
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-29T14:32:21.973Z"
 size_mb: 2052.0
 size: 870584351
 sif: "https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/minos/2019-11-29-546df6ed-ab0269ed/ab0269edb56043979acd37b47f92ba8f.sif"
-url: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/minos/2019-11-29-546df6ed-ab0269ed/
+datalad_url: https://datasets.datalad.org?dir=/shub/rmcolq/Singularity_recipes/minos/2019-11-29-546df6ed-ab0269ed/
 recipe: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/minos/2019-11-29-546df6ed-ab0269ed/Singularity
 collection: rmcolq/Singularity_recipes
 ---

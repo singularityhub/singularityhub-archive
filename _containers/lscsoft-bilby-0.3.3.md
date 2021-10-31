@@ -9,7 +9,7 @@ build_date: "2019-02-08T05:38:45.731Z"
 size_mb: 3570
 size: 1609281567
 sif: "https://datasets.datalad.org/shub/lscsoft/bilby/0.3.3/2019-02-08-56e7045a-2d5b2c1d/2d5b2c1d1ae99b6ef8d316171ca59593.simg"
-url: https://datasets.datalad.org/shub/lscsoft/bilby/0.3.3/2019-02-08-56e7045a-2d5b2c1d/
+datalad_url: https://datasets.datalad.org?dir=/shub/lscsoft/bilby/0.3.3/2019-02-08-56e7045a-2d5b2c1d/
 recipe: https://datasets.datalad.org/shub/lscsoft/bilby/0.3.3/2019-02-08-56e7045a-2d5b2c1d/Singularity
 collection: lscsoft/bilby
 ---

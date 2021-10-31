@@ -9,7 +9,7 @@ build_date: "2017-11-21T18:32:11.777Z"
 size_mb: 1168
 size: 479764511
 sif: "https://datasets.datalad.org/shub/billspat/CentOS7-Singularity/latest/2017-11-21-9e331689-9bec187d/9bec187dfd5e0790b424ca4f6eec1c57.simg"
-url: https://datasets.datalad.org/shub/billspat/CentOS7-Singularity/latest/2017-11-21-9e331689-9bec187d/
+datalad_url: https://datasets.datalad.org?dir=/shub/billspat/CentOS7-Singularity/latest/2017-11-21-9e331689-9bec187d/
 recipe: https://datasets.datalad.org/shub/billspat/CentOS7-Singularity/latest/2017-11-21-9e331689-9bec187d/Singularity
 collection: billspat/CentOS7-Singularity
 ---

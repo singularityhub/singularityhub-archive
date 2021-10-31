@@ -9,7 +9,7 @@ build_date: "2018-07-05T21:26:03.930Z"
 size_mb: 4710
 size: 2017800223
 sif: "https://datasets.datalad.org/shub/abegossi/QuantumEspressoToolkit/latest/2018-07-05-5e318e9d-706151d3/706151d3813d6bf8a5f5bced84cda2dc.simg"
-url: https://datasets.datalad.org/shub/abegossi/QuantumEspressoToolkit/latest/2018-07-05-5e318e9d-706151d3/
+datalad_url: https://datasets.datalad.org?dir=/shub/abegossi/QuantumEspressoToolkit/latest/2018-07-05-5e318e9d-706151d3/
 recipe: https://datasets.datalad.org/shub/abegossi/QuantumEspressoToolkit/latest/2018-07-05-5e318e9d-706151d3/Singularity
 collection: abegossi/QuantumEspressoToolkit
 ---

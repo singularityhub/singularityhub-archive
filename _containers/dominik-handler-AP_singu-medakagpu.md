@@ -9,7 +9,7 @@ build_date: "2020-06-17T11:33:40.119Z"
 size_mb: 2131.921875
 size: 2235482112
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/medakagpu/2020-06-17-131d3c72-9fa643e0/9fa643e0573a5f41dd40441348d728c7bb7a9998242cd0476176373bbc9b39ba.sif"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/medakagpu/2020-06-17-131d3c72-9fa643e0/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/medakagpu/2020-06-17-131d3c72-9fa643e0/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/medakagpu/2020-06-17-131d3c72-9fa643e0/Singularity
 collection: dominik-handler/AP_singu
 ---

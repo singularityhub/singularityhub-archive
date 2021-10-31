@@ -9,7 +9,7 @@ build_date: "2021-04-20T00:06:35.461Z"
 size_mb: 738.25390625
 size: 774115328
 sif: "https://datasets.datalad.org/shub/romxero/r_magick_singularity/latest/2021-04-20-883fe977-40b1b6fb/40b1b6fb38a460afe134d8edd48ec62872516b095ba686571782139a91354b6c.sif"
-url: https://datasets.datalad.org/shub/romxero/r_magick_singularity/latest/2021-04-20-883fe977-40b1b6fb/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/r_magick_singularity/latest/2021-04-20-883fe977-40b1b6fb/
 recipe: https://datasets.datalad.org/shub/romxero/r_magick_singularity/latest/2021-04-20-883fe977-40b1b6fb/Singularity
 collection: romxero/r_magick_singularity
 ---

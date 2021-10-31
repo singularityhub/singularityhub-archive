@@ -9,7 +9,7 @@ build_date: "2021-03-08T06:08:29.339Z"
 size_mb: 623.0
 size: 246448159
 sif: "https://datasets.datalad.org/shub/powellgenomicslab/SNP_genotype_contamination/vices/2021-03-08-ff05323d-b8a3c0ec/b8a3c0ece79d2c1b3a08ca21e23c70b2.sif"
-url: https://datasets.datalad.org/shub/powellgenomicslab/SNP_genotype_contamination/vices/2021-03-08-ff05323d-b8a3c0ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/powellgenomicslab/SNP_genotype_contamination/vices/2021-03-08-ff05323d-b8a3c0ec/
 recipe: https://datasets.datalad.org/shub/powellgenomicslab/SNP_genotype_contamination/vices/2021-03-08-ff05323d-b8a3c0ec/Singularity
 collection: powellgenomicslab/SNP_genotype_contamination
 ---

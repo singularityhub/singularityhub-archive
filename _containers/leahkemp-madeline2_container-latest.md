@@ -9,7 +9,7 @@ build_date: "2021-02-16T00:17:41.030Z"
 size_mb: 562.0
 size: 203784223
 sif: "https://datasets.datalad.org/shub/leahkemp/madeline2_container/latest/2021-02-16-f2e0d591-d261fcaf/d261fcaf73a2f0f4a4f3116f230efcb4.sif"
-url: https://datasets.datalad.org/shub/leahkemp/madeline2_container/latest/2021-02-16-f2e0d591-d261fcaf/
+datalad_url: https://datasets.datalad.org?dir=/shub/leahkemp/madeline2_container/latest/2021-02-16-f2e0d591-d261fcaf/
 recipe: https://datasets.datalad.org/shub/leahkemp/madeline2_container/latest/2021-02-16-f2e0d591-d261fcaf/Singularity
 collection: leahkemp/madeline2_container
 ---

@@ -9,7 +9,7 @@ build_date: "2019-05-30T04:44:56.329Z"
 size_mb: 2401
 size: 862961695
 sif: "https://datasets.datalad.org/shub/bcaffo/kerasSingularity/ubuntu16/2019-05-30-487c2800-11c78a33/11c78a33265c1e3f38cc67d0aea4a79e.simg"
-url: https://datasets.datalad.org/shub/bcaffo/kerasSingularity/ubuntu16/2019-05-30-487c2800-11c78a33/
+datalad_url: https://datasets.datalad.org?dir=/shub/bcaffo/kerasSingularity/ubuntu16/2019-05-30-487c2800-11c78a33/
 recipe: https://datasets.datalad.org/shub/bcaffo/kerasSingularity/ubuntu16/2019-05-30-487c2800-11c78a33/Singularity
 collection: bcaffo/kerasSingularity
 ---

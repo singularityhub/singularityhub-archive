@@ -9,7 +9,7 @@ build_date: "2018-05-13T10:34:42.468Z"
 size_mb: 1988
 size: 906280991
 sif: "https://datasets.datalad.org/shub/TheEtkinLab/ndmg/v0.1.0/2018-05-13-490cea1e-cf9b5121/cf9b51217a5e23800548f3c22635a7ca.simg"
-url: https://datasets.datalad.org/shub/TheEtkinLab/ndmg/v0.1.0/2018-05-13-490cea1e-cf9b5121/
+datalad_url: https://datasets.datalad.org?dir=/shub/TheEtkinLab/ndmg/v0.1.0/2018-05-13-490cea1e-cf9b5121/
 recipe: https://datasets.datalad.org/shub/TheEtkinLab/ndmg/v0.1.0/2018-05-13-490cea1e-cf9b5121/Singularity
 collection: TheEtkinLab/ndmg
 ---

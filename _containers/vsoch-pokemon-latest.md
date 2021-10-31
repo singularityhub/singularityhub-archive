@@ -9,7 +9,7 @@ build_date: "2021-01-13T23:38:10.525Z"
 size_mb: 673
 size: 327122975
 sif: "https://datasets.datalad.org/shub/vsoch/pokemon/latest/2021-01-13-17c71706-2e21c483/2e21c4838412b3c25bc73f1935f7d42f.simg"
-url: https://datasets.datalad.org/shub/vsoch/pokemon/latest/2021-01-13-17c71706-2e21c483/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/pokemon/latest/2021-01-13-17c71706-2e21c483/
 recipe: https://datasets.datalad.org/shub/vsoch/pokemon/latest/2021-01-13-17c71706-2e21c483/Singularity
 collection: vsoch/pokemon
 ---

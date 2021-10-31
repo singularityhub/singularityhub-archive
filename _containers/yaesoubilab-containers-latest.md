@@ -9,7 +9,7 @@ build_date: "2019-04-23T20:55:38.011Z"
 size_mb: 1495
 size: 481300511
 sif: "https://datasets.datalad.org/shub/yaesoubilab/containers/latest/2019-04-23-611ad111-2223f5a3/2223f5a3691f0cd147a4d951676c0e84.simg"
-url: https://datasets.datalad.org/shub/yaesoubilab/containers/latest/2019-04-23-611ad111-2223f5a3/
+datalad_url: https://datasets.datalad.org?dir=/shub/yaesoubilab/containers/latest/2019-04-23-611ad111-2223f5a3/
 recipe: https://datasets.datalad.org/shub/yaesoubilab/containers/latest/2019-04-23-611ad111-2223f5a3/Singularity
 collection: yaesoubilab/containers
 ---

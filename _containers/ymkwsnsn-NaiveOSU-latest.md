@@ -9,7 +9,7 @@ build_date: "2018-12-19T23:56:58.978Z"
 size_mb: 1146
 size: 325697567
 sif: "https://datasets.datalad.org/shub/ymkwsnsn/NaiveOSU/latest/2018-12-19-01b35abe-4aca0b90/4aca0b90401dbdbc60c7b8b2c845c17f.simg"
-url: https://datasets.datalad.org/shub/ymkwsnsn/NaiveOSU/latest/2018-12-19-01b35abe-4aca0b90/
+datalad_url: https://datasets.datalad.org?dir=/shub/ymkwsnsn/NaiveOSU/latest/2018-12-19-01b35abe-4aca0b90/
 recipe: https://datasets.datalad.org/shub/ymkwsnsn/NaiveOSU/latest/2018-12-19-01b35abe-4aca0b90/Singularity
 collection: ymkwsnsn/NaiveOSU
 ---

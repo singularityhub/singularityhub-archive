@@ -9,7 +9,7 @@ build_date: "2019-06-02T11:44:34.152Z"
 size_mb: 20434
 size: 8237699103
 sif: "https://datasets.datalad.org/shub/Eric716/ericflow-bazel/cuda10/2019-06-02-7c336991-d7c1f05e/d7c1f05e3f6d6eba097dd18d03e5e5ee.simg"
-url: https://datasets.datalad.org/shub/Eric716/ericflow-bazel/cuda10/2019-06-02-7c336991-d7c1f05e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Eric716/ericflow-bazel/cuda10/2019-06-02-7c336991-d7c1f05e/
 recipe: https://datasets.datalad.org/shub/Eric716/ericflow-bazel/cuda10/2019-06-02-7c336991-d7c1f05e/Singularity
 collection: Eric716/ericflow-bazel
 ---

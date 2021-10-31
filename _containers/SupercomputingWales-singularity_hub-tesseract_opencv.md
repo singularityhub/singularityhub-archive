@@ -9,7 +9,7 @@ build_date: "2019-04-13T15:18:57.597Z"
 size_mb: 1651
 size: 737423391
 sif: "https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/tesseract_opencv/2019-04-13-b5cb5b87-62652d81/62652d817edc908b1f0b8d6c6407b276.simg"
-url: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/tesseract_opencv/2019-04-13-b5cb5b87-62652d81/
+datalad_url: https://datasets.datalad.org?dir=/shub/SupercomputingWales/singularity_hub/tesseract_opencv/2019-04-13-b5cb5b87-62652d81/
 recipe: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/tesseract_opencv/2019-04-13-b5cb5b87-62652d81/Singularity
 collection: SupercomputingWales/singularity_hub
 ---

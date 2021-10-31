@@ -9,7 +9,7 @@ build_date: "2020-04-21T02:08:39.852Z"
 size_mb: 862.0
 size: 329687071
 sif: "https://datasets.datalad.org/shub/pab2163/voxel/latest/2020-04-21-1379122b-8eb1dca9/8eb1dca9b9eb94c41bdc31298dee0c4f.sif"
-url: https://datasets.datalad.org/shub/pab2163/voxel/latest/2020-04-21-1379122b-8eb1dca9/
+datalad_url: https://datasets.datalad.org?dir=/shub/pab2163/voxel/latest/2020-04-21-1379122b-8eb1dca9/
 recipe: https://datasets.datalad.org/shub/pab2163/voxel/latest/2020-04-21-1379122b-8eb1dca9/Singularity
 collection: pab2163/voxel
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-31T00:18:47.727Z"
 size_mb: 1941.0
 size: 542257183
 sif: "https://datasets.datalad.org/shub/Yuqing66/Singularity/basic/2020-10-31-53cca802-6d83d10a/6d83d10afecad34633517b6f84e89db2.sif"
-url: https://datasets.datalad.org/shub/Yuqing66/Singularity/basic/2020-10-31-53cca802-6d83d10a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Yuqing66/Singularity/basic/2020-10-31-53cca802-6d83d10a/
 recipe: https://datasets.datalad.org/shub/Yuqing66/Singularity/basic/2020-10-31-53cca802-6d83d10a/Singularity
 collection: Yuqing66/Singularity
 ---

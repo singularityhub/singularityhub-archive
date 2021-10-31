@@ -9,7 +9,7 @@ build_date: "2018-05-13T10:34:44.154Z"
 size_mb: 1637
 size: 620933151
 sif: "https://datasets.datalad.org/shub/eilon-s/centos6_vep/latest/2018-05-13-ddb130ab-8af69206/8af692060443e6c221ed69e92c2544ba.simg"
-url: https://datasets.datalad.org/shub/eilon-s/centos6_vep/latest/2018-05-13-ddb130ab-8af69206/
+datalad_url: https://datasets.datalad.org?dir=/shub/eilon-s/centos6_vep/latest/2018-05-13-ddb130ab-8af69206/
 recipe: https://datasets.datalad.org/shub/eilon-s/centos6_vep/latest/2018-05-13-ddb130ab-8af69206/Singularity
 collection: eilon-s/centos6_vep
 ---

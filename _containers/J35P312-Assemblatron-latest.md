@@ -9,7 +9,7 @@ build_date: "2020-10-09T15:38:21.104Z"
 size_mb: 1403.0
 size: 607293471
 sif: "https://datasets.datalad.org/shub/J35P312/Assemblatron/latest/2020-10-09-822ebec4-2c388422/2c38842290e2a5f1d69f066e8d7f4462.sif"
-url: https://datasets.datalad.org/shub/J35P312/Assemblatron/latest/2020-10-09-822ebec4-2c388422/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/Assemblatron/latest/2020-10-09-822ebec4-2c388422/
 recipe: https://datasets.datalad.org/shub/J35P312/Assemblatron/latest/2020-10-09-822ebec4-2c388422/Singularity
 collection: J35P312/Assemblatron
 ---

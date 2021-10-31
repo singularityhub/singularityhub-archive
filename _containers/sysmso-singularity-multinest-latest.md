@@ -9,7 +9,7 @@ build_date: "2021-02-20T10:30:03.528Z"
 size_mb: 1056
 size: 423976991
 sif: "https://datasets.datalad.org/shub/sysmso/singularity-multinest/latest/2021-02-20-96da001f-c346e41a/c346e41ae5ca58e6fc135d81d1508664.simg"
-url: https://datasets.datalad.org/shub/sysmso/singularity-multinest/latest/2021-02-20-96da001f-c346e41a/
+datalad_url: https://datasets.datalad.org?dir=/shub/sysmso/singularity-multinest/latest/2021-02-20-96da001f-c346e41a/
 recipe: https://datasets.datalad.org/shub/sysmso/singularity-multinest/latest/2021-02-20-96da001f-c346e41a/Singularity
 collection: sysmso/singularity-multinest
 ---

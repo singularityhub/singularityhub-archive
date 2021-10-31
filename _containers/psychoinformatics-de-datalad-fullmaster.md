@@ -9,7 +9,7 @@ build_date: "2018-03-17T11:48:03.403Z"
 size_mb: 984
 size: 321470495
 sif: "https://datasets.datalad.org/shub/psychoinformatics-de/datalad/fullmaster/2018-03-17-932ca626-bf289894/bf289894568a8336b8dc63849ee993f7.simg"
-url: https://datasets.datalad.org/shub/psychoinformatics-de/datalad/fullmaster/2018-03-17-932ca626-bf289894/
+datalad_url: https://datasets.datalad.org?dir=/shub/psychoinformatics-de/datalad/fullmaster/2018-03-17-932ca626-bf289894/
 recipe: https://datasets.datalad.org/shub/psychoinformatics-de/datalad/fullmaster/2018-03-17-932ca626-bf289894/Singularity
 collection: psychoinformatics-de/datalad
 ---

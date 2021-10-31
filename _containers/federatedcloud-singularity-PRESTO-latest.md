@@ -9,7 +9,7 @@ build_date: "2020-11-07T20:45:03.143Z"
 size_mb: 1177.51171875
 size: 1234710528
 sif: "https://datasets.datalad.org/shub/federatedcloud/singularity-PRESTO/latest/2020-11-07-7507790f-aec4800c/aec4800c74a6e744152de63450e74a5ba4b6d7a242d61ed329f7280d278d34d5.sif"
-url: https://datasets.datalad.org/shub/federatedcloud/singularity-PRESTO/latest/2020-11-07-7507790f-aec4800c/
+datalad_url: https://datasets.datalad.org?dir=/shub/federatedcloud/singularity-PRESTO/latest/2020-11-07-7507790f-aec4800c/
 recipe: https://datasets.datalad.org/shub/federatedcloud/singularity-PRESTO/latest/2020-11-07-7507790f-aec4800c/Singularity
 collection: federatedcloud/singularity-PRESTO
 ---

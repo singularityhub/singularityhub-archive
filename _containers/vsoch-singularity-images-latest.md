@@ -9,7 +9,7 @@ build_date: "2021-04-14T16:14:49.724Z"
 size_mb: 96.0
 size: 37142559
 sif: "https://datasets.datalad.org/shub/vsoch/singularity-images/latest/2021-04-14-13050408-84a023b7/84a023b73eaadd39255186b5bdeb08f8.sif"
-url: https://datasets.datalad.org/shub/vsoch/singularity-images/latest/2021-04-14-13050408-84a023b7/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/singularity-images/latest/2021-04-14-13050408-84a023b7/
 recipe: https://datasets.datalad.org/shub/vsoch/singularity-images/latest/2021-04-14-13050408-84a023b7/Singularity
 collection: vsoch/singularity-images
 ---

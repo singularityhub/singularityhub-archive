@@ -9,7 +9,7 @@ build_date: "2019-10-05T01:19:52.145Z"
 size_mb: 5060
 size: 2175971359
 sif: "https://datasets.datalad.org/shub/FelixKrueger/SlamDunk_Shub/latest/2019-10-05-bcd48f44-c83fd4f4/c83fd4f42e3af9c6f6faf854d21917fa.simg"
-url: https://datasets.datalad.org/shub/FelixKrueger/SlamDunk_Shub/latest/2019-10-05-bcd48f44-c83fd4f4/
+datalad_url: https://datasets.datalad.org?dir=/shub/FelixKrueger/SlamDunk_Shub/latest/2019-10-05-bcd48f44-c83fd4f4/
 recipe: https://datasets.datalad.org/shub/FelixKrueger/SlamDunk_Shub/latest/2019-10-05-bcd48f44-c83fd4f4/Singularity
 collection: FelixKrueger/SlamDunk_Shub
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-16T15:15:19.404Z"
 size_mb: 1054.0
 size: 373964831
 sif: "https://datasets.datalad.org/shub/icaoberg/singularity-octave/latest/2021-03-16-058afc47-f8243438/f82434384e24b1001eebbdf81b5bd7e2.sif"
-url: https://datasets.datalad.org/shub/icaoberg/singularity-octave/latest/2021-03-16-058afc47-f8243438/
+datalad_url: https://datasets.datalad.org?dir=/shub/icaoberg/singularity-octave/latest/2021-03-16-058afc47-f8243438/
 recipe: https://datasets.datalad.org/shub/icaoberg/singularity-octave/latest/2021-03-16-058afc47-f8243438/Singularity
 collection: icaoberg/singularity-octave
 ---

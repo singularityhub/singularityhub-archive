@@ -9,7 +9,7 @@ build_date: "2019-05-24T15:49:14.252Z"
 size_mb: 533
 size: 208490527
 sif: "https://datasets.datalad.org/shub/tima-NOAA/build_container_on_shub/latest/2019-05-24-5bd88bc2-b738048e/b738048ee72145e1bb85e833b73dccd2.simg"
-url: https://datasets.datalad.org/shub/tima-NOAA/build_container_on_shub/latest/2019-05-24-5bd88bc2-b738048e/
+datalad_url: https://datasets.datalad.org?dir=/shub/tima-NOAA/build_container_on_shub/latest/2019-05-24-5bd88bc2-b738048e/
 recipe: https://datasets.datalad.org/shub/tima-NOAA/build_container_on_shub/latest/2019-05-24-5bd88bc2-b738048e/Singularity
 collection: tima-NOAA/build_container_on_shub
 ---

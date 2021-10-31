@@ -9,7 +9,7 @@ build_date: "2020-06-18T08:39:03.613Z"
 size_mb: 1410.0
 size: 452915231
 sif: "https://datasets.datalad.org/shub/TovRudyy/KapitanPOP/latest/2020-06-18-967280e9-14653b3b/14653b3b245be93b3423de9d0b0b13a9.sif"
-url: https://datasets.datalad.org/shub/TovRudyy/KapitanPOP/latest/2020-06-18-967280e9-14653b3b/
+datalad_url: https://datasets.datalad.org?dir=/shub/TovRudyy/KapitanPOP/latest/2020-06-18-967280e9-14653b3b/
 recipe: https://datasets.datalad.org/shub/TovRudyy/KapitanPOP/latest/2020-06-18-967280e9-14653b3b/Singularity
 collection: TovRudyy/KapitanPOP
 ---

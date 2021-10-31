@@ -9,7 +9,7 @@ build_date: "2018-10-19T18:21:08.379Z"
 size_mb: 1521
 size: 636284959
 sif: "https://datasets.datalad.org/shub/tanu-n/singularity-container/latest/2018-10-19-fd06a4d3-489e204a/489e204ad1ad057ce78f2e8c9cee3628.simg"
-url: https://datasets.datalad.org/shub/tanu-n/singularity-container/latest/2018-10-19-fd06a4d3-489e204a/
+datalad_url: https://datasets.datalad.org?dir=/shub/tanu-n/singularity-container/latest/2018-10-19-fd06a4d3-489e204a/
 recipe: https://datasets.datalad.org/shub/tanu-n/singularity-container/latest/2018-10-19-fd06a4d3-489e204a/Singularity
 collection: tanu-n/singularity-container
 ---

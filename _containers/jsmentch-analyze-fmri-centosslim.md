@@ -9,7 +9,7 @@ build_date: "2020-11-12T22:49:55.000Z"
 size_mb: 1778.0
 size: 545710111
 sif: "https://datasets.datalad.org/shub/jsmentch/analyze-fmri/centosslim/2020-11-12-815d2930-f90c11d8/f90c11d876ad6d234cf31cdbe09d9bc5.sif"
-url: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/centosslim/2020-11-12-815d2930-f90c11d8/
+datalad_url: https://datasets.datalad.org?dir=/shub/jsmentch/analyze-fmri/centosslim/2020-11-12-815d2930-f90c11d8/
 recipe: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/centosslim/2020-11-12-815d2930-f90c11d8/Singularity
 collection: jsmentch/analyze-fmri
 ---

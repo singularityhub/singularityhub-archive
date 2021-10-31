@@ -9,7 +9,7 @@ build_date: "2021-02-18T16:02:16.399Z"
 size_mb: 5883.0
 size: 1719095327
 sif: "https://datasets.datalad.org/shub/PGP-UK/GenomeChronicler/latest/2021-02-18-fe497994-6a49d53c/6a49d53cdbfc0e15e304d5afb3787041.sif"
-url: https://datasets.datalad.org/shub/PGP-UK/GenomeChronicler/latest/2021-02-18-fe497994-6a49d53c/
+datalad_url: https://datasets.datalad.org?dir=/shub/PGP-UK/GenomeChronicler/latest/2021-02-18-fe497994-6a49d53c/
 recipe: https://datasets.datalad.org/shub/PGP-UK/GenomeChronicler/latest/2021-02-18-fe497994-6a49d53c/Singularity
 collection: PGP-UK/GenomeChronicler
 ---

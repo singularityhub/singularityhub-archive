@@ -9,7 +9,7 @@ build_date: "2018-07-23T05:41:07.991Z"
 size_mb: 2811
 size: 996728863
 sif: "https://datasets.datalad.org/shub/psadil/ntf-docker/latest/2018-07-23-b0602d27-cef877f7/cef877f7999c6932838f64aa23afcb62.simg"
-url: https://datasets.datalad.org/shub/psadil/ntf-docker/latest/2018-07-23-b0602d27-cef877f7/
+datalad_url: https://datasets.datalad.org?dir=/shub/psadil/ntf-docker/latest/2018-07-23-b0602d27-cef877f7/
 recipe: https://datasets.datalad.org/shub/psadil/ntf-docker/latest/2018-07-23-b0602d27-cef877f7/Singularity
 collection: psadil/ntf-docker
 ---

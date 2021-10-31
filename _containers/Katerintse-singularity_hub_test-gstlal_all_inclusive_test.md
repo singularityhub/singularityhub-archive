@@ -9,7 +9,7 @@ build_date: "2019-09-03T14:07:05.702Z"
 size_mb: 10965.0
 size: 4834906143
 sif: "https://datasets.datalad.org/shub/Katerintse/singularity_hub_test/gstlal_all_inclusive_test/2019-09-03-6fef2e2b-64ddd70d/64ddd70d196b5c0090e30b427672a2af.sif"
-url: https://datasets.datalad.org/shub/Katerintse/singularity_hub_test/gstlal_all_inclusive_test/2019-09-03-6fef2e2b-64ddd70d/
+datalad_url: https://datasets.datalad.org?dir=/shub/Katerintse/singularity_hub_test/gstlal_all_inclusive_test/2019-09-03-6fef2e2b-64ddd70d/
 recipe: https://datasets.datalad.org/shub/Katerintse/singularity_hub_test/gstlal_all_inclusive_test/2019-09-03-6fef2e2b-64ddd70d/Singularity
 collection: Katerintse/singularity_hub_test
 ---

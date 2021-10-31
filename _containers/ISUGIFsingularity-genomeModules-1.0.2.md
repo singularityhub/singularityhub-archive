@@ -9,7 +9,7 @@ build_date: "2020-07-15T16:44:45.941Z"
 size_mb: 1624
 size: 835846175
 sif: "https://datasets.datalad.org/shub/ISUGIFsingularity/genomeModules/1.0.2/2020-07-15-07c90f44-b2889c4e/b2889c4e80c28812d0778005ec54d9ba.simg"
-url: https://datasets.datalad.org/shub/ISUGIFsingularity/genomeModules/1.0.2/2020-07-15-07c90f44-b2889c4e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISUGIFsingularity/genomeModules/1.0.2/2020-07-15-07c90f44-b2889c4e/
 recipe: https://datasets.datalad.org/shub/ISUGIFsingularity/genomeModules/1.0.2/2020-07-15-07c90f44-b2889c4e/Singularity
 collection: ISUGIFsingularity/genomeModules
 ---

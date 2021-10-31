@@ -9,7 +9,7 @@ build_date: "2019-11-07T18:54:01.302Z"
 size_mb: 3297.0
 size: 1697550367
 sif: "https://datasets.datalad.org/shub/MuhsinFatih/singularity_with_sudo/0.0-gpu-py3/2019-11-07-c42d8774-fe747de9/fe747de99b0076448e3a21f45d22c8c2.sif"
-url: https://datasets.datalad.org/shub/MuhsinFatih/singularity_with_sudo/0.0-gpu-py3/2019-11-07-c42d8774-fe747de9/
+datalad_url: https://datasets.datalad.org?dir=/shub/MuhsinFatih/singularity_with_sudo/0.0-gpu-py3/2019-11-07-c42d8774-fe747de9/
 recipe: https://datasets.datalad.org/shub/MuhsinFatih/singularity_with_sudo/0.0-gpu-py3/2019-11-07-c42d8774-fe747de9/Singularity
 collection: MuhsinFatih/singularity_with_sudo
 ---

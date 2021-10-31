@@ -9,7 +9,7 @@ build_date: "2020-05-19T08:35:01.883Z"
 size_mb: 3506.90234375
 size: 3677253632
 sif: "https://datasets.datalad.org/shub/zhinoos/singularity/ver2/2020-05-19-6209c754-0204e732/0204e732f5814dc350f88cdf3b15019624d799162acf30b9f5e184fb01a3cf04.sif"
-url: https://datasets.datalad.org/shub/zhinoos/singularity/ver2/2020-05-19-6209c754-0204e732/
+datalad_url: https://datasets.datalad.org?dir=/shub/zhinoos/singularity/ver2/2020-05-19-6209c754-0204e732/
 recipe: https://datasets.datalad.org/shub/zhinoos/singularity/ver2/2020-05-19-6209c754-0204e732/Singularity
 collection: zhinoos/singularity
 ---

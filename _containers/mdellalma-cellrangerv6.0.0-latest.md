@@ -9,7 +9,7 @@ build_date: "2021-03-31T17:00:32.021Z"
 size_mb: 2596.0
 size: 1154437151
 sif: "https://datasets.datalad.org/shub/mdellalma/cellrangerv6.0.0/latest/2021-03-31-247a4185-32c0cde4/32c0cde4c81ec93278bba767fee651fd.sif"
-url: https://datasets.datalad.org/shub/mdellalma/cellrangerv6.0.0/latest/2021-03-31-247a4185-32c0cde4/
+datalad_url: https://datasets.datalad.org?dir=/shub/mdellalma/cellrangerv6.0.0/latest/2021-03-31-247a4185-32c0cde4/
 recipe: https://datasets.datalad.org/shub/mdellalma/cellrangerv6.0.0/latest/2021-03-31-247a4185-32c0cde4/Singularity
 collection: mdellalma/cellrangerv6.0.0
 ---

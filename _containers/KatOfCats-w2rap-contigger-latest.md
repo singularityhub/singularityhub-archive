@@ -9,7 +9,7 @@ build_date: "2020-09-01T09:40:36.061Z"
 size_mb: 2856.0
 size: 682663967
 sif: "https://datasets.datalad.org/shub/KatOfCats/w2rap-contigger/latest/2020-09-01-5c9df00f-d31cd606/d31cd6065413bef73082c44c988b8808.sif"
-url: https://datasets.datalad.org/shub/KatOfCats/w2rap-contigger/latest/2020-09-01-5c9df00f-d31cd606/
+datalad_url: https://datasets.datalad.org?dir=/shub/KatOfCats/w2rap-contigger/latest/2020-09-01-5c9df00f-d31cd606/
 recipe: https://datasets.datalad.org/shub/KatOfCats/w2rap-contigger/latest/2020-09-01-5c9df00f-d31cd606/Singularity
 collection: KatOfCats/w2rap-contigger
 ---

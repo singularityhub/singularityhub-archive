@@ -9,7 +9,7 @@ build_date: "2018-08-29T06:36:16.239Z"
 size_mb: 15800
 size: 8582725663
 sif: "https://datasets.datalad.org/shub/suujia/botty/latest/2018-08-29-13a30a39-1532c7be/1532c7be1c37d6b8a760f2090f459f2d.simg"
-url: https://datasets.datalad.org/shub/suujia/botty/latest/2018-08-29-13a30a39-1532c7be/
+datalad_url: https://datasets.datalad.org?dir=/shub/suujia/botty/latest/2018-08-29-13a30a39-1532c7be/
 recipe: https://datasets.datalad.org/shub/suujia/botty/latest/2018-08-29-13a30a39-1532c7be/Singularity
 collection: suujia/botty
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-07T01:18:17.721Z"
 size_mb: 17
 size: 5111839
 sif: "https://datasets.datalad.org/shub/giovannipizzi/singularity-doubler/latest/2019-03-07-8c329b8c-201bbb0a/201bbb0a63e3bc4089d73b1bfea303fe.simg"
-url: https://datasets.datalad.org/shub/giovannipizzi/singularity-doubler/latest/2019-03-07-8c329b8c-201bbb0a/
+datalad_url: https://datasets.datalad.org?dir=/shub/giovannipizzi/singularity-doubler/latest/2019-03-07-8c329b8c-201bbb0a/
 recipe: https://datasets.datalad.org/shub/giovannipizzi/singularity-doubler/latest/2019-03-07-8c329b8c-201bbb0a/Singularity
 collection: giovannipizzi/singularity-doubler
 ---

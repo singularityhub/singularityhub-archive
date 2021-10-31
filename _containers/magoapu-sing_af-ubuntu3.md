@@ -9,7 +9,7 @@ build_date: "2019-02-25T16:42:17.560Z"
 size_mb: 2360
 size: 1206079519
 sif: "https://datasets.datalad.org/shub/magoapu/sing_af/ubuntu3/2019-02-25-c7355df6-71aad753/71aad75350fa06471108d498ce35f47c.simg"
-url: https://datasets.datalad.org/shub/magoapu/sing_af/ubuntu3/2019-02-25-c7355df6-71aad753/
+datalad_url: https://datasets.datalad.org?dir=/shub/magoapu/sing_af/ubuntu3/2019-02-25-c7355df6-71aad753/
 recipe: https://datasets.datalad.org/shub/magoapu/sing_af/ubuntu3/2019-02-25-c7355df6-71aad753/Singularity
 collection: magoapu/sing_af
 ---

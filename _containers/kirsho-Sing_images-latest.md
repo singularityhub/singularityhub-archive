@@ -9,7 +9,7 @@ build_date: "2019-11-11T23:35:20.567Z"
 size_mb: 948.0
 size: 300269599
 sif: "https://datasets.datalad.org/shub/kirsho/Sing_images/latest/2019-11-11-bb3cfbd7-4edabf9f/4edabf9fed992a84848523603f7e5ced.sif"
-url: https://datasets.datalad.org/shub/kirsho/Sing_images/latest/2019-11-11-bb3cfbd7-4edabf9f/
+datalad_url: https://datasets.datalad.org?dir=/shub/kirsho/Sing_images/latest/2019-11-11-bb3cfbd7-4edabf9f/
 recipe: https://datasets.datalad.org/shub/kirsho/Sing_images/latest/2019-11-11-bb3cfbd7-4edabf9f/Singularity
 collection: kirsho/Sing_images
 ---

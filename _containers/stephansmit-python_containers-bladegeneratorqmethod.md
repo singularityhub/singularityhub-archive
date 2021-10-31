@@ -9,7 +9,7 @@ build_date: "2019-08-26T20:00:06.114Z"
 size_mb: 813.0
 size: 339595295
 sif: "https://datasets.datalad.org/shub/stephansmit/python_containers/bladegeneratorqmethod/2019-08-26-31b2ebb7-1a20a409/1a20a409288c947024ed88c1b5ae802a.sif"
-url: https://datasets.datalad.org/shub/stephansmit/python_containers/bladegeneratorqmethod/2019-08-26-31b2ebb7-1a20a409/
+datalad_url: https://datasets.datalad.org?dir=/shub/stephansmit/python_containers/bladegeneratorqmethod/2019-08-26-31b2ebb7-1a20a409/
 recipe: https://datasets.datalad.org/shub/stephansmit/python_containers/bladegeneratorqmethod/2019-08-26-31b2ebb7-1a20a409/Singularity
 collection: stephansmit/python_containers
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-26T00:45:55.467Z"
 size_mb: 119
 size: 55762975
 sif: "https://datasets.datalad.org/shub/netcatninja/glibc/latest/2020-09-26-1a5ecb57-9d7544f9/9d7544f92377138ae4fa1f8e12c0171d.simg"
-url: https://datasets.datalad.org/shub/netcatninja/glibc/latest/2020-09-26-1a5ecb57-9d7544f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/netcatninja/glibc/latest/2020-09-26-1a5ecb57-9d7544f9/
 recipe: https://datasets.datalad.org/shub/netcatninja/glibc/latest/2020-09-26-1a5ecb57-9d7544f9/Singularity
 collection: netcatninja/glibc
 ---

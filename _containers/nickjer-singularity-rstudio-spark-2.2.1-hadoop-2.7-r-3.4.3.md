@@ -9,7 +9,7 @@ build_date: "2018-03-11T21:43:45.230Z"
 size_mb: 1717
 size: 662728735
 sif: "https://datasets.datalad.org/shub/nickjer/singularity-rstudio-spark/2.2.1-hadoop-2.7-r-3.4.3/2018-03-11-4cdff764-85c240d6/85c240d6d6e3e0f8892745da2832a4f3.simg"
-url: https://datasets.datalad.org/shub/nickjer/singularity-rstudio-spark/2.2.1-hadoop-2.7-r-3.4.3/2018-03-11-4cdff764-85c240d6/
+datalad_url: https://datasets.datalad.org?dir=/shub/nickjer/singularity-rstudio-spark/2.2.1-hadoop-2.7-r-3.4.3/2018-03-11-4cdff764-85c240d6/
 recipe: https://datasets.datalad.org/shub/nickjer/singularity-rstudio-spark/2.2.1-hadoop-2.7-r-3.4.3/2018-03-11-4cdff764-85c240d6/Singularity
 collection: nickjer/singularity-rstudio-spark
 ---

@@ -9,7 +9,7 @@ build_date: "2020-07-28T02:27:49.366Z"
 size_mb: 309
 size: 120225823
 sif: "https://datasets.datalad.org/shub/kasbohm/singularity_codeserver/latest/2020-07-28-0630ecff-4efec26a/4efec26aa0a0ebd1ea929c26bb07472b.simg"
-url: https://datasets.datalad.org/shub/kasbohm/singularity_codeserver/latest/2020-07-28-0630ecff-4efec26a/
+datalad_url: https://datasets.datalad.org?dir=/shub/kasbohm/singularity_codeserver/latest/2020-07-28-0630ecff-4efec26a/
 recipe: https://datasets.datalad.org/shub/kasbohm/singularity_codeserver/latest/2020-07-28-0630ecff-4efec26a/Singularity
 collection: kasbohm/singularity_codeserver
 ---

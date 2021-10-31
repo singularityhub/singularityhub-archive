@@ -9,7 +9,7 @@ build_date: "2020-06-04T15:50:44.527Z"
 size_mb: 1350.83984375
 size: 1416458240
 sif: "https://datasets.datalad.org/shub/jpetucci/icds_aci_singularity-ubuntu/latest/2020-06-04-6af157f8-7c99a5fb/7c99a5fb9b1097926192aec17ff815408c18ade4e1c5a3ce3fc3e5d728f30d7d.sif"
-url: https://datasets.datalad.org/shub/jpetucci/icds_aci_singularity-ubuntu/latest/2020-06-04-6af157f8-7c99a5fb/
+datalad_url: https://datasets.datalad.org?dir=/shub/jpetucci/icds_aci_singularity-ubuntu/latest/2020-06-04-6af157f8-7c99a5fb/
 recipe: https://datasets.datalad.org/shub/jpetucci/icds_aci_singularity-ubuntu/latest/2020-06-04-6af157f8-7c99a5fb/Singularity
 collection: jpetucci/icds_aci_singularity-ubuntu
 ---

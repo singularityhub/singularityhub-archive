@@ -9,7 +9,7 @@ build_date: "2020-04-14T17:13:51.314Z"
 size_mb: 1770.0
 size: 599416863
 sif: "https://datasets.datalad.org/shub/romxero/fenics-srcc/latest/2020-04-14-51ecfb6c-8fb31831/8fb3183121b9e71e5d40f62164445dfc.sif"
-url: https://datasets.datalad.org/shub/romxero/fenics-srcc/latest/2020-04-14-51ecfb6c-8fb31831/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/fenics-srcc/latest/2020-04-14-51ecfb6c-8fb31831/
 recipe: https://datasets.datalad.org/shub/romxero/fenics-srcc/latest/2020-04-14-51ecfb6c-8fb31831/Singularity
 collection: romxero/fenics-srcc
 ---

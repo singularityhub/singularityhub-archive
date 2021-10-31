@@ -9,7 +9,7 @@ build_date: "2020-09-17T13:10:37.646Z"
 size_mb: 10744.0
 size: 4244074527
 sif: "https://datasets.datalad.org/shub/c3se/containers/tensorflow-v2.2.0-tf2-py3-ngc-r20.08/2020-09-17-2095eed4-2bc6c920/2bc6c920079ee1dd576cd2ffdfea223d.sif"
-url: https://datasets.datalad.org/shub/c3se/containers/tensorflow-v2.2.0-tf2-py3-ngc-r20.08/2020-09-17-2095eed4-2bc6c920/
+datalad_url: https://datasets.datalad.org?dir=/shub/c3se/containers/tensorflow-v2.2.0-tf2-py3-ngc-r20.08/2020-09-17-2095eed4-2bc6c920/
 recipe: https://datasets.datalad.org/shub/c3se/containers/tensorflow-v2.2.0-tf2-py3-ngc-r20.08/2020-09-17-2095eed4-2bc6c920/Singularity
 collection: c3se/containers
 ---

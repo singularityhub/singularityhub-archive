@@ -9,7 +9,7 @@ build_date: "2020-10-14T22:31:52.913Z"
 size_mb: 945.88671875
 size: 991834112
 sif: "https://datasets.datalad.org/shub/TomHarrop/ont-containers/minknow_20.06.4/2020-10-14-7bf57979-288c55cb/288c55cb52eb1f1d37376ec2c53ab625e6cd213888ef4b6d0f7ef1ce64e714c8.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/ont-containers/minknow_20.06.4/2020-10-14-7bf57979-288c55cb/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/ont-containers/minknow_20.06.4/2020-10-14-7bf57979-288c55cb/
 recipe: https://datasets.datalad.org/shub/TomHarrop/ont-containers/minknow_20.06.4/2020-10-14-7bf57979-288c55cb/Singularity
 collection: TomHarrop/ont-containers
 ---

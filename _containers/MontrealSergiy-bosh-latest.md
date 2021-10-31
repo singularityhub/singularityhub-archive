@@ -9,7 +9,7 @@ build_date: "2019-04-23T21:56:10.209Z"
 size_mb: 479
 size: 182538271
 sif: "https://datasets.datalad.org/shub/MontrealSergiy/bosh/latest/2019-04-23-d886464d-0f377f00/0f377f00ac3870a414da5f7787cb234f.simg"
-url: https://datasets.datalad.org/shub/MontrealSergiy/bosh/latest/2019-04-23-d886464d-0f377f00/
+datalad_url: https://datasets.datalad.org?dir=/shub/MontrealSergiy/bosh/latest/2019-04-23-d886464d-0f377f00/
 recipe: https://datasets.datalad.org/shub/MontrealSergiy/bosh/latest/2019-04-23-d886464d-0f377f00/Singularity
 collection: MontrealSergiy/bosh
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-19T10:30:16.949Z"
 size_mb: 3060.0
 size: 1055326239
 sif: "https://datasets.datalad.org/shub/marcjwilliams1/rstudiosrvrV4/latest/2021-04-19-7a4d2e39-7d466acd/7d466acd7b523a376be2f9e04fce1ff8.sif"
-url: https://datasets.datalad.org/shub/marcjwilliams1/rstudiosrvrV4/latest/2021-04-19-7a4d2e39-7d466acd/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcjwilliams1/rstudiosrvrV4/latest/2021-04-19-7a4d2e39-7d466acd/
 recipe: https://datasets.datalad.org/shub/marcjwilliams1/rstudiosrvrV4/latest/2021-04-19-7a4d2e39-7d466acd/Singularity
 collection: marcjwilliams1/rstudiosrvrV4
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-28T21:11:32.360Z"
 size_mb: 1684.0
 size: 586469407
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/ior-3.3.0rc1-ubuntu-18.04-openmpi-3.1.6/2020-12-28-b4153179-1d7e8244/1d7e8244d30fa1200ca1e96b9c1716f6.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/ior-3.3.0rc1-ubuntu-18.04-openmpi-3.1.6/2020-12-28-b4153179-1d7e8244/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/ior-3.3.0rc1-ubuntu-18.04-openmpi-3.1.6/2020-12-28-b4153179-1d7e8244/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/ior-3.3.0rc1-ubuntu-18.04-openmpi-3.1.6/2020-12-28-b4153179-1d7e8244/Singularity
 collection: mkandes/naked-singularity
 ---

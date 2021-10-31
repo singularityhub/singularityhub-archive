@@ -9,7 +9,7 @@ build_date: "2021-02-27T01:05:33.765Z"
 size_mb: 8856.0
 size: 4576477215
 sif: "https://datasets.datalad.org/shub/skykiny/pytorch_dgx/harrier/2021-02-27-89df8e7b-3001af09/3001af09de0fbe83b99febfd93d2a93c.sif"
-url: https://datasets.datalad.org/shub/skykiny/pytorch_dgx/harrier/2021-02-27-89df8e7b-3001af09/
+datalad_url: https://datasets.datalad.org?dir=/shub/skykiny/pytorch_dgx/harrier/2021-02-27-89df8e7b-3001af09/
 recipe: https://datasets.datalad.org/shub/skykiny/pytorch_dgx/harrier/2021-02-27-89df8e7b-3001af09/Singularity
 collection: skykiny/pytorch_dgx
 ---

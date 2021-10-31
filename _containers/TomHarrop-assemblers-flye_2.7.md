@@ -9,7 +9,7 @@ build_date: "2020-12-08T22:01:44.662Z"
 size_mb: 209.421875
 size: 219594752
 sif: "https://datasets.datalad.org/shub/TomHarrop/assemblers/flye_2.7/2020-12-08-e7f1aaab-02da1618/02da1618144345f21d663c5987638096bb20e723d3d3ea431370dea730746f6a.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assemblers/flye_2.7/2020-12-08-e7f1aaab-02da1618/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assemblers/flye_2.7/2020-12-08-e7f1aaab-02da1618/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assemblers/flye_2.7/2020-12-08-e7f1aaab-02da1618/Singularity
 collection: TomHarrop/assemblers
 ---

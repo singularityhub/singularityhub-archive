@@ -9,7 +9,7 @@ build_date: "2017-11-23T00:35:31.364Z"
 size_mb: 4849
 size: 1801125919
 sif: "https://datasets.datalad.org/shub/marcc-hpc/cellrangerdev/latest/2017-11-23-a6c999c1-7136dc8c/7136dc8ce599418dcd04a018902618a8.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/cellrangerdev/latest/2017-11-23-a6c999c1-7136dc8c/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/cellrangerdev/latest/2017-11-23-a6c999c1-7136dc8c/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/cellrangerdev/latest/2017-11-23-a6c999c1-7136dc8c/Singularity
 collection: marcc-hpc/cellrangerdev
 ---

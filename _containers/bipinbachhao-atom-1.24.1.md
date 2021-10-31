@@ -9,7 +9,7 @@ build_date: "2018-10-19T18:21:05.368Z"
 size_mb: 1238
 size: 389300255
 sif: "https://datasets.datalad.org/shub/bipinbachhao/atom/1.24.1/2018-10-19-ab0eac1a-19c68128/19c681289f246785d802595010e9ebf9.simg"
-url: https://datasets.datalad.org/shub/bipinbachhao/atom/1.24.1/2018-10-19-ab0eac1a-19c68128/
+datalad_url: https://datasets.datalad.org?dir=/shub/bipinbachhao/atom/1.24.1/2018-10-19-ab0eac1a-19c68128/
 recipe: https://datasets.datalad.org/shub/bipinbachhao/atom/1.24.1/2018-10-19-ab0eac1a-19c68128/Singularity
 collection: bipinbachhao/atom
 ---

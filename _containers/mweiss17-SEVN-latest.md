@@ -9,7 +9,7 @@ build_date: "2019-09-28T23:28:27.185Z"
 size_mb: 3196.4921875
 size: 3351764992
 sif: "https://datasets.datalad.org/shub/mweiss17/SEVN/latest/2019-09-28-765e3527-03ba29fa/03ba29fa4b0e54c06f4aee023ab141cae39de7604a2d73ecd54fd9120c5ab636.sif"
-url: https://datasets.datalad.org/shub/mweiss17/SEVN/latest/2019-09-28-765e3527-03ba29fa/
+datalad_url: https://datasets.datalad.org?dir=/shub/mweiss17/SEVN/latest/2019-09-28-765e3527-03ba29fa/
 recipe: https://datasets.datalad.org/shub/mweiss17/SEVN/latest/2019-09-28-765e3527-03ba29fa/Singularity
 collection: mweiss17/SEVN
 ---

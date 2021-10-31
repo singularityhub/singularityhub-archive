@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:52.313Z"
 size_mb: 2961
 size: 1727082527
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/repronim-simple-workflow--1.1.0/2021-03-19-d4108e95-14888c9e/14888c9ed120ad0244f5e15ab635bcc2.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/repronim-simple-workflow--1.1.0/2021-03-19-d4108e95-14888c9e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/repronim-simple-workflow--1.1.0/2021-03-19-d4108e95-14888c9e/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/repronim-simple-workflow--1.1.0/2021-03-19-d4108e95-14888c9e/Singularity
 collection: ReproNim/containers
 ---

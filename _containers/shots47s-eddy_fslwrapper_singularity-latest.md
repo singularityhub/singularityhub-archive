@@ -9,7 +9,7 @@ build_date: "2018-08-01T23:02:31.785Z"
 size_mb: 9696
 size: 4522135583
 sif: "https://datasets.datalad.org/shub/shots47s/eddy_fslwrapper_singularity/latest/2018-08-01-3049c99d-0749beb3/0749beb393d09a20f45443c217664284.simg"
-url: https://datasets.datalad.org/shub/shots47s/eddy_fslwrapper_singularity/latest/2018-08-01-3049c99d-0749beb3/
+datalad_url: https://datasets.datalad.org?dir=/shub/shots47s/eddy_fslwrapper_singularity/latest/2018-08-01-3049c99d-0749beb3/
 recipe: https://datasets.datalad.org/shub/shots47s/eddy_fslwrapper_singularity/latest/2018-08-01-3049c99d-0749beb3/Singularity
 collection: shots47s/eddy_fslwrapper_singularity
 ---

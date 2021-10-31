@@ -9,7 +9,7 @@ build_date: "2019-10-28T05:57:14.912Z"
 size_mb: 404.0
 size: 146378783
 sif: "https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-dropbox/dropbox/2019-10-28-6d35c517-9171b93f/9171b93f01245c2d4a931130a6351094.sif"
-url: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-dropbox/dropbox/2019-10-28-6d35c517-9171b93f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ternaustralia/coesra-singularity-dropbox/dropbox/2019-10-28-6d35c517-9171b93f/
 recipe: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-dropbox/dropbox/2019-10-28-6d35c517-9171b93f/Singularity
 collection: ternaustralia/coesra-singularity-dropbox
 ---

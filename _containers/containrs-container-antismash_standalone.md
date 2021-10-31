@@ -9,7 +9,7 @@ build_date: "2021-04-12T11:51:22.531Z"
 size_mb: 10548.0
 size: 4409520159
 sif: "https://datasets.datalad.org/shub/containrs/container/antismash_standalone/2021-04-12-fc8d7829-298eb5d4/298eb5d483b1beb1f126edb6806d0992.sif"
-url: https://datasets.datalad.org/shub/containrs/container/antismash_standalone/2021-04-12-fc8d7829-298eb5d4/
+datalad_url: https://datasets.datalad.org?dir=/shub/containrs/container/antismash_standalone/2021-04-12-fc8d7829-298eb5d4/
 recipe: https://datasets.datalad.org/shub/containrs/container/antismash_standalone/2021-04-12-fc8d7829-298eb5d4/Singularity
 collection: containrs/container
 ---

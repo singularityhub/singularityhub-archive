@@ -9,7 +9,7 @@ build_date: "2019-03-30T02:29:55.838Z"
 size_mb: 10619
 size: 4328607775
 sif: "https://datasets.datalad.org/shub/tobiasschlatter/BA-Eye-Tracking/playground/2019-03-30-bda47e30-3ac88c67/3ac88c674d40c0894142101401fd4742.simg"
-url: https://datasets.datalad.org/shub/tobiasschlatter/BA-Eye-Tracking/playground/2019-03-30-bda47e30-3ac88c67/
+datalad_url: https://datasets.datalad.org?dir=/shub/tobiasschlatter/BA-Eye-Tracking/playground/2019-03-30-bda47e30-3ac88c67/
 recipe: https://datasets.datalad.org/shub/tobiasschlatter/BA-Eye-Tracking/playground/2019-03-30-bda47e30-3ac88c67/Singularity
 collection: tobiasschlatter/BA-Eye-Tracking
 ---

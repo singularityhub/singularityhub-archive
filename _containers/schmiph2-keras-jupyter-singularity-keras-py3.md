@@ -9,7 +9,7 @@ build_date: "2021-04-13T14:00:46.645Z"
 size_mb: 3260
 size: 1599991839
 sif: "https://datasets.datalad.org/shub/schmiph2/keras-jupyter-singularity/keras-py3/2021-04-13-6172b442-22c9c9f0/22c9c9f0eeacbcfaa86f6a9dcc42f620.simg"
-url: https://datasets.datalad.org/shub/schmiph2/keras-jupyter-singularity/keras-py3/2021-04-13-6172b442-22c9c9f0/
+datalad_url: https://datasets.datalad.org?dir=/shub/schmiph2/keras-jupyter-singularity/keras-py3/2021-04-13-6172b442-22c9c9f0/
 recipe: https://datasets.datalad.org/shub/schmiph2/keras-jupyter-singularity/keras-py3/2021-04-13-6172b442-22c9c9f0/Singularity
 collection: schmiph2/keras-jupyter-singularity
 ---

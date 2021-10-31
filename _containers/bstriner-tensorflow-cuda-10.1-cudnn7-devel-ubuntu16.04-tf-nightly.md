@@ -9,7 +9,7 @@ build_date: "2021-03-31T13:34:25.045Z"
 size_mb: 6247
 size: 3340099615
 sif: "https://datasets.datalad.org/shub/bstriner/tensorflow-cuda-10.1-cudnn7-devel-ubuntu16.04/tf-nightly/2021-03-31-09e7d09d-cc2b6b1b/cc2b6b1b5453661f92144ff2f239c9be.simg"
-url: https://datasets.datalad.org/shub/bstriner/tensorflow-cuda-10.1-cudnn7-devel-ubuntu16.04/tf-nightly/2021-03-31-09e7d09d-cc2b6b1b/
+datalad_url: https://datasets.datalad.org?dir=/shub/bstriner/tensorflow-cuda-10.1-cudnn7-devel-ubuntu16.04/tf-nightly/2021-03-31-09e7d09d-cc2b6b1b/
 recipe: https://datasets.datalad.org/shub/bstriner/tensorflow-cuda-10.1-cudnn7-devel-ubuntu16.04/tf-nightly/2021-03-31-09e7d09d-cc2b6b1b/Singularity
 collection: bstriner/tensorflow-cuda-10.1-cudnn7-devel-ubuntu16.04
 ---

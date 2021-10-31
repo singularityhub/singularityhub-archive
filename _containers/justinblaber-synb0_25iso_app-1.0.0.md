@@ -9,7 +9,7 @@ build_date: "2020-06-19T22:21:30.748Z"
 size_mb: 29391
 size: 10947473439
 sif: "https://datasets.datalad.org/shub/justinblaber/synb0_25iso_app/1.0.0/2020-06-19-a164a8fb-df2528d5/df2528d5fa940e61aa5a527efc5348dd.simg"
-url: https://datasets.datalad.org/shub/justinblaber/synb0_25iso_app/1.0.0/2020-06-19-a164a8fb-df2528d5/
+datalad_url: https://datasets.datalad.org?dir=/shub/justinblaber/synb0_25iso_app/1.0.0/2020-06-19-a164a8fb-df2528d5/
 recipe: https://datasets.datalad.org/shub/justinblaber/synb0_25iso_app/1.0.0/2020-06-19-a164a8fb-df2528d5/Singularity
 collection: justinblaber/synb0_25iso_app
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-22T03:43:40.045Z"
 size_mb: 2814.0
 size: 2066739231
 sif: "https://datasets.datalad.org/shub/frankier/gsoc2020/cineast/2020-09-22-a0595913-4abdae25/4abdae25539c2a7677ac54ab0e11a8d3.sif"
-url: https://datasets.datalad.org/shub/frankier/gsoc2020/cineast/2020-09-22-a0595913-4abdae25/
+datalad_url: https://datasets.datalad.org?dir=/shub/frankier/gsoc2020/cineast/2020-09-22-a0595913-4abdae25/
 recipe: https://datasets.datalad.org/shub/frankier/gsoc2020/cineast/2020-09-22-a0595913-4abdae25/Singularity
 collection: frankier/gsoc2020
 ---

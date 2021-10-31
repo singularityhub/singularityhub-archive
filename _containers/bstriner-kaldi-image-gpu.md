@@ -9,7 +9,7 @@ build_date: "2019-09-02T20:25:08.385Z"
 size_mb: 12366.0
 size: 3827154975
 sif: "https://datasets.datalad.org/shub/bstriner/kaldi-image/gpu/2019-09-02-77fd88f4-f0199dba/f0199dba6618418cdbd9934ed644adde.sif"
-url: https://datasets.datalad.org/shub/bstriner/kaldi-image/gpu/2019-09-02-77fd88f4-f0199dba/
+datalad_url: https://datasets.datalad.org?dir=/shub/bstriner/kaldi-image/gpu/2019-09-02-77fd88f4-f0199dba/
 recipe: https://datasets.datalad.org/shub/bstriner/kaldi-image/gpu/2019-09-02-77fd88f4-f0199dba/Singularity
 collection: bstriner/kaldi-image
 ---

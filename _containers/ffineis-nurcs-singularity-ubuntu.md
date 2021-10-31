@@ -9,7 +9,7 @@ build_date: "2020-03-02T18:13:40.013Z"
 size_mb: 717
 size: 307204127
 sif: "https://datasets.datalad.org/shub/ffineis/nurcs-singularity/ubuntu/2020-03-02-0d69068d-4a2f0f3a/4a2f0f3af3ae76f3b0ad26c38c31f5a3.simg"
-url: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/ubuntu/2020-03-02-0d69068d-4a2f0f3a/
+datalad_url: https://datasets.datalad.org?dir=/shub/ffineis/nurcs-singularity/ubuntu/2020-03-02-0d69068d-4a2f0f3a/
 recipe: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/ubuntu/2020-03-02-0d69068d-4a2f0f3a/Singularity
 collection: ffineis/nurcs-singularity
 ---

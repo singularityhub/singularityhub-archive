@@ -9,7 +9,7 @@ build_date: "2018-09-19T22:54:40.256Z"
 size_mb: 95
 size: 37011487
 sif: "https://datasets.datalad.org/shub/mypandos/Singularity_testing/ubuntu16_04/2018-09-19-7fdc85b3-37e93f21/37e93f21a782ddcc6ece2cf7d3321242.simg"
-url: https://datasets.datalad.org/shub/mypandos/Singularity_testing/ubuntu16_04/2018-09-19-7fdc85b3-37e93f21/
+datalad_url: https://datasets.datalad.org?dir=/shub/mypandos/Singularity_testing/ubuntu16_04/2018-09-19-7fdc85b3-37e93f21/
 recipe: https://datasets.datalad.org/shub/mypandos/Singularity_testing/ubuntu16_04/2018-09-19-7fdc85b3-37e93f21/Singularity
 collection: mypandos/Singularity_testing
 ---

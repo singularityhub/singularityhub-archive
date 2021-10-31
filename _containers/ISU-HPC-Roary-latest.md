@@ -9,7 +9,7 @@ build_date: "2018-10-28T06:48:36.207Z"
 size_mb: 1649
 size: 532516895
 sif: "https://datasets.datalad.org/shub/ISU-HPC/Roary/latest/2018-10-28-c05f2c90-15135141/151351410db6bfa4f52bf3b71670a56d.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/Roary/latest/2018-10-28-c05f2c90-15135141/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/Roary/latest/2018-10-28-c05f2c90-15135141/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/Roary/latest/2018-10-28-c05f2c90-15135141/Singularity
 collection: ISU-HPC/Roary
 ---

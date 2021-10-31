@@ -9,7 +9,7 @@ build_date: "2019-10-11T21:00:34.293Z"
 size_mb: 2782.0
 size: 852574239
 sif: "https://datasets.datalad.org/shub/trwhitcomb/metcontainers/latest/2019-10-11-30e505ac-79ee2c18/79ee2c18a1b442439078a80b3a9f8afa.sif"
-url: https://datasets.datalad.org/shub/trwhitcomb/metcontainers/latest/2019-10-11-30e505ac-79ee2c18/
+datalad_url: https://datasets.datalad.org?dir=/shub/trwhitcomb/metcontainers/latest/2019-10-11-30e505ac-79ee2c18/
 recipe: https://datasets.datalad.org/shub/trwhitcomb/metcontainers/latest/2019-10-11-30e505ac-79ee2c18/Singularity
 collection: trwhitcomb/metcontainers
 ---

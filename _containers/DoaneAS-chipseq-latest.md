@@ -9,7 +9,7 @@ build_date: "2019-01-08T20:58:21.603Z"
 size_mb: 5859
 size: 2743910431
 sif: "https://datasets.datalad.org/shub/DoaneAS/chipseq/latest/2019-01-08-520cef50-1926e558/1926e5587ee2fe96ff250aea199cca0f.simg"
-url: https://datasets.datalad.org/shub/DoaneAS/chipseq/latest/2019-01-08-520cef50-1926e558/
+datalad_url: https://datasets.datalad.org?dir=/shub/DoaneAS/chipseq/latest/2019-01-08-520cef50-1926e558/
 recipe: https://datasets.datalad.org/shub/DoaneAS/chipseq/latest/2019-01-08-520cef50-1926e558/Singularity
 collection: DoaneAS/chipseq
 ---

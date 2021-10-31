@@ -9,7 +9,7 @@ build_date: "2021-02-16T23:18:14.148Z"
 size_mb: 5694.0
 size: 2614726687
 sif: "https://datasets.datalad.org/shub/jackjamend/CaptionContainer/torch_java11/2021-02-16-6f5887d3-1a238ccc/1a238cccda6cbe3f2ed14004848b4010.sif"
-url: https://datasets.datalad.org/shub/jackjamend/CaptionContainer/torch_java11/2021-02-16-6f5887d3-1a238ccc/
+datalad_url: https://datasets.datalad.org?dir=/shub/jackjamend/CaptionContainer/torch_java11/2021-02-16-6f5887d3-1a238ccc/
 recipe: https://datasets.datalad.org/shub/jackjamend/CaptionContainer/torch_java11/2021-02-16-6f5887d3-1a238ccc/Singularity
 collection: jackjamend/CaptionContainer
 ---

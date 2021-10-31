@@ -9,7 +9,7 @@ build_date: "2019-05-23T03:52:52.793Z"
 size_mb: 2360
 size: 1122873375
 sif: "https://datasets.datalad.org/shub/edwardchalstrey1/turingbench/mandelbrot/2019-05-23-fc40b8ed-faaf283e/faaf283eb49fa378a1995939c2a91dc3.simg"
-url: https://datasets.datalad.org/shub/edwardchalstrey1/turingbench/mandelbrot/2019-05-23-fc40b8ed-faaf283e/
+datalad_url: https://datasets.datalad.org?dir=/shub/edwardchalstrey1/turingbench/mandelbrot/2019-05-23-fc40b8ed-faaf283e/
 recipe: https://datasets.datalad.org/shub/edwardchalstrey1/turingbench/mandelbrot/2019-05-23-fc40b8ed-faaf283e/Singularity
 collection: edwardchalstrey1/turingbench
 ---

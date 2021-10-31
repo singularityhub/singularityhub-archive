@@ -9,7 +9,7 @@ build_date: "2020-07-02T07:23:24.223Z"
 size_mb: 5645.0
 size: 3200483359
 sif: "https://datasets.datalad.org/shub/afreenmirza3010/msc-cluster-code/latest/2020-07-02-71c31aea-94b6decd/94b6decd9ffba085f96f9bad5e24baf6.sif"
-url: https://datasets.datalad.org/shub/afreenmirza3010/msc-cluster-code/latest/2020-07-02-71c31aea-94b6decd/
+datalad_url: https://datasets.datalad.org?dir=/shub/afreenmirza3010/msc-cluster-code/latest/2020-07-02-71c31aea-94b6decd/
 recipe: https://datasets.datalad.org/shub/afreenmirza3010/msc-cluster-code/latest/2020-07-02-71c31aea-94b6decd/Singularity
 collection: afreenmirza3010/msc-cluster-code
 ---

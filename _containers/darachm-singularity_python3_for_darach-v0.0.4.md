@@ -9,7 +9,7 @@ build_date: "2020-09-25T06:39:05.710Z"
 size_mb: 1156.0
 size: 485134367
 sif: "https://datasets.datalad.org/shub/darachm/singularity_python3_for_darach/v0.0.4/2020-09-25-4e66b4e4-8a555cbc/8a555cbc7bd28066cf5bb7cef374a920.sif"
-url: https://datasets.datalad.org/shub/darachm/singularity_python3_for_darach/v0.0.4/2020-09-25-4e66b4e4-8a555cbc/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_python3_for_darach/v0.0.4/2020-09-25-4e66b4e4-8a555cbc/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_python3_for_darach/v0.0.4/2020-09-25-4e66b4e4-8a555cbc/Singularity
 collection: darachm/singularity_python3_for_darach
 ---

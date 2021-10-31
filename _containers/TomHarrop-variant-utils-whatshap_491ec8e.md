@@ -9,7 +9,7 @@ build_date: "2020-12-02T22:04:41.810Z"
 size_mb: 442.25
 size: 463732736
 sif: "https://datasets.datalad.org/shub/TomHarrop/variant-utils/whatshap_491ec8e/2020-12-02-44309438-95bbf81f/95bbf81f84771c4e5905c893ab81d58e467fe6f5a9d2377a7d00b47418188f23.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/variant-utils/whatshap_491ec8e/2020-12-02-44309438-95bbf81f/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/variant-utils/whatshap_491ec8e/2020-12-02-44309438-95bbf81f/
 recipe: https://datasets.datalad.org/shub/TomHarrop/variant-utils/whatshap_491ec8e/2020-12-02-44309438-95bbf81f/Singularity
 collection: TomHarrop/variant-utils
 ---

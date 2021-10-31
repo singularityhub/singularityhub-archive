@@ -9,7 +9,7 @@ build_date: "2019-04-13T15:19:00.989Z"
 size_mb: 27099
 size: 10970685471
 sif: "https://datasets.datalad.org/shub/pndni/development-image/dev/2019-04-13-8fc07a39-45d98e3c/45d98e3c85fc4b8b12866b911c520088.simg"
-url: https://datasets.datalad.org/shub/pndni/development-image/dev/2019-04-13-8fc07a39-45d98e3c/
+datalad_url: https://datasets.datalad.org?dir=/shub/pndni/development-image/dev/2019-04-13-8fc07a39-45d98e3c/
 recipe: https://datasets.datalad.org/shub/pndni/development-image/dev/2019-04-13-8fc07a39-45d98e3c/Singularity
 collection: pndni/development-image
 ---

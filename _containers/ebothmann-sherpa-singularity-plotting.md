@@ -9,7 +9,7 @@ build_date: "2019-04-03T14:45:49.554Z"
 size_mb: 1348
 size: 453996575
 sif: "https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/plotting/2019-04-03-e9c3a47f-8c94a357/8c94a3574049904bf231cfcee666b7db.simg"
-url: https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/plotting/2019-04-03-e9c3a47f-8c94a357/
+datalad_url: https://datasets.datalad.org?dir=/shub/ebothmann/sherpa-singularity/plotting/2019-04-03-e9c3a47f-8c94a357/
 recipe: https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/plotting/2019-04-03-e9c3a47f-8c94a357/Singularity
 collection: ebothmann/sherpa-singularity
 ---

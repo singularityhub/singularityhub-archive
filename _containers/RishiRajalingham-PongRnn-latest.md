@@ -9,7 +9,7 @@ build_date: "2019-08-30T16:34:29.307Z"
 size_mb: 3865.0
 size: 1885241375
 sif: "https://datasets.datalad.org/shub/RishiRajalingham/PongRnn/latest/2019-08-30-f05482b3-a9a9d5bb/a9a9d5bb04cf450de9a1f6ddf2cbd921.sif"
-url: https://datasets.datalad.org/shub/RishiRajalingham/PongRnn/latest/2019-08-30-f05482b3-a9a9d5bb/
+datalad_url: https://datasets.datalad.org?dir=/shub/RishiRajalingham/PongRnn/latest/2019-08-30-f05482b3-a9a9d5bb/
 recipe: https://datasets.datalad.org/shub/RishiRajalingham/PongRnn/latest/2019-08-30-f05482b3-a9a9d5bb/Singularity
 collection: RishiRajalingham/PongRnn
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-14T04:36:31.212Z"
 size_mb: 932.0
 size: 332177439
 sif: "https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-macroecodesktop/macroecodesktop/2020-12-14-13161b99-8c15448e/8c15448e7b97be71b16c9f16e7c29648.sif"
-url: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-macroecodesktop/macroecodesktop/2020-12-14-13161b99-8c15448e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ternaustralia/coesra-singularity-macroecodesktop/macroecodesktop/2020-12-14-13161b99-8c15448e/
 recipe: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-macroecodesktop/macroecodesktop/2020-12-14-13161b99-8c15448e/Singularity
 collection: ternaustralia/coesra-singularity-macroecodesktop
 ---

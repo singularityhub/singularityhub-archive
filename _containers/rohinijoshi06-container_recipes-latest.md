@@ -9,7 +9,7 @@ build_date: "2019-06-21T06:30:09.391Z"
 size_mb: 1922
 size: 634163231
 sif: "https://datasets.datalad.org/shub/rohinijoshi06/container_recipes/latest/2019-06-21-7179ac26-9be71946/9be719465752dcca9dbdb07c8eadf925.simg"
-url: https://datasets.datalad.org/shub/rohinijoshi06/container_recipes/latest/2019-06-21-7179ac26-9be71946/
+datalad_url: https://datasets.datalad.org?dir=/shub/rohinijoshi06/container_recipes/latest/2019-06-21-7179ac26-9be71946/
 recipe: https://datasets.datalad.org/shub/rohinijoshi06/container_recipes/latest/2019-06-21-7179ac26-9be71946/Singularity
 collection: rohinijoshi06/container_recipes
 ---

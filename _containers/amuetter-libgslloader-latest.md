@@ -9,7 +9,7 @@ build_date: "2017-12-20T18:05:20.783Z"
 size_mb: 147
 size: 68497439
 sif: "https://datasets.datalad.org/shub/amuetter/libgslloader/latest/2017-12-20-8f04ac43-5a4bfd3b/5a4bfd3bb34ad91eafc7e8fbbbb51f67.simg"
-url: https://datasets.datalad.org/shub/amuetter/libgslloader/latest/2017-12-20-8f04ac43-5a4bfd3b/
+datalad_url: https://datasets.datalad.org?dir=/shub/amuetter/libgslloader/latest/2017-12-20-8f04ac43-5a4bfd3b/
 recipe: https://datasets.datalad.org/shub/amuetter/libgslloader/latest/2017-12-20-8f04ac43-5a4bfd3b/Singularity
 collection: amuetter/libgslloader
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-19T15:39:54.731Z"
 size_mb: 2463.0
 size: 847425567
 sif: "https://datasets.datalad.org/shub/willgpaik/dssp_aci/latest/2020-05-19-aa834e67-6ad3f315/6ad3f315f43c4209265206aef284147c.sif"
-url: https://datasets.datalad.org/shub/willgpaik/dssp_aci/latest/2020-05-19-aa834e67-6ad3f315/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/dssp_aci/latest/2020-05-19-aa834e67-6ad3f315/
 recipe: https://datasets.datalad.org/shub/willgpaik/dssp_aci/latest/2020-05-19-aa834e67-6ad3f315/Singularity
 collection: willgpaik/dssp_aci
 ---

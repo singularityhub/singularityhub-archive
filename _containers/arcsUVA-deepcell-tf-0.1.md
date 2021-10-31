@@ -9,7 +9,7 @@ build_date: "2019-05-29T07:57:59.258Z"
 size_mb: 3841
 size: 2091937823
 sif: "https://datasets.datalad.org/shub/arcsUVA/deepcell-tf/0.1/2019-05-29-4d372711-cad2255f/cad2255fae1a6414263ef2f3fcc93f7c.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/deepcell-tf/0.1/2019-05-29-4d372711-cad2255f/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/deepcell-tf/0.1/2019-05-29-4d372711-cad2255f/
 recipe: https://datasets.datalad.org/shub/arcsUVA/deepcell-tf/0.1/2019-05-29-4d372711-cad2255f/Singularity
 collection: arcsUVA/deepcell-tf
 ---

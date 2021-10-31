@@ -9,7 +9,7 @@ build_date: "2020-09-22T12:05:54.314Z"
 size_mb: 1852.0
 size: 706175007
 sif: "https://datasets.datalad.org/shub/Aucomte/Containers/r.def/2020-09-22-5026da31-887cdfd4/887cdfd4de52687515d87d886f4fc033.sif"
-url: https://datasets.datalad.org/shub/Aucomte/Containers/r.def/2020-09-22-5026da31-887cdfd4/
+datalad_url: https://datasets.datalad.org?dir=/shub/Aucomte/Containers/r.def/2020-09-22-5026da31-887cdfd4/
 recipe: https://datasets.datalad.org/shub/Aucomte/Containers/r.def/2020-09-22-5026da31-887cdfd4/Singularity
 collection: Aucomte/Containers
 ---

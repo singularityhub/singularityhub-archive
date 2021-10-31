@@ -9,7 +9,7 @@ build_date: "2018-03-26T15:01:54.983Z"
 size_mb: 5072
 size: 2700783647
 sif: "https://datasets.datalad.org/shub/belledon/pytorch_sing/0.3.1/2018-03-26-2e8d8024-77f8fff6/77f8fff6ab3123770716355c786e138b.simg"
-url: https://datasets.datalad.org/shub/belledon/pytorch_sing/0.3.1/2018-03-26-2e8d8024-77f8fff6/
+datalad_url: https://datasets.datalad.org?dir=/shub/belledon/pytorch_sing/0.3.1/2018-03-26-2e8d8024-77f8fff6/
 recipe: https://datasets.datalad.org/shub/belledon/pytorch_sing/0.3.1/2018-03-26-2e8d8024-77f8fff6/Singularity
 collection: belledon/pytorch_sing
 ---

@@ -9,7 +9,7 @@ build_date: "2018-09-04T14:36:37.135Z"
 size_mb: 6676
 size: 3025371167
 sif: "https://datasets.datalad.org/shub/AmirMoMo/tensorflow/latest/2018-09-04-f8792d81-e51ffa19/e51ffa19d133b09dc53def20c3f9fb49.simg"
-url: https://datasets.datalad.org/shub/AmirMoMo/tensorflow/latest/2018-09-04-f8792d81-e51ffa19/
+datalad_url: https://datasets.datalad.org?dir=/shub/AmirMoMo/tensorflow/latest/2018-09-04-f8792d81-e51ffa19/
 recipe: https://datasets.datalad.org/shub/AmirMoMo/tensorflow/latest/2018-09-04-f8792d81-e51ffa19/Singularity
 collection: AmirMoMo/tensorflow
 ---

@@ -9,7 +9,7 @@ build_date: "2017-11-09T13:22:23.803Z"
 size_mb: 546
 size: 182603807
 sif: "https://datasets.datalad.org/shub/expfactory-experiments/breath-counting-task/latest/2017-11-09-3c08d3f8-544839f0/544839f00ade3fe68afa6863b9bb2e1f.simg"
-url: https://datasets.datalad.org/shub/expfactory-experiments/breath-counting-task/latest/2017-11-09-3c08d3f8-544839f0/
+datalad_url: https://datasets.datalad.org?dir=/shub/expfactory-experiments/breath-counting-task/latest/2017-11-09-3c08d3f8-544839f0/
 recipe: https://datasets.datalad.org/shub/expfactory-experiments/breath-counting-task/latest/2017-11-09-3c08d3f8-544839f0/Singularity
 collection: expfactory-experiments/breath-counting-task
 ---

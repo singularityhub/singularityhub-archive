@@ -9,7 +9,7 @@ build_date: "2019-09-03T18:28:45.202Z"
 size_mb: 121.0
 size: 56553503
 sif: "https://datasets.datalad.org/shub/hbraunDSP/containers/xenial/2019-09-03-db93504f-7cf9b48b/7cf9b48bc3bff1904da0ea9a437e011b.sif"
-url: https://datasets.datalad.org/shub/hbraunDSP/containers/xenial/2019-09-03-db93504f-7cf9b48b/
+datalad_url: https://datasets.datalad.org?dir=/shub/hbraunDSP/containers/xenial/2019-09-03-db93504f-7cf9b48b/
 recipe: https://datasets.datalad.org/shub/hbraunDSP/containers/xenial/2019-09-03-db93504f-7cf9b48b/Singularity
 collection: hbraunDSP/containers
 ---

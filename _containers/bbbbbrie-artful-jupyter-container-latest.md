@@ -9,7 +9,7 @@ build_date: "2018-04-09T07:25:38.584Z"
 size_mb: 1933
 size: 1109868575
 sif: "https://datasets.datalad.org/shub/bbbbbrie/artful-jupyter-container/latest/2018-04-09-1ec3d29c-8f5a8b08/8f5a8b08fa8d2469eb768dfdd4ff9170.simg"
-url: https://datasets.datalad.org/shub/bbbbbrie/artful-jupyter-container/latest/2018-04-09-1ec3d29c-8f5a8b08/
+datalad_url: https://datasets.datalad.org?dir=/shub/bbbbbrie/artful-jupyter-container/latest/2018-04-09-1ec3d29c-8f5a8b08/
 recipe: https://datasets.datalad.org/shub/bbbbbrie/artful-jupyter-container/latest/2018-04-09-1ec3d29c-8f5a8b08/Singularity
 collection: bbbbbrie/singularity-cookbook
 ---

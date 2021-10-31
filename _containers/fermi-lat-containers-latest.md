@@ -9,7 +9,7 @@ build_date: "2019-01-08T16:16:13.500Z"
 size_mb: 737
 size: 209399839
 sif: "https://datasets.datalad.org/shub/fermi-lat/containers/latest/2019-01-08-49a0789a-e518a6bf/e518a6bfdae61cdaa47f91b3f4bff7a8.simg"
-url: https://datasets.datalad.org/shub/fermi-lat/containers/latest/2019-01-08-49a0789a-e518a6bf/
+datalad_url: https://datasets.datalad.org?dir=/shub/fermi-lat/containers/latest/2019-01-08-49a0789a-e518a6bf/
 recipe: https://datasets.datalad.org/shub/fermi-lat/containers/latest/2019-01-08-49a0789a-e518a6bf/Singularity
 collection: fermi-lat/containers
 ---

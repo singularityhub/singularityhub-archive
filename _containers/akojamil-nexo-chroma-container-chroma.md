@@ -9,7 +9,7 @@ build_date: "2020-11-03T02:48:20.641Z"
 size_mb: 8379.0
 size: 3090386975
 sif: "https://datasets.datalad.org/shub/akojamil/nexo-chroma-container/chroma/2020-11-03-7777c672-b5ffdac1/b5ffdac149cc2e88024d2ae367da7a24.sif"
-url: https://datasets.datalad.org/shub/akojamil/nexo-chroma-container/chroma/2020-11-03-7777c672-b5ffdac1/
+datalad_url: https://datasets.datalad.org?dir=/shub/akojamil/nexo-chroma-container/chroma/2020-11-03-7777c672-b5ffdac1/
 recipe: https://datasets.datalad.org/shub/akojamil/nexo-chroma-container/chroma/2020-11-03-7777c672-b5ffdac1/Singularity
 collection: akojamil/nexo-chroma-container
 ---

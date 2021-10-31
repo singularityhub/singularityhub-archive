@@ -9,7 +9,7 @@ build_date: "2019-10-15T18:06:38.513Z"
 size_mb: 1012
 size: 513335327
 sif: "https://datasets.datalad.org/shub/tin6150/circos/latest/2019-10-15-d793adb4-265f23de/265f23de0661046de700372b3c31ecda.simg"
-url: https://datasets.datalad.org/shub/tin6150/circos/latest/2019-10-15-d793adb4-265f23de/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/circos/latest/2019-10-15-d793adb4-265f23de/
 recipe: https://datasets.datalad.org/shub/tin6150/circos/latest/2019-10-15-d793adb4-265f23de/Singularity
 collection: tin6150/circos
 ---

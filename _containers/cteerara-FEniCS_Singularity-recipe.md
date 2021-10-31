@@ -9,7 +9,7 @@ build_date: "2019-10-01T04:31:38.387Z"
 size_mb: 566.2109375
 size: 593715200
 sif: "https://datasets.datalad.org/shub/cteerara/FEniCS_Singularity/recipe/2019-10-01-a29623de-4fcf26d7/4fcf26d79f16e9f4d6fedffe69fdbbdc31d5617508da5a00b9bcf71223a2a889.sif"
-url: https://datasets.datalad.org/shub/cteerara/FEniCS_Singularity/recipe/2019-10-01-a29623de-4fcf26d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/cteerara/FEniCS_Singularity/recipe/2019-10-01-a29623de-4fcf26d7/
 recipe: https://datasets.datalad.org/shub/cteerara/FEniCS_Singularity/recipe/2019-10-01-a29623de-4fcf26d7/Singularity
 collection: cteerara/FEniCS_Singularity
 ---

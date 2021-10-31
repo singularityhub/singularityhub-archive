@@ -9,7 +9,7 @@ build_date: "2021-02-05T09:04:12.808Z"
 size_mb: 427.0
 size: 140996639
 sif: "https://datasets.datalad.org/shub/harryscholes/julia-singularity/1.2.0/2021-02-05-17c85e8d-a2e7ab9f/a2e7ab9f764bce41804585b753dc5d48.sif"
-url: https://datasets.datalad.org/shub/harryscholes/julia-singularity/1.2.0/2021-02-05-17c85e8d-a2e7ab9f/
+datalad_url: https://datasets.datalad.org?dir=/shub/harryscholes/julia-singularity/1.2.0/2021-02-05-17c85e8d-a2e7ab9f/
 recipe: https://datasets.datalad.org/shub/harryscholes/julia-singularity/1.2.0/2021-02-05-17c85e8d-a2e7ab9f/Singularity
 collection: harryscholes/julia-singularity
 ---

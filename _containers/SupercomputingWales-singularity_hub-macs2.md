@@ -9,7 +9,7 @@ build_date: "2019-02-15T19:29:42.778Z"
 size_mb: 1031
 size: 359120927
 sif: "https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/macs2/2019-02-15-a8355d4a-3954a4d2/3954a4d2c17f43d4c24c62a66d72e2bb.simg"
-url: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/macs2/2019-02-15-a8355d4a-3954a4d2/
+datalad_url: https://datasets.datalad.org?dir=/shub/SupercomputingWales/singularity_hub/macs2/2019-02-15-a8355d4a-3954a4d2/
 recipe: https://datasets.datalad.org/shub/SupercomputingWales/singularity_hub/macs2/2019-02-15-a8355d4a-3954a4d2/Singularity
 collection: SupercomputingWales/singularity_hub
 ---

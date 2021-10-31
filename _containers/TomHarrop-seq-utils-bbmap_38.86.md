@@ -9,7 +9,7 @@ build_date: "2021-03-03T10:36:20.432Z"
 size_mb: 478.38671875
 size: 501624832
 sif: "https://datasets.datalad.org/shub/TomHarrop/seq-utils/bbmap_38.86/2021-03-03-81414c30-f26c85fc/f26c85fcae296349911cee4cd979e7650b833c89dc7636a5d178978d385f4e88.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/seq-utils/bbmap_38.86/2021-03-03-81414c30-f26c85fc/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/seq-utils/bbmap_38.86/2021-03-03-81414c30-f26c85fc/
 recipe: https://datasets.datalad.org/shub/TomHarrop/seq-utils/bbmap_38.86/2021-03-03-81414c30-f26c85fc/Singularity
 collection: TomHarrop/seq-utils
 ---

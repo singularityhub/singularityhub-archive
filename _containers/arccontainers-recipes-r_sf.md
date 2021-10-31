@@ -9,7 +9,7 @@ build_date: "2018-04-20T16:55:26.693Z"
 size_mb: 1864
 size: 604913695
 sif: "https://datasets.datalad.org/shub/arccontainers/recipes/r_sf/2018-04-20-d0d51f09-bf45f60f/bf45f60f1a6ff39ccf2726be9c1eb657.simg"
-url: https://datasets.datalad.org/shub/arccontainers/recipes/r_sf/2018-04-20-d0d51f09-bf45f60f/
+datalad_url: https://datasets.datalad.org?dir=/shub/arccontainers/recipes/r_sf/2018-04-20-d0d51f09-bf45f60f/
 recipe: https://datasets.datalad.org/shub/arccontainers/recipes/r_sf/2018-04-20-d0d51f09-bf45f60f/Singularity
 collection: arccontainers/recipes
 ---

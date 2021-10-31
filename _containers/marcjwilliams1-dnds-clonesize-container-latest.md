@@ -9,7 +9,7 @@ build_date: "2019-10-24T14:11:14.306Z"
 size_mb: 5015.0
 size: 1814319135
 sif: "https://datasets.datalad.org/shub/marcjwilliams1/dnds-clonesize-container/latest/2019-10-24-510900b4-1e97c691/1e97c691d6df7e7a1e0d49012e12fd27.sif"
-url: https://datasets.datalad.org/shub/marcjwilliams1/dnds-clonesize-container/latest/2019-10-24-510900b4-1e97c691/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcjwilliams1/dnds-clonesize-container/latest/2019-10-24-510900b4-1e97c691/
 recipe: https://datasets.datalad.org/shub/marcjwilliams1/dnds-clonesize-container/latest/2019-10-24-510900b4-1e97c691/Singularity
 collection: marcjwilliams1/dnds-clonesize-container
 ---

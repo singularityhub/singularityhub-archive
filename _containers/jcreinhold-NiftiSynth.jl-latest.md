@@ -9,7 +9,7 @@ build_date: "2018-12-29T03:55:59.450Z"
 size_mb: 579
 size: 196526111
 sif: "https://datasets.datalad.org/shub/jcreinhold/NiftiSynth.jl/latest/2018-12-29-c6e0c86b-f6666b25/f6666b257d1df2deccc1f121743f66b0.simg"
-url: https://datasets.datalad.org/shub/jcreinhold/NiftiSynth.jl/latest/2018-12-29-c6e0c86b-f6666b25/
+datalad_url: https://datasets.datalad.org?dir=/shub/jcreinhold/NiftiSynth.jl/latest/2018-12-29-c6e0c86b-f6666b25/
 recipe: https://datasets.datalad.org/shub/jcreinhold/NiftiSynth.jl/latest/2018-12-29-c6e0c86b-f6666b25/Singularity
 collection: jcreinhold/NiftiSynth.jl
 ---

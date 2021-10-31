@@ -9,7 +9,7 @@ build_date: "2017-10-30T16:11:34.865Z"
 size_mb: 2175
 size: 855744543
 sif: "https://datasets.datalad.org/shub/cokelaer/pacbio4all/v2/2017-10-30-39049337-bcbd9878/bcbd9878444450edbd557d6d23820a2d.simg"
-url: https://datasets.datalad.org/shub/cokelaer/pacbio4all/v2/2017-10-30-39049337-bcbd9878/
+datalad_url: https://datasets.datalad.org?dir=/shub/cokelaer/pacbio4all/v2/2017-10-30-39049337-bcbd9878/
 recipe: https://datasets.datalad.org/shub/cokelaer/pacbio4all/v2/2017-10-30-39049337-bcbd9878/Singularity
 collection: cokelaer/pacbio4all
 ---

@@ -9,7 +9,7 @@ build_date: "2020-11-28T08:07:47.676Z"
 size_mb: 594
 size: 213999647
 sif: "https://datasets.datalad.org/shub/xrobin/singularity-plip/latest/2020-11-28-62ddf678-8563eba3/8563eba3735e143e099e4373cd44ce75.simg"
-url: https://datasets.datalad.org/shub/xrobin/singularity-plip/latest/2020-11-28-62ddf678-8563eba3/
+datalad_url: https://datasets.datalad.org?dir=/shub/xrobin/singularity-plip/latest/2020-11-28-62ddf678-8563eba3/
 recipe: https://datasets.datalad.org/shub/xrobin/singularity-plip/latest/2020-11-28-62ddf678-8563eba3/Singularity
 collection: xrobin/singularity-plip
 ---

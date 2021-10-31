@@ -9,7 +9,7 @@ build_date: "2017-11-17T21:29:55.242Z"
 size_mb: 451
 size: 140046367
 sif: "https://datasets.datalad.org/shub/taranaki/visus-singularity/latest/2017-11-17-bbee238f-30bcc3f9/30bcc3f946251104ced411f3ea7a1eb4.simg"
-url: https://datasets.datalad.org/shub/taranaki/visus-singularity/latest/2017-11-17-bbee238f-30bcc3f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/taranaki/visus-singularity/latest/2017-11-17-bbee238f-30bcc3f9/
 recipe: https://datasets.datalad.org/shub/taranaki/visus-singularity/latest/2017-11-17-bbee238f-30bcc3f9/Singularity
 collection: taranaki/visus-singularity
 ---

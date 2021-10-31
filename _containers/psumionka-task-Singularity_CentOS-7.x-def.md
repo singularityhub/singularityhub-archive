@@ -9,7 +9,7 @@ build_date: "2019-10-29T16:46:23.998Z"
 size_mb: 286.90234375
 size: 300838912
 sif: "https://datasets.datalad.org/shub/psumionka-task/Singularity_CentOS-7.x/def/2019-10-29-c14d8248-acf35939/acf35939b6d77614d204ecfa5f15051de5a2eb44de71abed27137cce0eda59bd.sif"
-url: https://datasets.datalad.org/shub/psumionka-task/Singularity_CentOS-7.x/def/2019-10-29-c14d8248-acf35939/
+datalad_url: https://datasets.datalad.org?dir=/shub/psumionka-task/Singularity_CentOS-7.x/def/2019-10-29-c14d8248-acf35939/
 recipe: https://datasets.datalad.org/shub/psumionka-task/Singularity_CentOS-7.x/def/2019-10-29-c14d8248-acf35939/Singularity
 collection: psumionka-task/Singularity_CentOS-7.x
 ---

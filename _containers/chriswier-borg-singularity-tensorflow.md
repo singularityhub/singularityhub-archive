@@ -9,7 +9,7 @@ build_date: "2018-05-11T08:00:01.510Z"
 size_mb: 3003
 size: 1346232351
 sif: "https://datasets.datalad.org/shub/chriswier/borg-singularity/tensorflow/2018-05-11-6df9a080-ab701145/ab701145aff18ff65250c8816a0aa331.simg"
-url: https://datasets.datalad.org/shub/chriswier/borg-singularity/tensorflow/2018-05-11-6df9a080-ab701145/
+datalad_url: https://datasets.datalad.org?dir=/shub/chriswier/borg-singularity/tensorflow/2018-05-11-6df9a080-ab701145/
 recipe: https://datasets.datalad.org/shub/chriswier/borg-singularity/tensorflow/2018-05-11-6df9a080-ab701145/Singularity
 collection: chriswier/borg-singularity
 ---

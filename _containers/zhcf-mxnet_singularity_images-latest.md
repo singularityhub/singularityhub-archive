@@ -9,7 +9,7 @@ build_date: "2018-07-08T15:19:20.943Z"
 size_mb: 630
 size: 232103967
 sif: "https://datasets.datalad.org/shub/zhcf/mxnet_singularity_images/latest/2018-07-08-1d32950a-0967f0b9/0967f0b98743f0f16d6b23ea76c8612d.simg"
-url: https://datasets.datalad.org/shub/zhcf/mxnet_singularity_images/latest/2018-07-08-1d32950a-0967f0b9/
+datalad_url: https://datasets.datalad.org?dir=/shub/zhcf/mxnet_singularity_images/latest/2018-07-08-1d32950a-0967f0b9/
 recipe: https://datasets.datalad.org/shub/zhcf/mxnet_singularity_images/latest/2018-07-08-1d32950a-0967f0b9/Singularity
 collection: zhcf/mxnet_singularity_images
 ---

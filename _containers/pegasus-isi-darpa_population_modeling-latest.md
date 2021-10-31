@@ -9,7 +9,7 @@ build_date: "2019-09-26T20:51:25.288Z"
 size_mb: 1360
 size: 507453471
 sif: "https://datasets.datalad.org/shub/pegasus-isi/darpa_population_modeling/latest/2019-09-26-9a69e646-b8561a18/b8561a18783f28d188f9bf4849237766.simg"
-url: https://datasets.datalad.org/shub/pegasus-isi/darpa_population_modeling/latest/2019-09-26-9a69e646-b8561a18/
+datalad_url: https://datasets.datalad.org?dir=/shub/pegasus-isi/darpa_population_modeling/latest/2019-09-26-9a69e646-b8561a18/
 recipe: https://datasets.datalad.org/shub/pegasus-isi/darpa_population_modeling/latest/2019-09-26-9a69e646-b8561a18/Singularity
 collection: pegasus-isi/darpa_population_modeling
 ---

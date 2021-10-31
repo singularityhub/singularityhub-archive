@@ -9,7 +9,7 @@ build_date: "2020-01-01T15:41:00.041Z"
 size_mb: 5435.0
 size: 2544738335
 sif: "https://datasets.datalad.org/shub/motroy/U50-cdc/latest/2020-01-01-e506ba89-132a0d23/132a0d2343dc6d263cb2e7c2317f378d.sif"
-url: https://datasets.datalad.org/shub/motroy/U50-cdc/latest/2020-01-01-e506ba89-132a0d23/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/U50-cdc/latest/2020-01-01-e506ba89-132a0d23/
 recipe: https://datasets.datalad.org/shub/motroy/U50-cdc/latest/2020-01-01-e506ba89-132a0d23/Singularity
 collection: motroy/U50-cdc
 ---

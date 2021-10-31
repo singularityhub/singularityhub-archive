@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.832Z"
 size_mb: 1814
 size: 737890335
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_ouijaflow/ouijaflow/2019-04-04-3a8ce2d4-3acb6cf3/3acb6cf3a4bdfa40ae835e0ceead50b0.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_ouijaflow/ouijaflow/2019-04-04-3a8ce2d4-3acb6cf3/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_ouijaflow/ouijaflow/2019-04-04-3a8ce2d4-3acb6cf3/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_ouijaflow/ouijaflow/2019-04-04-3a8ce2d4-3acb6cf3/Singularity
 collection: cemmeydan/ti_ouijaflow
 ---

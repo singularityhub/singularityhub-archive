@@ -9,7 +9,7 @@ build_date: "2018-04-28T18:44:39.752Z"
 size_mb: 1387
 size: 572616735
 sif: "https://datasets.datalad.org/shub/pstrz/cMisoKG/docker/2018-04-28-60da2342-097807e1/097807e1d8f610541035216fd487e196.simg"
-url: https://datasets.datalad.org/shub/pstrz/cMisoKG/docker/2018-04-28-60da2342-097807e1/
+datalad_url: https://datasets.datalad.org?dir=/shub/pstrz/cMisoKG/docker/2018-04-28-60da2342-097807e1/
 recipe: https://datasets.datalad.org/shub/pstrz/cMisoKG/docker/2018-04-28-60da2342-097807e1/Singularity
 collection: pstrz/cMisoKG
 ---

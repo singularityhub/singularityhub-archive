@@ -9,7 +9,7 @@ build_date: "2020-08-30T16:49:33.219Z"
 size_mb: 1074.0
 size: 452247583
 sif: "https://datasets.datalad.org/shub/Viktor1117/Cufflinks/latest/2020-08-30-4aaad551-66271e9c/66271e9c89bae426f84f28b0a992a55d.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/Cufflinks/latest/2020-08-30-4aaad551-66271e9c/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/Cufflinks/latest/2020-08-30-4aaad551-66271e9c/
 recipe: https://datasets.datalad.org/shub/Viktor1117/Cufflinks/latest/2020-08-30-4aaad551-66271e9c/Singularity
 collection: Viktor1117/Cufflinks
 ---

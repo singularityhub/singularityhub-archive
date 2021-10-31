@@ -9,7 +9,7 @@ build_date: "2019-09-27T13:30:35.209Z"
 size_mb: 2220.0
 size: 870862879
 sif: "https://datasets.datalad.org/shub/UCL-BLIC/singularity_recipes/cytofpipe/2019-09-27-b7df293c-de4f75ac/de4f75ac362041f3244f1de62f240603.sif"
-url: https://datasets.datalad.org/shub/UCL-BLIC/singularity_recipes/cytofpipe/2019-09-27-b7df293c-de4f75ac/
+datalad_url: https://datasets.datalad.org?dir=/shub/UCL-BLIC/singularity_recipes/cytofpipe/2019-09-27-b7df293c-de4f75ac/
 recipe: https://datasets.datalad.org/shub/UCL-BLIC/singularity_recipes/cytofpipe/2019-09-27-b7df293c-de4f75ac/Singularity
 collection: UCL-BLIC/singularity_recipes
 ---

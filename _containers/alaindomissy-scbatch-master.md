@@ -9,7 +9,7 @@ build_date: "2017-10-17T20:41:50.004Z"
 size_mb: 8323
 size: 2265439651
 sif: "https://datasets.datalad.org/shub/alaindomissy/scbatch/master/2017-10-17-6628389b-61d93148/61d931484dc718f49b6e4c255f0d31c0.img.gz"
-url: https://datasets.datalad.org/shub/alaindomissy/scbatch/master/2017-10-17-6628389b-61d93148/
+datalad_url: https://datasets.datalad.org?dir=/shub/alaindomissy/scbatch/master/2017-10-17-6628389b-61d93148/
 recipe: https://datasets.datalad.org/shub/alaindomissy/scbatch/master/2017-10-17-6628389b-61d93148/Singularity
 collection: alaindomissy/scbatch
 ---

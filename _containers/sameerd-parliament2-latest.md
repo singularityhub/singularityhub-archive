@@ -9,7 +9,7 @@ build_date: "2021-04-19T22:15:01.378Z"
 size_mb: 5583
 size: 2464342047
 sif: "https://datasets.datalad.org/shub/sameerd/parliament2/latest/2021-04-19-3528254a-ab278066/ab278066b752478c8a3905d27e4d2cba.simg"
-url: https://datasets.datalad.org/shub/sameerd/parliament2/latest/2021-04-19-3528254a-ab278066/
+datalad_url: https://datasets.datalad.org?dir=/shub/sameerd/parliament2/latest/2021-04-19-3528254a-ab278066/
 recipe: https://datasets.datalad.org/shub/sameerd/parliament2/latest/2021-04-19-3528254a-ab278066/Singularity
 collection: sameerd/parliament2
 ---

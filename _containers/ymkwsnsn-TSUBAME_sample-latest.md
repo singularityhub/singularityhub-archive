@@ -9,7 +9,7 @@ build_date: "2019-09-05T02:07:05.076Z"
 size_mb: 1319
 size: 395403295
 sif: "https://datasets.datalad.org/shub/ymkwsnsn/TSUBAME_sample/latest/2019-09-05-9b239946-dde13d83/dde13d835df38978dcd359e1c432ec56.simg"
-url: https://datasets.datalad.org/shub/ymkwsnsn/TSUBAME_sample/latest/2019-09-05-9b239946-dde13d83/
+datalad_url: https://datasets.datalad.org?dir=/shub/ymkwsnsn/TSUBAME_sample/latest/2019-09-05-9b239946-dde13d83/
 recipe: https://datasets.datalad.org/shub/ymkwsnsn/TSUBAME_sample/latest/2019-09-05-9b239946-dde13d83/Singularity
 collection: ymkwsnsn/TSUBAME_sample
 ---

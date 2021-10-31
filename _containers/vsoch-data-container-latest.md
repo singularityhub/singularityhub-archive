@@ -9,7 +9,7 @@ build_date: "2019-07-19T14:53:59.152Z"
 size_mb: 424.0
 size: 162848799
 sif: "https://datasets.datalad.org/shub/vsoch/data-container/latest/2019-07-19-6b06b141-6d817248/6d8172480f1f74722cafca67000e82f5.sif"
-url: https://datasets.datalad.org/shub/vsoch/data-container/latest/2019-07-19-6b06b141-6d817248/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/data-container/latest/2019-07-19-6b06b141-6d817248/
 recipe: https://datasets.datalad.org/shub/vsoch/data-container/latest/2019-07-19-6b06b141-6d817248/Singularity
 collection: vsoch/data-container
 ---

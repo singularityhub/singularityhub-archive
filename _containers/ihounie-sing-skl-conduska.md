@@ -9,7 +9,7 @@ build_date: "2020-06-01T18:57:54.077Z"
 size_mb: 2870.0
 size: 902979615
 sif: "https://datasets.datalad.org/shub/ihounie/sing-skl/conduska/2020-06-01-b2c85cd8-884f1b79/884f1b797932891e5f02cd9551c9ebc9.sif"
-url: https://datasets.datalad.org/shub/ihounie/sing-skl/conduska/2020-06-01-b2c85cd8-884f1b79/
+datalad_url: https://datasets.datalad.org?dir=/shub/ihounie/sing-skl/conduska/2020-06-01-b2c85cd8-884f1b79/
 recipe: https://datasets.datalad.org/shub/ihounie/sing-skl/conduska/2020-06-01-b2c85cd8-884f1b79/Singularity
 collection: ihounie/sing-skl
 ---

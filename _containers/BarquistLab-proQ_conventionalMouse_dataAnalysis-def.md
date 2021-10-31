@@ -9,7 +9,7 @@ build_date: "2019-09-27T13:25:14.161Z"
 size_mb: None
 size: 568303647
 sif: "https://datasets.datalad.org/shub/BarquistLab/proQ_conventionalMouse_dataAnalysis/def/2019-09-27-c2a1ef7a-01943e6c/01943e6c02fa586b8a9cbdc0cbde77b2.sif"
-url: https://datasets.datalad.org/shub/BarquistLab/proQ_conventionalMouse_dataAnalysis/def/2019-09-27-c2a1ef7a-01943e6c/
+datalad_url: https://datasets.datalad.org?dir=/shub/BarquistLab/proQ_conventionalMouse_dataAnalysis/def/2019-09-27-c2a1ef7a-01943e6c/
 recipe: https://datasets.datalad.org/shub/BarquistLab/proQ_conventionalMouse_dataAnalysis/def/2019-09-27-c2a1ef7a-01943e6c/Singularity
 collection: BarquistLab/proQ_conventionalMouse_dataAnalysis
 ---

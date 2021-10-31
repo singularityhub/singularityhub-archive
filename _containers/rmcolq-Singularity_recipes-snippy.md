@@ -9,7 +9,7 @@ build_date: "2020-07-15T12:38:05.337Z"
 size_mb: 2842.0
 size: 1220919327
 sif: "https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/snippy/2020-07-15-c74a4977-675480e7/675480e7abde4798131cbc4cb515c388.sif"
-url: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/snippy/2020-07-15-c74a4977-675480e7/
+datalad_url: https://datasets.datalad.org?dir=/shub/rmcolq/Singularity_recipes/snippy/2020-07-15-c74a4977-675480e7/
 recipe: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/snippy/2020-07-15-c74a4977-675480e7/Singularity
 collection: rmcolq/Singularity_recipes
 ---

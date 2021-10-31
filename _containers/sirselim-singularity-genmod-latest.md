@@ -9,7 +9,7 @@ build_date: "2020-07-30T01:27:34.891Z"
 size_mb: 559.0
 size: 218857503
 sif: "https://datasets.datalad.org/shub/sirselim/singularity-genmod/latest/2020-07-30-8b38c623-f733c570/f733c57041d70e24cba7120a77e2a32f.sif"
-url: https://datasets.datalad.org/shub/sirselim/singularity-genmod/latest/2020-07-30-8b38c623-f733c570/
+datalad_url: https://datasets.datalad.org?dir=/shub/sirselim/singularity-genmod/latest/2020-07-30-8b38c623-f733c570/
 recipe: https://datasets.datalad.org/shub/sirselim/singularity-genmod/latest/2020-07-30-8b38c623-f733c570/Singularity
 collection: sirselim/singularity-genmod
 ---

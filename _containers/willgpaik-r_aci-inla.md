@@ -9,7 +9,7 @@ build_date: "2019-11-04T15:55:49.292Z"
 size_mb: 2506.0
 size: 1545617408
 sif: "https://datasets.datalad.org/shub/willgpaik/r_aci/inla/2019-11-04-2fe88d76-cc228d99/cc228d99f39f0e7f90d83e88f0b84d066bab32bbf306cf06af396cad769e2f9a.sif"
-url: https://datasets.datalad.org/shub/willgpaik/r_aci/inla/2019-11-04-2fe88d76-cc228d99/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/r_aci/inla/2019-11-04-2fe88d76-cc228d99/
 recipe: https://datasets.datalad.org/shub/willgpaik/r_aci/inla/2019-11-04-2fe88d76-cc228d99/Singularity
 collection: willgpaik/r_aci
 ---

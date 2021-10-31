@@ -9,7 +9,7 @@ build_date: "2020-10-12T18:20:21.603Z"
 size_mb: 661.59765625
 size: 693735424
 sif: "https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/solexaqa/2020-10-12-d2eb1173-cf10479f/cf10479f590d310d20722d110f76ae19d89082aaec41ddfde3305230fb752ebd.sif"
-url: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/solexaqa/2020-10-12-d2eb1173-cf10479f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/solexaqa/2020-10-12-d2eb1173-cf10479f/
 recipe: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/solexaqa/2020-10-12-d2eb1173-cf10479f/Singularity
 collection: ous-uio-bioinfo-core/containerised_ATACseq_pipeline
 ---

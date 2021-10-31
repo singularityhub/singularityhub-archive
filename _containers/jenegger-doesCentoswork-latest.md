@@ -9,7 +9,7 @@ build_date: "2018-07-31T15:32:55.928Z"
 size_mb: 220
 size: 93294623
 sif: "https://datasets.datalad.org/shub/jenegger/doesCentoswork/latest/2018-07-31-5ae9cbc7-c7a86089/c7a86089f37592d6bacb035d19429362.simg"
-url: https://datasets.datalad.org/shub/jenegger/doesCentoswork/latest/2018-07-31-5ae9cbc7-c7a86089/
+datalad_url: https://datasets.datalad.org?dir=/shub/jenegger/doesCentoswork/latest/2018-07-31-5ae9cbc7-c7a86089/
 recipe: https://datasets.datalad.org/shub/jenegger/doesCentoswork/latest/2018-07-31-5ae9cbc7-c7a86089/Singularity
 collection: jenegger/doesCentoswork
 ---

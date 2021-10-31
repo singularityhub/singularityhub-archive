@@ -9,7 +9,7 @@ build_date: "2018-03-01T21:03:57.743Z"
 size_mb: 2901
 size: 1200451615
 sif: "https://datasets.datalad.org/shub/marcc-hpc/tensorflow/1.6.0-gpu/2018-03-01-a2a55008-5b3eb871/5b3eb8716694bcc7aafe306e496ca4f2.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/tensorflow/1.6.0-gpu/2018-03-01-a2a55008-5b3eb871/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/tensorflow/1.6.0-gpu/2018-03-01-a2a55008-5b3eb871/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/tensorflow/1.6.0-gpu/2018-03-01-a2a55008-5b3eb871/Singularity
 collection: marcc-hpc/tensorflow
 ---

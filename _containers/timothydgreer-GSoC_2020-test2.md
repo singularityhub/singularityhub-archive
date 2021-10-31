@@ -9,7 +9,7 @@ build_date: "2020-05-17T07:27:29.158Z"
 size_mb: 79.0
 size: 27725855
 sif: "https://datasets.datalad.org/shub/timothydgreer/GSoC_2020/test2/2020-05-17-691d4b30-d50d354a/d50d354a711a7b142f4c132c6d365715.sif"
-url: https://datasets.datalad.org/shub/timothydgreer/GSoC_2020/test2/2020-05-17-691d4b30-d50d354a/
+datalad_url: https://datasets.datalad.org?dir=/shub/timothydgreer/GSoC_2020/test2/2020-05-17-691d4b30-d50d354a/
 recipe: https://datasets.datalad.org/shub/timothydgreer/GSoC_2020/test2/2020-05-17-691d4b30-d50d354a/Singularity
 collection: timothydgreer/GSoC_2020
 ---

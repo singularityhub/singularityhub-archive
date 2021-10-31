@@ -9,7 +9,7 @@ build_date: "2018-02-17T22:08:52.898Z"
 size_mb: 824
 size: 249741343
 sif: "https://datasets.datalad.org/shub/mafreitas/singularity-openms/dependencies/2018-02-17-f3b59e04-8f582fcc/8f582fcce456c7b595383d7c6ce57123.simg"
-url: https://datasets.datalad.org/shub/mafreitas/singularity-openms/dependencies/2018-02-17-f3b59e04-8f582fcc/
+datalad_url: https://datasets.datalad.org?dir=/shub/mafreitas/singularity-openms/dependencies/2018-02-17-f3b59e04-8f582fcc/
 recipe: https://datasets.datalad.org/shub/mafreitas/singularity-openms/dependencies/2018-02-17-f3b59e04-8f582fcc/Singularity
 collection: mafreitas/singularity-openms
 ---

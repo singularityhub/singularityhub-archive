@@ -9,7 +9,7 @@ build_date: "2020-08-12T15:12:48.049Z"
 size_mb: 364.0
 size: 118747167
 sif: "https://datasets.datalad.org/shub/davidjha/mysql/latest/2020-08-12-5809fcbb-5afae9ae/5afae9aead509556b58e1eb150ceb4ee.sif"
-url: https://datasets.datalad.org/shub/davidjha/mysql/latest/2020-08-12-5809fcbb-5afae9ae/
+datalad_url: https://datasets.datalad.org?dir=/shub/davidjha/mysql/latest/2020-08-12-5809fcbb-5afae9ae/
 recipe: https://datasets.datalad.org/shub/davidjha/mysql/latest/2020-08-12-5809fcbb-5afae9ae/Singularity
 collection: davidjha/mysql
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-26T22:56:27.268Z"
 size_mb: 22600
 size: 10920476703
 sif: "https://datasets.datalad.org/shub/rogerjiang01/Intel_parallel_studio-singularity/intel-mpi/2019-06-26-eba53fef-abfe7817/abfe7817afe817367750959dd233ea10.simg"
-url: https://datasets.datalad.org/shub/rogerjiang01/Intel_parallel_studio-singularity/intel-mpi/2019-06-26-eba53fef-abfe7817/
+datalad_url: https://datasets.datalad.org?dir=/shub/rogerjiang01/Intel_parallel_studio-singularity/intel-mpi/2019-06-26-eba53fef-abfe7817/
 recipe: https://datasets.datalad.org/shub/rogerjiang01/Intel_parallel_studio-singularity/intel-mpi/2019-06-26-eba53fef-abfe7817/Singularity
 collection: rogerjiang01/Intel_parallel_studio-singularity
 ---

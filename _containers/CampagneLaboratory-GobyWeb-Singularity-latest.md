@@ -9,7 +9,7 @@ build_date: "2018-01-18T18:06:22.613Z"
 size_mb: 1505
 size: 506298399
 sif: "https://datasets.datalad.org/shub/CampagneLaboratory/GobyWeb-Singularity/latest/2018-01-18-25989927-e01b7773/e01b7773699ff59dda27798a31069448.simg"
-url: https://datasets.datalad.org/shub/CampagneLaboratory/GobyWeb-Singularity/latest/2018-01-18-25989927-e01b7773/
+datalad_url: https://datasets.datalad.org?dir=/shub/CampagneLaboratory/GobyWeb-Singularity/latest/2018-01-18-25989927-e01b7773/
 recipe: https://datasets.datalad.org/shub/CampagneLaboratory/GobyWeb-Singularity/latest/2018-01-18-25989927-e01b7773/Singularity
 collection: CampagneLaboratory/GobyWeb-Singularity
 ---

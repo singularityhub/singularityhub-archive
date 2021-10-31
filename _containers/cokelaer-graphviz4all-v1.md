@@ -9,7 +9,7 @@ build_date: "2019-08-12T10:01:23.355Z"
 size_mb: 313
 size: 90464287
 sif: "https://datasets.datalad.org/shub/cokelaer/graphviz4all/v1/2019-08-12-0527c905-d855c228/d855c2283be6c007f302b85f5a9f200c.simg"
-url: https://datasets.datalad.org/shub/cokelaer/graphviz4all/v1/2019-08-12-0527c905-d855c228/
+datalad_url: https://datasets.datalad.org?dir=/shub/cokelaer/graphviz4all/v1/2019-08-12-0527c905-d855c228/
 recipe: https://datasets.datalad.org/shub/cokelaer/graphviz4all/v1/2019-08-12-0527c905-d855c228/Singularity
 collection: cokelaer/graphviz4all
 ---

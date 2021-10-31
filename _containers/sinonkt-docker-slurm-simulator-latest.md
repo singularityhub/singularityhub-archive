@@ -9,7 +9,7 @@ build_date: "2018-10-13T22:17:37.690Z"
 size_mb: 1292
 size: 503926815
 sif: "https://datasets.datalad.org/shub/sinonkt/docker-slurm-simulator/latest/2018-10-13-6b142fbd-6120b79b/6120b79b7d3a9e65f673c172db20e540.simg"
-url: https://datasets.datalad.org/shub/sinonkt/docker-slurm-simulator/latest/2018-10-13-6b142fbd-6120b79b/
+datalad_url: https://datasets.datalad.org?dir=/shub/sinonkt/docker-slurm-simulator/latest/2018-10-13-6b142fbd-6120b79b/
 recipe: https://datasets.datalad.org/shub/sinonkt/docker-slurm-simulator/latest/2018-10-13-6b142fbd-6120b79b/Singularity
 collection: sinonkt/docker-slurm-simulator
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-29T01:34:04.398Z"
 size_mb: 2053.0
 size: 979054623
 sif: "https://datasets.datalad.org/shub/hariszaf/darn/latest/2021-03-29-f006e99b-e73c678f/e73c678f47bfec96b98f7cf5fe715110.sif"
-url: https://datasets.datalad.org/shub/hariszaf/darn/latest/2021-03-29-f006e99b-e73c678f/
+datalad_url: https://datasets.datalad.org?dir=/shub/hariszaf/darn/latest/2021-03-29-f006e99b-e73c678f/
 recipe: https://datasets.datalad.org/shub/hariszaf/darn/latest/2021-03-29-f006e99b-e73c678f/Singularity
 collection: hariszaf/darn
 ---

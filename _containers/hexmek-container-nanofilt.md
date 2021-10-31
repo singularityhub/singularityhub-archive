@@ -9,7 +9,7 @@ build_date: "2020-09-16T12:37:48.111Z"
 size_mb: 1908.0
 size: 882016287
 sif: "https://datasets.datalad.org/shub/hexmek/container/nanofilt/2020-09-16-51b6ce65-ea9cce8a/ea9cce8ae01e894cf8287fe5af21e2d7.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/nanofilt/2020-09-16-51b6ce65-ea9cce8a/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/nanofilt/2020-09-16-51b6ce65-ea9cce8a/
 recipe: https://datasets.datalad.org/shub/hexmek/container/nanofilt/2020-09-16-51b6ce65-ea9cce8a/Singularity
 collection: hexmek/container
 ---

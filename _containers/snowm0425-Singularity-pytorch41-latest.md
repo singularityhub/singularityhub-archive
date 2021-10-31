@@ -9,7 +9,7 @@ build_date: "2020-02-11T13:41:51.499Z"
 size_mb: 2431.18359375
 size: 2549280768
 sif: "https://datasets.datalad.org/shub/snowm0425/Singularity-pytorch41/latest/2020-02-11-1bc4eaff-be63e271/be63e271ad04f568d3ec8fc711922e5a42a32d51919b842c8b48541100927bb6.sif"
-url: https://datasets.datalad.org/shub/snowm0425/Singularity-pytorch41/latest/2020-02-11-1bc4eaff-be63e271/
+datalad_url: https://datasets.datalad.org?dir=/shub/snowm0425/Singularity-pytorch41/latest/2020-02-11-1bc4eaff-be63e271/
 recipe: https://datasets.datalad.org/shub/snowm0425/Singularity-pytorch41/latest/2020-02-11-1bc4eaff-be63e271/Singularity
 collection: snowm0425/Singularity-pytorch41
 ---

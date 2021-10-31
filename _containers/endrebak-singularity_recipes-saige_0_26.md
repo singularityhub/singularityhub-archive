@@ -9,7 +9,7 @@ build_date: "2018-03-07T14:12:48.404Z"
 size_mb: 3664
 size: 1589268511
 sif: "https://datasets.datalad.org/shub/endrebak/singularity_recipes/saige_0_26/2018-03-07-8ffe4b0e-10000386/100003862d118f365624ae92adc8ebf5.simg"
-url: https://datasets.datalad.org/shub/endrebak/singularity_recipes/saige_0_26/2018-03-07-8ffe4b0e-10000386/
+datalad_url: https://datasets.datalad.org?dir=/shub/endrebak/singularity_recipes/saige_0_26/2018-03-07-8ffe4b0e-10000386/
 recipe: https://datasets.datalad.org/shub/endrebak/singularity_recipes/saige_0_26/2018-03-07-8ffe4b0e-10000386/Singularity
 collection: endrebak/singularity_recipes
 ---

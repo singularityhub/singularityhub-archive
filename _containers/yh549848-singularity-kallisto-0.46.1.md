@@ -9,7 +9,7 @@ build_date: "2020-10-16T05:43:24.303Z"
 size_mb: 61.0
 size: 21721119
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-kallisto/0.46.1/2020-10-16-3ec643d4-b0ad8133/b0ad81339c920caec5b428855346dbd4.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-kallisto/0.46.1/2020-10-16-3ec643d4-b0ad8133/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-kallisto/0.46.1/2020-10-16-3ec643d4-b0ad8133/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-kallisto/0.46.1/2020-10-16-3ec643d4-b0ad8133/Singularity
 collection: yh549848/singularity-kallisto
 ---

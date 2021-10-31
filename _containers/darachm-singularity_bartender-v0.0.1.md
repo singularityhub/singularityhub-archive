@@ -9,7 +9,7 @@ build_date: "2019-12-27T14:29:35.988Z"
 size_mb: 756.0
 size: 505860127
 sif: "https://datasets.datalad.org/shub/darachm/singularity_bartender/v0.0.1/2019-12-27-12076942-bcd1911d/bcd1911db4f69c3f9c64e9a331ff683d.sif"
-url: https://datasets.datalad.org/shub/darachm/singularity_bartender/v0.0.1/2019-12-27-12076942-bcd1911d/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_bartender/v0.0.1/2019-12-27-12076942-bcd1911d/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_bartender/v0.0.1/2019-12-27-12076942-bcd1911d/Singularity
 collection: darachm/singularity_bartender
 ---

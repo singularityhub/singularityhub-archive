@@ -9,7 +9,7 @@ build_date: "2017-10-18T17:55:06.034Z"
 size_mb: 341
 size: 65347615
 sif: "https://datasets.datalad.org/shub/singularityhub/hello-registry/latest/2017-10-18-3f4d63ca-22aa66e0/22aa66e0c80847c676f34f35e70ea066.simg"
-url: https://datasets.datalad.org/shub/singularityhub/hello-registry/latest/2017-10-18-3f4d63ca-22aa66e0/
+datalad_url: https://datasets.datalad.org?dir=/shub/singularityhub/hello-registry/latest/2017-10-18-3f4d63ca-22aa66e0/
 recipe: https://datasets.datalad.org/shub/singularityhub/hello-registry/latest/2017-10-18-3f4d63ca-22aa66e0/Singularity
 collection: singularityhub/hello-registry
 ---

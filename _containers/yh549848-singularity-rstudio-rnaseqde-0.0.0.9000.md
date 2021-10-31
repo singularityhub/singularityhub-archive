@@ -9,7 +9,7 @@ build_date: "2020-11-11T08:55:54.101Z"
 size_mb: 2000.0
 size: 670986271
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-rstudio-rnaseqde/0.0.0.9000/2020-11-11-2e943b7e-6df24d9a/6df24d9ac722c6c508559c6275684d11.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-rstudio-rnaseqde/0.0.0.9000/2020-11-11-2e943b7e-6df24d9a/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-rstudio-rnaseqde/0.0.0.9000/2020-11-11-2e943b7e-6df24d9a/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-rstudio-rnaseqde/0.0.0.9000/2020-11-11-2e943b7e-6df24d9a/Singularity
 collection: yh549848/singularity-rstudio-rnaseqde
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-03T23:40:17.073Z"
 size_mb: 2146.98046875
 size: 2251272192
 sif: "https://datasets.datalad.org/shub/TomHarrop/ont-containers/medaka_v0.10.1/2019-12-03-616f9abb-e0e5af11/e0e5af11bf7d1bdcc92b94f4102aa482933abebd42a174579b1e748227a89061.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/ont-containers/medaka_v0.10.1/2019-12-03-616f9abb-e0e5af11/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/ont-containers/medaka_v0.10.1/2019-12-03-616f9abb-e0e5af11/
 recipe: https://datasets.datalad.org/shub/TomHarrop/ont-containers/medaka_v0.10.1/2019-12-03-616f9abb-e0e5af11/Singularity
 collection: TomHarrop/ont-containers
 ---

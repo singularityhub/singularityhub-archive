@@ -9,7 +9,7 @@ build_date: "2020-02-19T17:36:03.109Z"
 size_mb: 18881
 size: 7483007007
 sif: "https://datasets.datalad.org/shub/khanlab/prepdwi/v0.0.12a/2020-02-19-48797901-f2032015/f20320152a330ef9fd53bd87b5ef4bf1.simg"
-url: https://datasets.datalad.org/shub/khanlab/prepdwi/v0.0.12a/2020-02-19-48797901-f2032015/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/prepdwi/v0.0.12a/2020-02-19-48797901-f2032015/
 recipe: https://datasets.datalad.org/shub/khanlab/prepdwi/v0.0.12a/2020-02-19-48797901-f2032015/Singularity
 collection: khanlab/prepdwi
 ---

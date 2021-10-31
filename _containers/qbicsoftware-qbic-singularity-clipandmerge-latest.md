@@ -9,7 +9,7 @@ build_date: "2018-02-22T14:08:21.014Z"
 size_mb: 426
 size: 176361503
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-clipandmerge/latest/2018-02-22-e693cd1a-baceb6d5/baceb6d590ec6a073700422be180439a.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-clipandmerge/latest/2018-02-22-e693cd1a-baceb6d5/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-clipandmerge/latest/2018-02-22-e693cd1a-baceb6d5/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-clipandmerge/latest/2018-02-22-e693cd1a-baceb6d5/Singularity
 collection: qbicsoftware/qbic-singularity-clipandmerge
 ---

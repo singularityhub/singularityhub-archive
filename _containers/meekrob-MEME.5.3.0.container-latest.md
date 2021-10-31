@@ -9,7 +9,7 @@ build_date: "2021-03-10T23:48:41.563Z"
 size_mb: 477.85546875
 size: 501067776
 sif: "https://datasets.datalad.org/shub/meekrob/MEME.5.3.0.container/latest/2021-03-10-6530eada-854b934f/854b934f3e4fd8206b81668ea7cde56ecec2cf328fddebaf833fda0ef88d65aa.sif"
-url: https://datasets.datalad.org/shub/meekrob/MEME.5.3.0.container/latest/2021-03-10-6530eada-854b934f/
+datalad_url: https://datasets.datalad.org?dir=/shub/meekrob/MEME.5.3.0.container/latest/2021-03-10-6530eada-854b934f/
 recipe: https://datasets.datalad.org/shub/meekrob/MEME.5.3.0.container/latest/2021-03-10-6530eada-854b934f/Singularity
 collection: meekrob/MEME.5.3.0.container
 ---

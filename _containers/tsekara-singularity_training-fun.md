@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.161Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/tsekara/singularity_training/fun/2019-02-27-348db008-40315c39/40315c39e892490b10259244803a0034.simg"
-url: https://datasets.datalad.org/shub/tsekara/singularity_training/fun/2019-02-27-348db008-40315c39/
+datalad_url: https://datasets.datalad.org?dir=/shub/tsekara/singularity_training/fun/2019-02-27-348db008-40315c39/
 recipe: https://datasets.datalad.org/shub/tsekara/singularity_training/fun/2019-02-27-348db008-40315c39/Singularity
 collection: tsekara/singularity_training
 ---

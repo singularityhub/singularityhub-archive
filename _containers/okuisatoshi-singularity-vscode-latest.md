@@ -9,7 +9,7 @@ build_date: "2019-11-15T16:00:35.916Z"
 size_mb: 533.0
 size: 172417055
 sif: "https://datasets.datalad.org/shub/okuisatoshi/singularity-vscode/latest/2019-11-15-fdd800d3-aa13120a/aa13120a223d592b31a7f1ca5f0adf9d.sif"
-url: https://datasets.datalad.org/shub/okuisatoshi/singularity-vscode/latest/2019-11-15-fdd800d3-aa13120a/
+datalad_url: https://datasets.datalad.org?dir=/shub/okuisatoshi/singularity-vscode/latest/2019-11-15-fdd800d3-aa13120a/
 recipe: https://datasets.datalad.org/shub/okuisatoshi/singularity-vscode/latest/2019-11-15-fdd800d3-aa13120a/Singularity
 collection: okuisatoshi/singularity-vscode
 ---

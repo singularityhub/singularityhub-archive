@@ -9,7 +9,7 @@ build_date: "2020-06-19T20:18:02.897Z"
 size_mb: 3246
 size: 1165516831
 sif: "https://datasets.datalad.org/shub/elisadonnard/singularity/r3.5/2020-06-19-1c90c2ac-f3067c83/f3067c836bf743fefe60d0694e412955.simg"
-url: https://datasets.datalad.org/shub/elisadonnard/singularity/r3.5/2020-06-19-1c90c2ac-f3067c83/
+datalad_url: https://datasets.datalad.org?dir=/shub/elisadonnard/singularity/r3.5/2020-06-19-1c90c2ac-f3067c83/
 recipe: https://datasets.datalad.org/shub/elisadonnard/singularity/r3.5/2020-06-19-1c90c2ac-f3067c83/Singularity
 collection: elisadonnard/singularity
 ---

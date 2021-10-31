@@ -9,7 +9,7 @@ build_date: "2021-01-11T17:42:53.024Z"
 size_mb: 1248.0
 size: 561266719
 sif: "https://datasets.datalad.org/shub/lsx1980/3D_model_traits_measurement/latest/2021-01-11-e19d5465-80a490e6/80a490e6d1a1549a1d75a722489531f0.sif"
-url: https://datasets.datalad.org/shub/lsx1980/3D_model_traits_measurement/latest/2021-01-11-e19d5465-80a490e6/
+datalad_url: https://datasets.datalad.org?dir=/shub/lsx1980/3D_model_traits_measurement/latest/2021-01-11-e19d5465-80a490e6/
 recipe: https://datasets.datalad.org/shub/lsx1980/3D_model_traits_measurement/latest/2021-01-11-e19d5465-80a490e6/Singularity
 collection: lsx1980/3D_model_traits_measurement
 ---

@@ -9,7 +9,7 @@ build_date: "2017-12-13T18:55:31.755Z"
 size_mb: 2052
 size: 1086468127
 sif: "https://datasets.datalad.org/shub/ruycastilho/GPUtest/automatic/2017-12-13-cfc116fb-4f873f07/4f873f070a693794b0ec190cb70d40da.simg"
-url: https://datasets.datalad.org/shub/ruycastilho/GPUtest/automatic/2017-12-13-cfc116fb-4f873f07/
+datalad_url: https://datasets.datalad.org?dir=/shub/ruycastilho/GPUtest/automatic/2017-12-13-cfc116fb-4f873f07/
 recipe: https://datasets.datalad.org/shub/ruycastilho/GPUtest/automatic/2017-12-13-cfc116fb-4f873f07/Singularity
 collection: ruycastilho/GPUtest
 ---

@@ -9,7 +9,7 @@ build_date: "2017-11-09T13:22:23.847Z"
 size_mb: 668
 size: 128409631
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-tophat2/v2.1.1/2017-11-09-68710e71-27d9fcd9/27d9fcd9c13f880caebb9a39420f0451.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-tophat2/v2.1.1/2017-11-09-68710e71-27d9fcd9/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-tophat2/v2.1.1/2017-11-09-68710e71-27d9fcd9/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-tophat2/v2.1.1/2017-11-09-68710e71-27d9fcd9/Singularity
 collection: qbicsoftware/qbic-singularity-tophat2
 ---

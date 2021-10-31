@@ -9,7 +9,7 @@ build_date: "2018-01-02T11:44:24.460Z"
 size_mb: 6881
 size: 2410332191
 sif: "https://datasets.datalad.org/shub/SebastianM-C/singularity/python/2018-01-02-dea1a7d8-c0938a86/c0938a86d71275133aaab491314c6469.simg"
-url: https://datasets.datalad.org/shub/SebastianM-C/singularity/python/2018-01-02-dea1a7d8-c0938a86/
+datalad_url: https://datasets.datalad.org?dir=/shub/SebastianM-C/singularity/python/2018-01-02-dea1a7d8-c0938a86/
 recipe: https://datasets.datalad.org/shub/SebastianM-C/singularity/python/2018-01-02-dea1a7d8-c0938a86/Singularity
 collection: SebastianM-C/singularity
 ---

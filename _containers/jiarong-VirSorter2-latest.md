@@ -9,7 +9,7 @@ build_date: "2021-04-02T05:32:09.891Z"
 size_mb: 2954.0
 size: 1159315487
 sif: "https://datasets.datalad.org/shub/jiarong/VirSorter2/latest/2021-04-02-6133788f-003833b8/003833b882f288a51ed76a43bddec1e2.sif"
-url: https://datasets.datalad.org/shub/jiarong/VirSorter2/latest/2021-04-02-6133788f-003833b8/
+datalad_url: https://datasets.datalad.org?dir=/shub/jiarong/VirSorter2/latest/2021-04-02-6133788f-003833b8/
 recipe: https://datasets.datalad.org/shub/jiarong/VirSorter2/latest/2021-04-02-6133788f-003833b8/Singularity
 collection: jiarong/VirSorter2
 ---

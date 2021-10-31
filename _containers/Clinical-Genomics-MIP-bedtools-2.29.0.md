@@ -9,7 +9,7 @@ build_date: "2020-06-04T09:04:40.754Z"
 size_mb: 760.0
 size: 289640479
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/bedtools-2.29.0/2020-06-04-d1885f83-bed0991f/bed0991f900c195cdac66ba1073254fb.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/bedtools-2.29.0/2020-06-04-d1885f83-bed0991f/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/bedtools-2.29.0/2020-06-04-d1885f83-bed0991f/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/bedtools-2.29.0/2020-06-04-d1885f83-bed0991f/Singularity
 collection: Clinical-Genomics/MIP
 ---

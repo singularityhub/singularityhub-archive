@@ -9,7 +9,7 @@ build_date: "2020-12-28T21:36:26.071Z"
 size_mb: 3353.0
 size: 1003474975
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/centos-7.9.2009-mvapich-2.3.2/2020-12-28-b03d5229-8dfc83d8/8dfc83d89d7f20db0fa2ebb1d724be1c.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/centos-7.9.2009-mvapich-2.3.2/2020-12-28-b03d5229-8dfc83d8/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/centos-7.9.2009-mvapich-2.3.2/2020-12-28-b03d5229-8dfc83d8/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/centos-7.9.2009-mvapich-2.3.2/2020-12-28-b03d5229-8dfc83d8/Singularity
 collection: mkandes/naked-singularity
 ---

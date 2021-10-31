@@ -9,7 +9,7 @@ build_date: "2019-11-06T19:43:52.894Z"
 size_mb: 5670
 size: 3085008927
 sif: "https://datasets.datalad.org/shub/ucr-singularity/ml-anaconda-3/latest/2019-11-06-4f9142d3-ef37689b/ef37689b027341f2ef67174583f3e246.simg"
-url: https://datasets.datalad.org/shub/ucr-singularity/ml-anaconda-3/latest/2019-11-06-4f9142d3-ef37689b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ucr-singularity/ml-anaconda-3/latest/2019-11-06-4f9142d3-ef37689b/
 recipe: https://datasets.datalad.org/shub/ucr-singularity/ml-anaconda-3/latest/2019-11-06-4f9142d3-ef37689b/Singularity
 collection: ucr-singularity/ml-anaconda-3
 ---

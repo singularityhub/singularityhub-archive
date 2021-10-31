@@ -9,7 +9,7 @@ build_date: "2019-09-16T20:12:25.684Z"
 size_mb: 5223.0
 size: 2882297887
 sif: "https://datasets.datalad.org/shub/vmichals/singularity/l2m/2019-09-16-d72fe2d7-7350cfbd/7350cfbd423e1a5f41cbfee06d2cd4c6.sif"
-url: https://datasets.datalad.org/shub/vmichals/singularity/l2m/2019-09-16-d72fe2d7-7350cfbd/
+datalad_url: https://datasets.datalad.org?dir=/shub/vmichals/singularity/l2m/2019-09-16-d72fe2d7-7350cfbd/
 recipe: https://datasets.datalad.org/shub/vmichals/singularity/l2m/2019-09-16-d72fe2d7-7350cfbd/Singularity
 collection: vmichals/singularity
 ---

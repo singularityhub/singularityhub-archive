@@ -9,7 +9,7 @@ build_date: "2019-07-02T23:19:20.632Z"
 size_mb: 997
 size: 290877471
 sif: "https://datasets.datalad.org/shub/mvsurfsara/containers/mpich.osu-apps/2019-07-02-718abb80-544b6f7d/544b6f7d2543aac00029225a6bc81800.simg"
-url: https://datasets.datalad.org/shub/mvsurfsara/containers/mpich.osu-apps/2019-07-02-718abb80-544b6f7d/
+datalad_url: https://datasets.datalad.org?dir=/shub/mvsurfsara/containers/mpich.osu-apps/2019-07-02-718abb80-544b6f7d/
 recipe: https://datasets.datalad.org/shub/mvsurfsara/containers/mpich.osu-apps/2019-07-02-718abb80-544b6f7d/Singularity
 collection: mvsurfsara/containers
 ---

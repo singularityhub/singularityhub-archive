@@ -9,7 +9,7 @@ build_date: "2021-01-18T16:58:59.615Z"
 size_mb: 1006.0
 size: 2427428864
 sif: "https://datasets.datalad.org/shub/ast0815/highland2/v2r57_prod6t/2021-01-18-47ec87f0-ac6864c4/ac6864c4abdfa86efed0ae53c4353e8b3ad80b776b9b11be5fb1e3253e56d891.sif"
-url: https://datasets.datalad.org/shub/ast0815/highland2/v2r57_prod6t/2021-01-18-47ec87f0-ac6864c4/
+datalad_url: https://datasets.datalad.org?dir=/shub/ast0815/highland2/v2r57_prod6t/2021-01-18-47ec87f0-ac6864c4/
 recipe: https://datasets.datalad.org/shub/ast0815/highland2/v2r57_prod6t/2021-01-18-47ec87f0-ac6864c4/Singularity
 collection: ast0815/highland2
 ---

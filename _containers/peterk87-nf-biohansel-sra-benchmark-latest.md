@@ -9,7 +9,7 @@ build_date: "2019-08-22T14:49:25.000Z"
 size_mb: 2727.0
 size: 890335263
 sif: "https://datasets.datalad.org/shub/peterk87/nf-biohansel-sra-benchmark/latest/2019-08-22-5bffe183-efcb6ac5/efcb6ac586e413d73bf50bf493c4313c.sif"
-url: https://datasets.datalad.org/shub/peterk87/nf-biohansel-sra-benchmark/latest/2019-08-22-5bffe183-efcb6ac5/
+datalad_url: https://datasets.datalad.org?dir=/shub/peterk87/nf-biohansel-sra-benchmark/latest/2019-08-22-5bffe183-efcb6ac5/
 recipe: https://datasets.datalad.org/shub/peterk87/nf-biohansel-sra-benchmark/latest/2019-08-22-5bffe183-efcb6ac5/Singularity
 collection: peterk87/nf-biohansel-sra-benchmark
 ---

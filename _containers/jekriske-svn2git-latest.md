@@ -9,7 +9,7 @@ build_date: "2017-11-28T19:11:34.770Z"
 size_mb: 273
 size: 35340319
 sif: "https://datasets.datalad.org/shub/jekriske/svn2git/latest/2017-11-28-58aeabda-e32da2ae/e32da2ae2220d9fbf0a7ffa720ea70d6.simg"
-url: https://datasets.datalad.org/shub/jekriske/svn2git/latest/2017-11-28-58aeabda-e32da2ae/
+datalad_url: https://datasets.datalad.org?dir=/shub/jekriske/svn2git/latest/2017-11-28-58aeabda-e32da2ae/
 recipe: https://datasets.datalad.org/shub/jekriske/svn2git/latest/2017-11-28-58aeabda-e32da2ae/Singularity
 collection: jekriske/svn2git
 ---

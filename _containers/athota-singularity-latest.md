@@ -9,7 +9,7 @@ build_date: "2021-03-29T19:45:05.113Z"
 size_mb: 2858.59375
 size: 2997452800
 sif: "https://datasets.datalad.org/shub/athota/singularity/latest/2021-03-29-d9764284-b264ae19/b264ae195a3066dde9487d140f35b73323255e50e74fe1176054feeb665c864a.sif"
-url: https://datasets.datalad.org/shub/athota/singularity/latest/2021-03-29-d9764284-b264ae19/
+datalad_url: https://datasets.datalad.org?dir=/shub/athota/singularity/latest/2021-03-29-d9764284-b264ae19/
 recipe: https://datasets.datalad.org/shub/athota/singularity/latest/2021-03-29-d9764284-b264ae19/Singularity
 collection: athota/singularity
 ---

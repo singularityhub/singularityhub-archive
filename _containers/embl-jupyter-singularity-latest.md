@@ -9,7 +9,7 @@ build_date: "2020-11-16T09:17:06.201Z"
 size_mb: 2673.0
 size: 848379935
 sif: "https://datasets.datalad.org/shub/embl/jupyter-singularity/latest/2020-11-16-243a40fd-f756b1c6/f756b1c6631fb99e75b28eca06550dd8.sif"
-url: https://datasets.datalad.org/shub/embl/jupyter-singularity/latest/2020-11-16-243a40fd-f756b1c6/
+datalad_url: https://datasets.datalad.org?dir=/shub/embl/jupyter-singularity/latest/2020-11-16-243a40fd-f756b1c6/
 recipe: https://datasets.datalad.org/shub/embl/jupyter-singularity/latest/2020-11-16-243a40fd-f756b1c6/Singularity
 collection: embl/jupyter-singularity
 ---

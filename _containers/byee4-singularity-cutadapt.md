@@ -9,7 +9,7 @@ build_date: "2019-01-01T02:25:06.911Z"
 size_mb: 757
 size: 279371807
 sif: "https://datasets.datalad.org/shub/byee4/singularity/cutadapt/2019-01-01-de01826b-e5446fc8/e5446fc8f958c2996cf40a95be0554bd.simg"
-url: https://datasets.datalad.org/shub/byee4/singularity/cutadapt/2019-01-01-de01826b-e5446fc8/
+datalad_url: https://datasets.datalad.org?dir=/shub/byee4/singularity/cutadapt/2019-01-01-de01826b-e5446fc8/
 recipe: https://datasets.datalad.org/shub/byee4/singularity/cutadapt/2019-01-01-de01826b-e5446fc8/Singularity
 collection: byee4/singularity
 ---

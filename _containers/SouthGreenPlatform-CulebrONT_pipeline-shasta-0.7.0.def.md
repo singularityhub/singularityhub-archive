@@ -9,7 +9,7 @@ build_date: "2021-02-12T09:56:17.428Z"
 size_mb: 429.0
 size: 168747039
 sif: "https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/shasta-0.7.0.def/2021-02-12-a74771c5-d76a672a/d76a672ae2fcd72235ad432289b9cab8.sif"
-url: https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/shasta-0.7.0.def/2021-02-12-a74771c5-d76a672a/
+datalad_url: https://datasets.datalad.org?dir=/shub/SouthGreenPlatform/CulebrONT_pipeline/shasta-0.7.0.def/2021-02-12-a74771c5-d76a672a/
 recipe: https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/shasta-0.7.0.def/2021-02-12-a74771c5-d76a672a/Singularity
 collection: SouthGreenPlatform/CulebrONT_pipeline
 ---

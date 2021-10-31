@@ -9,7 +9,7 @@ build_date: "2021-03-03T08:41:49.734Z"
 size_mb: 561
 size: 191954975
 sif: "https://datasets.datalad.org/shub/DrVale83/bioinfo/vcftools/2021-03-03-ddabf5b7-3631cd21/3631cd21ad609f5822935ac6785a22f9.simg"
-url: https://datasets.datalad.org/shub/DrVale83/bioinfo/vcftools/2021-03-03-ddabf5b7-3631cd21/
+datalad_url: https://datasets.datalad.org?dir=/shub/DrVale83/bioinfo/vcftools/2021-03-03-ddabf5b7-3631cd21/
 recipe: https://datasets.datalad.org/shub/DrVale83/bioinfo/vcftools/2021-03-03-ddabf5b7-3631cd21/Singularity
 collection: DrVale83/bioinfo
 ---

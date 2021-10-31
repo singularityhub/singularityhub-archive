@@ -9,7 +9,7 @@ build_date: "2021-04-16T11:58:57.097Z"
 size_mb: 7441.0
 size: 3740483615
 sif: "https://datasets.datalad.org/shub/meglab-metagenomics/amrplusplus_v2/latest/2021-04-16-c3dad185-b4cd8f60/b4cd8f6073072e2d0f1d671a2e9ccce7.sif"
-url: https://datasets.datalad.org/shub/meglab-metagenomics/amrplusplus_v2/latest/2021-04-16-c3dad185-b4cd8f60/
+datalad_url: https://datasets.datalad.org?dir=/shub/meglab-metagenomics/amrplusplus_v2/latest/2021-04-16-c3dad185-b4cd8f60/
 recipe: https://datasets.datalad.org/shub/meglab-metagenomics/amrplusplus_v2/latest/2021-04-16-c3dad185-b4cd8f60/Singularity
 collection: meglab-metagenomics/amrplusplus_v2
 ---

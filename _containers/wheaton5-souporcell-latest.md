@@ -9,7 +9,7 @@ build_date: "2021-04-19T16:18:44.797Z"
 size_mb: 4338.0
 size: 1118584863
 sif: "https://datasets.datalad.org/shub/wheaton5/souporcell/latest/2021-04-19-790b281d-235ff94a/235ff94a409a24d2c758b92ed00a06db.sif"
-url: https://datasets.datalad.org/shub/wheaton5/souporcell/latest/2021-04-19-790b281d-235ff94a/
+datalad_url: https://datasets.datalad.org?dir=/shub/wheaton5/souporcell/latest/2021-04-19-790b281d-235ff94a/
 recipe: https://datasets.datalad.org/shub/wheaton5/souporcell/latest/2021-04-19-790b281d-235ff94a/Singularity
 collection: wheaton5/souporcell
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-28T17:12:22.274Z"
 size_mb: 337.140625
 size: 353517568
 sif: "https://datasets.datalad.org/shub/researchapps/testing-shub/latest/2020-09-28-298eb56a-ecb1d8d8/ecb1d8d87a89def036318949620a56882a15c944cd68612deb72fd93140e4246.sif"
-url: https://datasets.datalad.org/shub/researchapps/testing-shub/latest/2020-09-28-298eb56a-ecb1d8d8/
+datalad_url: https://datasets.datalad.org?dir=/shub/researchapps/testing-shub/latest/2020-09-28-298eb56a-ecb1d8d8/
 recipe: https://datasets.datalad.org/shub/researchapps/testing-shub/latest/2020-09-28-298eb56a-ecb1d8d8/Singularity
 collection: researchapps/testing-shub
 ---

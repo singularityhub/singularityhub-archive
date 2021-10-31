@@ -9,7 +9,7 @@ build_date: "2020-10-16T06:25:41.457Z"
 size_mb: 1742.0
 size: 576413727
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-derfinder/1.22.0/2020-10-16-9b6d6884-0ca59c80/0ca59c80b23d552775fd515e08a7e351.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-derfinder/1.22.0/2020-10-16-9b6d6884-0ca59c80/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-derfinder/1.22.0/2020-10-16-9b6d6884-0ca59c80/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-derfinder/1.22.0/2020-10-16-9b6d6884-0ca59c80/Singularity
 collection: yh549848/singularity-derfinder
 ---

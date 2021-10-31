@@ -9,7 +9,7 @@ build_date: "2018-05-23T17:28:03.967Z"
 size_mb: None
 size: 601972767
 sif: "https://datasets.datalad.org/shub/gearslaboratory/gears-singularity-private/slurm/2018-05-23-889e55f0-6ec98bea/6ec98bea78ff743bb81621a33c914a90.simg"
-url: https://datasets.datalad.org/shub/gearslaboratory/gears-singularity-private/slurm/2018-05-23-889e55f0-6ec98bea/
+datalad_url: https://datasets.datalad.org?dir=/shub/gearslaboratory/gears-singularity-private/slurm/2018-05-23-889e55f0-6ec98bea/
 recipe: https://datasets.datalad.org/shub/gearslaboratory/gears-singularity-private/slurm/2018-05-23-889e55f0-6ec98bea/Singularity
 collection: gearslaboratory/gears-singularity-private
 ---

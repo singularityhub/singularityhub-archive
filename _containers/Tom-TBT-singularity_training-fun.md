@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.232Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/Tom-TBT/singularity_training/fun/2019-02-27-aaae60e4-d52f4456/d52f445645d4033f9f8d535770494a81.simg"
-url: https://datasets.datalad.org/shub/Tom-TBT/singularity_training/fun/2019-02-27-aaae60e4-d52f4456/
+datalad_url: https://datasets.datalad.org?dir=/shub/Tom-TBT/singularity_training/fun/2019-02-27-aaae60e4-d52f4456/
 recipe: https://datasets.datalad.org/shub/Tom-TBT/singularity_training/fun/2019-02-27-aaae60e4-d52f4456/Singularity
 collection: Tom-TBT/singularity_training
 ---

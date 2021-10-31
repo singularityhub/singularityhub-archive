@@ -9,7 +9,7 @@ build_date: "2020-07-23T08:30:39.861Z"
 size_mb: 2978
 size: 1639915551
 sif: "https://datasets.datalad.org/shub/GodloveD/TensorFlow/latest/2020-07-23-0a9fd9d7-5bfbae01/5bfbae0108395deded4b0190df3eae41.simg"
-url: https://datasets.datalad.org/shub/GodloveD/TensorFlow/latest/2020-07-23-0a9fd9d7-5bfbae01/
+datalad_url: https://datasets.datalad.org?dir=/shub/GodloveD/TensorFlow/latest/2020-07-23-0a9fd9d7-5bfbae01/
 recipe: https://datasets.datalad.org/shub/GodloveD/TensorFlow/latest/2020-07-23-0a9fd9d7-5bfbae01/Singularity
 collection: GodloveD/TensorFlow
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-12T15:53:26.039Z"
 size_mb: 869
 size: 305500191
 sif: "https://datasets.datalad.org/shub/inguar/secret-sauce/latest/2019-06-12-a672c8f2-a16491ec/a16491ec43a9593b4852dcb4ebe1f89e.simg"
-url: https://datasets.datalad.org/shub/inguar/secret-sauce/latest/2019-06-12-a672c8f2-a16491ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/inguar/secret-sauce/latest/2019-06-12-a672c8f2-a16491ec/
 recipe: https://datasets.datalad.org/shub/inguar/secret-sauce/latest/2019-06-12-a672c8f2-a16491ec/Singularity
 collection: inguar/secret-sauce
 ---

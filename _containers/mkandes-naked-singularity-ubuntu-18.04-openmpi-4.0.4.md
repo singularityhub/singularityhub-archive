@@ -9,7 +9,7 @@ build_date: "2021-03-21T19:34:18.375Z"
 size_mb: 1815.0
 size: 623775775
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/ubuntu-18.04-openmpi-4.0.4/2021-03-21-1ca103b4-79e4aaaa/79e4aaaa06d4a61c7208acaf0daea239.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/ubuntu-18.04-openmpi-4.0.4/2021-03-21-1ca103b4-79e4aaaa/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/ubuntu-18.04-openmpi-4.0.4/2021-03-21-1ca103b4-79e4aaaa/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/ubuntu-18.04-openmpi-4.0.4/2021-03-21-1ca103b4-79e4aaaa/Singularity
 collection: mkandes/naked-singularity
 ---

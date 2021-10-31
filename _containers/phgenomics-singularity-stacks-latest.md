@@ -9,7 +9,7 @@ build_date: "2020-09-24T18:33:55.869Z"
 size_mb: 876
 size: 230219807
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/stacks/latest/2020-09-24-ed0b74dd-5cade36e/5cade36e8b887776482ab8b20263155f.simg"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/stacks/latest/2020-09-24-ed0b74dd-5cade36e/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/stacks/latest/2020-09-24-ed0b74dd-5cade36e/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/stacks/latest/2020-09-24-ed0b74dd-5cade36e/Singularity
 collection: phgenomics-singularity/stacks
 ---

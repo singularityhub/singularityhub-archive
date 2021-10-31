@@ -9,7 +9,7 @@ build_date: "2017-10-30T16:11:34.728Z"
 size_mb: 647
 size: 164974623
 sif: "https://datasets.datalad.org/shub/remiolsen/qaTools-singularity/latest/2017-10-30-ce54e8d2-dcb1acb5/dcb1acb519d19dd9c0289feb8a6e7a0f.simg"
-url: https://datasets.datalad.org/shub/remiolsen/qaTools-singularity/latest/2017-10-30-ce54e8d2-dcb1acb5/
+datalad_url: https://datasets.datalad.org?dir=/shub/remiolsen/qaTools-singularity/latest/2017-10-30-ce54e8d2-dcb1acb5/
 recipe: https://datasets.datalad.org/shub/remiolsen/qaTools-singularity/latest/2017-10-30-ce54e8d2-dcb1acb5/Singularity
 collection: remiolsen/qaTools-singularity
 ---

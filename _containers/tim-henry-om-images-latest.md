@@ -9,7 +9,7 @@ build_date: "2019-02-14T08:45:05.082Z"
 size_mb: 9006
 size: 4230393887
 sif: "https://datasets.datalad.org/shub/tim-henry/om-images/latest/2019-02-14-93993023-83b1e335/83b1e335d7b62d3c3394954a1750d14b.simg"
-url: https://datasets.datalad.org/shub/tim-henry/om-images/latest/2019-02-14-93993023-83b1e335/
+datalad_url: https://datasets.datalad.org?dir=/shub/tim-henry/om-images/latest/2019-02-14-93993023-83b1e335/
 recipe: https://datasets.datalad.org/shub/tim-henry/om-images/latest/2019-02-14-93993023-83b1e335/Singularity
 collection: tim-henry/om-images
 ---

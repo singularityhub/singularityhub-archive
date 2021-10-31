@@ -9,7 +9,7 @@ build_date: "2021-03-24T21:42:20.929Z"
 size_mb: 1095
 size: 406212639
 sif: "https://datasets.datalad.org/shub/bmichanderson/singularity-containers/unicycler/2021-03-24-1e140b63-16397001/1639700170405445749e904ff044d95a.simg"
-url: https://datasets.datalad.org/shub/bmichanderson/singularity-containers/unicycler/2021-03-24-1e140b63-16397001/
+datalad_url: https://datasets.datalad.org?dir=/shub/bmichanderson/singularity-containers/unicycler/2021-03-24-1e140b63-16397001/
 recipe: https://datasets.datalad.org/shub/bmichanderson/singularity-containers/unicycler/2021-03-24-1e140b63-16397001/Singularity
 collection: bmichanderson/singularity-containers
 ---

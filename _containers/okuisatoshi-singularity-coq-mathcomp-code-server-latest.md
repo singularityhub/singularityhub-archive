@@ -9,7 +9,7 @@ build_date: "2020-05-30T07:05:44.508Z"
 size_mb: 1819.0
 size: 658825247
 sif: "https://datasets.datalad.org/shub/okuisatoshi/singularity-coq-mathcomp-code-server/latest/2020-05-30-8865942f-10c1c071/10c1c07139c0933032b16a1301aed5c5.sif"
-url: https://datasets.datalad.org/shub/okuisatoshi/singularity-coq-mathcomp-code-server/latest/2020-05-30-8865942f-10c1c071/
+datalad_url: https://datasets.datalad.org?dir=/shub/okuisatoshi/singularity-coq-mathcomp-code-server/latest/2020-05-30-8865942f-10c1c071/
 recipe: https://datasets.datalad.org/shub/okuisatoshi/singularity-coq-mathcomp-code-server/latest/2020-05-30-8865942f-10c1c071/Singularity
 collection: okuisatoshi/singularity-coq-mathcomp-code-server
 ---

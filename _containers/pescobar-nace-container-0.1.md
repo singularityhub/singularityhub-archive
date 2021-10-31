@@ -9,7 +9,7 @@ build_date: "2018-10-03T09:11:43.240Z"
 size_mb: 3582
 size: 1881423903
 sif: "https://datasets.datalad.org/shub/pescobar/nace-container/0.1/2018-10-03-1ac60257-1885d03c/1885d03c13ef039d25baaab3e86a98b8.simg"
-url: https://datasets.datalad.org/shub/pescobar/nace-container/0.1/2018-10-03-1ac60257-1885d03c/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/nace-container/0.1/2018-10-03-1ac60257-1885d03c/
 recipe: https://datasets.datalad.org/shub/pescobar/nace-container/0.1/2018-10-03-1ac60257-1885d03c/Singularity
 collection: pescobar/nace-container
 ---

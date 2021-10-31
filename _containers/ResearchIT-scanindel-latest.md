@@ -9,7 +9,7 @@ build_date: "2018-10-09T04:15:30.943Z"
 size_mb: 1993
 size: 450977823
 sif: "https://datasets.datalad.org/shub/ResearchIT/scanindel/latest/2018-10-09-021ffc6a-41c28d9f/41c28d9fbe7f042c83d3afbf054e40fb.simg"
-url: https://datasets.datalad.org/shub/ResearchIT/scanindel/latest/2018-10-09-021ffc6a-41c28d9f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchIT/scanindel/latest/2018-10-09-021ffc6a-41c28d9f/
 recipe: https://datasets.datalad.org/shub/ResearchIT/scanindel/latest/2018-10-09-021ffc6a-41c28d9f/Singularity
 collection: ResearchIT/scanindel
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-29T20:57:19.707Z"
 size_mb: 3270
 size: 1668329503
 sif: "https://datasets.datalad.org/shub/guerriep/HPC/tensorflow-latest-gpu-py3/2019-04-29-69d41d8a-fccf62d4/fccf62d4275898084a0c4153f026ca78.simg"
-url: https://datasets.datalad.org/shub/guerriep/HPC/tensorflow-latest-gpu-py3/2019-04-29-69d41d8a-fccf62d4/
+datalad_url: https://datasets.datalad.org?dir=/shub/guerriep/HPC/tensorflow-latest-gpu-py3/2019-04-29-69d41d8a-fccf62d4/
 recipe: https://datasets.datalad.org/shub/guerriep/HPC/tensorflow-latest-gpu-py3/2019-04-29-69d41d8a-fccf62d4/Singularity
 collection: guerriep/HPC
 ---

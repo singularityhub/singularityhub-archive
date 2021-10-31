@@ -9,7 +9,7 @@ build_date: "2019-04-26T11:40:30.726Z"
 size_mb: 3556
 size: 1554980895
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/openrefine-3.1/2019-04-26-417f488e-18125bdc/18125bdcabebb0510466e791b001f24a.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/openrefine-3.1/2019-04-26-417f488e-18125bdc/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/openrefine-3.1/2019-04-26-417f488e-18125bdc/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/openrefine-3.1/2019-04-26-417f488e-18125bdc/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

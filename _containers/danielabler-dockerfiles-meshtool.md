@@ -9,7 +9,7 @@ build_date: "2020-01-08T08:05:22.616Z"
 size_mb: 5711.0
 size: 2330484767
 sif: "https://datasets.datalad.org/shub/danielabler/dockerfiles/meshtool/2020-01-08-bb67ffdc-1fc25126/1fc251268e5180b836a2a2b47b499ce4.sif"
-url: https://datasets.datalad.org/shub/danielabler/dockerfiles/meshtool/2020-01-08-bb67ffdc-1fc25126/
+datalad_url: https://datasets.datalad.org?dir=/shub/danielabler/dockerfiles/meshtool/2020-01-08-bb67ffdc-1fc25126/
 recipe: https://datasets.datalad.org/shub/danielabler/dockerfiles/meshtool/2020-01-08-bb67ffdc-1fc25126/Singularity
 collection: danielabler/dockerfiles
 ---

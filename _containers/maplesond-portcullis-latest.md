@@ -9,7 +9,7 @@ build_date: "2021-02-04T20:15:36.361Z"
 size_mb: 1801.0
 size: 593403935
 sif: "https://datasets.datalad.org/shub/maplesond/portcullis/latest/2021-02-04-5b1fc7be-62f62b93/62f62b937d5474c8eff0531613d391b7.sif"
-url: https://datasets.datalad.org/shub/maplesond/portcullis/latest/2021-02-04-5b1fc7be-62f62b93/
+datalad_url: https://datasets.datalad.org?dir=/shub/maplesond/portcullis/latest/2021-02-04-5b1fc7be-62f62b93/
 recipe: https://datasets.datalad.org/shub/maplesond/portcullis/latest/2021-02-04-5b1fc7be-62f62b93/Singularity
 collection: maplesond/portcullis
 ---

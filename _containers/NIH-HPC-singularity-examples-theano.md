@@ -9,7 +9,7 @@ build_date: "2017-11-22T19:08:50.802Z"
 size_mb: 2103
 size: 946704415
 sif: "https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/theano/2017-11-22-2ccdc4a3-ad5b3d3a/ad5b3d3a8bbdb356796d2e62a7e2d4c9.simg"
-url: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/theano/2017-11-22-2ccdc4a3-ad5b3d3a/
+datalad_url: https://datasets.datalad.org?dir=/shub/NIH-HPC/singularity-examples/theano/2017-11-22-2ccdc4a3-ad5b3d3a/
 recipe: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/theano/2017-11-22-2ccdc4a3-ad5b3d3a/Singularity
 collection: NIH-HPC/singularity-examples
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-13T09:37:56.720Z"
 size_mb: 535
 size: 152768543
 sif: "https://datasets.datalad.org/shub/MPIB/singularity-jags/4.2.0/2020-03-13-028b096d-8791969a/8791969af554abb20068afa5e0ac83e6.simg"
-url: https://datasets.datalad.org/shub/MPIB/singularity-jags/4.2.0/2020-03-13-028b096d-8791969a/
+datalad_url: https://datasets.datalad.org?dir=/shub/MPIB/singularity-jags/4.2.0/2020-03-13-028b096d-8791969a/
 recipe: https://datasets.datalad.org/shub/MPIB/singularity-jags/4.2.0/2020-03-13-028b096d-8791969a/Singularity
 collection: MPIB/singularity-jags
 ---

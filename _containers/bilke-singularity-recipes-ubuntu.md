@@ -9,7 +9,7 @@ build_date: "2018-01-16T09:35:20.230Z"
 size_mb: 793
 size: 328859679
 sif: "https://datasets.datalad.org/shub/bilke/singularity-recipes/ubuntu/2018-01-16-ab1c4aa8-0ac43815/0ac43815ea03eb2e3092f8341ae8958a.simg"
-url: https://datasets.datalad.org/shub/bilke/singularity-recipes/ubuntu/2018-01-16-ab1c4aa8-0ac43815/
+datalad_url: https://datasets.datalad.org?dir=/shub/bilke/singularity-recipes/ubuntu/2018-01-16-ab1c4aa8-0ac43815/
 recipe: https://datasets.datalad.org/shub/bilke/singularity-recipes/ubuntu/2018-01-16-ab1c4aa8-0ac43815/Singularity
 collection: bilke/singularity-recipes
 ---

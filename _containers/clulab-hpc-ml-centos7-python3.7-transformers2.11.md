@@ -9,7 +9,7 @@ build_date: "2021-02-23T21:34:56.430Z"
 size_mb: 5526.06640625
 size: 5794500608
 sif: "https://datasets.datalad.org/shub/clulab/hpc-ml/centos7-python3.7-transformers2.11/2021-02-23-6af4bf5e-3ad264b5/3ad264b5efb0560bb3d752308564d300e0fe70bde1bc1b240dc0c42864448190.sif"
-url: https://datasets.datalad.org/shub/clulab/hpc-ml/centos7-python3.7-transformers2.11/2021-02-23-6af4bf5e-3ad264b5/
+datalad_url: https://datasets.datalad.org?dir=/shub/clulab/hpc-ml/centos7-python3.7-transformers2.11/2021-02-23-6af4bf5e-3ad264b5/
 recipe: https://datasets.datalad.org/shub/clulab/hpc-ml/centos7-python3.7-transformers2.11/2021-02-23-6af4bf5e-3ad264b5/Singularity
 collection: clulab/hpc-ml
 ---

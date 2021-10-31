@@ -9,7 +9,7 @@ build_date: "2019-05-23T03:52:52.948Z"
 size_mb: 5546
 size: 2879995935
 sif: "https://datasets.datalad.org/shub/Eric716/ericflow3/latest/2019-05-23-879f008a-7b02860b/7b02860bb72b4583f878b64025cb31f4.simg"
-url: https://datasets.datalad.org/shub/Eric716/ericflow3/latest/2019-05-23-879f008a-7b02860b/
+datalad_url: https://datasets.datalad.org?dir=/shub/Eric716/ericflow3/latest/2019-05-23-879f008a-7b02860b/
 recipe: https://datasets.datalad.org/shub/Eric716/ericflow3/latest/2019-05-23-879f008a-7b02860b/Singularity
 collection: Eric716/ericflow3
 ---

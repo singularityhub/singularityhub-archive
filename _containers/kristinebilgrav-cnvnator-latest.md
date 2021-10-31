@@ -9,7 +9,7 @@ build_date: "2021-03-24T14:36:43.862Z"
 size_mb: 1390.0
 size: 675823647
 sif: "https://datasets.datalad.org/shub/kristinebilgrav/cnvnator/latest/2021-03-24-e5b1d49b-a015adb0/a015adb06f33fb8ac5c45a10e31544c4.sif"
-url: https://datasets.datalad.org/shub/kristinebilgrav/cnvnator/latest/2021-03-24-e5b1d49b-a015adb0/
+datalad_url: https://datasets.datalad.org?dir=/shub/kristinebilgrav/cnvnator/latest/2021-03-24-e5b1d49b-a015adb0/
 recipe: https://datasets.datalad.org/shub/kristinebilgrav/cnvnator/latest/2021-03-24-e5b1d49b-a015adb0/Singularity
 collection: kristinebilgrav/cnvnator
 ---

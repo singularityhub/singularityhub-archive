@@ -9,7 +9,7 @@ build_date: "2019-03-07T01:18:17.761Z"
 size_mb: 585
 size: 189927455
 sif: "https://datasets.datalad.org/shub/mrobbert/singularity_image_recipes/hello_world/2019-03-07-6beb630d-cd4566a6/cd4566a63358be0d693176b66d324f00.simg"
-url: https://datasets.datalad.org/shub/mrobbert/singularity_image_recipes/hello_world/2019-03-07-6beb630d-cd4566a6/
+datalad_url: https://datasets.datalad.org?dir=/shub/mrobbert/singularity_image_recipes/hello_world/2019-03-07-6beb630d-cd4566a6/
 recipe: https://datasets.datalad.org/shub/mrobbert/singularity_image_recipes/hello_world/2019-03-07-6beb630d-cd4566a6/Singularity
 collection: mrobbert/singularity_image_recipes
 ---

@@ -9,7 +9,7 @@ build_date: "2018-03-04T20:03:49.300Z"
 size_mb: 745
 size: 251428895
 sif: "https://datasets.datalad.org/shub/pescobar/netgen/latest/2018-03-04-8ea4ae5b-df287205/df287205927d59d0bb1acf1e6e5dcd84.simg"
-url: https://datasets.datalad.org/shub/pescobar/netgen/latest/2018-03-04-8ea4ae5b-df287205/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/netgen/latest/2018-03-04-8ea4ae5b-df287205/
 recipe: https://datasets.datalad.org/shub/pescobar/netgen/latest/2018-03-04-8ea4ae5b-df287205/Singularity
 collection: pescobar/netgen
 ---

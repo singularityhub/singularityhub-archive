@@ -9,7 +9,7 @@ build_date: "2018-01-24T21:05:52.625Z"
 size_mb: 5831
 size: 3103858719
 sif: "https://datasets.datalad.org/shub/yngtodd/singularity/latest/2018-01-24-baa6ed28-410223e9/410223e9190eaa5470b7f20a2920424d.simg"
-url: https://datasets.datalad.org/shub/yngtodd/singularity/latest/2018-01-24-baa6ed28-410223e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/yngtodd/singularity/latest/2018-01-24-baa6ed28-410223e9/
 recipe: https://datasets.datalad.org/shub/yngtodd/singularity/latest/2018-01-24-baa6ed28-410223e9/Singularity
 collection: yngtodd/singularity
 ---

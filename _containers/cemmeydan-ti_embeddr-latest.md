@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.808Z"
 size_mb: 2267
 size: 878194719
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_embeddr/latest/2019-04-04-6473ee20-a6eec32b/a6eec32b9247db0a6bbcf033cc9766ca.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_embeddr/latest/2019-04-04-6473ee20-a6eec32b/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_embeddr/latest/2019-04-04-6473ee20-a6eec32b/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_embeddr/latest/2019-04-04-6473ee20-a6eec32b/Singularity
 collection: cemmeydan/ti_embeddr
 ---

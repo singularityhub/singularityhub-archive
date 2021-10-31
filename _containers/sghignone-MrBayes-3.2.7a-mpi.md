@@ -9,7 +9,7 @@ build_date: "2020-04-01T16:50:07.253Z"
 size_mb: 268.0
 size: 94003231
 sif: "https://datasets.datalad.org/shub/sghignone/MrBayes/3.2.7a-mpi/2020-04-01-3a28a131-2a8ab590/2a8ab590ca41bdced43c8c8f0825bb3e.sif"
-url: https://datasets.datalad.org/shub/sghignone/MrBayes/3.2.7a-mpi/2020-04-01-3a28a131-2a8ab590/
+datalad_url: https://datasets.datalad.org?dir=/shub/sghignone/MrBayes/3.2.7a-mpi/2020-04-01-3a28a131-2a8ab590/
 recipe: https://datasets.datalad.org/shub/sghignone/MrBayes/3.2.7a-mpi/2020-04-01-3a28a131-2a8ab590/Singularity
 collection: sghignone/MrBayes
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-30T10:05:24.594Z"
 size_mb: 524.75
 size: 550240256
 sif: "https://datasets.datalad.org/shub/psumionka-task/Singularity_Ubuntu-16.04_OpenMPI-3.0.0/def/2019-10-30-7dc320d0-71a5541d/71a5541d9f2bd3563789d7b9279b3f94d733b622bd24fe3697965f53efccf190.sif"
-url: https://datasets.datalad.org/shub/psumionka-task/Singularity_Ubuntu-16.04_OpenMPI-3.0.0/def/2019-10-30-7dc320d0-71a5541d/
+datalad_url: https://datasets.datalad.org?dir=/shub/psumionka-task/Singularity_Ubuntu-16.04_OpenMPI-3.0.0/def/2019-10-30-7dc320d0-71a5541d/
 recipe: https://datasets.datalad.org/shub/psumionka-task/Singularity_Ubuntu-16.04_OpenMPI-3.0.0/def/2019-10-30-7dc320d0-71a5541d/Singularity
 collection: psumionka-task/Singularity_Ubuntu-16.04_OpenMPI-3.0.0
 ---

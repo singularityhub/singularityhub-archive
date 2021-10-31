@@ -9,7 +9,7 @@ build_date: "2021-04-15T09:35:25.854Z"
 size_mb: 1536.0
 size: 957984799
 sif: "https://datasets.datalad.org/shub/KatSteinke/magician-singularity-containers/cami_python2/2021-04-15-550647ab-84135482/841354826e8b78b9befa5b968abe569e.sif"
-url: https://datasets.datalad.org/shub/KatSteinke/magician-singularity-containers/cami_python2/2021-04-15-550647ab-84135482/
+datalad_url: https://datasets.datalad.org?dir=/shub/KatSteinke/magician-singularity-containers/cami_python2/2021-04-15-550647ab-84135482/
 recipe: https://datasets.datalad.org/shub/KatSteinke/magician-singularity-containers/cami_python2/2021-04-15-550647ab-84135482/Singularity
 collection: KatSteinke/magician-singularity-containers
 ---

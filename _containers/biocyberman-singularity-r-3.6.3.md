@@ -9,7 +9,7 @@ build_date: "2020-04-14T08:43:26.546Z"
 size_mb: 973.0
 size: 336019487
 sif: "https://datasets.datalad.org/shub/biocyberman/singularity-r/3.6.3/2020-04-14-34d9605c-c24fe16b/c24fe16b24a151598daf740529ef4a91.sif"
-url: https://datasets.datalad.org/shub/biocyberman/singularity-r/3.6.3/2020-04-14-34d9605c-c24fe16b/
+datalad_url: https://datasets.datalad.org?dir=/shub/biocyberman/singularity-r/3.6.3/2020-04-14-34d9605c-c24fe16b/
 recipe: https://datasets.datalad.org/shub/biocyberman/singularity-r/3.6.3/2020-04-14-34d9605c-c24fe16b/Singularity
 collection: biocyberman/singularity-r
 ---

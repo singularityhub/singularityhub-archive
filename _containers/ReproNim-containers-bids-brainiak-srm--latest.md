@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:54.725Z"
 size_mb: 1183
 size: 558317599
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-brainiak-srm--latest/2021-03-19-697f419c-3a7f511c/3a7f511ce694905d6197081c2d5d4dc5.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-brainiak-srm--latest/2021-03-19-697f419c-3a7f511c/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-brainiak-srm--latest/2021-03-19-697f419c-3a7f511c/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-brainiak-srm--latest/2021-03-19-697f419c-3a7f511c/Singularity
 collection: ReproNim/containers
 ---

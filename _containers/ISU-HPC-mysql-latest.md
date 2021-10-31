@@ -9,7 +9,7 @@ build_date: "2021-04-16T21:45:34.990Z"
 size_mb: 364
 size: 118747167
 sif: "https://datasets.datalad.org/shub/ISU-HPC/mysql/latest/2021-04-16-b18d7c8c-7821837f/7821837f450e8562d99796f721525c89.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/mysql/latest/2021-04-16-b18d7c8c-7821837f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/mysql/latest/2021-04-16-b18d7c8c-7821837f/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/mysql/latest/2021-04-16-b18d7c8c-7821837f/Singularity
 collection: ISU-HPC/mysql
 ---

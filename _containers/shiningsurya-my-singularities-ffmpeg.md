@@ -9,7 +9,7 @@ build_date: "2021-04-12T09:08:08.450Z"
 size_mb: 1521.62890625
 size: 1595543552
 sif: "https://datasets.datalad.org/shub/shiningsurya/my-singularities/ffmpeg/2021-04-12-e145682a-1080ee4f/1080ee4f65a33be55a2ed4907c151dc694363ff738ea851f1fe92b2d88c32f80.sif"
-url: https://datasets.datalad.org/shub/shiningsurya/my-singularities/ffmpeg/2021-04-12-e145682a-1080ee4f/
+datalad_url: https://datasets.datalad.org?dir=/shub/shiningsurya/my-singularities/ffmpeg/2021-04-12-e145682a-1080ee4f/
 recipe: https://datasets.datalad.org/shub/shiningsurya/my-singularities/ffmpeg/2021-04-12-e145682a-1080ee4f/Singularity
 collection: shiningsurya/my-singularities
 ---

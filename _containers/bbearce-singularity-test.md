@@ -9,7 +9,7 @@ build_date: "2020-11-17T20:02:21.026Z"
 size_mb: 138.0
 size: 61071391
 sif: "https://datasets.datalad.org/shub/bbearce/singularity/test/2020-11-17-cf604cf2-31760da3/31760da3c8079e8a990cf41e30fef403.sif"
-url: https://datasets.datalad.org/shub/bbearce/singularity/test/2020-11-17-cf604cf2-31760da3/
+datalad_url: https://datasets.datalad.org?dir=/shub/bbearce/singularity/test/2020-11-17-cf604cf2-31760da3/
 recipe: https://datasets.datalad.org/shub/bbearce/singularity/test/2020-11-17-cf604cf2-31760da3/Singularity
 collection: bbearce/singularity
 ---

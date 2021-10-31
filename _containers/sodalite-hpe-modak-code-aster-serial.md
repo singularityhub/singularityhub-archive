@@ -9,7 +9,7 @@ build_date: "2020-09-02T07:41:36.584Z"
 size_mb: 2582.0
 size: 1156337695
 sif: "https://datasets.datalad.org/shub/sodalite-hpe/modak/code-aster-serial/2020-09-02-6efcc0e6-07031bbc/07031bbcb085cf590d57f13ff86459e7.sif"
-url: https://datasets.datalad.org/shub/sodalite-hpe/modak/code-aster-serial/2020-09-02-6efcc0e6-07031bbc/
+datalad_url: https://datasets.datalad.org?dir=/shub/sodalite-hpe/modak/code-aster-serial/2020-09-02-6efcc0e6-07031bbc/
 recipe: https://datasets.datalad.org/shub/sodalite-hpe/modak/code-aster-serial/2020-09-02-6efcc0e6-07031bbc/Singularity
 collection: sodalite-hpe/modak
 ---

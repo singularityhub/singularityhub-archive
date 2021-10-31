@@ -9,7 +9,7 @@ build_date: "2019-03-01T19:49:13.110Z"
 size_mb: 10747
 size: 3998691359
 sif: "https://datasets.datalad.org/shub/ertheisen/appalachian_centos/hg19v1.centos/2019-03-01-5e6f9acb-d65b3363/d65b3363b69fb9bd5a80321ed5f4c6bd.simg"
-url: https://datasets.datalad.org/shub/ertheisen/appalachian_centos/hg19v1.centos/2019-03-01-5e6f9acb-d65b3363/
+datalad_url: https://datasets.datalad.org?dir=/shub/ertheisen/appalachian_centos/hg19v1.centos/2019-03-01-5e6f9acb-d65b3363/
 recipe: https://datasets.datalad.org/shub/ertheisen/appalachian_centos/hg19v1.centos/2019-03-01-5e6f9acb-d65b3363/Singularity
 collection: ertheisen/appalachian_centos
 ---

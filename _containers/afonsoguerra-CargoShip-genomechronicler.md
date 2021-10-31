@@ -9,7 +9,7 @@ build_date: "2019-11-15T15:08:19.207Z"
 size_mb: 6364.0
 size: 2082418719
 sif: "https://datasets.datalad.org/shub/afonsoguerra/CargoShip/genomechronicler/2019-11-15-eec6cd72-402758cc/402758cc0f6e4f235991003806f23ec1.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/genomechronicler/2019-11-15-eec6cd72-402758cc/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/CargoShip/genomechronicler/2019-11-15-eec6cd72-402758cc/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/genomechronicler/2019-11-15-eec6cd72-402758cc/Singularity
 collection: afonsoguerra/CargoShip
 ---

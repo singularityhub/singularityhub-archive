@@ -9,7 +9,7 @@ build_date: "2021-01-19T22:24:02.715Z"
 size_mb: 1621
 size: 616017951
 sif: "https://datasets.datalad.org/shub/eilon-s/sherlock_vep/latest/2021-01-19-69bd4e7a-a9932f24/a9932f2459a8efcf212a81f8d5557c9c.simg"
-url: https://datasets.datalad.org/shub/eilon-s/sherlock_vep/latest/2021-01-19-69bd4e7a-a9932f24/
+datalad_url: https://datasets.datalad.org?dir=/shub/eilon-s/sherlock_vep/latest/2021-01-19-69bd4e7a-a9932f24/
 recipe: https://datasets.datalad.org/shub/eilon-s/sherlock_vep/latest/2021-01-19-69bd4e7a-a9932f24/Singularity
 collection: eilon-s/sherlock_vep
 ---

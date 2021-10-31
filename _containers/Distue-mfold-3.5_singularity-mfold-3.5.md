@@ -9,7 +9,7 @@ build_date: "2020-04-25T05:16:22.914Z"
 size_mb: 834.0
 size: 279691295
 sif: "https://datasets.datalad.org/shub/Distue/mfold-3.5_singularity/mfold-3.5/2020-04-25-5b30fa3e-5d43db1a/5d43db1a5989fa0fe5991cd45078af65.sif"
-url: https://datasets.datalad.org/shub/Distue/mfold-3.5_singularity/mfold-3.5/2020-04-25-5b30fa3e-5d43db1a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Distue/mfold-3.5_singularity/mfold-3.5/2020-04-25-5b30fa3e-5d43db1a/
 recipe: https://datasets.datalad.org/shub/Distue/mfold-3.5_singularity/mfold-3.5/2020-04-25-5b30fa3e-5d43db1a/Singularity
 collection: Distue/singularity_recipies
 ---

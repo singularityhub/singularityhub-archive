@@ -9,7 +9,7 @@ build_date: "2021-04-15T07:35:19.851Z"
 size_mb: 2775.0
 size: 1212264479
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/alignment-nf/v1.2/2021-04-15-fbcbba23-a3054e6c/a3054e6c47bca00e637f6c991d085883.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/alignment-nf/v1.2/2021-04-15-fbcbba23-a3054e6c/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/alignment-nf/v1.2/2021-04-15-fbcbba23-a3054e6c/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/alignment-nf/v1.2/2021-04-15-fbcbba23-a3054e6c/Singularity
 collection: IARCbioinfo/alignment-nf
 ---

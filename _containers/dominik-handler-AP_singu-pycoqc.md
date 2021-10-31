@@ -9,7 +9,7 @@ build_date: "2020-03-31T12:47:43.046Z"
 size_mb: 920
 size: 381059103
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/pycoqc/2020-03-31-e2922ff8-764a67ae/764a67ae696f62c9dd1ddaf6c416b66c.simg"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/pycoqc/2020-03-31-e2922ff8-764a67ae/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/pycoqc/2020-03-31-e2922ff8-764a67ae/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/pycoqc/2020-03-31-e2922ff8-764a67ae/Singularity
 collection: dominik-handler/AP_singu
 ---

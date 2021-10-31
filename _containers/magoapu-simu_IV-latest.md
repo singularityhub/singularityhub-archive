@@ -9,7 +9,7 @@ build_date: "2019-08-17T09:14:23.307Z"
 size_mb: 1287.0
 size: 464023583
 sif: "https://datasets.datalad.org/shub/magoapu/simu_IV/latest/2019-08-17-b44e90d7-9724780d/9724780d1f2863ce4ebb75a8656920d4.sif"
-url: https://datasets.datalad.org/shub/magoapu/simu_IV/latest/2019-08-17-b44e90d7-9724780d/
+datalad_url: https://datasets.datalad.org?dir=/shub/magoapu/simu_IV/latest/2019-08-17-b44e90d7-9724780d/
 recipe: https://datasets.datalad.org/shub/magoapu/simu_IV/latest/2019-08-17-b44e90d7-9724780d/Singularity
 collection: magoapu/simu_IV
 ---

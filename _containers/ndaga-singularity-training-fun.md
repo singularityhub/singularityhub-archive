@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.332Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/ndaga/singularity-training/fun/2019-02-27-de73b226-eb5cb014/eb5cb0143fd0f5dffa55d40924825b71.simg"
-url: https://datasets.datalad.org/shub/ndaga/singularity-training/fun/2019-02-27-de73b226-eb5cb014/
+datalad_url: https://datasets.datalad.org?dir=/shub/ndaga/singularity-training/fun/2019-02-27-de73b226-eb5cb014/
 recipe: https://datasets.datalad.org/shub/ndaga/singularity-training/fun/2019-02-27-de73b226-eb5cb014/Singularity
 collection: ndaga/singularity-training
 ---

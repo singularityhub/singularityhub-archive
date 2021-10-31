@@ -9,7 +9,7 @@ build_date: "2017-11-28T19:11:34.737Z"
 size_mb: 1325
 size: 391008287
 sif: "https://datasets.datalad.org/shub/UNM-CARC/singularity-test/ubuntu-ompi/2017-11-28-46b2d0f9-c7a6066e/c7a6066e91001ef49d77f0b85933bf5f.simg"
-url: https://datasets.datalad.org/shub/UNM-CARC/singularity-test/ubuntu-ompi/2017-11-28-46b2d0f9-c7a6066e/
+datalad_url: https://datasets.datalad.org?dir=/shub/UNM-CARC/singularity-test/ubuntu-ompi/2017-11-28-46b2d0f9-c7a6066e/
 recipe: https://datasets.datalad.org/shub/UNM-CARC/singularity-test/ubuntu-ompi/2017-11-28-46b2d0f9-c7a6066e/Singularity
 collection: UNM-CARC/singularity-test
 ---

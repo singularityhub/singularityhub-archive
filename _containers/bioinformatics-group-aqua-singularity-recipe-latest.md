@@ -9,7 +9,7 @@ build_date: "2020-04-24T22:56:19.791Z"
 size_mb: 588
 size: 249143327
 sif: "https://datasets.datalad.org/shub/bioinformatics-group/aqua-singularity-recipe/latest/2020-04-24-2acf4639-e1f7bcdf/e1f7bcdf3a684df6aff3ad174e6ca1f1.simg"
-url: https://datasets.datalad.org/shub/bioinformatics-group/aqua-singularity-recipe/latest/2020-04-24-2acf4639-e1f7bcdf/
+datalad_url: https://datasets.datalad.org?dir=/shub/bioinformatics-group/aqua-singularity-recipe/latest/2020-04-24-2acf4639-e1f7bcdf/
 recipe: https://datasets.datalad.org/shub/bioinformatics-group/aqua-singularity-recipe/latest/2020-04-24-2acf4639-e1f7bcdf/Singularity
 collection: bioinformatics-group/aqua-singularity-recipe
 ---

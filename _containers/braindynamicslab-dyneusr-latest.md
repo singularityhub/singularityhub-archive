@@ -9,7 +9,7 @@ build_date: "2020-08-06T19:01:12.892Z"
 size_mb: 2446.0
 size: 783425567
 sif: "https://datasets.datalad.org/shub/braindynamicslab/dyneusr/latest/2020-08-06-ff632085-61bb18e2/61bb18e2071a8da3b3d7b59ac411c4c0.sif"
-url: https://datasets.datalad.org/shub/braindynamicslab/dyneusr/latest/2020-08-06-ff632085-61bb18e2/
+datalad_url: https://datasets.datalad.org?dir=/shub/braindynamicslab/dyneusr/latest/2020-08-06-ff632085-61bb18e2/
 recipe: https://datasets.datalad.org/shub/braindynamicslab/dyneusr/latest/2020-08-06-ff632085-61bb18e2/Singularity
 collection: braindynamicslab/dyneusr
 ---

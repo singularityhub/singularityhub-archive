@@ -9,7 +9,7 @@ build_date: "2018-07-31T11:15:57.457Z"
 size_mb: 975
 size: 454369311
 sif: "https://datasets.datalad.org/shub/mwiens91/shahlab-automation-scratch/latest/2018-07-31-8535b631-deb96768/deb967682c2d6b026f48d21ffd3d295d.simg"
-url: https://datasets.datalad.org/shub/mwiens91/shahlab-automation-scratch/latest/2018-07-31-8535b631-deb96768/
+datalad_url: https://datasets.datalad.org?dir=/shub/mwiens91/shahlab-automation-scratch/latest/2018-07-31-8535b631-deb96768/
 recipe: https://datasets.datalad.org/shub/mwiens91/shahlab-automation-scratch/latest/2018-07-31-8535b631-deb96768/Singularity
 collection: mwiens91/shahlab-automation-scratch
 ---

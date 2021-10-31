@@ -9,7 +9,7 @@ build_date: "2019-10-01T21:24:07.518Z"
 size_mb: 8157
 size: 3664674847
 sif: "https://datasets.datalad.org/shub/monaghaa/dcking/latest/2019-10-01-64e20509-6952f5e1/6952f5e10f00c6f22a0f22e1c672cff8.simg"
-url: https://datasets.datalad.org/shub/monaghaa/dcking/latest/2019-10-01-64e20509-6952f5e1/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/dcking/latest/2019-10-01-64e20509-6952f5e1/
 recipe: https://datasets.datalad.org/shub/monaghaa/dcking/latest/2019-10-01-64e20509-6952f5e1/Singularity
 collection: monaghaa/dcking
 ---

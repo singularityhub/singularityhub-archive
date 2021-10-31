@@ -9,7 +9,7 @@ build_date: "2021-04-06T12:12:19.084Z"
 size_mb: 105.0
 size: 38199327
 sif: "https://datasets.datalad.org/shub/ctpelok77/kstar/latest/2021-04-06-e5505add-15b36ed0/15b36ed096be7362dc6de41603f96d35.sif"
-url: https://datasets.datalad.org/shub/ctpelok77/kstar/latest/2021-04-06-e5505add-15b36ed0/
+datalad_url: https://datasets.datalad.org?dir=/shub/ctpelok77/kstar/latest/2021-04-06-e5505add-15b36ed0/
 recipe: https://datasets.datalad.org/shub/ctpelok77/kstar/latest/2021-04-06-e5505add-15b36ed0/Singularity
 collection: ctpelok77/kstar
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-24T06:06:57.609Z"
 size_mb: 7157.0
 size: 2995826719
 sif: "https://datasets.datalad.org/shub/vmichals/ODE-RL/latest/2020-12-24-47e14b6f-6dd55847/6dd5584798909150673a26da442d6f31.sif"
-url: https://datasets.datalad.org/shub/vmichals/ODE-RL/latest/2020-12-24-47e14b6f-6dd55847/
+datalad_url: https://datasets.datalad.org?dir=/shub/vmichals/ODE-RL/latest/2020-12-24-47e14b6f-6dd55847/
 recipe: https://datasets.datalad.org/shub/vmichals/ODE-RL/latest/2020-12-24-47e14b6f-6dd55847/Singularity
 collection: vmichals/ODE-RL
 ---

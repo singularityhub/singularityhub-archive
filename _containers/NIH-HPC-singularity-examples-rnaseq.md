@@ -9,7 +9,7 @@ build_date: "2019-10-21T11:22:01.848Z"
 size_mb: 1284
 size: 446349343
 sif: "https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/rnaseq/2019-10-21-2ccdc4a3-ec8aa7a1/ec8aa7a15c3ab3ad4d76e03b78f9f4dd.simg"
-url: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/rnaseq/2019-10-21-2ccdc4a3-ec8aa7a1/
+datalad_url: https://datasets.datalad.org?dir=/shub/NIH-HPC/singularity-examples/rnaseq/2019-10-21-2ccdc4a3-ec8aa7a1/
 recipe: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/rnaseq/2019-10-21-2ccdc4a3-ec8aa7a1/Singularity
 collection: NIH-HPC/singularity-examples
 ---

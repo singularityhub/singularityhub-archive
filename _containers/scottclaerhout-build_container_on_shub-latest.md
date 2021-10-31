@@ -9,7 +9,7 @@ build_date: "2018-11-29T23:44:03.423Z"
 size_mb: 530
 size: 206872607
 sif: "https://datasets.datalad.org/shub/scottclaerhout/build_container_on_shub/latest/2018-11-29-77f64a50-06b3af18/06b3af18b13a5442f000d168921e79c7.simg"
-url: https://datasets.datalad.org/shub/scottclaerhout/build_container_on_shub/latest/2018-11-29-77f64a50-06b3af18/
+datalad_url: https://datasets.datalad.org?dir=/shub/scottclaerhout/build_container_on_shub/latest/2018-11-29-77f64a50-06b3af18/
 recipe: https://datasets.datalad.org/shub/scottclaerhout/build_container_on_shub/latest/2018-11-29-77f64a50-06b3af18/Singularity
 collection: scottclaerhout/build_container_on_shub
 ---

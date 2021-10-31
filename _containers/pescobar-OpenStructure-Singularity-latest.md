@@ -9,7 +9,7 @@ build_date: "2018-03-01T23:01:16.601Z"
 size_mb: 1391
 size: 421580831
 sif: "https://datasets.datalad.org/shub/pescobar/OpenStructure-Singularity/latest/2018-03-01-a9e58280-3f2a8823/3f2a8823b2f83e70be05dce0c4cdb970.simg"
-url: https://datasets.datalad.org/shub/pescobar/OpenStructure-Singularity/latest/2018-03-01-a9e58280-3f2a8823/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/OpenStructure-Singularity/latest/2018-03-01-a9e58280-3f2a8823/
 recipe: https://datasets.datalad.org/shub/pescobar/OpenStructure-Singularity/latest/2018-03-01-a9e58280-3f2a8823/Singularity
 collection: pescobar/OpenStructure-Singularity
 ---

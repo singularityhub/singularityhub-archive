@@ -9,7 +9,7 @@ build_date: "2019-07-27T21:23:39.138Z"
 size_mb: 436
 size: 91791391
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-pyenvcentraxx/v1.0/2019-07-27-029520d9-d791ecec/d791ecec56e98931d514041cb4813a07.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-pyenvcentraxx/v1.0/2019-07-27-029520d9-d791ecec/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-pyenvcentraxx/v1.0/2019-07-27-029520d9-d791ecec/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-pyenvcentraxx/v1.0/2019-07-27-029520d9-d791ecec/Singularity
 collection: qbicsoftware/qbic-singularity-pyenvcentraxx
 ---

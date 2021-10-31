@@ -9,7 +9,7 @@ build_date: "2021-03-04T10:02:16.352Z"
 size_mb: 1959.0
 size: 635592735
 sif: "https://datasets.datalad.org/shub/ctmrbio/stag-mwc/biobakery/2021-03-04-fb3992ab-f0011faf/f0011faf1413dc86bdd42feef1be23ed.sif"
-url: https://datasets.datalad.org/shub/ctmrbio/stag-mwc/biobakery/2021-03-04-fb3992ab-f0011faf/
+datalad_url: https://datasets.datalad.org?dir=/shub/ctmrbio/stag-mwc/biobakery/2021-03-04-fb3992ab-f0011faf/
 recipe: https://datasets.datalad.org/shub/ctmrbio/stag-mwc/biobakery/2021-03-04-fb3992ab-f0011faf/Singularity
 collection: ctmrbio/stag-mwc
 ---

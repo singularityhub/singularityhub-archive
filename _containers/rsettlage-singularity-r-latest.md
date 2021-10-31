@@ -9,7 +9,7 @@ build_date: "2019-11-14T14:23:21.900Z"
 size_mb: 599.0
 size: 234164255
 sif: "https://datasets.datalad.org/shub/rsettlage/singularity-r/latest/2019-11-14-291292aa-0ef07a86/0ef07a8674053947931575429904e279.sif"
-url: https://datasets.datalad.org/shub/rsettlage/singularity-r/latest/2019-11-14-291292aa-0ef07a86/
+datalad_url: https://datasets.datalad.org?dir=/shub/rsettlage/singularity-r/latest/2019-11-14-291292aa-0ef07a86/
 recipe: https://datasets.datalad.org/shub/rsettlage/singularity-r/latest/2019-11-14-291292aa-0ef07a86/Singularity
 collection: rsettlage/singularity-r
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-05T12:12:38.873Z"
 size_mb: 2815.0
 size: 1041600543
 sif: "https://datasets.datalad.org/shub/basnijholt/azure-singularity-agent/latest/2020-03-05-54a48105-c2a4958a/c2a4958a44132fe9e446b62bba270e54.sif"
-url: https://datasets.datalad.org/shub/basnijholt/azure-singularity-agent/latest/2020-03-05-54a48105-c2a4958a/
+datalad_url: https://datasets.datalad.org?dir=/shub/basnijholt/azure-singularity-agent/latest/2020-03-05-54a48105-c2a4958a/
 recipe: https://datasets.datalad.org/shub/basnijholt/azure-singularity-agent/latest/2020-03-05-54a48105-c2a4958a/Singularity
 collection: basnijholt/azure-singularity-agent
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-28T21:02:03.004Z"
 size_mb: 2351.0
 size: 768008223
 sif: "https://datasets.datalad.org/shub/rnpratoori/damask_singularity/basic/2020-03-28-09001383-2075fd0d/2075fd0db991dbcaaf4a79d1231500a4.sif"
-url: https://datasets.datalad.org/shub/rnpratoori/damask_singularity/basic/2020-03-28-09001383-2075fd0d/
+datalad_url: https://datasets.datalad.org?dir=/shub/rnpratoori/damask_singularity/basic/2020-03-28-09001383-2075fd0d/
 recipe: https://datasets.datalad.org/shub/rnpratoori/damask_singularity/basic/2020-03-28-09001383-2075fd0d/Singularity
 collection: rnpratoori/damask_singularity
 ---

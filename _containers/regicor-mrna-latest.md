@@ -9,7 +9,7 @@ build_date: "2020-02-28T14:56:08.471Z"
 size_mb: 1718.0
 size: 764764191
 sif: "https://datasets.datalad.org/shub/regicor/mrna/latest/2020-02-28-b0c74724-e5e94bbd/e5e94bbdefa5e46d73bcbd8622cb70eb.sif"
-url: https://datasets.datalad.org/shub/regicor/mrna/latest/2020-02-28-b0c74724-e5e94bbd/
+datalad_url: https://datasets.datalad.org?dir=/shub/regicor/mrna/latest/2020-02-28-b0c74724-e5e94bbd/
 recipe: https://datasets.datalad.org/shub/regicor/mrna/latest/2020-02-28-b0c74724-e5e94bbd/Singularity
 collection: regicor/mrna
 ---

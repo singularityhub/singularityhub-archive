@@ -9,7 +9,7 @@ build_date: "2020-03-02T14:14:06.878Z"
 size_mb: 2251.296875
 size: 2360655872
 sif: "https://datasets.datalad.org/shub/C-SWARM/pgfem-3d-singularity/latest/2020-03-02-6c51501d-535ba2fb/535ba2fbe4e3142cecd7a73f3d0ff65f2b08c79c0a52960890db23fccf6d17ba.sif"
-url: https://datasets.datalad.org/shub/C-SWARM/pgfem-3d-singularity/latest/2020-03-02-6c51501d-535ba2fb/
+datalad_url: https://datasets.datalad.org?dir=/shub/C-SWARM/pgfem-3d-singularity/latest/2020-03-02-6c51501d-535ba2fb/
 recipe: https://datasets.datalad.org/shub/C-SWARM/pgfem-3d-singularity/latest/2020-03-02-6c51501d-535ba2fb/Singularity
 collection: C-SWARM/pgfem-3d-singularity
 ---

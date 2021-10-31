@@ -9,7 +9,7 @@ build_date: "2021-03-18T20:47:43.906Z"
 size_mb: 3173.0
 size: 1223606303
 sif: "https://datasets.datalad.org/shub/yimengkong/scope9/latest/2021-03-18-cc734fb3-71695083/716950837acdb8258ec6bcf33ea26f19.sif"
-url: https://datasets.datalad.org/shub/yimengkong/scope9/latest/2021-03-18-cc734fb3-71695083/
+datalad_url: https://datasets.datalad.org?dir=/shub/yimengkong/scope9/latest/2021-03-18-cc734fb3-71695083/
 recipe: https://datasets.datalad.org/shub/yimengkong/scope9/latest/2021-03-18-cc734fb3-71695083/Singularity
 collection: yimengkong/scope9
 ---

@@ -9,7 +9,7 @@ build_date: "2021-02-22T11:29:10.709Z"
 size_mb: 1531.0
 size: 695373855
 sif: "https://datasets.datalad.org/shub/J35P312/FindSVSingularity/latest/2021-02-22-25b0d996-0a1809e9/0a1809e9e8513d60c3ebf7f8637d3f7b.sif"
-url: https://datasets.datalad.org/shub/J35P312/FindSVSingularity/latest/2021-02-22-25b0d996-0a1809e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/FindSVSingularity/latest/2021-02-22-25b0d996-0a1809e9/
 recipe: https://datasets.datalad.org/shub/J35P312/FindSVSingularity/latest/2021-02-22-25b0d996-0a1809e9/Singularity
 collection: J35P312/FindSVSingularity
 ---

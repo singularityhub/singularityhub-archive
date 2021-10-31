@@ -9,7 +9,7 @@ build_date: "2018-02-02T23:56:14.942Z"
 size_mb: 725
 size: 226185247
 sif: "https://datasets.datalad.org/shub/hwleong/singularity/latest/2018-02-02-434acdb3-e3645692/e364569245b02f469bef0fc39d9f5b87.simg"
-url: https://datasets.datalad.org/shub/hwleong/singularity/latest/2018-02-02-434acdb3-e3645692/
+datalad_url: https://datasets.datalad.org?dir=/shub/hwleong/singularity/latest/2018-02-02-434acdb3-e3645692/
 recipe: https://datasets.datalad.org/shub/hwleong/singularity/latest/2018-02-02-434acdb3-e3645692/Singularity
 collection: hwleong/singularity
 ---

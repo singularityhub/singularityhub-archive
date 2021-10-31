@@ -9,7 +9,7 @@ build_date: "2019-06-17T19:35:29.690Z"
 size_mb: 1006
 size: 409239583
 sif: "https://datasets.datalad.org/shub/connor-lab/singularity-recipes/mykrobe-atlas/2019-06-17-d5710c09-5dce8dfe/5dce8dfe995489ef77b0ffa74bed2cb4.simg"
-url: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/mykrobe-atlas/2019-06-17-d5710c09-5dce8dfe/
+datalad_url: https://datasets.datalad.org?dir=/shub/connor-lab/singularity-recipes/mykrobe-atlas/2019-06-17-d5710c09-5dce8dfe/
 recipe: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/mykrobe-atlas/2019-06-17-d5710c09-5dce8dfe/Singularity
 collection: connor-lab/singularity-recipes
 ---

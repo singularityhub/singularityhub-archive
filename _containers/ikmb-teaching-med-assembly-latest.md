@@ -9,7 +9,7 @@ build_date: "2020-11-30T08:27:34.281Z"
 size_mb: 3090.0
 size: 1092825119
 sif: "https://datasets.datalad.org/shub/ikmb/teaching-med-assembly/latest/2020-11-30-84e93a05-140a2bbc/140a2bbcf55244ad047afb62e4c2afe6.sif"
-url: https://datasets.datalad.org/shub/ikmb/teaching-med-assembly/latest/2020-11-30-84e93a05-140a2bbc/
+datalad_url: https://datasets.datalad.org?dir=/shub/ikmb/teaching-med-assembly/latest/2020-11-30-84e93a05-140a2bbc/
 recipe: https://datasets.datalad.org/shub/ikmb/teaching-med-assembly/latest/2020-11-30-84e93a05-140a2bbc/Singularity
 collection: ikmb/teaching-med-assembly
 ---

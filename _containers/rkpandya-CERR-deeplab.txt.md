@@ -9,7 +9,7 @@ build_date: "2020-01-30T13:43:59.301Z"
 size_mb: 5274
 size: 2894127135
 sif: "https://datasets.datalad.org/shub/rkpandya/CERR/deeplab.txt/2020-01-30-ee8acc8f-132561a6/132561a651a6687b066146ca3e4430db.simg"
-url: https://datasets.datalad.org/shub/rkpandya/CERR/deeplab.txt/2020-01-30-ee8acc8f-132561a6/
+datalad_url: https://datasets.datalad.org?dir=/shub/rkpandya/CERR/deeplab.txt/2020-01-30-ee8acc8f-132561a6/
 recipe: https://datasets.datalad.org/shub/rkpandya/CERR/deeplab.txt/2020-01-30-ee8acc8f-132561a6/Singularity
 collection: rkpandya/CERR
 ---

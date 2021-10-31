@@ -9,7 +9,7 @@ build_date: "2019-09-24T12:44:43.511Z"
 size_mb: 2087.0
 size: 1005219871
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/neuronets-kwyk--version-0.4-gpu/2019-09-24-63885025-a7884391/a7884391b9c181544b31531fb4ed1890.sif"
-url: https://datasets.datalad.org/shub/ReproNim/containers/neuronets-kwyk--version-0.4-gpu/2019-09-24-63885025-a7884391/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/neuronets-kwyk--version-0.4-gpu/2019-09-24-63885025-a7884391/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/neuronets-kwyk--version-0.4-gpu/2019-09-24-63885025-a7884391/Singularity
 collection: ReproNim/containers
 ---

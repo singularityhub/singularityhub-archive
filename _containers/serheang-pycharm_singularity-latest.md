@@ -9,7 +9,7 @@ build_date: "2019-09-27T06:13:47.216Z"
 size_mb: 484.453125
 size: 507985920
 sif: "https://datasets.datalad.org/shub/serheang/pycharm_singularity/latest/2019-09-27-99b018df-b921e92e/b921e92e99d7850327bb40d4853d30df05d6f694fdb712a0a3f68fdd04e58c0b.sif"
-url: https://datasets.datalad.org/shub/serheang/pycharm_singularity/latest/2019-09-27-99b018df-b921e92e/
+datalad_url: https://datasets.datalad.org?dir=/shub/serheang/pycharm_singularity/latest/2019-09-27-99b018df-b921e92e/
 recipe: https://datasets.datalad.org/shub/serheang/pycharm_singularity/latest/2019-09-27-99b018df-b921e92e/Singularity
 collection: serheang/pycharm_singularity
 ---

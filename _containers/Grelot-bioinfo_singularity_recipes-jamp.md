@@ -9,7 +9,7 @@ build_date: "2020-09-24T06:20:33.417Z"
 size_mb: 2981.0
 size: 1217966111
 sif: "https://datasets.datalad.org/shub/Grelot/bioinfo_singularity_recipes/jamp/2020-09-24-725133c8-7e2cdfe8/7e2cdfe81af49956d7b859e39d1a959e.sif"
-url: https://datasets.datalad.org/shub/Grelot/bioinfo_singularity_recipes/jamp/2020-09-24-725133c8-7e2cdfe8/
+datalad_url: https://datasets.datalad.org?dir=/shub/Grelot/bioinfo_singularity_recipes/jamp/2020-09-24-725133c8-7e2cdfe8/
 recipe: https://datasets.datalad.org/shub/Grelot/bioinfo_singularity_recipes/jamp/2020-09-24-725133c8-7e2cdfe8/Singularity
 collection: Grelot/bioinfo_singularity_recipes
 ---

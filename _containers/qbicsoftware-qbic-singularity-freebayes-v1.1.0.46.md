@@ -9,7 +9,7 @@ build_date: "2018-02-22T15:06:01.973Z"
 size_mb: 264
 size: 76918815
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-freebayes/v1.1.0.46/2018-02-22-1fd4d5e8-e6b4287d/e6b4287d582e8586bf06adb6bcb0103a.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-freebayes/v1.1.0.46/2018-02-22-1fd4d5e8-e6b4287d/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-freebayes/v1.1.0.46/2018-02-22-1fd4d5e8-e6b4287d/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-freebayes/v1.1.0.46/2018-02-22-1fd4d5e8-e6b4287d/Singularity
 collection: qbicsoftware/qbic-singularity-freebayes
 ---

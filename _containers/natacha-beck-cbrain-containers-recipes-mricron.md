@@ -9,7 +9,7 @@ build_date: "2018-06-26T14:29:40.060Z"
 size_mb: 249
 size: 102080543
 sif: "https://datasets.datalad.org/shub/natacha-beck/cbrain-containers-recipes/mricron/2018-06-26-8dd3a8d6-0284f49d/0284f49de305a1eb72fd2ff8d706c606.simg"
-url: https://datasets.datalad.org/shub/natacha-beck/cbrain-containers-recipes/mricron/2018-06-26-8dd3a8d6-0284f49d/
+datalad_url: https://datasets.datalad.org?dir=/shub/natacha-beck/cbrain-containers-recipes/mricron/2018-06-26-8dd3a8d6-0284f49d/
 recipe: https://datasets.datalad.org/shub/natacha-beck/cbrain-containers-recipes/mricron/2018-06-26-8dd3a8d6-0284f49d/Singularity
 collection: natacha-beck/cbrain-containers-recipes
 ---

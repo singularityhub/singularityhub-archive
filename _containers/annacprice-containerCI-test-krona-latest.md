@@ -9,7 +9,7 @@ build_date: "2020-10-27T18:46:33.579Z"
 size_mb: 660.0
 size: 184254495
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/krona-latest/2020-10-27-8ec279ea-dbcac7a6/dbcac7a615cae77493dd28f2ca9e422d.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/krona-latest/2020-10-27-8ec279ea-dbcac7a6/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/krona-latest/2020-10-27-8ec279ea-dbcac7a6/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/krona-latest/2020-10-27-8ec279ea-dbcac7a6/Singularity
 collection: annacprice/containerCI-test
 ---

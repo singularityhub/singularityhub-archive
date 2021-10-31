@@ -9,7 +9,7 @@ build_date: "2020-12-22T02:47:35.030Z"
 size_mb: 1463.02734375
 size: 1534095360
 sif: "https://datasets.datalad.org/shub/TomHarrop/pollen-its-wrapper/v0.0.3/2020-12-22-69cf3b43-ae57dab3/ae57dab3ff0bbb8869ffa24bf39531b507d472fc790ab5e90117b5b67ad8a298.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/pollen-its-wrapper/v0.0.3/2020-12-22-69cf3b43-ae57dab3/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/pollen-its-wrapper/v0.0.3/2020-12-22-69cf3b43-ae57dab3/
 recipe: https://datasets.datalad.org/shub/TomHarrop/pollen-its-wrapper/v0.0.3/2020-12-22-69cf3b43-ae57dab3/Singularity
 collection: TomHarrop/pollen-its-wrapper
 ---

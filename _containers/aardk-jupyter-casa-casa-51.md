@@ -9,7 +9,7 @@ build_date: "2019-12-18T14:08:26.253Z"
 size_mb: 2766.0
 size: 991834143
 sif: "https://datasets.datalad.org/shub/aardk/jupyter-casa/casa-51/2019-12-18-858c59e9-0fed8cf6/0fed8cf6eb5aca90ff8e72d119a7a92a.sif"
-url: https://datasets.datalad.org/shub/aardk/jupyter-casa/casa-51/2019-12-18-858c59e9-0fed8cf6/
+datalad_url: https://datasets.datalad.org?dir=/shub/aardk/jupyter-casa/casa-51/2019-12-18-858c59e9-0fed8cf6/
 recipe: https://datasets.datalad.org/shub/aardk/jupyter-casa/casa-51/2019-12-18-858c59e9-0fed8cf6/Singularity
 collection: aardk/jupyter-casa
 ---

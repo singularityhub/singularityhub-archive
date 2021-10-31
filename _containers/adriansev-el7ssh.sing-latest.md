@@ -9,7 +9,7 @@ build_date: "2020-05-13T22:16:51.531Z"
 size_mb: 72.34375
 size: 75857920
 sif: "https://datasets.datalad.org/shub/adriansev/el7ssh.sing/latest/2020-05-13-7afd18de-11b4f3e0/11b4f3e0d0e9e9fb81d7839133a80b40733b24613e3dfb0e75356cef777203d4.sif"
-url: https://datasets.datalad.org/shub/adriansev/el7ssh.sing/latest/2020-05-13-7afd18de-11b4f3e0/
+datalad_url: https://datasets.datalad.org?dir=/shub/adriansev/el7ssh.sing/latest/2020-05-13-7afd18de-11b4f3e0/
 recipe: https://datasets.datalad.org/shub/adriansev/el7ssh.sing/latest/2020-05-13-7afd18de-11b4f3e0/Singularity
 collection: adriansev/el7ssh.sing
 ---

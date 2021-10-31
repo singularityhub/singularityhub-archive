@@ -9,7 +9,7 @@ build_date: "2019-08-12T10:41:12.199Z"
 size_mb: 115.42578125
 size: 121032704
 sif: "https://datasets.datalad.org/shub/sdruskat/getpapers-singularity/0.2.0/2019-08-12-cc788b1b-96baaeac/96baaeac6614103063667836c37935fc7c9a2d3b8c29aa21d6b549834fef6089.sif"
-url: https://datasets.datalad.org/shub/sdruskat/getpapers-singularity/0.2.0/2019-08-12-cc788b1b-96baaeac/
+datalad_url: https://datasets.datalad.org?dir=/shub/sdruskat/getpapers-singularity/0.2.0/2019-08-12-cc788b1b-96baaeac/
 recipe: https://datasets.datalad.org/shub/sdruskat/getpapers-singularity/0.2.0/2019-08-12-cc788b1b-96baaeac/Singularity
 collection: sdruskat/getpapers-singularity
 ---

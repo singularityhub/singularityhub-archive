@@ -9,7 +9,7 @@ build_date: "2019-10-15T14:42:29.879Z"
 size_mb: 471
 size: 185090079
 sif: "https://datasets.datalad.org/shub/netcatninja/cookbook/u1604/2019-10-15-daedac40-b7983a7d/b7983a7d45e3a5fae433f2447cd339a6.simg"
-url: https://datasets.datalad.org/shub/netcatninja/cookbook/u1604/2019-10-15-daedac40-b7983a7d/
+datalad_url: https://datasets.datalad.org?dir=/shub/netcatninja/cookbook/u1604/2019-10-15-daedac40-b7983a7d/
 recipe: https://datasets.datalad.org/shub/netcatninja/cookbook/u1604/2019-10-15-daedac40-b7983a7d/Singularity
 collection: netcatninja/cookbook
 ---

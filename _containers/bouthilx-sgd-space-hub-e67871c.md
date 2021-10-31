@@ -9,7 +9,7 @@ build_date: "2018-09-26T06:55:03.600Z"
 size_mb: 1903
 size: 849715231
 sif: "https://datasets.datalad.org/shub/bouthilx/sgd-space-hub/e67871c/2018-09-26-88c7bf38-2c48090b/2c48090bb6f19eefea9a13817e73e7a9.simg"
-url: https://datasets.datalad.org/shub/bouthilx/sgd-space-hub/e67871c/2018-09-26-88c7bf38-2c48090b/
+datalad_url: https://datasets.datalad.org?dir=/shub/bouthilx/sgd-space-hub/e67871c/2018-09-26-88c7bf38-2c48090b/
 recipe: https://datasets.datalad.org/shub/bouthilx/sgd-space-hub/e67871c/2018-09-26-88c7bf38-2c48090b/Singularity
 collection: bouthilx/sgd-space-hub
 ---

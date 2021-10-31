@@ -9,7 +9,7 @@ build_date: "2020-07-22T14:16:36.642Z"
 size_mb: 303.5078125
 size: 318251008
 sif: "https://datasets.datalad.org/shub/dmjordan/gatk-docker/python-2.7/2020-07-22-6981a28f-21cde189/21cde18949eb55ec4be5a4b5e00db1d3a1e8b62f48ea093f1923ebdfdf747ffe.sif"
-url: https://datasets.datalad.org/shub/dmjordan/gatk-docker/python-2.7/2020-07-22-6981a28f-21cde189/
+datalad_url: https://datasets.datalad.org?dir=/shub/dmjordan/gatk-docker/python-2.7/2020-07-22-6981a28f-21cde189/
 recipe: https://datasets.datalad.org/shub/dmjordan/gatk-docker/python-2.7/2020-07-22-6981a28f-21cde189/Singularity
 collection: dmjordan/gatk-docker
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-29T09:43:36.722Z"
 size_mb: 528
 size: 189165599
 sif: "https://datasets.datalad.org/shub/matteosecli/qe-singularity/latest/2021-03-29-f0515b9a-3ead5e18/3ead5e18e79d1b974c7da2beec2c16ab.simg"
-url: https://datasets.datalad.org/shub/matteosecli/qe-singularity/latest/2021-03-29-f0515b9a-3ead5e18/
+datalad_url: https://datasets.datalad.org?dir=/shub/matteosecli/qe-singularity/latest/2021-03-29-f0515b9a-3ead5e18/
 recipe: https://datasets.datalad.org/shub/matteosecli/qe-singularity/latest/2021-03-29-f0515b9a-3ead5e18/Singularity
 collection: matteosecli/qe-singularity
 ---

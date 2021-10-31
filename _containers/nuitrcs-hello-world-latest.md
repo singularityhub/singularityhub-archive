@@ -9,7 +9,7 @@ build_date: "2020-12-11T23:35:36.796Z"
 size_mb: 196
 size: 62603295
 sif: "https://datasets.datalad.org/shub/nuitrcs/hello-world/latest/2020-12-11-3554400c-f0f7f733/f0f7f7336bd21fe552250cab6f2ee36e.simg"
-url: https://datasets.datalad.org/shub/nuitrcs/hello-world/latest/2020-12-11-3554400c-f0f7f733/
+datalad_url: https://datasets.datalad.org?dir=/shub/nuitrcs/hello-world/latest/2020-12-11-3554400c-f0f7f733/
 recipe: https://datasets.datalad.org/shub/nuitrcs/hello-world/latest/2020-12-11-3554400c-f0f7f733/Singularity
 collection: nuitrcs/hello-world
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-17T14:35:49.261Z"
 size_mb: 3478.0
 size: 1397190687
 sif: "https://datasets.datalad.org/shub/PPKoller/SHub/root6.geant4.ubuntu-18.04/2020-09-17-2c1f3859-ff9bf6c0/ff9bf6c0b6ec4920ebbf1146afe81fd9.sif"
-url: https://datasets.datalad.org/shub/PPKoller/SHub/root6.geant4.ubuntu-18.04/2020-09-17-2c1f3859-ff9bf6c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/PPKoller/SHub/root6.geant4.ubuntu-18.04/2020-09-17-2c1f3859-ff9bf6c0/
 recipe: https://datasets.datalad.org/shub/PPKoller/SHub/root6.geant4.ubuntu-18.04/2020-09-17-2c1f3859-ff9bf6c0/Singularity
 collection: PPKoller/SHub
 ---

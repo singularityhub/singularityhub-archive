@@ -9,7 +9,7 @@ build_date: "2018-05-24T17:09:57.058Z"
 size_mb: 594
 size: 213954591
 sif: "https://datasets.datalad.org/shub/xrobin/singularity-plip/1.4.1/2018-05-24-366d3e5c-6418e5a5/6418e5a5853dd445c9b0bfc757712337.simg"
-url: https://datasets.datalad.org/shub/xrobin/singularity-plip/1.4.1/2018-05-24-366d3e5c-6418e5a5/
+datalad_url: https://datasets.datalad.org?dir=/shub/xrobin/singularity-plip/1.4.1/2018-05-24-366d3e5c-6418e5a5/
 recipe: https://datasets.datalad.org/shub/xrobin/singularity-plip/1.4.1/2018-05-24-366d3e5c-6418e5a5/Singularity
 collection: xrobin/singularity-plip
 ---

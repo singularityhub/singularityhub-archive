@@ -9,7 +9,7 @@ build_date: "2019-03-15T09:03:37.594Z"
 size_mb: 1503
 size: 575434783
 sif: "https://datasets.datalad.org/shub/shelvia1039/Building_Image/jupyter/2019-03-15-4d8df7b9-1571036e/1571036e01bce8e956e24e4d8254c932.simg"
-url: https://datasets.datalad.org/shub/shelvia1039/Building_Image/jupyter/2019-03-15-4d8df7b9-1571036e/
+datalad_url: https://datasets.datalad.org?dir=/shub/shelvia1039/Building_Image/jupyter/2019-03-15-4d8df7b9-1571036e/
 recipe: https://datasets.datalad.org/shub/shelvia1039/Building_Image/jupyter/2019-03-15-4d8df7b9-1571036e/Singularity
 collection: shelvia1039/Building_Image
 ---

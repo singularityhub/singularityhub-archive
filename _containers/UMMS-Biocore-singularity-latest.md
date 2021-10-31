@@ -9,7 +9,7 @@ build_date: "2018-12-07T19:40:49.894Z"
 size_mb: 5892
 size: 2006487071
 sif: "https://datasets.datalad.org/shub/UMMS-Biocore/singularity/latest/2018-12-07-5a972f61-72556467/72556467dbb838723882fb8404f66c01.simg"
-url: https://datasets.datalad.org/shub/UMMS-Biocore/singularity/latest/2018-12-07-5a972f61-72556467/
+datalad_url: https://datasets.datalad.org?dir=/shub/UMMS-Biocore/singularity/latest/2018-12-07-5a972f61-72556467/
 recipe: https://datasets.datalad.org/shub/UMMS-Biocore/singularity/latest/2018-12-07-5a972f61-72556467/Singularity
 collection: UMMS-Biocore/singularity
 ---

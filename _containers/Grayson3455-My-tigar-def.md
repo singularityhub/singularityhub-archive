@@ -9,7 +9,7 @@ build_date: "2020-12-18T21:56:27.396Z"
 size_mb: 710.96875
 size: 745504768
 sif: "https://datasets.datalad.org/shub/Grayson3455/My-tigar/def/2020-12-18-270ffe59-1ed5ea87/1ed5ea87ee7a7e28963cda5326662ef7f913a9f3ae6df882be446148b1a369bd.sif"
-url: https://datasets.datalad.org/shub/Grayson3455/My-tigar/def/2020-12-18-270ffe59-1ed5ea87/
+datalad_url: https://datasets.datalad.org?dir=/shub/Grayson3455/My-tigar/def/2020-12-18-270ffe59-1ed5ea87/
 recipe: https://datasets.datalad.org/shub/Grayson3455/My-tigar/def/2020-12-18-270ffe59-1ed5ea87/Singularity
 collection: Grayson3455/My-tigar
 ---

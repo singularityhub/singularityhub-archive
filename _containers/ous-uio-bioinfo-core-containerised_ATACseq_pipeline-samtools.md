@@ -9,7 +9,7 @@ build_date: "2021-03-06T01:07:02.280Z"
 size_mb: 396.9453125
 size: 416227328
 sif: "https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/samtools/2021-03-06-7464be54-49c2d64d/49c2d64dfeee90963e905addc556943e10ffb66c7cf6e9969cebf49bf476a8b1.sif"
-url: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/samtools/2021-03-06-7464be54-49c2d64d/
+datalad_url: https://datasets.datalad.org?dir=/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/samtools/2021-03-06-7464be54-49c2d64d/
 recipe: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/samtools/2021-03-06-7464be54-49c2d64d/Singularity
 collection: ous-uio-bioinfo-core/containerised_ATACseq_pipeline
 ---

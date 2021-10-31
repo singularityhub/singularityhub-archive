@@ -9,7 +9,7 @@ build_date: "2018-11-07T13:35:08.002Z"
 size_mb: 797
 size: 233660447
 sif: "https://datasets.datalad.org/shub/jtchilders/singularity_gpu_tensorflow/mpich/2018-11-07-87ffa359-279aaa79/279aaa79712720fc63aaf853de48ba07.simg"
-url: https://datasets.datalad.org/shub/jtchilders/singularity_gpu_tensorflow/mpich/2018-11-07-87ffa359-279aaa79/
+datalad_url: https://datasets.datalad.org?dir=/shub/jtchilders/singularity_gpu_tensorflow/mpich/2018-11-07-87ffa359-279aaa79/
 recipe: https://datasets.datalad.org/shub/jtchilders/singularity_gpu_tensorflow/mpich/2018-11-07-87ffa359-279aaa79/Singularity
 collection: jtchilders/singularity_gpu_tensorflow
 ---

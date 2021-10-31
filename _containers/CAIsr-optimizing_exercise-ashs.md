@@ -9,7 +9,7 @@ build_date: "2018-04-13T06:50:44.724Z"
 size_mb: 3528
 size: 3211153439
 sif: "https://datasets.datalad.org/shub/CAIsr/optimizing_exercise/ashs/2018-04-13-ec81a909-c0952f3e/c0952f3ee8fb41110026af418b9c93e6.simg"
-url: https://datasets.datalad.org/shub/CAIsr/optimizing_exercise/ashs/2018-04-13-ec81a909-c0952f3e/
+datalad_url: https://datasets.datalad.org?dir=/shub/CAIsr/optimizing_exercise/ashs/2018-04-13-ec81a909-c0952f3e/
 recipe: https://datasets.datalad.org/shub/CAIsr/optimizing_exercise/ashs/2018-04-13-ec81a909-c0952f3e/Singularity
 collection: CAIsr/optimizing_exercise
 ---

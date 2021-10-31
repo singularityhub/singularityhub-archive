@@ -9,7 +9,7 @@ build_date: "2021-04-19T06:51:22.846Z"
 size_mb: 3961.41796875
 size: 4153847808
 sif: "https://datasets.datalad.org/shub/eugtsa/tf_pytorch_singularity/latest/2021-04-19-a723eb78-31580cb0/31580cb0fc73f1638d004084a83bf8f35613cd6560ec4286aa6a2276592eb8a7.sif"
-url: https://datasets.datalad.org/shub/eugtsa/tf_pytorch_singularity/latest/2021-04-19-a723eb78-31580cb0/
+datalad_url: https://datasets.datalad.org?dir=/shub/eugtsa/tf_pytorch_singularity/latest/2021-04-19-a723eb78-31580cb0/
 recipe: https://datasets.datalad.org/shub/eugtsa/tf_pytorch_singularity/latest/2021-04-19-a723eb78-31580cb0/Singularity
 collection: eugtsa/tf_pytorch_singularity
 ---

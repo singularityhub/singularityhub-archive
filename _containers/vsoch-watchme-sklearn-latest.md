@@ -9,7 +9,7 @@ build_date: "2020-09-01T14:31:57.177Z"
 size_mb: 2635.0
 size: 1190821919
 sif: "https://datasets.datalad.org/shub/vsoch/watchme-sklearn/latest/2020-09-01-4411eb6a-7851f127/7851f1274c158ed64a35bfc3e89c3aa1.sif"
-url: https://datasets.datalad.org/shub/vsoch/watchme-sklearn/latest/2020-09-01-4411eb6a-7851f127/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/watchme-sklearn/latest/2020-09-01-4411eb6a-7851f127/
 recipe: https://datasets.datalad.org/shub/vsoch/watchme-sklearn/latest/2020-09-01-4411eb6a-7851f127/Singularity
 collection: vsoch/watchme-sklearn
 ---

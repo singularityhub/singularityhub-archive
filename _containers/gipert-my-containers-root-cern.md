@@ -9,7 +9,7 @@ build_date: "2018-01-21T16:25:29.371Z"
 size_mb: 1449
 size: 487104543
 sif: "https://datasets.datalad.org/shub/gipert/my-containers/root-cern/2018-01-21-4351299d-64b25009/64b250093449a46d05103a29c4588515.simg"
-url: https://datasets.datalad.org/shub/gipert/my-containers/root-cern/2018-01-21-4351299d-64b25009/
+datalad_url: https://datasets.datalad.org?dir=/shub/gipert/my-containers/root-cern/2018-01-21-4351299d-64b25009/
 recipe: https://datasets.datalad.org/shub/gipert/my-containers/root-cern/2018-01-21-4351299d-64b25009/Singularity
 collection: gipert/my-containers
 ---

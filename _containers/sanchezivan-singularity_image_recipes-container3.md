@@ -9,7 +9,7 @@ build_date: "2019-06-25T05:49:30.314Z"
 size_mb: 3375
 size: 782708767
 sif: "https://datasets.datalad.org/shub/sanchezivan/singularity_image_recipes/container3/2019-06-25-1b53e437-20092743/2009274351f7809384bd1262db5d5b97.simg"
-url: https://datasets.datalad.org/shub/sanchezivan/singularity_image_recipes/container3/2019-06-25-1b53e437-20092743/
+datalad_url: https://datasets.datalad.org?dir=/shub/sanchezivan/singularity_image_recipes/container3/2019-06-25-1b53e437-20092743/
 recipe: https://datasets.datalad.org/shub/sanchezivan/singularity_image_recipes/container3/2019-06-25-1b53e437-20092743/Singularity
 collection: sanchezivan/singularity_image_recipes
 ---

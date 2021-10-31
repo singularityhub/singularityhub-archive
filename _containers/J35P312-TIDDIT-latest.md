@@ -9,7 +9,7 @@ build_date: "2021-04-01T06:26:49.686Z"
 size_mb: 1145.0
 size: 602443807
 sif: "https://datasets.datalad.org/shub/J35P312/TIDDIT/latest/2021-04-01-d6751b41-0e7cd5ce/0e7cd5ce2a9f780934213d7a68290509.sif"
-url: https://datasets.datalad.org/shub/J35P312/TIDDIT/latest/2021-04-01-d6751b41-0e7cd5ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/TIDDIT/latest/2021-04-01-d6751b41-0e7cd5ce/
 recipe: https://datasets.datalad.org/shub/J35P312/TIDDIT/latest/2021-04-01-d6751b41-0e7cd5ce/Singularity
 collection: J35P312/TIDDIT
 ---

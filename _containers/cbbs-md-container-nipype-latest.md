@@ -9,7 +9,7 @@ build_date: "2020-12-18T15:29:19.521Z"
 size_mb: 955.0
 size: 322478111
 sif: "https://datasets.datalad.org/shub/cbbs-md/container-nipype/latest/2020-12-18-43f9e13c-82c7966c/82c7966c5288f256274442a8d683c6c0.sif"
-url: https://datasets.datalad.org/shub/cbbs-md/container-nipype/latest/2020-12-18-43f9e13c-82c7966c/
+datalad_url: https://datasets.datalad.org?dir=/shub/cbbs-md/container-nipype/latest/2020-12-18-43f9e13c-82c7966c/
 recipe: https://datasets.datalad.org/shub/cbbs-md/container-nipype/latest/2020-12-18-43f9e13c-82c7966c/Singularity
 collection: cbbs-md/container-nipype
 ---

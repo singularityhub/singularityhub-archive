@@ -9,7 +9,7 @@ build_date: "2018-06-29T20:46:11.670Z"
 size_mb: 1335
 size: 447762463
 sif: "https://datasets.datalad.org/shub/kma/HPC-Container/latest/2018-06-29-390ee6b0-9cc63e72/9cc63e726ba110add5c669a150c3ae94.simg"
-url: https://datasets.datalad.org/shub/kma/HPC-Container/latest/2018-06-29-390ee6b0-9cc63e72/
+datalad_url: https://datasets.datalad.org?dir=/shub/kma/HPC-Container/latest/2018-06-29-390ee6b0-9cc63e72/
 recipe: https://datasets.datalad.org/shub/kma/HPC-Container/latest/2018-06-29-390ee6b0-9cc63e72/Singularity
 collection: kma/HPC-Container
 ---

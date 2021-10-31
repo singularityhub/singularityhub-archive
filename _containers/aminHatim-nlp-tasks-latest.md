@@ -9,7 +9,7 @@ build_date: "2019-11-11T01:16:20.692Z"
 size_mb: 6069.0
 size: 3416723487
 sif: "https://datasets.datalad.org/shub/aminHatim/nlp-tasks/latest/2019-11-11-5b6852fb-e32ac226/e32ac226b3ca7a5993e4d46f0d83cc7e.sif"
-url: https://datasets.datalad.org/shub/aminHatim/nlp-tasks/latest/2019-11-11-5b6852fb-e32ac226/
+datalad_url: https://datasets.datalad.org?dir=/shub/aminHatim/nlp-tasks/latest/2019-11-11-5b6852fb-e32ac226/
 recipe: https://datasets.datalad.org/shub/aminHatim/nlp-tasks/latest/2019-11-11-5b6852fb-e32ac226/Singularity
 collection: aminHatim/nlp-tasks
 ---

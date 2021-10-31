@@ -9,7 +9,7 @@ build_date: "2018-10-07T18:30:41.801Z"
 size_mb: 3013
 size: 1528987679
 sif: "https://datasets.datalad.org/shub/baconfordinner/pa/latest/2018-10-07-68a24aea-cb12d4bb/cb12d4bb3d9d7ad6191a97937fcd9b01.simg"
-url: https://datasets.datalad.org/shub/baconfordinner/pa/latest/2018-10-07-68a24aea-cb12d4bb/
+datalad_url: https://datasets.datalad.org?dir=/shub/baconfordinner/pa/latest/2018-10-07-68a24aea-cb12d4bb/
 recipe: https://datasets.datalad.org/shub/baconfordinner/pa/latest/2018-10-07-68a24aea-cb12d4bb/Singularity
 collection: baconfordinner/pa
 ---

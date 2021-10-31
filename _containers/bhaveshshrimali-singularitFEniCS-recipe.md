@@ -9,7 +9,7 @@ build_date: "2021-04-19T21:24:42.066Z"
 size_mb: 4099.0
 size: 1320230943
 sif: "https://datasets.datalad.org/shub/bhaveshshrimali/singularitFEniCS/recipe/2021-04-19-321ddb93-d53fa51b/d53fa51b703e784b4355fe74db739225.sif"
-url: https://datasets.datalad.org/shub/bhaveshshrimali/singularitFEniCS/recipe/2021-04-19-321ddb93-d53fa51b/
+datalad_url: https://datasets.datalad.org?dir=/shub/bhaveshshrimali/singularitFEniCS/recipe/2021-04-19-321ddb93-d53fa51b/
 recipe: https://datasets.datalad.org/shub/bhaveshshrimali/singularitFEniCS/recipe/2021-04-19-321ddb93-d53fa51b/Singularity
 collection: bhaveshshrimali/singularitFEniCS
 ---

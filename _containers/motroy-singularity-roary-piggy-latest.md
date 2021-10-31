@@ -9,7 +9,7 @@ build_date: "2020-02-05T13:03:27.091Z"
 size_mb: 727
 size: 242462751
 sif: "https://datasets.datalad.org/shub/motroy/singularity-roary-piggy/latest/2020-02-05-6e51c767-381f251e/381f251ef95188631ab35ead1091e359.simg"
-url: https://datasets.datalad.org/shub/motroy/singularity-roary-piggy/latest/2020-02-05-6e51c767-381f251e/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-roary-piggy/latest/2020-02-05-6e51c767-381f251e/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-roary-piggy/latest/2020-02-05-6e51c767-381f251e/Singularity
 collection: motroy/singularity-roary-piggy
 ---

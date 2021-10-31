@@ -9,7 +9,7 @@ build_date: "2019-11-08T17:49:22.687Z"
 size_mb: 117.0
 size: 36007967
 sif: "https://datasets.datalad.org/shub/tin6150/python/latest/2019-11-08-3e3bf2f7-797c40f2/797c40f219723d03e5a1e357691adfff.sif"
-url: https://datasets.datalad.org/shub/tin6150/python/latest/2019-11-08-3e3bf2f7-797c40f2/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/python/latest/2019-11-08-3e3bf2f7-797c40f2/
 recipe: https://datasets.datalad.org/shub/tin6150/python/latest/2019-11-08-3e3bf2f7-797c40f2/Singularity
 collection: tin6150/python
 ---

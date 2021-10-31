@@ -9,7 +9,7 @@ build_date: "2020-06-19T10:49:53.786Z"
 size_mb: 600
 size: 260161567
 sif: "https://datasets.datalad.org/shub/corinnebosley/singularity-recipes/iris-continuum/2020-06-19-9a2de3db-2e57dc4e/2e57dc4e1b58dda4821c174aeff3b26e.simg"
-url: https://datasets.datalad.org/shub/corinnebosley/singularity-recipes/iris-continuum/2020-06-19-9a2de3db-2e57dc4e/
+datalad_url: https://datasets.datalad.org?dir=/shub/corinnebosley/singularity-recipes/iris-continuum/2020-06-19-9a2de3db-2e57dc4e/
 recipe: https://datasets.datalad.org/shub/corinnebosley/singularity-recipes/iris-continuum/2020-06-19-9a2de3db-2e57dc4e/Singularity
 collection: corinnebosley/singularity-recipes
 ---

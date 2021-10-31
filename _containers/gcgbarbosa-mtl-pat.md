@@ -9,7 +9,7 @@ build_date: "2019-11-07T19:40:25.849Z"
 size_mb: 8203.0
 size: 4620390431
 sif: "https://datasets.datalad.org/shub/gcgbarbosa/mtl/pat/2019-11-07-16cc41a0-ec2cacb6/ec2cacb6231631bf5300fadeffd21798.sif"
-url: https://datasets.datalad.org/shub/gcgbarbosa/mtl/pat/2019-11-07-16cc41a0-ec2cacb6/
+datalad_url: https://datasets.datalad.org?dir=/shub/gcgbarbosa/mtl/pat/2019-11-07-16cc41a0-ec2cacb6/
 recipe: https://datasets.datalad.org/shub/gcgbarbosa/mtl/pat/2019-11-07-16cc41a0-ec2cacb6/Singularity
 collection: gcgbarbosa/mtl
 ---

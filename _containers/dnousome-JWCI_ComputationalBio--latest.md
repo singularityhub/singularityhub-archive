@@ -9,7 +9,7 @@ build_date: "2018-07-28T02:46:42.406Z"
 size_mb: 867
 size: 523952159
 sif: "https://datasets.datalad.org/shub/dnousome/JWCI_ComputationalBio-/latest/2018-07-28-f801e44f-7647052d/7647052de66eacdaefa6bad95e01c556.simg"
-url: https://datasets.datalad.org/shub/dnousome/JWCI_ComputationalBio-/latest/2018-07-28-f801e44f-7647052d/
+datalad_url: https://datasets.datalad.org?dir=/shub/dnousome/JWCI_ComputationalBio-/latest/2018-07-28-f801e44f-7647052d/
 recipe: https://datasets.datalad.org/shub/dnousome/JWCI_ComputationalBio-/latest/2018-07-28-f801e44f-7647052d/Singularity
 collection: dnousome/JWCI_ComputationalBio-
 ---

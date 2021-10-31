@@ -9,7 +9,7 @@ build_date: "2020-05-17T16:23:45.862Z"
 size_mb: 3083.0
 size: 1441902623
 sif: "https://datasets.datalad.org/shub/DylanYang7225/singularity_ML/rcp/2020-05-17-7f12b53e-c3d623c6/c3d623c696fd82970a47f93b92036e23.sif"
-url: https://datasets.datalad.org/shub/DylanYang7225/singularity_ML/rcp/2020-05-17-7f12b53e-c3d623c6/
+datalad_url: https://datasets.datalad.org?dir=/shub/DylanYang7225/singularity_ML/rcp/2020-05-17-7f12b53e-c3d623c6/
 recipe: https://datasets.datalad.org/shub/DylanYang7225/singularity_ML/rcp/2020-05-17-7f12b53e-c3d623c6/Singularity
 collection: DylanYang7225/singularity_ML
 ---

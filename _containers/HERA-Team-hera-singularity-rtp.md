@@ -9,7 +9,7 @@ build_date: "2020-12-16T19:14:32.787Z"
 size_mb: 1719.2578125
 size: 1802772480
 sif: "https://datasets.datalad.org/shub/HERA-Team/hera-singularity/rtp/2020-12-16-75ac73a5-6f169870/6f16987018eae136da1ddb24311c7b2ac5178ce666d73cc1141851e5cf735337.sif"
-url: https://datasets.datalad.org/shub/HERA-Team/hera-singularity/rtp/2020-12-16-75ac73a5-6f169870/
+datalad_url: https://datasets.datalad.org?dir=/shub/HERA-Team/hera-singularity/rtp/2020-12-16-75ac73a5-6f169870/
 recipe: https://datasets.datalad.org/shub/HERA-Team/hera-singularity/rtp/2020-12-16-75ac73a5-6f169870/Singularity
 collection: HERA-Team/hera-singularity
 ---

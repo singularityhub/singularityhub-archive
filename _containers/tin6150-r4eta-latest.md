@@ -9,7 +9,7 @@ build_date: "2020-09-09T02:37:37.922Z"
 size_mb: 2393.62890625
 size: 2509901824
 sif: "https://datasets.datalad.org/shub/tin6150/r4eta/latest/2020-09-09-83a88117-6af14063/6af14063468714767c0813750a4f1f7478ca71648df1afedafe79e8e08e716cc.sif"
-url: https://datasets.datalad.org/shub/tin6150/r4eta/latest/2020-09-09-83a88117-6af14063/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/r4eta/latest/2020-09-09-83a88117-6af14063/
 recipe: https://datasets.datalad.org/shub/tin6150/r4eta/latest/2020-09-09-83a88117-6af14063/Singularity
 collection: tin6150/r4eta
 ---

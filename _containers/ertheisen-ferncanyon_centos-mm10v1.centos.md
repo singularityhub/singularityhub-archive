@@ -9,7 +9,7 @@ build_date: "2019-06-22T01:06:31.330Z"
 size_mb: 11728
 size: 4302233631
 sif: "https://datasets.datalad.org/shub/ertheisen/ferncanyon_centos/mm10v1.centos/2019-06-22-4c191ab2-86f6560f/86f6560fe23064bf08cde084bdc1df10.simg"
-url: https://datasets.datalad.org/shub/ertheisen/ferncanyon_centos/mm10v1.centos/2019-06-22-4c191ab2-86f6560f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ertheisen/ferncanyon_centos/mm10v1.centos/2019-06-22-4c191ab2-86f6560f/
 recipe: https://datasets.datalad.org/shub/ertheisen/ferncanyon_centos/mm10v1.centos/2019-06-22-4c191ab2-86f6560f/Singularity
 collection: ertheisen/ferncanyon_centos
 ---

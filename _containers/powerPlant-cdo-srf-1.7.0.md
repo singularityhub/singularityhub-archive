@@ -9,7 +9,7 @@ build_date: "2019-02-05T05:54:32.298Z"
 size_mb: 845
 size: 233009183
 sif: "https://datasets.datalad.org/shub/powerPlant/cdo-srf/1.7.0/2019-02-05-1803e629-c407b2b1/c407b2b19a0ca42056ccf6bba226570d.simg"
-url: https://datasets.datalad.org/shub/powerPlant/cdo-srf/1.7.0/2019-02-05-1803e629-c407b2b1/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/cdo-srf/1.7.0/2019-02-05-1803e629-c407b2b1/
 recipe: https://datasets.datalad.org/shub/powerPlant/cdo-srf/1.7.0/2019-02-05-1803e629-c407b2b1/Singularity
 collection: powerPlant/cdo-srf
 ---

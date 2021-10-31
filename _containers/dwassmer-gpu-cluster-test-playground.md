@@ -9,7 +9,7 @@ build_date: "2019-05-03T01:19:56.088Z"
 size_mb: 17603
 size: 8111853599
 sif: "https://datasets.datalad.org/shub/dwassmer/gpu-cluster-test/playground/2019-05-03-e561f9b7-eda6e0b4/eda6e0b48d74ca68f711a7c2bd032915.simg"
-url: https://datasets.datalad.org/shub/dwassmer/gpu-cluster-test/playground/2019-05-03-e561f9b7-eda6e0b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/dwassmer/gpu-cluster-test/playground/2019-05-03-e561f9b7-eda6e0b4/
 recipe: https://datasets.datalad.org/shub/dwassmer/gpu-cluster-test/playground/2019-05-03-e561f9b7-eda6e0b4/Singularity
 collection: dwassmer/gpu-cluster-test
 ---

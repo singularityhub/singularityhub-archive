@@ -9,7 +9,7 @@ build_date: "2019-03-01T19:49:13.805Z"
 size_mb: 8383
 size: 5930442783
 sif: "https://datasets.datalad.org/shub/manasi-t24/singularity_recipes/start/2019-03-01-523aad04-8df16e08/8df16e081b747eb95298b124a0d2352a.simg"
-url: https://datasets.datalad.org/shub/manasi-t24/singularity_recipes/start/2019-03-01-523aad04-8df16e08/
+datalad_url: https://datasets.datalad.org?dir=/shub/manasi-t24/singularity_recipes/start/2019-03-01-523aad04-8df16e08/
 recipe: https://datasets.datalad.org/shub/manasi-t24/singularity_recipes/start/2019-03-01-523aad04-8df16e08/Singularity
 collection: manasi-t24/singularity_recipes
 ---

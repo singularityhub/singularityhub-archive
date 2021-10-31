@@ -9,7 +9,7 @@ build_date: "2017-11-16T10:30:37.588Z"
 size_mb: 3117
 size: 1529036831
 sif: "https://datasets.datalad.org/shub/albatrosfm/Singularity/latest/2017-11-16-79086a20-37a2ad77/37a2ad77248ba3e65efcba25ab02cd17.simg"
-url: https://datasets.datalad.org/shub/albatrosfm/Singularity/latest/2017-11-16-79086a20-37a2ad77/
+datalad_url: https://datasets.datalad.org?dir=/shub/albatrosfm/Singularity/latest/2017-11-16-79086a20-37a2ad77/
 recipe: https://datasets.datalad.org/shub/albatrosfm/Singularity/latest/2017-11-16-79086a20-37a2ad77/Singularity
 collection: albatrosfm/Singularity
 ---

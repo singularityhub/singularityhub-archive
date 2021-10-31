@@ -9,7 +9,7 @@ build_date: "2021-04-14T15:56:15.611Z"
 size_mb: 19674
 size: 5868924959
 sif: "https://datasets.datalad.org/shub/MaximilianHanussek/BOOTABLE/latest/2021-04-14-033e4ca4-1e300810/1e3008105a1b1a19a905f143501dca9f.simg"
-url: https://datasets.datalad.org/shub/MaximilianHanussek/BOOTABLE/latest/2021-04-14-033e4ca4-1e300810/
+datalad_url: https://datasets.datalad.org?dir=/shub/MaximilianHanussek/BOOTABLE/latest/2021-04-14-033e4ca4-1e300810/
 recipe: https://datasets.datalad.org/shub/MaximilianHanussek/BOOTABLE/latest/2021-04-14-033e4ca4-1e300810/Singularity
 collection: MaximilianHanussek/BOOTABLE
 ---

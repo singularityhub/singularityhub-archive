@@ -9,7 +9,7 @@ build_date: "2020-04-08T05:12:16.389Z"
 size_mb: 1295.0
 size: 519839775
 sif: "https://datasets.datalad.org/shub/bahlolab/nf-quanttb/nf_quanttb_v0.1/2020-04-08-54db29be-663b4085/663b4085028933e048e7d414f9581ecb.sif"
-url: https://datasets.datalad.org/shub/bahlolab/nf-quanttb/nf_quanttb_v0.1/2020-04-08-54db29be-663b4085/
+datalad_url: https://datasets.datalad.org?dir=/shub/bahlolab/nf-quanttb/nf_quanttb_v0.1/2020-04-08-54db29be-663b4085/
 recipe: https://datasets.datalad.org/shub/bahlolab/nf-quanttb/nf_quanttb_v0.1/2020-04-08-54db29be-663b4085/Singularity
 collection: bahlolab/nf-quanttb
 ---

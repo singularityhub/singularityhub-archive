@@ -9,7 +9,7 @@ build_date: "2020-04-19T22:35:26.095Z"
 size_mb: 966
 size: 405512223
 sif: "https://datasets.datalad.org/shub/frederic-michaud/python3/latest/2020-04-19-e6f95afe-fe67923d/fe67923d1f156b99367972d8779bf56a.simg"
-url: https://datasets.datalad.org/shub/frederic-michaud/python3/latest/2020-04-19-e6f95afe-fe67923d/
+datalad_url: https://datasets.datalad.org?dir=/shub/frederic-michaud/python3/latest/2020-04-19-e6f95afe-fe67923d/
 recipe: https://datasets.datalad.org/shub/frederic-michaud/python3/latest/2020-04-19-e6f95afe-fe67923d/Singularity
 collection: frederic-michaud/python3
 ---

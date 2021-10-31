@@ -9,7 +9,7 @@ build_date: "2019-11-14T13:57:41.613Z"
 size_mb: 9202.0
 size: 2095939615
 sif: "https://datasets.datalad.org/shub/bstriner/kaldi-image/cpu/2019-11-14-a33cfadc-8299e187/8299e187ea7a23df7b4f3a34feb5b856.sif"
-url: https://datasets.datalad.org/shub/bstriner/kaldi-image/cpu/2019-11-14-a33cfadc-8299e187/
+datalad_url: https://datasets.datalad.org?dir=/shub/bstriner/kaldi-image/cpu/2019-11-14-a33cfadc-8299e187/
 recipe: https://datasets.datalad.org/shub/bstriner/kaldi-image/cpu/2019-11-14-a33cfadc-8299e187/Singularity
 collection: bstriner/kaldi-image
 ---

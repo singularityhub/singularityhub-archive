@@ -9,7 +9,7 @@ build_date: "2018-03-10T00:08:48.537Z"
 size_mb: 122
 size: 90853407
 sif: "https://datasets.datalad.org/shub/fwip/cramtools/latest/2018-03-10-a7b7eded-136971cd/136971cdc309bb3cf6327e1afd855c3a.simg"
-url: https://datasets.datalad.org/shub/fwip/cramtools/latest/2018-03-10-a7b7eded-136971cd/
+datalad_url: https://datasets.datalad.org?dir=/shub/fwip/cramtools/latest/2018-03-10-a7b7eded-136971cd/
 recipe: https://datasets.datalad.org/shub/fwip/cramtools/latest/2018-03-10-a7b7eded-136971cd/Singularity
 collection: fwip/cramtools
 ---

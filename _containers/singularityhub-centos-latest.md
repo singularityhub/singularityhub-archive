@@ -9,7 +9,7 @@ build_date: "2019-07-26T21:13:44.271Z"
 size_mb: 361
 size: 115068959
 sif: "https://datasets.datalad.org/shub/singularityhub/centos/latest/2019-07-26-b342d16b-e2b7b812/e2b7b812fc4c546ab3e904bce82c43ab.simg"
-url: https://datasets.datalad.org/shub/singularityhub/centos/latest/2019-07-26-b342d16b-e2b7b812/
+datalad_url: https://datasets.datalad.org?dir=/shub/singularityhub/centos/latest/2019-07-26-b342d16b-e2b7b812/
 recipe: https://datasets.datalad.org/shub/singularityhub/centos/latest/2019-07-26-b342d16b-e2b7b812/Singularity
 collection: singularityhub/centos
 ---

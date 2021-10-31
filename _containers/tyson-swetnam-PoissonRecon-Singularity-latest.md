@@ -9,7 +9,7 @@ build_date: "2020-02-06T16:44:24.283Z"
 size_mb: 918
 size: 305721375
 sif: "https://datasets.datalad.org/shub/tyson-swetnam/PoissonRecon-Singularity/latest/2020-02-06-3c37d2b3-742bf4d5/742bf4d51541d76292097736cb0a065c.simg"
-url: https://datasets.datalad.org/shub/tyson-swetnam/PoissonRecon-Singularity/latest/2020-02-06-3c37d2b3-742bf4d5/
+datalad_url: https://datasets.datalad.org?dir=/shub/tyson-swetnam/PoissonRecon-Singularity/latest/2020-02-06-3c37d2b3-742bf4d5/
 recipe: https://datasets.datalad.org/shub/tyson-swetnam/PoissonRecon-Singularity/latest/2020-02-06-3c37d2b3-742bf4d5/Singularity
 collection: tyson-swetnam/PoissonRecon-Singularity
 ---

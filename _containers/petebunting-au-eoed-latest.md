@@ -9,7 +9,7 @@ build_date: "2020-04-21T14:13:12.439Z"
 size_mb: 6219.0
 size: 2335252511
 sif: "https://datasets.datalad.org/shub/petebunting/au-eoed/latest/2020-04-21-c5e94efc-49e57710/49e577108b399c715fc5308b6f06be49.sif"
-url: https://datasets.datalad.org/shub/petebunting/au-eoed/latest/2020-04-21-c5e94efc-49e57710/
+datalad_url: https://datasets.datalad.org?dir=/shub/petebunting/au-eoed/latest/2020-04-21-c5e94efc-49e57710/
 recipe: https://datasets.datalad.org/shub/petebunting/au-eoed/latest/2020-04-21-c5e94efc-49e57710/Singularity
 collection: petebunting/au-eoed
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-09T19:13:40.239Z"
 size_mb: 1747
 size: 515227679
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/pisces.docker/2019-04-09-60e549c7-c8f75268/c8f752689b41b53fd61f811bc9419c14.simg"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/pisces.docker/2019-04-09-60e549c7-c8f75268/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/pisces.docker/2019-04-09-60e549c7-c8f75268/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/pisces.docker/2019-04-09-60e549c7-c8f75268/Singularity
 collection: brucemoran/Singularity
 ---

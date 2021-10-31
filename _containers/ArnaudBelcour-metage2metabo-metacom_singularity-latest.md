@@ -9,7 +9,7 @@ build_date: "2021-03-17T18:47:08.735Z"
 size_mb: 849.0
 size: 318910495
 sif: "https://datasets.datalad.org/shub/ArnaudBelcour/metage2metabo-metacom_singularity/latest/2021-03-17-73eecfca-c6ea7e7b/c6ea7e7b31f52c739aec9c9f0f38b8a8.sif"
-url: https://datasets.datalad.org/shub/ArnaudBelcour/metage2metabo-metacom_singularity/latest/2021-03-17-73eecfca-c6ea7e7b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ArnaudBelcour/metage2metabo-metacom_singularity/latest/2021-03-17-73eecfca-c6ea7e7b/
 recipe: https://datasets.datalad.org/shub/ArnaudBelcour/metage2metabo-metacom_singularity/latest/2021-03-17-73eecfca-c6ea7e7b/Singularity
 collection: ArnaudBelcour/metage2metabo-metacom_singularity
 ---

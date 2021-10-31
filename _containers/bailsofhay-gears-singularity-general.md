@@ -9,7 +9,7 @@ build_date: "2018-01-10T06:32:44.540Z"
 size_mb: 2060
 size: 649392159
 sif: "https://datasets.datalad.org/shub/bailsofhay/gears-singularity/general/2018-01-10-65f4ce9f-1a477d84/1a477d8464e63eaba5359e2213faf82e.simg"
-url: https://datasets.datalad.org/shub/bailsofhay/gears-singularity/general/2018-01-10-65f4ce9f-1a477d84/
+datalad_url: https://datasets.datalad.org?dir=/shub/bailsofhay/gears-singularity/general/2018-01-10-65f4ce9f-1a477d84/
 recipe: https://datasets.datalad.org/shub/bailsofhay/gears-singularity/general/2018-01-10-65f4ce9f-1a477d84/Singularity
 collection: bailsofhay/gears-singularity
 ---

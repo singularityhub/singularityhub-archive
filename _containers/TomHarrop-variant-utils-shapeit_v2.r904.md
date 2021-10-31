@@ -9,7 +9,7 @@ build_date: "2020-05-03T21:31:32.253Z"
 size_mb: 57.9296875
 size: 60743680
 sif: "https://datasets.datalad.org/shub/TomHarrop/variant-utils/shapeit_v2.r904/2020-05-03-60cc6c4d-41e0cc91/41e0cc9175832dfc4028a831f71441cc63fa4024b14ea6b03ef6a9bedc5cc010.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/variant-utils/shapeit_v2.r904/2020-05-03-60cc6c4d-41e0cc91/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/variant-utils/shapeit_v2.r904/2020-05-03-60cc6c4d-41e0cc91/
 recipe: https://datasets.datalad.org/shub/TomHarrop/variant-utils/shapeit_v2.r904/2020-05-03-60cc6c4d-41e0cc91/Singularity
 collection: TomHarrop/variant-utils
 ---

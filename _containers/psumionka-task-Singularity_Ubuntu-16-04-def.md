@@ -9,7 +9,7 @@ build_date: "2019-10-29T15:52:30.591Z"
 size_mb: 335.05859375
 size: 351334400
 sif: "https://datasets.datalad.org/shub/psumionka-task/Singularity_Ubuntu-16-04/def/2019-10-29-617da1e3-497bb247/497bb247a433149dc91d6af7ef00220e5ffb02ae6ed20989f1039200c93d6c0b.sif"
-url: https://datasets.datalad.org/shub/psumionka-task/Singularity_Ubuntu-16-04/def/2019-10-29-617da1e3-497bb247/
+datalad_url: https://datasets.datalad.org?dir=/shub/psumionka-task/Singularity_Ubuntu-16-04/def/2019-10-29-617da1e3-497bb247/
 recipe: https://datasets.datalad.org/shub/psumionka-task/Singularity_Ubuntu-16-04/def/2019-10-29-617da1e3-497bb247/Singularity
 collection: psumionka-task/Singularity_Ubuntu-16-04
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-23T11:29:09.702Z"
 size_mb: 6175.0
 size: 3892523039
 sif: "https://datasets.datalad.org/shub/Wreck-It-Ralph/openAI_gym_Singularity/latest/2020-05-23-2a7d30f6-b0e5f726/b0e5f7261edf3342f6377723083670e4.sif"
-url: https://datasets.datalad.org/shub/Wreck-It-Ralph/openAI_gym_Singularity/latest/2020-05-23-2a7d30f6-b0e5f726/
+datalad_url: https://datasets.datalad.org?dir=/shub/Wreck-It-Ralph/openAI_gym_Singularity/latest/2020-05-23-2a7d30f6-b0e5f726/
 recipe: https://datasets.datalad.org/shub/Wreck-It-Ralph/openAI_gym_Singularity/latest/2020-05-23-2a7d30f6-b0e5f726/Singularity
 collection: Wreck-It-Ralph/openAI_gym_Singularity
 ---

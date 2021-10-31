@@ -9,7 +9,7 @@ build_date: "2018-12-06T22:06:25.325Z"
 size_mb: 1195
 size: 436162591
 sif: "https://datasets.datalad.org/shub/vinujose/ubuntu/r/2018-12-06-ad10364f-375a26e3/375a26e325cd66a1f9ee0fe9ea3bbc96.simg"
-url: https://datasets.datalad.org/shub/vinujose/ubuntu/r/2018-12-06-ad10364f-375a26e3/
+datalad_url: https://datasets.datalad.org?dir=/shub/vinujose/ubuntu/r/2018-12-06-ad10364f-375a26e3/
 recipe: https://datasets.datalad.org/shub/vinujose/ubuntu/r/2018-12-06-ad10364f-375a26e3/Singularity
 collection: vinujose/ubuntu
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-31T04:37:00.310Z"
 size_mb: 12236.0
 size: 4865118239
 sif: "https://datasets.datalad.org/shub/kellyuw/SingularityRecipes/oldconnectome/2019-10-31-160f91cd-8ee3738f/8ee3738fc6916e2740b9eff8bd6717ca.sif"
-url: https://datasets.datalad.org/shub/kellyuw/SingularityRecipes/oldconnectome/2019-10-31-160f91cd-8ee3738f/
+datalad_url: https://datasets.datalad.org?dir=/shub/kellyuw/SingularityRecipes/oldconnectome/2019-10-31-160f91cd-8ee3738f/
 recipe: https://datasets.datalad.org/shub/kellyuw/SingularityRecipes/oldconnectome/2019-10-31-160f91cd-8ee3738f/Singularity
 collection: kellyuw/SingularityRecipes
 ---

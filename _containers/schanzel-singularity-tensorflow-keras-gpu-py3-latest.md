@@ -9,7 +9,7 @@ build_date: "2021-03-13T20:20:55.106Z"
 size_mb: 3011
 size: 1359175711
 sif: "https://datasets.datalad.org/shub/schanzel/singularity-tensorflow-keras-gpu-py3/latest/2021-03-13-06179c84-98bcd57a/98bcd57a3116968cf1b4f822c6272a36.simg"
-url: https://datasets.datalad.org/shub/schanzel/singularity-tensorflow-keras-gpu-py3/latest/2021-03-13-06179c84-98bcd57a/
+datalad_url: https://datasets.datalad.org?dir=/shub/schanzel/singularity-tensorflow-keras-gpu-py3/latest/2021-03-13-06179c84-98bcd57a/
 recipe: https://datasets.datalad.org/shub/schanzel/singularity-tensorflow-keras-gpu-py3/latest/2021-03-13-06179c84-98bcd57a/Singularity
 collection: schanzel/singularity-tensorflow-keras-gpu-py3
 ---

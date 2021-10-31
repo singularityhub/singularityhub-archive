@@ -9,7 +9,7 @@ build_date: "2019-05-24T15:49:14.221Z"
 size_mb: 533
 size: 208490527
 sif: "https://datasets.datalad.org/shub/eschnepp/build_container_on_shub/latest/2019-05-24-154b0991-9e4a37c0/9e4a37c092104343dd0ecd92dcf5fc68.simg"
-url: https://datasets.datalad.org/shub/eschnepp/build_container_on_shub/latest/2019-05-24-154b0991-9e4a37c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/eschnepp/build_container_on_shub/latest/2019-05-24-154b0991-9e4a37c0/
 recipe: https://datasets.datalad.org/shub/eschnepp/build_container_on_shub/latest/2019-05-24-154b0991-9e4a37c0/Singularity
 collection: eschnepp/build_container_on_shub
 ---

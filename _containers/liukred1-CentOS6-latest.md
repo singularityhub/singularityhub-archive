@@ -9,7 +9,7 @@ build_date: "2018-12-21T17:01:17.270Z"
 size_mb: 269
 size: 80228383
 sif: "https://datasets.datalad.org/shub/liukred1/CentOS6/latest/2018-12-21-89ee4f65-0d52c35c/0d52c35ca8e4707216dfad00677d7ce2.simg"
-url: https://datasets.datalad.org/shub/liukred1/CentOS6/latest/2018-12-21-89ee4f65-0d52c35c/
+datalad_url: https://datasets.datalad.org?dir=/shub/liukred1/CentOS6/latest/2018-12-21-89ee4f65-0d52c35c/
 recipe: https://datasets.datalad.org/shub/liukred1/CentOS6/latest/2018-12-21-89ee4f65-0d52c35c/Singularity
 collection: liukred1/CentOS6
 ---

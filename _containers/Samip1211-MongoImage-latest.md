@@ -9,7 +9,7 @@ build_date: "2019-09-29T20:26:57.611Z"
 size_mb: 377.0
 size: 143855647
 sif: "https://datasets.datalad.org/shub/Samip1211/MongoImage/latest/2019-09-29-2d047574-14f81273/14f81273e2f744e5535aa52f78e5260d.sif"
-url: https://datasets.datalad.org/shub/Samip1211/MongoImage/latest/2019-09-29-2d047574-14f81273/
+datalad_url: https://datasets.datalad.org?dir=/shub/Samip1211/MongoImage/latest/2019-09-29-2d047574-14f81273/
 recipe: https://datasets.datalad.org/shub/Samip1211/MongoImage/latest/2019-09-29-2d047574-14f81273/Singularity
 collection: Samip1211/MongoImage
 ---

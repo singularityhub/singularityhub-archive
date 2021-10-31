@@ -9,7 +9,7 @@ build_date: "2020-01-03T00:10:57.102Z"
 size_mb: 228.16015625
 size: 239243264
 sif: "https://datasets.datalad.org/shub/tin6150/ansys/latest/2020-01-03-6b9c89b1-32cbf190/32cbf190941e082de7f322fa3020a353a52d0d1af7a9b016123c99f668cb3b2f.sif"
-url: https://datasets.datalad.org/shub/tin6150/ansys/latest/2020-01-03-6b9c89b1-32cbf190/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/ansys/latest/2020-01-03-6b9c89b1-32cbf190/
 recipe: https://datasets.datalad.org/shub/tin6150/ansys/latest/2020-01-03-6b9c89b1-32cbf190/Singularity
 collection: tin6150/ansys
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-17T19:35:32.441Z"
 size_mb: 3262
 size: 1351475231
 sif: "https://datasets.datalad.org/shub/rainsworth/idia-container-jupytercasa/latest/2019-06-17-2587145c-6606159d/6606159de61a9f72e3550cf6ebaf0da1.simg"
-url: https://datasets.datalad.org/shub/rainsworth/idia-container-jupytercasa/latest/2019-06-17-2587145c-6606159d/
+datalad_url: https://datasets.datalad.org?dir=/shub/rainsworth/idia-container-jupytercasa/latest/2019-06-17-2587145c-6606159d/
 recipe: https://datasets.datalad.org/shub/rainsworth/idia-container-jupytercasa/latest/2019-06-17-2587145c-6606159d/Singularity
 collection: rainsworth/idia-container-jupytercasa
 ---

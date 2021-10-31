@@ -9,7 +9,7 @@ build_date: "2019-04-17T14:28:05.113Z"
 size_mb: 8038
 size: 3892252703
 sif: "https://datasets.datalad.org/shub/rearmstr/singularity_image_recipes/lsstsims/2019-04-17-08cc5c2b-8db3057e/8db3057ed6e0370efa9851f4cc9bb6a2.simg"
-url: https://datasets.datalad.org/shub/rearmstr/singularity_image_recipes/lsstsims/2019-04-17-08cc5c2b-8db3057e/
+datalad_url: https://datasets.datalad.org?dir=/shub/rearmstr/singularity_image_recipes/lsstsims/2019-04-17-08cc5c2b-8db3057e/
 recipe: https://datasets.datalad.org/shub/rearmstr/singularity_image_recipes/lsstsims/2019-04-17-08cc5c2b-8db3057e/Singularity
 collection: rearmstr/singularity_image_recipes
 ---

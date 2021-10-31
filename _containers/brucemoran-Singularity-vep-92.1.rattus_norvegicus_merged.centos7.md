@@ -9,7 +9,7 @@ build_date: "2019-02-13T20:23:56.944Z"
 size_mb: 2260
 size: 1158631455
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/vep-92.1.rattus_norvegicus_merged.centos7/2019-02-13-48ec65f9-9f70e837/9f70e837016b5e70b5e0175330ed3ae3.simg"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/vep-92.1.rattus_norvegicus_merged.centos7/2019-02-13-48ec65f9-9f70e837/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/vep-92.1.rattus_norvegicus_merged.centos7/2019-02-13-48ec65f9-9f70e837/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/vep-92.1.rattus_norvegicus_merged.centos7/2019-02-13-48ec65f9-9f70e837/Singularity
 collection: brucemoran/Singularity
 ---

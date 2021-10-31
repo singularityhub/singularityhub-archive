@@ -9,7 +9,7 @@ build_date: "2019-09-12T05:17:31.781Z"
 size_mb: 221.0
 size: 89227295
 sif: "https://datasets.datalad.org/shub/icaoberg/singularity-gotop/latest/2019-09-12-53defec3-b917db73/b917db739472a5a8f5a82290cca8f36b.sif"
-url: https://datasets.datalad.org/shub/icaoberg/singularity-gotop/latest/2019-09-12-53defec3-b917db73/
+datalad_url: https://datasets.datalad.org?dir=/shub/icaoberg/singularity-gotop/latest/2019-09-12-53defec3-b917db73/
 recipe: https://datasets.datalad.org/shub/icaoberg/singularity-gotop/latest/2019-09-12-53defec3-b917db73/Singularity
 collection: icaoberg/singularity-gotop
 ---

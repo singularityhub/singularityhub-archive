@@ -9,7 +9,7 @@ build_date: "2021-01-27T22:30:31.668Z"
 size_mb: 1474
 size: 555294751
 sif: "https://datasets.datalad.org/shub/mcw-rcc/jupyter/latest/2021-01-27-a791a1e2-9d4424de/9d4424de52ced407a95054f64581924f.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/jupyter/latest/2021-01-27-a791a1e2-9d4424de/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/jupyter/latest/2021-01-27-a791a1e2-9d4424de/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/jupyter/latest/2021-01-27-a791a1e2-9d4424de/Singularity
 collection: mcw-rcc/jupyter
 ---

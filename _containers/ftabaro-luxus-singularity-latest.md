@@ -9,7 +9,7 @@ build_date: "2020-05-04T10:40:09.461Z"
 size_mb: 2055.0
 size: 517443615
 sif: "https://datasets.datalad.org/shub/ftabaro/luxus-singularity/latest/2020-05-04-7b5a4d20-7b6b27f6/7b6b27f6402091f6d5e868cd26702d91.sif"
-url: https://datasets.datalad.org/shub/ftabaro/luxus-singularity/latest/2020-05-04-7b5a4d20-7b6b27f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/ftabaro/luxus-singularity/latest/2020-05-04-7b5a4d20-7b6b27f6/
 recipe: https://datasets.datalad.org/shub/ftabaro/luxus-singularity/latest/2020-05-04-7b5a4d20-7b6b27f6/Singularity
 collection: ftabaro/luxus-singularity
 ---

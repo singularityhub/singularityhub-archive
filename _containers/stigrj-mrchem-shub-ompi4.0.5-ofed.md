@@ -9,7 +9,7 @@ build_date: "2020-10-22T18:08:15.735Z"
 size_mb: 1285.0
 size: 569163807
 sif: "https://datasets.datalad.org/shub/stigrj/mrchem-shub/ompi4.0.5-ofed/2020-10-22-3dd7e28a-3352715a/3352715ad6b41aada9aae703c140e70e.sif"
-url: https://datasets.datalad.org/shub/stigrj/mrchem-shub/ompi4.0.5-ofed/2020-10-22-3dd7e28a-3352715a/
+datalad_url: https://datasets.datalad.org?dir=/shub/stigrj/mrchem-shub/ompi4.0.5-ofed/2020-10-22-3dd7e28a-3352715a/
 recipe: https://datasets.datalad.org/shub/stigrj/mrchem-shub/ompi4.0.5-ofed/2020-10-22-3dd7e28a-3352715a/Singularity
 collection: stigrj/mrchem-shub
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-12T13:48:12.109Z"
 size_mb: 165.0
 size: 73957407
 sif: "https://datasets.datalad.org/shub/cnoel-sebimer/singularity-orson/diamond/2021-04-12-2e71675d-00d9a295/00d9a295ca828591d59f1f0fd78797d2.sif"
-url: https://datasets.datalad.org/shub/cnoel-sebimer/singularity-orson/diamond/2021-04-12-2e71675d-00d9a295/
+datalad_url: https://datasets.datalad.org?dir=/shub/cnoel-sebimer/singularity-orson/diamond/2021-04-12-2e71675d-00d9a295/
 recipe: https://datasets.datalad.org/shub/cnoel-sebimer/singularity-orson/diamond/2021-04-12-2e71675d-00d9a295/Singularity
 collection: cnoel-sebimer/singularity-orson
 ---

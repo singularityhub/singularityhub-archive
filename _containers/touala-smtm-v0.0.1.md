@@ -9,7 +9,7 @@ build_date: "2020-01-23T19:54:05.212Z"
 size_mb: 3557.0
 size: 1974226975
 sif: "https://datasets.datalad.org/shub/touala/smtm/v0.0.1/2020-01-23-600cd8e2-628e6ead/628e6ead751cd5cb014761ee696cdb7f.sif"
-url: https://datasets.datalad.org/shub/touala/smtm/v0.0.1/2020-01-23-600cd8e2-628e6ead/
+datalad_url: https://datasets.datalad.org?dir=/shub/touala/smtm/v0.0.1/2020-01-23-600cd8e2-628e6ead/
 recipe: https://datasets.datalad.org/shub/touala/smtm/v0.0.1/2020-01-23-600cd8e2-628e6ead/Singularity
 collection: touala/smtm
 ---

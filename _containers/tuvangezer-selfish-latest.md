@@ -9,7 +9,7 @@ build_date: "2019-06-21T19:14:41.638Z"
 size_mb: 1309
 size: 477929503
 sif: "https://datasets.datalad.org/shub/tuvangezer/selfish/latest/2019-06-21-ed95849b-de4f3dc6/de4f3dc6cfe8f02b6fa9243e2af5082d.simg"
-url: https://datasets.datalad.org/shub/tuvangezer/selfish/latest/2019-06-21-ed95849b-de4f3dc6/
+datalad_url: https://datasets.datalad.org?dir=/shub/tuvangezer/selfish/latest/2019-06-21-ed95849b-de4f3dc6/
 recipe: https://datasets.datalad.org/shub/tuvangezer/selfish/latest/2019-06-21-ed95849b-de4f3dc6/Singularity
 collection: tuvangezer/selfish
 ---

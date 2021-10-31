@@ -9,7 +9,7 @@ build_date: "2019-02-13T08:56:28.422Z"
 size_mb: 1159
 size: 349663263
 sif: "https://datasets.datalad.org/shub/powerPlant/novograph-srf/latest/2019-02-13-89148757-79154242/791542422c07b135cc264e1a860084bd.simg"
-url: https://datasets.datalad.org/shub/powerPlant/novograph-srf/latest/2019-02-13-89148757-79154242/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/novograph-srf/latest/2019-02-13-89148757-79154242/
 recipe: https://datasets.datalad.org/shub/powerPlant/novograph-srf/latest/2019-02-13-89148757-79154242/Singularity
 collection: powerPlant/novograph-srf
 ---

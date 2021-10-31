@@ -9,7 +9,7 @@ build_date: "2019-10-22T09:02:24.933Z"
 size_mb: 1383.0
 size: 490524703
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/rhocall-0.5.1/2019-10-22-825c8dce-562d2d9a/562d2d9aff3c43a95e52a1008b4bd544.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/rhocall-0.5.1/2019-10-22-825c8dce-562d2d9a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/rhocall-0.5.1/2019-10-22-825c8dce-562d2d9a/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/rhocall-0.5.1/2019-10-22-825c8dce-562d2d9a/Singularity
 collection: Clinical-Genomics/MIP
 ---

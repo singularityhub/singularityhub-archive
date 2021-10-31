@@ -9,7 +9,7 @@ build_date: "2019-05-11T17:20:54.315Z"
 size_mb: 7637
 size: 2193965087
 sif: "https://datasets.datalad.org/shub/danielabler/glimslib/latest/2019-05-11-7667df99-3d50f501/3d50f5014a91323059f41b9201d92580.simg"
-url: https://datasets.datalad.org/shub/danielabler/glimslib/latest/2019-05-11-7667df99-3d50f501/
+datalad_url: https://datasets.datalad.org?dir=/shub/danielabler/glimslib/latest/2019-05-11-7667df99-3d50f501/
 recipe: https://datasets.datalad.org/shub/danielabler/glimslib/latest/2019-05-11-7667df99-3d50f501/Singularity
 collection: danielabler/glimslib
 ---

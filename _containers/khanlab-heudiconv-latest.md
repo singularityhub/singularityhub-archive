@@ -9,7 +9,7 @@ build_date: "2020-08-20T01:59:03.981Z"
 size_mb: 2512
 size: 803516447
 sif: "https://datasets.datalad.org/shub/khanlab/heudiconv/latest/2020-08-20-4a82ac43-14098a25/14098a25329273ff6f115bdf725e97c5.simg"
-url: https://datasets.datalad.org/shub/khanlab/heudiconv/latest/2020-08-20-4a82ac43-14098a25/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/heudiconv/latest/2020-08-20-4a82ac43-14098a25/
 recipe: https://datasets.datalad.org/shub/khanlab/heudiconv/latest/2020-08-20-4a82ac43-14098a25/Singularity
 collection: khanlab/heudiconv
 ---

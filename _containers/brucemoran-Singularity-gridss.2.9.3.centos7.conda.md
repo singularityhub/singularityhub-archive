@@ -9,7 +9,7 @@ build_date: "2020-08-29T17:09:55.678Z"
 size_mb: 5859.0
 size: 3123167263
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/gridss.2.9.3.centos7.conda/2020-08-29-9caa5716-65e25e86/65e25e86547db629408fbe054ad886bf.sif"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/gridss.2.9.3.centos7.conda/2020-08-29-9caa5716-65e25e86/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/gridss.2.9.3.centos7.conda/2020-08-29-9caa5716-65e25e86/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/gridss.2.9.3.centos7.conda/2020-08-29-9caa5716-65e25e86/Singularity
 collection: brucemoran/Singularity
 ---

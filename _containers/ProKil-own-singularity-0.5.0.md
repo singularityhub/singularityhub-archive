@@ -9,7 +9,7 @@ build_date: "2019-10-20T04:18:46.125Z"
 size_mb: 9635
 size: 4391342111
 sif: "https://datasets.datalad.org/shub/ProKil/own-singularity/0.5.0/2019-10-20-96b99cd8-d9d63711/d9d637116e3fd12e6b6747884dbbc8be.simg"
-url: https://datasets.datalad.org/shub/ProKil/own-singularity/0.5.0/2019-10-20-96b99cd8-d9d63711/
+datalad_url: https://datasets.datalad.org?dir=/shub/ProKil/own-singularity/0.5.0/2019-10-20-96b99cd8-d9d63711/
 recipe: https://datasets.datalad.org/shub/ProKil/own-singularity/0.5.0/2019-10-20-96b99cd8-d9d63711/Singularity
 collection: ProKil/own-singularity
 ---

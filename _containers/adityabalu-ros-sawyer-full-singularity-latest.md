@@ -9,7 +9,7 @@ build_date: "2019-04-07T16:32:44.211Z"
 size_mb: 3551
 size: 1087746079
 sif: "https://datasets.datalad.org/shub/adityabalu/ros-sawyer-full-singularity/latest/2019-04-07-17a216b4-90f2b824/90f2b824d352e2989542d15b3b97a1e2.simg"
-url: https://datasets.datalad.org/shub/adityabalu/ros-sawyer-full-singularity/latest/2019-04-07-17a216b4-90f2b824/
+datalad_url: https://datasets.datalad.org?dir=/shub/adityabalu/ros-sawyer-full-singularity/latest/2019-04-07-17a216b4-90f2b824/
 recipe: https://datasets.datalad.org/shub/adityabalu/ros-sawyer-full-singularity/latest/2019-04-07-17a216b4-90f2b824/Singularity
 collection: adityabalu/ros-sawyer-full-singularity
 ---

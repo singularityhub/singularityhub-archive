@@ -9,7 +9,7 @@ build_date: "2021-04-01T21:06:42.168Z"
 size_mb: 1048.0
 size: 319959071
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-fastqc/0.11.9/2021-04-01-7d04dd2a-66872777/66872777a95ce268e67707d490ee687c.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-fastqc/0.11.9/2021-04-01-7d04dd2a-66872777/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-fastqc/0.11.9/2021-04-01-7d04dd2a-66872777/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-fastqc/0.11.9/2021-04-01-7d04dd2a-66872777/Singularity
 collection: yh549848/singularity-fastqc
 ---

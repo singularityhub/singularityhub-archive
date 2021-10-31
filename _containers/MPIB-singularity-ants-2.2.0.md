@@ -9,7 +9,7 @@ build_date: "2021-01-01T13:54:47.017Z"
 size_mb: 3520
 size: 1041174559
 sif: "https://datasets.datalad.org/shub/MPIB/singularity-ants/2.2.0/2021-01-01-4f355c36-fa56c3f5/fa56c3f572a711e607814caf1d60b90a.simg"
-url: https://datasets.datalad.org/shub/MPIB/singularity-ants/2.2.0/2021-01-01-4f355c36-fa56c3f5/
+datalad_url: https://datasets.datalad.org?dir=/shub/MPIB/singularity-ants/2.2.0/2021-01-01-4f355c36-fa56c3f5/
 recipe: https://datasets.datalad.org/shub/MPIB/singularity-ants/2.2.0/2021-01-01-4f355c36-fa56c3f5/Singularity
 collection: MPIB/singularity-ants
 ---

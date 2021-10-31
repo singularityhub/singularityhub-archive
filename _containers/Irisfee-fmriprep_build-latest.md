@@ -9,7 +9,7 @@ build_date: "2019-03-07T18:57:25.912Z"
 size_mb: 12190
 size: 4811919391
 sif: "https://datasets.datalad.org/shub/Irisfee/fmriprep_build/latest/2019-03-07-ebb71e3d-d2d3a88e/d2d3a88ed269fe9604efbb37cfd9cf86.simg"
-url: https://datasets.datalad.org/shub/Irisfee/fmriprep_build/latest/2019-03-07-ebb71e3d-d2d3a88e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Irisfee/fmriprep_build/latest/2019-03-07-ebb71e3d-d2d3a88e/
 recipe: https://datasets.datalad.org/shub/Irisfee/fmriprep_build/latest/2019-03-07-ebb71e3d-d2d3a88e/Singularity
 collection: Irisfee/fmriprep_build
 ---

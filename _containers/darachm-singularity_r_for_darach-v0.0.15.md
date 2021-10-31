@@ -9,7 +9,7 @@ build_date: "2021-01-15T07:27:35.549Z"
 size_mb: 1809.0
 size: 654299167
 sif: "https://datasets.datalad.org/shub/darachm/singularity_r_for_darach/v0.0.15/2021-01-15-a401aeb6-3ed8c9b9/3ed8c9b900436b4a0777ec21451a433e.sif"
-url: https://datasets.datalad.org/shub/darachm/singularity_r_for_darach/v0.0.15/2021-01-15-a401aeb6-3ed8c9b9/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_r_for_darach/v0.0.15/2021-01-15-a401aeb6-3ed8c9b9/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_r_for_darach/v0.0.15/2021-01-15-a401aeb6-3ed8c9b9/Singularity
 collection: darachm/singularity_r_for_darach
 ---

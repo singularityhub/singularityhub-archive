@@ -9,7 +9,7 @@ build_date: "2018-09-02T19:38:27.931Z"
 size_mb: 766
 size: 246771743
 sif: "https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/assemblers/2018-09-02-647c7b5e-ff1eec66/ff1eec663bcf08bbc1c5e8cae60c3a88.simg"
-url: https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/assemblers/2018-09-02-647c7b5e-ff1eec66/
+datalad_url: https://datasets.datalad.org?dir=/shub/QuentinLetourneur/Let-it-bin/assemblers/2018-09-02-647c7b5e-ff1eec66/
 recipe: https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/assemblers/2018-09-02-647c7b5e-ff1eec66/Singularity
 collection: QuentinLetourneur/Let-it-bin
 ---

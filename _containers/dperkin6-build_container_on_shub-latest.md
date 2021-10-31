@@ -9,7 +9,7 @@ build_date: "2019-05-24T15:49:14.244Z"
 size_mb: 533
 size: 208490527
 sif: "https://datasets.datalad.org/shub/dperkin6/build_container_on_shub/latest/2019-05-24-82b3d5eb-8ce0b7ac/8ce0b7ac1f75a5fcd80dde60e69e25c3.simg"
-url: https://datasets.datalad.org/shub/dperkin6/build_container_on_shub/latest/2019-05-24-82b3d5eb-8ce0b7ac/
+datalad_url: https://datasets.datalad.org?dir=/shub/dperkin6/build_container_on_shub/latest/2019-05-24-82b3d5eb-8ce0b7ac/
 recipe: https://datasets.datalad.org/shub/dperkin6/build_container_on_shub/latest/2019-05-24-82b3d5eb-8ce0b7ac/Singularity
 collection: dperkin6/build_container_on_shub
 ---

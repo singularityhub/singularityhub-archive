@@ -9,7 +9,7 @@ build_date: "2018-05-25T02:19:39.040Z"
 size_mb: 5814
 size: 1884123167
 sif: "https://datasets.datalad.org/shub/granek/R24/qiime2/2018-05-25-345516c2-a0670882/a06708821b28c31b19a36ac460f3e63b.simg"
-url: https://datasets.datalad.org/shub/granek/R24/qiime2/2018-05-25-345516c2-a0670882/
+datalad_url: https://datasets.datalad.org?dir=/shub/granek/R24/qiime2/2018-05-25-345516c2-a0670882/
 recipe: https://datasets.datalad.org/shub/granek/R24/qiime2/2018-05-25-345516c2-a0670882/Singularity
 collection: granek/R24
 ---

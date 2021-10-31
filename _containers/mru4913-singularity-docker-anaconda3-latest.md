@@ -9,7 +9,7 @@ build_date: "2019-10-29T09:50:51.223Z"
 size_mb: 5970
 size: 3313070111
 sif: "https://datasets.datalad.org/shub/mru4913/singularity-docker-anaconda3/latest/2019-10-29-ce4e9a2c-01ccd4a2/01ccd4a20025129c058610ce750e8f4d.simg"
-url: https://datasets.datalad.org/shub/mru4913/singularity-docker-anaconda3/latest/2019-10-29-ce4e9a2c-01ccd4a2/
+datalad_url: https://datasets.datalad.org?dir=/shub/mru4913/singularity-docker-anaconda3/latest/2019-10-29-ce4e9a2c-01ccd4a2/
 recipe: https://datasets.datalad.org/shub/mru4913/singularity-docker-anaconda3/latest/2019-10-29-ce4e9a2c-01ccd4a2/Singularity
 collection: mru4913/singularity-docker-anaconda3
 ---

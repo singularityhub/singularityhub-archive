@@ -9,7 +9,7 @@ build_date: "2020-11-26T14:34:04.680Z"
 size_mb: 140
 size: 62357535
 sif: "https://datasets.datalad.org/shub/powerPlant/gromacs-srf/latest/2020-11-26-d538c597-32264035/32264035c1e3d86bee7a79ed9d28296c.simg"
-url: https://datasets.datalad.org/shub/powerPlant/gromacs-srf/latest/2020-11-26-d538c597-32264035/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/gromacs-srf/latest/2020-11-26-d538c597-32264035/
 recipe: https://datasets.datalad.org/shub/powerPlant/gromacs-srf/latest/2020-11-26-d538c597-32264035/Singularity
 collection: powerPlant/gromacs-srf
 ---

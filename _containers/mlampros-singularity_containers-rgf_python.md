@@ -9,7 +9,7 @@ build_date: "2020-02-28T16:02:12.777Z"
 size_mb: 943
 size: 359178271
 sif: "https://datasets.datalad.org/shub/mlampros/singularity_containers/rgf_python/2020-02-28-6b047e8f-0c359e3a/0c359e3a51774f7d5effea8abfa3b919.simg"
-url: https://datasets.datalad.org/shub/mlampros/singularity_containers/rgf_python/2020-02-28-6b047e8f-0c359e3a/
+datalad_url: https://datasets.datalad.org?dir=/shub/mlampros/singularity_containers/rgf_python/2020-02-28-6b047e8f-0c359e3a/
 recipe: https://datasets.datalad.org/shub/mlampros/singularity_containers/rgf_python/2020-02-28-6b047e8f-0c359e3a/Singularity
 collection: mlampros/singularity_containers
 ---

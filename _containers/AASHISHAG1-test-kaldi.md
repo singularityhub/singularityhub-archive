@@ -9,7 +9,7 @@ build_date: "2021-04-07T17:29:20.584Z"
 size_mb: 606.140625
 size: 635584512
 sif: "https://datasets.datalad.org/shub/AASHISHAG1/test/kaldi/2021-04-07-b8280537-47ef5008/47ef5008810c31cfd9e5b26e319ffbc12509bb5aa6f5818fbb8e64af87fb4c86.sif"
-url: https://datasets.datalad.org/shub/AASHISHAG1/test/kaldi/2021-04-07-b8280537-47ef5008/
+datalad_url: https://datasets.datalad.org?dir=/shub/AASHISHAG1/test/kaldi/2021-04-07-b8280537-47ef5008/
 recipe: https://datasets.datalad.org/shub/AASHISHAG1/test/kaldi/2021-04-07-b8280537-47ef5008/Singularity
 collection: AASHISHAG1/test
 ---

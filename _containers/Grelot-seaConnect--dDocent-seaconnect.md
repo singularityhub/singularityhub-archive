@@ -9,7 +9,7 @@ build_date: "2021-03-01T21:44:35.318Z"
 size_mb: 3414.0
 size: 1257246751
 sif: "https://datasets.datalad.org/shub/Grelot/seaConnect--dDocent/seaconnect/2021-03-01-e4c2c943-8517312f/8517312f0e5329ddafd3cda9744ee565.sif"
-url: https://datasets.datalad.org/shub/Grelot/seaConnect--dDocent/seaconnect/2021-03-01-e4c2c943-8517312f/
+datalad_url: https://datasets.datalad.org?dir=/shub/Grelot/seaConnect--dDocent/seaconnect/2021-03-01-e4c2c943-8517312f/
 recipe: https://datasets.datalad.org/shub/Grelot/seaConnect--dDocent/seaconnect/2021-03-01-e4c2c943-8517312f/Singularity
 collection: Grelot/seaConnect--dDocent
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-06T14:30:57.409Z"
 size_mb: 1420.0
 size: 601026591
 sif: "https://datasets.datalad.org/shub/ahaupt/CTA-Dirac-client/latest/2020-08-06-6d408bfb-aad78776/aad787769d809aa9dffa6bd9b9864538.sif"
-url: https://datasets.datalad.org/shub/ahaupt/CTA-Dirac-client/latest/2020-08-06-6d408bfb-aad78776/
+datalad_url: https://datasets.datalad.org?dir=/shub/ahaupt/CTA-Dirac-client/latest/2020-08-06-6d408bfb-aad78776/
 recipe: https://datasets.datalad.org/shub/ahaupt/CTA-Dirac-client/latest/2020-08-06-6d408bfb-aad78776/Singularity
 collection: ahaupt/CTA-Dirac-client
 ---

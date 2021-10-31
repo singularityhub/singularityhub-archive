@@ -9,7 +9,7 @@ build_date: "2020-07-14T11:29:27.481Z"
 size_mb: 2342
 size: 1094397983
 sif: "https://datasets.datalad.org/shub/marcc-hpc/shortbred/latest/2020-07-14-47ed9506-4262adbb/4262adbb8371829bb4cbb513291eb606.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/shortbred/latest/2020-07-14-47ed9506-4262adbb/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/shortbred/latest/2020-07-14-47ed9506-4262adbb/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/shortbred/latest/2020-07-14-47ed9506-4262adbb/Singularity
 collection: marcc-hpc/shortbred
 ---

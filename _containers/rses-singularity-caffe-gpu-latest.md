@@ -9,7 +9,7 @@ build_date: "2019-08-10T23:25:10.616Z"
 size_mb: 3364
 size: 1691676703
 sif: "https://datasets.datalad.org/shub/rses-singularity/caffe-gpu/latest/2019-08-10-80194c4f-216b26df/216b26df4b421d259975f6d1e7fac399.simg"
-url: https://datasets.datalad.org/shub/rses-singularity/caffe-gpu/latest/2019-08-10-80194c4f-216b26df/
+datalad_url: https://datasets.datalad.org?dir=/shub/rses-singularity/caffe-gpu/latest/2019-08-10-80194c4f-216b26df/
 recipe: https://datasets.datalad.org/shub/rses-singularity/caffe-gpu/latest/2019-08-10-80194c4f-216b26df/Singularity
 collection: rses-singularity/caffe-gpu
 ---

@@ -9,7 +9,7 @@ build_date: "2018-05-10T15:50:08.171Z"
 size_mb: None
 size: 1624825887
 sif: "https://datasets.datalad.org/shub/eilon-s/sherlock_pVACseq/latest/2018-05-10-fb18fb0a-6a107cee/6a107cee2d349d9a0cca67f85d27072b.simg"
-url: https://datasets.datalad.org/shub/eilon-s/sherlock_pVACseq/latest/2018-05-10-fb18fb0a-6a107cee/
+datalad_url: https://datasets.datalad.org?dir=/shub/eilon-s/sherlock_pVACseq/latest/2018-05-10-fb18fb0a-6a107cee/
 recipe: https://datasets.datalad.org/shub/eilon-s/sherlock_pVACseq/latest/2018-05-10-fb18fb0a-6a107cee/Singularity
 collection: eilon-s/sherlock_pVACseq
 ---

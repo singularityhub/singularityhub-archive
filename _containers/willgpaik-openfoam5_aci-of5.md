@@ -9,7 +9,7 @@ build_date: "2019-06-21T06:30:07.679Z"
 size_mb: 3389
 size: 1048961055
 sif: "https://datasets.datalad.org/shub/willgpaik/openfoam5_aci/of5/2019-06-21-c4f9695d-0e641744/0e641744fbf0f53514c7f1c27fef3da9.simg"
-url: https://datasets.datalad.org/shub/willgpaik/openfoam5_aci/of5/2019-06-21-c4f9695d-0e641744/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/openfoam5_aci/of5/2019-06-21-c4f9695d-0e641744/
 recipe: https://datasets.datalad.org/shub/willgpaik/openfoam5_aci/of5/2019-06-21-c4f9695d-0e641744/Singularity
 collection: willgpaik/openfoam5_aci
 ---

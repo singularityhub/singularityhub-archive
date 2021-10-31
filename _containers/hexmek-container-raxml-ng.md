@@ -9,7 +9,7 @@ build_date: "2020-06-30T10:02:16.812Z"
 size_mb: 1532.0
 size: 579833887
 sif: "https://datasets.datalad.org/shub/hexmek/container/raxml-ng/2020-06-30-b4850917-aecf6797/aecf67976207ff4a755da1d68bbd1762.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/raxml-ng/2020-06-30-b4850917-aecf6797/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/raxml-ng/2020-06-30-b4850917-aecf6797/
 recipe: https://datasets.datalad.org/shub/hexmek/container/raxml-ng/2020-06-30-b4850917-aecf6797/Singularity
 collection: hexmek/container
 ---

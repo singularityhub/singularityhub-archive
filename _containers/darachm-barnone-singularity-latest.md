@@ -9,7 +9,7 @@ build_date: "2018-07-15T05:06:40.578Z"
 size_mb: 520
 size: 219373599
 sif: "https://datasets.datalad.org/shub/darachm/barnone-singularity/latest/2018-07-15-5a7a3103-a2b1c2c6/a2b1c2c61aeafb8cf87918c6e5d21488.simg"
-url: https://datasets.datalad.org/shub/darachm/barnone-singularity/latest/2018-07-15-5a7a3103-a2b1c2c6/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/barnone-singularity/latest/2018-07-15-5a7a3103-a2b1c2c6/
 recipe: https://datasets.datalad.org/shub/darachm/barnone-singularity/latest/2018-07-15-5a7a3103-a2b1c2c6/Singularity
 collection: darachm/barnone-singularity
 ---

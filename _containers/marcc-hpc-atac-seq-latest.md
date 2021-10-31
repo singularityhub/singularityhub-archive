@@ -9,7 +9,7 @@ build_date: "2018-01-31T15:33:59.020Z"
 size_mb: 2912
 size: 1189576735
 sif: "https://datasets.datalad.org/shub/marcc-hpc/atac-seq/latest/2018-01-31-98a61eef-a6f2c34a/a6f2c34a44b0444a227e9ba5300a1be9.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/atac-seq/latest/2018-01-31-98a61eef-a6f2c34a/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/atac-seq/latest/2018-01-31-98a61eef-a6f2c34a/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/atac-seq/latest/2018-01-31-98a61eef-a6f2c34a/Singularity
 collection: marcc-hpc/atac-seq
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-16T12:12:50.390Z"
 size_mb: 3513.0
 size: 2052587551
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/Imputation-nf/v1.0/2021-03-16-05fcf642-736bfbf8/736bfbf8add77321968fad1163e7d1f8.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/Imputation-nf/v1.0/2021-03-16-05fcf642-736bfbf8/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/Imputation-nf/v1.0/2021-03-16-05fcf642-736bfbf8/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/Imputation-nf/v1.0/2021-03-16-05fcf642-736bfbf8/Singularity
 collection: IARCbioinfo/Imputation-nf
 ---

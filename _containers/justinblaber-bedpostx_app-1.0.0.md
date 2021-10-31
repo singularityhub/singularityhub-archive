@@ -9,7 +9,7 @@ build_date: "2020-01-14T16:59:51.903Z"
 size_mb: 4852
 size: 2240135199
 sif: "https://datasets.datalad.org/shub/justinblaber/bedpostx_app/1.0.0/2020-01-14-1c480ac5-dafe306a/dafe306adb390681b212ed133fa28f21.simg"
-url: https://datasets.datalad.org/shub/justinblaber/bedpostx_app/1.0.0/2020-01-14-1c480ac5-dafe306a/
+datalad_url: https://datasets.datalad.org?dir=/shub/justinblaber/bedpostx_app/1.0.0/2020-01-14-1c480ac5-dafe306a/
 recipe: https://datasets.datalad.org/shub/justinblaber/bedpostx_app/1.0.0/2020-01-14-1c480ac5-dafe306a/Singularity
 collection: justinblaber/bedpostx_app
 ---

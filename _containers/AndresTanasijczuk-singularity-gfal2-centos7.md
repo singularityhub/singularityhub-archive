@@ -9,7 +9,7 @@ build_date: "2020-12-14T09:42:42.589Z"
 size_mb: 1200.0
 size: 386727967
 sif: "https://datasets.datalad.org/shub/AndresTanasijczuk/singularity-gfal2/centos7/2020-12-14-a4508dd9-4b866009/4b8660092f15fe0d5f0e040f75526e55.sif"
-url: https://datasets.datalad.org/shub/AndresTanasijczuk/singularity-gfal2/centos7/2020-12-14-a4508dd9-4b866009/
+datalad_url: https://datasets.datalad.org?dir=/shub/AndresTanasijczuk/singularity-gfal2/centos7/2020-12-14-a4508dd9-4b866009/
 recipe: https://datasets.datalad.org/shub/AndresTanasijczuk/singularity-gfal2/centos7/2020-12-14-a4508dd9-4b866009/Singularity
 collection: AndresTanasijczuk/singularity-gfal2
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-29T21:39:53.001Z"
 size_mb: 1439
 size: 421740575
 sif: "https://datasets.datalad.org/shub/BFL-lab/Mfannot/v1.1/2020-10-29-4ba0453b-c0fb036c/c0fb036c2d72b6f8a808b950608f717e.simg"
-url: https://datasets.datalad.org/shub/BFL-lab/Mfannot/v1.1/2020-10-29-4ba0453b-c0fb036c/
+datalad_url: https://datasets.datalad.org?dir=/shub/BFL-lab/Mfannot/v1.1/2020-10-29-4ba0453b-c0fb036c/
 recipe: https://datasets.datalad.org/shub/BFL-lab/Mfannot/v1.1/2020-10-29-4ba0453b-c0fb036c/Singularity
 collection: BFL-lab/Mfannot
 ---

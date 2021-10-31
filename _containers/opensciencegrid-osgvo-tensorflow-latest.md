@@ -9,7 +9,7 @@ build_date: "2021-04-19T07:34:10.942Z"
 size_mb: 3287
 size: 1072812063
 sif: "https://datasets.datalad.org/shub/opensciencegrid/osgvo-tensorflow/latest/2021-04-19-2bf9c39a-db46c50a/db46c50ae6b356ed46a7aa4b7612fe87.simg"
-url: https://datasets.datalad.org/shub/opensciencegrid/osgvo-tensorflow/latest/2021-04-19-2bf9c39a-db46c50a/
+datalad_url: https://datasets.datalad.org?dir=/shub/opensciencegrid/osgvo-tensorflow/latest/2021-04-19-2bf9c39a-db46c50a/
 recipe: https://datasets.datalad.org/shub/opensciencegrid/osgvo-tensorflow/latest/2021-04-19-2bf9c39a-db46c50a/Singularity
 collection: opensciencegrid/osgvo-tensorflow
 ---

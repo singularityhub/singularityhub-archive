@@ -9,7 +9,7 @@ build_date: "2019-08-16T13:40:07.706Z"
 size_mb: 878.0
 size: 376877087
 sif: "https://datasets.datalad.org/shub/stephansmit/gmsh_containers/latest/2019-08-16-91920a9f-fa40f029/fa40f029294d933a65bc516674aaa344.sif"
-url: https://datasets.datalad.org/shub/stephansmit/gmsh_containers/latest/2019-08-16-91920a9f-fa40f029/
+datalad_url: https://datasets.datalad.org?dir=/shub/stephansmit/gmsh_containers/latest/2019-08-16-91920a9f-fa40f029/
 recipe: https://datasets.datalad.org/shub/stephansmit/gmsh_containers/latest/2019-08-16-91920a9f-fa40f029/Singularity
 collection: stephansmit/gmsh_containers
 ---

@@ -9,7 +9,7 @@ build_date: "2018-06-11T04:54:30.268Z"
 size_mb: 626
 size: 242393119
 sif: "https://datasets.datalad.org/shub/myyoda/ohbm2018-training/heudiconv/2018-06-11-2026209c-b79916b0/b79916b093c02b64725f647102937c31.simg"
-url: https://datasets.datalad.org/shub/myyoda/ohbm2018-training/heudiconv/2018-06-11-2026209c-b79916b0/
+datalad_url: https://datasets.datalad.org?dir=/shub/myyoda/ohbm2018-training/heudiconv/2018-06-11-2026209c-b79916b0/
 recipe: https://datasets.datalad.org/shub/myyoda/ohbm2018-training/heudiconv/2018-06-11-2026209c-b79916b0/Singularity
 collection: mih/ohbm2018-training
 ---

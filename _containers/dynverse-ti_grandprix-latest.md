@@ -9,7 +9,7 @@ build_date: "2018-10-29T20:59:12.551Z"
 size_mb: 1805
 size: 683331615
 sif: "https://datasets.datalad.org/shub/dynverse/ti_grandprix/latest/2018-10-29-2539e634-ae67195c/ae67195c52ef7f3fe524fe132f4c09bc.simg"
-url: https://datasets.datalad.org/shub/dynverse/ti_grandprix/latest/2018-10-29-2539e634-ae67195c/
+datalad_url: https://datasets.datalad.org?dir=/shub/dynverse/ti_grandprix/latest/2018-10-29-2539e634-ae67195c/
 recipe: https://datasets.datalad.org/shub/dynverse/ti_grandprix/latest/2018-10-29-2539e634-ae67195c/Singularity
 collection: dynverse/ti_grandprix
 ---

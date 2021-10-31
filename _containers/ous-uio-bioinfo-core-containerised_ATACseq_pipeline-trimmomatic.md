@@ -9,7 +9,7 @@ build_date: "2020-09-24T16:54:13.816Z"
 size_mb: 409.66796875
 size: 429568000
 sif: "https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/trimmomatic/2020-09-24-03688788-3d31fcee/3d31fcee783dd9531a6152c7ef9bdd4257f4886313c578e913ddc2d03247ac90.sif"
-url: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/trimmomatic/2020-09-24-03688788-3d31fcee/
+datalad_url: https://datasets.datalad.org?dir=/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/trimmomatic/2020-09-24-03688788-3d31fcee/
 recipe: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/containerised_ATACseq_pipeline/trimmomatic/2020-09-24-03688788-3d31fcee/Singularity
 collection: ous-uio-bioinfo-core/containerised_ATACseq_pipeline
 ---

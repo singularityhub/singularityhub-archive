@@ -9,7 +9,7 @@ build_date: "2017-12-06T16:44:56.152Z"
 size_mb: 444
 size: 192753695
 sif: "https://datasets.datalad.org/shub/lbdreyer/asciinema-singularity/latest/2017-12-06-ea887e3f-ca167e42/ca167e42526992bf6dc4c6b88702710f.simg"
-url: https://datasets.datalad.org/shub/lbdreyer/asciinema-singularity/latest/2017-12-06-ea887e3f-ca167e42/
+datalad_url: https://datasets.datalad.org?dir=/shub/lbdreyer/asciinema-singularity/latest/2017-12-06-ea887e3f-ca167e42/
 recipe: https://datasets.datalad.org/shub/lbdreyer/asciinema-singularity/latest/2017-12-06-ea887e3f-ca167e42/Singularity
 collection: lbdreyer/asciinema-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-15T23:45:08.849Z"
 size_mb: 1067.234375
 size: 1119076352
 sif: "https://datasets.datalad.org/shub/TomHarrop/assembly-utils/quast_5.0.2/2021-03-15-321e91b5-c8ee58fa/c8ee58fa733f2ec0cde85754fcb368178f5f35ae3e35342a42ab8aed0e33dd03.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/quast_5.0.2/2021-03-15-321e91b5-c8ee58fa/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assembly-utils/quast_5.0.2/2021-03-15-321e91b5-c8ee58fa/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/quast_5.0.2/2021-03-15-321e91b5-c8ee58fa/Singularity
 collection: TomHarrop/assembly-utils
 ---

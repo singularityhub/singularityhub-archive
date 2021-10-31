@@ -9,7 +9,7 @@ build_date: "2019-12-05T15:23:11.426Z"
 size_mb: 3992.0
 size: 1979285535
 sif: "https://datasets.datalad.org/shub/shadowwkl/singularity_pytorch_cpu_4SPOTT/latest/2019-12-05-15e430d8-d0282b6c/d0282b6cdfe7af810528e83bccaef431.sif"
-url: https://datasets.datalad.org/shub/shadowwkl/singularity_pytorch_cpu_4SPOTT/latest/2019-12-05-15e430d8-d0282b6c/
+datalad_url: https://datasets.datalad.org?dir=/shub/shadowwkl/singularity_pytorch_cpu_4SPOTT/latest/2019-12-05-15e430d8-d0282b6c/
 recipe: https://datasets.datalad.org/shub/shadowwkl/singularity_pytorch_cpu_4SPOTT/latest/2019-12-05-15e430d8-d0282b6c/Singularity
 collection: shadowwkl/singularity_pytorch_cpu_4SPOTT
 ---

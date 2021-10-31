@@ -9,7 +9,7 @@ build_date: "2019-01-28T22:35:36.556Z"
 size_mb: 8156
 size: 3620728863
 sif: "https://datasets.datalad.org/shub/arcsUVA/singularity-scripts/tensorflow-1.6.0-py36/2019-01-28-11924b10-69afcb3e/69afcb3ef3c35c6765e82dc33ae75b8a.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/singularity-scripts/tensorflow-1.6.0-py36/2019-01-28-11924b10-69afcb3e/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/singularity-scripts/tensorflow-1.6.0-py36/2019-01-28-11924b10-69afcb3e/
 recipe: https://datasets.datalad.org/shub/arcsUVA/singularity-scripts/tensorflow-1.6.0-py36/2019-01-28-11924b10-69afcb3e/Singularity
 collection: arcsUVA/singularity-scripts
 ---

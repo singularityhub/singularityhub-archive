@@ -9,7 +9,7 @@ build_date: "2017-11-07T15:01:56.414Z"
 size_mb: 3342
 size: 1496469535
 sif: "https://datasets.datalad.org/shub/yinglilu/test_matlab_singularity/latest/2017-11-07-a54d0e22-71e4dd84/71e4dd84bc3d54098dbd6b571db8d396.simg"
-url: https://datasets.datalad.org/shub/yinglilu/test_matlab_singularity/latest/2017-11-07-a54d0e22-71e4dd84/
+datalad_url: https://datasets.datalad.org?dir=/shub/yinglilu/test_matlab_singularity/latest/2017-11-07-a54d0e22-71e4dd84/
 recipe: https://datasets.datalad.org/shub/yinglilu/test_matlab_singularity/latest/2017-11-07-a54d0e22-71e4dd84/Singularity
 collection: yinglilu/test_matlab_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-02T18:16:53.598Z"
 size_mb: 11517
 size: 5628346399
 sif: "https://datasets.datalad.org/shub/ffineis/nurcs-singularity/biobakery/2020-03-02-2a28dafc-496e2273/496e22736c17cff9a61edac1ffeee461.simg"
-url: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/biobakery/2020-03-02-2a28dafc-496e2273/
+datalad_url: https://datasets.datalad.org?dir=/shub/ffineis/nurcs-singularity/biobakery/2020-03-02-2a28dafc-496e2273/
 recipe: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/biobakery/2020-03-02-2a28dafc-496e2273/Singularity
 collection: ffineis/nurcs-singularity
 ---

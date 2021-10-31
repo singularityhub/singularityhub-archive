@@ -9,7 +9,7 @@ build_date: "2018-04-02T02:50:45.159Z"
 size_mb: 3651
 size: 2415251487
 sif: "https://datasets.datalad.org/shub/verdurin/singularity-defs/latest/2018-04-02-83856dc0-62af60e7/62af60e75077022953a1939682e24b43.simg"
-url: https://datasets.datalad.org/shub/verdurin/singularity-defs/latest/2018-04-02-83856dc0-62af60e7/
+datalad_url: https://datasets.datalad.org?dir=/shub/verdurin/singularity-defs/latest/2018-04-02-83856dc0-62af60e7/
 recipe: https://datasets.datalad.org/shub/verdurin/singularity-defs/latest/2018-04-02-83856dc0-62af60e7/Singularity
 collection: verdurin/singularity-defs
 ---

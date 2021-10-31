@@ -9,7 +9,7 @@ build_date: "2018-06-05T07:53:14.364Z"
 size_mb: 874
 size: 146878495
 sif: "https://datasets.datalad.org/shub/alejandrox1/singularity-test/latest/2018-06-05-ba084cbe-54533242/54533242296bd3cc5669af585906ac8b.simg"
-url: https://datasets.datalad.org/shub/alejandrox1/singularity-test/latest/2018-06-05-ba084cbe-54533242/
+datalad_url: https://datasets.datalad.org?dir=/shub/alejandrox1/singularity-test/latest/2018-06-05-ba084cbe-54533242/
 recipe: https://datasets.datalad.org/shub/alejandrox1/singularity-test/latest/2018-06-05-ba084cbe-54533242/Singularity
 collection: alejandrox1/singularity-test
 ---

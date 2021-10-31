@@ -9,7 +9,7 @@ build_date: "2019-08-19T14:27:55.937Z"
 size_mb: 3773
 size: 1173295135
 sif: "https://datasets.datalad.org/shub/llgai508/hello-world/latest/2019-08-19-1b86cbec-73c0d7b2/73c0d7b27a0eb6676864342dae0d7e6d.simg"
-url: https://datasets.datalad.org/shub/llgai508/hello-world/latest/2019-08-19-1b86cbec-73c0d7b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/llgai508/hello-world/latest/2019-08-19-1b86cbec-73c0d7b2/
 recipe: https://datasets.datalad.org/shub/llgai508/hello-world/latest/2019-08-19-1b86cbec-73c0d7b2/Singularity
 collection: llgai508/hello-world
 ---

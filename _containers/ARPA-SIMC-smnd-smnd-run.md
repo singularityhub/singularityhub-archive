@@ -9,7 +9,7 @@ build_date: "2020-10-29T16:22:59.445Z"
 size_mb: 1011.0
 size: 282599455
 sif: "https://datasets.datalad.org/shub/ARPA-SIMC/smnd/smnd-run/2020-10-29-4f1d0501-ed3e5313/ed3e5313ceb7bf389d18ceca3a3f8ea2.sif"
-url: https://datasets.datalad.org/shub/ARPA-SIMC/smnd/smnd-run/2020-10-29-4f1d0501-ed3e5313/
+datalad_url: https://datasets.datalad.org?dir=/shub/ARPA-SIMC/smnd/smnd-run/2020-10-29-4f1d0501-ed3e5313/
 recipe: https://datasets.datalad.org/shub/ARPA-SIMC/smnd/smnd-run/2020-10-29-4f1d0501-ed3e5313/Singularity
 collection: ARPA-SIMC/smnd
 ---

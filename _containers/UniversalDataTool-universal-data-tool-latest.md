@@ -9,7 +9,7 @@ build_date: "2020-10-30T04:17:20.023Z"
 size_mb: 3870.0
 size: 1197137951
 sif: "https://datasets.datalad.org/shub/UniversalDataTool/universal-data-tool/latest/2020-10-30-e10c7b8e-42a2aefc/42a2aefcd48e24f0e203a249f37f81d2.sif"
-url: https://datasets.datalad.org/shub/UniversalDataTool/universal-data-tool/latest/2020-10-30-e10c7b8e-42a2aefc/
+datalad_url: https://datasets.datalad.org?dir=/shub/UniversalDataTool/universal-data-tool/latest/2020-10-30-e10c7b8e-42a2aefc/
 recipe: https://datasets.datalad.org/shub/UniversalDataTool/universal-data-tool/latest/2020-10-30-e10c7b8e-42a2aefc/Singularity
 collection: UniversalDataTool/universal-data-tool
 ---

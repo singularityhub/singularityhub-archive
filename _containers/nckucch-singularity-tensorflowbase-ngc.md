@@ -9,7 +9,7 @@ build_date: "2019-05-05T08:37:08.384Z"
 size_mb: 5682
 size: 2446708767
 sif: "https://datasets.datalad.org/shub/nckucch/singularity/tensorflowbase-ngc/2019-05-05-719c7f39-09a826a8/09a826a824358b24a8132954497b5871.simg"
-url: https://datasets.datalad.org/shub/nckucch/singularity/tensorflowbase-ngc/2019-05-05-719c7f39-09a826a8/
+datalad_url: https://datasets.datalad.org?dir=/shub/nckucch/singularity/tensorflowbase-ngc/2019-05-05-719c7f39-09a826a8/
 recipe: https://datasets.datalad.org/shub/nckucch/singularity/tensorflowbase-ngc/2019-05-05-719c7f39-09a826a8/Singularity
 collection: nckucch/singularity
 ---

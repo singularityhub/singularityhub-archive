@@ -9,7 +9,7 @@ build_date: "2018-06-05T19:17:38.814Z"
 size_mb: 1720
 size: 1118056479
 sif: "https://datasets.datalad.org/shub/mhebrard/TrimFlow/v1/2018-06-05-1220dda5-713ba3aa/713ba3aae513ff4c53746b0f7bb0304f.simg"
-url: https://datasets.datalad.org/shub/mhebrard/TrimFlow/v1/2018-06-05-1220dda5-713ba3aa/
+datalad_url: https://datasets.datalad.org?dir=/shub/mhebrard/TrimFlow/v1/2018-06-05-1220dda5-713ba3aa/
 recipe: https://datasets.datalad.org/shub/mhebrard/TrimFlow/v1/2018-06-05-1220dda5-713ba3aa/Singularity
 collection: mhebrard/TrimFlow
 ---

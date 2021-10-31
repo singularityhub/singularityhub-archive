@@ -9,7 +9,7 @@ build_date: "2020-08-21T15:35:19.316Z"
 size_mb: 14413.0
 size: 5506146335
 sif: "https://datasets.datalad.org/shub/tjhendrickson/CORTADO/latest/2020-08-21-c5d70ae8-4d645546/4d645546c6c34b8903174f7d23258df4.sif"
-url: https://datasets.datalad.org/shub/tjhendrickson/CORTADO/latest/2020-08-21-c5d70ae8-4d645546/
+datalad_url: https://datasets.datalad.org?dir=/shub/tjhendrickson/CORTADO/latest/2020-08-21-c5d70ae8-4d645546/
 recipe: https://datasets.datalad.org/shub/tjhendrickson/CORTADO/latest/2020-08-21-c5d70ae8-4d645546/Singularity
 collection: tjhendrickson/CORTADO
 ---

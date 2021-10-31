@@ -9,7 +9,7 @@ build_date: "2019-02-01T19:07:43.727Z"
 size_mb: 4724
 size: 1867632671
 sif: "https://datasets.datalad.org/shub/dp2ski/trinity_aci/rec/2019-02-01-277caa9b-678525e9/678525e94d048046a40c3b0d6d81409d.simg"
-url: https://datasets.datalad.org/shub/dp2ski/trinity_aci/rec/2019-02-01-277caa9b-678525e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/dp2ski/trinity_aci/rec/2019-02-01-277caa9b-678525e9/
 recipe: https://datasets.datalad.org/shub/dp2ski/trinity_aci/rec/2019-02-01-277caa9b-678525e9/Singularity
 collection: dp2ski/trinity_aci
 ---

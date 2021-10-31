@@ -9,7 +9,7 @@ build_date: "2018-09-19T22:54:40.158Z"
 size_mb: 6477
 size: 2875527199
 sif: "https://datasets.datalad.org/shub/mcw-rcc/qiime2/2018.8/2018-09-19-6d96cb4d-40865686/40865686fbaf6ed8ecb66a6c7a225f88.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/qiime2/2018.8/2018-09-19-6d96cb4d-40865686/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/qiime2/2018.8/2018-09-19-6d96cb4d-40865686/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/qiime2/2018.8/2018-09-19-6d96cb4d-40865686/Singularity
 collection: mcw-rcc/qiime2
 ---

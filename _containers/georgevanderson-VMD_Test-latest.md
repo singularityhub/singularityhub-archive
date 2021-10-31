@@ -9,7 +9,7 @@ build_date: "2019-04-01T10:56:03.675Z"
 size_mb: 2556
 size: 1195216927
 sif: "https://datasets.datalad.org/shub/georgevanderson/VMD_Test/latest/2019-04-01-7702c195-00372ba3/00372ba3dddfd3c15bdddf5c180c5ea3.simg"
-url: https://datasets.datalad.org/shub/georgevanderson/VMD_Test/latest/2019-04-01-7702c195-00372ba3/
+datalad_url: https://datasets.datalad.org?dir=/shub/georgevanderson/VMD_Test/latest/2019-04-01-7702c195-00372ba3/
 recipe: https://datasets.datalad.org/shub/georgevanderson/VMD_Test/latest/2019-04-01-7702c195-00372ba3/Singularity
 collection: georgevanderson/VMD_Test
 ---

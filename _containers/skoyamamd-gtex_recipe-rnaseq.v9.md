@@ -9,7 +9,7 @@ build_date: "2021-02-02T13:28:56.051Z"
 size_mb: 2449.0
 size: 780083231
 sif: "https://datasets.datalad.org/shub/skoyamamd/gtex_recipe/rnaseq.v9/2021-02-02-5249e5c0-9c2735b5/9c2735b5a875490196a6585f463d63a9.sif"
-url: https://datasets.datalad.org/shub/skoyamamd/gtex_recipe/rnaseq.v9/2021-02-02-5249e5c0-9c2735b5/
+datalad_url: https://datasets.datalad.org?dir=/shub/skoyamamd/gtex_recipe/rnaseq.v9/2021-02-02-5249e5c0-9c2735b5/
 recipe: https://datasets.datalad.org/shub/skoyamamd/gtex_recipe/rnaseq.v9/2021-02-02-5249e5c0-9c2735b5/Singularity
 collection: skoyamamd/gtex_recipe
 ---

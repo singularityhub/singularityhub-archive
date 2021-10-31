@@ -9,7 +9,7 @@ build_date: "2021-04-19T17:33:13.158Z"
 size_mb: 5278.0
 size: 2927902751
 sif: "https://datasets.datalad.org/shub/nysbc/topaz/latest/2021-04-19-633188fc-33d509d0/33d509d0e4ad1991c7b2f47c4092e22a.sif"
-url: https://datasets.datalad.org/shub/nysbc/topaz/latest/2021-04-19-633188fc-33d509d0/
+datalad_url: https://datasets.datalad.org?dir=/shub/nysbc/topaz/latest/2021-04-19-633188fc-33d509d0/
 recipe: https://datasets.datalad.org/shub/nysbc/topaz/latest/2021-04-19-633188fc-33d509d0/Singularity
 collection: nysbc/topaz
 ---

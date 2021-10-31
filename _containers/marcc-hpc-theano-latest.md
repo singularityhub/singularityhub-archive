@@ -9,7 +9,7 @@ build_date: "2020-04-15T22:29:38.861Z"
 size_mb: 5630
 size: 3161509919
 sif: "https://datasets.datalad.org/shub/marcc-hpc/theano/latest/2020-04-15-97438599-0f9a11f4/0f9a11f4288b9d3f025ae24796bb7d7f.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/theano/latest/2020-04-15-97438599-0f9a11f4/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/theano/latest/2020-04-15-97438599-0f9a11f4/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/theano/latest/2020-04-15-97438599-0f9a11f4/Singularity
 collection: marcc-hpc/theano
 ---

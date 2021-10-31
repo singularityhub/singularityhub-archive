@@ -9,7 +9,7 @@ build_date: "2019-05-16T20:22:33.749Z"
 size_mb: 818
 size: 293085215
 sif: "https://datasets.datalad.org/shub/wezen/singularity/v1/2019-05-16-64f33a35-9db589eb/9db589eb07971de0c39a1c3f7a9df6ee.simg"
-url: https://datasets.datalad.org/shub/wezen/singularity/v1/2019-05-16-64f33a35-9db589eb/
+datalad_url: https://datasets.datalad.org?dir=/shub/wezen/singularity/v1/2019-05-16-64f33a35-9db589eb/
 recipe: https://datasets.datalad.org/shub/wezen/singularity/v1/2019-05-16-64f33a35-9db589eb/Singularity
 collection: wezen/singularity
 ---

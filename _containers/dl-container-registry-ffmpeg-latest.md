@@ -9,7 +9,7 @@ build_date: "2020-08-12T09:31:49.905Z"
 size_mb: 968
 size: 595161119
 sif: "https://datasets.datalad.org/shub/dl-container-registry/ffmpeg/latest/2020-08-12-9cf4277c-857b30a2/857b30a29383dd5a585d437a07bdb3e1.simg"
-url: https://datasets.datalad.org/shub/dl-container-registry/ffmpeg/latest/2020-08-12-9cf4277c-857b30a2/
+datalad_url: https://datasets.datalad.org?dir=/shub/dl-container-registry/ffmpeg/latest/2020-08-12-9cf4277c-857b30a2/
 recipe: https://datasets.datalad.org/shub/dl-container-registry/ffmpeg/latest/2020-08-12-9cf4277c-857b30a2/Singularity
 collection: dl-container-registry/ffmpeg
 ---

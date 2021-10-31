@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:54.434Z"
 size_mb: 7568
 size: 3461136415
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-tracula--6.0.0.beta-0/2021-03-19-697f419c-0e42ad98/0e42ad98d8b068b9810344713e652fc9.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-tracula--6.0.0.beta-0/2021-03-19-697f419c-0e42ad98/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-tracula--6.0.0.beta-0/2021-03-19-697f419c-0e42ad98/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-tracula--6.0.0.beta-0/2021-03-19-697f419c-0e42ad98/Singularity
 collection: ReproNim/containers
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-28T21:48:19.472Z"
 size_mb: 3099.0
 size: 1005269023
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/omb-5.6.3-centos-7.9.2009-mvapich-2.3.2/2020-12-28-c8d1cc07-67ef0931/67ef09319e7f5127c8a91631bed90359.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/omb-5.6.3-centos-7.9.2009-mvapich-2.3.2/2020-12-28-c8d1cc07-67ef0931/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/omb-5.6.3-centos-7.9.2009-mvapich-2.3.2/2020-12-28-c8d1cc07-67ef0931/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/omb-5.6.3-centos-7.9.2009-mvapich-2.3.2/2020-12-28-c8d1cc07-67ef0931/Singularity
 collection: mkandes/naked-singularity
 ---

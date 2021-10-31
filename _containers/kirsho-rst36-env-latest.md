@@ -9,7 +9,7 @@ build_date: "2019-08-16T15:43:35.614Z"
 size_mb: 2853.0
 size: 919359519
 sif: "https://datasets.datalad.org/shub/kirsho/rst36-env/latest/2019-08-16-28268dd4-a15d22d7/a15d22d78a06ec80c29cbc45181837c3.sif"
-url: https://datasets.datalad.org/shub/kirsho/rst36-env/latest/2019-08-16-28268dd4-a15d22d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/kirsho/rst36-env/latest/2019-08-16-28268dd4-a15d22d7/
 recipe: https://datasets.datalad.org/shub/kirsho/rst36-env/latest/2019-08-16-28268dd4-a15d22d7/Singularity
 collection: kirsho/rst36-env
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-13T04:02:09.623Z"
 size_mb: 317
 size: 124964895
 sif: "https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/fastq-pair/2020-01-13-72f0065c-9b97f71d/9b97f71d9d2a20019419793e778aa4d8.simg"
-url: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/fastq-pair/2020-01-13-72f0065c-9b97f71d/
+datalad_url: https://datasets.datalad.org?dir=/shub/bsiranosian/bens_1337_workflows/fastq-pair/2020-01-13-72f0065c-9b97f71d/
 recipe: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/fastq-pair/2020-01-13-72f0065c-9b97f71d/Singularity
 collection: bsiranosian/bens_1337_workflows
 ---

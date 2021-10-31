@@ -9,7 +9,7 @@ build_date: "2020-02-03T14:04:31.864Z"
 size_mb: 865.0
 size: 327417887
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/bowtie/2020-02-03-d987931c-1dfc0887/1dfc0887d94373474d77d581ac08dbc9.sif"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/bowtie/2020-02-03-d987931c-1dfc0887/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/bowtie/2020-02-03-d987931c-1dfc0887/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/bowtie/2020-02-03-d987931c-1dfc0887/Singularity
 collection: dominik-handler/AP_singu
 ---

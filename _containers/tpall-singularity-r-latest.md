@@ -9,7 +9,7 @@ build_date: "2020-12-18T09:49:16.600Z"
 size_mb: 253.8515625
 size: 266182656
 sif: "https://datasets.datalad.org/shub/tpall/singularity-r/latest/2020-12-18-61cab3ff-d9f5b088/d9f5b08830dcf14894392c75b9c1cdb30a5bb076775b798b603077e151a966f7.sif"
-url: https://datasets.datalad.org/shub/tpall/singularity-r/latest/2020-12-18-61cab3ff-d9f5b088/
+datalad_url: https://datasets.datalad.org?dir=/shub/tpall/singularity-r/latest/2020-12-18-61cab3ff-d9f5b088/
 recipe: https://datasets.datalad.org/shub/tpall/singularity-r/latest/2020-12-18-61cab3ff-d9f5b088/Singularity
 collection: tpall/singularity-r
 ---

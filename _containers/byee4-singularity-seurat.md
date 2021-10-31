@@ -9,7 +9,7 @@ build_date: "2019-01-14T21:19:29.835Z"
 size_mb: 7863
 size: 3511308319
 sif: "https://datasets.datalad.org/shub/byee4/singularity/seurat/2019-01-14-0a018412-aaa05658/aaa056581abc222dbc2ac074ccda69c9.simg"
-url: https://datasets.datalad.org/shub/byee4/singularity/seurat/2019-01-14-0a018412-aaa05658/
+datalad_url: https://datasets.datalad.org?dir=/shub/byee4/singularity/seurat/2019-01-14-0a018412-aaa05658/
 recipe: https://datasets.datalad.org/shub/byee4/singularity/seurat/2019-01-14-0a018412-aaa05658/Singularity
 collection: byee4/singularity
 ---

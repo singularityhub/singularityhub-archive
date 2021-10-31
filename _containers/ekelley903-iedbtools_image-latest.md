@@ -9,7 +9,7 @@ build_date: "2020-02-03T22:30:51.263Z"
 size_mb: 2707.0
 size: 940163103
 sif: "https://datasets.datalad.org/shub/ekelley903/iedbtools_image/latest/2020-02-03-7f917e2b-44b9986a/44b9986a519a1ac3467795c20b751e96.sif"
-url: https://datasets.datalad.org/shub/ekelley903/iedbtools_image/latest/2020-02-03-7f917e2b-44b9986a/
+datalad_url: https://datasets.datalad.org?dir=/shub/ekelley903/iedbtools_image/latest/2020-02-03-7f917e2b-44b9986a/
 recipe: https://datasets.datalad.org/shub/ekelley903/iedbtools_image/latest/2020-02-03-7f917e2b-44b9986a/Singularity
 collection: ekelley903/iedbtools_image
 ---

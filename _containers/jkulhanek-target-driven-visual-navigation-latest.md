@@ -9,7 +9,7 @@ build_date: "2020-04-15T19:40:36.132Z"
 size_mb: 5056
 size: 2980024351
 sif: "https://datasets.datalad.org/shub/jkulhanek/target-driven-visual-navigation/latest/2020-04-15-2fac0c94-a8d07657/a8d07657cdc743d8b8f3fc4b8e8088b4.simg"
-url: https://datasets.datalad.org/shub/jkulhanek/target-driven-visual-navigation/latest/2020-04-15-2fac0c94-a8d07657/
+datalad_url: https://datasets.datalad.org?dir=/shub/jkulhanek/target-driven-visual-navigation/latest/2020-04-15-2fac0c94-a8d07657/
 recipe: https://datasets.datalad.org/shub/jkulhanek/target-driven-visual-navigation/latest/2020-04-15-2fac0c94-a8d07657/Singularity
 collection: jkulhanek/target-driven-visual-navigation
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-29T01:17:31.765Z"
 size_mb: 6300.0
 size: 3188269087
 sif: "https://datasets.datalad.org/shub/ghoshmainak/singularity-recipe/conda-cudf/2020-12-29-0d99f436-8dbe0e56/8dbe0e568109e018a02288730aa8c127.sif"
-url: https://datasets.datalad.org/shub/ghoshmainak/singularity-recipe/conda-cudf/2020-12-29-0d99f436-8dbe0e56/
+datalad_url: https://datasets.datalad.org?dir=/shub/ghoshmainak/singularity-recipe/conda-cudf/2020-12-29-0d99f436-8dbe0e56/
 recipe: https://datasets.datalad.org/shub/ghoshmainak/singularity-recipe/conda-cudf/2020-12-29-0d99f436-8dbe0e56/Singularity
 collection: ghoshmainak/singularity-recipe
 ---

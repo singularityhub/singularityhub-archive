@@ -9,7 +9,7 @@ build_date: "2019-08-21T19:35:08.899Z"
 size_mb: 125.0
 size: 54624287
 sif: "https://datasets.datalad.org/shub/amarallab/rgraph_singularity/latest/2019-08-21-3248f708-bb89eedb/bb89eedb85e582687b4e63a281fc5e26.sif"
-url: https://datasets.datalad.org/shub/amarallab/rgraph_singularity/latest/2019-08-21-3248f708-bb89eedb/
+datalad_url: https://datasets.datalad.org?dir=/shub/amarallab/rgraph_singularity/latest/2019-08-21-3248f708-bb89eedb/
 recipe: https://datasets.datalad.org/shub/amarallab/rgraph_singularity/latest/2019-08-21-3248f708-bb89eedb/Singularity
 collection: amarallab/rgraph_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-24T09:59:48.149Z"
 size_mb: 463.0
 size: 170020895
 sif: "https://datasets.datalad.org/shub/darachm/singularity_ubuntu/v1.0.0/2020-09-24-c429aebd-5990e0ab/5990e0ab17ee70ed83acf76757029117.sif"
-url: https://datasets.datalad.org/shub/darachm/singularity_ubuntu/v1.0.0/2020-09-24-c429aebd-5990e0ab/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_ubuntu/v1.0.0/2020-09-24-c429aebd-5990e0ab/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_ubuntu/v1.0.0/2020-09-24-c429aebd-5990e0ab/Singularity
 collection: darachm/singularity_ubuntu
 ---

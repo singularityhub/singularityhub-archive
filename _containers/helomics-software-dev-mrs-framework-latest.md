@@ -9,7 +9,7 @@ build_date: "2021-01-07T00:53:22.706Z"
 size_mb: 1772.0
 size: 634515487
 sif: "https://datasets.datalad.org/shub/helomics-software-dev/mrs-framework/latest/2021-01-07-fa1409c1-fa4593f6/fa4593f69e48cca49031679055fe8ef7.sif"
-url: https://datasets.datalad.org/shub/helomics-software-dev/mrs-framework/latest/2021-01-07-fa1409c1-fa4593f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/helomics-software-dev/mrs-framework/latest/2021-01-07-fa1409c1-fa4593f6/
 recipe: https://datasets.datalad.org/shub/helomics-software-dev/mrs-framework/latest/2021-01-07-fa1409c1-fa4593f6/Singularity
 collection: helomics-software-dev/mrs-framework
 ---

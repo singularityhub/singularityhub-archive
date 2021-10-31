@@ -9,7 +9,7 @@ build_date: "2020-09-10T17:56:43.590Z"
 size_mb: 172.0
 size: 66048031
 sif: "https://datasets.datalad.org/shub/ggruszczynski/singularity_recipies/latest/2020-09-10-32bd16d3-91e7354f/91e7354ff63c9f2472d315f8b0e0b89f.sif"
-url: https://datasets.datalad.org/shub/ggruszczynski/singularity_recipies/latest/2020-09-10-32bd16d3-91e7354f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ggruszczynski/singularity_recipies/latest/2020-09-10-32bd16d3-91e7354f/
 recipe: https://datasets.datalad.org/shub/ggruszczynski/singularity_recipies/latest/2020-09-10-32bd16d3-91e7354f/Singularity
 collection: ggruszczynski/singularity_recipies
 ---

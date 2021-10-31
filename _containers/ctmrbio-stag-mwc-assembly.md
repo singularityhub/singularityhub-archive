@@ -9,7 +9,7 @@ build_date: "2021-03-04T10:02:16.322Z"
 size_mb: 6885.0
 size: 2293391391
 sif: "https://datasets.datalad.org/shub/ctmrbio/stag-mwc/assembly/2021-03-04-fb3992ab-d9b20ba4/d9b20ba4cf9534a089d10f7e6e0b3d63.sif"
-url: https://datasets.datalad.org/shub/ctmrbio/stag-mwc/assembly/2021-03-04-fb3992ab-d9b20ba4/
+datalad_url: https://datasets.datalad.org?dir=/shub/ctmrbio/stag-mwc/assembly/2021-03-04-fb3992ab-d9b20ba4/
 recipe: https://datasets.datalad.org/shub/ctmrbio/stag-mwc/assembly/2021-03-04-fb3992ab-d9b20ba4/Singularity
 collection: ctmrbio/stag-mwc
 ---

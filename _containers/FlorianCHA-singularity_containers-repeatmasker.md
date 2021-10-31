@@ -9,7 +9,7 @@ build_date: "2021-01-07T08:34:27.329Z"
 size_mb: 5129.0
 size: 1232289823
 sif: "https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/repeatmasker/2021-01-07-13485a6f-eed377c4/eed377c470068d7f964c39539f18766f.sif"
-url: https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/repeatmasker/2021-01-07-13485a6f-eed377c4/
+datalad_url: https://datasets.datalad.org?dir=/shub/FlorianCHA/singularity_containers/repeatmasker/2021-01-07-13485a6f-eed377c4/
 recipe: https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/repeatmasker/2021-01-07-13485a6f-eed377c4/Singularity
 collection: FlorianCHA/singularity_containers
 ---

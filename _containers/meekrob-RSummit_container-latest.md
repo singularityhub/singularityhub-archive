@@ -9,7 +9,7 @@ build_date: "2020-05-16T20:09:26.213Z"
 size_mb: 3501.0
 size: 1500577823
 sif: "https://datasets.datalad.org/shub/meekrob/RSummit_container/latest/2020-05-16-264aaa92-680a4093/680a4093b4faec146335d2f0f451fd95.sif"
-url: https://datasets.datalad.org/shub/meekrob/RSummit_container/latest/2020-05-16-264aaa92-680a4093/
+datalad_url: https://datasets.datalad.org?dir=/shub/meekrob/RSummit_container/latest/2020-05-16-264aaa92-680a4093/
 recipe: https://datasets.datalad.org/shub/meekrob/RSummit_container/latest/2020-05-16-264aaa92-680a4093/Singularity
 collection: meekrob/RSummit_container
 ---

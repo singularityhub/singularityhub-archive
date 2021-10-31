@@ -9,7 +9,7 @@ build_date: "2021-02-08T21:59:59.309Z"
 size_mb: 1841
 size: 576983071
 sif: "https://datasets.datalad.org/shub/nuitrcs/fenics/latest/2021-02-08-eaf17fba-779bfc6c/779bfc6c43cb5b1d71fb1e009e85d678.simg"
-url: https://datasets.datalad.org/shub/nuitrcs/fenics/latest/2021-02-08-eaf17fba-779bfc6c/
+datalad_url: https://datasets.datalad.org?dir=/shub/nuitrcs/fenics/latest/2021-02-08-eaf17fba-779bfc6c/
 recipe: https://datasets.datalad.org/shub/nuitrcs/fenics/latest/2021-02-08-eaf17fba-779bfc6c/Singularity
 collection: nuitrcs/fenics
 ---

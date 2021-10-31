@@ -9,7 +9,7 @@ build_date: "2019-03-29T19:18:16.083Z"
 size_mb: 2495
 size: 672595999
 sif: "https://datasets.datalad.org/shub/mcw-rcc/mitograph/latest/2019-03-29-845cedff-50c348ee/50c348ee2b50f946a5be5fe8d4924a97.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/mitograph/latest/2019-03-29-845cedff-50c348ee/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/mitograph/latest/2019-03-29-845cedff-50c348ee/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/mitograph/latest/2019-03-29-845cedff-50c348ee/Singularity
 collection: mcw-rcc/mitograph
 ---

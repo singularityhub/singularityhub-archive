@@ -9,7 +9,7 @@ build_date: "2019-02-07T15:45:22.870Z"
 size_mb: 260
 size: 76550175
 sif: "https://datasets.datalad.org/shub/connor-lab/singularity-recipes/centrifuge/2019-02-07-5e322d4c-4d187b20/4d187b20e46a2700ef623438cda77ad4.simg"
-url: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/centrifuge/2019-02-07-5e322d4c-4d187b20/
+datalad_url: https://datasets.datalad.org?dir=/shub/connor-lab/singularity-recipes/centrifuge/2019-02-07-5e322d4c-4d187b20/
 recipe: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/centrifuge/2019-02-07-5e322d4c-4d187b20/Singularity
 collection: connor-lab/singularity-recipes
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-28T23:41:01.164Z"
 size_mb: 545
 size: 256204831
 sif: "https://datasets.datalad.org/shub/LokiLuciferase/clusterdoom/latest/2019-12-28-33528bf4-318f1821/318f18213f93f993c07d161958dc2578.simg"
-url: https://datasets.datalad.org/shub/LokiLuciferase/clusterdoom/latest/2019-12-28-33528bf4-318f1821/
+datalad_url: https://datasets.datalad.org?dir=/shub/LokiLuciferase/clusterdoom/latest/2019-12-28-33528bf4-318f1821/
 recipe: https://datasets.datalad.org/shub/LokiLuciferase/clusterdoom/latest/2019-12-28-33528bf4-318f1821/Singularity
 collection: LokiLuciferase/clusterdoom
 ---

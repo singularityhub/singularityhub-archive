@@ -9,7 +9,7 @@ build_date: "2019-07-27T00:52:01.700Z"
 size_mb: 1560
 size: 732491807
 sif: "https://datasets.datalad.org/shub/Cavatica2/Code/latest/2019-07-27-96a3b5e2-92d11461/92d11461ba093583903a499519b8c798.simg"
-url: https://datasets.datalad.org/shub/Cavatica2/Code/latest/2019-07-27-96a3b5e2-92d11461/
+datalad_url: https://datasets.datalad.org?dir=/shub/Cavatica2/Code/latest/2019-07-27-96a3b5e2-92d11461/
 recipe: https://datasets.datalad.org/shub/Cavatica2/Code/latest/2019-07-27-96a3b5e2-92d11461/Singularity
 collection: Cavatica2/Code
 ---

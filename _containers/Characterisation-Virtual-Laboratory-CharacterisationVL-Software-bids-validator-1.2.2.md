@@ -9,7 +9,7 @@ build_date: "2019-04-09T07:13:46.303Z"
 size_mb: 3316
 size: 1326239775
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/bids-validator-1.2.2/2019-04-09-62520826-286753e3/286753e39485b5d33d90fae90393b759.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/bids-validator-1.2.2/2019-04-09-62520826-286753e3/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/bids-validator-1.2.2/2019-04-09-62520826-286753e3/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/bids-validator-1.2.2/2019-04-09-62520826-286753e3/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

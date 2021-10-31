@@ -9,7 +9,7 @@ build_date: "2020-08-30T08:50:36.945Z"
 size_mb: 1057.0
 size: 386531359
 sif: "https://datasets.datalad.org/shub/kiwiroy/gtf-to-gff3/latest/2020-08-30-5048516d-673a47ef/673a47ef47c38564ac8938d8d5539f0e.sif"
-url: https://datasets.datalad.org/shub/kiwiroy/gtf-to-gff3/latest/2020-08-30-5048516d-673a47ef/
+datalad_url: https://datasets.datalad.org?dir=/shub/kiwiroy/gtf-to-gff3/latest/2020-08-30-5048516d-673a47ef/
 recipe: https://datasets.datalad.org/shub/kiwiroy/gtf-to-gff3/latest/2020-08-30-5048516d-673a47ef/Singularity
 collection: kiwiroy/gtf-to-gff3
 ---

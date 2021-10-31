@@ -9,7 +9,7 @@ build_date: "2021-04-19T17:18:31.654Z"
 size_mb: 1550.0
 size: 512151583
 sif: "https://datasets.datalad.org/shub/Simontuk/pyscenic/latest/2021-04-19-4b433c23-57980fc2/57980fc249af605e4e37ca1447fee720.sif"
-url: https://datasets.datalad.org/shub/Simontuk/pyscenic/latest/2021-04-19-4b433c23-57980fc2/
+datalad_url: https://datasets.datalad.org?dir=/shub/Simontuk/pyscenic/latest/2021-04-19-4b433c23-57980fc2/
 recipe: https://datasets.datalad.org/shub/Simontuk/pyscenic/latest/2021-04-19-4b433c23-57980fc2/Singularity
 collection: Simontuk/pyscenic
 ---

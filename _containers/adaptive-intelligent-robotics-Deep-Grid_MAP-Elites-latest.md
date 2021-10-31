@@ -9,7 +9,7 @@ build_date: "2021-03-25T01:53:07.773Z"
 size_mb: 664.46484375
 size: 696741888
 sif: "https://datasets.datalad.org/shub/adaptive-intelligent-robotics/Deep-Grid_MAP-Elites/latest/2021-03-25-7d1034de-7a16a328/7a16a328937041ce2e18296aa7ee41eacf7dbff785e7ddc8f88eafd19e802363.sif"
-url: https://datasets.datalad.org/shub/adaptive-intelligent-robotics/Deep-Grid_MAP-Elites/latest/2021-03-25-7d1034de-7a16a328/
+datalad_url: https://datasets.datalad.org?dir=/shub/adaptive-intelligent-robotics/Deep-Grid_MAP-Elites/latest/2021-03-25-7d1034de-7a16a328/
 recipe: https://datasets.datalad.org/shub/adaptive-intelligent-robotics/Deep-Grid_MAP-Elites/latest/2021-03-25-7d1034de-7a16a328/Singularity
 collection: adaptive-intelligent-robotics/Deep-Grid_MAP-Elites
 ---

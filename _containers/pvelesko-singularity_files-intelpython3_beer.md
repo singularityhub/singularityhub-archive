@@ -9,7 +9,7 @@ build_date: "2019-08-19T20:31:56.272Z"
 size_mb: 4553.0
 size: 1588568095
 sif: "https://datasets.datalad.org/shub/pvelesko/singularity_files/intelpython3_beer/2019-08-19-8650b2d5-3dd5843d/3dd5843de36a032e0fcd05cbeab3b1d6.sif"
-url: https://datasets.datalad.org/shub/pvelesko/singularity_files/intelpython3_beer/2019-08-19-8650b2d5-3dd5843d/
+datalad_url: https://datasets.datalad.org?dir=/shub/pvelesko/singularity_files/intelpython3_beer/2019-08-19-8650b2d5-3dd5843d/
 recipe: https://datasets.datalad.org/shub/pvelesko/singularity_files/intelpython3_beer/2019-08-19-8650b2d5-3dd5843d/Singularity
 collection: pvelesko/singularity_files
 ---

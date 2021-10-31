@@ -9,7 +9,7 @@ build_date: "2021-04-06T10:55:48.618Z"
 size_mb: 1514.0
 size: 683573279
 sif: "https://datasets.datalad.org/shub/ctpelok77/delfi-deploy/latest/2021-04-06-a155dbf7-fc7500fe/fc7500fe2871e0da33d4c55ed69a5edc.sif"
-url: https://datasets.datalad.org/shub/ctpelok77/delfi-deploy/latest/2021-04-06-a155dbf7-fc7500fe/
+datalad_url: https://datasets.datalad.org?dir=/shub/ctpelok77/delfi-deploy/latest/2021-04-06-a155dbf7-fc7500fe/
 recipe: https://datasets.datalad.org/shub/ctpelok77/delfi-deploy/latest/2021-04-06-a155dbf7-fc7500fe/Singularity
 collection: ctpelok77/delfi-deploy
 ---

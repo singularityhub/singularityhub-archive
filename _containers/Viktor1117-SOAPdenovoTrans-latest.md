@@ -9,7 +9,7 @@ build_date: "2020-07-13T13:22:02.972Z"
 size_mb: 866.0
 size: 353566751
 sif: "https://datasets.datalad.org/shub/Viktor1117/SOAPdenovoTrans/latest/2020-07-13-0ca63b3f-7a317773/7a31777305b9bd5f366c6a67a4c3f05e.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/SOAPdenovoTrans/latest/2020-07-13-0ca63b3f-7a317773/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/SOAPdenovoTrans/latest/2020-07-13-0ca63b3f-7a317773/
 recipe: https://datasets.datalad.org/shub/Viktor1117/SOAPdenovoTrans/latest/2020-07-13-0ca63b3f-7a317773/Singularity
 collection: Viktor1117/SOAPdenovoTrans
 ---

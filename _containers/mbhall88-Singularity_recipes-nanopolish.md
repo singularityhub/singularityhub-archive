@@ -9,7 +9,7 @@ build_date: "2020-05-15T06:49:43.805Z"
 size_mb: 1048
 size: 340082719
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/nanopolish/2020-05-15-8df7771a-57fc0728/57fc0728f6aecd5f5c5844f737437cc7.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/nanopolish/2020-05-15-8df7771a-57fc0728/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/nanopolish/2020-05-15-8df7771a-57fc0728/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/nanopolish/2020-05-15-8df7771a-57fc0728/Singularity
 collection: mbhall88/Singularity_recipes
 ---

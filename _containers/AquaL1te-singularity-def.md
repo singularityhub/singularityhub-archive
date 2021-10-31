@@ -9,7 +9,7 @@ build_date: "2020-09-01T12:04:06.538Z"
 size_mb: 478.0
 size: 181506079
 sif: "https://datasets.datalad.org/shub/AquaL1te/singularity/def/2020-09-01-d42ce625-a7ae61ec/a7ae61ec8a721f18dba1e18f536507fd.sif"
-url: https://datasets.datalad.org/shub/AquaL1te/singularity/def/2020-09-01-d42ce625-a7ae61ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/AquaL1te/singularity/def/2020-09-01-d42ce625-a7ae61ec/
 recipe: https://datasets.datalad.org/shub/AquaL1te/singularity/def/2020-09-01-d42ce625-a7ae61ec/Singularity
 collection: AquaL1te/singularity
 ---

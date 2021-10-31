@@ -9,7 +9,7 @@ build_date: "2019-07-27T08:45:24.314Z"
 size_mb: 1694.0
 size: 612573215
 sif: "https://datasets.datalad.org/shub/richelbilderbeek/singularity_example_5/latest/2019-07-27-bd3941f8-1505c8b6/1505c8b68cc779b21b0fee2d932733b4.sif"
-url: https://datasets.datalad.org/shub/richelbilderbeek/singularity_example_5/latest/2019-07-27-bd3941f8-1505c8b6/
+datalad_url: https://datasets.datalad.org?dir=/shub/richelbilderbeek/singularity_example_5/latest/2019-07-27-bd3941f8-1505c8b6/
 recipe: https://datasets.datalad.org/shub/richelbilderbeek/singularity_example_5/latest/2019-07-27-bd3941f8-1505c8b6/Singularity
 collection: richelbilderbeek/singularity_example_5
 ---

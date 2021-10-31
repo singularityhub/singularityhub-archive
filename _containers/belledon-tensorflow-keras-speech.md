@@ -9,7 +9,7 @@ build_date: "2020-09-10T03:23:37.982Z"
 size_mb: 3323
 size: 1601314847
 sif: "https://datasets.datalad.org/shub/belledon/tensorflow-keras/speech/2020-09-10-2ce90384-57bd279d/57bd279d82c600a770809c6e5bf85129.simg"
-url: https://datasets.datalad.org/shub/belledon/tensorflow-keras/speech/2020-09-10-2ce90384-57bd279d/
+datalad_url: https://datasets.datalad.org?dir=/shub/belledon/tensorflow-keras/speech/2020-09-10-2ce90384-57bd279d/
 recipe: https://datasets.datalad.org/shub/belledon/tensorflow-keras/speech/2020-09-10-2ce90384-57bd279d/Singularity
 collection: belledon/tensorflow-keras
 ---

@@ -9,7 +9,7 @@ build_date: "2019-08-06T06:33:22.895Z"
 size_mb: 1984.0
 size: 636063775
 sif: "https://datasets.datalad.org/shub/tkolisnik/singularity-for-crc-ml/latest/2019-08-06-2a64f635-690044f8/690044f83ee0a778042857e58d630963.sif"
-url: https://datasets.datalad.org/shub/tkolisnik/singularity-for-crc-ml/latest/2019-08-06-2a64f635-690044f8/
+datalad_url: https://datasets.datalad.org?dir=/shub/tkolisnik/singularity-for-crc-ml/latest/2019-08-06-2a64f635-690044f8/
 recipe: https://datasets.datalad.org/shub/tkolisnik/singularity-for-crc-ml/latest/2019-08-06-2a64f635-690044f8/Singularity
 collection: tkolisnik/singularity-for-crc-ml
 ---

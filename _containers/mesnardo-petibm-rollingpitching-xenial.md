@@ -9,7 +9,7 @@ build_date: "2019-11-08T13:37:00.457Z"
 size_mb: 2204.0
 size: 995655711
 sif: "https://datasets.datalad.org/shub/mesnardo/petibm-rollingpitching/xenial/2019-11-08-79607def-5c4c3ecb/5c4c3ecbc81c67ccf95a940a5da277a7.sif"
-url: https://datasets.datalad.org/shub/mesnardo/petibm-rollingpitching/xenial/2019-11-08-79607def-5c4c3ecb/
+datalad_url: https://datasets.datalad.org?dir=/shub/mesnardo/petibm-rollingpitching/xenial/2019-11-08-79607def-5c4c3ecb/
 recipe: https://datasets.datalad.org/shub/mesnardo/petibm-rollingpitching/xenial/2019-11-08-79607def-5c4c3ecb/Singularity
 collection: mesnardo/petibm-rollingpitching
 ---

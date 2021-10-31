@@ -9,7 +9,7 @@ build_date: "2019-03-18T01:49:47.084Z"
 size_mb: 3562
 size: 1270370335
 sif: "https://datasets.datalad.org/shub/bozmik/singularity_image/latest/2019-03-18-0ad7d5b9-7d913979/7d9139794322f73dd204d0baaba472ea.simg"
-url: https://datasets.datalad.org/shub/bozmik/singularity_image/latest/2019-03-18-0ad7d5b9-7d913979/
+datalad_url: https://datasets.datalad.org?dir=/shub/bozmik/singularity_image/latest/2019-03-18-0ad7d5b9-7d913979/
 recipe: https://datasets.datalad.org/shub/bozmik/singularity_image/latest/2019-03-18-0ad7d5b9-7d913979/Singularity
 collection: bozmik/singularity_image
 ---

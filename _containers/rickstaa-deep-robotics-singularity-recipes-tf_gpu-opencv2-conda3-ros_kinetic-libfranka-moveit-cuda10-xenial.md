@@ -9,7 +9,7 @@ build_date: "2020-11-04T20:23:52.311Z"
 size_mb: 15231.0
 size: 7026876447
 sif: "https://datasets.datalad.org/shub/rickstaa/deep-robotics-singularity-recipes/tf_gpu-opencv2-conda3-ros_kinetic-libfranka-moveit-cuda10-xenial/2020-11-04-1c7e6b8f-30859e81/30859e814bc20a245ea2294378442ca7.sif"
-url: https://datasets.datalad.org/shub/rickstaa/deep-robotics-singularity-recipes/tf_gpu-opencv2-conda3-ros_kinetic-libfranka-moveit-cuda10-xenial/2020-11-04-1c7e6b8f-30859e81/
+datalad_url: https://datasets.datalad.org?dir=/shub/rickstaa/deep-robotics-singularity-recipes/tf_gpu-opencv2-conda3-ros_kinetic-libfranka-moveit-cuda10-xenial/2020-11-04-1c7e6b8f-30859e81/
 recipe: https://datasets.datalad.org/shub/rickstaa/deep-robotics-singularity-recipes/tf_gpu-opencv2-conda3-ros_kinetic-libfranka-moveit-cuda10-xenial/2020-11-04-1c7e6b8f-30859e81/Singularity
 collection: rickstaa/deep_robotics_singularity_recipes
 ---

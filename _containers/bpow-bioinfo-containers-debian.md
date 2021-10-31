@@ -9,7 +9,7 @@ build_date: "2019-10-03T19:14:20.162Z"
 size_mb: 523
 size: 187490335
 sif: "https://datasets.datalad.org/shub/bpow/bioinfo-containers/debian/2019-10-03-38439e63-4d62e8b4/4d62e8b475947064668ae80c1b6dabc9.simg"
-url: https://datasets.datalad.org/shub/bpow/bioinfo-containers/debian/2019-10-03-38439e63-4d62e8b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/bpow/bioinfo-containers/debian/2019-10-03-38439e63-4d62e8b4/
 recipe: https://datasets.datalad.org/shub/bpow/bioinfo-containers/debian/2019-10-03-38439e63-4d62e8b4/Singularity
 collection: bpow/bioinfo-containers
 ---

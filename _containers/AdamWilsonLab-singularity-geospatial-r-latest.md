@@ -9,7 +9,7 @@ build_date: "2021-04-15T15:28:23.914Z"
 size_mb: 5142.0
 size: 1864790047
 sif: "https://datasets.datalad.org/shub/AdamWilsonLab/singularity-geospatial-r/latest/2021-04-15-3580b21c-c9baa9e2/c9baa9e2e9584d68211b139cc4b861a3.sif"
-url: https://datasets.datalad.org/shub/AdamWilsonLab/singularity-geospatial-r/latest/2021-04-15-3580b21c-c9baa9e2/
+datalad_url: https://datasets.datalad.org?dir=/shub/AdamWilsonLab/singularity-geospatial-r/latest/2021-04-15-3580b21c-c9baa9e2/
 recipe: https://datasets.datalad.org/shub/AdamWilsonLab/singularity-geospatial-r/latest/2021-04-15-3580b21c-c9baa9e2/Singularity
 collection: AdamWilsonLab/singularity-geospatial-r
 ---

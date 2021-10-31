@@ -9,7 +9,7 @@ build_date: "2020-06-14T14:34:40.925Z"
 size_mb: 6218.0
 size: 3773898783
 sif: "https://datasets.datalad.org/shub/ihounie/sing-skl/dcaseunsc/2020-06-14-a935375c-20ce4880/20ce48804bb6566fcb0a960b49cc6a69.sif"
-url: https://datasets.datalad.org/shub/ihounie/sing-skl/dcaseunsc/2020-06-14-a935375c-20ce4880/
+datalad_url: https://datasets.datalad.org?dir=/shub/ihounie/sing-skl/dcaseunsc/2020-06-14-a935375c-20ce4880/
 recipe: https://datasets.datalad.org/shub/ihounie/sing-skl/dcaseunsc/2020-06-14-a935375c-20ce4880/Singularity
 collection: ihounie/sing-skl
 ---

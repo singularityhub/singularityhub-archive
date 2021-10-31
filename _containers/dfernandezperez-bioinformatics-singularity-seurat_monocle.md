@@ -9,7 +9,7 @@ build_date: "2019-01-17T07:32:53.415Z"
 size_mb: 3699
 size: 1376768031
 sif: "https://datasets.datalad.org/shub/dfernandezperez/bioinformatics-singularity/seurat_monocle/2019-01-17-d4e3b4e2-9d46e73c/9d46e73cee84799fde760136c530c062.simg"
-url: https://datasets.datalad.org/shub/dfernandezperez/bioinformatics-singularity/seurat_monocle/2019-01-17-d4e3b4e2-9d46e73c/
+datalad_url: https://datasets.datalad.org?dir=/shub/dfernandezperez/bioinformatics-singularity/seurat_monocle/2019-01-17-d4e3b4e2-9d46e73c/
 recipe: https://datasets.datalad.org/shub/dfernandezperez/bioinformatics-singularity/seurat_monocle/2019-01-17-d4e3b4e2-9d46e73c/Singularity
 collection: dfernandezperez/bioinformatics-singularity
 ---

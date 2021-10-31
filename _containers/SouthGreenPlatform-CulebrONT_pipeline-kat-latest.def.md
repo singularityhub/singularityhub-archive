@@ -9,7 +9,7 @@ build_date: "2021-01-27T10:20:04.614Z"
 size_mb: 698.0
 size: 274305055
 sif: "https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/kat-latest.def/2021-01-27-8f3f2762-a128ca98/a128ca989bde654db67db9fc5054fca5.sif"
-url: https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/kat-latest.def/2021-01-27-8f3f2762-a128ca98/
+datalad_url: https://datasets.datalad.org?dir=/shub/SouthGreenPlatform/CulebrONT_pipeline/kat-latest.def/2021-01-27-8f3f2762-a128ca98/
 recipe: https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/kat-latest.def/2021-01-27-8f3f2762-a128ca98/Singularity
 collection: SouthGreenPlatform/CulebrONT_pipeline
 ---

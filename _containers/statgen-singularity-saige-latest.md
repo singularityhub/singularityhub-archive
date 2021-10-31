@@ -9,7 +9,7 @@ build_date: "2021-04-09T14:42:08.989Z"
 size_mb: 1247
 size: 392712223
 sif: "https://datasets.datalad.org/shub/statgen/singularity-saige/latest/2021-04-09-0bee795a-b891f954/b891f9546bd3e4153725860c9df4babf.simg"
-url: https://datasets.datalad.org/shub/statgen/singularity-saige/latest/2021-04-09-0bee795a-b891f954/
+datalad_url: https://datasets.datalad.org?dir=/shub/statgen/singularity-saige/latest/2021-04-09-0bee795a-b891f954/
 recipe: https://datasets.datalad.org/shub/statgen/singularity-saige/latest/2021-04-09-0bee795a-b891f954/Singularity
 collection: statgen/singularity-saige
 ---

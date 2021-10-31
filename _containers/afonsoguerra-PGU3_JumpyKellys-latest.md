@@ -9,7 +9,7 @@ build_date: "2020-04-22T17:52:36.577Z"
 size_mb: 2074.0
 size: 1033101343
 sif: "https://datasets.datalad.org/shub/afonsoguerra/PGU3_JumpyKellys/latest/2020-04-22-20a88486-a30c2891/a30c28914455176b7c1632a77b1474c2.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/PGU3_JumpyKellys/latest/2020-04-22-20a88486-a30c2891/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/PGU3_JumpyKellys/latest/2020-04-22-20a88486-a30c2891/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/PGU3_JumpyKellys/latest/2020-04-22-20a88486-a30c2891/Singularity
 collection: afonsoguerra/PGU3_JumpyKellys
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-27T18:01:10.426Z"
 size_mb: 4580
 size: 2301583391
 sif: "https://datasets.datalad.org/shub/mmore500/presentation-template/latest/2019-11-27-f07ba9bc-8bf00c2c/8bf00c2c31127ebe8e9063f38e919a2f.simg"
-url: https://datasets.datalad.org/shub/mmore500/presentation-template/latest/2019-11-27-f07ba9bc-8bf00c2c/
+datalad_url: https://datasets.datalad.org?dir=/shub/mmore500/presentation-template/latest/2019-11-27-f07ba9bc-8bf00c2c/
 recipe: https://datasets.datalad.org/shub/mmore500/presentation-template/latest/2019-11-27-f07ba9bc-8bf00c2c/Singularity
 collection: mmore500/presentation-template
 ---

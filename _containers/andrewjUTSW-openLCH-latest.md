@@ -9,7 +9,7 @@ build_date: "2021-01-13T18:21:30.416Z"
 size_mb: 2600.0
 size: 1032499231
 sif: "https://datasets.datalad.org/shub/andrewjUTSW/openLCH/latest/2021-01-13-20cd90bb-2aa0fd9b/2aa0fd9b61bdf60cd0be4eb6cddc87a2.sif"
-url: https://datasets.datalad.org/shub/andrewjUTSW/openLCH/latest/2021-01-13-20cd90bb-2aa0fd9b/
+datalad_url: https://datasets.datalad.org?dir=/shub/andrewjUTSW/openLCH/latest/2021-01-13-20cd90bb-2aa0fd9b/
 recipe: https://datasets.datalad.org/shub/andrewjUTSW/openLCH/latest/2021-01-13-20cd90bb-2aa0fd9b/Singularity
 collection: andrewjUTSW/openLCH
 ---

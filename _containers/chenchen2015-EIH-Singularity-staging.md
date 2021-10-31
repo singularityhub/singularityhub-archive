@@ -9,7 +9,7 @@ build_date: "2019-02-15T00:23:13.027Z"
 size_mb: 1978
 size: 782852127
 sif: "https://datasets.datalad.org/shub/chenchen2015/EIH-Singularity/staging/2019-02-15-d74f3c3c-75022568/75022568c32a7e1504022a52f9729abe.simg"
-url: https://datasets.datalad.org/shub/chenchen2015/EIH-Singularity/staging/2019-02-15-d74f3c3c-75022568/
+datalad_url: https://datasets.datalad.org?dir=/shub/chenchen2015/EIH-Singularity/staging/2019-02-15-d74f3c3c-75022568/
 recipe: https://datasets.datalad.org/shub/chenchen2015/EIH-Singularity/staging/2019-02-15-d74f3c3c-75022568/Singularity
 collection: chenchen2015/EIH-Singularity
 ---

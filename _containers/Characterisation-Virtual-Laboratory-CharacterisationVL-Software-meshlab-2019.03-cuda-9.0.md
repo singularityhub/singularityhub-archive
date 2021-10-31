@@ -9,7 +9,7 @@ build_date: "2020-09-16T23:57:52.353Z"
 size_mb: 7421
 size: 3559055391
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/meshlab-2019.03-cuda-9.0/2020-09-16-e88be8e4-d2537d66/d2537d664ff841c6b020c62b88d394c7.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/meshlab-2019.03-cuda-9.0/2020-09-16-e88be8e4-d2537d66/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/meshlab-2019.03-cuda-9.0/2020-09-16-e88be8e4-d2537d66/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/meshlab-2019.03-cuda-9.0/2020-09-16-e88be8e4-d2537d66/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-07T17:33:39.985Z"
 size_mb: 2884
 size: 845565983
 sif: "https://datasets.datalad.org/shub/SciNetHPC/singularity-CRISPRCasFinder/latest/2021-01-07-e848fe84-5faa7d00/5faa7d00f4af74b25dc46341032d51fa.simg"
-url: https://datasets.datalad.org/shub/SciNetHPC/singularity-CRISPRCasFinder/latest/2021-01-07-e848fe84-5faa7d00/
+datalad_url: https://datasets.datalad.org?dir=/shub/SciNetHPC/singularity-CRISPRCasFinder/latest/2021-01-07-e848fe84-5faa7d00/
 recipe: https://datasets.datalad.org/shub/SciNetHPC/singularity-CRISPRCasFinder/latest/2021-01-07-e848fe84-5faa7d00/Singularity
 collection: SciNetHPC/singularity-CRISPRCasFinder
 ---

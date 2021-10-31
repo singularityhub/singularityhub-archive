@@ -9,7 +9,7 @@ build_date: "2018-12-09T13:14:44.264Z"
 size_mb: 3643
 size: 1770967071
 sif: "https://datasets.datalad.org/shub/Fan-Luo/HPC/dynet/2018-12-09-488bf153-3197a699/3197a6992b1a8315db21d20dc1a3ef1b.simg"
-url: https://datasets.datalad.org/shub/Fan-Luo/HPC/dynet/2018-12-09-488bf153-3197a699/
+datalad_url: https://datasets.datalad.org?dir=/shub/Fan-Luo/HPC/dynet/2018-12-09-488bf153-3197a699/
 recipe: https://datasets.datalad.org/shub/Fan-Luo/HPC/dynet/2018-12-09-488bf153-3197a699/Singularity
 collection: Fan-Luo/HPC
 ---

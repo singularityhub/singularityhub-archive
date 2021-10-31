@@ -9,7 +9,7 @@ build_date: "2019-07-19T15:27:39.042Z"
 size_mb: 3899.0
 size: 1681870879
 sif: "https://datasets.datalad.org/shub/willgpaik/gmt5_aci/latest/2019-07-19-695883b0-9bd9adec/9bd9adecf2a7204fb61da56e16e70fbb.sif"
-url: https://datasets.datalad.org/shub/willgpaik/gmt5_aci/latest/2019-07-19-695883b0-9bd9adec/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/gmt5_aci/latest/2019-07-19-695883b0-9bd9adec/
 recipe: https://datasets.datalad.org/shub/willgpaik/gmt5_aci/latest/2019-07-19-695883b0-9bd9adec/Singularity
 collection: willgpaik/gmt5_aci
 ---

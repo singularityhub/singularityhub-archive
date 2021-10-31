@@ -9,7 +9,7 @@ build_date: "2018-02-27T17:10:25.414Z"
 size_mb: 47
 size: 15167519
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-razers3/latest/2018-02-27-ae2464b8-1f354ec3/1f354ec328a458459f5d9f5d7f9d6743.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-razers3/latest/2018-02-27-ae2464b8-1f354ec3/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-razers3/latest/2018-02-27-ae2464b8-1f354ec3/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-razers3/latest/2018-02-27-ae2464b8-1f354ec3/Singularity
 collection: qbicsoftware/qbic-singularity-razers3
 ---

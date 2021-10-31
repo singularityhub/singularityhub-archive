@@ -9,7 +9,7 @@ build_date: "2018-07-20T04:10:47.274Z"
 size_mb: 3810
 size: 1353125919
 sif: "https://datasets.datalad.org/shub/ffineis/nurcs-singularity/mxnet_cpu/2018-07-20-2513d649-314fe5d7/314fe5d7c73501200f226469e36456bb.simg"
-url: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/mxnet_cpu/2018-07-20-2513d649-314fe5d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/ffineis/nurcs-singularity/mxnet_cpu/2018-07-20-2513d649-314fe5d7/
 recipe: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/mxnet_cpu/2018-07-20-2513d649-314fe5d7/Singularity
 collection: ffineis/nurcs-singularity
 ---

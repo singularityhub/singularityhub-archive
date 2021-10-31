@@ -9,7 +9,7 @@ build_date: "2019-05-28T04:27:36.300Z"
 size_mb: 837
 size: 325824543
 sif: "https://datasets.datalad.org/shub/jemunro/nf-fastq-dump/latest/2019-05-28-a5344b1e-7bae2edf/7bae2edf566f3469d76c912b607f85cf.simg"
-url: https://datasets.datalad.org/shub/jemunro/nf-fastq-dump/latest/2019-05-28-a5344b1e-7bae2edf/
+datalad_url: https://datasets.datalad.org?dir=/shub/jemunro/nf-fastq-dump/latest/2019-05-28-a5344b1e-7bae2edf/
 recipe: https://datasets.datalad.org/shub/jemunro/nf-fastq-dump/latest/2019-05-28-a5344b1e-7bae2edf/Singularity
 collection: jemunro/nf-fastq-dump
 ---

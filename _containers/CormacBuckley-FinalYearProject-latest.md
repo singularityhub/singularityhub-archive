@@ -9,7 +9,7 @@ build_date: "2019-04-02T03:27:10.697Z"
 size_mb: 3605
 size: 1681367071
 sif: "https://datasets.datalad.org/shub/CormacBuckley/FinalYearProject/latest/2019-04-02-5042989d-de4f8900/de4f8900186ee23cd963ff7da04739f6.simg"
-url: https://datasets.datalad.org/shub/CormacBuckley/FinalYearProject/latest/2019-04-02-5042989d-de4f8900/
+datalad_url: https://datasets.datalad.org?dir=/shub/CormacBuckley/FinalYearProject/latest/2019-04-02-5042989d-de4f8900/
 recipe: https://datasets.datalad.org/shub/CormacBuckley/FinalYearProject/latest/2019-04-02-5042989d-de4f8900/Singularity
 collection: CormacBuckley/FinalYearProject
 ---

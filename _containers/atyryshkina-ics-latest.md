@@ -9,7 +9,7 @@ build_date: "2019-11-15T19:45:29.238Z"
 size_mb: 496.0
 size: 183865375
 sif: "https://datasets.datalad.org/shub/atyryshkina/ics/latest/2019-11-15-2a434502-b7fab0b1/b7fab0b1cca44fed41617be5426181a5.sif"
-url: https://datasets.datalad.org/shub/atyryshkina/ics/latest/2019-11-15-2a434502-b7fab0b1/
+datalad_url: https://datasets.datalad.org?dir=/shub/atyryshkina/ics/latest/2019-11-15-2a434502-b7fab0b1/
 recipe: https://datasets.datalad.org/shub/atyryshkina/ics/latest/2019-11-15-2a434502-b7fab0b1/Singularity
 collection: atyryshkina/ics
 ---

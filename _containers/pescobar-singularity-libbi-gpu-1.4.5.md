@@ -9,7 +9,7 @@ build_date: "2019-10-07T13:30:55.550Z"
 size_mb: 4125.0
 size: 2253299743
 sif: "https://datasets.datalad.org/shub/pescobar/singularity-libbi-gpu/1.4.5/2019-10-07-8d964e66-ffd36edb/ffd36edbe4a20d8a9c0f2172448a6969.sif"
-url: https://datasets.datalad.org/shub/pescobar/singularity-libbi-gpu/1.4.5/2019-10-07-8d964e66-ffd36edb/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/singularity-libbi-gpu/1.4.5/2019-10-07-8d964e66-ffd36edb/
 recipe: https://datasets.datalad.org/shub/pescobar/singularity-libbi-gpu/1.4.5/2019-10-07-8d964e66-ffd36edb/Singularity
 collection: pescobar/singularity-libbi-gpu
 ---

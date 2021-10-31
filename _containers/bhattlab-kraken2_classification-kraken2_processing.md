@@ -9,7 +9,7 @@ build_date: "2021-04-15T23:16:38.645Z"
 size_mb: 2522.0
 size: 1063763999
 sif: "https://datasets.datalad.org/shub/bhattlab/kraken2_classification/kraken2_processing/2021-04-15-13fda0c2-36a3e2e9/36a3e2e94012ab4d70e434306b3b4b48.sif"
-url: https://datasets.datalad.org/shub/bhattlab/kraken2_classification/kraken2_processing/2021-04-15-13fda0c2-36a3e2e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/bhattlab/kraken2_classification/kraken2_processing/2021-04-15-13fda0c2-36a3e2e9/
 recipe: https://datasets.datalad.org/shub/bhattlab/kraken2_classification/kraken2_processing/2021-04-15-13fda0c2-36a3e2e9/Singularity
 collection: bhattlab/kraken2_classification
 ---

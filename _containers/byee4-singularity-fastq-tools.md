@@ -9,7 +9,7 @@ build_date: "2019-01-01T02:25:06.905Z"
 size_mb: 740
 size: 276406303
 sif: "https://datasets.datalad.org/shub/byee4/singularity/fastq-tools/2019-01-01-de01826b-510ad84b/510ad84b89ae18559cf617ceaa2f36c3.simg"
-url: https://datasets.datalad.org/shub/byee4/singularity/fastq-tools/2019-01-01-de01826b-510ad84b/
+datalad_url: https://datasets.datalad.org?dir=/shub/byee4/singularity/fastq-tools/2019-01-01-de01826b-510ad84b/
 recipe: https://datasets.datalad.org/shub/byee4/singularity/fastq-tools/2019-01-01-de01826b-510ad84b/Singularity
 collection: byee4/singularity
 ---

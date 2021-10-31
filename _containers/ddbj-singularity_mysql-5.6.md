@@ -9,7 +9,7 @@ build_date: "2021-03-05T11:10:22.923Z"
 size_mb: 1442.0
 size: 468078623
 sif: "https://datasets.datalad.org/shub/ddbj/singularity_mysql/5.6/2021-03-05-b7b02214-e73f1f00/e73f1f00ddb715524333162ec66a47cc.sif"
-url: https://datasets.datalad.org/shub/ddbj/singularity_mysql/5.6/2021-03-05-b7b02214-e73f1f00/
+datalad_url: https://datasets.datalad.org?dir=/shub/ddbj/singularity_mysql/5.6/2021-03-05-b7b02214-e73f1f00/
 recipe: https://datasets.datalad.org/shub/ddbj/singularity_mysql/5.6/2021-03-05-b7b02214-e73f1f00/Singularity
 collection: ddbj/singularity_mysql
 ---

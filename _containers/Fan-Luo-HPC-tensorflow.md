@@ -9,7 +9,7 @@ build_date: "2018-12-08T03:05:25.401Z"
 size_mb: 5722
 size: 2389352479
 sif: "https://datasets.datalad.org/shub/Fan-Luo/HPC/tensorflow/2018-12-08-5ab30c5e-243614bf/243614bfdf563cccb538ccb0a6c00a1b.simg"
-url: https://datasets.datalad.org/shub/Fan-Luo/HPC/tensorflow/2018-12-08-5ab30c5e-243614bf/
+datalad_url: https://datasets.datalad.org?dir=/shub/Fan-Luo/HPC/tensorflow/2018-12-08-5ab30c5e-243614bf/
 recipe: https://datasets.datalad.org/shub/Fan-Luo/HPC/tensorflow/2018-12-08-5ab30c5e-243614bf/Singularity
 collection: Fan-Luo/HPC
 ---

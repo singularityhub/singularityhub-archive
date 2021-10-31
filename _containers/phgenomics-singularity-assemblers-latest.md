@@ -9,7 +9,7 @@ build_date: "2020-02-18T00:00:14.368Z"
 size_mb: 1997.0
 size: 738373663
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/assemblers/latest/2020-02-18-83cfadb8-7b787f1d/7b787f1da0db706e77ed27d14d3ce183.sif"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/assemblers/latest/2020-02-18-83cfadb8-7b787f1d/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/assemblers/latest/2020-02-18-83cfadb8-7b787f1d/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/assemblers/latest/2020-02-18-83cfadb8-7b787f1d/Singularity
 collection: phgenomics-singularity/assemblers
 ---

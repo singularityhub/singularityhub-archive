@@ -9,7 +9,7 @@ build_date: "2019-07-29T16:59:23.850Z"
 size_mb: 3623.0
 size: 1461719071
 sif: "https://datasets.datalad.org/shub/vmichals/singularity/connet/2019-07-29-9941ea9d-3887f131/3887f13176118cf88255af5a71c2625b.sif"
-url: https://datasets.datalad.org/shub/vmichals/singularity/connet/2019-07-29-9941ea9d-3887f131/
+datalad_url: https://datasets.datalad.org?dir=/shub/vmichals/singularity/connet/2019-07-29-9941ea9d-3887f131/
 recipe: https://datasets.datalad.org/shub/vmichals/singularity/connet/2019-07-29-9941ea9d-3887f131/Singularity
 collection: vmichals/singularity
 ---

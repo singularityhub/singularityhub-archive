@@ -9,7 +9,7 @@ build_date: "2019-06-02T17:47:33.062Z"
 size_mb: 571
 size: 206602271
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/minimap2/2019-06-02-fc132841-6c667760/6c6677602765b02316ea579894054c7a.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/minimap2/2019-06-02-fc132841-6c667760/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/minimap2/2019-06-02-fc132841-6c667760/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/minimap2/2019-06-02-fc132841-6c667760/Singularity
 collection: mbhall88/Singularity_recipes
 ---

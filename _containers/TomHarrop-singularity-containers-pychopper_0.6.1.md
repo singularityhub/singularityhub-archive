@@ -9,7 +9,7 @@ build_date: "2019-06-21T06:30:04.015Z"
 size_mb: 1224
 size: 441507871
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/pychopper_0.6.1/2019-06-21-9863633d-2dc7b136/2dc7b13692543bbe86fe95442fd8a7d1.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/pychopper_0.6.1/2019-06-21-9863633d-2dc7b136/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/pychopper_0.6.1/2019-06-21-9863633d-2dc7b136/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/pychopper_0.6.1/2019-06-21-9863633d-2dc7b136/Singularity
 collection: TomHarrop/singularity-containers
 ---

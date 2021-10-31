@@ -9,7 +9,7 @@ build_date: "2021-02-18T21:21:41.046Z"
 size_mb: 11940.0
 size: 4554330143
 sif: "https://datasets.datalad.org/shub/jackjamend/CaptionContainer/nvidia_torch_java/2021-02-18-4b4d62ce-7faa27d5/7faa27d58dc285a561433f4b2df38f2e.sif"
-url: https://datasets.datalad.org/shub/jackjamend/CaptionContainer/nvidia_torch_java/2021-02-18-4b4d62ce-7faa27d5/
+datalad_url: https://datasets.datalad.org?dir=/shub/jackjamend/CaptionContainer/nvidia_torch_java/2021-02-18-4b4d62ce-7faa27d5/
 recipe: https://datasets.datalad.org/shub/jackjamend/CaptionContainer/nvidia_torch_java/2021-02-18-4b4d62ce-7faa27d5/Singularity
 collection: jackjamend/CaptionContainer
 ---

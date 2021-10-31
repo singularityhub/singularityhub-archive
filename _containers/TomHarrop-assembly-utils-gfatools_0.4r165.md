@@ -9,7 +9,7 @@ build_date: "2020-09-29T02:54:33.039Z"
 size_mb: 110.76953125
 size: 116150272
 sif: "https://datasets.datalad.org/shub/TomHarrop/assembly-utils/gfatools_0.4r165/2020-09-29-3b5f3b78-e841ed8a/e841ed8a3030214c9f7682f383e4e2aef047ae0b6aae887c47e79e72231af705.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/gfatools_0.4r165/2020-09-29-3b5f3b78-e841ed8a/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assembly-utils/gfatools_0.4r165/2020-09-29-3b5f3b78-e841ed8a/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/gfatools_0.4r165/2020-09-29-3b5f3b78-e841ed8a/Singularity
 collection: TomHarrop/assembly-utils
 ---

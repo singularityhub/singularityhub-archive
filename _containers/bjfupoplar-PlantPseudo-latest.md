@@ -9,7 +9,7 @@ build_date: "2018-11-29T11:44:07.950Z"
 size_mb: 1045
 size: 330031135
 sif: "https://datasets.datalad.org/shub/bjfupoplar/PlantPseudo/latest/2018-11-29-c7c2287a-65f40f48/65f40f48a87f5b975030fc1d2de897de.simg"
-url: https://datasets.datalad.org/shub/bjfupoplar/PlantPseudo/latest/2018-11-29-c7c2287a-65f40f48/
+datalad_url: https://datasets.datalad.org?dir=/shub/bjfupoplar/PlantPseudo/latest/2018-11-29-c7c2287a-65f40f48/
 recipe: https://datasets.datalad.org/shub/bjfupoplar/PlantPseudo/latest/2018-11-29-c7c2287a-65f40f48/Singularity
 collection: bjfupoplar/PlantPseudo
 ---

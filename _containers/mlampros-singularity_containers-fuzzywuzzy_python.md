@@ -9,7 +9,7 @@ build_date: "2018-07-25T23:56:14.665Z"
 size_mb: 659
 size: 241815583
 sif: "https://datasets.datalad.org/shub/mlampros/singularity_containers/fuzzywuzzy_python/2018-07-25-6b047e8f-ecd6f730/ecd6f730760a946bb1cb8b8ae19482f7.simg"
-url: https://datasets.datalad.org/shub/mlampros/singularity_containers/fuzzywuzzy_python/2018-07-25-6b047e8f-ecd6f730/
+datalad_url: https://datasets.datalad.org?dir=/shub/mlampros/singularity_containers/fuzzywuzzy_python/2018-07-25-6b047e8f-ecd6f730/
 recipe: https://datasets.datalad.org/shub/mlampros/singularity_containers/fuzzywuzzy_python/2018-07-25-6b047e8f-ecd6f730/Singularity
 collection: mlampros/singularity_containers
 ---

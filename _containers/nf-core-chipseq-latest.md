@@ -9,7 +9,7 @@ build_date: "2021-04-13T16:13:37.727Z"
 size_mb: 5240
 size: 2677264415
 sif: "https://datasets.datalad.org/shub/nf-core/chipseq/latest/2021-04-13-c0ea0128-d28b39ef/d28b39ef0cee4c0eeb602a32a9a9e02f.simg"
-url: https://datasets.datalad.org/shub/nf-core/chipseq/latest/2021-04-13-c0ea0128-d28b39ef/
+datalad_url: https://datasets.datalad.org?dir=/shub/nf-core/chipseq/latest/2021-04-13-c0ea0128-d28b39ef/
 recipe: https://datasets.datalad.org/shub/nf-core/chipseq/latest/2021-04-13-c0ea0128-d28b39ef/Singularity
 collection: nf-core/chipseq
 ---

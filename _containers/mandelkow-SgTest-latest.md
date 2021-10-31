@@ -9,7 +9,7 @@ build_date: "2018-07-06T02:04:22.740Z"
 size_mb: 3428
 size: 1556848671
 sif: "https://datasets.datalad.org/shub/mandelkow/SgTest/latest/2018-07-06-10f2443a-2acab77d/2acab77d008a981ba5bfbb9ea71a7c9d.simg"
-url: https://datasets.datalad.org/shub/mandelkow/SgTest/latest/2018-07-06-10f2443a-2acab77d/
+datalad_url: https://datasets.datalad.org?dir=/shub/mandelkow/SgTest/latest/2018-07-06-10f2443a-2acab77d/
 recipe: https://datasets.datalad.org/shub/mandelkow/SgTest/latest/2018-07-06-10f2443a-2acab77d/Singularity
 collection: mandelkow/SgTest
 ---

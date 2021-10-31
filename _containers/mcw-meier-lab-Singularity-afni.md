@@ -9,7 +9,7 @@ build_date: "2019-04-15T15:37:30.911Z"
 size_mb: 3652
 size: 1546768415
 sif: "https://datasets.datalad.org/shub/mcw-meier-lab/Singularity/afni/2019-04-15-5e51bb88-c3709bbd/c3709bbd68ee9c853d23b8733b3ad245.simg"
-url: https://datasets.datalad.org/shub/mcw-meier-lab/Singularity/afni/2019-04-15-5e51bb88-c3709bbd/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-meier-lab/Singularity/afni/2019-04-15-5e51bb88-c3709bbd/
 recipe: https://datasets.datalad.org/shub/mcw-meier-lab/Singularity/afni/2019-04-15-5e51bb88-c3709bbd/Singularity
 collection: mcw-meier-lab/Singularity
 ---

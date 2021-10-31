@@ -9,7 +9,7 @@ build_date: "2020-08-22T16:53:13.331Z"
 size_mb: 2497.0
 size: 675348511
 sif: "https://datasets.datalad.org/shub/MariusCausemann/brain-inversion/latest/2020-08-22-883a736a-718548d0/718548d07d62afedfda9e6f5849b659a.sif"
-url: https://datasets.datalad.org/shub/MariusCausemann/brain-inversion/latest/2020-08-22-883a736a-718548d0/
+datalad_url: https://datasets.datalad.org?dir=/shub/MariusCausemann/brain-inversion/latest/2020-08-22-883a736a-718548d0/
 recipe: https://datasets.datalad.org/shub/MariusCausemann/brain-inversion/latest/2020-08-22-883a736a-718548d0/Singularity
 collection: MariusCausemann/brain-inversion
 ---

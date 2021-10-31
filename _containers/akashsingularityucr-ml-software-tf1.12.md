@@ -9,7 +9,7 @@ build_date: "2018-12-23T09:58:23.511Z"
 size_mb: 8875
 size: 4181405727
 sif: "https://datasets.datalad.org/shub/akashsingularityucr/ml-software/tf1.12/2018-12-23-1e31857f-f89f2f30/f89f2f30db2563a577d03bc6af04c2f4.simg"
-url: https://datasets.datalad.org/shub/akashsingularityucr/ml-software/tf1.12/2018-12-23-1e31857f-f89f2f30/
+datalad_url: https://datasets.datalad.org?dir=/shub/akashsingularityucr/ml-software/tf1.12/2018-12-23-1e31857f-f89f2f30/
 recipe: https://datasets.datalad.org/shub/akashsingularityucr/ml-software/tf1.12/2018-12-23-1e31857f-f89f2f30/Singularity
 collection: akashsingularityucr/ml-software
 ---

@@ -9,7 +9,7 @@ build_date: "2020-04-27T03:01:06.880Z"
 size_mb: 623.0
 size: 248864799
 sif: "https://datasets.datalad.org/shub/ihounie/singularity2/2/2020-04-27-124a36fe-ea6120c3/ea6120c38fefbfdb95eafef9431a21a1.sif"
-url: https://datasets.datalad.org/shub/ihounie/singularity2/2/2020-04-27-124a36fe-ea6120c3/
+datalad_url: https://datasets.datalad.org?dir=/shub/ihounie/singularity2/2/2020-04-27-124a36fe-ea6120c3/
 recipe: https://datasets.datalad.org/shub/ihounie/singularity2/2/2020-04-27-124a36fe-ea6120c3/Singularity
 collection: ihounie/singularity2
 ---

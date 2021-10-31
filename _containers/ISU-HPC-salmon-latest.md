@@ -9,7 +9,7 @@ build_date: "2018-06-04T20:25:01.631Z"
 size_mb: 1175
 size: 343478303
 sif: "https://datasets.datalad.org/shub/ISU-HPC/salmon/latest/2018-06-04-136f4566-1044d61b/1044d61b1518c8f45fc23bf43d8b5a11.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/salmon/latest/2018-06-04-136f4566-1044d61b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/salmon/latest/2018-06-04-136f4566-1044d61b/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/salmon/latest/2018-06-04-136f4566-1044d61b/Singularity
 collection: ISU-HPC/salmon
 ---

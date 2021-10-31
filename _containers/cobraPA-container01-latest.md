@@ -9,7 +9,7 @@ build_date: "2020-09-08T17:57:07.296Z"
 size_mb: 659.5859375
 size: 691625984
 sif: "https://datasets.datalad.org/shub/cobraPA/container01/latest/2020-09-08-1d1deba7-838ec79e/838ec79eda2bc91ee12a4fbd45db1455b3f3fc2a34d43d3aa3fb05794348e10a.sif"
-url: https://datasets.datalad.org/shub/cobraPA/container01/latest/2020-09-08-1d1deba7-838ec79e/
+datalad_url: https://datasets.datalad.org?dir=/shub/cobraPA/container01/latest/2020-09-08-1d1deba7-838ec79e/
 recipe: https://datasets.datalad.org/shub/cobraPA/container01/latest/2020-09-08-1d1deba7-838ec79e/Singularity
 collection: cobraPA/container01
 ---

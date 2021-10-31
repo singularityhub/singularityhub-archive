@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.131Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/theavanrossum/singularity_training/fun/2019-02-27-2fd701fe-e37b4e17/e37b4e173b7ead92d21c2be377ac3079.simg"
-url: https://datasets.datalad.org/shub/theavanrossum/singularity_training/fun/2019-02-27-2fd701fe-e37b4e17/
+datalad_url: https://datasets.datalad.org?dir=/shub/theavanrossum/singularity_training/fun/2019-02-27-2fd701fe-e37b4e17/
 recipe: https://datasets.datalad.org/shub/theavanrossum/singularity_training/fun/2019-02-27-2fd701fe-e37b4e17/Singularity
 collection: theavanrossum/singularity_training
 ---

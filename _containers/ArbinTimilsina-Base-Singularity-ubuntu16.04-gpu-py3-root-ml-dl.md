@@ -9,7 +9,7 @@ build_date: "2018-07-31T15:32:55.938Z"
 size_mb: 4173
 size: 1827639327
 sif: "https://datasets.datalad.org/shub/ArbinTimilsina/Base-Singularity/ubuntu16.04-gpu-py3-root-ml-dl/2018-07-31-6e35a0a0-ae4e9b28/ae4e9b286ee49b578286d60cbe3029ff.simg"
-url: https://datasets.datalad.org/shub/ArbinTimilsina/Base-Singularity/ubuntu16.04-gpu-py3-root-ml-dl/2018-07-31-6e35a0a0-ae4e9b28/
+datalad_url: https://datasets.datalad.org?dir=/shub/ArbinTimilsina/Base-Singularity/ubuntu16.04-gpu-py3-root-ml-dl/2018-07-31-6e35a0a0-ae4e9b28/
 recipe: https://datasets.datalad.org/shub/ArbinTimilsina/Base-Singularity/ubuntu16.04-gpu-py3-root-ml-dl/2018-07-31-6e35a0a0-ae4e9b28/Singularity
 collection: ArbinTimilsina/Base-Singularity
 ---

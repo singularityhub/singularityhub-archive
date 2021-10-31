@@ -9,7 +9,7 @@ build_date: "2020-09-22T09:02:54.910Z"
 size_mb: 1758.0
 size: 989036575
 sif: "https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/test/2020-09-22-bd6967d2-dd016586/dd016586148563d6375308d823c129b7.sif"
-url: https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/test/2020-09-22-bd6967d2-dd016586/
+datalad_url: https://datasets.datalad.org?dir=/shub/EliseJ/kay_singularity_images/test/2020-09-22-bd6967d2-dd016586/
 recipe: https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/test/2020-09-22-bd6967d2-dd016586/Singularity
 collection: EliseJ/kay_singularity_images
 ---

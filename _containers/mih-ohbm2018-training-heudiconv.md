@@ -9,7 +9,7 @@ build_date: "2018-05-20T23:46:11.258Z"
 size_mb: 457
 size: 168771615
 sif: "https://datasets.datalad.org/shub/mih/ohbm2018-training/heudiconv/2018-05-20-26e3d459-7b4fbd4f/7b4fbd4f19d91225dc2aa3b7e3e78bff.simg"
-url: https://datasets.datalad.org/shub/mih/ohbm2018-training/heudiconv/2018-05-20-26e3d459-7b4fbd4f/
+datalad_url: https://datasets.datalad.org?dir=/shub/mih/ohbm2018-training/heudiconv/2018-05-20-26e3d459-7b4fbd4f/
 recipe: https://datasets.datalad.org/shub/mih/ohbm2018-training/heudiconv/2018-05-20-26e3d459-7b4fbd4f/Singularity
 collection: mih/ohbm2018-training
 ---

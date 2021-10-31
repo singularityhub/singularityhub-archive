@@ -9,7 +9,7 @@ build_date: "2019-01-14T21:19:29.958Z"
 size_mb: 4530
 size: 1715027999
 sif: "https://datasets.datalad.org/shub/jpetucci/octave_icsaci/def/2019-01-14-18251bd5-adcbca07/adcbca0772157f3996251ed89ee1fa53.simg"
-url: https://datasets.datalad.org/shub/jpetucci/octave_icsaci/def/2019-01-14-18251bd5-adcbca07/
+datalad_url: https://datasets.datalad.org?dir=/shub/jpetucci/octave_icsaci/def/2019-01-14-18251bd5-adcbca07/
 recipe: https://datasets.datalad.org/shub/jpetucci/octave_icsaci/def/2019-01-14-18251bd5-adcbca07/Singularity
 collection: jpetucci/octave_icsaci
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-17T21:57:09.262Z"
 size_mb: 7594.0
 size: 4086300703
 sif: "https://datasets.datalad.org/shub/yinglilu/pytorch_gpu_singularity/1.3.0/2021-04-17-f7b30d75-946859b7/946859b7a976cd9909a6acd04142ad80.sif"
-url: https://datasets.datalad.org/shub/yinglilu/pytorch_gpu_singularity/1.3.0/2021-04-17-f7b30d75-946859b7/
+datalad_url: https://datasets.datalad.org?dir=/shub/yinglilu/pytorch_gpu_singularity/1.3.0/2021-04-17-f7b30d75-946859b7/
 recipe: https://datasets.datalad.org/shub/yinglilu/pytorch_gpu_singularity/1.3.0/2021-04-17-f7b30d75-946859b7/Singularity
 collection: yinglilu/pytorch_gpu_singularity
 ---

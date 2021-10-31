@@ -9,7 +9,7 @@ build_date: "2020-10-05T00:40:44.206Z"
 size_mb: 1065.0
 size: 371564575
 sif: "https://datasets.datalad.org/shub/nschiraldi/singularity/cernvmfs/2020-10-05-e6209bcf-68222fee/68222fee2f41969126c2775c49322ba6.sif"
-url: https://datasets.datalad.org/shub/nschiraldi/singularity/cernvmfs/2020-10-05-e6209bcf-68222fee/
+datalad_url: https://datasets.datalad.org?dir=/shub/nschiraldi/singularity/cernvmfs/2020-10-05-e6209bcf-68222fee/
 recipe: https://datasets.datalad.org/shub/nschiraldi/singularity/cernvmfs/2020-10-05-e6209bcf-68222fee/Singularity
 collection: nschiraldi/singularity
 ---

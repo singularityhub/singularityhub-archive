@@ -9,7 +9,7 @@ build_date: "2019-11-20T07:57:49.592Z"
 size_mb: 493
 size: 175767583
 sif: "https://datasets.datalad.org/shub/CHRUdeLille/bcftools_containers/1.9/2019-11-20-c2214833-951dd33e/951dd33e134cf17bfa3d43a68ff0e7d3.simg"
-url: https://datasets.datalad.org/shub/CHRUdeLille/bcftools_containers/1.9/2019-11-20-c2214833-951dd33e/
+datalad_url: https://datasets.datalad.org?dir=/shub/CHRUdeLille/bcftools_containers/1.9/2019-11-20-c2214833-951dd33e/
 recipe: https://datasets.datalad.org/shub/CHRUdeLille/bcftools_containers/1.9/2019-11-20-c2214833-951dd33e/Singularity
 collection: CHRUdeLille/bcftools_containers
 ---

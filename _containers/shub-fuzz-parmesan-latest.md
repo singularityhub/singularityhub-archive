@@ -9,7 +9,7 @@ build_date: "2021-02-26T21:05:23.741Z"
 size_mb: 292.84375
 size: 307068928
 sif: "https://datasets.datalad.org/shub/shub-fuzz/parmesan/latest/2021-02-26-efaeef59-f5ef40db/f5ef40db059f9dfd22f278f0f3498be56dc034a8a33b2d20abe401ebc1233acf.sif"
-url: https://datasets.datalad.org/shub/shub-fuzz/parmesan/latest/2021-02-26-efaeef59-f5ef40db/
+datalad_url: https://datasets.datalad.org?dir=/shub/shub-fuzz/parmesan/latest/2021-02-26-efaeef59-f5ef40db/
 recipe: https://datasets.datalad.org/shub/shub-fuzz/parmesan/latest/2021-02-26-efaeef59-f5ef40db/Singularity
 collection: shub-fuzz/parmesan
 ---

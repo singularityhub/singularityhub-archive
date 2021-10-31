@@ -9,7 +9,7 @@ build_date: "2021-04-16T11:51:16.935Z"
 size_mb: 932.0
 size: 402620447
 sif: "https://datasets.datalad.org/shub/KatSteinke/singularity-bbmap-metabat/bbmap_from_metabat/2021-04-16-70a1fe68-1e303423/1e303423c0c9ff6a16d77d978ce898a8.sif"
-url: https://datasets.datalad.org/shub/KatSteinke/singularity-bbmap-metabat/bbmap_from_metabat/2021-04-16-70a1fe68-1e303423/
+datalad_url: https://datasets.datalad.org?dir=/shub/KatSteinke/singularity-bbmap-metabat/bbmap_from_metabat/2021-04-16-70a1fe68-1e303423/
 recipe: https://datasets.datalad.org/shub/KatSteinke/singularity-bbmap-metabat/bbmap_from_metabat/2021-04-16-70a1fe68-1e303423/Singularity
 collection: KatSteinke/singularity-bbmap-metabat
 ---

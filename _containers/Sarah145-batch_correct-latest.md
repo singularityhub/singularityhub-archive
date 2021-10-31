@@ -9,7 +9,7 @@ build_date: "2020-09-07T15:41:37.352Z"
 size_mb: 3451.0
 size: 1469792287
 sif: "https://datasets.datalad.org/shub/Sarah145/batch_correct/latest/2020-09-07-1582b85f-24cdc987/24cdc987c822e9311632b857076d491d.sif"
-url: https://datasets.datalad.org/shub/Sarah145/batch_correct/latest/2020-09-07-1582b85f-24cdc987/
+datalad_url: https://datasets.datalad.org?dir=/shub/Sarah145/batch_correct/latest/2020-09-07-1582b85f-24cdc987/
 recipe: https://datasets.datalad.org/shub/Sarah145/batch_correct/latest/2020-09-07-1582b85f-24cdc987/Singularity
 collection: Sarah145/batch_correct
 ---

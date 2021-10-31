@@ -9,7 +9,7 @@ build_date: "2018-12-21T17:01:16.685Z"
 size_mb: 1563
 size: 606392351
 sif: "https://datasets.datalad.org/shub/cottersci/vsfm-master/latest/2018-12-21-53303e3b-8e505c9a/8e505c9af9607e5fd6f9cd5f12082ad2.simg"
-url: https://datasets.datalad.org/shub/cottersci/vsfm-master/latest/2018-12-21-53303e3b-8e505c9a/
+datalad_url: https://datasets.datalad.org?dir=/shub/cottersci/vsfm-master/latest/2018-12-21-53303e3b-8e505c9a/
 recipe: https://datasets.datalad.org/shub/cottersci/vsfm-master/latest/2018-12-21-53303e3b-8e505c9a/Singularity
 collection: cottersci/vsfm-master
 ---

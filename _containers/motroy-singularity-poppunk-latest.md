@@ -9,7 +9,7 @@ build_date: "2020-08-06T15:21:37.965Z"
 size_mb: 3087.0
 size: 1447620639
 sif: "https://datasets.datalad.org/shub/motroy/singularity-poppunk/latest/2020-08-06-f1c535b8-5008453c/5008453c36d2930448006acf4cc6bbdd.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-poppunk/latest/2020-08-06-f1c535b8-5008453c/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-poppunk/latest/2020-08-06-f1c535b8-5008453c/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-poppunk/latest/2020-08-06-f1c535b8-5008453c/Singularity
 collection: motroy/singularity-poppunk
 ---

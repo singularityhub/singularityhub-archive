@@ -9,7 +9,7 @@ build_date: "2018-02-22T10:18:07.719Z"
 size_mb: 952
 size: 385269791
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-miso/v0.5.4/2018-02-22-d0992c46-78473831/78473831df59236e4d6f912937e16ec0.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-miso/v0.5.4/2018-02-22-d0992c46-78473831/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-miso/v0.5.4/2018-02-22-d0992c46-78473831/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-miso/v0.5.4/2018-02-22-d0992c46-78473831/Singularity
 collection: qbicsoftware/qbic-singularity-miso
 ---

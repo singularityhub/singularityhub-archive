@@ -9,7 +9,7 @@ build_date: "2021-04-08T13:58:19.791Z"
 size_mb: 6095
 size: 3052335135
 sif: "https://datasets.datalad.org/shub/rses-singularity/tensorflow-gpu/latest/2021-04-08-cdaba37f-a1bcef5d/a1bcef5d31802d85f46112abee41b09d.simg"
-url: https://datasets.datalad.org/shub/rses-singularity/tensorflow-gpu/latest/2021-04-08-cdaba37f-a1bcef5d/
+datalad_url: https://datasets.datalad.org?dir=/shub/rses-singularity/tensorflow-gpu/latest/2021-04-08-cdaba37f-a1bcef5d/
 recipe: https://datasets.datalad.org/shub/rses-singularity/tensorflow-gpu/latest/2021-04-08-cdaba37f-a1bcef5d/Singularity
 collection: rses-singularity/tensorflow-gpu
 ---

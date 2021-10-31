@@ -9,7 +9,7 @@ build_date: "2019-12-23T23:22:10.095Z"
 size_mb: 4000.0
 size: 1509302303
 sif: "https://datasets.datalad.org/shub/jamierajewski/snoing-2.0/latest/2019-12-23-f8b54a3d-f7f88426/f7f88426012b9420c66ee22c534dab74.sif"
-url: https://datasets.datalad.org/shub/jamierajewski/snoing-2.0/latest/2019-12-23-f8b54a3d-f7f88426/
+datalad_url: https://datasets.datalad.org?dir=/shub/jamierajewski/snoing-2.0/latest/2019-12-23-f8b54a3d-f7f88426/
 recipe: https://datasets.datalad.org/shub/jamierajewski/snoing-2.0/latest/2019-12-23-f8b54a3d-f7f88426/Singularity
 collection: jamierajewski/snoing-2.0
 ---

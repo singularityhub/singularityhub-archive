@@ -9,7 +9,7 @@ build_date: "2017-10-18T04:03:49.123Z"
 size_mb: 15964
 size: 6602803792
 sif: "https://datasets.datalad.org/shub/vsoch/pe-predictive/master/2017-10-18-5d72a069-e015a343/e015a343f70addb1a70756d97b3cbf8e.img.gz"
-url: https://datasets.datalad.org/shub/vsoch/pe-predictive/master/2017-10-18-5d72a069-e015a343/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/pe-predictive/master/2017-10-18-5d72a069-e015a343/
 recipe: https://datasets.datalad.org/shub/vsoch/pe-predictive/master/2017-10-18-5d72a069-e015a343/Singularity
 collection: vsoch/pe-predictive
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-08T15:27:15.456Z"
 size_mb: None
 size: 695300127
 sif: "https://datasets.datalad.org/shub/colinmcnally/singularityrecipies/latest/2019-11-08-9b19a51b-5755ec0f/5755ec0fc82be1a5174733d3693ddb0f.simg"
-url: https://datasets.datalad.org/shub/colinmcnally/singularityrecipies/latest/2019-11-08-9b19a51b-5755ec0f/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinmcnally/singularityrecipies/latest/2019-11-08-9b19a51b-5755ec0f/
 recipe: https://datasets.datalad.org/shub/colinmcnally/singularityrecipies/latest/2019-11-08-9b19a51b-5755ec0f/Singularity
 collection: colinmcnally/singularityrecipies
 ---

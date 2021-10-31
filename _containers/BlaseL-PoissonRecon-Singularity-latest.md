@@ -9,7 +9,7 @@ build_date: "2019-04-09T21:41:40.417Z"
 size_mb: 649
 size: 252018719
 sif: "https://datasets.datalad.org/shub/BlaseL/PoissonRecon-Singularity/latest/2019-04-09-71c48f6c-ab4dc87e/ab4dc87eff18f05563c34d3c256fe09f.simg"
-url: https://datasets.datalad.org/shub/BlaseL/PoissonRecon-Singularity/latest/2019-04-09-71c48f6c-ab4dc87e/
+datalad_url: https://datasets.datalad.org?dir=/shub/BlaseL/PoissonRecon-Singularity/latest/2019-04-09-71c48f6c-ab4dc87e/
 recipe: https://datasets.datalad.org/shub/BlaseL/PoissonRecon-Singularity/latest/2019-04-09-71c48f6c-ab4dc87e/Singularity
 collection: BlaseL/PoissonRecon-Singularity
 ---

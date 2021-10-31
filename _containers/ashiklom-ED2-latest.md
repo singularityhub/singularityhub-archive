@@ -9,7 +9,7 @@ build_date: "2018-03-02T00:33:59.113Z"
 size_mb: 636
 size: 217120799
 sif: "https://datasets.datalad.org/shub/ashiklom/ED2/latest/2018-03-02-d511f19f-debe388a/debe388a69dbe447c598fc5684143ed4.simg"
-url: https://datasets.datalad.org/shub/ashiklom/ED2/latest/2018-03-02-d511f19f-debe388a/
+datalad_url: https://datasets.datalad.org?dir=/shub/ashiklom/ED2/latest/2018-03-02-d511f19f-debe388a/
 recipe: https://datasets.datalad.org/shub/ashiklom/ED2/latest/2018-03-02-d511f19f-debe388a/Singularity
 collection: ashiklom/ED2
 ---

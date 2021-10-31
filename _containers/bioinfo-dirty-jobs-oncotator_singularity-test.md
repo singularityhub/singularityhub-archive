@@ -9,7 +9,7 @@ build_date: "2018-06-01T15:01:20.916Z"
 size_mb: 1601
 size: 519987231
 sif: "https://datasets.datalad.org/shub/bioinfo-dirty-jobs/oncotator_singularity/test/2018-06-01-be5e9c88-e4b263d6/e4b263d680fa466ab3c2b1ed109dd8a2.simg"
-url: https://datasets.datalad.org/shub/bioinfo-dirty-jobs/oncotator_singularity/test/2018-06-01-be5e9c88-e4b263d6/
+datalad_url: https://datasets.datalad.org?dir=/shub/bioinfo-dirty-jobs/oncotator_singularity/test/2018-06-01-be5e9c88-e4b263d6/
 recipe: https://datasets.datalad.org/shub/bioinfo-dirty-jobs/oncotator_singularity/test/2018-06-01-be5e9c88-e4b263d6/Singularity
 collection: bioinfo-dirty-jobs/oncotator_singularity
 ---

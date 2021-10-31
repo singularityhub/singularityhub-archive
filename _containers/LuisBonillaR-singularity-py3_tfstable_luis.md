@@ -9,7 +9,7 @@ build_date: "2019-08-27T19:37:51.470Z"
 size_mb: 4898.0
 size: 2118553631
 sif: "https://datasets.datalad.org/shub/LuisBonillaR/singularity/py3_tfstable_luis/2019-08-27-e26f9ada-10cfb6b2/10cfb6b282c9c0544cadecbb1fb2e0f9.sif"
-url: https://datasets.datalad.org/shub/LuisBonillaR/singularity/py3_tfstable_luis/2019-08-27-e26f9ada-10cfb6b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/LuisBonillaR/singularity/py3_tfstable_luis/2019-08-27-e26f9ada-10cfb6b2/
 recipe: https://datasets.datalad.org/shub/LuisBonillaR/singularity/py3_tfstable_luis/2019-08-27-e26f9ada-10cfb6b2/Singularity
 collection: LuisBonillaR/singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-09-10T00:12:54.681Z"
 size_mb: 5105
 size: 2509836319
 sif: "https://datasets.datalad.org/shub/joey3639570/singularity_tensorflow/cuda9.0-tf1.13-ofed4.4/2019-09-10-94003d4f-cec09edb/cec09edbb750a061249e3f41bd24699a.simg"
-url: https://datasets.datalad.org/shub/joey3639570/singularity_tensorflow/cuda9.0-tf1.13-ofed4.4/2019-09-10-94003d4f-cec09edb/
+datalad_url: https://datasets.datalad.org?dir=/shub/joey3639570/singularity_tensorflow/cuda9.0-tf1.13-ofed4.4/2019-09-10-94003d4f-cec09edb/
 recipe: https://datasets.datalad.org/shub/joey3639570/singularity_tensorflow/cuda9.0-tf1.13-ofed4.4/2019-09-10-94003d4f-cec09edb/Singularity
 collection: joey3639570/singularity_tensorflow
 ---

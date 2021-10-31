@@ -9,7 +9,7 @@ build_date: "2020-03-31T06:46:29.672Z"
 size_mb: 3965.0
 size: 2061283359
 sif: "https://datasets.datalad.org/shub/yngvem/tf-singularity/latest/2020-03-31-a1955bd6-ba17a17a/ba17a17a787df3f2604071e84f05d8b2.sif"
-url: https://datasets.datalad.org/shub/yngvem/tf-singularity/latest/2020-03-31-a1955bd6-ba17a17a/
+datalad_url: https://datasets.datalad.org?dir=/shub/yngvem/tf-singularity/latest/2020-03-31-a1955bd6-ba17a17a/
 recipe: https://datasets.datalad.org/shub/yngvem/tf-singularity/latest/2020-03-31-a1955bd6-ba17a17a/Singularity
 collection: yngvem/tf-singularity
 ---

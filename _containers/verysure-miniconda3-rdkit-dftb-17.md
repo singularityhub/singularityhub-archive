@@ -9,7 +9,7 @@ build_date: "2018-07-17T22:43:33.742Z"
 size_mb: 2550
 size: 829599775
 sif: "https://datasets.datalad.org/shub/verysure/miniconda3-rdkit-dftb/17/2018-07-17-0fe0b064-5c16a9d8/5c16a9d8093aa2316b3ac653b8aa52be.simg"
-url: https://datasets.datalad.org/shub/verysure/miniconda3-rdkit-dftb/17/2018-07-17-0fe0b064-5c16a9d8/
+datalad_url: https://datasets.datalad.org?dir=/shub/verysure/miniconda3-rdkit-dftb/17/2018-07-17-0fe0b064-5c16a9d8/
 recipe: https://datasets.datalad.org/shub/verysure/miniconda3-rdkit-dftb/17/2018-07-17-0fe0b064-5c16a9d8/Singularity
 collection: verysure/miniconda3-rdkit-dftb
 ---

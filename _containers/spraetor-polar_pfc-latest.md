@@ -9,7 +9,7 @@ build_date: "2020-08-30T19:19:12.196Z"
 size_mb: 672.0
 size: 194326559
 sif: "https://datasets.datalad.org/shub/spraetor/polar_pfc/latest/2020-08-30-fe80198e-f80bb511/f80bb511cc035666a2f2c27463d8aabb.sif"
-url: https://datasets.datalad.org/shub/spraetor/polar_pfc/latest/2020-08-30-fe80198e-f80bb511/
+datalad_url: https://datasets.datalad.org?dir=/shub/spraetor/polar_pfc/latest/2020-08-30-fe80198e-f80bb511/
 recipe: https://datasets.datalad.org/shub/spraetor/polar_pfc/latest/2020-08-30-fe80198e-f80bb511/Singularity
 collection: spraetor/polar_pfc
 ---

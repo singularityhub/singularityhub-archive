@@ -9,7 +9,7 @@ build_date: "2019-11-18T17:19:28.054Z"
 size_mb: 2072.0
 size: 1051578399
 sif: "https://datasets.datalad.org/shub/jrswartley/np-mc/branched/2019-11-18-bd15de22-af9eb5ce/af9eb5ceceeafa2edfcdc8dfa42f7978.sif"
-url: https://datasets.datalad.org/shub/jrswartley/np-mc/branched/2019-11-18-bd15de22-af9eb5ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/jrswartley/np-mc/branched/2019-11-18-bd15de22-af9eb5ce/
 recipe: https://datasets.datalad.org/shub/jrswartley/np-mc/branched/2019-11-18-bd15de22-af9eb5ce/Singularity
 collection: jrswartley/np-mc
 ---

@@ -9,7 +9,7 @@ build_date: "2020-02-06T09:43:39.509Z"
 size_mb: 3519.0
 size: 1595944991
 sif: "https://datasets.datalad.org/shub/RickGelhausen/deepribo_image/latest/2020-02-06-949e8b12-9bef69eb/9bef69eb55fe28de63ba5300a521e1a5.sif"
-url: https://datasets.datalad.org/shub/RickGelhausen/deepribo_image/latest/2020-02-06-949e8b12-9bef69eb/
+datalad_url: https://datasets.datalad.org?dir=/shub/RickGelhausen/deepribo_image/latest/2020-02-06-949e8b12-9bef69eb/
 recipe: https://datasets.datalad.org/shub/RickGelhausen/deepribo_image/latest/2020-02-06-949e8b12-9bef69eb/Singularity
 collection: RickGelhausen/deepribo_image
 ---

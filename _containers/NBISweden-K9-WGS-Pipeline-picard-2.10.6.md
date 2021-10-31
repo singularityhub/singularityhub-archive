@@ -9,7 +9,7 @@ build_date: "2020-11-19T06:02:36.617Z"
 size_mb: 673
 size: 323936287
 sif: "https://datasets.datalad.org/shub/NBISweden/K9-WGS-Pipeline/picard-2.10.6/2020-11-19-bb81f65d-ca94ee21/ca94ee21419c76a1c177ab8eef3f19c9.simg"
-url: https://datasets.datalad.org/shub/NBISweden/K9-WGS-Pipeline/picard-2.10.6/2020-11-19-bb81f65d-ca94ee21/
+datalad_url: https://datasets.datalad.org?dir=/shub/NBISweden/K9-WGS-Pipeline/picard-2.10.6/2020-11-19-bb81f65d-ca94ee21/
 recipe: https://datasets.datalad.org/shub/NBISweden/K9-WGS-Pipeline/picard-2.10.6/2020-11-19-bb81f65d-ca94ee21/Singularity
 collection: NBISweden/K9-WGS-Pipeline
 ---

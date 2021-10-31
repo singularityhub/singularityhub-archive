@@ -9,7 +9,7 @@ build_date: "2019-05-14T18:08:23.803Z"
 size_mb: 8219
 size: 4671909919
 sif: "https://datasets.datalad.org/shub/BensonYang1999/tensorflow-gpu/test-cuda9.0/2019-05-14-a155e504-bdbca6f5/bdbca6f502b5654ea6cb74aabbee9b7b.simg"
-url: https://datasets.datalad.org/shub/BensonYang1999/tensorflow-gpu/test-cuda9.0/2019-05-14-a155e504-bdbca6f5/
+datalad_url: https://datasets.datalad.org?dir=/shub/BensonYang1999/tensorflow-gpu/test-cuda9.0/2019-05-14-a155e504-bdbca6f5/
 recipe: https://datasets.datalad.org/shub/BensonYang1999/tensorflow-gpu/test-cuda9.0/2019-05-14-a155e504-bdbca6f5/Singularity
 collection: BensonYang1999/tensorflow-gpu
 ---

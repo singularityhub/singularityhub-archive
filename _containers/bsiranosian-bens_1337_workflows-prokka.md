@@ -9,7 +9,7 @@ build_date: "2020-04-22T23:06:42.066Z"
 size_mb: 2799.0
 size: 1100714015
 sif: "https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/prokka/2020-04-22-974e1516-7339ddde/7339ddde715a121363b79121545c6d26.sif"
-url: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/prokka/2020-04-22-974e1516-7339ddde/
+datalad_url: https://datasets.datalad.org?dir=/shub/bsiranosian/bens_1337_workflows/prokka/2020-04-22-974e1516-7339ddde/
 recipe: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/prokka/2020-04-22-974e1516-7339ddde/Singularity
 collection: bsiranosian/bens_1337_workflows
 ---

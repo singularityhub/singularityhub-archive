@@ -9,7 +9,7 @@ build_date: "2018-12-18T11:55:41.105Z"
 size_mb: 1418
 size: 538861599
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/autosklearnbenchmark/2018-12-18-028b5a20-c836440e/c836440ea6fae8c10b73cc5196a69424.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/autosklearnbenchmark/2018-12-18-028b5a20-c836440e/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/autosklearnbenchmark/2018-12-18-028b5a20-c836440e/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/autosklearnbenchmark/2018-12-18-028b5a20-c836440e/Singularity
 collection: staeglis/HPOlib2
 ---

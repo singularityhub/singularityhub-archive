@@ -9,7 +9,7 @@ build_date: "2020-06-05T11:33:57.465Z"
 size_mb: 1197.0
 size: 428376095
 sif: "https://datasets.datalad.org/shub/bioexcel/pmx_docker/latest/2020-06-05-77ee11c2-3fdffda7/3fdffda70cd98a38a31a719d60c5232f.sif"
-url: https://datasets.datalad.org/shub/bioexcel/pmx_docker/latest/2020-06-05-77ee11c2-3fdffda7/
+datalad_url: https://datasets.datalad.org?dir=/shub/bioexcel/pmx_docker/latest/2020-06-05-77ee11c2-3fdffda7/
 recipe: https://datasets.datalad.org/shub/bioexcel/pmx_docker/latest/2020-06-05-77ee11c2-3fdffda7/Singularity
 collection: bioexcel/pmx_docker
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-07T11:19:42.516Z"
 size_mb: 5912
 size: 2555293727
 sif: "https://datasets.datalad.org/shub/frankwillmore/singularity_image_recipes/mcnda040512_gcc7_py36/2019-06-07-838665c3-c7bee0d9/c7bee0d9d8a34d54a0fc4ccb83edb7b3.simg"
-url: https://datasets.datalad.org/shub/frankwillmore/singularity_image_recipes/mcnda040512_gcc7_py36/2019-06-07-838665c3-c7bee0d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/frankwillmore/singularity_image_recipes/mcnda040512_gcc7_py36/2019-06-07-838665c3-c7bee0d9/
 recipe: https://datasets.datalad.org/shub/frankwillmore/singularity_image_recipes/mcnda040512_gcc7_py36/2019-06-07-838665c3-c7bee0d9/Singularity
 collection: frankwillmore/singularity_image_recipes
 ---

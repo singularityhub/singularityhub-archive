@@ -9,7 +9,7 @@ build_date: "2019-08-14T14:19:50.422Z"
 size_mb: 796.0
 size: 276086815
 sif: "https://datasets.datalad.org/shub/klementc/singularityRecipes/corda/2019-08-14-fa914931-977a843b/977a843bdce04833c97f9c174c217033.sif"
-url: https://datasets.datalad.org/shub/klementc/singularityRecipes/corda/2019-08-14-fa914931-977a843b/
+datalad_url: https://datasets.datalad.org?dir=/shub/klementc/singularityRecipes/corda/2019-08-14-fa914931-977a843b/
 recipe: https://datasets.datalad.org/shub/klementc/singularityRecipes/corda/2019-08-14-fa914931-977a843b/Singularity
 collection: klementc/singularityRecipes
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-11T19:35:44.446Z"
 size_mb: 10038
 size: 5084479519
 sif: "https://datasets.datalad.org/shub/adityabalu/TorchMPISingularity/torch/2019-10-11-543f05a5-3870c98a/3870c98a090eae0a66427cae6242c208.simg"
-url: https://datasets.datalad.org/shub/adityabalu/TorchMPISingularity/torch/2019-10-11-543f05a5-3870c98a/
+datalad_url: https://datasets.datalad.org?dir=/shub/adityabalu/TorchMPISingularity/torch/2019-10-11-543f05a5-3870c98a/
 recipe: https://datasets.datalad.org/shub/adityabalu/TorchMPISingularity/torch/2019-10-11-543f05a5-3870c98a/Singularity
 collection: adityabalu/TorchMPISingularity
 ---

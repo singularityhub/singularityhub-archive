@@ -9,7 +9,7 @@ build_date: "2018-12-20T11:05:47.372Z"
 size_mb: 3147
 size: 988446751
 sif: "https://datasets.datalad.org/shub/sschmeier/simg-lncrna/latest/2018-12-20-e6527574-dccfbe86/dccfbe86a9a565c035bbc0c5eeed147a.simg"
-url: https://datasets.datalad.org/shub/sschmeier/simg-lncrna/latest/2018-12-20-e6527574-dccfbe86/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/simg-lncrna/latest/2018-12-20-e6527574-dccfbe86/
 recipe: https://datasets.datalad.org/shub/sschmeier/simg-lncrna/latest/2018-12-20-e6527574-dccfbe86/Singularity
 collection: sschmeier/simg-lncrna
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-10T17:24:17.393Z"
 size_mb: 2010
 size: 871047199
 sif: "https://datasets.datalad.org/shub/Michael-Stevens-27/silverblaze/latest/2019-06-10-67bd33ba-368fb6f0/368fb6f0e19bcd337080d415c03bda03.simg"
-url: https://datasets.datalad.org/shub/Michael-Stevens-27/silverblaze/latest/2019-06-10-67bd33ba-368fb6f0/
+datalad_url: https://datasets.datalad.org?dir=/shub/Michael-Stevens-27/silverblaze/latest/2019-06-10-67bd33ba-368fb6f0/
 recipe: https://datasets.datalad.org/shub/Michael-Stevens-27/silverblaze/latest/2019-06-10-67bd33ba-368fb6f0/Singularity
 collection: Michael-Stevens-27/silverblaze
 ---

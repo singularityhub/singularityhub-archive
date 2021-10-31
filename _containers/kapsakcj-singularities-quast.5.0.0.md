@@ -9,7 +9,7 @@ build_date: "2019-04-30T20:21:09.227Z"
 size_mb: 1035
 size: 320782367
 sif: "https://datasets.datalad.org/shub/kapsakcj/singularities/quast.5.0.0/2019-04-30-a0d2f44f-daa49f59/daa49f59645247ab3d508cedc6185b18.simg"
-url: https://datasets.datalad.org/shub/kapsakcj/singularities/quast.5.0.0/2019-04-30-a0d2f44f-daa49f59/
+datalad_url: https://datasets.datalad.org?dir=/shub/kapsakcj/singularities/quast.5.0.0/2019-04-30-a0d2f44f-daa49f59/
 recipe: https://datasets.datalad.org/shub/kapsakcj/singularities/quast.5.0.0/2019-04-30-a0d2f44f-daa49f59/Singularity
 collection: kapsakcj/singularities
 ---

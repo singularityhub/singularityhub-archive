@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:53.847Z"
 size_mb: 1036
 size: 359763999
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-antscorticalthickness--2.2.0-1/2021-03-19-697f419c-f23ae1b4/f23ae1b4684696696de37d1d6878e89f.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-antscorticalthickness--2.2.0-1/2021-03-19-697f419c-f23ae1b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-antscorticalthickness--2.2.0-1/2021-03-19-697f419c-f23ae1b4/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-antscorticalthickness--2.2.0-1/2021-03-19-697f419c-f23ae1b4/Singularity
 collection: ReproNim/containers
 ---

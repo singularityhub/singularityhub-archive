@@ -9,7 +9,7 @@ build_date: "2020-04-28T08:35:36.747Z"
 size_mb: 1998
 size: 391520287
 sif: "https://datasets.datalad.org/shub/giovannipizzi/singularity-quantum-espresso/ansible-6.3/2020-04-28-df81cc42-2d981fcf/2d981fcf09297357324f060b5297ab56.simg"
-url: https://datasets.datalad.org/shub/giovannipizzi/singularity-quantum-espresso/ansible-6.3/2020-04-28-df81cc42-2d981fcf/
+datalad_url: https://datasets.datalad.org?dir=/shub/giovannipizzi/singularity-quantum-espresso/ansible-6.3/2020-04-28-df81cc42-2d981fcf/
 recipe: https://datasets.datalad.org/shub/giovannipizzi/singularity-quantum-espresso/ansible-6.3/2020-04-28-df81cc42-2d981fcf/Singularity
 collection: giovannipizzi/singularity-quantum-espresso
 ---

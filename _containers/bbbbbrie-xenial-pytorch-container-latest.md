@@ -9,7 +9,7 @@ build_date: "2019-11-04T15:14:17.062Z"
 size_mb: 2765
 size: 1364459551
 sif: "https://datasets.datalad.org/shub/bbbbbrie/xenial-pytorch-container/latest/2019-11-04-1003d9b5-6e93ba0e/6e93ba0ec20bdb577d4331917b634c3b.simg"
-url: https://datasets.datalad.org/shub/bbbbbrie/xenial-pytorch-container/latest/2019-11-04-1003d9b5-6e93ba0e/
+datalad_url: https://datasets.datalad.org?dir=/shub/bbbbbrie/xenial-pytorch-container/latest/2019-11-04-1003d9b5-6e93ba0e/
 recipe: https://datasets.datalad.org/shub/bbbbbrie/xenial-pytorch-container/latest/2019-11-04-1003d9b5-6e93ba0e/Singularity
 collection: bbbbbrie/xenial-pytorch-container
 ---

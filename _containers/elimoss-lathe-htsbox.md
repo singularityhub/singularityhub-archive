@@ -9,7 +9,7 @@ build_date: "2021-04-14T14:34:57.958Z"
 size_mb: 388
 size: 147169311
 sif: "https://datasets.datalad.org/shub/elimoss/lathe/htsbox/2021-04-14-f53adf65-3228a774/3228a77487ab06b19155706d3892097a.simg"
-url: https://datasets.datalad.org/shub/elimoss/lathe/htsbox/2021-04-14-f53adf65-3228a774/
+datalad_url: https://datasets.datalad.org?dir=/shub/elimoss/lathe/htsbox/2021-04-14-f53adf65-3228a774/
 recipe: https://datasets.datalad.org/shub/elimoss/lathe/htsbox/2021-04-14-f53adf65-3228a774/Singularity
 collection: elimoss/lathe
 ---

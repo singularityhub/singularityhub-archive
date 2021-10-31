@@ -9,7 +9,7 @@ build_date: "2021-03-15T22:01:33.055Z"
 size_mb: 4318.0
 size: 1947906079
 sif: "https://datasets.datalad.org/shub/yiwan-rl/singularity_recipes/latest/2021-03-15-c0154692-b416e27f/b416e27f73a6fc46568a7e97df11001d.sif"
-url: https://datasets.datalad.org/shub/yiwan-rl/singularity_recipes/latest/2021-03-15-c0154692-b416e27f/
+datalad_url: https://datasets.datalad.org?dir=/shub/yiwan-rl/singularity_recipes/latest/2021-03-15-c0154692-b416e27f/
 recipe: https://datasets.datalad.org/shub/yiwan-rl/singularity_recipes/latest/2021-03-15-c0154692-b416e27f/Singularity
 collection: yiwan-rl/singularity_recipes
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-11T21:17:48.167Z"
 size_mb: 9020.0
 size: 4347408415
 sif: "https://datasets.datalad.org/shub/anibalsolon/freesurfer-5.3.0-container/latest/2019-12-11-1eb0ca38-a97ce2cb/a97ce2cb24f0c31140836698ad758ad1.sif"
-url: https://datasets.datalad.org/shub/anibalsolon/freesurfer-5.3.0-container/latest/2019-12-11-1eb0ca38-a97ce2cb/
+datalad_url: https://datasets.datalad.org?dir=/shub/anibalsolon/freesurfer-5.3.0-container/latest/2019-12-11-1eb0ca38-a97ce2cb/
 recipe: https://datasets.datalad.org/shub/anibalsolon/freesurfer-5.3.0-container/latest/2019-12-11-1eb0ca38-a97ce2cb/Singularity
 collection: anibalsolon/freesurfer-5.3.0-container
 ---

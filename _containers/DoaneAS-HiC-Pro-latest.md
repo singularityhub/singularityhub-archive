@@ -9,7 +9,7 @@ build_date: "2019-11-01T04:03:44.347Z"
 size_mb: 2108
 size: 751984671
 sif: "https://datasets.datalad.org/shub/DoaneAS/HiC-Pro/latest/2019-11-01-d2da8748-fe3758df/fe3758df41876d18b434b788e6333d90.simg"
-url: https://datasets.datalad.org/shub/DoaneAS/HiC-Pro/latest/2019-11-01-d2da8748-fe3758df/
+datalad_url: https://datasets.datalad.org?dir=/shub/DoaneAS/HiC-Pro/latest/2019-11-01-d2da8748-fe3758df/
 recipe: https://datasets.datalad.org/shub/DoaneAS/HiC-Pro/latest/2019-11-01-d2da8748-fe3758df/Singularity
 collection: DoaneAS/HiC-Pro
 ---

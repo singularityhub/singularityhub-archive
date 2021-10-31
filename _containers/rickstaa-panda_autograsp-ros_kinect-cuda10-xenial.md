@@ -9,7 +9,7 @@ build_date: "2019-08-22T21:03:15.558Z"
 size_mb: 14296.0
 size: 6751997983
 sif: "https://datasets.datalad.org/shub/rickstaa/panda_autograsp/ros_kinect-cuda10-xenial/2019-08-22-740018c1-fc9d92b9/fc9d92b9afda9ef29e7fcb06e16478a7.sif"
-url: https://datasets.datalad.org/shub/rickstaa/panda_autograsp/ros_kinect-cuda10-xenial/2019-08-22-740018c1-fc9d92b9/
+datalad_url: https://datasets.datalad.org?dir=/shub/rickstaa/panda_autograsp/ros_kinect-cuda10-xenial/2019-08-22-740018c1-fc9d92b9/
 recipe: https://datasets.datalad.org/shub/rickstaa/panda_autograsp/ros_kinect-cuda10-xenial/2019-08-22-740018c1-fc9d92b9/Singularity
 collection: rickstaa/panda_autograsp
 ---

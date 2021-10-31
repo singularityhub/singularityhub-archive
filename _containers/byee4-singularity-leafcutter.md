@@ -9,7 +9,7 @@ build_date: "2019-01-14T04:37:52.010Z"
 size_mb: 7811
 size: 3472936991
 sif: "https://datasets.datalad.org/shub/byee4/singularity/leafcutter/2019-01-14-c884e2fd-57dd30e3/57dd30e31d6a676e133fdca6e30d5eb3.simg"
-url: https://datasets.datalad.org/shub/byee4/singularity/leafcutter/2019-01-14-c884e2fd-57dd30e3/
+datalad_url: https://datasets.datalad.org?dir=/shub/byee4/singularity/leafcutter/2019-01-14-c884e2fd-57dd30e3/
 recipe: https://datasets.datalad.org/shub/byee4/singularity/leafcutter/2019-01-14-c884e2fd-57dd30e3/Singularity
 collection: byee4/singularity
 ---

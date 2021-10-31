@@ -9,7 +9,7 @@ build_date: "2019-10-01T14:02:21.979Z"
 size_mb: 6221.0
 size: 3771490335
 sif: "https://datasets.datalad.org/shub/MicroSTM/singularity_containers/py36_pybullet_pybox2d_pytorch/2019-10-01-f29c1478-065ddc6c/065ddc6cb7b4b8915f0c51fbec42b266.sif"
-url: https://datasets.datalad.org/shub/MicroSTM/singularity_containers/py36_pybullet_pybox2d_pytorch/2019-10-01-f29c1478-065ddc6c/
+datalad_url: https://datasets.datalad.org?dir=/shub/MicroSTM/singularity_containers/py36_pybullet_pybox2d_pytorch/2019-10-01-f29c1478-065ddc6c/
 recipe: https://datasets.datalad.org/shub/MicroSTM/singularity_containers/py36_pybullet_pybox2d_pytorch/2019-10-01-f29c1478-065ddc6c/Singularity
 collection: MicroSTM/singularity_containers
 ---

@@ -9,7 +9,7 @@ build_date: "2019-01-26T22:48:03.223Z"
 size_mb: 3736
 size: 1778446367
 sif: "https://datasets.datalad.org/shub/jshede32/Singularity/yolo/2019-01-26-726b5db2-3c29136d/3c29136da02941209736d414717a363a.simg"
-url: https://datasets.datalad.org/shub/jshede32/Singularity/yolo/2019-01-26-726b5db2-3c29136d/
+datalad_url: https://datasets.datalad.org?dir=/shub/jshede32/Singularity/yolo/2019-01-26-726b5db2-3c29136d/
 recipe: https://datasets.datalad.org/shub/jshede32/Singularity/yolo/2019-01-26-726b5db2-3c29136d/Singularity
 collection: jshede32/Singularity
 ---

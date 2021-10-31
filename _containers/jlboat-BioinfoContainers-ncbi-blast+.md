@@ -9,7 +9,7 @@ build_date: "2020-09-16T08:06:57.615Z"
 size_mb: 275
 size: 97087519
 sif: "https://datasets.datalad.org/shub/jlboat/BioinfoContainers/ncbi-blast+/2020-09-16-5f15386e-7d0cfc2c/7d0cfc2c6acea0064ea5e5c04fc9ce2f.simg"
-url: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/ncbi-blast+/2020-09-16-5f15386e-7d0cfc2c/
+datalad_url: https://datasets.datalad.org?dir=/shub/jlboat/BioinfoContainers/ncbi-blast+/2020-09-16-5f15386e-7d0cfc2c/
 recipe: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/ncbi-blast+/2020-09-16-5f15386e-7d0cfc2c/Singularity
 collection: jlboat/BioinfoContainers
 ---

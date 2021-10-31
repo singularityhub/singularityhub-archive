@@ -9,7 +9,7 @@ build_date: "2020-06-16T01:32:36.960Z"
 size_mb: 2248.0
 size: 745082911
 sif: "https://datasets.datalad.org/shub/gshamov/INLA-RImage/latest/2020-06-16-923c7e79-37348049/373480495dd2cd81c9dea56a69aebe48.sif"
-url: https://datasets.datalad.org/shub/gshamov/INLA-RImage/latest/2020-06-16-923c7e79-37348049/
+datalad_url: https://datasets.datalad.org?dir=/shub/gshamov/INLA-RImage/latest/2020-06-16-923c7e79-37348049/
 recipe: https://datasets.datalad.org/shub/gshamov/INLA-RImage/latest/2020-06-16-923c7e79-37348049/Singularity
 collection: gshamov/INLA-RImage
 ---

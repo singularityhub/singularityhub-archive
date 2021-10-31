@@ -9,7 +9,7 @@ build_date: "2019-03-28T19:02:13.851Z"
 size_mb: 2109
 size: 706949151
 sif: "https://datasets.datalad.org/shub/dp2ski/julia_aci/rec/2019-03-28-b8e9208c-f025eeae/f025eeaef324c263c0822ec85872c79f.simg"
-url: https://datasets.datalad.org/shub/dp2ski/julia_aci/rec/2019-03-28-b8e9208c-f025eeae/
+datalad_url: https://datasets.datalad.org?dir=/shub/dp2ski/julia_aci/rec/2019-03-28-b8e9208c-f025eeae/
 recipe: https://datasets.datalad.org/shub/dp2ski/julia_aci/rec/2019-03-28-b8e9208c-f025eeae/Singularity
 collection: dp2ski/julia_aci
 ---

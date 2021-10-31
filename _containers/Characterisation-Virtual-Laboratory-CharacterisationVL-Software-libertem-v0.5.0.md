@@ -9,7 +9,7 @@ build_date: "2020-04-23T23:35:30.591Z"
 size_mb: 8945.0
 size: 4817428511
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/libertem-v0.5.0/2020-04-23-1bb53bcc-a31e9f0d/a31e9f0dfc024db8ec4f2e1e417ccca4.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/libertem-v0.5.0/2020-04-23-1bb53bcc-a31e9f0d/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/libertem-v0.5.0/2020-04-23-1bb53bcc-a31e9f0d/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/libertem-v0.5.0/2020-04-23-1bb53bcc-a31e9f0d/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

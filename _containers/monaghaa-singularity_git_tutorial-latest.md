@@ -9,7 +9,7 @@ build_date: "2020-05-15T20:27:29.022Z"
 size_mb: 50.0
 size: 14241823
 sif: "https://datasets.datalad.org/shub/monaghaa/singularity_git_tutorial/latest/2020-05-15-b886c6e4-fc94c3b4/fc94c3b44a2353ad3c9cc38d8fc09016.sif"
-url: https://datasets.datalad.org/shub/monaghaa/singularity_git_tutorial/latest/2020-05-15-b886c6e4-fc94c3b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/singularity_git_tutorial/latest/2020-05-15-b886c6e4-fc94c3b4/
 recipe: https://datasets.datalad.org/shub/monaghaa/singularity_git_tutorial/latest/2020-05-15-b886c6e4-fc94c3b4/Singularity
 collection: monaghaa/singularity_git_tutorial
 ---

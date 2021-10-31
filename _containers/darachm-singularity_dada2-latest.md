@@ -9,7 +9,7 @@ build_date: "2020-12-07T22:21:56.634Z"
 size_mb: 1095
 size: 403451935
 sif: "https://datasets.datalad.org/shub/darachm/singularity_dada2/latest/2020-12-07-a388cdc4-1762d650/1762d6502a35f86552eaad021ba2e764.simg"
-url: https://datasets.datalad.org/shub/darachm/singularity_dada2/latest/2020-12-07-a388cdc4-1762d650/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_dada2/latest/2020-12-07-a388cdc4-1762d650/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_dada2/latest/2020-12-07-a388cdc4-1762d650/Singularity
 collection: darachm/singularity_dada2
 ---

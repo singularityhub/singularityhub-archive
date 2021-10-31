@@ -9,7 +9,7 @@ build_date: "2019-01-24T13:54:58.840Z"
 size_mb: 1563
 size: 545972255
 sif: "https://datasets.datalad.org/shub/bahlolab/nf-pacbio-amplicon-analysis/pacbio_smrt_v0.4/2019-01-24-d5490960-9dba58f9/9dba58f9fb2f954cd8612996e16e7596.simg"
-url: https://datasets.datalad.org/shub/bahlolab/nf-pacbio-amplicon-analysis/pacbio_smrt_v0.4/2019-01-24-d5490960-9dba58f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/bahlolab/nf-pacbio-amplicon-analysis/pacbio_smrt_v0.4/2019-01-24-d5490960-9dba58f9/
 recipe: https://datasets.datalad.org/shub/bahlolab/nf-pacbio-amplicon-analysis/pacbio_smrt_v0.4/2019-01-24-d5490960-9dba58f9/Singularity
 collection: bahlolab/nf-pacbio-amplicon-analysis
 ---

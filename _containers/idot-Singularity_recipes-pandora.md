@@ -9,7 +9,7 @@ build_date: "2018-07-30T16:14:05.768Z"
 size_mb: 2194
 size: 509923359
 sif: "https://datasets.datalad.org/shub/idot/Singularity_recipes/pandora/2018-07-30-534adc3c-3342260c/3342260c4ea72187db5f5161b9f7b5ff.simg"
-url: https://datasets.datalad.org/shub/idot/Singularity_recipes/pandora/2018-07-30-534adc3c-3342260c/
+datalad_url: https://datasets.datalad.org?dir=/shub/idot/Singularity_recipes/pandora/2018-07-30-534adc3c-3342260c/
 recipe: https://datasets.datalad.org/shub/idot/Singularity_recipes/pandora/2018-07-30-534adc3c-3342260c/Singularity
 collection: idot/Singularity_recipes
 ---

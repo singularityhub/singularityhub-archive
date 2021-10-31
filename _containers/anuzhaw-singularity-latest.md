@@ -9,7 +9,7 @@ build_date: "2020-06-29T15:09:21.918Z"
 size_mb: 6799.0
 size: 3466252319
 sif: "https://datasets.datalad.org/shub/anuzhaw/singularity/latest/2020-06-29-1d9ee7a3-342433b1/342433b1aa0b153b25a2aa4f90bd2f75.sif"
-url: https://datasets.datalad.org/shub/anuzhaw/singularity/latest/2020-06-29-1d9ee7a3-342433b1/
+datalad_url: https://datasets.datalad.org?dir=/shub/anuzhaw/singularity/latest/2020-06-29-1d9ee7a3-342433b1/
 recipe: https://datasets.datalad.org/shub/anuzhaw/singularity/latest/2020-06-29-1d9ee7a3-342433b1/Singularity
 collection: anuzhaw/singularity
 ---

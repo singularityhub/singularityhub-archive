@@ -9,7 +9,7 @@ build_date: "2020-10-01T12:37:47.286Z"
 size_mb: 1400.0
 size: 480317471
 sif: "https://datasets.datalad.org/shub/hexmek/container/kraken2/2020-10-01-a86f4bf1-28212f34/28212f347409dd1b05bf358ed34ab434.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/kraken2/2020-10-01-a86f4bf1-28212f34/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/kraken2/2020-10-01-a86f4bf1-28212f34/
 recipe: https://datasets.datalad.org/shub/hexmek/container/kraken2/2020-10-01-a86f4bf1-28212f34/Singularity
 collection: hexmek/container
 ---

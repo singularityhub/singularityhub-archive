@@ -9,7 +9,7 @@ build_date: "2019-02-24T08:38:39.899Z"
 size_mb: 6801
 size: 3156656159
 sif: "https://datasets.datalad.org/shub/arcsUVA/caffe2/0.8.0/2019-02-24-70bc2042-df247ba6/df247ba68f248cae3c535d508b5d85dd.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/caffe2/0.8.0/2019-02-24-70bc2042-df247ba6/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/caffe2/0.8.0/2019-02-24-70bc2042-df247ba6/
 recipe: https://datasets.datalad.org/shub/arcsUVA/caffe2/0.8.0/2019-02-24-70bc2042-df247ba6/Singularity
 collection: arcsUVA/caffe2
 ---

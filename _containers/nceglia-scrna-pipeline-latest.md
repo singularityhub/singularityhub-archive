@@ -9,7 +9,7 @@ build_date: "2019-05-21T02:41:10.553Z"
 size_mb: 5663
 size: 2514837535
 sif: "https://datasets.datalad.org/shub/nceglia/scrna-pipeline/latest/2019-05-21-a3965026-0b92acbe/0b92acbece8c30541d0a7f922a7bd8fb.simg"
-url: https://datasets.datalad.org/shub/nceglia/scrna-pipeline/latest/2019-05-21-a3965026-0b92acbe/
+datalad_url: https://datasets.datalad.org?dir=/shub/nceglia/scrna-pipeline/latest/2019-05-21-a3965026-0b92acbe/
 recipe: https://datasets.datalad.org/shub/nceglia/scrna-pipeline/latest/2019-05-21-a3965026-0b92acbe/Singularity
 collection: nceglia/scrna-pipeline
 ---

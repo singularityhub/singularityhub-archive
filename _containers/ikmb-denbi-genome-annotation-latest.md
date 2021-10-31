@@ -9,7 +9,7 @@ build_date: "2020-04-03T12:27:38.462Z"
 size_mb: 6325.0
 size: 1746927647
 sif: "https://datasets.datalad.org/shub/ikmb-denbi/genome-annotation/latest/2020-04-03-3e0a83e9-c05b6f1e/c05b6f1e7449010a9afca4ce9cbafa5b.sif"
-url: https://datasets.datalad.org/shub/ikmb-denbi/genome-annotation/latest/2020-04-03-3e0a83e9-c05b6f1e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ikmb-denbi/genome-annotation/latest/2020-04-03-3e0a83e9-c05b6f1e/
 recipe: https://datasets.datalad.org/shub/ikmb-denbi/genome-annotation/latest/2020-04-03-3e0a83e9-c05b6f1e/Singularity
 collection: ikmb-denbi/genome-annotation
 ---

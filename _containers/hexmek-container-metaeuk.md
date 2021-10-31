@@ -9,7 +9,7 @@ build_date: "2021-03-26T13:44:03.106Z"
 size_mb: 1908.0
 size: 652120095
 sif: "https://datasets.datalad.org/shub/hexmek/container/metaeuk/2021-03-26-ffdc2778-7c849f3a/7c849f3a9adb0046c80a8bccf8054f0c.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/metaeuk/2021-03-26-ffdc2778-7c849f3a/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/metaeuk/2021-03-26-ffdc2778-7c849f3a/
 recipe: https://datasets.datalad.org/shub/hexmek/container/metaeuk/2021-03-26-ffdc2778-7c849f3a/Singularity
 collection: hexmek/container
 ---

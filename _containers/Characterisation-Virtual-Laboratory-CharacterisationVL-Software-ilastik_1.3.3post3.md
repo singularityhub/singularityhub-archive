@@ -9,7 +9,7 @@ build_date: "2020-06-23T06:16:49.423Z"
 size_mb: 9074.0
 size: 3969306655
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/ilastik_1.3.3post3/2020-06-23-cd17de4a-f54d4909/f54d4909106ccf71db4d26601084ee30.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/ilastik_1.3.3post3/2020-06-23-cd17de4a-f54d4909/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/ilastik_1.3.3post3/2020-06-23-cd17de4a-f54d4909/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/ilastik_1.3.3post3/2020-06-23-cd17de4a-f54d4909/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

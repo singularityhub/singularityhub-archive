@@ -9,7 +9,7 @@ build_date: "2019-12-19T19:00:21.250Z"
 size_mb: 784.0
 size: 273268767
 sif: "https://datasets.datalad.org/shub/romxero/gitnsvn_singularity/latest/2019-12-19-1af90ed5-b498e798/b498e798af4dc0f4c541d006c63a9652.sif"
-url: https://datasets.datalad.org/shub/romxero/gitnsvn_singularity/latest/2019-12-19-1af90ed5-b498e798/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/gitnsvn_singularity/latest/2019-12-19-1af90ed5-b498e798/
 recipe: https://datasets.datalad.org/shub/romxero/gitnsvn_singularity/latest/2019-12-19-1af90ed5-b498e798/Singularity
 collection: romxero/gitnsvn_singularity
 ---

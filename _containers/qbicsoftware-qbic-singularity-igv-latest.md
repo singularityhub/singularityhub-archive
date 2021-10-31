@@ -9,7 +9,7 @@ build_date: "2019-08-20T00:30:51.474Z"
 size_mb: 200
 size: 108703775
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-igv/latest/2019-08-20-e8b0baf2-958c8c37/958c8c3762c53f8c4b9f27ce5246494c.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-igv/latest/2019-08-20-e8b0baf2-958c8c37/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-igv/latest/2019-08-20-e8b0baf2-958c8c37/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-igv/latest/2019-08-20-e8b0baf2-958c8c37/Singularity
 collection: qbicsoftware/qbic-singularity-igv
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-24T14:22:45.021Z"
 size_mb: 770.0
 size: 253345823
 sif: "https://datasets.datalad.org/shub/MathijsSanders/AdditionalBAMStatisticsSingularity/latest/2019-12-24-e556bb0e-c6922e25/c6922e253e99aa1f1968bb7ddc54dd1c.sif"
-url: https://datasets.datalad.org/shub/MathijsSanders/AdditionalBAMStatisticsSingularity/latest/2019-12-24-e556bb0e-c6922e25/
+datalad_url: https://datasets.datalad.org?dir=/shub/MathijsSanders/AdditionalBAMStatisticsSingularity/latest/2019-12-24-e556bb0e-c6922e25/
 recipe: https://datasets.datalad.org/shub/MathijsSanders/AdditionalBAMStatisticsSingularity/latest/2019-12-24-e556bb0e-c6922e25/Singularity
 collection: MathijsSanders/AdditionalBAMStatisticsSingularity
 ---

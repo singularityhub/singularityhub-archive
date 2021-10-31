@@ -9,7 +9,7 @@ build_date: "2019-11-01T21:33:25.505Z"
 size_mb: 8986.0
 size: 4566196255
 sif: "https://datasets.datalad.org/shub/cancan233/sc2/latest/2019-11-01-6f749d46-a0bb047a/a0bb047a0fdedbd2212d320753fd5c14.sif"
-url: https://datasets.datalad.org/shub/cancan233/sc2/latest/2019-11-01-6f749d46-a0bb047a/
+datalad_url: https://datasets.datalad.org?dir=/shub/cancan233/sc2/latest/2019-11-01-6f749d46-a0bb047a/
 recipe: https://datasets.datalad.org/shub/cancan233/sc2/latest/2019-11-01-6f749d46-a0bb047a/Singularity
 collection: cancan233/sc2
 ---

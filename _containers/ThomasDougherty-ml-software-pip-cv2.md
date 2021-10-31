@@ -9,7 +9,7 @@ build_date: "2019-07-03T23:18:01.339Z"
 size_mb: 8780
 size: 4188065823
 sif: "https://datasets.datalad.org/shub/ThomasDougherty/ml-software/pip-cv2/2019-07-03-5fabfe72-de0d1fb6/de0d1fb68e34617a19587879e337070b.simg"
-url: https://datasets.datalad.org/shub/ThomasDougherty/ml-software/pip-cv2/2019-07-03-5fabfe72-de0d1fb6/
+datalad_url: https://datasets.datalad.org?dir=/shub/ThomasDougherty/ml-software/pip-cv2/2019-07-03-5fabfe72-de0d1fb6/
 recipe: https://datasets.datalad.org/shub/ThomasDougherty/ml-software/pip-cv2/2019-07-03-5fabfe72-de0d1fb6/Singularity
 collection: ThomasDougherty/ml-software
 ---

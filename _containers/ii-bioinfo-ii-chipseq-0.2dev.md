@@ -9,7 +9,7 @@ build_date: "2019-01-07T17:57:02.774Z"
 size_mb: 5539
 size: 1923305503
 sif: "https://datasets.datalad.org/shub/ii-bioinfo/ii-chipseq/0.2dev/2019-01-07-bc858a5b-698513c8/698513c81929c67559fc50890d55de91.simg"
-url: https://datasets.datalad.org/shub/ii-bioinfo/ii-chipseq/0.2dev/2019-01-07-bc858a5b-698513c8/
+datalad_url: https://datasets.datalad.org?dir=/shub/ii-bioinfo/ii-chipseq/0.2dev/2019-01-07-bc858a5b-698513c8/
 recipe: https://datasets.datalad.org/shub/ii-bioinfo/ii-chipseq/0.2dev/2019-01-07-bc858a5b-698513c8/Singularity
 collection: ii-bioinfo/ii-chipseq
 ---

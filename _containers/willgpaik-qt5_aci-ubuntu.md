@@ -9,7 +9,7 @@ build_date: "2020-08-11T19:58:19.380Z"
 size_mb: 1461.0
 size: 735293471
 sif: "https://datasets.datalad.org/shub/willgpaik/qt5_aci/ubuntu/2020-08-11-e51ed841-370b53cb/370b53cb4ad042ae83a4a97549c69e36.sif"
-url: https://datasets.datalad.org/shub/willgpaik/qt5_aci/ubuntu/2020-08-11-e51ed841-370b53cb/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/qt5_aci/ubuntu/2020-08-11-e51ed841-370b53cb/
 recipe: https://datasets.datalad.org/shub/willgpaik/qt5_aci/ubuntu/2020-08-11-e51ed841-370b53cb/Singularity
 collection: willgpaik/qt5_aci
 ---

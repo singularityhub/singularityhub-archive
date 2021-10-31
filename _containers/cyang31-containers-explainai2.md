@@ -9,7 +9,7 @@ build_date: "2020-09-09T03:29:04.908Z"
 size_mb: 3850.0
 size: 1921851423
 sif: "https://datasets.datalad.org/shub/cyang31/containers/explainai2/2020-09-09-d80c7a57-05d67c08/05d67c08c5037a853cda7ac3dc5aaa84.sif"
-url: https://datasets.datalad.org/shub/cyang31/containers/explainai2/2020-09-09-d80c7a57-05d67c08/
+datalad_url: https://datasets.datalad.org?dir=/shub/cyang31/containers/explainai2/2020-09-09-d80c7a57-05d67c08/
 recipe: https://datasets.datalad.org/shub/cyang31/containers/explainai2/2020-09-09-d80c7a57-05d67c08/Singularity
 collection: cyang31/containers
 ---

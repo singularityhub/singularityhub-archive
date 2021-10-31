@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.172Z"
 size_mb: 438
 size: 166191135
 sif: "https://datasets.datalad.org/shub/colinsauze/vnc_singularity/latest/2019-04-04-9997e096-4d1c98c7/4d1c98c7804185c1874aedae82ad2c4a.simg"
-url: https://datasets.datalad.org/shub/colinsauze/vnc_singularity/latest/2019-04-04-9997e096-4d1c98c7/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinsauze/vnc_singularity/latest/2019-04-04-9997e096-4d1c98c7/
 recipe: https://datasets.datalad.org/shub/colinsauze/vnc_singularity/latest/2019-04-04-9997e096-4d1c98c7/Singularity
 collection: colinsauze/vnc_singularity
 ---

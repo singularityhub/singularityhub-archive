@@ -9,7 +9,7 @@ build_date: "2018-10-29T20:59:11.187Z"
 size_mb: 1370
 size: 517058591
 sif: "https://datasets.datalad.org/shub/dynverse/dynwrap_tester/python_hdf5/2018-10-29-b8ae412e-26a69d49/26a69d49b24296653453ead25a5f2aa0.simg"
-url: https://datasets.datalad.org/shub/dynverse/dynwrap_tester/python_hdf5/2018-10-29-b8ae412e-26a69d49/
+datalad_url: https://datasets.datalad.org?dir=/shub/dynverse/dynwrap_tester/python_hdf5/2018-10-29-b8ae412e-26a69d49/
 recipe: https://datasets.datalad.org/shub/dynverse/dynwrap_tester/python_hdf5/2018-10-29-b8ae412e-26a69d49/Singularity
 collection: dynverse/dynwrap_tester
 ---

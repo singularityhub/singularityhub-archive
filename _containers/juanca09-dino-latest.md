@@ -9,7 +9,7 @@ build_date: "2021-02-15T14:21:08.750Z"
 size_mb: 326.0
 size: 120414239
 sif: "https://datasets.datalad.org/shub/juanca09/dino/latest/2021-02-15-2fd00096-19668c26/19668c26877e4711d69025a51f4c074f.sif"
-url: https://datasets.datalad.org/shub/juanca09/dino/latest/2021-02-15-2fd00096-19668c26/
+datalad_url: https://datasets.datalad.org?dir=/shub/juanca09/dino/latest/2021-02-15-2fd00096-19668c26/
 recipe: https://datasets.datalad.org/shub/juanca09/dino/latest/2021-02-15-2fd00096-19668c26/Singularity
 collection: juanca09/dino
 ---

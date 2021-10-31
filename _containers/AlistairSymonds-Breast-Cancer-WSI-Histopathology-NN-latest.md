@@ -9,7 +9,7 @@ build_date: "2019-10-17T06:37:21.795Z"
 size_mb: 6561.0
 size: 3183738911
 sif: "https://datasets.datalad.org/shub/AlistairSymonds/Breast-Cancer-WSI-Histopathology-NN/latest/2019-10-17-3ab1354e-86abef07/86abef07927f39ac39920891d2a80bc0.sif"
-url: https://datasets.datalad.org/shub/AlistairSymonds/Breast-Cancer-WSI-Histopathology-NN/latest/2019-10-17-3ab1354e-86abef07/
+datalad_url: https://datasets.datalad.org?dir=/shub/AlistairSymonds/Breast-Cancer-WSI-Histopathology-NN/latest/2019-10-17-3ab1354e-86abef07/
 recipe: https://datasets.datalad.org/shub/AlistairSymonds/Breast-Cancer-WSI-Histopathology-NN/latest/2019-10-17-3ab1354e-86abef07/Singularity
 collection: AlistairSymonds/Breast-Cancer-WSI-Histopathology-NN
 ---

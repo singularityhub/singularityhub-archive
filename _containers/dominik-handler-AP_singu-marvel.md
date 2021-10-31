@@ -9,7 +9,7 @@ build_date: "2020-03-04T16:48:03.909Z"
 size_mb: 654.953125
 size: 686768128
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/marvel/2020-03-04-0e1e72c7-11b6d72f/11b6d72f61a758516290ca8d7c04071ceb9a4345c149e7577e39eedbd777bf93.sif"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/marvel/2020-03-04-0e1e72c7-11b6d72f/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/marvel/2020-03-04-0e1e72c7-11b6d72f/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/marvel/2020-03-04-0e1e72c7-11b6d72f/Singularity
 collection: dominik-handler/AP_singu
 ---

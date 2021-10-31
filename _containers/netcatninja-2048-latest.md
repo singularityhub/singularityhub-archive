@@ -9,7 +9,7 @@ build_date: "2019-04-26T11:40:34.649Z"
 size_mb: 313
 size: 115855391
 sif: "https://datasets.datalad.org/shub/netcatninja/2048/latest/2019-04-26-acca75d8-686b5cde/686b5cde80b002cd55317a522628547b.simg"
-url: https://datasets.datalad.org/shub/netcatninja/2048/latest/2019-04-26-acca75d8-686b5cde/
+datalad_url: https://datasets.datalad.org?dir=/shub/netcatninja/2048/latest/2019-04-26-acca75d8-686b5cde/
 recipe: https://datasets.datalad.org/shub/netcatninja/2048/latest/2019-04-26-acca75d8-686b5cde/Singularity
 collection: netcatninja/2048
 ---

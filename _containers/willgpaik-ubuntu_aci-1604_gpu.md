@@ -9,7 +9,7 @@ build_date: "2020-07-28T00:30:16.356Z"
 size_mb: 7051.0
 size: 3459235871
 sif: "https://datasets.datalad.org/shub/willgpaik/ubuntu_aci/1604_gpu/2020-07-28-53156a8e-b485a881/b485a881786d51e8425f7ac2fb7da249.sif"
-url: https://datasets.datalad.org/shub/willgpaik/ubuntu_aci/1604_gpu/2020-07-28-53156a8e-b485a881/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/ubuntu_aci/1604_gpu/2020-07-28-53156a8e-b485a881/
 recipe: https://datasets.datalad.org/shub/willgpaik/ubuntu_aci/1604_gpu/2020-07-28-53156a8e-b485a881/Singularity
 collection: willgpaik/ubuntu_aci
 ---

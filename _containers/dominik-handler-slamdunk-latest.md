@@ -9,7 +9,7 @@ build_date: "2018-02-19T14:56:31.796Z"
 size_mb: 1532
 size: 541261855
 sif: "https://datasets.datalad.org/shub/dominik-handler/slamdunk/latest/2018-02-19-a9f28bb6-703b4d19/703b4d19d5813b716c61a27e4e6ed16b.simg"
-url: https://datasets.datalad.org/shub/dominik-handler/slamdunk/latest/2018-02-19-a9f28bb6-703b4d19/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/slamdunk/latest/2018-02-19-a9f28bb6-703b4d19/
 recipe: https://datasets.datalad.org/shub/dominik-handler/slamdunk/latest/2018-02-19-a9f28bb6-703b4d19/Singularity
 collection: dominik-handler/slamdunk
 ---

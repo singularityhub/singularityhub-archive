@@ -9,7 +9,7 @@ build_date: "2019-09-13T14:49:38.217Z"
 size_mb: 8908
 size: 4820119583
 sif: "https://datasets.datalad.org/shub/ml4ai/UA-hpc-containers/numba/2019-09-13-00a7124e-68317975/68317975de219cec1742275123acfda8.simg"
-url: https://datasets.datalad.org/shub/ml4ai/UA-hpc-containers/numba/2019-09-13-00a7124e-68317975/
+datalad_url: https://datasets.datalad.org?dir=/shub/ml4ai/UA-hpc-containers/numba/2019-09-13-00a7124e-68317975/
 recipe: https://datasets.datalad.org/shub/ml4ai/UA-hpc-containers/numba/2019-09-13-00a7124e-68317975/Singularity
 collection: ml4ai/UA-hpc-containers
 ---

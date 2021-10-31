@@ -9,7 +9,7 @@ build_date: "2019-10-21T09:05:59.663Z"
 size_mb: 1705.0
 size: 557006879
 sif: "https://datasets.datalad.org/shub/codeaster/container/seq.default/2019-10-21-673b9617-ee82aa23/ee82aa23a19be41a20db11947427dbcf.sif"
-url: https://datasets.datalad.org/shub/codeaster/container/seq.default/2019-10-21-673b9617-ee82aa23/
+datalad_url: https://datasets.datalad.org?dir=/shub/codeaster/container/seq.default/2019-10-21-673b9617-ee82aa23/
 recipe: https://datasets.datalad.org/shub/codeaster/container/seq.default/2019-10-21-673b9617-ee82aa23/Singularity
 collection: codeaster/container
 ---

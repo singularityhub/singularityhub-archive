@@ -9,7 +9,7 @@ build_date: "2019-08-01T12:20:24.936Z"
 size_mb: 109.0
 size: 54583327
 sif: "https://datasets.datalad.org/shub/emrebesogul/SNV-Calling-Test/recipe/2019-08-01-5e7edf93-6ce74c6a/6ce74c6a361fbfef49d9c2ce69570617.sif"
-url: https://datasets.datalad.org/shub/emrebesogul/SNV-Calling-Test/recipe/2019-08-01-5e7edf93-6ce74c6a/
+datalad_url: https://datasets.datalad.org?dir=/shub/emrebesogul/SNV-Calling-Test/recipe/2019-08-01-5e7edf93-6ce74c6a/
 recipe: https://datasets.datalad.org/shub/emrebesogul/SNV-Calling-Test/recipe/2019-08-01-5e7edf93-6ce74c6a/Singularity
 collection: emrebesogul/SNV-Calling-Test
 ---

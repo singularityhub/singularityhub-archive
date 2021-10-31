@@ -9,7 +9,7 @@ build_date: "2021-04-01T16:14:24.681Z"
 size_mb: 4082.0
 size: 1527599135
 sif: "https://datasets.datalad.org/shub/willgpaik/grass_qgis_aci/latest/2021-04-01-3fdc8dc3-baa03f38/baa03f38b3a639d2924c2bf5351bd31d.sif"
-url: https://datasets.datalad.org/shub/willgpaik/grass_qgis_aci/latest/2021-04-01-3fdc8dc3-baa03f38/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/grass_qgis_aci/latest/2021-04-01-3fdc8dc3-baa03f38/
 recipe: https://datasets.datalad.org/shub/willgpaik/grass_qgis_aci/latest/2021-04-01-3fdc8dc3-baa03f38/Singularity
 collection: willgpaik/grass_qgis_aci
 ---

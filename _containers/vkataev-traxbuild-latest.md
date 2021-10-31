@@ -9,7 +9,7 @@ build_date: "2020-01-17T10:11:20.191Z"
 size_mb: 1660.0
 size: 701403167
 sif: "https://datasets.datalad.org/shub/vkataev/traxbuild/latest/2020-01-17-e26491f5-29142a09/29142a09303117bc0305a69e0025f94b.sif"
-url: https://datasets.datalad.org/shub/vkataev/traxbuild/latest/2020-01-17-e26491f5-29142a09/
+datalad_url: https://datasets.datalad.org?dir=/shub/vkataev/traxbuild/latest/2020-01-17-e26491f5-29142a09/
 recipe: https://datasets.datalad.org/shub/vkataev/traxbuild/latest/2020-01-17-e26491f5-29142a09/Singularity
 collection: vkataev/traxbuild
 ---

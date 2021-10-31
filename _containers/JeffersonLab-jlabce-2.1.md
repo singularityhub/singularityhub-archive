@@ -9,7 +9,7 @@ build_date: "2018-05-23T09:11:26.733Z"
 size_mb: 4436
 size: 1983975455
 sif: "https://datasets.datalad.org/shub/JeffersonLab/jlabce/2.1/2018-05-23-75dea035-b084a3a5/b084a3a571ad2db5a38ba294e50d9034.simg"
-url: https://datasets.datalad.org/shub/JeffersonLab/jlabce/2.1/2018-05-23-75dea035-b084a3a5/
+datalad_url: https://datasets.datalad.org?dir=/shub/JeffersonLab/jlabce/2.1/2018-05-23-75dea035-b084a3a5/
 recipe: https://datasets.datalad.org/shub/JeffersonLab/jlabce/2.1/2018-05-23-75dea035-b084a3a5/Singularity
 collection: JeffersonLab/jlabce
 ---

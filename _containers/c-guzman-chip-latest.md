@@ -9,7 +9,7 @@ build_date: "2020-11-11T02:28:56.533Z"
 size_mb: 3240
 size: 1072046111
 sif: "https://datasets.datalad.org/shub/c-guzman/chip/latest/2020-11-11-b3eb61aa-b4d8b928/b4d8b9283299f2da690b5c3afc94675e.simg"
-url: https://datasets.datalad.org/shub/c-guzman/chip/latest/2020-11-11-b3eb61aa-b4d8b928/
+datalad_url: https://datasets.datalad.org?dir=/shub/c-guzman/chip/latest/2020-11-11-b3eb61aa-b4d8b928/
 recipe: https://datasets.datalad.org/shub/c-guzman/chip/latest/2020-11-11-b3eb61aa-b4d8b928/Singularity
 collection: c-guzman/chip
 ---

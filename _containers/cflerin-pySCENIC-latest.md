@@ -9,7 +9,7 @@ build_date: "2019-09-24T16:13:27.461Z"
 size_mb: 1307
 size: 462880799
 sif: "https://datasets.datalad.org/shub/cflerin/pySCENIC/latest/2019-09-24-aa0da3ec-21ff54c8/21ff54c8f2ad170265793246b556c910.simg"
-url: https://datasets.datalad.org/shub/cflerin/pySCENIC/latest/2019-09-24-aa0da3ec-21ff54c8/
+datalad_url: https://datasets.datalad.org?dir=/shub/cflerin/pySCENIC/latest/2019-09-24-aa0da3ec-21ff54c8/
 recipe: https://datasets.datalad.org/shub/cflerin/pySCENIC/latest/2019-09-24-aa0da3ec-21ff54c8/Singularity
 collection: cflerin/pySCENIC
 ---

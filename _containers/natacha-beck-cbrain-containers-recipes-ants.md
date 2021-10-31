@@ -9,7 +9,7 @@ build_date: "2018-06-26T14:29:40.072Z"
 size_mb: 790
 size: 242905119
 sif: "https://datasets.datalad.org/shub/natacha-beck/cbrain-containers-recipes/ants/2018-06-26-8dd3a8d6-92365604/92365604e6b0e9895a96f68388d785e1.simg"
-url: https://datasets.datalad.org/shub/natacha-beck/cbrain-containers-recipes/ants/2018-06-26-8dd3a8d6-92365604/
+datalad_url: https://datasets.datalad.org?dir=/shub/natacha-beck/cbrain-containers-recipes/ants/2018-06-26-8dd3a8d6-92365604/
 recipe: https://datasets.datalad.org/shub/natacha-beck/cbrain-containers-recipes/ants/2018-06-26-8dd3a8d6-92365604/Singularity
 collection: natacha-beck/cbrain-containers-recipes
 ---

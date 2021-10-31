@@ -9,7 +9,7 @@ build_date: "2020-10-20T18:13:31.505Z"
 size_mb: 3206
 size: 1628782623
 sif: "https://datasets.datalad.org/shub/zhcf/caffe_singularity_images/caffe1.0_cuda80/2020-10-20-a38a1730-4b314c24/4b314c24b645455541e5bae92de9213a.simg"
-url: https://datasets.datalad.org/shub/zhcf/caffe_singularity_images/caffe1.0_cuda80/2020-10-20-a38a1730-4b314c24/
+datalad_url: https://datasets.datalad.org?dir=/shub/zhcf/caffe_singularity_images/caffe1.0_cuda80/2020-10-20-a38a1730-4b314c24/
 recipe: https://datasets.datalad.org/shub/zhcf/caffe_singularity_images/caffe1.0_cuda80/2020-10-20-a38a1730-4b314c24/Singularity
 collection: zhcf/caffe_singularity_images
 ---

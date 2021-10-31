@@ -9,7 +9,7 @@ build_date: "2018-08-21T21:25:53.529Z"
 size_mb: 4768
 size: 1887445023
 sif: "https://datasets.datalad.org/shub/jasongallant/singular_shockly/latest/2018-08-21-a390c0ab-efe572ec/efe572ec8019e1721d6c30729216c9d1.simg"
-url: https://datasets.datalad.org/shub/jasongallant/singular_shockly/latest/2018-08-21-a390c0ab-efe572ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/jasongallant/singular_shockly/latest/2018-08-21-a390c0ab-efe572ec/
 recipe: https://datasets.datalad.org/shub/jasongallant/singular_shockly/latest/2018-08-21-a390c0ab-efe572ec/Singularity
 collection: jasongallant/singular_shockly
 ---

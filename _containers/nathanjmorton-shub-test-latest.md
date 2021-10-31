@@ -9,7 +9,7 @@ build_date: "2020-05-21T04:43:01.850Z"
 size_mb: 96.0
 size: 37040159
 sif: "https://datasets.datalad.org/shub/nathanjmorton/shub-test/latest/2020-05-21-f2f875ad-6008386d/6008386da063cadec1f7944f3c896ffa.sif"
-url: https://datasets.datalad.org/shub/nathanjmorton/shub-test/latest/2020-05-21-f2f875ad-6008386d/
+datalad_url: https://datasets.datalad.org?dir=/shub/nathanjmorton/shub-test/latest/2020-05-21-f2f875ad-6008386d/
 recipe: https://datasets.datalad.org/shub/nathanjmorton/shub-test/latest/2020-05-21-f2f875ad-6008386d/Singularity
 collection: nathanjmorton/shub-test
 ---

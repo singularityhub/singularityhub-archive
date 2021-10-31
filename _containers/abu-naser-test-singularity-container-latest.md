@@ -9,7 +9,7 @@ build_date: "2018-10-18T17:22:06.242Z"
 size_mb: 1521
 size: 636293151
 sif: "https://datasets.datalad.org/shub/abu-naser/test-singularity-container/latest/2018-10-18-463c20d0-8dd5de71/8dd5de710f41b30a26ec44a7b8ae05c4.simg"
-url: https://datasets.datalad.org/shub/abu-naser/test-singularity-container/latest/2018-10-18-463c20d0-8dd5de71/
+datalad_url: https://datasets.datalad.org?dir=/shub/abu-naser/test-singularity-container/latest/2018-10-18-463c20d0-8dd5de71/
 recipe: https://datasets.datalad.org/shub/abu-naser/test-singularity-container/latest/2018-10-18-463c20d0-8dd5de71/Singularity
 collection: abu-naser/test-singularity-container
 ---

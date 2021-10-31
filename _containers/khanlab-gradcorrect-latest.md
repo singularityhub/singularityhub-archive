@@ -9,7 +9,7 @@ build_date: "2019-02-26T08:11:16.829Z"
 size_mb: 6153
 size: 2247979039
 sif: "https://datasets.datalad.org/shub/khanlab/gradcorrect/latest/2019-02-26-46767888-d4ad269a/d4ad269a2bac38cd3fb7dbe9c08f929a.simg"
-url: https://datasets.datalad.org/shub/khanlab/gradcorrect/latest/2019-02-26-46767888-d4ad269a/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/gradcorrect/latest/2019-02-26-46767888-d4ad269a/
 recipe: https://datasets.datalad.org/shub/khanlab/gradcorrect/latest/2019-02-26-46767888-d4ad269a/Singularity
 collection: khanlab/gradcorrect
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-02T15:49:02.565Z"
 size_mb: 2758
 size: 1116508191
 sif: "https://datasets.datalad.org/shub/andquintero/singularity_builds/latest/2019-04-02-4a38115e-cb605a13/cb605a13608cd16e2055c3fba48a02f6.simg"
-url: https://datasets.datalad.org/shub/andquintero/singularity_builds/latest/2019-04-02-4a38115e-cb605a13/
+datalad_url: https://datasets.datalad.org?dir=/shub/andquintero/singularity_builds/latest/2019-04-02-4a38115e-cb605a13/
 recipe: https://datasets.datalad.org/shub/andquintero/singularity_builds/latest/2019-04-02-4a38115e-cb605a13/Singularity
 collection: andquintero/singularity_builds
 ---

@@ -9,7 +9,7 @@ build_date: "2019-05-07T14:45:54.344Z"
 size_mb: 2394
 size: 1007673375
 sif: "https://datasets.datalad.org/shub/enlznep/singularity-recipes/caffe-opa/2019-05-07-9ea47180-89719fd6/89719fd68b467791c96412e10d16ac99.simg"
-url: https://datasets.datalad.org/shub/enlznep/singularity-recipes/caffe-opa/2019-05-07-9ea47180-89719fd6/
+datalad_url: https://datasets.datalad.org?dir=/shub/enlznep/singularity-recipes/caffe-opa/2019-05-07-9ea47180-89719fd6/
 recipe: https://datasets.datalad.org/shub/enlznep/singularity-recipes/caffe-opa/2019-05-07-9ea47180-89719fd6/Singularity
 collection: enlznep/singularity-recipes
 ---

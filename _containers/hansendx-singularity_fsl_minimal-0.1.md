@@ -9,7 +9,7 @@ build_date: "2020-01-08T19:37:27.184Z"
 size_mb: 3393
 size: 2921504799
 sif: "https://datasets.datalad.org/shub/hansendx/singularity_fsl_minimal/0.1/2020-01-08-8146a3a9-2b28b320/2b28b320aea3eb46b5a200c2792e1a12.simg"
-url: https://datasets.datalad.org/shub/hansendx/singularity_fsl_minimal/0.1/2020-01-08-8146a3a9-2b28b320/
+datalad_url: https://datasets.datalad.org?dir=/shub/hansendx/singularity_fsl_minimal/0.1/2020-01-08-8146a3a9-2b28b320/
 recipe: https://datasets.datalad.org/shub/hansendx/singularity_fsl_minimal/0.1/2020-01-08-8146a3a9-2b28b320/Singularity
 collection: hansendx/singularity_fsl_minimal
 ---

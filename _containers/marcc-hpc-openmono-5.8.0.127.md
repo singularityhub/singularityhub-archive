@@ -9,7 +9,7 @@ build_date: "2018-03-19T17:39:30.918Z"
 size_mb: 572
 size: 144543775
 sif: "https://datasets.datalad.org/shub/marcc-hpc/openmono/5.8.0.127/2018-03-19-39059168-b0e1de7b/b0e1de7bd58c7684bf57afc89676f682.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/openmono/5.8.0.127/2018-03-19-39059168-b0e1de7b/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/openmono/5.8.0.127/2018-03-19-39059168-b0e1de7b/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/openmono/5.8.0.127/2018-03-19-39059168-b0e1de7b/Singularity
 collection: marcc-hpc/openmono
 ---

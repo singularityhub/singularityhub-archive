@@ -9,7 +9,7 @@ build_date: "2019-09-23T15:39:14.984Z"
 size_mb: 3348.0
 size: 1059033119
 sif: "https://datasets.datalad.org/shub/kirsho/yaahl/latest/2019-09-23-cbb1a264-73c4b8c1/73c4b8c16777a2f4524598b9e1cfc501.sif"
-url: https://datasets.datalad.org/shub/kirsho/yaahl/latest/2019-09-23-cbb1a264-73c4b8c1/
+datalad_url: https://datasets.datalad.org?dir=/shub/kirsho/yaahl/latest/2019-09-23-cbb1a264-73c4b8c1/
 recipe: https://datasets.datalad.org/shub/kirsho/yaahl/latest/2019-09-23-cbb1a264-73c4b8c1/Singularity
 collection: kirsho/yaahl
 ---

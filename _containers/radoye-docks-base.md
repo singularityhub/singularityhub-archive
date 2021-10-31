@@ -9,7 +9,7 @@ build_date: "2019-05-16T02:35:09.602Z"
 size_mb: 3640
 size: 2098573343
 sif: "https://datasets.datalad.org/shub/radoye/docks/base/2019-05-16-e12bd32c-e78bc227/e78bc227e23c065f9819e494ca907398.simg"
-url: https://datasets.datalad.org/shub/radoye/docks/base/2019-05-16-e12bd32c-e78bc227/
+datalad_url: https://datasets.datalad.org?dir=/shub/radoye/docks/base/2019-05-16-e12bd32c-e78bc227/
 recipe: https://datasets.datalad.org/shub/radoye/docks/base/2019-05-16-e12bd32c-e78bc227/Singularity
 collection: radoye/docks
 ---

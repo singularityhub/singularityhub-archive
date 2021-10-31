@@ -9,7 +9,7 @@ build_date: "2020-06-17T13:18:04.974Z"
 size_mb: 300.0
 size: 118657055
 sif: "https://datasets.datalad.org/shub/bioexcel/obabel_singularity/latest/2020-06-17-679c4dca-f37d8d10/f37d8d10b8e484af9a41445bb33397ad.sif"
-url: https://datasets.datalad.org/shub/bioexcel/obabel_singularity/latest/2020-06-17-679c4dca-f37d8d10/
+datalad_url: https://datasets.datalad.org?dir=/shub/bioexcel/obabel_singularity/latest/2020-06-17-679c4dca-f37d8d10/
 recipe: https://datasets.datalad.org/shub/bioexcel/obabel_singularity/latest/2020-06-17-679c4dca-f37d8d10/Singularity
 collection: bioexcel/obabel_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-08T15:59:39.933Z"
 size_mb: 493.0
 size: 199893023
 sif: "https://datasets.datalad.org/shub/colinmcnally/singularityrecipies/centos7_rebound/2019-11-08-589b1a33-78d47c6e/78d47c6e6f464390d111fdc0bf1520fb.sif"
-url: https://datasets.datalad.org/shub/colinmcnally/singularityrecipies/centos7_rebound/2019-11-08-589b1a33-78d47c6e/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinmcnally/singularityrecipies/centos7_rebound/2019-11-08-589b1a33-78d47c6e/
 recipe: https://datasets.datalad.org/shub/colinmcnally/singularityrecipies/centos7_rebound/2019-11-08-589b1a33-78d47c6e/Singularity
 collection: colinmcnally/singularityrecipies
 ---

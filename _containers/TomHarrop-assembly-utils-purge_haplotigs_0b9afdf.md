@@ -9,7 +9,7 @@ build_date: "2020-06-17T07:27:02.051Z"
 size_mb: 284.3125
 size: 298123264
 sif: "https://datasets.datalad.org/shub/TomHarrop/assembly-utils/purge_haplotigs_0b9afdf/2020-06-17-ad516825-232155e0/232155e0d28b07cc3db7d5dc18fd9644b060dcb36902c549918f47c87ddb46e5.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/purge_haplotigs_0b9afdf/2020-06-17-ad516825-232155e0/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assembly-utils/purge_haplotigs_0b9afdf/2020-06-17-ad516825-232155e0/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/purge_haplotigs_0b9afdf/2020-06-17-ad516825-232155e0/Singularity
 collection: TomHarrop/assembly-utils
 ---

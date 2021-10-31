@@ -9,7 +9,7 @@ build_date: "2019-07-30T19:55:43.110Z"
 size_mb: 1086.0
 size: 459067423
 sif: "https://datasets.datalad.org/shub/bsmind/ChimbukoHubs/ubuntu/2019-07-30-7e8ddd80-37aa474a/37aa474a49e78c3ab05cf415c3d605f2.sif"
-url: https://datasets.datalad.org/shub/bsmind/ChimbukoHubs/ubuntu/2019-07-30-7e8ddd80-37aa474a/
+datalad_url: https://datasets.datalad.org?dir=/shub/bsmind/ChimbukoHubs/ubuntu/2019-07-30-7e8ddd80-37aa474a/
 recipe: https://datasets.datalad.org/shub/bsmind/ChimbukoHubs/ubuntu/2019-07-30-7e8ddd80-37aa474a/Singularity
 collection: bsmind/ChimbukoHubs
 ---

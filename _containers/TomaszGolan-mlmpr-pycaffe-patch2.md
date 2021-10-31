@@ -9,7 +9,7 @@ build_date: "2017-11-20T13:56:11.972Z"
 size_mb: 2723
 size: 1138798623
 sif: "https://datasets.datalad.org/shub/TomaszGolan/mlmpr/pycaffe-patch2/2017-11-20-4b8f5e06-5d5d9680/5d5d968075e94e373eba2b5532d807c7.simg"
-url: https://datasets.datalad.org/shub/TomaszGolan/mlmpr/pycaffe-patch2/2017-11-20-4b8f5e06-5d5d9680/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomaszGolan/mlmpr/pycaffe-patch2/2017-11-20-4b8f5e06-5d5d9680/
 recipe: https://datasets.datalad.org/shub/TomaszGolan/mlmpr/pycaffe-patch2/2017-11-20-4b8f5e06-5d5d9680/Singularity
 collection: TomaszGolan/mlmpr
 ---

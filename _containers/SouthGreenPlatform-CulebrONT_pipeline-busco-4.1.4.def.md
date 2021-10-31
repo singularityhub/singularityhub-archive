@@ -9,7 +9,7 @@ build_date: "2021-01-27T10:04:24.421Z"
 size_mb: 2843.0
 size: 821719071
 sif: "https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/busco-4.1.4.def/2021-01-27-8f3f2762-709fddf1/709fddf13c9e7913c9d23d4e129f5fbc.sif"
-url: https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/busco-4.1.4.def/2021-01-27-8f3f2762-709fddf1/
+datalad_url: https://datasets.datalad.org?dir=/shub/SouthGreenPlatform/CulebrONT_pipeline/busco-4.1.4.def/2021-01-27-8f3f2762-709fddf1/
 recipe: https://datasets.datalad.org/shub/SouthGreenPlatform/CulebrONT_pipeline/busco-4.1.4.def/2021-01-27-8f3f2762-709fddf1/Singularity
 collection: SouthGreenPlatform/CulebrONT_pipeline
 ---

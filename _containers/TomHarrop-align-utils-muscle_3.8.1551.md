@@ -9,7 +9,7 @@ build_date: "2020-02-19T02:07:09.149Z"
 size_mb: 115.5234375
 size: 121135104
 sif: "https://datasets.datalad.org/shub/TomHarrop/align-utils/muscle_3.8.1551/2020-02-19-176c70e0-7c29d097/7c29d097f9db75aba6f929425352ddbb7f27c4dd166cc29a62a8b58538cd00aa.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/align-utils/muscle_3.8.1551/2020-02-19-176c70e0-7c29d097/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/align-utils/muscle_3.8.1551/2020-02-19-176c70e0-7c29d097/
 recipe: https://datasets.datalad.org/shub/TomHarrop/align-utils/muscle_3.8.1551/2020-02-19-176c70e0-7c29d097/Singularity
 collection: TomHarrop/align-utils
 ---

@@ -9,7 +9,7 @@ build_date: "2019-05-15T10:11:43.789Z"
 size_mb: 3054
 size: 1088614431
 sif: "https://datasets.datalad.org/shub/joe-from-mtl/oxford_emitos/latest/2019-05-15-faac181d-3cdb05c0/3cdb05c0791ef23d7212bded38beaf94.simg"
-url: https://datasets.datalad.org/shub/joe-from-mtl/oxford_emitos/latest/2019-05-15-faac181d-3cdb05c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/joe-from-mtl/oxford_emitos/latest/2019-05-15-faac181d-3cdb05c0/
 recipe: https://datasets.datalad.org/shub/joe-from-mtl/oxford_emitos/latest/2019-05-15-faac181d-3cdb05c0/Singularity
 collection: joe-from-mtl/oxford_emitos
 ---

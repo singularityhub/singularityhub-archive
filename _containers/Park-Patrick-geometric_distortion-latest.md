@@ -9,7 +9,7 @@ build_date: "2017-12-07T15:25:40.582Z"
 size_mb: 8372
 size: 3120255007
 sif: "https://datasets.datalad.org/shub/Park-Patrick/geometric_distortion/latest/2017-12-07-392126e9-b158ded8/b158ded89a9e7623ad52b6eff9e9d3b8.simg"
-url: https://datasets.datalad.org/shub/Park-Patrick/geometric_distortion/latest/2017-12-07-392126e9-b158ded8/
+datalad_url: https://datasets.datalad.org?dir=/shub/Park-Patrick/geometric_distortion/latest/2017-12-07-392126e9-b158ded8/
 recipe: https://datasets.datalad.org/shub/Park-Patrick/geometric_distortion/latest/2017-12-07-392126e9-b158ded8/Singularity
 collection: Park-Patrick/geometric_distortion
 ---

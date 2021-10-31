@@ -9,7 +9,7 @@ build_date: "2019-01-08T21:54:23.854Z"
 size_mb: 7666
 size: 3386929183
 sif: "https://datasets.datalad.org/shub/jianhong/ATACseqPipe/latest/2019-01-08-b6e14fc1-33908bc9/33908bc91c168758d2291142cb8f237d.simg"
-url: https://datasets.datalad.org/shub/jianhong/ATACseqPipe/latest/2019-01-08-b6e14fc1-33908bc9/
+datalad_url: https://datasets.datalad.org?dir=/shub/jianhong/ATACseqPipe/latest/2019-01-08-b6e14fc1-33908bc9/
 recipe: https://datasets.datalad.org/shub/jianhong/ATACseqPipe/latest/2019-01-08-b6e14fc1-33908bc9/Singularity
 collection: jianhong/ATACseqPipe
 ---

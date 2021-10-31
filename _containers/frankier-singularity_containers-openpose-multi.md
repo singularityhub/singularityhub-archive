@@ -9,7 +9,7 @@ build_date: "2020-06-01T13:26:51.397Z"
 size_mb: 8276.0
 size: 3340206111
 sif: "https://datasets.datalad.org/shub/frankier/singularity_containers/openpose-multi/2020-06-01-eeae1dc1-dc68d959/dc68d95949116f38dc9ec1ea8679441b.sif"
-url: https://datasets.datalad.org/shub/frankier/singularity_containers/openpose-multi/2020-06-01-eeae1dc1-dc68d959/
+datalad_url: https://datasets.datalad.org?dir=/shub/frankier/singularity_containers/openpose-multi/2020-06-01-eeae1dc1-dc68d959/
 recipe: https://datasets.datalad.org/shub/frankier/singularity_containers/openpose-multi/2020-06-01-eeae1dc1-dc68d959/Singularity
 collection: frankier/singularity_containers
 ---

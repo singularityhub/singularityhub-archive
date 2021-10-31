@@ -9,7 +9,7 @@ build_date: "2021-04-07T17:03:46.180Z"
 size_mb: 795.0
 size: 236478495
 sif: "https://datasets.datalad.org/shub/rstreatercu/C-GLASS/latest/2021-04-07-89dd8b3c-4cd2633c/4cd2633c47d00f3686104be151c060f5.sif"
-url: https://datasets.datalad.org/shub/rstreatercu/C-GLASS/latest/2021-04-07-89dd8b3c-4cd2633c/
+datalad_url: https://datasets.datalad.org?dir=/shub/rstreatercu/C-GLASS/latest/2021-04-07-89dd8b3c-4cd2633c/
 recipe: https://datasets.datalad.org/shub/rstreatercu/C-GLASS/latest/2021-04-07-89dd8b3c-4cd2633c/Singularity
 collection: rstreatercu/C-GLASS
 ---

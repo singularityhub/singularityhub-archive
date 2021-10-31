@@ -9,7 +9,7 @@ build_date: "2021-01-13T15:20:20.843Z"
 size_mb: 1552.0
 size: 463036447
 sif: "https://datasets.datalad.org/shub/swarder/NEMO-AMM7-recipe/latest/2021-01-13-03509907-12b800a5/12b800a5c7640310f6f469db3600ea80.sif"
-url: https://datasets.datalad.org/shub/swarder/NEMO-AMM7-recipe/latest/2021-01-13-03509907-12b800a5/
+datalad_url: https://datasets.datalad.org?dir=/shub/swarder/NEMO-AMM7-recipe/latest/2021-01-13-03509907-12b800a5/
 recipe: https://datasets.datalad.org/shub/swarder/NEMO-AMM7-recipe/latest/2021-01-13-03509907-12b800a5/Singularity
 collection: swarder/NEMO-AMM7-recipe
 ---

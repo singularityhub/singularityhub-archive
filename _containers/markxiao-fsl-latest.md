@@ -9,7 +9,7 @@ build_date: "2020-06-18T16:32:32.559Z"
 size_mb: 5764
 size: 2516492319
 sif: "https://datasets.datalad.org/shub/markxiao/fsl/latest/2020-06-18-68d4507c-eb811b73/eb811b73cbccd3254b9a4d186e23da2d.simg"
-url: https://datasets.datalad.org/shub/markxiao/fsl/latest/2020-06-18-68d4507c-eb811b73/
+datalad_url: https://datasets.datalad.org?dir=/shub/markxiao/fsl/latest/2020-06-18-68d4507c-eb811b73/
 recipe: https://datasets.datalad.org/shub/markxiao/fsl/latest/2020-06-18-68d4507c-eb811b73/Singularity
 collection: markxiao/fsl
 ---

@@ -9,7 +9,7 @@ build_date: "2018-01-19T13:02:44.302Z"
 size_mb: None
 size: 745492511
 sif: "https://datasets.datalad.org/shub/bilke/singularity-recipes/centos7.gcc.minimal/2018-01-19-896be030-f24a625e/f24a625e0f58d54cb2ef12e6f818cb5f.simg"
-url: https://datasets.datalad.org/shub/bilke/singularity-recipes/centos7.gcc.minimal/2018-01-19-896be030-f24a625e/
+datalad_url: https://datasets.datalad.org?dir=/shub/bilke/singularity-recipes/centos7.gcc.minimal/2018-01-19-896be030-f24a625e/
 recipe: https://datasets.datalad.org/shub/bilke/singularity-recipes/centos7.gcc.minimal/2018-01-19-896be030-f24a625e/Singularity
 collection: bilke/singularity-recipes
 ---

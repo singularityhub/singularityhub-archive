@@ -9,7 +9,7 @@ build_date: "2017-11-30T18:44:51.672Z"
 size_mb: 328
 size: 106074143
 sif: "https://datasets.datalad.org/shub/trcook/jekyll_builder/latest/2017-11-30-fdb3f53c-0f2ff0d4/0f2ff0d46e09f4e34198b99c67b1daef.simg"
-url: https://datasets.datalad.org/shub/trcook/jekyll_builder/latest/2017-11-30-fdb3f53c-0f2ff0d4/
+datalad_url: https://datasets.datalad.org?dir=/shub/trcook/jekyll_builder/latest/2017-11-30-fdb3f53c-0f2ff0d4/
 recipe: https://datasets.datalad.org/shub/trcook/jekyll_builder/latest/2017-11-30-fdb3f53c-0f2ff0d4/Singularity
 collection: trcook/jekyll_builder
 ---

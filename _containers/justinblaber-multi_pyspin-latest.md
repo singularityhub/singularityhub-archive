@@ -9,7 +9,7 @@ build_date: "2020-11-13T18:43:45.101Z"
 size_mb: 1213
 size: 642904095
 sif: "https://datasets.datalad.org/shub/justinblaber/multi_pyspin/latest/2020-11-13-b73aaa7c-80af430f/80af430f574aca124fb9a7470f8e66db.simg"
-url: https://datasets.datalad.org/shub/justinblaber/multi_pyspin/latest/2020-11-13-b73aaa7c-80af430f/
+datalad_url: https://datasets.datalad.org?dir=/shub/justinblaber/multi_pyspin/latest/2020-11-13-b73aaa7c-80af430f/
 recipe: https://datasets.datalad.org/shub/justinblaber/multi_pyspin/latest/2020-11-13-b73aaa7c-80af430f/Singularity
 collection: justinblaber/multi_pyspin
 ---

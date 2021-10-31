@@ -9,7 +9,7 @@ build_date: "2020-09-16T23:54:02.552Z"
 size_mb: 4692
 size: 1922924575
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/crisprcas/2020-09-16-a4a84554-1747ee59/1747ee596ed819d2cc99376911a2c189.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/crisprcas/2020-09-16-a4a84554-1747ee59/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/crisprcas/2020-09-16-a4a84554-1747ee59/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/crisprcas/2020-09-16-a4a84554-1747ee59/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

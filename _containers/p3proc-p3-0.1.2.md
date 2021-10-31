@@ -9,7 +9,7 @@ build_date: "2018-08-21T00:22:00.889Z"
 size_mb: 16445
 size: 7155601439
 sif: "https://datasets.datalad.org/shub/p3proc/p3/0.1.2/2018-08-21-b6c93558-31c524a0/31c524a0a0f74a56ee6185750f1958e9.simg"
-url: https://datasets.datalad.org/shub/p3proc/p3/0.1.2/2018-08-21-b6c93558-31c524a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/p3proc/p3/0.1.2/2018-08-21-b6c93558-31c524a0/
 recipe: https://datasets.datalad.org/shub/p3proc/p3/0.1.2/2018-08-21-b6c93558-31c524a0/Singularity
 collection: p3proc/p3
 ---

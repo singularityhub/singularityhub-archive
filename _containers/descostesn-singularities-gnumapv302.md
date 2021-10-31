@@ -9,7 +9,7 @@ build_date: "2020-11-24T09:00:09.074Z"
 size_mb: 545.0
 size: 211836959
 sif: "https://datasets.datalad.org/shub/descostesn/singularities/gnumapv302/2020-11-24-3844b46f-6e20fcbc/6e20fcbce43fe0a1d9bc90aa20a4e948.sif"
-url: https://datasets.datalad.org/shub/descostesn/singularities/gnumapv302/2020-11-24-3844b46f-6e20fcbc/
+datalad_url: https://datasets.datalad.org?dir=/shub/descostesn/singularities/gnumapv302/2020-11-24-3844b46f-6e20fcbc/
 recipe: https://datasets.datalad.org/shub/descostesn/singularities/gnumapv302/2020-11-24-3844b46f-6e20fcbc/Singularity
 collection: descostesn/singularities
 ---

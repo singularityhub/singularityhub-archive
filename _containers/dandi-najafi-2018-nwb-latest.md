@@ -9,7 +9,7 @@ build_date: "2019-08-13T22:27:28.216Z"
 size_mb: 2367.0
 size: 737775647
 sif: "https://datasets.datalad.org/shub/dandi/najafi-2018-nwb/latest/2019-08-13-50095382-a37f0c27/a37f0c27ba0ac79d577cb71cb705659b.sif"
-url: https://datasets.datalad.org/shub/dandi/najafi-2018-nwb/latest/2019-08-13-50095382-a37f0c27/
+datalad_url: https://datasets.datalad.org?dir=/shub/dandi/najafi-2018-nwb/latest/2019-08-13-50095382-a37f0c27/
 recipe: https://datasets.datalad.org/shub/dandi/najafi-2018-nwb/latest/2019-08-13-50095382-a37f0c27/Singularity
 collection: dandi/najafi-2018-nwb
 ---

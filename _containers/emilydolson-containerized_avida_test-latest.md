@@ -9,7 +9,7 @@ build_date: "2017-10-20T18:53:21.602Z"
 size_mb: 298
 size: 77889567
 sif: "https://datasets.datalad.org/shub/emilydolson/containerized_avida_test/latest/2017-10-20-d8f1f509-9b73fcae/9b73fcae3e9b2ad1331e205d0fa66ddf.simg"
-url: https://datasets.datalad.org/shub/emilydolson/containerized_avida_test/latest/2017-10-20-d8f1f509-9b73fcae/
+datalad_url: https://datasets.datalad.org?dir=/shub/emilydolson/containerized_avida_test/latest/2017-10-20-d8f1f509-9b73fcae/
 recipe: https://datasets.datalad.org/shub/emilydolson/containerized_avida_test/latest/2017-10-20-d8f1f509-9b73fcae/Singularity
 collection: emilydolson/containerized_avida_test
 ---

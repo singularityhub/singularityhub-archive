@@ -9,7 +9,7 @@ build_date: "2020-09-25T03:44:34.135Z"
 size_mb: 3760.0
 size: 1840500767
 sif: "https://datasets.datalad.org/shub/alex-chunhui-yang/container/spektral/2020-09-25-44b7073d-da2d851a/da2d851a0483092088d226fa11f82a63.sif"
-url: https://datasets.datalad.org/shub/alex-chunhui-yang/container/spektral/2020-09-25-44b7073d-da2d851a/
+datalad_url: https://datasets.datalad.org?dir=/shub/alex-chunhui-yang/container/spektral/2020-09-25-44b7073d-da2d851a/
 recipe: https://datasets.datalad.org/shub/alex-chunhui-yang/container/spektral/2020-09-25-44b7073d-da2d851a/Singularity
 collection: alex-chunhui-yang/container
 ---

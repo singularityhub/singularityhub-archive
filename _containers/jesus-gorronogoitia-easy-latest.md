@@ -9,7 +9,7 @@ build_date: "2021-03-17T09:28:42.368Z"
 size_mb: 6089.0
 size: 3205144607
 sif: "https://datasets.datalad.org/shub/jesus-gorronogoitia/easy/latest/2021-03-17-590a6330-b91eb44c/b91eb44caf9f6007fe3f3291be6d0084.sif"
-url: https://datasets.datalad.org/shub/jesus-gorronogoitia/easy/latest/2021-03-17-590a6330-b91eb44c/
+datalad_url: https://datasets.datalad.org?dir=/shub/jesus-gorronogoitia/easy/latest/2021-03-17-590a6330-b91eb44c/
 recipe: https://datasets.datalad.org/shub/jesus-gorronogoitia/easy/latest/2021-03-17-590a6330-b91eb44c/Singularity
 collection: jesus-gorronogoitia/easy
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-07T20:59:08.732Z"
 size_mb: 6316.0
 size: 3043754015
 sif: "https://datasets.datalad.org/shub/willgpaik/centos7_aci/gpu/2020-12-07-c9d45fa6-229d7c85/229d7c8587ce470cfaf9be1c9cc844fc.sif"
-url: https://datasets.datalad.org/shub/willgpaik/centos7_aci/gpu/2020-12-07-c9d45fa6-229d7c85/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/centos7_aci/gpu/2020-12-07-c9d45fa6-229d7c85/
 recipe: https://datasets.datalad.org/shub/willgpaik/centos7_aci/gpu/2020-12-07-c9d45fa6-229d7c85/Singularity
 collection: willgpaik/centos7_aci
 ---

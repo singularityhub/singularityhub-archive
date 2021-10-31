@@ -9,7 +9,7 @@ build_date: "2019-08-23T03:41:37.417Z"
 size_mb: 1080.0
 size: 444424223
 sif: "https://datasets.datalad.org/shub/Poulami-Sarkar/Bengali-Hindi-OCR/benocr/2019-08-23-47371e99-02466556/0246655607947c1fcd0ecac93c2e93fd.sif"
-url: https://datasets.datalad.org/shub/Poulami-Sarkar/Bengali-Hindi-OCR/benocr/2019-08-23-47371e99-02466556/
+datalad_url: https://datasets.datalad.org?dir=/shub/Poulami-Sarkar/Bengali-Hindi-OCR/benocr/2019-08-23-47371e99-02466556/
 recipe: https://datasets.datalad.org/shub/Poulami-Sarkar/Bengali-Hindi-OCR/benocr/2019-08-23-47371e99-02466556/Singularity
 collection: Poulami-Sarkar/Bengali-Hindi-OCR
 ---

@@ -9,7 +9,7 @@ build_date: "2018-03-26T10:14:22.756Z"
 size_mb: 1256
 size: 388702239
 sif: "https://datasets.datalad.org/shub/alexiswl/singularity/nanopolish/2018-03-26-4ba35691-94cda17d/94cda17ddae8825c49e3c44c095cde02.simg"
-url: https://datasets.datalad.org/shub/alexiswl/singularity/nanopolish/2018-03-26-4ba35691-94cda17d/
+datalad_url: https://datasets.datalad.org?dir=/shub/alexiswl/singularity/nanopolish/2018-03-26-4ba35691-94cda17d/
 recipe: https://datasets.datalad.org/shub/alexiswl/singularity/nanopolish/2018-03-26-4ba35691-94cda17d/Singularity
 collection: alexiswl/singularity
 ---

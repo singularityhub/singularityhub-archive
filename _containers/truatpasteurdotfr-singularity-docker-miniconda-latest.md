@@ -9,7 +9,7 @@ build_date: "2020-11-02T09:22:37.026Z"
 size_mb: 780
 size: 258142239
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-miniconda/latest/2020-11-02-9d77da10-c0654c97/c0654c97effc57b6f99409d2b10ff67a.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-miniconda/latest/2020-11-02-9d77da10-c0654c97/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-docker-miniconda/latest/2020-11-02-9d77da10-c0654c97/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-miniconda/latest/2020-11-02-9d77da10-c0654c97/Singularity
 collection: truatpasteurdotfr/singularity-docker-miniconda
 ---

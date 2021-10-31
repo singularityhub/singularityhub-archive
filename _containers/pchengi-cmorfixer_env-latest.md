@@ -9,7 +9,7 @@ build_date: "2021-01-21T18:18:31.626Z"
 size_mb: 1991.0
 size: 845430815
 sif: "https://datasets.datalad.org/shub/pchengi/cmorfixer_env/latest/2021-01-21-65a35041-ae4eab89/ae4eab894817a871bae324bfd2898512.sif"
-url: https://datasets.datalad.org/shub/pchengi/cmorfixer_env/latest/2021-01-21-65a35041-ae4eab89/
+datalad_url: https://datasets.datalad.org?dir=/shub/pchengi/cmorfixer_env/latest/2021-01-21-65a35041-ae4eab89/
 recipe: https://datasets.datalad.org/shub/pchengi/cmorfixer_env/latest/2021-01-21-65a35041-ae4eab89/Singularity
 collection: pchengi/cmorfixer_env
 ---

@@ -9,7 +9,7 @@ build_date: "2018-12-03T12:59:07.859Z"
 size_mb: 3967
 size: 1949691935
 sif: "https://datasets.datalad.org/shub/HugoMananet/GATK/gatk.4.0.11.0.def/2018-12-03-51692051-e287b399/e287b399f189c0b579c1b798d3813b46.simg"
-url: https://datasets.datalad.org/shub/HugoMananet/GATK/gatk.4.0.11.0.def/2018-12-03-51692051-e287b399/
+datalad_url: https://datasets.datalad.org?dir=/shub/HugoMananet/GATK/gatk.4.0.11.0.def/2018-12-03-51692051-e287b399/
 recipe: https://datasets.datalad.org/shub/HugoMananet/GATK/gatk.4.0.11.0.def/2018-12-03-51692051-e287b399/Singularity
 collection: HugoMananet/GATK
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-27T18:17:40.490Z"
 size_mb: 944.0
 size: 328527903
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/minimap2-2.17/2020-10-27-c7831227-bceeb1c0/bceeb1c000ec4f5adfd99651dfaa4a5b.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/minimap2-2.17/2020-10-27-c7831227-bceeb1c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/minimap2-2.17/2020-10-27-c7831227-bceeb1c0/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/minimap2-2.17/2020-10-27-c7831227-bceeb1c0/Singularity
 collection: annacprice/containerCI-test
 ---

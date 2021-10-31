@@ -9,7 +9,7 @@ build_date: "2018-07-11T01:44:08.325Z"
 size_mb: 5194
 size: 2297610271
 sif: "https://datasets.datalad.org/shub/bud42/TRACULA/v2.0.0/2018-07-11-d017be8c-bf437b65/bf437b65727694061f42fd0b9018b495.simg"
-url: https://datasets.datalad.org/shub/bud42/TRACULA/v2.0.0/2018-07-11-d017be8c-bf437b65/
+datalad_url: https://datasets.datalad.org?dir=/shub/bud42/TRACULA/v2.0.0/2018-07-11-d017be8c-bf437b65/
 recipe: https://datasets.datalad.org/shub/bud42/TRACULA/v2.0.0/2018-07-11-d017be8c-bf437b65/Singularity
 collection: bud42/TRACULA
 ---

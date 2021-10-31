@@ -9,7 +9,7 @@ build_date: "2018-06-09T14:17:50.105Z"
 size_mb: 1653
 size: 606519327
 sif: "https://datasets.datalad.org/shub/akashsingularityucr/caffe-cpu/latest/2018-06-09-3c2683ab-962537cf/962537cfc4ce7848e8d9b00b249c13a5.simg"
-url: https://datasets.datalad.org/shub/akashsingularityucr/caffe-cpu/latest/2018-06-09-3c2683ab-962537cf/
+datalad_url: https://datasets.datalad.org?dir=/shub/akashsingularityucr/caffe-cpu/latest/2018-06-09-3c2683ab-962537cf/
 recipe: https://datasets.datalad.org/shub/akashsingularityucr/caffe-cpu/latest/2018-06-09-3c2683ab-962537cf/Singularity
 collection: akashsingularityucr/caffe-cpu
 ---

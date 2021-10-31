@@ -9,7 +9,7 @@ build_date: "2018-11-24T04:49:43.606Z"
 size_mb: 3350
 size: 1352269855
 sif: "https://datasets.datalad.org/shub/LokiLuciferase/exoseq/latest/2018-11-24-cc11f6a4-b59233ec/b59233ec18e6830c251809761fcb236f.simg"
-url: https://datasets.datalad.org/shub/LokiLuciferase/exoseq/latest/2018-11-24-cc11f6a4-b59233ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/LokiLuciferase/exoseq/latest/2018-11-24-cc11f6a4-b59233ec/
 recipe: https://datasets.datalad.org/shub/LokiLuciferase/exoseq/latest/2018-11-24-cc11f6a4-b59233ec/Singularity
 collection: LokiLuciferase/exoseq
 ---

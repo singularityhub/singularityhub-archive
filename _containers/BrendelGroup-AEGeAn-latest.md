@@ -9,7 +9,7 @@ build_date: "2021-04-18T20:34:13.395Z"
 size_mb: 3213.0
 size: 997421087
 sif: "https://datasets.datalad.org/shub/BrendelGroup/AEGeAn/latest/2021-04-18-4d59d2f2-c4b1dcbd/c4b1dcbddbba1b897b13fb728ec585eb.sif"
-url: https://datasets.datalad.org/shub/BrendelGroup/AEGeAn/latest/2021-04-18-4d59d2f2-c4b1dcbd/
+datalad_url: https://datasets.datalad.org?dir=/shub/BrendelGroup/AEGeAn/latest/2021-04-18-4d59d2f2-c4b1dcbd/
 recipe: https://datasets.datalad.org/shub/BrendelGroup/AEGeAn/latest/2021-04-18-4d59d2f2-c4b1dcbd/Singularity
 collection: BrendelGroup/AEGeAn
 ---

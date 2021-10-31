@@ -9,7 +9,7 @@ build_date: "2019-03-27T08:48:37.109Z"
 size_mb: 9411
 size: 5067026463
 sif: "https://datasets.datalad.org/shub/jjhelmus/sample_singularity_containers/gpu_cuda90_27/2019-03-27-59f17a08-9e84f058/9e84f058d2942c95ecb717c184a984b7.simg"
-url: https://datasets.datalad.org/shub/jjhelmus/sample_singularity_containers/gpu_cuda90_27/2019-03-27-59f17a08-9e84f058/
+datalad_url: https://datasets.datalad.org?dir=/shub/jjhelmus/sample_singularity_containers/gpu_cuda90_27/2019-03-27-59f17a08-9e84f058/
 recipe: https://datasets.datalad.org/shub/jjhelmus/sample_singularity_containers/gpu_cuda90_27/2019-03-27-59f17a08-9e84f058/Singularity
 collection: jjhelmus/sample_singularity_containers
 ---

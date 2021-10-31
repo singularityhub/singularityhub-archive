@@ -9,7 +9,7 @@ build_date: "2019-06-19T16:10:40.587Z"
 size_mb: 6091
 size: 2128035871
 sif: "https://datasets.datalad.org/shub/littleblackfish/apis-methylation/latest/2019-06-19-ef3b6861-df833567/df8335671062517f5876e43e8f1095a4.simg"
-url: https://datasets.datalad.org/shub/littleblackfish/apis-methylation/latest/2019-06-19-ef3b6861-df833567/
+datalad_url: https://datasets.datalad.org?dir=/shub/littleblackfish/apis-methylation/latest/2019-06-19-ef3b6861-df833567/
 recipe: https://datasets.datalad.org/shub/littleblackfish/apis-methylation/latest/2019-06-19-ef3b6861-df833567/Singularity
 collection: littleblackfish/apis-methylation
 ---

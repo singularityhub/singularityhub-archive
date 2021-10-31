@@ -9,7 +9,7 @@ build_date: "2017-10-19T18:03:08.226Z"
 size_mb: 3173
 size: 1480763217
 sif: "https://datasets.datalad.org/shub/satra/om-tensorflow/master/2017-10-19-67c6be6d-1f8e8558/1f8e85586d2b73508b0dd868424a94ba.img.gz"
-url: https://datasets.datalad.org/shub/satra/om-tensorflow/master/2017-10-19-67c6be6d-1f8e8558/
+datalad_url: https://datasets.datalad.org?dir=/shub/satra/om-tensorflow/master/2017-10-19-67c6be6d-1f8e8558/
 recipe: https://datasets.datalad.org/shub/satra/om-tensorflow/master/2017-10-19-67c6be6d-1f8e8558/Singularity
 collection: satra/om-tensorflow
 ---

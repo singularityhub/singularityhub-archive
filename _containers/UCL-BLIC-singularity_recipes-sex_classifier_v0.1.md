@@ -9,7 +9,7 @@ build_date: "2020-10-21T11:07:18.452Z"
 size_mb: 2089.0
 size: 725884959
 sif: "https://datasets.datalad.org/shub/UCL-BLIC/singularity_recipes/sex_classifier_v0.1/2020-10-21-b05335db-8552938a/8552938a201cd814fe13531aa943d7aa.sif"
-url: https://datasets.datalad.org/shub/UCL-BLIC/singularity_recipes/sex_classifier_v0.1/2020-10-21-b05335db-8552938a/
+datalad_url: https://datasets.datalad.org?dir=/shub/UCL-BLIC/singularity_recipes/sex_classifier_v0.1/2020-10-21-b05335db-8552938a/
 recipe: https://datasets.datalad.org/shub/UCL-BLIC/singularity_recipes/sex_classifier_v0.1/2020-10-21-b05335db-8552938a/Singularity
 collection: UCL-BLIC/singularity_recipes
 ---

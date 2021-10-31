@@ -9,7 +9,7 @@ build_date: "2020-10-19T08:34:46.683Z"
 size_mb: 827
 size: 300822559
 sif: "https://datasets.datalad.org/shub/iferres/Singularity_recipes/pgap/2020-10-19-4e3800fb-aaf62701/aaf62701980603563555920c5843b5f7.simg"
-url: https://datasets.datalad.org/shub/iferres/Singularity_recipes/pgap/2020-10-19-4e3800fb-aaf62701/
+datalad_url: https://datasets.datalad.org?dir=/shub/iferres/Singularity_recipes/pgap/2020-10-19-4e3800fb-aaf62701/
 recipe: https://datasets.datalad.org/shub/iferres/Singularity_recipes/pgap/2020-10-19-4e3800fb-aaf62701/Singularity
 collection: iferres/Singularity_recipes
 ---

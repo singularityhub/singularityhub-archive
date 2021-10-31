@@ -9,7 +9,7 @@ build_date: "2018-03-04T20:03:50.763Z"
 size_mb: 617
 size: 296456223
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-fedora27-buildenv-singularity-release-2.4.2/latest/2018-03-04-9b76641e-13d3f779/13d3f77977d7ef671597ea2571c6ffb4.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-fedora27-buildenv-singularity-release-2.4.2/latest/2018-03-04-9b76641e-13d3f779/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-docker-fedora27-buildenv-singularity-release-2.4.2/latest/2018-03-04-9b76641e-13d3f779/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-fedora27-buildenv-singularity-release-2.4.2/latest/2018-03-04-9b76641e-13d3f779/Singularity
 collection: truatpasteurdotfr/singularity-docker-fedora27-buildenv-singularity-release-2.4.2
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-19T16:10:37.000Z"
 size_mb: 1106
 size: 328912927
 sif: "https://datasets.datalad.org/shub/keceli/mpi_benchmark/valence/2019-06-19-338ab5cf-17a074c9/17a074c930dd7c9958d0c62001f3e6d7.simg"
-url: https://datasets.datalad.org/shub/keceli/mpi_benchmark/valence/2019-06-19-338ab5cf-17a074c9/
+datalad_url: https://datasets.datalad.org?dir=/shub/keceli/mpi_benchmark/valence/2019-06-19-338ab5cf-17a074c9/
 recipe: https://datasets.datalad.org/shub/keceli/mpi_benchmark/valence/2019-06-19-338ab5cf-17a074c9/Singularity
 collection: keceli/mpi_benchmark
 ---

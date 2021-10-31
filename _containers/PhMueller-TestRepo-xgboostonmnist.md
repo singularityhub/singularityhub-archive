@@ -9,7 +9,7 @@ build_date: "2020-01-17T16:18:27.687Z"
 size_mb: 1255.0
 size: 527446047
 sif: "https://datasets.datalad.org/shub/PhMueller/TestRepo/xgboostonmnist/2020-01-17-5fb7dd43-cb504ecb/cb504ecbb7c60e27f7ad781156db06e4.sif"
-url: https://datasets.datalad.org/shub/PhMueller/TestRepo/xgboostonmnist/2020-01-17-5fb7dd43-cb504ecb/
+datalad_url: https://datasets.datalad.org?dir=/shub/PhMueller/TestRepo/xgboostonmnist/2020-01-17-5fb7dd43-cb504ecb/
 recipe: https://datasets.datalad.org/shub/PhMueller/TestRepo/xgboostonmnist/2020-01-17-5fb7dd43-cb504ecb/Singularity
 collection: PhMueller/TestRepo
 ---

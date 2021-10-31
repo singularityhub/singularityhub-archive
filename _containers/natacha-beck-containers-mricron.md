@@ -9,7 +9,7 @@ build_date: "2018-08-09T15:28:12.799Z"
 size_mb: 253
 size: 101535775
 sif: "https://datasets.datalad.org/shub/natacha-beck/containers/mricron/2018-08-09-d3f20836-82efa943/82efa943d9c1b4e2abe7800dd8b32765.simg"
-url: https://datasets.datalad.org/shub/natacha-beck/containers/mricron/2018-08-09-d3f20836-82efa943/
+datalad_url: https://datasets.datalad.org?dir=/shub/natacha-beck/containers/mricron/2018-08-09-d3f20836-82efa943/
 recipe: https://datasets.datalad.org/shub/natacha-beck/containers/mricron/2018-08-09-d3f20836-82efa943/Singularity
 collection: natacha-beck/containers
 ---

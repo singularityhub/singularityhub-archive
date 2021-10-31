@@ -9,7 +9,7 @@ build_date: "2019-07-29T17:08:28.203Z"
 size_mb: 2655
 size: 904749087
 sif: "https://datasets.datalad.org/shub/JCSDA/singularity/hpccm/2019-07-29-98e424de-d957670f/d957670f7620f4e4137cc1dd8c9354c3.simg"
-url: https://datasets.datalad.org/shub/JCSDA/singularity/hpccm/2019-07-29-98e424de-d957670f/
+datalad_url: https://datasets.datalad.org?dir=/shub/JCSDA/singularity/hpccm/2019-07-29-98e424de-d957670f/
 recipe: https://datasets.datalad.org/shub/JCSDA/singularity/hpccm/2019-07-29-98e424de-d957670f/Singularity
 collection: JCSDA/singularity
 ---

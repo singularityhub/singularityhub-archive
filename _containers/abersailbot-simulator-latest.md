@@ -9,7 +9,7 @@ build_date: "2020-05-03T00:26:02.155Z"
 size_mb: 645.0
 size: 249413663
 sif: "https://datasets.datalad.org/shub/abersailbot/simulator/latest/2020-05-03-f205da7e-35d8da45/35d8da45e6d2a68f7e7e0ebcc12fb71c.sif"
-url: https://datasets.datalad.org/shub/abersailbot/simulator/latest/2020-05-03-f205da7e-35d8da45/
+datalad_url: https://datasets.datalad.org?dir=/shub/abersailbot/simulator/latest/2020-05-03-f205da7e-35d8da45/
 recipe: https://datasets.datalad.org/shub/abersailbot/simulator/latest/2020-05-03-f205da7e-35d8da45/Singularity
 collection: abersailbot/simulator
 ---

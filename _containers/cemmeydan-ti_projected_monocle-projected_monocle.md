@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:12.053Z"
 size_mb: 2246
 size: 875425823
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_projected_monocle/projected_monocle/2019-04-04-21af6eb2-1bedaea2/1bedaea271e750af6c530d56876f20fb.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_projected_monocle/projected_monocle/2019-04-04-21af6eb2-1bedaea2/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_projected_monocle/projected_monocle/2019-04-04-21af6eb2-1bedaea2/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_projected_monocle/projected_monocle/2019-04-04-21af6eb2-1bedaea2/Singularity
 collection: cemmeydan/ti_projected_monocle
 ---

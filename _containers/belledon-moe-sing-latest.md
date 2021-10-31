@@ -9,7 +9,7 @@ build_date: "2018-01-19T12:33:35.473Z"
 size_mb: 1377
 size: 474832927
 sif: "https://datasets.datalad.org/shub/belledon/moe-sing/latest/2018-01-19-ec588254-ddfb1d41/ddfb1d4176e10c639590b648c814cb57.simg"
-url: https://datasets.datalad.org/shub/belledon/moe-sing/latest/2018-01-19-ec588254-ddfb1d41/
+datalad_url: https://datasets.datalad.org?dir=/shub/belledon/moe-sing/latest/2018-01-19-ec588254-ddfb1d41/
 recipe: https://datasets.datalad.org/shub/belledon/moe-sing/latest/2018-01-19-ec588254-ddfb1d41/Singularity
 collection: belledon/moe-sing
 ---

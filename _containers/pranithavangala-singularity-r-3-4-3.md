@@ -9,7 +9,7 @@ build_date: "2020-12-30T14:38:31.932Z"
 size_mb: 3910
 size: 1459433503
 sif: "https://datasets.datalad.org/shub/pranithavangala/singularity/r-3-4-3/2020-12-30-3ee83027-3f17a3b5/3f17a3b5df0cc9a02c8fc59adfa339e1.simg"
-url: https://datasets.datalad.org/shub/pranithavangala/singularity/r-3-4-3/2020-12-30-3ee83027-3f17a3b5/
+datalad_url: https://datasets.datalad.org?dir=/shub/pranithavangala/singularity/r-3-4-3/2020-12-30-3ee83027-3f17a3b5/
 recipe: https://datasets.datalad.org/shub/pranithavangala/singularity/r-3-4-3/2020-12-30-3ee83027-3f17a3b5/Singularity
 collection: pranithavangala/singularity
 ---

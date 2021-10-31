@@ -9,7 +9,7 @@ build_date: "2019-09-23T12:12:25.091Z"
 size_mb: 5701.0
 size: 1825136671
 sif: "https://datasets.datalad.org/shub/ii-bioinfo/ii-rnaseq/0.4/2019-09-23-4e98afc9-877d6544/877d65441919973e7d7d16fd8e5f316e.sif"
-url: https://datasets.datalad.org/shub/ii-bioinfo/ii-rnaseq/0.4/2019-09-23-4e98afc9-877d6544/
+datalad_url: https://datasets.datalad.org?dir=/shub/ii-bioinfo/ii-rnaseq/0.4/2019-09-23-4e98afc9-877d6544/
 recipe: https://datasets.datalad.org/shub/ii-bioinfo/ii-rnaseq/0.4/2019-09-23-4e98afc9-877d6544/Singularity
 collection: ii-bioinfo/ii-rnaseq
 ---

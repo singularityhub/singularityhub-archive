@@ -9,7 +9,7 @@ build_date: "2020-07-14T10:07:07.030Z"
 size_mb: 707
 size: 232718367
 sif: "https://datasets.datalad.org/shub/MPIB/singularity-ashs/fastashs.v1.0.0/2020-07-14-b9b41e31-45a1917c/45a1917ca3b3b0772e597bdbca3629e6.simg"
-url: https://datasets.datalad.org/shub/MPIB/singularity-ashs/fastashs.v1.0.0/2020-07-14-b9b41e31-45a1917c/
+datalad_url: https://datasets.datalad.org?dir=/shub/MPIB/singularity-ashs/fastashs.v1.0.0/2020-07-14-b9b41e31-45a1917c/
 recipe: https://datasets.datalad.org/shub/MPIB/singularity-ashs/fastashs.v1.0.0/2020-07-14-b9b41e31-45a1917c/Singularity
 collection: MPIB/singularity-ashs
 ---

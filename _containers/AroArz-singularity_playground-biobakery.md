@@ -9,7 +9,7 @@ build_date: "2021-04-19T12:57:53.480Z"
 size_mb: 3628.68359375
 size: 3804950528
 sif: "https://datasets.datalad.org/shub/AroArz/singularity_playground/biobakery/2021-04-19-19f4709d-cb834017/cb8340179644777f660fa7d04ff3daa22c73dc0f220853c915171bfca2edcd8c.sif"
-url: https://datasets.datalad.org/shub/AroArz/singularity_playground/biobakery/2021-04-19-19f4709d-cb834017/
+datalad_url: https://datasets.datalad.org?dir=/shub/AroArz/singularity_playground/biobakery/2021-04-19-19f4709d-cb834017/
 recipe: https://datasets.datalad.org/shub/AroArz/singularity_playground/biobakery/2021-04-19-19f4709d-cb834017/Singularity
 collection: AroArz/singularity_playground
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-12T09:35:34.492Z"
 size_mb: 2260
 size: 998662175
 sif: "https://datasets.datalad.org/shub/xrobin/singularity-pymol-openbabel/latest/2021-04-12-40b7305a-609b68b0/609b68b05f0faf1613f9848b0995c6be.simg"
-url: https://datasets.datalad.org/shub/xrobin/singularity-pymol-openbabel/latest/2021-04-12-40b7305a-609b68b0/
+datalad_url: https://datasets.datalad.org?dir=/shub/xrobin/singularity-pymol-openbabel/latest/2021-04-12-40b7305a-609b68b0/
 recipe: https://datasets.datalad.org/shub/xrobin/singularity-pymol-openbabel/latest/2021-04-12-40b7305a-609b68b0/Singularity
 collection: xrobin/singularity-pymol-openbabel
 ---

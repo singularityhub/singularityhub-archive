@@ -9,7 +9,7 @@ build_date: "2021-03-02T03:37:53.349Z"
 size_mb: 236.3203125
 size: 247799808
 sif: "https://datasets.datalad.org/shub/aseetharam/necat/latest/2021-03-02-e99991d4-55a893f9/55a893f9b82e2b48bf69cff492f0f9687a50bc05e9d83a7a532ace0bbef9f335.sif"
-url: https://datasets.datalad.org/shub/aseetharam/necat/latest/2021-03-02-e99991d4-55a893f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/aseetharam/necat/latest/2021-03-02-e99991d4-55a893f9/
 recipe: https://datasets.datalad.org/shub/aseetharam/necat/latest/2021-03-02-e99991d4-55a893f9/Singularity
 collection: aseetharam/necat
 ---

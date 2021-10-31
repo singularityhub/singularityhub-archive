@@ -9,7 +9,7 @@ build_date: "2020-11-20T08:05:30.421Z"
 size_mb: 7127.0
 size: 3057315871
 sif: "https://datasets.datalad.org/shub/mticlla/OmicSingularities/metaprof/2020-11-20-54aa4efc-1b9c424b/1b9c424b3b795223f9bc40e9a9df3179.sif"
-url: https://datasets.datalad.org/shub/mticlla/OmicSingularities/metaprof/2020-11-20-54aa4efc-1b9c424b/
+datalad_url: https://datasets.datalad.org?dir=/shub/mticlla/OmicSingularities/metaprof/2020-11-20-54aa4efc-1b9c424b/
 recipe: https://datasets.datalad.org/shub/mticlla/OmicSingularities/metaprof/2020-11-20-54aa4efc-1b9c424b/Singularity
 collection: mticlla/OmicSingularities
 ---

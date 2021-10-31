@@ -9,7 +9,7 @@ build_date: "2021-04-01T14:27:49.517Z"
 size_mb: 576.0
 size: 209707039
 sif: "https://datasets.datalad.org/shub/James-S-Santangelo/singularity-recipes/angsd_v0.933/2021-04-01-2e2bcdc0-c273bbe4/c273bbe4ecb47f06e5186dea86c9566c.sif"
-url: https://datasets.datalad.org/shub/James-S-Santangelo/singularity-recipes/angsd_v0.933/2021-04-01-2e2bcdc0-c273bbe4/
+datalad_url: https://datasets.datalad.org?dir=/shub/James-S-Santangelo/singularity-recipes/angsd_v0.933/2021-04-01-2e2bcdc0-c273bbe4/
 recipe: https://datasets.datalad.org/shub/James-S-Santangelo/singularity-recipes/angsd_v0.933/2021-04-01-2e2bcdc0-c273bbe4/Singularity
 collection: James-S-Santangelo/singularity-recipes
 ---

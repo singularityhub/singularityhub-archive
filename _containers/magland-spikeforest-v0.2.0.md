@@ -9,7 +9,7 @@ build_date: "2018-11-05T14:28:49.493Z"
 size_mb: 1519
 size: 571605023
 sif: "https://datasets.datalad.org/shub/magland/spikeforest/v0.2.0/2018-11-05-e55411a7-df53ad9b/df53ad9be090a2d712033035596610f0.simg"
-url: https://datasets.datalad.org/shub/magland/spikeforest/v0.2.0/2018-11-05-e55411a7-df53ad9b/
+datalad_url: https://datasets.datalad.org?dir=/shub/magland/spikeforest/v0.2.0/2018-11-05-e55411a7-df53ad9b/
 recipe: https://datasets.datalad.org/shub/magland/spikeforest/v0.2.0/2018-11-05-e55411a7-df53ad9b/Singularity
 collection: magland/spikeforest
 ---

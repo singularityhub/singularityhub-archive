@@ -9,7 +9,7 @@ build_date: "2021-04-01T06:37:19.881Z"
 size_mb: 892.265625
 size: 935608320
 sif: "https://datasets.datalad.org/shub/vibaotram/singularity-container/myr_4-0-2_rstudio_1.3/2021-04-01-db024c9f-fbdac18d/fbdac18d650d22ccde6177be28a4b34a18276c00f155e21ab14af7a5aba329c3.sif"
-url: https://datasets.datalad.org/shub/vibaotram/singularity-container/myr_4-0-2_rstudio_1.3/2021-04-01-db024c9f-fbdac18d/
+datalad_url: https://datasets.datalad.org?dir=/shub/vibaotram/singularity-container/myr_4-0-2_rstudio_1.3/2021-04-01-db024c9f-fbdac18d/
 recipe: https://datasets.datalad.org/shub/vibaotram/singularity-container/myr_4-0-2_rstudio_1.3/2021-04-01-db024c9f-fbdac18d/Singularity
 collection: vibaotram/singularity-container
 ---

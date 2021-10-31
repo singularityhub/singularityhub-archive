@@ -9,7 +9,7 @@ build_date: "2019-06-15T07:05:38.161Z"
 size_mb: 8009
 size: 3415277599
 sif: "https://datasets.datalad.org/shub/QTIM-Lab/DeepNeuro/deepneuro_segment_mets/2019-06-15-004321c0-ae39aaf8/ae39aaf8ea33376bc6663e2fc09d1bb7.simg"
-url: https://datasets.datalad.org/shub/QTIM-Lab/DeepNeuro/deepneuro_segment_mets/2019-06-15-004321c0-ae39aaf8/
+datalad_url: https://datasets.datalad.org?dir=/shub/QTIM-Lab/DeepNeuro/deepneuro_segment_mets/2019-06-15-004321c0-ae39aaf8/
 recipe: https://datasets.datalad.org/shub/QTIM-Lab/DeepNeuro/deepneuro_segment_mets/2019-06-15-004321c0-ae39aaf8/Singularity
 collection: QTIM-Lab/DeepNeuro
 ---

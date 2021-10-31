@@ -9,7 +9,7 @@ build_date: "2021-04-04T09:13:23.440Z"
 size_mb: 109.5703125
 size: 114892800
 sif: "https://datasets.datalad.org/shub/SouthGreenPlatform/singularityRecipeFiles/7.12.def/2021-04-04-2a9b7599-b5a18d2d/b5a18d2dbae31771957b707d4b846c4c54c47046c4761e71677d4d0b327791ce.sif"
-url: https://datasets.datalad.org/shub/SouthGreenPlatform/singularityRecipeFiles/7.12.def/2021-04-04-2a9b7599-b5a18d2d/
+datalad_url: https://datasets.datalad.org?dir=/shub/SouthGreenPlatform/singularityRecipeFiles/7.12.def/2021-04-04-2a9b7599-b5a18d2d/
 recipe: https://datasets.datalad.org/shub/SouthGreenPlatform/singularityRecipeFiles/7.12.def/2021-04-04-2a9b7599-b5a18d2d/Singularity
 collection: SouthGreenPlatform/singularityRecipeFiles
 ---

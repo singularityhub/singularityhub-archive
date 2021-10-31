@@ -9,7 +9,7 @@ build_date: "2020-03-26T17:30:48.634Z"
 size_mb: 1564.0
 size: 618709023
 sif: "https://datasets.datalad.org/shub/moritzschaefer/diffTF/python/2020-03-26-53be9c3c-0b098603/0b0986033c85d9e1a879edbede142964.sif"
-url: https://datasets.datalad.org/shub/moritzschaefer/diffTF/python/2020-03-26-53be9c3c-0b098603/
+datalad_url: https://datasets.datalad.org?dir=/shub/moritzschaefer/diffTF/python/2020-03-26-53be9c3c-0b098603/
 recipe: https://datasets.datalad.org/shub/moritzschaefer/diffTF/python/2020-03-26-53be9c3c-0b098603/Singularity
 collection: moritzschaefer/diffTF
 ---

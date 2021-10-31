@@ -9,7 +9,7 @@ build_date: "2018-08-17T18:19:55.883Z"
 size_mb: 1512
 size: 599494687
 sif: "https://datasets.datalad.org/shub/nskat/Singularity/py2/2018-08-17-4bc93d5d-6d6c6391/6d6c6391bf891e79d4af74fcb0a4caa5.simg"
-url: https://datasets.datalad.org/shub/nskat/Singularity/py2/2018-08-17-4bc93d5d-6d6c6391/
+datalad_url: https://datasets.datalad.org?dir=/shub/nskat/Singularity/py2/2018-08-17-4bc93d5d-6d6c6391/
 recipe: https://datasets.datalad.org/shub/nskat/Singularity/py2/2018-08-17-4bc93d5d-6d6c6391/Singularity
 collection: nskat/Singularity
 ---

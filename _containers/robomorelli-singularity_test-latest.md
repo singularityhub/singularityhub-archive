@@ -9,7 +9,7 @@ build_date: "2021-03-20T19:32:13.860Z"
 size_mb: 96.0
 size: 37068831
 sif: "https://datasets.datalad.org/shub/robomorelli/singularity_test/latest/2021-03-20-3dffee4e-309e50f9/309e50f99fb7263f7ea22d0ed1bd91be.sif"
-url: https://datasets.datalad.org/shub/robomorelli/singularity_test/latest/2021-03-20-3dffee4e-309e50f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/robomorelli/singularity_test/latest/2021-03-20-3dffee4e-309e50f9/
 recipe: https://datasets.datalad.org/shub/robomorelli/singularity_test/latest/2021-03-20-3dffee4e-309e50f9/Singularity
 collection: robomorelli/singularity_test
 ---

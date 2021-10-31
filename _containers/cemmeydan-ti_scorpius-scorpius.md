@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.622Z"
 size_mb: 2149
 size: 824770591
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_scorpius/scorpius/2019-04-04-b2cf3604-be354ca2/be354ca21fe169656794d086b1f0ffe1.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_scorpius/scorpius/2019-04-04-b2cf3604-be354ca2/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_scorpius/scorpius/2019-04-04-b2cf3604-be354ca2/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_scorpius/scorpius/2019-04-04-b2cf3604-be354ca2/Singularity
 collection: cemmeydan/ti_scorpius
 ---

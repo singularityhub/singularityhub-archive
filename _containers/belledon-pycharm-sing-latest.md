@@ -9,7 +9,7 @@ build_date: "2018-01-30T14:49:35.386Z"
 size_mb: 950
 size: 629964831
 sif: "https://datasets.datalad.org/shub/belledon/pycharm-sing/latest/2018-01-30-ca43547f-e2e7104e/e2e7104e1c8a32a5aeff937d1838a1be.simg"
-url: https://datasets.datalad.org/shub/belledon/pycharm-sing/latest/2018-01-30-ca43547f-e2e7104e/
+datalad_url: https://datasets.datalad.org?dir=/shub/belledon/pycharm-sing/latest/2018-01-30-ca43547f-e2e7104e/
 recipe: https://datasets.datalad.org/shub/belledon/pycharm-sing/latest/2018-01-30-ca43547f-e2e7104e/Singularity
 collection: belledon/pycharm-sing
 ---

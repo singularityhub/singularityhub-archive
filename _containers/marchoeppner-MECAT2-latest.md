@@ -9,7 +9,7 @@ build_date: "2019-05-10T10:48:53.620Z"
 size_mb: 354
 size: 128639007
 sif: "https://datasets.datalad.org/shub/marchoeppner/MECAT2/latest/2019-05-10-1706b346-9af9ceb6/9af9ceb6e814691c4255498efc81d8ca.simg"
-url: https://datasets.datalad.org/shub/marchoeppner/MECAT2/latest/2019-05-10-1706b346-9af9ceb6/
+datalad_url: https://datasets.datalad.org?dir=/shub/marchoeppner/MECAT2/latest/2019-05-10-1706b346-9af9ceb6/
 recipe: https://datasets.datalad.org/shub/marchoeppner/MECAT2/latest/2019-05-10-1706b346-9af9ceb6/Singularity
 collection: marchoeppner/MECAT2
 ---

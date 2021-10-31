@@ -9,7 +9,7 @@ build_date: "2021-02-25T06:45:44.140Z"
 size_mb: 4785.0
 size: 2696695839
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/pcgr.docker/2021-02-25-7feb1ff5-91613884/9161388440ca653d4450bef3ecc1e53b.sif"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/pcgr.docker/2021-02-25-7feb1ff5-91613884/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/pcgr.docker/2021-02-25-7feb1ff5-91613884/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/pcgr.docker/2021-02-25-7feb1ff5-91613884/Singularity
 collection: brucemoran/Singularity
 ---

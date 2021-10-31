@@ -9,7 +9,7 @@ build_date: "2018-08-13T16:19:56.982Z"
 size_mb: 199
 size: 68526111
 sif: "https://datasets.datalad.org/shub/tjhendrickson/neurodocker/latest/2018-08-13-2bf06abe-0546df69/0546df693f173e36abd3984c1b2a1830.simg"
-url: https://datasets.datalad.org/shub/tjhendrickson/neurodocker/latest/2018-08-13-2bf06abe-0546df69/
+datalad_url: https://datasets.datalad.org?dir=/shub/tjhendrickson/neurodocker/latest/2018-08-13-2bf06abe-0546df69/
 recipe: https://datasets.datalad.org/shub/tjhendrickson/neurodocker/latest/2018-08-13-2bf06abe-0546df69/Singularity
 collection: tjhendrickson/neurodocker
 ---

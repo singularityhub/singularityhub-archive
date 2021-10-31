@@ -9,7 +9,7 @@ build_date: "2018-04-16T23:16:21.755Z"
 size_mb: 3921
 size: 1703309343
 sif: "https://datasets.datalad.org/shub/vuiiscci/FMRIQA_app/latest/2018-04-16-83f62e84-9c6eb999/9c6eb999f5acc19b98a881dbf355e105.simg"
-url: https://datasets.datalad.org/shub/vuiiscci/FMRIQA_app/latest/2018-04-16-83f62e84-9c6eb999/
+datalad_url: https://datasets.datalad.org?dir=/shub/vuiiscci/FMRIQA_app/latest/2018-04-16-83f62e84-9c6eb999/
 recipe: https://datasets.datalad.org/shub/vuiiscci/FMRIQA_app/latest/2018-04-16-83f62e84-9c6eb999/Singularity
 collection: vuiiscci/FMRIQA_app
 ---

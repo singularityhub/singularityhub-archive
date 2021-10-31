@@ -9,7 +9,7 @@ build_date: "2018-01-22T17:59:49.670Z"
 size_mb: 769
 size: 279040031
 sif: "https://datasets.datalad.org/shub/hskarlupka/gp_fasig_scalable_radio_array/latest/2018-01-22-141b6ff4-e305e0c1/e305e0c153b452e99ed905bee7886af1.simg"
-url: https://datasets.datalad.org/shub/hskarlupka/gp_fasig_scalable_radio_array/latest/2018-01-22-141b6ff4-e305e0c1/
+datalad_url: https://datasets.datalad.org?dir=/shub/hskarlupka/gp_fasig_scalable_radio_array/latest/2018-01-22-141b6ff4-e305e0c1/
 recipe: https://datasets.datalad.org/shub/hskarlupka/gp_fasig_scalable_radio_array/latest/2018-01-22-141b6ff4-e305e0c1/Singularity
 collection: hskarlupka/gp_fasig_scalable_radio_array
 ---

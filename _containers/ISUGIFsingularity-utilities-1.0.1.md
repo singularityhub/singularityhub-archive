@@ -9,7 +9,7 @@ build_date: "2021-04-05T08:56:48.625Z"
 size_mb: 1032
 size: 411217951
 sif: "https://datasets.datalad.org/shub/ISUGIFsingularity/utilities/1.0.1/2021-04-05-734bcab9-cc2f35a8/cc2f35a81cda344f76c8c9e1998fe440.simg"
-url: https://datasets.datalad.org/shub/ISUGIFsingularity/utilities/1.0.1/2021-04-05-734bcab9-cc2f35a8/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISUGIFsingularity/utilities/1.0.1/2021-04-05-734bcab9-cc2f35a8/
 recipe: https://datasets.datalad.org/shub/ISUGIFsingularity/utilities/1.0.1/2021-04-05-734bcab9-cc2f35a8/Singularity
 collection: ISUGIFsingularity/utilities
 ---

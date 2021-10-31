@@ -9,7 +9,7 @@ build_date: "2021-04-08T07:44:39.139Z"
 size_mb: 5090
 size: 2543775775
 sif: "https://datasets.datalad.org/shub/jasongallant/gatk_singularity/latest/2021-04-08-1682987e-d82649e7/d82649e7f6322ecc7bf2a942fc9029a2.simg"
-url: https://datasets.datalad.org/shub/jasongallant/gatk_singularity/latest/2021-04-08-1682987e-d82649e7/
+datalad_url: https://datasets.datalad.org?dir=/shub/jasongallant/gatk_singularity/latest/2021-04-08-1682987e-d82649e7/
 recipe: https://datasets.datalad.org/shub/jasongallant/gatk_singularity/latest/2021-04-08-1682987e-d82649e7/Singularity
 collection: jasongallant/gatk_singularity
 ---

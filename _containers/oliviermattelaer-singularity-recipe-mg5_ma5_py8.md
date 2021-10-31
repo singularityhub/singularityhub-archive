@@ -9,7 +9,7 @@ build_date: "2020-10-08T16:24:35.140Z"
 size_mb: 4238
 size: 2283933727
 sif: "https://datasets.datalad.org/shub/oliviermattelaer/singularity-recipe/mg5_ma5_py8/2020-10-08-181d4caa-5ca2dcd4/5ca2dcd491421950ac17319871eb3111.simg"
-url: https://datasets.datalad.org/shub/oliviermattelaer/singularity-recipe/mg5_ma5_py8/2020-10-08-181d4caa-5ca2dcd4/
+datalad_url: https://datasets.datalad.org?dir=/shub/oliviermattelaer/singularity-recipe/mg5_ma5_py8/2020-10-08-181d4caa-5ca2dcd4/
 recipe: https://datasets.datalad.org/shub/oliviermattelaer/singularity-recipe/mg5_ma5_py8/2020-10-08-181d4caa-5ca2dcd4/Singularity
 collection: oliviermattelaer/singularity-recipe
 ---

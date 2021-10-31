@@ -9,7 +9,7 @@ build_date: "2020-02-17T09:32:48.598Z"
 size_mb: 6140
 size: 2665074719
 sif: "https://datasets.datalad.org/shub/elimoss/metagenomics_workflows/longread/2020-02-17-59727011-bebc17ad/bebc17ad6ae538a9cf3fec9242da63ae.simg"
-url: https://datasets.datalad.org/shub/elimoss/metagenomics_workflows/longread/2020-02-17-59727011-bebc17ad/
+datalad_url: https://datasets.datalad.org?dir=/shub/elimoss/metagenomics_workflows/longread/2020-02-17-59727011-bebc17ad/
 recipe: https://datasets.datalad.org/shub/elimoss/metagenomics_workflows/longread/2020-02-17-59727011-bebc17ad/Singularity
 collection: elimoss/metagenomics_workflows
 ---

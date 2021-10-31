@@ -9,7 +9,7 @@ build_date: "2019-06-03T14:19:05.666Z"
 size_mb: 3488
 size: 1340391455
 sif: "https://datasets.datalad.org/shub/gwastro/pycbc_bench/latest/2019-06-03-8413fe49-3956c831/3956c831ec238e774faee5009b921bb2.simg"
-url: https://datasets.datalad.org/shub/gwastro/pycbc_bench/latest/2019-06-03-8413fe49-3956c831/
+datalad_url: https://datasets.datalad.org?dir=/shub/gwastro/pycbc_bench/latest/2019-06-03-8413fe49-3956c831/
 recipe: https://datasets.datalad.org/shub/gwastro/pycbc_bench/latest/2019-06-03-8413fe49-3956c831/Singularity
 collection: gwastro/pycbc_bench
 ---

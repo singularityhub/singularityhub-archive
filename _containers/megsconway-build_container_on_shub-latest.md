@@ -9,7 +9,7 @@ build_date: "2018-11-29T23:44:03.435Z"
 size_mb: 530
 size: 206872607
 sif: "https://datasets.datalad.org/shub/megsconway/build_container_on_shub/latest/2018-11-29-4c57ecee-6a23db21/6a23db21ed78587d9c7f2b4120b158c1.simg"
-url: https://datasets.datalad.org/shub/megsconway/build_container_on_shub/latest/2018-11-29-4c57ecee-6a23db21/
+datalad_url: https://datasets.datalad.org?dir=/shub/megsconway/build_container_on_shub/latest/2018-11-29-4c57ecee-6a23db21/
 recipe: https://datasets.datalad.org/shub/megsconway/build_container_on_shub/latest/2018-11-29-4c57ecee-6a23db21/Singularity
 collection: megsconway/build_container_on_shub
 ---

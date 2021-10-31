@@ -9,7 +9,7 @@ build_date: "2020-06-15T18:12:47.097Z"
 size_mb: 352.0
 size: 126644255
 sif: "https://datasets.datalad.org/shub/OSC/sa_singularity_xcrysden/1.6.2/2020-06-15-ac6503e6-e60990b3/e60990b36d369520b78cf7b8543d8e63.sif"
-url: https://datasets.datalad.org/shub/OSC/sa_singularity_xcrysden/1.6.2/2020-06-15-ac6503e6-e60990b3/
+datalad_url: https://datasets.datalad.org?dir=/shub/OSC/sa_singularity_xcrysden/1.6.2/2020-06-15-ac6503e6-e60990b3/
 recipe: https://datasets.datalad.org/shub/OSC/sa_singularity_xcrysden/1.6.2/2020-06-15-ac6503e6-e60990b3/Singularity
 collection: OSC/sa_singularity_xcrysden
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-22T03:16:01.454Z"
 size_mb: 322.2890625
 size: 337944576
 sif: "https://datasets.datalad.org/shub/powerPlant/apsimx-srf/2019.01.08.3392/2020-10-22-6e59e691-ba3ba196/ba3ba1964ad4844339bd360b71e55ccf6ac1be4beafcbca8be076ee51dfde1b6.sif"
-url: https://datasets.datalad.org/shub/powerPlant/apsimx-srf/2019.01.08.3392/2020-10-22-6e59e691-ba3ba196/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/apsimx-srf/2019.01.08.3392/2020-10-22-6e59e691-ba3ba196/
 recipe: https://datasets.datalad.org/shub/powerPlant/apsimx-srf/2019.01.08.3392/2020-10-22-6e59e691-ba3ba196/Singularity
 collection: powerPlant/apsimx-srf
 ---

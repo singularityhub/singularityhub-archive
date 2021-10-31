@@ -9,7 +9,7 @@ build_date: "2018-08-14T19:41:12.293Z"
 size_mb: 1010
 size: 359219231
 sif: "https://datasets.datalad.org/shub/jdwheaton/singularity-ngs/motif_analysis/2018-08-14-3d300637-63a7ca2b/63a7ca2b64de95d600adea768f18f16c.simg"
-url: https://datasets.datalad.org/shub/jdwheaton/singularity-ngs/motif_analysis/2018-08-14-3d300637-63a7ca2b/
+datalad_url: https://datasets.datalad.org?dir=/shub/jdwheaton/singularity-ngs/motif_analysis/2018-08-14-3d300637-63a7ca2b/
 recipe: https://datasets.datalad.org/shub/jdwheaton/singularity-ngs/motif_analysis/2018-08-14-3d300637-63a7ca2b/Singularity
 collection: jdwheaton/singularity-ngs
 ---

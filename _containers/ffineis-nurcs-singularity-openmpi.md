@@ -9,7 +9,7 @@ build_date: "2018-08-21T22:48:51.890Z"
 size_mb: 1212
 size: 520618015
 sif: "https://datasets.datalad.org/shub/ffineis/nurcs-singularity/openmpi/2018-08-21-81da3eb0-5fb6df7f/5fb6df7fc3be06d50b64c58e50438478.simg"
-url: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/openmpi/2018-08-21-81da3eb0-5fb6df7f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ffineis/nurcs-singularity/openmpi/2018-08-21-81da3eb0-5fb6df7f/
 recipe: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/openmpi/2018-08-21-81da3eb0-5fb6df7f/Singularity
 collection: ffineis/nurcs-singularity
 ---

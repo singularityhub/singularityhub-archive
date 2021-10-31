@@ -9,7 +9,7 @@ build_date: "2021-04-15T09:02:40.203Z"
 size_mb: 3131.0
 size: 1521475615
 sif: "https://datasets.datalad.org/shub/c3se/containers/tensorflow-v2.3.1-tf2-py3-gpu-jupyter/2021-04-15-e3e3a0be-84c771b4/84c771b400168034bad5680449d8ea4f.sif"
-url: https://datasets.datalad.org/shub/c3se/containers/tensorflow-v2.3.1-tf2-py3-gpu-jupyter/2021-04-15-e3e3a0be-84c771b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/c3se/containers/tensorflow-v2.3.1-tf2-py3-gpu-jupyter/2021-04-15-e3e3a0be-84c771b4/
 recipe: https://datasets.datalad.org/shub/c3se/containers/tensorflow-v2.3.1-tf2-py3-gpu-jupyter/2021-04-15-e3e3a0be-84c771b4/Singularity
 collection: c3se/containers
 ---

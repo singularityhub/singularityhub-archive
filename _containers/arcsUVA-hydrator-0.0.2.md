@@ -9,7 +9,7 @@ build_date: "2019-02-04T16:33:11.332Z"
 size_mb: 1116
 size: 415539231
 sif: "https://datasets.datalad.org/shub/arcsUVA/hydrator/0.0.2/2019-02-04-bc592a0a-d6ce68f4/d6ce68f448b296aa010cf9aaa0877d97.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/hydrator/0.0.2/2019-02-04-bc592a0a-d6ce68f4/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/hydrator/0.0.2/2019-02-04-bc592a0a-d6ce68f4/
 recipe: https://datasets.datalad.org/shub/arcsUVA/hydrator/0.0.2/2019-02-04-bc592a0a-d6ce68f4/Singularity
 collection: arcsUVA/hydrator
 ---

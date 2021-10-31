@@ -9,7 +9,7 @@ build_date: "2021-03-03T20:43:11.548Z"
 size_mb: 485.5078125
 size: 509091840
 sif: "https://datasets.datalad.org/shub/federatedcloud/Docker-WRF-3.8.1-Fitch/latest/2021-03-03-f3696601-572b28c7/572b28c7ee2e305f261f7df6f74ecb217b34b6b972f071c0aa0d4a7d6c69b193.sif"
-url: https://datasets.datalad.org/shub/federatedcloud/Docker-WRF-3.8.1-Fitch/latest/2021-03-03-f3696601-572b28c7/
+datalad_url: https://datasets.datalad.org?dir=/shub/federatedcloud/Docker-WRF-3.8.1-Fitch/latest/2021-03-03-f3696601-572b28c7/
 recipe: https://datasets.datalad.org/shub/federatedcloud/Docker-WRF-3.8.1-Fitch/latest/2021-03-03-f3696601-572b28c7/Singularity
 collection: federatedcloud/Docker-WRF-3.8.1-Fitch
 ---

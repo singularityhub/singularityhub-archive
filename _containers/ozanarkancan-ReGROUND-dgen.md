@@ -9,7 +9,7 @@ build_date: "2018-02-13T08:25:31.587Z"
 size_mb: 2338
 size: 715391007
 sif: "https://datasets.datalad.org/shub/ozanarkancan/ReGROUND/dgen/2018-02-13-2356e9a8-5b59c7f6/5b59c7f602577ae39ae7ade824ab9a01.simg"
-url: https://datasets.datalad.org/shub/ozanarkancan/ReGROUND/dgen/2018-02-13-2356e9a8-5b59c7f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/ozanarkancan/ReGROUND/dgen/2018-02-13-2356e9a8-5b59c7f6/
 recipe: https://datasets.datalad.org/shub/ozanarkancan/ReGROUND/dgen/2018-02-13-2356e9a8-5b59c7f6/Singularity
 collection: ozanarkancan/ReGROUND
 ---

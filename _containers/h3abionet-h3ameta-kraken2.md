@@ -9,7 +9,7 @@ build_date: "2020-05-05T04:41:01.086Z"
 size_mb: 578.0
 size: 207925279
 sif: "https://datasets.datalad.org/shub/h3abionet/h3ameta/kraken2/2020-05-05-20bc0b39-6f7e4ec2/6f7e4ec2b3f8babe17213c80801ab683.sif"
-url: https://datasets.datalad.org/shub/h3abionet/h3ameta/kraken2/2020-05-05-20bc0b39-6f7e4ec2/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/h3ameta/kraken2/2020-05-05-20bc0b39-6f7e4ec2/
 recipe: https://datasets.datalad.org/shub/h3abionet/h3ameta/kraken2/2020-05-05-20bc0b39-6f7e4ec2/Singularity
 collection: h3abionet/h3ameta
 ---

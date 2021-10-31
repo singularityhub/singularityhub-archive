@@ -9,7 +9,7 @@ build_date: "2018-08-14T13:13:01.635Z"
 size_mb: 2922
 size: 534376479
 sif: "https://datasets.datalad.org/shub/remiolsen/w2rap-singularity/latest/2018-08-14-16c06db5-0278f891/0278f891d92f21404ac74bb4489ca043.simg"
-url: https://datasets.datalad.org/shub/remiolsen/w2rap-singularity/latest/2018-08-14-16c06db5-0278f891/
+datalad_url: https://datasets.datalad.org?dir=/shub/remiolsen/w2rap-singularity/latest/2018-08-14-16c06db5-0278f891/
 recipe: https://datasets.datalad.org/shub/remiolsen/w2rap-singularity/latest/2018-08-14-16c06db5-0278f891/Singularity
 collection: remiolsen/w2rap-singularity
 ---

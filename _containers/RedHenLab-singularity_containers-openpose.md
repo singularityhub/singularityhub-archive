@@ -9,7 +9,7 @@ build_date: "2021-04-08T19:54:45.707Z"
 size_mb: 4033
 size: 1662717983
 sif: "https://datasets.datalad.org/shub/RedHenLab/singularity_containers/openpose/2021-04-08-ecb7077e-d4536da0/d4536da09993bd95201b7be9c48ba0cd.simg"
-url: https://datasets.datalad.org/shub/RedHenLab/singularity_containers/openpose/2021-04-08-ecb7077e-d4536da0/
+datalad_url: https://datasets.datalad.org?dir=/shub/RedHenLab/singularity_containers/openpose/2021-04-08-ecb7077e-d4536da0/
 recipe: https://datasets.datalad.org/shub/RedHenLab/singularity_containers/openpose/2021-04-08-ecb7077e-d4536da0/Singularity
 collection: RedHenLab/singularity_containers
 ---

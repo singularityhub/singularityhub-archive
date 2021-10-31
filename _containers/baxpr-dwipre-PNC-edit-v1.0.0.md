@@ -9,7 +9,7 @@ build_date: "2020-03-05T13:37:13.669Z"
 size_mb: 12565.0
 size: 5142724639
 sif: "https://datasets.datalad.org/shub/baxpr/dwipre-PNC-edit/v1.0.0/2020-03-05-527cad67-80918285/80918285f7e40395712c2202a3c4bbd6.sif"
-url: https://datasets.datalad.org/shub/baxpr/dwipre-PNC-edit/v1.0.0/2020-03-05-527cad67-80918285/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/dwipre-PNC-edit/v1.0.0/2020-03-05-527cad67-80918285/
 recipe: https://datasets.datalad.org/shub/baxpr/dwipre-PNC-edit/v1.0.0/2020-03-05-527cad67-80918285/Singularity
 collection: baxpr/dwipre-PNC-edit
 ---

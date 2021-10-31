@@ -9,7 +9,7 @@ build_date: "2019-04-21T09:06:21.132Z"
 size_mb: 14838
 size: 6634418207
 sif: "https://datasets.datalad.org/shub/ZhifangYe/xcpengine_build/latest/2019-04-21-54b86745-ef83ca75/ef83ca7561c07d911a24c98ec7e13011.simg"
-url: https://datasets.datalad.org/shub/ZhifangYe/xcpengine_build/latest/2019-04-21-54b86745-ef83ca75/
+datalad_url: https://datasets.datalad.org?dir=/shub/ZhifangYe/xcpengine_build/latest/2019-04-21-54b86745-ef83ca75/
 recipe: https://datasets.datalad.org/shub/ZhifangYe/xcpengine_build/latest/2019-04-21-54b86745-ef83ca75/Singularity
 collection: ZhifangYe/xcpengine_build
 ---

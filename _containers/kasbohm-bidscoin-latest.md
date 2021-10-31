@@ -9,7 +9,7 @@ build_date: "2019-05-06T15:37:43.876Z"
 size_mb: 421
 size: 168898591
 sif: "https://datasets.datalad.org/shub/kasbohm/bidscoin/latest/2019-05-06-72f05927-f5506eac/f5506eaccbc51b1e6c5715437430f1ea.simg"
-url: https://datasets.datalad.org/shub/kasbohm/bidscoin/latest/2019-05-06-72f05927-f5506eac/
+datalad_url: https://datasets.datalad.org?dir=/shub/kasbohm/bidscoin/latest/2019-05-06-72f05927-f5506eac/
 recipe: https://datasets.datalad.org/shub/kasbohm/bidscoin/latest/2019-05-06-72f05927-f5506eac/Singularity
 collection: kasbohm/bidscoin
 ---

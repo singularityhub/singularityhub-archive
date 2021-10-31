@@ -9,7 +9,7 @@ build_date: "2020-09-30T06:59:15.658Z"
 size_mb: 1719.0
 size: 696561695
 sif: "https://datasets.datalad.org/shub/cta-observatory/CTADIRAC/latest/2020-09-30-1c7bbaa4-a5dbbd68/a5dbbd68a123be26433611155f1645df.sif"
-url: https://datasets.datalad.org/shub/cta-observatory/CTADIRAC/latest/2020-09-30-1c7bbaa4-a5dbbd68/
+datalad_url: https://datasets.datalad.org?dir=/shub/cta-observatory/CTADIRAC/latest/2020-09-30-1c7bbaa4-a5dbbd68/
 recipe: https://datasets.datalad.org/shub/cta-observatory/CTADIRAC/latest/2020-09-30-1c7bbaa4-a5dbbd68/Singularity
 collection: cta-observatory/CTADIRAC
 ---

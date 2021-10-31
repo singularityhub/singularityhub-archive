@@ -9,7 +9,7 @@ build_date: "2018-02-02T03:30:19.631Z"
 size_mb: 921
 size: 307343391
 sif: "https://datasets.datalad.org/shub/dingp/singularity/latest/2018-02-02-05e9e8e4-95e8b1c9/95e8b1c98758b72d5e4167e8ea16497e.simg"
-url: https://datasets.datalad.org/shub/dingp/singularity/latest/2018-02-02-05e9e8e4-95e8b1c9/
+datalad_url: https://datasets.datalad.org?dir=/shub/dingp/singularity/latest/2018-02-02-05e9e8e4-95e8b1c9/
 recipe: https://datasets.datalad.org/shub/dingp/singularity/latest/2018-02-02-05e9e8e4-95e8b1c9/Singularity
 collection: dingp/singularity
 ---

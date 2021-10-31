@@ -9,7 +9,7 @@ build_date: "2018-11-16T10:50:08.072Z"
 size_mb: 596
 size: 214872095
 sif: "https://datasets.datalad.org/shub/datalad/datalad-htcondor/latest/2018-11-16-ba55265e-8ff8961e/8ff8961e04fb8f562c695a25d8cb4ebe.simg"
-url: https://datasets.datalad.org/shub/datalad/datalad-htcondor/latest/2018-11-16-ba55265e-8ff8961e/
+datalad_url: https://datasets.datalad.org?dir=/shub/datalad/datalad-htcondor/latest/2018-11-16-ba55265e-8ff8961e/
 recipe: https://datasets.datalad.org/shub/datalad/datalad-htcondor/latest/2018-11-16-ba55265e-8ff8961e/Singularity
 collection: datalad/datalad-htcondor
 ---

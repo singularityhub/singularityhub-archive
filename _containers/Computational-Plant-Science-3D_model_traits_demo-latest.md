@@ -9,7 +9,7 @@ build_date: "2020-01-07T14:38:32.807Z"
 size_mb: 1265.0
 size: 558604319
 sif: "https://datasets.datalad.org/shub/Computational-Plant-Science/3D_model_traits_demo/latest/2020-01-07-4269ec86-1445583f/1445583f61611e013530c59c1f8ccfae.sif"
-url: https://datasets.datalad.org/shub/Computational-Plant-Science/3D_model_traits_demo/latest/2020-01-07-4269ec86-1445583f/
+datalad_url: https://datasets.datalad.org?dir=/shub/Computational-Plant-Science/3D_model_traits_demo/latest/2020-01-07-4269ec86-1445583f/
 recipe: https://datasets.datalad.org/shub/Computational-Plant-Science/3D_model_traits_demo/latest/2020-01-07-4269ec86-1445583f/Singularity
 collection: Computational-Plant-Science/3D_model_traits_demo
 ---

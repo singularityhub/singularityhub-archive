@@ -9,7 +9,7 @@ build_date: "2021-04-16T13:42:10.171Z"
 size_mb: 221.04296875
 size: 231780352
 sif: "https://datasets.datalad.org/shub/andreiprodan/singularity/latest/2021-04-16-6995670d-d9e9a0a7/d9e9a0a71f0853002909cdb09888bb0386ff1bf3765b8ba7b0949fb1b4ea2609.sif"
-url: https://datasets.datalad.org/shub/andreiprodan/singularity/latest/2021-04-16-6995670d-d9e9a0a7/
+datalad_url: https://datasets.datalad.org?dir=/shub/andreiprodan/singularity/latest/2021-04-16-6995670d-d9e9a0a7/
 recipe: https://datasets.datalad.org/shub/andreiprodan/singularity/latest/2021-04-16-6995670d-d9e9a0a7/Singularity
 collection: andreiprodan/singularity
 ---

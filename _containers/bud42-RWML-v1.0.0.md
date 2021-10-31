@@ -9,7 +9,7 @@ build_date: "2018-07-05T21:26:00.981Z"
 size_mb: 14051
 size: 6060154911
 sif: "https://datasets.datalad.org/shub/bud42/RWML/v1.0.0/2018-07-05-3d7f2b52-bba4a2e1/bba4a2e18c3481f66260ca78e8a935e4.simg"
-url: https://datasets.datalad.org/shub/bud42/RWML/v1.0.0/2018-07-05-3d7f2b52-bba4a2e1/
+datalad_url: https://datasets.datalad.org?dir=/shub/bud42/RWML/v1.0.0/2018-07-05-3d7f2b52-bba4a2e1/
 recipe: https://datasets.datalad.org/shub/bud42/RWML/v1.0.0/2018-07-05-3d7f2b52-bba4a2e1/Singularity
 collection: bud42/RWML
 ---

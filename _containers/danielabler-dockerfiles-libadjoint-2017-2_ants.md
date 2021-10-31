@@ -9,7 +9,7 @@ build_date: "2021-03-02T14:21:36.610Z"
 size_mb: 7857
 size: 2193772575
 sif: "https://datasets.datalad.org/shub/danielabler/dockerfiles/libadjoint-2017-2_ants/2021-03-02-114fe822-691b1c72/691b1c726b8ae41aa551980e6b6d8a8b.simg"
-url: https://datasets.datalad.org/shub/danielabler/dockerfiles/libadjoint-2017-2_ants/2021-03-02-114fe822-691b1c72/
+datalad_url: https://datasets.datalad.org?dir=/shub/danielabler/dockerfiles/libadjoint-2017-2_ants/2021-03-02-114fe822-691b1c72/
 recipe: https://datasets.datalad.org/shub/danielabler/dockerfiles/libadjoint-2017-2_ants/2021-03-02-114fe822-691b1c72/Singularity
 collection: danielabler/dockerfiles
 ---

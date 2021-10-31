@@ -9,7 +9,7 @@ build_date: "2020-02-24T17:37:11.272Z"
 size_mb: 5490.0
 size: 2854305823
 sif: "https://datasets.datalad.org/shub/lluciesmith/singularity_imgs/py3_tf114/2020-02-24-4d8bd272-503f5369/503f53696b8861a5a12edf4280f32f03.sif"
-url: https://datasets.datalad.org/shub/lluciesmith/singularity_imgs/py3_tf114/2020-02-24-4d8bd272-503f5369/
+datalad_url: https://datasets.datalad.org?dir=/shub/lluciesmith/singularity_imgs/py3_tf114/2020-02-24-4d8bd272-503f5369/
 recipe: https://datasets.datalad.org/shub/lluciesmith/singularity_imgs/py3_tf114/2020-02-24-4d8bd272-503f5369/Singularity
 collection: lluciesmith/singularity_imgs
 ---

@@ -9,7 +9,7 @@ build_date: "2018-07-02T14:24:04.409Z"
 size_mb: 131
 size: 102977567
 sif: "https://datasets.datalad.org/shub/overcookedfrog/varkit/1.0.1/2018-07-02-2d1e0f7d-1cffbc94/1cffbc946da16c1afcd8c0a3468141d5.simg"
-url: https://datasets.datalad.org/shub/overcookedfrog/varkit/1.0.1/2018-07-02-2d1e0f7d-1cffbc94/
+datalad_url: https://datasets.datalad.org?dir=/shub/overcookedfrog/varkit/1.0.1/2018-07-02-2d1e0f7d-1cffbc94/
 recipe: https://datasets.datalad.org/shub/overcookedfrog/varkit/1.0.1/2018-07-02-2d1e0f7d-1cffbc94/Singularity
 collection: overcookedfrog/varkit
 ---

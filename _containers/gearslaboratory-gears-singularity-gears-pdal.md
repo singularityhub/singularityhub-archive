@@ -9,7 +9,7 @@ build_date: "2020-06-30T21:09:09.104Z"
 size_mb: 16788.0
 size: 5974110239
 sif: "https://datasets.datalad.org/shub/gearslaboratory/gears-singularity/gears-pdal/2020-06-30-14941ff8-0458f757/0458f75705773181c0262baedbd436e9.sif"
-url: https://datasets.datalad.org/shub/gearslaboratory/gears-singularity/gears-pdal/2020-06-30-14941ff8-0458f757/
+datalad_url: https://datasets.datalad.org?dir=/shub/gearslaboratory/gears-singularity/gears-pdal/2020-06-30-14941ff8-0458f757/
 recipe: https://datasets.datalad.org/shub/gearslaboratory/gears-singularity/gears-pdal/2020-06-30-14941ff8-0458f757/Singularity
 collection: gearslaboratory/gears-singularity
 ---

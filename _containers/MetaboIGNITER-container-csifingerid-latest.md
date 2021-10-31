@@ -9,7 +9,7 @@ build_date: "2019-10-14T12:14:45.304Z"
 size_mb: 746.0
 size: 320073759
 sif: "https://datasets.datalad.org/shub/MetaboIGNITER/container-csifingerid/latest/2019-10-14-7e5c0c65-2df8945b/2df8945b6073c36177e31487cb9548b5.sif"
-url: https://datasets.datalad.org/shub/MetaboIGNITER/container-csifingerid/latest/2019-10-14-7e5c0c65-2df8945b/
+datalad_url: https://datasets.datalad.org?dir=/shub/MetaboIGNITER/container-csifingerid/latest/2019-10-14-7e5c0c65-2df8945b/
 recipe: https://datasets.datalad.org/shub/MetaboIGNITER/container-csifingerid/latest/2019-10-14-7e5c0c65-2df8945b/Singularity
 collection: MetaboIGNITER/container-csifingerid
 ---

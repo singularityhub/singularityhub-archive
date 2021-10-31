@@ -9,7 +9,7 @@ build_date: "2021-02-18T20:42:36.285Z"
 size_mb: 6922.0
 size: 2728587295
 sif: "https://datasets.datalad.org/shub/motroy/singularity-brucellaweb/v2/2021-02-18-0580139f-bc72832c/bc72832c09e8b318aa04abb6f32142de.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-brucellaweb/v2/2021-02-18-0580139f-bc72832c/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-brucellaweb/v2/2021-02-18-0580139f-bc72832c/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-brucellaweb/v2/2021-02-18-0580139f-bc72832c/Singularity
 collection: motroy/singularity-brucellaweb
 ---

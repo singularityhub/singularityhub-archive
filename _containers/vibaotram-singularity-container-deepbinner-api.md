@@ -9,7 +9,7 @@ build_date: "2021-03-25T04:14:41.958Z"
 size_mb: 1543.0
 size: 589156383
 sif: "https://datasets.datalad.org/shub/vibaotram/singularity-container/deepbinner-api/2021-03-25-230ca202-2e483455/2e4834551fa5345e97cbfca111aaf9a7.sif"
-url: https://datasets.datalad.org/shub/vibaotram/singularity-container/deepbinner-api/2021-03-25-230ca202-2e483455/
+datalad_url: https://datasets.datalad.org?dir=/shub/vibaotram/singularity-container/deepbinner-api/2021-03-25-230ca202-2e483455/
 recipe: https://datasets.datalad.org/shub/vibaotram/singularity-container/deepbinner-api/2021-03-25-230ca202-2e483455/Singularity
 collection: vibaotram/singularity-container
 ---

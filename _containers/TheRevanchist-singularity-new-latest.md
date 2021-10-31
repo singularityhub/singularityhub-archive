@@ -9,7 +9,7 @@ build_date: "2018-11-17T04:47:35.526Z"
 size_mb: 6837
 size: 3087605791
 sif: "https://datasets.datalad.org/shub/TheRevanchist/singularity-new/latest/2018-11-17-fbe30ecc-9828c624/9828c624bae2872e78ab87edc6ff4181.simg"
-url: https://datasets.datalad.org/shub/TheRevanchist/singularity-new/latest/2018-11-17-fbe30ecc-9828c624/
+datalad_url: https://datasets.datalad.org?dir=/shub/TheRevanchist/singularity-new/latest/2018-11-17-fbe30ecc-9828c624/
 recipe: https://datasets.datalad.org/shub/TheRevanchist/singularity-new/latest/2018-11-17-fbe30ecc-9828c624/Singularity
 collection: TheRevanchist/singularity-new
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-07T06:19:37.706Z"
 size_mb: 8804.0
 size: 4461850655
 sif: "https://datasets.datalad.org/shub/TheNoyesLab/WGS_SNP_pipelines/etoki/2021-03-07-546734e6-19d91216/19d91216383ce24042968bba4dcd5d5e.sif"
-url: https://datasets.datalad.org/shub/TheNoyesLab/WGS_SNP_pipelines/etoki/2021-03-07-546734e6-19d91216/
+datalad_url: https://datasets.datalad.org?dir=/shub/TheNoyesLab/WGS_SNP_pipelines/etoki/2021-03-07-546734e6-19d91216/
 recipe: https://datasets.datalad.org/shub/TheNoyesLab/WGS_SNP_pipelines/etoki/2021-03-07-546734e6-19d91216/Singularity
 collection: TheNoyesLab/WGS_SNP_pipelines
 ---

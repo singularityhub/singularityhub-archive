@@ -9,7 +9,7 @@ build_date: "2021-03-18T11:08:51.869Z"
 size_mb: 1843.0
 size: 724918303
 sif: "https://datasets.datalad.org/shub/arrabito/CTADIRAC/cert/2021-03-18-58b3eff2-a0f688e0/a0f688e0c395aaec4a70e0c32513ca4b.sif"
-url: https://datasets.datalad.org/shub/arrabito/CTADIRAC/cert/2021-03-18-58b3eff2-a0f688e0/
+datalad_url: https://datasets.datalad.org?dir=/shub/arrabito/CTADIRAC/cert/2021-03-18-58b3eff2-a0f688e0/
 recipe: https://datasets.datalad.org/shub/arrabito/CTADIRAC/cert/2021-03-18-58b3eff2-a0f688e0/Singularity
 collection: arrabito/CTADIRAC
 ---

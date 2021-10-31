@@ -9,7 +9,7 @@ build_date: "2019-10-31T18:05:56.699Z"
 size_mb: 768.0
 size: 293101599
 sif: "https://datasets.datalad.org/shub/jlboat/BioinfoContainers/poplddecay/2019-10-31-ffa52de0-e6bb284b/e6bb284bb432f484b120ee2c3fe08302.sif"
-url: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/poplddecay/2019-10-31-ffa52de0-e6bb284b/
+datalad_url: https://datasets.datalad.org?dir=/shub/jlboat/BioinfoContainers/poplddecay/2019-10-31-ffa52de0-e6bb284b/
 recipe: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/poplddecay/2019-10-31-ffa52de0-e6bb284b/Singularity
 collection: jlboat/BioinfoContainers
 ---

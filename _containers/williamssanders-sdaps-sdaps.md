@@ -9,7 +9,7 @@ build_date: "2019-03-21T21:17:42.683Z"
 size_mb: 1427
 size: 521412639
 sif: "https://datasets.datalad.org/shub/williamssanders/sdaps/sdaps/2019-03-21-aee9ab3c-4976b92d/4976b92df073007b21d06b061b8b30ea.simg"
-url: https://datasets.datalad.org/shub/williamssanders/sdaps/sdaps/2019-03-21-aee9ab3c-4976b92d/
+datalad_url: https://datasets.datalad.org?dir=/shub/williamssanders/sdaps/sdaps/2019-03-21-aee9ab3c-4976b92d/
 recipe: https://datasets.datalad.org/shub/williamssanders/sdaps/sdaps/2019-03-21-aee9ab3c-4976b92d/Singularity
 collection: williamssanders/sdaps
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-29T13:52:19.919Z"
 size_mb: 1106.0
 size: 404520991
 sif: "https://datasets.datalad.org/shub/sodalite-hpe/modak/base-ubuntu-18-04/2020-06-29-2c9766b7-ff1a42b0/ff1a42b0e9d8d211d1726f81e3d92cf6.sif"
-url: https://datasets.datalad.org/shub/sodalite-hpe/modak/base-ubuntu-18-04/2020-06-29-2c9766b7-ff1a42b0/
+datalad_url: https://datasets.datalad.org?dir=/shub/sodalite-hpe/modak/base-ubuntu-18-04/2020-06-29-2c9766b7-ff1a42b0/
 recipe: https://datasets.datalad.org/shub/sodalite-hpe/modak/base-ubuntu-18-04/2020-06-29-2c9766b7-ff1a42b0/Singularity
 collection: sodalite-hpe/modak
 ---

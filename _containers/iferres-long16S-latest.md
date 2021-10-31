@@ -9,7 +9,7 @@ build_date: "2020-04-01T14:57:29.927Z"
 size_mb: 5791.0
 size: 3771953183
 sif: "https://datasets.datalad.org/shub/iferres/long16S/latest/2020-04-01-ab7d7f85-aade0570/aade05707a63b8b4562abef38e91a47f.sif"
-url: https://datasets.datalad.org/shub/iferres/long16S/latest/2020-04-01-ab7d7f85-aade0570/
+datalad_url: https://datasets.datalad.org?dir=/shub/iferres/long16S/latest/2020-04-01-ab7d7f85-aade0570/
 recipe: https://datasets.datalad.org/shub/iferres/long16S/latest/2020-04-01-ab7d7f85-aade0570/Singularity
 collection: iferres/long16S
 ---

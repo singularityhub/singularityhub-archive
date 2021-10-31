@@ -9,7 +9,7 @@ build_date: "2020-04-15T12:51:07.186Z"
 size_mb: 3238.0
 size: 1728204831
 sif: "https://datasets.datalad.org/shub/alibaba4055/dockerfiles/gpu/2020-04-15-4fd08475-c7a51517/c7a51517620a99a0a3f9af0a280b571c.sif"
-url: https://datasets.datalad.org/shub/alibaba4055/dockerfiles/gpu/2020-04-15-4fd08475-c7a51517/
+datalad_url: https://datasets.datalad.org?dir=/shub/alibaba4055/dockerfiles/gpu/2020-04-15-4fd08475-c7a51517/
 recipe: https://datasets.datalad.org/shub/alibaba4055/dockerfiles/gpu/2020-04-15-4fd08475-c7a51517/Singularity
 collection: alibaba4055/dockerfiles
 ---

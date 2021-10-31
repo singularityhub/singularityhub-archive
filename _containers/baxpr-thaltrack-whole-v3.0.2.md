@@ -9,7 +9,7 @@ build_date: "2020-07-06T15:28:55.454Z"
 size_mb: 16299.0
 size: 6837665823
 sif: "https://datasets.datalad.org/shub/baxpr/thaltrack-whole/v3.0.2/2020-07-06-261a4a82-102f84ff/102f84ff451ed0a81abe81a1dd8808a0.sif"
-url: https://datasets.datalad.org/shub/baxpr/thaltrack-whole/v3.0.2/2020-07-06-261a4a82-102f84ff/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/thaltrack-whole/v3.0.2/2020-07-06-261a4a82-102f84ff/
 recipe: https://datasets.datalad.org/shub/baxpr/thaltrack-whole/v3.0.2/2020-07-06-261a4a82-102f84ff/Singularity
 collection: baxpr/thaltrack-whole
 ---

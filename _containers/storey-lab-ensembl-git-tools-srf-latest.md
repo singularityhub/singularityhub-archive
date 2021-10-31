@@ -9,7 +9,7 @@ build_date: "2020-09-03T04:10:33.051Z"
 size_mb: 307.9765625
 size: 322936832
 sif: "https://datasets.datalad.org/shub/storey-lab/ensembl-git-tools-srf/latest/2020-09-03-af8f64d6-c89ce534/c89ce53430bf407591c8fd85384208a508dfa2722dafdc5ece7471797bd9b6e3.sif"
-url: https://datasets.datalad.org/shub/storey-lab/ensembl-git-tools-srf/latest/2020-09-03-af8f64d6-c89ce534/
+datalad_url: https://datasets.datalad.org?dir=/shub/storey-lab/ensembl-git-tools-srf/latest/2020-09-03-af8f64d6-c89ce534/
 recipe: https://datasets.datalad.org/shub/storey-lab/ensembl-git-tools-srf/latest/2020-09-03-af8f64d6-c89ce534/Singularity
 collection: storey-lab/ensembl-git-tools-srf
 ---

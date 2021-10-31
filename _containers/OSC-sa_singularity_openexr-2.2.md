@@ -9,7 +9,7 @@ build_date: "2019-09-28T04:52:21.746Z"
 size_mb: 170.0
 size: 61284383
 sif: "https://datasets.datalad.org/shub/OSC/sa_singularity_openexr/2.2/2019-09-28-58edf586-84aec246/84aec246479dd942bac3b3d59e977837.sif"
-url: https://datasets.datalad.org/shub/OSC/sa_singularity_openexr/2.2/2019-09-28-58edf586-84aec246/
+datalad_url: https://datasets.datalad.org?dir=/shub/OSC/sa_singularity_openexr/2.2/2019-09-28-58edf586-84aec246/
 recipe: https://datasets.datalad.org/shub/OSC/sa_singularity_openexr/2.2/2019-09-28-58edf586-84aec246/Singularity
 collection: OSC/sa_singularity_openexr
 ---

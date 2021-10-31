@@ -9,7 +9,7 @@ build_date: "2018-09-24T12:27:05.647Z"
 size_mb: 2981
 size: 1629249567
 sif: "https://datasets.datalad.org/shub/wujuu/singularity-tensorflow-gpu-hpc/latest/2018-09-24-17d3ea34-b121ed6c/b121ed6c4c7c612aef99526fd654b43b.simg"
-url: https://datasets.datalad.org/shub/wujuu/singularity-tensorflow-gpu-hpc/latest/2018-09-24-17d3ea34-b121ed6c/
+datalad_url: https://datasets.datalad.org?dir=/shub/wujuu/singularity-tensorflow-gpu-hpc/latest/2018-09-24-17d3ea34-b121ed6c/
 recipe: https://datasets.datalad.org/shub/wujuu/singularity-tensorflow-gpu-hpc/latest/2018-09-24-17d3ea34-b121ed6c/Singularity
 collection: wujuu/singularity-tensorflow-gpu-hpc
 ---

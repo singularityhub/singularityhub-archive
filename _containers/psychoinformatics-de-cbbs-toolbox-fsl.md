@@ -9,7 +9,7 @@ build_date: "2018-12-14T10:38:28.275Z"
 size_mb: 647
 size: 273367071
 sif: "https://datasets.datalad.org/shub/psychoinformatics-de/cbbs-toolbox/fsl/2018-12-14-8fa28227-4984c01e/4984c01e667b38d206a9a36acf5721be.simg"
-url: https://datasets.datalad.org/shub/psychoinformatics-de/cbbs-toolbox/fsl/2018-12-14-8fa28227-4984c01e/
+datalad_url: https://datasets.datalad.org?dir=/shub/psychoinformatics-de/cbbs-toolbox/fsl/2018-12-14-8fa28227-4984c01e/
 recipe: https://datasets.datalad.org/shub/psychoinformatics-de/cbbs-toolbox/fsl/2018-12-14-8fa28227-4984c01e/Singularity
 collection: psychoinformatics-de/cbbs-toolbox
 ---

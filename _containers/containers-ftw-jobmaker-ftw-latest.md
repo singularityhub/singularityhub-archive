@@ -9,7 +9,7 @@ build_date: "2020-04-25T05:33:35.655Z"
 size_mb: 982
 size: 354136095
 sif: "https://datasets.datalad.org/shub/containers-ftw/jobmaker-ftw/latest/2020-04-25-9788507a-e23e06f2/e23e06f25467ba838e1ebffff6858a55.simg"
-url: https://datasets.datalad.org/shub/containers-ftw/jobmaker-ftw/latest/2020-04-25-9788507a-e23e06f2/
+datalad_url: https://datasets.datalad.org?dir=/shub/containers-ftw/jobmaker-ftw/latest/2020-04-25-9788507a-e23e06f2/
 recipe: https://datasets.datalad.org/shub/containers-ftw/jobmaker-ftw/latest/2020-04-25-9788507a-e23e06f2/Singularity
 collection: containers-ftw/jobmaker-ftw
 ---

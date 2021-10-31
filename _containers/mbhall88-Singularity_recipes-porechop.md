@@ -9,7 +9,7 @@ build_date: "2019-09-13T08:25:48.729Z"
 size_mb: 633
 size: 227250207
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/porechop/2019-09-13-c45bed96-3499ffb8/3499ffb89a2bbc6e7945f07620541b3e.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/porechop/2019-09-13-c45bed96-3499ffb8/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/porechop/2019-09-13-c45bed96-3499ffb8/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/porechop/2019-09-13-c45bed96-3499ffb8/Singularity
 collection: mbhall88/Singularity_recipes
 ---

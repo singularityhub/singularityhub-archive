@@ -9,7 +9,7 @@ build_date: "2018-04-13T04:44:03.678Z"
 size_mb: 1315
 size: 479879199
 sif: "https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/src-bioconductor/2018-04-13-775c858b-73e5d4b9/73e5d4b959522469bda3b4b15788fe44.simg"
-url: https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/src-bioconductor/2018-04-13-775c858b-73e5d4b9/
+datalad_url: https://datasets.datalad.org?dir=/shub/remyd1/ubuntu-r-base/src-bioconductor/2018-04-13-775c858b-73e5d4b9/
 recipe: https://datasets.datalad.org/shub/remyd1/ubuntu-r-base/src-bioconductor/2018-04-13-775c858b-73e5d4b9/Singularity
 collection: remyd1/ubuntu-r-base
 ---

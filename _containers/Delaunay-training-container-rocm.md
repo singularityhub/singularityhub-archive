@@ -9,7 +9,7 @@ build_date: "2019-06-06T16:11:53.886Z"
 size_mb: 13985
 size: 3586936863
 sif: "https://datasets.datalad.org/shub/Delaunay/training-container/rocm/2019-06-06-3bdc580d-c7354437/c73544372d0893482046af13b6ee665d.simg"
-url: https://datasets.datalad.org/shub/Delaunay/training-container/rocm/2019-06-06-3bdc580d-c7354437/
+datalad_url: https://datasets.datalad.org?dir=/shub/Delaunay/training-container/rocm/2019-06-06-3bdc580d-c7354437/
 recipe: https://datasets.datalad.org/shub/Delaunay/training-container/rocm/2019-06-06-3bdc580d-c7354437/Singularity
 collection: Delaunay/training-container
 ---

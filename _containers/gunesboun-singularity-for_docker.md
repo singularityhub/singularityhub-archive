@@ -9,7 +9,7 @@ build_date: "2021-01-25T21:05:59.632Z"
 size_mb: 236.0
 size: 83435551
 sif: "https://datasets.datalad.org/shub/gunesboun/singularity/for_docker/2021-01-25-59f91147-c5b2bc66/c5b2bc6644077d553eedf5084cb0d259.sif"
-url: https://datasets.datalad.org/shub/gunesboun/singularity/for_docker/2021-01-25-59f91147-c5b2bc66/
+datalad_url: https://datasets.datalad.org?dir=/shub/gunesboun/singularity/for_docker/2021-01-25-59f91147-c5b2bc66/
 recipe: https://datasets.datalad.org/shub/gunesboun/singularity/for_docker/2021-01-25-59f91147-c5b2bc66/Singularity
 collection: gunesboun/singularity
 ---

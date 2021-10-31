@@ -9,7 +9,7 @@ build_date: "2020-11-12T09:04:26.783Z"
 size_mb: 2450
 size: 795881503
 sif: "https://datasets.datalad.org/shub/J35P312/ILLUMINATI/latest/2020-11-12-fffa9f73-9b02657e/9b02657e3285a693f1a220952a2d6f7e.simg"
-url: https://datasets.datalad.org/shub/J35P312/ILLUMINATI/latest/2020-11-12-fffa9f73-9b02657e/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/ILLUMINATI/latest/2020-11-12-fffa9f73-9b02657e/
 recipe: https://datasets.datalad.org/shub/J35P312/ILLUMINATI/latest/2020-11-12-fffa9f73-9b02657e/Singularity
 collection: J35P312/ILLUMINATI
 ---

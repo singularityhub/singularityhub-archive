@@ -9,7 +9,7 @@ build_date: "2020-11-20T09:39:22.220Z"
 size_mb: 5274
 size: 2894127135
 sif: "https://datasets.datalad.org/shub/rkpandya/CERR/txt/2020-11-20-4533b4c9-dd47fe12/dd47fe128f7e0818d43ca0a50a74020d.simg"
-url: https://datasets.datalad.org/shub/rkpandya/CERR/txt/2020-11-20-4533b4c9-dd47fe12/
+datalad_url: https://datasets.datalad.org?dir=/shub/rkpandya/CERR/txt/2020-11-20-4533b4c9-dd47fe12/
 recipe: https://datasets.datalad.org/shub/rkpandya/CERR/txt/2020-11-20-4533b4c9-dd47fe12/Singularity
 collection: rkpandya/CERR
 ---

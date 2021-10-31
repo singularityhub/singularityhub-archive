@@ -9,7 +9,7 @@ build_date: "2020-11-04T14:21:52.183Z"
 size_mb: 326.16015625
 size: 342003712
 sif: "https://datasets.datalad.org/shub/ous-uio-bioinfo-core/mirdeep_workflow/mirdeep2/2020-11-04-746bc193-9af661ea/9af661eacb0362e659803296d69c7117f6995e55c49fcf62befd5c0ff9f4cbe8.sif"
-url: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/mirdeep_workflow/mirdeep2/2020-11-04-746bc193-9af661ea/
+datalad_url: https://datasets.datalad.org?dir=/shub/ous-uio-bioinfo-core/mirdeep_workflow/mirdeep2/2020-11-04-746bc193-9af661ea/
 recipe: https://datasets.datalad.org/shub/ous-uio-bioinfo-core/mirdeep_workflow/mirdeep2/2020-11-04-746bc193-9af661ea/Singularity
 collection: ous-uio-bioinfo-core/mirdeep_workflow
 ---

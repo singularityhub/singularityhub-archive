@@ -9,7 +9,7 @@ build_date: "2021-03-18T16:05:19.867Z"
 size_mb: 2115
 size: 943001631
 sif: "https://datasets.datalad.org/shub/chrarnold/Singularity_images/atac_seq_conda2/2021-03-18-d84f44d8-98459992/9845999248f159ada03e9436154b7a82.simg"
-url: https://datasets.datalad.org/shub/chrarnold/Singularity_images/atac_seq_conda2/2021-03-18-d84f44d8-98459992/
+datalad_url: https://datasets.datalad.org?dir=/shub/chrarnold/Singularity_images/atac_seq_conda2/2021-03-18-d84f44d8-98459992/
 recipe: https://datasets.datalad.org/shub/chrarnold/Singularity_images/atac_seq_conda2/2021-03-18-d84f44d8-98459992/Singularity
 collection: chrarnold/Singularity_images
 ---

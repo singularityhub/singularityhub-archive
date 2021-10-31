@@ -9,7 +9,7 @@ build_date: "2020-01-16T14:02:09.913Z"
 size_mb: 865.0
 size: 341024799
 sif: "https://datasets.datalad.org/shub/afonsoguerra/CargoShip/natrail/2020-01-16-f741b526-20567927/205679271e697daf15f55425ab3a184d.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/natrail/2020-01-16-f741b526-20567927/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/CargoShip/natrail/2020-01-16-f741b526-20567927/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/CargoShip/natrail/2020-01-16-f741b526-20567927/Singularity
 collection: afonsoguerra/CargoShip
 ---

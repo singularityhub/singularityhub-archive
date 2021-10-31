@@ -9,7 +9,7 @@ build_date: "2019-03-13T10:07:35.731Z"
 size_mb: 337
 size: 106856479
 sif: "https://datasets.datalad.org/shub/XeBoris/Singularity/test1/2019-03-13-df96e945-0fa26907/0fa2690785d271e014db4d3f7b8aa82f.simg"
-url: https://datasets.datalad.org/shub/XeBoris/Singularity/test1/2019-03-13-df96e945-0fa26907/
+datalad_url: https://datasets.datalad.org?dir=/shub/XeBoris/Singularity/test1/2019-03-13-df96e945-0fa26907/
 recipe: https://datasets.datalad.org/shub/XeBoris/Singularity/test1/2019-03-13-df96e945-0fa26907/Singularity
 collection: XeBoris/Singularity
 ---

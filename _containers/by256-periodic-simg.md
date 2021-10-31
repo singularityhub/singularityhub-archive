@@ -9,7 +9,7 @@ build_date: "2019-06-05T15:20:41.410Z"
 size_mb: 5678
 size: 2672082975
 sif: "https://datasets.datalad.org/shub/by256/periodic/simg/2019-06-05-7f6c2525-56f50bd9/56f50bd95ab4565b8f3f9889140a9ee0.simg"
-url: https://datasets.datalad.org/shub/by256/periodic/simg/2019-06-05-7f6c2525-56f50bd9/
+datalad_url: https://datasets.datalad.org?dir=/shub/by256/periodic/simg/2019-06-05-7f6c2525-56f50bd9/
 recipe: https://datasets.datalad.org/shub/by256/periodic/simg/2019-06-05-7f6c2525-56f50bd9/Singularity
 collection: by256/periodic
 ---

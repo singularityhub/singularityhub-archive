@@ -9,7 +9,7 @@ build_date: "2019-06-18T22:56:15.755Z"
 size_mb: 5677
 size: 2766250015
 sif: "https://datasets.datalad.org/shub/murphygroup/singularity-cellorganizer/latest/2019-06-18-1eff0e0b-15b59914/15b59914e7635aafe916142a8b2a9224.simg"
-url: https://datasets.datalad.org/shub/murphygroup/singularity-cellorganizer/latest/2019-06-18-1eff0e0b-15b59914/
+datalad_url: https://datasets.datalad.org?dir=/shub/murphygroup/singularity-cellorganizer/latest/2019-06-18-1eff0e0b-15b59914/
 recipe: https://datasets.datalad.org/shub/murphygroup/singularity-cellorganizer/latest/2019-06-18-1eff0e0b-15b59914/Singularity
 collection: murphygroup/singularity-cellorganizer
 ---

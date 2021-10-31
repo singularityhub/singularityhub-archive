@@ -9,7 +9,7 @@ build_date: "2021-01-26T17:33:24.282Z"
 size_mb: 812.0
 size: 175624223
 sif: "https://datasets.datalad.org/shub/andrewdircks/openmpi-python-singularity/latest/2021-01-26-d9642271-b93a78c7/b93a78c7cede0f155405bce96cce16bd.sif"
-url: https://datasets.datalad.org/shub/andrewdircks/openmpi-python-singularity/latest/2021-01-26-d9642271-b93a78c7/
+datalad_url: https://datasets.datalad.org?dir=/shub/andrewdircks/openmpi-python-singularity/latest/2021-01-26-d9642271-b93a78c7/
 recipe: https://datasets.datalad.org/shub/andrewdircks/openmpi-python-singularity/latest/2021-01-26-d9642271-b93a78c7/Singularity
 collection: andrewdircks/openmpi-python-singularity
 ---

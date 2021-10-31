@@ -9,7 +9,7 @@ build_date: "2018-10-18T17:22:05.075Z"
 size_mb: 357
 size: 141283359
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/albacore/2018-10-18-08fe7e5f-79bbb58a/79bbb58a4a009d06f485c3ab62255b02.simg"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/albacore/2018-10-18-08fe7e5f-79bbb58a/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/albacore/2018-10-18-08fe7e5f-79bbb58a/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/albacore/2018-10-18-08fe7e5f-79bbb58a/Singularity
 collection: dominik-handler/AP_singu
 ---

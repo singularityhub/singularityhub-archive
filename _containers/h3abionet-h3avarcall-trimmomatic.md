@@ -9,7 +9,7 @@ build_date: "2021-01-18T11:11:55.037Z"
 size_mb: 666.0
 size: 253972511
 sif: "https://datasets.datalad.org/shub/h3abionet/h3avarcall/trimmomatic/2021-01-18-5420785f-b6314ec4/b6314ec4978783e6cdbafe7dedfdf96e.sif"
-url: https://datasets.datalad.org/shub/h3abionet/h3avarcall/trimmomatic/2021-01-18-5420785f-b6314ec4/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/h3avarcall/trimmomatic/2021-01-18-5420785f-b6314ec4/
 recipe: https://datasets.datalad.org/shub/h3abionet/h3avarcall/trimmomatic/2021-01-18-5420785f-b6314ec4/Singularity
 collection: h3abionet/h3avarcall
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-19T16:39:47.053Z"
 size_mb: 5
 size: 2007071
 sif: "https://datasets.datalad.org/shub/ikaneshiro/singularityhub/latest/2021-03-19-7d56b98e-57696988/5769698889c385d55cce729a8063211c.simg"
-url: https://datasets.datalad.org/shub/ikaneshiro/singularityhub/latest/2021-03-19-7d56b98e-57696988/
+datalad_url: https://datasets.datalad.org?dir=/shub/ikaneshiro/singularityhub/latest/2021-03-19-7d56b98e-57696988/
 recipe: https://datasets.datalad.org/shub/ikaneshiro/singularityhub/latest/2021-03-19-7d56b98e-57696988/Singularity
 collection: ikaneshiro/singularityhub
 ---

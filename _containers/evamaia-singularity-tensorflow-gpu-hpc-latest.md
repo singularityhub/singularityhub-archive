@@ -9,7 +9,7 @@ build_date: "2020-07-04T01:33:21.751Z"
 size_mb: 3760.0
 size: 2060058655
 sif: "https://datasets.datalad.org/shub/evamaia/singularity-tensorflow-gpu-hpc/latest/2020-07-04-21df2dfd-d76ac57d/d76ac57d5984ccf3c11d5e96e900318e.sif"
-url: https://datasets.datalad.org/shub/evamaia/singularity-tensorflow-gpu-hpc/latest/2020-07-04-21df2dfd-d76ac57d/
+datalad_url: https://datasets.datalad.org?dir=/shub/evamaia/singularity-tensorflow-gpu-hpc/latest/2020-07-04-21df2dfd-d76ac57d/
 recipe: https://datasets.datalad.org/shub/evamaia/singularity-tensorflow-gpu-hpc/latest/2020-07-04-21df2dfd-d76ac57d/Singularity
 collection: evamaia/singularity-tensorflow-gpu-hpc
 ---

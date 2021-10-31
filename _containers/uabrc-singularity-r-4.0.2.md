@@ -9,7 +9,7 @@ build_date: "2020-10-20T19:31:00.447Z"
 size_mb: 607.0
 size: 239685663
 sif: "https://datasets.datalad.org/shub/uabrc/singularity-r/4.0.2/2020-10-20-f9cabb07-aafd7b03/aafd7b03c3e13c72e903442395d742fa.sif"
-url: https://datasets.datalad.org/shub/uabrc/singularity-r/4.0.2/2020-10-20-f9cabb07-aafd7b03/
+datalad_url: https://datasets.datalad.org?dir=/shub/uabrc/singularity-r/4.0.2/2020-10-20-f9cabb07-aafd7b03/
 recipe: https://datasets.datalad.org/shub/uabrc/singularity-r/4.0.2/2020-10-20-f9cabb07-aafd7b03/Singularity
 collection: uabrc/singularity-r
 ---

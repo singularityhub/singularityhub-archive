@@ -9,7 +9,7 @@ build_date: "2021-04-19T17:49:24.286Z"
 size_mb: 333
 size: 104374303
 sif: "https://datasets.datalad.org/shub/OSC/centos7-launcher/latest/2021-04-19-02a3f1d4-b97ce30c/b97ce30c2b35f67b28d7a6830dca5bbe.simg"
-url: https://datasets.datalad.org/shub/OSC/centos7-launcher/latest/2021-04-19-02a3f1d4-b97ce30c/
+datalad_url: https://datasets.datalad.org?dir=/shub/OSC/centos7-launcher/latest/2021-04-19-02a3f1d4-b97ce30c/
 recipe: https://datasets.datalad.org/shub/OSC/centos7-launcher/latest/2021-04-19-02a3f1d4-b97ce30c/Singularity
 collection: OSC/centos7-launcher
 ---

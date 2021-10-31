@@ -9,7 +9,7 @@ build_date: "2021-01-11T22:38:26.792Z"
 size_mb: 13808.0
 size: 5620969503
 sif: "https://datasets.datalad.org/shub/chrisvriend/ENIGMA_subthal/s2stretch/2021-01-11-f2c0d0d2-3615791d/3615791d2dfa285157c8940625cccc9a.sif"
-url: https://datasets.datalad.org/shub/chrisvriend/ENIGMA_subthal/s2stretch/2021-01-11-f2c0d0d2-3615791d/
+datalad_url: https://datasets.datalad.org?dir=/shub/chrisvriend/ENIGMA_subthal/s2stretch/2021-01-11-f2c0d0d2-3615791d/
 recipe: https://datasets.datalad.org/shub/chrisvriend/ENIGMA_subthal/s2stretch/2021-01-11-f2c0d0d2-3615791d/Singularity
 collection: chrisvriend/ENIGMA_subthal
 ---

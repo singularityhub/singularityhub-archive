@@ -9,7 +9,7 @@ build_date: "2019-09-11T20:15:09.121Z"
 size_mb: 2848.0
 size: 1189761055
 sif: "https://datasets.datalad.org/shub/vmichals/singularity/dataplumbing-cpu/2019-09-11-06db6380-a607edc9/a607edc9708d96d94fab4ee9b0d1e777.sif"
-url: https://datasets.datalad.org/shub/vmichals/singularity/dataplumbing-cpu/2019-09-11-06db6380-a607edc9/
+datalad_url: https://datasets.datalad.org?dir=/shub/vmichals/singularity/dataplumbing-cpu/2019-09-11-06db6380-a607edc9/
 recipe: https://datasets.datalad.org/shub/vmichals/singularity/dataplumbing-cpu/2019-09-11-06db6380-a607edc9/Singularity
 collection: vmichals/singularity
 ---

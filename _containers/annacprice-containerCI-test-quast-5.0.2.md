@@ -9,7 +9,7 @@ build_date: "2020-10-25T20:01:29.462Z"
 size_mb: 1481.0
 size: 426233887
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/quast-5.0.2/2020-10-25-8ee3614a-1add7352/1add7352f65511991cb246a10f54b2c1.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/quast-5.0.2/2020-10-25-8ee3614a-1add7352/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/quast-5.0.2/2020-10-25-8ee3614a-1add7352/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/quast-5.0.2/2020-10-25-8ee3614a-1add7352/Singularity
 collection: annacprice/containerCI-test
 ---

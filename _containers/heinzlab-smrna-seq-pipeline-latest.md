@@ -9,7 +9,7 @@ build_date: "2018-11-01T03:16:08.969Z"
 size_mb: 2696
 size: 936579103
 sif: "https://datasets.datalad.org/shub/heinzlab/smrna-seq-pipeline/latest/2018-11-01-0eeb6d90-f3bc864f/f3bc864fd54bbda5f8753c5a0228a5bf.simg"
-url: https://datasets.datalad.org/shub/heinzlab/smrna-seq-pipeline/latest/2018-11-01-0eeb6d90-f3bc864f/
+datalad_url: https://datasets.datalad.org?dir=/shub/heinzlab/smrna-seq-pipeline/latest/2018-11-01-0eeb6d90-f3bc864f/
 recipe: https://datasets.datalad.org/shub/heinzlab/smrna-seq-pipeline/latest/2018-11-01-0eeb6d90-f3bc864f/Singularity
 collection: heinzlab/smrna-seq-pipeline
 ---

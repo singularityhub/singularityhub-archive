@@ -9,7 +9,7 @@ build_date: "2020-08-30T16:53:00.114Z"
 size_mb: 2265.0
 size: 926728223
 sif: "https://datasets.datalad.org/shub/Viktor1117/Stringtie2/latest/2020-08-30-6c6ea4a7-85004fd3/85004fd38e037e09a26316c2408b5ae5.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/Stringtie2/latest/2020-08-30-6c6ea4a7-85004fd3/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/Stringtie2/latest/2020-08-30-6c6ea4a7-85004fd3/
 recipe: https://datasets.datalad.org/shub/Viktor1117/Stringtie2/latest/2020-08-30-6c6ea4a7-85004fd3/Singularity
 collection: Viktor1117/Stringtie2
 ---

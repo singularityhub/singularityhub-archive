@@ -9,7 +9,7 @@ build_date: "2018-04-21T17:37:03.797Z"
 size_mb: 2495
 size: 1197027359
 sif: "https://datasets.datalad.org/shub/GiMichiels/S_Detect_Sample/latest/2018-04-21-3d9ad81f-28cabb74/28cabb747a2edfa7feabd466624944e7.simg"
-url: https://datasets.datalad.org/shub/GiMichiels/S_Detect_Sample/latest/2018-04-21-3d9ad81f-28cabb74/
+datalad_url: https://datasets.datalad.org?dir=/shub/GiMichiels/S_Detect_Sample/latest/2018-04-21-3d9ad81f-28cabb74/
 recipe: https://datasets.datalad.org/shub/GiMichiels/S_Detect_Sample/latest/2018-04-21-3d9ad81f-28cabb74/Singularity
 collection: GiMichiels/S_Detect_Sample
 ---

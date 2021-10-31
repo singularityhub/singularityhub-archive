@@ -9,7 +9,7 @@ build_date: "2021-03-31T04:26:06.983Z"
 size_mb: 3159
 size: 1492787231
 sif: "https://datasets.datalad.org/shub/rainsworth/casa-5.4.1-container/latest/2021-03-31-22f77ec1-9d9057a4/9d9057a42c5265e36144759d5893ca90.simg"
-url: https://datasets.datalad.org/shub/rainsworth/casa-5.4.1-container/latest/2021-03-31-22f77ec1-9d9057a4/
+datalad_url: https://datasets.datalad.org?dir=/shub/rainsworth/casa-5.4.1-container/latest/2021-03-31-22f77ec1-9d9057a4/
 recipe: https://datasets.datalad.org/shub/rainsworth/casa-5.4.1-container/latest/2021-03-31-22f77ec1-9d9057a4/Singularity
 collection: rainsworth/casa-5.4.1-container
 ---

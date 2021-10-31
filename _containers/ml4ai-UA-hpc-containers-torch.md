@@ -9,7 +9,7 @@ build_date: "2021-02-17T13:48:32.421Z"
 size_mb: 6781
 size: 2340954143
 sif: "https://datasets.datalad.org/shub/ml4ai/UA-hpc-containers/torch/2021-02-17-79885f82-c5ae2b0f/c5ae2b0fb9e23f4c281b9c02f8c720ff.simg"
-url: https://datasets.datalad.org/shub/ml4ai/UA-hpc-containers/torch/2021-02-17-79885f82-c5ae2b0f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ml4ai/UA-hpc-containers/torch/2021-02-17-79885f82-c5ae2b0f/
 recipe: https://datasets.datalad.org/shub/ml4ai/UA-hpc-containers/torch/2021-02-17-79885f82-c5ae2b0f/Singularity
 collection: ml4ai/UA-hpc-containers
 ---

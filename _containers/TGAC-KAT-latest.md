@@ -9,7 +9,7 @@ build_date: "2021-02-20T14:26:30.303Z"
 size_mb: 1014
 size: 352874527
 sif: "https://datasets.datalad.org/shub/TGAC/KAT/latest/2021-02-20-f2a9789a-81dd908b/81dd908b7e933a67b1a2a673e22c6c91.simg"
-url: https://datasets.datalad.org/shub/TGAC/KAT/latest/2021-02-20-f2a9789a-81dd908b/
+datalad_url: https://datasets.datalad.org?dir=/shub/TGAC/KAT/latest/2021-02-20-f2a9789a-81dd908b/
 recipe: https://datasets.datalad.org/shub/TGAC/KAT/latest/2021-02-20-f2a9789a-81dd908b/Singularity
 collection: TGAC/KAT
 ---

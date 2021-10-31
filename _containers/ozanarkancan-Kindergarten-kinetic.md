@@ -9,7 +9,7 @@ build_date: "2018-05-02T17:08:29.934Z"
 size_mb: 4480
 size: 1467654175
 sif: "https://datasets.datalad.org/shub/ozanarkancan/Kindergarten/kinetic/2018-05-02-54e8d1dd-139c2cae/139c2cae979cf435a8628a445d6e14cf.simg"
-url: https://datasets.datalad.org/shub/ozanarkancan/Kindergarten/kinetic/2018-05-02-54e8d1dd-139c2cae/
+datalad_url: https://datasets.datalad.org?dir=/shub/ozanarkancan/Kindergarten/kinetic/2018-05-02-54e8d1dd-139c2cae/
 recipe: https://datasets.datalad.org/shub/ozanarkancan/Kindergarten/kinetic/2018-05-02-54e8d1dd-139c2cae/Singularity
 collection: ozanarkancan/Kindergarten
 ---

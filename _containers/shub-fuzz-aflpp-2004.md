@@ -9,7 +9,7 @@ build_date: "2021-02-03T13:25:42.967Z"
 size_mb: 954.0
 size: 306278431
 sif: "https://datasets.datalad.org/shub/shub-fuzz/aflpp/2004/2021-02-03-bad827fa-186adf12/186adf126ae0e9b5995df9e3a2ac801b.sif"
-url: https://datasets.datalad.org/shub/shub-fuzz/aflpp/2004/2021-02-03-bad827fa-186adf12/
+datalad_url: https://datasets.datalad.org?dir=/shub/shub-fuzz/aflpp/2004/2021-02-03-bad827fa-186adf12/
 recipe: https://datasets.datalad.org/shub/shub-fuzz/aflpp/2004/2021-02-03-bad827fa-186adf12/Singularity
 collection: shub-fuzz/aflpp
 ---

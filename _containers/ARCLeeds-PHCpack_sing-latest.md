@@ -9,7 +9,7 @@ build_date: "2020-07-23T14:13:44.886Z"
 size_mb: 427.0
 size: 171302943
 sif: "https://datasets.datalad.org/shub/ARCLeeds/PHCpack_sing/latest/2020-07-23-4a152aaf-5b3d90c3/5b3d90c3bb908f3fe4712107c6d80bf4.sif"
-url: https://datasets.datalad.org/shub/ARCLeeds/PHCpack_sing/latest/2020-07-23-4a152aaf-5b3d90c3/
+datalad_url: https://datasets.datalad.org?dir=/shub/ARCLeeds/PHCpack_sing/latest/2020-07-23-4a152aaf-5b3d90c3/
 recipe: https://datasets.datalad.org/shub/ARCLeeds/PHCpack_sing/latest/2020-07-23-4a152aaf-5b3d90c3/Singularity
 collection: ARCLeeds/PHCpack_sing
 ---

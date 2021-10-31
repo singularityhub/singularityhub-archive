@@ -9,7 +9,7 @@ build_date: "2019-08-20T06:06:44.189Z"
 size_mb: 3963
 size: 1854173215
 sif: "https://datasets.datalad.org/shub/connor-lab/singularity-recipes/prokka/2019-08-20-4256bbd6-0d6d1d86/0d6d1d8610a9772ed3983f1af74cc6e8.simg"
-url: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/prokka/2019-08-20-4256bbd6-0d6d1d86/
+datalad_url: https://datasets.datalad.org?dir=/shub/connor-lab/singularity-recipes/prokka/2019-08-20-4256bbd6-0d6d1d86/
 recipe: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/prokka/2019-08-20-4256bbd6-0d6d1d86/Singularity
 collection: connor-lab/singularity-recipes
 ---

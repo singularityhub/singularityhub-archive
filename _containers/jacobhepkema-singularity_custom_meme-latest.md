@@ -9,7 +9,7 @@ build_date: "2021-03-11T15:03:15.089Z"
 size_mb: 865.0
 size: 289157151
 sif: "https://datasets.datalad.org/shub/jacobhepkema/singularity_custom_meme/latest/2021-03-11-de52d062-130bd9ce/130bd9cec48bf0eeb0b7c17401c9cf3a.sif"
-url: https://datasets.datalad.org/shub/jacobhepkema/singularity_custom_meme/latest/2021-03-11-de52d062-130bd9ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/jacobhepkema/singularity_custom_meme/latest/2021-03-11-de52d062-130bd9ce/
 recipe: https://datasets.datalad.org/shub/jacobhepkema/singularity_custom_meme/latest/2021-03-11-de52d062-130bd9ce/Singularity
 collection: jacobhepkema/singularity_custom_meme
 ---

@@ -9,7 +9,7 @@ build_date: "2020-04-09T16:46:54.266Z"
 size_mb: 4819.0
 size: 2270765087
 sif: "https://datasets.datalad.org/shub/rtpwilliams/Summit_RNAseq_container/latest/2020-04-09-4a3e0f8d-bf2b6a72/bf2b6a7224f780c4a9a00a919a98a0c2.sif"
-url: https://datasets.datalad.org/shub/rtpwilliams/Summit_RNAseq_container/latest/2020-04-09-4a3e0f8d-bf2b6a72/
+datalad_url: https://datasets.datalad.org?dir=/shub/rtpwilliams/Summit_RNAseq_container/latest/2020-04-09-4a3e0f8d-bf2b6a72/
 recipe: https://datasets.datalad.org/shub/rtpwilliams/Summit_RNAseq_container/latest/2020-04-09-4a3e0f8d-bf2b6a72/Singularity
 collection: rtpwilliams/Summit_RNAseq_container
 ---

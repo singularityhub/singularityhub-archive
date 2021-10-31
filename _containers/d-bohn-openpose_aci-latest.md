@@ -9,7 +9,7 @@ build_date: "2019-06-03T16:24:55.002Z"
 size_mb: 5331
 size: 3206311967
 sif: "https://datasets.datalad.org/shub/d-bohn/openpose_aci/latest/2019-06-03-627b8001-a0b0743a/a0b0743a65d38b80660bd51c359da470.simg"
-url: https://datasets.datalad.org/shub/d-bohn/openpose_aci/latest/2019-06-03-627b8001-a0b0743a/
+datalad_url: https://datasets.datalad.org?dir=/shub/d-bohn/openpose_aci/latest/2019-06-03-627b8001-a0b0743a/
 recipe: https://datasets.datalad.org/shub/d-bohn/openpose_aci/latest/2019-06-03-627b8001-a0b0743a/Singularity
 collection: d-bohn/openpose_aci
 ---

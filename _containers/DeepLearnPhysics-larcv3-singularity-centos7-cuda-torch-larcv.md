@@ -9,7 +9,7 @@ build_date: "2020-05-08T10:38:11.273Z"
 size_mb: 6523.0
 size: 3265761311
 sif: "https://datasets.datalad.org/shub/DeepLearnPhysics/larcv3-singularity/centos7-cuda-torch-larcv/2020-05-08-f764d106-71a0c873/71a0c873e4088508dcb36226312ed48f.sif"
-url: https://datasets.datalad.org/shub/DeepLearnPhysics/larcv3-singularity/centos7-cuda-torch-larcv/2020-05-08-f764d106-71a0c873/
+datalad_url: https://datasets.datalad.org?dir=/shub/DeepLearnPhysics/larcv3-singularity/centos7-cuda-torch-larcv/2020-05-08-f764d106-71a0c873/
 recipe: https://datasets.datalad.org/shub/DeepLearnPhysics/larcv3-singularity/centos7-cuda-torch-larcv/2020-05-08-f764d106-71a0c873/Singularity
 collection: DeepLearnPhysics/larcv3-singularity
 ---

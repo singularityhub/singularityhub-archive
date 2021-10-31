@@ -9,7 +9,7 @@ build_date: "2020-04-23T14:58:00.000Z"
 size_mb: 4095
 size: 2281488415
 sif: "https://datasets.datalad.org/shub/bstriner/cuda-10.1-cudnn7-devel-ubuntu16.04/latest/2020-04-23-77457ec1-6a875b01/6a875b0186820cae2a6da1e90fbe81a3.simg"
-url: https://datasets.datalad.org/shub/bstriner/cuda-10.1-cudnn7-devel-ubuntu16.04/latest/2020-04-23-77457ec1-6a875b01/
+datalad_url: https://datasets.datalad.org?dir=/shub/bstriner/cuda-10.1-cudnn7-devel-ubuntu16.04/latest/2020-04-23-77457ec1-6a875b01/
 recipe: https://datasets.datalad.org/shub/bstriner/cuda-10.1-cudnn7-devel-ubuntu16.04/latest/2020-04-23-77457ec1-6a875b01/Singularity
 collection: bstriner/cuda-10.1-cudnn7-devel-ubuntu16.04
 ---

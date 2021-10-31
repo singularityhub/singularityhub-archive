@@ -9,7 +9,7 @@ build_date: "2020-07-04T14:24:54.930Z"
 size_mb: 1573.0
 size: 642482207
 sif: "https://datasets.datalad.org/shub/J35P312/Nim_test/latest/2020-07-04-686adbaa-9c5172a2/9c5172a24ed864a528897f70b565a092.sif"
-url: https://datasets.datalad.org/shub/J35P312/Nim_test/latest/2020-07-04-686adbaa-9c5172a2/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/Nim_test/latest/2020-07-04-686adbaa-9c5172a2/
 recipe: https://datasets.datalad.org/shub/J35P312/Nim_test/latest/2020-07-04-686adbaa-9c5172a2/Singularity
 collection: J35P312/Nim_test
 ---

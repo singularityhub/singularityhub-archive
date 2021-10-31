@@ -9,7 +9,7 @@ build_date: "2019-01-29T17:36:14.961Z"
 size_mb: 76
 size: 27955231
 sif: "https://datasets.datalad.org/shub/acharles7/Singularity/latest/2019-01-29-1d0f1fff-75c938ba/75c938ba0cdb68ca98ac20ff995370e6.simg"
-url: https://datasets.datalad.org/shub/acharles7/Singularity/latest/2019-01-29-1d0f1fff-75c938ba/
+datalad_url: https://datasets.datalad.org?dir=/shub/acharles7/Singularity/latest/2019-01-29-1d0f1fff-75c938ba/
 recipe: https://datasets.datalad.org/shub/acharles7/Singularity/latest/2019-01-29-1d0f1fff-75c938ba/Singularity
 collection: acharles7/Singularity
 ---

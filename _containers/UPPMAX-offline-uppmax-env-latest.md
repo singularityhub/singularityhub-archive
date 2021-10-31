@@ -9,7 +9,7 @@ build_date: "2020-10-15T10:16:16.439Z"
 size_mb: 4964.0
 size: 1778905119
 sif: "https://datasets.datalad.org/shub/UPPMAX/offline-uppmax-env/latest/2020-10-15-392557c1-4a9c12d8/4a9c12d89e80a14b2c49021e0a200a4a.sif"
-url: https://datasets.datalad.org/shub/UPPMAX/offline-uppmax-env/latest/2020-10-15-392557c1-4a9c12d8/
+datalad_url: https://datasets.datalad.org?dir=/shub/UPPMAX/offline-uppmax-env/latest/2020-10-15-392557c1-4a9c12d8/
 recipe: https://datasets.datalad.org/shub/UPPMAX/offline-uppmax-env/latest/2020-10-15-392557c1-4a9c12d8/Singularity
 collection: UPPMAX/offline-uppmax-env
 ---

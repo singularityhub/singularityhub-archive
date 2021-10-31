@@ -9,7 +9,7 @@ build_date: "2019-03-22T14:58:36.292Z"
 size_mb: 1784
 size: 627195935
 sif: "https://datasets.datalad.org/shub/mmore500/nightmare-downloader/latest/2019-03-22-54dc12d5-fb5ac605/fb5ac6059d8fa69ce53242ca2d5251f6.simg"
-url: https://datasets.datalad.org/shub/mmore500/nightmare-downloader/latest/2019-03-22-54dc12d5-fb5ac605/
+datalad_url: https://datasets.datalad.org?dir=/shub/mmore500/nightmare-downloader/latest/2019-03-22-54dc12d5-fb5ac605/
 recipe: https://datasets.datalad.org/shub/mmore500/nightmare-downloader/latest/2019-03-22-54dc12d5-fb5ac605/Singularity
 collection: mmore500/nightmare-downloader
 ---

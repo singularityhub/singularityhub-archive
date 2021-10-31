@@ -9,7 +9,7 @@ build_date: "2021-01-22T15:11:32.366Z"
 size_mb: 1064.0
 size: 472461343
 sif: "https://datasets.datalad.org/shub/descostesn/singularities/parallelfastqdumpv063/2021-01-22-9a694e15-422cf728/422cf7287cad01e47e6844c6f5a246a3.sif"
-url: https://datasets.datalad.org/shub/descostesn/singularities/parallelfastqdumpv063/2021-01-22-9a694e15-422cf728/
+datalad_url: https://datasets.datalad.org?dir=/shub/descostesn/singularities/parallelfastqdumpv063/2021-01-22-9a694e15-422cf728/
 recipe: https://datasets.datalad.org/shub/descostesn/singularities/parallelfastqdumpv063/2021-01-22-9a694e15-422cf728/Singularity
 collection: descostesn/singularities
 ---

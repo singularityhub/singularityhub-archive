@@ -9,7 +9,7 @@ build_date: "2017-12-04T14:10:46.878Z"
 size_mb: 2777
 size: 775348255
 sif: "https://datasets.datalad.org/shub/gipert/baseos-containers/g4.9.6/2017-12-04-987e20f2-5ab906e6/5ab906e68a4d11977ae58e39a0ab9e15.simg"
-url: https://datasets.datalad.org/shub/gipert/baseos-containers/g4.9.6/2017-12-04-987e20f2-5ab906e6/
+datalad_url: https://datasets.datalad.org?dir=/shub/gipert/baseos-containers/g4.9.6/2017-12-04-987e20f2-5ab906e6/
 recipe: https://datasets.datalad.org/shub/gipert/baseos-containers/g4.9.6/2017-12-04-987e20f2-5ab906e6/Singularity
 collection: gipert/baseos-containers
 ---

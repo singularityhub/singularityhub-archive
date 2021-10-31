@@ -9,7 +9,7 @@ build_date: "2020-01-03T14:25:38.343Z"
 size_mb: 221.46875
 size: 232226816
 sif: "https://datasets.datalad.org/shub/AdrienLeGuillou/singularity-r/latest/2020-01-03-af252fae-51426386/51426386ee5fbcb389187da2b7528df2669489e5a1fd73419b84af2163a4beff.sif"
-url: https://datasets.datalad.org/shub/AdrienLeGuillou/singularity-r/latest/2020-01-03-af252fae-51426386/
+datalad_url: https://datasets.datalad.org?dir=/shub/AdrienLeGuillou/singularity-r/latest/2020-01-03-af252fae-51426386/
 recipe: https://datasets.datalad.org/shub/AdrienLeGuillou/singularity-r/latest/2020-01-03-af252fae-51426386/Singularity
 collection: AdrienLeGuillou/singularity-r
 ---

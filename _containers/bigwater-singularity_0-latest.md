@@ -9,7 +9,7 @@ build_date: "2021-02-10T21:31:28.946Z"
 size_mb: 5919.0
 size: 3674615839
 sif: "https://datasets.datalad.org/shub/bigwater/singularity_0/latest/2021-02-10-ad1a20d9-ceaee0be/ceaee0be273f002f8b266cfd43e180a4.sif"
-url: https://datasets.datalad.org/shub/bigwater/singularity_0/latest/2021-02-10-ad1a20d9-ceaee0be/
+datalad_url: https://datasets.datalad.org?dir=/shub/bigwater/singularity_0/latest/2021-02-10-ad1a20d9-ceaee0be/
 recipe: https://datasets.datalad.org/shub/bigwater/singularity_0/latest/2021-02-10-ad1a20d9-ceaee0be/Singularity
 collection: bigwater/singularity_0
 ---

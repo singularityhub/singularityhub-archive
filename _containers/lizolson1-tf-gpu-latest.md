@@ -9,7 +9,7 @@ build_date: "2020-06-06T01:44:54.189Z"
 size_mb: 3237.0
 size: 1402740767
 sif: "https://datasets.datalad.org/shub/lizolson1/tf-gpu/latest/2020-06-06-4c3e0353-8d8d9d83/8d8d9d831ccf426da4a54dfa58c70cc5.sif"
-url: https://datasets.datalad.org/shub/lizolson1/tf-gpu/latest/2020-06-06-4c3e0353-8d8d9d83/
+datalad_url: https://datasets.datalad.org?dir=/shub/lizolson1/tf-gpu/latest/2020-06-06-4c3e0353-8d8d9d83/
 recipe: https://datasets.datalad.org/shub/lizolson1/tf-gpu/latest/2020-06-06-4c3e0353-8d8d9d83/Singularity
 collection: lizolson1/tf-gpu
 ---

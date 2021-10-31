@@ -9,7 +9,7 @@ build_date: "2020-12-08T13:22:32.355Z"
 size_mb: 1121.3203125
 size: 1175789568
 sif: "https://datasets.datalad.org/shub/cblessing24/pytorch-singularity/v3.8-torch1.5.0-dj0.12.4/2020-12-08-3d2eec3a-87bff008/87bff008fc6935c576f37bb754b079373c8b3dc9304e739f74e1d63f66b5b5b9.sif"
-url: https://datasets.datalad.org/shub/cblessing24/pytorch-singularity/v3.8-torch1.5.0-dj0.12.4/2020-12-08-3d2eec3a-87bff008/
+datalad_url: https://datasets.datalad.org?dir=/shub/cblessing24/pytorch-singularity/v3.8-torch1.5.0-dj0.12.4/2020-12-08-3d2eec3a-87bff008/
 recipe: https://datasets.datalad.org/shub/cblessing24/pytorch-singularity/v3.8-torch1.5.0-dj0.12.4/2020-12-08-3d2eec3a-87bff008/Singularity
 collection: cblessing24/pytorch-singularity
 ---

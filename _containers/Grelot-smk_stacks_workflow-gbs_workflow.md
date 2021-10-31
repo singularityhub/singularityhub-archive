@@ -9,7 +9,7 @@ build_date: "2020-03-13T10:51:42.156Z"
 size_mb: 2601.0
 size: 1017327647
 sif: "https://datasets.datalad.org/shub/Grelot/smk_stacks_workflow/gbs_workflow/2020-03-13-4270364b-57138b5e/57138b5eb01a4e9edde25c12c4169807.sif"
-url: https://datasets.datalad.org/shub/Grelot/smk_stacks_workflow/gbs_workflow/2020-03-13-4270364b-57138b5e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Grelot/smk_stacks_workflow/gbs_workflow/2020-03-13-4270364b-57138b5e/
 recipe: https://datasets.datalad.org/shub/Grelot/smk_stacks_workflow/gbs_workflow/2020-03-13-4270364b-57138b5e/Singularity
 collection: Grelot/smk_stacks_workflow
 ---

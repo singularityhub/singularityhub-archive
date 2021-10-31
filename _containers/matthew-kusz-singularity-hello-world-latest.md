@@ -9,7 +9,7 @@ build_date: "2020-01-27T18:45:57.061Z"
 size_mb: 158.0
 size: 65302559
 sif: "https://datasets.datalad.org/shub/matthew-kusz/singularity-hello-world/latest/2020-01-27-140b0030-cb67e805/cb67e805908cc09d981b62b58b79e7b9.sif"
-url: https://datasets.datalad.org/shub/matthew-kusz/singularity-hello-world/latest/2020-01-27-140b0030-cb67e805/
+datalad_url: https://datasets.datalad.org?dir=/shub/matthew-kusz/singularity-hello-world/latest/2020-01-27-140b0030-cb67e805/
 recipe: https://datasets.datalad.org/shub/matthew-kusz/singularity-hello-world/latest/2020-01-27-140b0030-cb67e805/Singularity
 collection: matthew-kusz/singularity-hello-world
 ---

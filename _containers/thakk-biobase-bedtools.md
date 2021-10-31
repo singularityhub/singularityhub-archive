@@ -9,7 +9,7 @@ build_date: "2020-02-13T08:26:46.234Z"
 size_mb: 520.0
 size: 202805279
 sif: "https://datasets.datalad.org/shub/thakk/biobase/bedtools/2020-02-13-744f3bcf-118accdd/118accdd129107ff7602aba79cf6396b.sif"
-url: https://datasets.datalad.org/shub/thakk/biobase/bedtools/2020-02-13-744f3bcf-118accdd/
+datalad_url: https://datasets.datalad.org?dir=/shub/thakk/biobase/bedtools/2020-02-13-744f3bcf-118accdd/
 recipe: https://datasets.datalad.org/shub/thakk/biobase/bedtools/2020-02-13-744f3bcf-118accdd/Singularity
 collection: thakk/biobase
 ---

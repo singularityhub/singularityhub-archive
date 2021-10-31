@@ -9,7 +9,7 @@ build_date: "2020-10-07T15:22:26.025Z"
 size_mb: 5674.0
 size: 1932591135
 sif: "https://datasets.datalad.org/shub/onuryukselen/singularity/2.0/2020-10-07-ad474d5e-2cb46349/2cb46349b5ec07d66e71f7a06f204794.sif"
-url: https://datasets.datalad.org/shub/onuryukselen/singularity/2.0/2020-10-07-ad474d5e-2cb46349/
+datalad_url: https://datasets.datalad.org?dir=/shub/onuryukselen/singularity/2.0/2020-10-07-ad474d5e-2cb46349/
 recipe: https://datasets.datalad.org/shub/onuryukselen/singularity/2.0/2020-10-07-ad474d5e-2cb46349/Singularity
 collection: onuryukselen/singularity
 ---

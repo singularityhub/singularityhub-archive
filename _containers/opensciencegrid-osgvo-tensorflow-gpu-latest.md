@@ -9,7 +9,7 @@ build_date: "2021-03-11T17:46:48.458Z"
 size_mb: 6698
 size: 2929664031
 sif: "https://datasets.datalad.org/shub/opensciencegrid/osgvo-tensorflow-gpu/latest/2021-03-11-6fdf606f-cc5f283d/cc5f283d30df5b61c641273d7208dfa8.simg"
-url: https://datasets.datalad.org/shub/opensciencegrid/osgvo-tensorflow-gpu/latest/2021-03-11-6fdf606f-cc5f283d/
+datalad_url: https://datasets.datalad.org?dir=/shub/opensciencegrid/osgvo-tensorflow-gpu/latest/2021-03-11-6fdf606f-cc5f283d/
 recipe: https://datasets.datalad.org/shub/opensciencegrid/osgvo-tensorflow-gpu/latest/2021-03-11-6fdf606f-cc5f283d/Singularity
 collection: opensciencegrid/osgvo-tensorflow-gpu
 ---

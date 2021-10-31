@@ -9,7 +9,7 @@ build_date: "2021-03-26T16:12:54.654Z"
 size_mb: 1754.0
 size: 712130591
 sif: "https://datasets.datalad.org/shub/HealthyPear/CTADIRAC/latest/2021-03-26-a7ec3f51-39d4a8be/39d4a8be890da3ebea63dc0fb02a2c25.sif"
-url: https://datasets.datalad.org/shub/HealthyPear/CTADIRAC/latest/2021-03-26-a7ec3f51-39d4a8be/
+datalad_url: https://datasets.datalad.org?dir=/shub/HealthyPear/CTADIRAC/latest/2021-03-26-a7ec3f51-39d4a8be/
 recipe: https://datasets.datalad.org/shub/HealthyPear/CTADIRAC/latest/2021-03-26-a7ec3f51-39d4a8be/Singularity
 collection: HealthyPear/CTADIRAC
 ---

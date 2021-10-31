@@ -9,7 +9,7 @@ build_date: "2018-08-04T22:20:14.235Z"
 size_mb: 2772
 size: 1786765343
 sif: "https://datasets.datalad.org/shub/nkrecon/rest-state-fmri/latest/2018-08-04-a8ad2a74-040ed0b2/040ed0b26cae0df1963469993cc40eac.simg"
-url: https://datasets.datalad.org/shub/nkrecon/rest-state-fmri/latest/2018-08-04-a8ad2a74-040ed0b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/nkrecon/rest-state-fmri/latest/2018-08-04-a8ad2a74-040ed0b2/
 recipe: https://datasets.datalad.org/shub/nkrecon/rest-state-fmri/latest/2018-08-04-a8ad2a74-040ed0b2/Singularity
 collection: nkrecon/rest-state-fmri
 ---

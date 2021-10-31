@@ -9,7 +9,7 @@ build_date: "2019-09-24T13:50:15.837Z"
 size_mb: 1440.0
 size: 577138719
 sif: "https://datasets.datalad.org/shub/deanpettinga/containers/snakemake/2019-09-24-c1077ab2-d45eacdf/d45eacdfc046375f95ee6787c076f22a.sif"
-url: https://datasets.datalad.org/shub/deanpettinga/containers/snakemake/2019-09-24-c1077ab2-d45eacdf/
+datalad_url: https://datasets.datalad.org?dir=/shub/deanpettinga/containers/snakemake/2019-09-24-c1077ab2-d45eacdf/
 recipe: https://datasets.datalad.org/shub/deanpettinga/containers/snakemake/2019-09-24-c1077ab2-d45eacdf/Singularity
 collection: deanpettinga/containers
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-23T14:36:38.412Z"
 size_mb: 1280.0
 size: 642846751
 sif: "https://datasets.datalad.org/shub/J35P312/vcf2cytosure/0.4.3/2020-01-23-af73ab49-995277d6/995277d6d4ad215bd2386952f5b6067d.sif"
-url: https://datasets.datalad.org/shub/J35P312/vcf2cytosure/0.4.3/2020-01-23-af73ab49-995277d6/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/vcf2cytosure/0.4.3/2020-01-23-af73ab49-995277d6/
 recipe: https://datasets.datalad.org/shub/J35P312/vcf2cytosure/0.4.3/2020-01-23-af73ab49-995277d6/Singularity
 collection: J35P312/vcf2cytosure
 ---

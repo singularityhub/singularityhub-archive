@@ -9,7 +9,7 @@ build_date: "2018-09-07T01:41:55.857Z"
 size_mb: 514
 size: 161779743
 sif: "https://datasets.datalad.org/shub/natacha-beck/imputePrepSanger/imputeprepsanger_v0.1/2018-09-07-492b1667-69611f4a/69611f4a4e926aaa88ffaec44083df44.simg"
-url: https://datasets.datalad.org/shub/natacha-beck/imputePrepSanger/imputeprepsanger_v0.1/2018-09-07-492b1667-69611f4a/
+datalad_url: https://datasets.datalad.org?dir=/shub/natacha-beck/imputePrepSanger/imputeprepsanger_v0.1/2018-09-07-492b1667-69611f4a/
 recipe: https://datasets.datalad.org/shub/natacha-beck/imputePrepSanger/imputeprepsanger_v0.1/2018-09-07-492b1667-69611f4a/Singularity
 collection: natacha-beck/imputePrepSanger
 ---

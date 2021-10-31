@@ -9,7 +9,7 @@ build_date: "2018-08-28T20:48:17.142Z"
 size_mb: 1706
 size: 604454943
 sif: "https://datasets.datalad.org/shub/DeepLearnPhysics/playground-singularity/ub16.04-step2/2018-08-28-3eb3b6a0-e1eb6b2f/e1eb6b2f4ed6934e58f2dc5aff5da389.simg"
-url: https://datasets.datalad.org/shub/DeepLearnPhysics/playground-singularity/ub16.04-step2/2018-08-28-3eb3b6a0-e1eb6b2f/
+datalad_url: https://datasets.datalad.org?dir=/shub/DeepLearnPhysics/playground-singularity/ub16.04-step2/2018-08-28-3eb3b6a0-e1eb6b2f/
 recipe: https://datasets.datalad.org/shub/DeepLearnPhysics/playground-singularity/ub16.04-step2/2018-08-28-3eb3b6a0-e1eb6b2f/Singularity
 collection: DeepLearnPhysics/playground-singularity
 ---

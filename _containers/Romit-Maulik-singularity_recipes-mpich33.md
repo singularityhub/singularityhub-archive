@@ -9,7 +9,7 @@ build_date: "2021-04-16T18:31:56.318Z"
 size_mb: 1337.0
 size: 437293087
 sif: "https://datasets.datalad.org/shub/Romit-Maulik/singularity_recipes/mpich33/2021-04-16-195a9448-80602ec7/80602ec71d00b5fc80197cd78f67a8de.sif"
-url: https://datasets.datalad.org/shub/Romit-Maulik/singularity_recipes/mpich33/2021-04-16-195a9448-80602ec7/
+datalad_url: https://datasets.datalad.org?dir=/shub/Romit-Maulik/singularity_recipes/mpich33/2021-04-16-195a9448-80602ec7/
 recipe: https://datasets.datalad.org/shub/Romit-Maulik/singularity_recipes/mpich33/2021-04-16-195a9448-80602ec7/Singularity
 collection: Romit-Maulik/singularity_recipes
 ---

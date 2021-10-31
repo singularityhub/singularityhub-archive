@@ -9,7 +9,7 @@ build_date: "2020-09-23T01:18:56.058Z"
 size_mb: 1446.0
 size: 568397855
 sif: "https://datasets.datalad.org/shub/mwanakijiji/lbti_altair_fizeau/latest/2020-09-23-93414cc9-9812c46a/9812c46a02e7fb8e16a68f820c4fa3fd.sif"
-url: https://datasets.datalad.org/shub/mwanakijiji/lbti_altair_fizeau/latest/2020-09-23-93414cc9-9812c46a/
+datalad_url: https://datasets.datalad.org?dir=/shub/mwanakijiji/lbti_altair_fizeau/latest/2020-09-23-93414cc9-9812c46a/
 recipe: https://datasets.datalad.org/shub/mwanakijiji/lbti_altair_fizeau/latest/2020-09-23-93414cc9-9812c46a/Singularity
 collection: mwanakijiji/lbti_altair_fizeau
 ---

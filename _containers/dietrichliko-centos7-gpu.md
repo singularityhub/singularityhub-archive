@@ -9,7 +9,7 @@ build_date: "2019-05-30T14:54:27.662Z"
 size_mb: 4377
 size: 2182148127
 sif: "https://datasets.datalad.org/shub/dietrichliko/centos7/gpu/2019-05-30-15114e57-201facf6/201facf6bb4c1a0688ce7675f345658f.simg"
-url: https://datasets.datalad.org/shub/dietrichliko/centos7/gpu/2019-05-30-15114e57-201facf6/
+datalad_url: https://datasets.datalad.org?dir=/shub/dietrichliko/centos7/gpu/2019-05-30-15114e57-201facf6/
 recipe: https://datasets.datalad.org/shub/dietrichliko/centos7/gpu/2019-05-30-15114e57-201facf6/Singularity
 collection: dietrichliko/centos7
 ---

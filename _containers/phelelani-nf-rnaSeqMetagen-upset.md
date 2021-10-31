@@ -9,7 +9,7 @@ build_date: "2021-04-12T17:00:29.600Z"
 size_mb: 759.0
 size: 311865375
 sif: "https://datasets.datalad.org/shub/phelelani/nf-rnaSeqMetagen/upset/2021-04-12-0b229352-53b30b10/53b30b1019a05c38d92d3ef46096471a.sif"
-url: https://datasets.datalad.org/shub/phelelani/nf-rnaSeqMetagen/upset/2021-04-12-0b229352-53b30b10/
+datalad_url: https://datasets.datalad.org?dir=/shub/phelelani/nf-rnaSeqMetagen/upset/2021-04-12-0b229352-53b30b10/
 recipe: https://datasets.datalad.org/shub/phelelani/nf-rnaSeqMetagen/upset/2021-04-12-0b229352-53b30b10/Singularity
 collection: phelelani/nf-rnaSeqMetagen
 ---

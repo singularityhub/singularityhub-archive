@@ -9,7 +9,7 @@ build_date: "2018-09-07T16:02:59.934Z"
 size_mb: 1000
 size: 395223071
 sif: "https://datasets.datalad.org/shub/patrickvdb/RSEM_singularity/latest/2018-09-07-a4f2d94e-069f7336/069f7336214fca6e477c4f275fa9d0d5.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/RSEM_singularity/latest/2018-09-07-a4f2d94e-069f7336/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/RSEM_singularity/latest/2018-09-07-a4f2d94e-069f7336/
 recipe: https://datasets.datalad.org/shub/patrickvdb/RSEM_singularity/latest/2018-09-07-a4f2d94e-069f7336/Singularity
 collection: patrickvdb/RSEM_singularity
 ---

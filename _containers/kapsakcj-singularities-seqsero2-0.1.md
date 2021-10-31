@@ -9,7 +9,7 @@ build_date: "2019-05-03T21:23:35.727Z"
 size_mb: 935
 size: 355098655
 sif: "https://datasets.datalad.org/shub/kapsakcj/singularities/seqsero2-0.1/2019-05-03-f11b870a-6e6ed76e/6e6ed76e1815fb6e55090e2258516b04.simg"
-url: https://datasets.datalad.org/shub/kapsakcj/singularities/seqsero2-0.1/2019-05-03-f11b870a-6e6ed76e/
+datalad_url: https://datasets.datalad.org?dir=/shub/kapsakcj/singularities/seqsero2-0.1/2019-05-03-f11b870a-6e6ed76e/
 recipe: https://datasets.datalad.org/shub/kapsakcj/singularities/seqsero2-0.1/2019-05-03-f11b870a-6e6ed76e/Singularity
 collection: kapsakcj/singularities
 ---

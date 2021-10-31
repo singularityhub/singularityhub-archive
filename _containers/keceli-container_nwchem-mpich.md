@@ -9,7 +9,7 @@ build_date: "2018-10-03T03:26:38.352Z"
 size_mb: 798
 size: 224067615
 sif: "https://datasets.datalad.org/shub/keceli/container_nwchem/mpich/2018-10-03-48bb3daf-df5c12c1/df5c12c1ac425da477071c06657f1478.simg"
-url: https://datasets.datalad.org/shub/keceli/container_nwchem/mpich/2018-10-03-48bb3daf-df5c12c1/
+datalad_url: https://datasets.datalad.org?dir=/shub/keceli/container_nwchem/mpich/2018-10-03-48bb3daf-df5c12c1/
 recipe: https://datasets.datalad.org/shub/keceli/container_nwchem/mpich/2018-10-03-48bb3daf-df5c12c1/Singularity
 collection: keceli/container_nwchem
 ---

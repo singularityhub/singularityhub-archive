@@ -9,7 +9,7 @@ build_date: "2020-02-04T00:01:14.767Z"
 size_mb: 3967.0
 size: 2066554911
 sif: "https://datasets.datalad.org/shub/aaprile2/singularityimages/latest/2020-02-04-f1e82495-8805b1c8/8805b1c81f3a38507800004f12c44da5.sif"
-url: https://datasets.datalad.org/shub/aaprile2/singularityimages/latest/2020-02-04-f1e82495-8805b1c8/
+datalad_url: https://datasets.datalad.org?dir=/shub/aaprile2/singularityimages/latest/2020-02-04-f1e82495-8805b1c8/
 recipe: https://datasets.datalad.org/shub/aaprile2/singularityimages/latest/2020-02-04-f1e82495-8805b1c8/Singularity
 collection: aaprile2/singularityimages
 ---

@@ -9,7 +9,7 @@ build_date: "2018-06-06T21:47:38.180Z"
 size_mb: 280
 size: 83050527
 sif: "https://datasets.datalad.org/shub/AndrewLofts/OppniDock/latest/2018-06-06-b277675a-e17093a0/e17093a0177df6848e14038926646dbf.simg"
-url: https://datasets.datalad.org/shub/AndrewLofts/OppniDock/latest/2018-06-06-b277675a-e17093a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/AndrewLofts/OppniDock/latest/2018-06-06-b277675a-e17093a0/
 recipe: https://datasets.datalad.org/shub/AndrewLofts/OppniDock/latest/2018-06-06-b277675a-e17093a0/Singularity
 collection: AndrewLofts/OppniDock
 ---

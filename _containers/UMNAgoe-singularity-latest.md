@@ -9,7 +9,7 @@ build_date: "2018-02-16T17:20:20.324Z"
 size_mb: 4932
 size: 2086461471
 sif: "https://datasets.datalad.org/shub/UMNAgoe/singularity/latest/2018-02-16-d2d13a83-03bfd6d7/03bfd6d73605efd88c6725f58bd98498.simg"
-url: https://datasets.datalad.org/shub/UMNAgoe/singularity/latest/2018-02-16-d2d13a83-03bfd6d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/UMNAgoe/singularity/latest/2018-02-16-d2d13a83-03bfd6d7/
 recipe: https://datasets.datalad.org/shub/UMNAgoe/singularity/latest/2018-02-16-d2d13a83-03bfd6d7/Singularity
 collection: UMNAgoe/singularity
 ---

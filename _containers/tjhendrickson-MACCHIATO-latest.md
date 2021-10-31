@@ -9,7 +9,7 @@ build_date: "2021-04-11T14:45:08.737Z"
 size_mb: 3126.0
 size: 1379639327
 sif: "https://datasets.datalad.org/shub/tjhendrickson/MACCHIATO/latest/2021-04-11-c6d89705-a1414512/a1414512212c6eba12f1650f7f3ea093.sif"
-url: https://datasets.datalad.org/shub/tjhendrickson/MACCHIATO/latest/2021-04-11-c6d89705-a1414512/
+datalad_url: https://datasets.datalad.org?dir=/shub/tjhendrickson/MACCHIATO/latest/2021-04-11-c6d89705-a1414512/
 recipe: https://datasets.datalad.org/shub/tjhendrickson/MACCHIATO/latest/2021-04-11-c6d89705-a1414512/Singularity
 collection: tjhendrickson/MACCHIATO
 ---

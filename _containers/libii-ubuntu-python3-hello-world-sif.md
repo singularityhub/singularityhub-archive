@@ -9,7 +9,7 @@ build_date: "2020-08-07T05:53:59.815Z"
 size_mb: None
 size: 83890176
 sif: "https://datasets.datalad.org/shub/libii/ubuntu-python3-hello-world/sif/2020-08-07-78ddce0b-b2ada075/b2ada075ac72709233f724bb002b8759211ca33a01fe624ccd750b07006671d1.sif"
-url: https://datasets.datalad.org/shub/libii/ubuntu-python3-hello-world/sif/2020-08-07-78ddce0b-b2ada075/
+datalad_url: https://datasets.datalad.org?dir=/shub/libii/ubuntu-python3-hello-world/sif/2020-08-07-78ddce0b-b2ada075/
 recipe: https://github.com/libii/ubuntu-python3-hello-world/blob/master/Singularity
 collection: libii/ubuntu-python3-hello-world
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-25T13:20:20.575Z"
 size_mb: 4495.0
 size: 2351099935
 sif: "https://datasets.datalad.org/shub/ravi-0841/singularity-tensorflow-tacotron/latest/2020-06-25-6578f8b8-24e2f73b/24e2f73bfe91b2dff9b2e2520ddd91e9.sif"
-url: https://datasets.datalad.org/shub/ravi-0841/singularity-tensorflow-tacotron/latest/2020-06-25-6578f8b8-24e2f73b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ravi-0841/singularity-tensorflow-tacotron/latest/2020-06-25-6578f8b8-24e2f73b/
 recipe: https://datasets.datalad.org/shub/ravi-0841/singularity-tensorflow-tacotron/latest/2020-06-25-6578f8b8-24e2f73b/Singularity
 collection: ravi-0841/singularity-tensorflow-tacotron
 ---

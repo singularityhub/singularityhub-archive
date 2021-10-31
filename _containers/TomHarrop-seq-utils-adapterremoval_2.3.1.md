@@ -9,7 +9,7 @@ build_date: "2021-01-03T09:48:05.237Z"
 size_mb: 128.5859375
 size: 134832128
 sif: "https://datasets.datalad.org/shub/TomHarrop/seq-utils/adapterremoval_2.3.1/2021-01-03-e7ea0a09-d9753cc0/d9753cc0794729b7be4eee0d0733669a983d86fd6f18200872cf4af572c8b4a9.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/seq-utils/adapterremoval_2.3.1/2021-01-03-e7ea0a09-d9753cc0/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/seq-utils/adapterremoval_2.3.1/2021-01-03-e7ea0a09-d9753cc0/
 recipe: https://datasets.datalad.org/shub/TomHarrop/seq-utils/adapterremoval_2.3.1/2021-01-03-e7ea0a09-d9753cc0/Singularity
 collection: TomHarrop/seq-utils
 ---

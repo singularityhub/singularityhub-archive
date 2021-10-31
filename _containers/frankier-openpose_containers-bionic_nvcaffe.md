@@ -9,7 +9,7 @@ build_date: "2020-11-04T12:15:39.209Z"
 size_mb: 6446.0
 size: 2933387295
 sif: "https://datasets.datalad.org/shub/frankier/openpose_containers/bionic_nvcaffe/2020-11-04-c22ba337-e2b2686c/e2b2686cf654422f7187ae4635ba0bba.sif"
-url: https://datasets.datalad.org/shub/frankier/openpose_containers/bionic_nvcaffe/2020-11-04-c22ba337-e2b2686c/
+datalad_url: https://datasets.datalad.org?dir=/shub/frankier/openpose_containers/bionic_nvcaffe/2020-11-04-c22ba337-e2b2686c/
 recipe: https://datasets.datalad.org/shub/frankier/openpose_containers/bionic_nvcaffe/2020-11-04-c22ba337-e2b2686c/Singularity
 collection: frankier/openpose_containers
 ---

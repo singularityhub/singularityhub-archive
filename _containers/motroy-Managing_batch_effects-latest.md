@@ -9,7 +9,7 @@ build_date: "2020-01-15T12:08:41.549Z"
 size_mb: 2227.0
 size: 866693151
 sif: "https://datasets.datalad.org/shub/motroy/Managing_batch_effects/latest/2020-01-15-103c4d8d-573e8f51/573e8f51cfbd16a28747babb14ac04d9.sif"
-url: https://datasets.datalad.org/shub/motroy/Managing_batch_effects/latest/2020-01-15-103c4d8d-573e8f51/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/Managing_batch_effects/latest/2020-01-15-103c4d8d-573e8f51/
 recipe: https://datasets.datalad.org/shub/motroy/Managing_batch_effects/latest/2020-01-15-103c4d8d-573e8f51/Singularity
 collection: motroy/Managing_batch_effects
 ---

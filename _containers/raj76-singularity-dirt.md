@@ -9,7 +9,7 @@ build_date: "2018-02-17T23:01:17.183Z"
 size_mb: 1634
 size: 512196639
 sif: "https://datasets.datalad.org/shub/raj76/singularity/dirt/2018-02-17-e4757bb1-0db9792e/0db9792e389c07cfb56dd677a6364550.simg"
-url: https://datasets.datalad.org/shub/raj76/singularity/dirt/2018-02-17-e4757bb1-0db9792e/
+datalad_url: https://datasets.datalad.org?dir=/shub/raj76/singularity/dirt/2018-02-17-e4757bb1-0db9792e/
 recipe: https://datasets.datalad.org/shub/raj76/singularity/dirt/2018-02-17-e4757bb1-0db9792e/Singularity
 collection: raj76/singularity
 ---

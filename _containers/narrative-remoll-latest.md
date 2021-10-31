@@ -9,7 +9,7 @@ build_date: "2017-11-09T19:27:46.631Z"
 size_mb: 4581
 size: 2172317727
 sif: "https://datasets.datalad.org/shub/narrative/remoll/latest/2017-11-09-26506f67-04063491/040634919cf0399bc6ff3e015cc26424.simg"
-url: https://datasets.datalad.org/shub/narrative/remoll/latest/2017-11-09-26506f67-04063491/
+datalad_url: https://datasets.datalad.org?dir=/shub/narrative/remoll/latest/2017-11-09-26506f67-04063491/
 recipe: https://datasets.datalad.org/shub/narrative/remoll/latest/2017-11-09-26506f67-04063491/Singularity
 collection: narrative/remoll
 ---

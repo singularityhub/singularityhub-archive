@@ -9,7 +9,7 @@ build_date: "2020-05-08T04:46:06.683Z"
 size_mb: 4597.0
 size: 2315104287
 sif: "https://datasets.datalad.org/shub/piehlsam/csci5980/gpu/2020-05-08-e4fc34ad-b87f9246/b87f92465ca088e5ec2df65682e81adf.sif"
-url: https://datasets.datalad.org/shub/piehlsam/csci5980/gpu/2020-05-08-e4fc34ad-b87f9246/
+datalad_url: https://datasets.datalad.org?dir=/shub/piehlsam/csci5980/gpu/2020-05-08-e4fc34ad-b87f9246/
 recipe: https://datasets.datalad.org/shub/piehlsam/csci5980/gpu/2020-05-08-e4fc34ad-b87f9246/Singularity
 collection: piehlsam/csci5980
 ---

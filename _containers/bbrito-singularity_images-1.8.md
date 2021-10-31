@@ -9,7 +9,7 @@ build_date: "2018-05-02T13:59:14.785Z"
 size_mb: 6963
 size: 2062479391
 sif: "https://datasets.datalad.org/shub/bbrito/singularity_images/1.8/2018-05-02-023ae5aa-1d3c8b63/1d3c8b638037e31519e82d6b13013ef3.simg"
-url: https://datasets.datalad.org/shub/bbrito/singularity_images/1.8/2018-05-02-023ae5aa-1d3c8b63/
+datalad_url: https://datasets.datalad.org?dir=/shub/bbrito/singularity_images/1.8/2018-05-02-023ae5aa-1d3c8b63/
 recipe: https://datasets.datalad.org/shub/bbrito/singularity_images/1.8/2018-05-02-023ae5aa-1d3c8b63/Singularity
 collection: bbrito/singularity_images
 ---

@@ -9,7 +9,7 @@ build_date: "2018-12-21T17:01:17.099Z"
 size_mb: 1148
 size: 287576095
 sif: "https://datasets.datalad.org/shub/HugoMananet/HLAminer/hlaminer.1.4.def/2018-12-21-4bfa7559-b4c30511/b4c30511b65709981802509b8f4091a6.simg"
-url: https://datasets.datalad.org/shub/HugoMananet/HLAminer/hlaminer.1.4.def/2018-12-21-4bfa7559-b4c30511/
+datalad_url: https://datasets.datalad.org?dir=/shub/HugoMananet/HLAminer/hlaminer.1.4.def/2018-12-21-4bfa7559-b4c30511/
 recipe: https://datasets.datalad.org/shub/HugoMananet/HLAminer/hlaminer.1.4.def/2018-12-21-4bfa7559-b4c30511/Singularity
 collection: HugoMananet/HLAminer
 ---

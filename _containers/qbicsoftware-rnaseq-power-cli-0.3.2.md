@@ -9,7 +9,7 @@ build_date: "2019-02-12T21:37:57.888Z"
 size_mb: 2216
 size: 727576607
 sif: "https://datasets.datalad.org/shub/qbicsoftware/rnaseq-power-cli/0.3.2/2019-02-12-ef88e86f-0bf87b2a/0bf87b2a6bc1e7427daf81c8bcdf6009.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/rnaseq-power-cli/0.3.2/2019-02-12-ef88e86f-0bf87b2a/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/rnaseq-power-cli/0.3.2/2019-02-12-ef88e86f-0bf87b2a/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/rnaseq-power-cli/0.3.2/2019-02-12-ef88e86f-0bf87b2a/Singularity
 collection: qbicsoftware/qbic-singularity-rnaseqsamplesize
 ---

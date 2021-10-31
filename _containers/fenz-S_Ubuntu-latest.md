@@ -9,7 +9,7 @@ build_date: "2018-05-08T13:50:24.776Z"
 size_mb: 85
 size: 30162975
 sif: "https://datasets.datalad.org/shub/fenz/S_Ubuntu/latest/2018-05-08-4b10e553-29893b75/29893b75830a5070a9096f763c41013d.simg"
-url: https://datasets.datalad.org/shub/fenz/S_Ubuntu/latest/2018-05-08-4b10e553-29893b75/
+datalad_url: https://datasets.datalad.org?dir=/shub/fenz/S_Ubuntu/latest/2018-05-08-4b10e553-29893b75/
 recipe: https://datasets.datalad.org/shub/fenz/S_Ubuntu/latest/2018-05-08-4b10e553-29893b75/Singularity
 collection: fenz/S_Ubuntu
 ---

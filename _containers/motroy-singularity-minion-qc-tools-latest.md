@@ -9,7 +9,7 @@ build_date: "2020-08-23T11:54:27.530Z"
 size_mb: 3631.0
 size: 1607970847
 sif: "https://datasets.datalad.org/shub/motroy/singularity-minion-qc-tools/latest/2020-08-23-6d9bdcce-f0f6ac2f/f0f6ac2f3321355decca297234d1320f.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-minion-qc-tools/latest/2020-08-23-6d9bdcce-f0f6ac2f/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-minion-qc-tools/latest/2020-08-23-6d9bdcce-f0f6ac2f/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-minion-qc-tools/latest/2020-08-23-6d9bdcce-f0f6ac2f/Singularity
 collection: motroy/singularity-minion-qc-tools
 ---

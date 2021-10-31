@@ -9,7 +9,7 @@ build_date: "2019-03-13T03:34:54.690Z"
 size_mb: 7555
 size: 3810934815
 sif: "https://datasets.datalad.org/shub/ariyanzri/SingularityConversion/latest/2019-03-13-1c2b977d-e48657bc/e48657bc0c697723e7327f4ed72ece44.simg"
-url: https://datasets.datalad.org/shub/ariyanzri/SingularityConversion/latest/2019-03-13-1c2b977d-e48657bc/
+datalad_url: https://datasets.datalad.org?dir=/shub/ariyanzri/SingularityConversion/latest/2019-03-13-1c2b977d-e48657bc/
 recipe: https://datasets.datalad.org/shub/ariyanzri/SingularityConversion/latest/2019-03-13-1c2b977d-e48657bc/Singularity
 collection: ariyanzri/SingularityConversion
 ---

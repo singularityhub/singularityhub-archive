@@ -9,7 +9,7 @@ build_date: "2021-03-04T01:01:36.591Z"
 size_mb: 196
 size: 74645535
 sif: "https://datasets.datalad.org/shub/nickjer/singularity-vncserver/latest/2021-03-04-59bfc157-5bb70965/5bb709650266421aa3e414d39c2cfbe5.simg"
-url: https://datasets.datalad.org/shub/nickjer/singularity-vncserver/latest/2021-03-04-59bfc157-5bb70965/
+datalad_url: https://datasets.datalad.org?dir=/shub/nickjer/singularity-vncserver/latest/2021-03-04-59bfc157-5bb70965/
 recipe: https://datasets.datalad.org/shub/nickjer/singularity-vncserver/latest/2021-03-04-59bfc157-5bb70965/Singularity
 collection: nickjer/singularity-vncserver
 ---

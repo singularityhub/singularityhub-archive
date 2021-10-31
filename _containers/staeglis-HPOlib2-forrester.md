@@ -9,7 +9,7 @@ build_date: "2018-10-11T09:24:01.566Z"
 size_mb: 816
 size: 318816287
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/forrester/2018-10-11-0c04586a-6ede0aca/6ede0acacb9b053192abcc4c231e37d1.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/forrester/2018-10-11-0c04586a-6ede0aca/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/forrester/2018-10-11-0c04586a-6ede0aca/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/forrester/2018-10-11-0c04586a-6ede0aca/Singularity
 collection: staeglis/HPOlib2
 ---

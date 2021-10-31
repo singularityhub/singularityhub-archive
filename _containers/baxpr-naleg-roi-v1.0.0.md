@@ -9,7 +9,7 @@ build_date: "2020-04-02T21:12:33.712Z"
 size_mb: 3920.0
 size: 1737588767
 sif: "https://datasets.datalad.org/shub/baxpr/naleg-roi/v1.0.0/2020-04-02-129468b6-10b9c14a/10b9c14a871e49e0fb995aff558b2d6c.sif"
-url: https://datasets.datalad.org/shub/baxpr/naleg-roi/v1.0.0/2020-04-02-129468b6-10b9c14a/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/naleg-roi/v1.0.0/2020-04-02-129468b6-10b9c14a/
 recipe: https://datasets.datalad.org/shub/baxpr/naleg-roi/v1.0.0/2020-04-02-129468b6-10b9c14a/Singularity
 collection: baxpr/naleg-roi
 ---

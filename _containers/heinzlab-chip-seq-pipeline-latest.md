@@ -9,7 +9,7 @@ build_date: "2018-10-31T13:30:53.693Z"
 size_mb: 3723
 size: 1248268319
 sif: "https://datasets.datalad.org/shub/heinzlab/chip-seq-pipeline/latest/2018-10-31-b78007b8-71902750/71902750b408b843f5c3f34e70bb52c9.simg"
-url: https://datasets.datalad.org/shub/heinzlab/chip-seq-pipeline/latest/2018-10-31-b78007b8-71902750/
+datalad_url: https://datasets.datalad.org?dir=/shub/heinzlab/chip-seq-pipeline/latest/2018-10-31-b78007b8-71902750/
 recipe: https://datasets.datalad.org/shub/heinzlab/chip-seq-pipeline/latest/2018-10-31-b78007b8-71902750/Singularity
 collection: heinzlab/chip-seq-pipeline
 ---

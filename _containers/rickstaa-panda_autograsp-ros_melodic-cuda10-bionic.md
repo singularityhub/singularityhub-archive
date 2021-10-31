@@ -9,7 +9,7 @@ build_date: "2020-03-30T11:40:06.598Z"
 size_mb: 11823.0
 size: 5553545247
 sif: "https://datasets.datalad.org/shub/rickstaa/panda_autograsp/ros_melodic-cuda10-bionic/2020-03-30-dd393ba6-2838f145/2838f145af75c5103db14ec22e50744a.sif"
-url: https://datasets.datalad.org/shub/rickstaa/panda_autograsp/ros_melodic-cuda10-bionic/2020-03-30-dd393ba6-2838f145/
+datalad_url: https://datasets.datalad.org?dir=/shub/rickstaa/panda_autograsp/ros_melodic-cuda10-bionic/2020-03-30-dd393ba6-2838f145/
 recipe: https://datasets.datalad.org/shub/rickstaa/panda_autograsp/ros_melodic-cuda10-bionic/2020-03-30-dd393ba6-2838f145/Singularity
 collection: rickstaa/panda_autograsp
 ---

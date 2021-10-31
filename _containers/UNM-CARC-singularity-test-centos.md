@@ -9,7 +9,7 @@ build_date: "2018-09-12T22:22:09.847Z"
 size_mb: 824
 size: 260489247
 sif: "https://datasets.datalad.org/shub/UNM-CARC/singularity-test/centos/2018-09-12-967178ff-0d8336bd/0d8336bdfd177fd0282065e2a255c466.simg"
-url: https://datasets.datalad.org/shub/UNM-CARC/singularity-test/centos/2018-09-12-967178ff-0d8336bd/
+datalad_url: https://datasets.datalad.org?dir=/shub/UNM-CARC/singularity-test/centos/2018-09-12-967178ff-0d8336bd/
 recipe: https://datasets.datalad.org/shub/UNM-CARC/singularity-test/centos/2018-09-12-967178ff-0d8336bd/Singularity
 collection: UNM-CARC/singularity-test
 ---

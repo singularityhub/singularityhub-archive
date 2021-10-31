@@ -9,7 +9,7 @@ build_date: "2018-07-18T15:17:48.484Z"
 size_mb: 1885
 size: 549478431
 sif: "https://datasets.datalad.org/shub/nf-core/hlatyping/1.0.0/2018-07-18-eda4fedd-f2b76fe3/f2b76fe3c0d5022b9cf25e677f990d6a.simg"
-url: https://datasets.datalad.org/shub/nf-core/hlatyping/1.0.0/2018-07-18-eda4fedd-f2b76fe3/
+datalad_url: https://datasets.datalad.org?dir=/shub/nf-core/hlatyping/1.0.0/2018-07-18-eda4fedd-f2b76fe3/
 recipe: https://datasets.datalad.org/shub/nf-core/hlatyping/1.0.0/2018-07-18-eda4fedd-f2b76fe3/Singularity
 collection: nf-core/hlatyping
 ---

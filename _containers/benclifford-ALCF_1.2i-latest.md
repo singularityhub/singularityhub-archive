@@ -9,7 +9,7 @@ build_date: "2018-09-24T07:21:06.156Z"
 size_mb: 6526
 size: 3112960031
 sif: "https://datasets.datalad.org/shub/benclifford/ALCF_1.2i/latest/2018-09-24-278cb2b7-932c8d53/932c8d5312bdc5860c5f697e8ae9945a.simg"
-url: https://datasets.datalad.org/shub/benclifford/ALCF_1.2i/latest/2018-09-24-278cb2b7-932c8d53/
+datalad_url: https://datasets.datalad.org?dir=/shub/benclifford/ALCF_1.2i/latest/2018-09-24-278cb2b7-932c8d53/
 recipe: https://datasets.datalad.org/shub/benclifford/ALCF_1.2i/latest/2018-09-24-278cb2b7-932c8d53/Singularity
 collection: benclifford/ALCF_1.2i
 ---

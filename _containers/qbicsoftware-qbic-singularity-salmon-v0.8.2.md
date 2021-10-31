@@ -9,7 +9,7 @@ build_date: "2017-11-21T09:20:46.828Z"
 size_mb: 671
 size: 132612127
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-salmon/v0.8.2/2017-11-21-5f1cc6a4-7ecb78f1/7ecb78f11bef3bdf17db0defe6ac5cee.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-salmon/v0.8.2/2017-11-21-5f1cc6a4-7ecb78f1/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-salmon/v0.8.2/2017-11-21-5f1cc6a4-7ecb78f1/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-salmon/v0.8.2/2017-11-21-5f1cc6a4-7ecb78f1/Singularity
 collection: qbicsoftware/qbic-singularity-salmon
 ---

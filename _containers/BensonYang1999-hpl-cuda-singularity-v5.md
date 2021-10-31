@@ -9,7 +9,7 @@ build_date: "2019-05-05T20:44:30.699Z"
 size_mb: 16150
 size: 5615231007
 sif: "https://datasets.datalad.org/shub/BensonYang1999/hpl-cuda-singularity/v5/2019-05-05-ae2129fe-2b2c25ce/2b2c25ce7b835548c8041f8dec0cbc88.simg"
-url: https://datasets.datalad.org/shub/BensonYang1999/hpl-cuda-singularity/v5/2019-05-05-ae2129fe-2b2c25ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/BensonYang1999/hpl-cuda-singularity/v5/2019-05-05-ae2129fe-2b2c25ce/
 recipe: https://datasets.datalad.org/shub/BensonYang1999/hpl-cuda-singularity/v5/2019-05-05-ae2129fe-2b2c25ce/Singularity
 collection: BensonYang1999/hpl-cuda-singularity
 ---

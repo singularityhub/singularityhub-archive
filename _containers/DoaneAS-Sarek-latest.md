@@ -9,7 +9,7 @@ build_date: "2019-08-06T00:48:34.040Z"
 size_mb: 3072.0
 size: 1160949791
 sif: "https://datasets.datalad.org/shub/DoaneAS/Sarek/latest/2019-08-06-7f7f2c26-295b0ad3/295b0ad38e10f57922506ccdd7922ba0.sif"
-url: https://datasets.datalad.org/shub/DoaneAS/Sarek/latest/2019-08-06-7f7f2c26-295b0ad3/
+datalad_url: https://datasets.datalad.org?dir=/shub/DoaneAS/Sarek/latest/2019-08-06-7f7f2c26-295b0ad3/
 recipe: https://datasets.datalad.org/shub/DoaneAS/Sarek/latest/2019-08-06-7f7f2c26-295b0ad3/Singularity
 collection: DoaneAS/Sarek
 ---

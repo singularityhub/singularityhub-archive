@@ -9,7 +9,7 @@ build_date: "2020-05-10T19:37:02.145Z"
 size_mb: 2466.0
 size: 1164668959
 sif: "https://datasets.datalad.org/shub/gchatt/RL_singularity_GC/latest/2020-05-10-7800a3c8-ebd15105/ebd151055680361566fd6876dc07d852.sif"
-url: https://datasets.datalad.org/shub/gchatt/RL_singularity_GC/latest/2020-05-10-7800a3c8-ebd15105/
+datalad_url: https://datasets.datalad.org?dir=/shub/gchatt/RL_singularity_GC/latest/2020-05-10-7800a3c8-ebd15105/
 recipe: https://datasets.datalad.org/shub/gchatt/RL_singularity_GC/latest/2020-05-10-7800a3c8-ebd15105/Singularity
 collection: gchatt/RL_singularity_GC
 ---

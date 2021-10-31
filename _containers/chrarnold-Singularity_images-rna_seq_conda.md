@@ -9,7 +9,7 @@ build_date: "2020-07-21T20:16:16.091Z"
 size_mb: 2559.0
 size: 1202815007
 sif: "https://datasets.datalad.org/shub/chrarnold/Singularity_images/rna_seq_conda/2020-07-21-73c324f3-42c6cd62/42c6cd6233b13ec3d7d9d297e08817bb.sif"
-url: https://datasets.datalad.org/shub/chrarnold/Singularity_images/rna_seq_conda/2020-07-21-73c324f3-42c6cd62/
+datalad_url: https://datasets.datalad.org?dir=/shub/chrarnold/Singularity_images/rna_seq_conda/2020-07-21-73c324f3-42c6cd62/
 recipe: https://datasets.datalad.org/shub/chrarnold/Singularity_images/rna_seq_conda/2020-07-21-73c324f3-42c6cd62/Singularity
 collection: chrarnold/Singularity_images
 ---

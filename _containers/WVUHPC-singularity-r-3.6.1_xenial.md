@@ -9,7 +9,7 @@ build_date: "2019-10-24T20:06:27.608Z"
 size_mb: 599.0
 size: 234582047
 sif: "https://datasets.datalad.org/shub/WVUHPC/singularity-r/3.6.1_xenial/2019-10-24-2c1ffb5a-f29b943f/f29b943fbd4777b1a0e20973e8c54f1d.sif"
-url: https://datasets.datalad.org/shub/WVUHPC/singularity-r/3.6.1_xenial/2019-10-24-2c1ffb5a-f29b943f/
+datalad_url: https://datasets.datalad.org?dir=/shub/WVUHPC/singularity-r/3.6.1_xenial/2019-10-24-2c1ffb5a-f29b943f/
 recipe: https://datasets.datalad.org/shub/WVUHPC/singularity-r/3.6.1_xenial/2019-10-24-2c1ffb5a-f29b943f/Singularity
 collection: WVUHPC/singularity-r
 ---

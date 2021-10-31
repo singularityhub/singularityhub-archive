@@ -9,7 +9,7 @@ build_date: "2019-10-08T07:20:59.409Z"
 size_mb: 5368.0
 size: 2619002911
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/BALSAMIC/3.1.2/2019-10-08-d261496d-1244d559/1244d5598df6a9a09cb05049dd3aafb1.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/BALSAMIC/3.1.2/2019-10-08-d261496d-1244d559/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/BALSAMIC/3.1.2/2019-10-08-d261496d-1244d559/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/BALSAMIC/3.1.2/2019-10-08-d261496d-1244d559/Singularity
 collection: Clinical-Genomics/BALSAMIC
 ---

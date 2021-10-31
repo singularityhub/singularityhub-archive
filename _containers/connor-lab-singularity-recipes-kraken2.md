@@ -9,7 +9,7 @@ build_date: "2019-02-07T15:45:22.855Z"
 size_mb: 226
 size: 72134687
 sif: "https://datasets.datalad.org/shub/connor-lab/singularity-recipes/kraken2/2019-02-07-5e322d4c-6d7a4990/6d7a499043db7d63cce4fa48873a8d6c.simg"
-url: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/kraken2/2019-02-07-5e322d4c-6d7a4990/
+datalad_url: https://datasets.datalad.org?dir=/shub/connor-lab/singularity-recipes/kraken2/2019-02-07-5e322d4c-6d7a4990/
 recipe: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/kraken2/2019-02-07-5e322d4c-6d7a4990/Singularity
 collection: connor-lab/singularity-recipes
 ---

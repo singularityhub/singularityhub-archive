@@ -9,7 +9,7 @@ build_date: "2020-04-23T20:11:15.181Z"
 size_mb: 70.0
 size: 25849887
 sif: "https://datasets.datalad.org/shub/singularityhub/hello-world/apps/2020-04-23-d07b439f-ca004c8e/ca004c8e92a7c0930408b496f2c06307.sif"
-url: https://datasets.datalad.org/shub/singularityhub/hello-world/apps/2020-04-23-d07b439f-ca004c8e/
+datalad_url: https://datasets.datalad.org?dir=/shub/singularityhub/hello-world/apps/2020-04-23-d07b439f-ca004c8e/
 recipe: https://datasets.datalad.org/shub/singularityhub/hello-world/apps/2020-04-23-d07b439f-ca004c8e/Singularity
 collection: singularityhub/hello-world
 ---

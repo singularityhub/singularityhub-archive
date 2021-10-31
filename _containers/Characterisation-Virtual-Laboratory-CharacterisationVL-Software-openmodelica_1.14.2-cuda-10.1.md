@@ -9,7 +9,7 @@ build_date: "2020-08-13T06:13:38.206Z"
 size_mb: 10856.0
 size: 5064269855
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/openmodelica_1.14.2-cuda-10.1/2020-08-13-1ed319b2-3c33aa22/3c33aa2203ab1afb1d27f127403362a7.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/openmodelica_1.14.2-cuda-10.1/2020-08-13-1ed319b2-3c33aa22/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/openmodelica_1.14.2-cuda-10.1/2020-08-13-1ed319b2-3c33aa22/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/openmodelica_1.14.2-cuda-10.1/2020-08-13-1ed319b2-3c33aa22/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

@@ -9,7 +9,7 @@ build_date: "2018-09-28T07:34:32.473Z"
 size_mb: 3510
 size: 1554415647
 sif: "https://datasets.datalad.org/shub/sinaehsani6/FusionNet-NLI/latest/2018-09-28-8c6807d2-d3d17188/d3d17188e5d7135c531d7c9d1153ecc9.simg"
-url: https://datasets.datalad.org/shub/sinaehsani6/FusionNet-NLI/latest/2018-09-28-8c6807d2-d3d17188/
+datalad_url: https://datasets.datalad.org?dir=/shub/sinaehsani6/FusionNet-NLI/latest/2018-09-28-8c6807d2-d3d17188/
 recipe: https://datasets.datalad.org/shub/sinaehsani6/FusionNet-NLI/latest/2018-09-28-8c6807d2-d3d17188/Singularity
 collection: sinaehsani6/FusionNet-NLI
 ---

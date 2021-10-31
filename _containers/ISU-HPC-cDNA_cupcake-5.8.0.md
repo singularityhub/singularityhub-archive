@@ -9,7 +9,7 @@ build_date: "2018-12-18T23:11:37.990Z"
 size_mb: 2137
 size: 1050931231
 sif: "https://datasets.datalad.org/shub/ISU-HPC/cDNA_cupcake/5.8.0/2018-12-18-d6d4314c-17fb3cf2/17fb3cf214e5e57d1d654b28a7253dde.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/cDNA_cupcake/5.8.0/2018-12-18-d6d4314c-17fb3cf2/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/cDNA_cupcake/5.8.0/2018-12-18-d6d4314c-17fb3cf2/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/cDNA_cupcake/5.8.0/2018-12-18-d6d4314c-17fb3cf2/Singularity
 collection: ISU-HPC/cDNA_cupcake
 ---

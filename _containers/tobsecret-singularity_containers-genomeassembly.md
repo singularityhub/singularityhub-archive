@@ -9,7 +9,7 @@ build_date: "2019-09-12T20:09:55.214Z"
 size_mb: 1473.0
 size: 605925407
 sif: "https://datasets.datalad.org/shub/tobsecret/singularity_containers/genomeassembly/2019-09-12-08cb4c54-dabb113c/dabb113c706343f47b09100518a85224.sif"
-url: https://datasets.datalad.org/shub/tobsecret/singularity_containers/genomeassembly/2019-09-12-08cb4c54-dabb113c/
+datalad_url: https://datasets.datalad.org?dir=/shub/tobsecret/singularity_containers/genomeassembly/2019-09-12-08cb4c54-dabb113c/
 recipe: https://datasets.datalad.org/shub/tobsecret/singularity_containers/genomeassembly/2019-09-12-08cb4c54-dabb113c/Singularity
 collection: tobsecret/singularity_containers
 ---

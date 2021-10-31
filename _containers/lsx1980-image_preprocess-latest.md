@@ -9,7 +9,7 @@ build_date: "2019-06-25T18:43:29.798Z"
 size_mb: 619
 size: 229343263
 sif: "https://datasets.datalad.org/shub/lsx1980/image_preprocess/latest/2019-06-25-b087318e-4096ee9d/4096ee9d8c76b7b142c59cd273e046c2.simg"
-url: https://datasets.datalad.org/shub/lsx1980/image_preprocess/latest/2019-06-25-b087318e-4096ee9d/
+datalad_url: https://datasets.datalad.org?dir=/shub/lsx1980/image_preprocess/latest/2019-06-25-b087318e-4096ee9d/
 recipe: https://datasets.datalad.org/shub/lsx1980/image_preprocess/latest/2019-06-25-b087318e-4096ee9d/Singularity
 collection: lsx1980/image_preprocess
 ---

@@ -9,7 +9,7 @@ build_date: "2021-02-26T18:50:39.080Z"
 size_mb: 3350.0
 size: 1400893471
 sif: "https://datasets.datalad.org/shub/ftabaro/singularity-test/latest/2021-02-26-279fb0c4-ec796e17/ec796e17cb6b6d9445995de5fd4abbae.sif"
-url: https://datasets.datalad.org/shub/ftabaro/singularity-test/latest/2021-02-26-279fb0c4-ec796e17/
+datalad_url: https://datasets.datalad.org?dir=/shub/ftabaro/singularity-test/latest/2021-02-26-279fb0c4-ec796e17/
 recipe: https://datasets.datalad.org/shub/ftabaro/singularity-test/latest/2021-02-26-279fb0c4-ec796e17/Singularity
 collection: ftabaro/singularity-test
 ---

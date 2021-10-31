@@ -9,7 +9,7 @@ build_date: "2019-12-16T22:21:26.412Z"
 size_mb: 1071
 size: 412246047
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/freebayes_1.2.0/2019-12-16-d25a4890-1af8f2a0/1af8f2a0f6ab59af998b5853124476f3.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/freebayes_1.2.0/2019-12-16-d25a4890-1af8f2a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/freebayes_1.2.0/2019-12-16-d25a4890-1af8f2a0/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/freebayes_1.2.0/2019-12-16-d25a4890-1af8f2a0/Singularity
 collection: TomHarrop/singularity-containers
 ---

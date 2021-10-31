@@ -9,7 +9,7 @@ build_date: "2020-02-24T13:46:30.660Z"
 size_mb: 3953.11328125
 size: 4145139712
 sif: "https://datasets.datalad.org/shub/jzhanghzau/thesis/latest/2020-02-24-1e0613fc-eb74668a/eb74668a3c6662f50c321d0134a0f40e555eee50ff6ede4578848536c61eebba.sif"
-url: https://datasets.datalad.org/shub/jzhanghzau/thesis/latest/2020-02-24-1e0613fc-eb74668a/
+datalad_url: https://datasets.datalad.org?dir=/shub/jzhanghzau/thesis/latest/2020-02-24-1e0613fc-eb74668a/
 recipe: https://datasets.datalad.org/shub/jzhanghzau/thesis/latest/2020-02-24-1e0613fc-eb74668a/Singularity
 collection: jzhanghzau/thesis
 ---

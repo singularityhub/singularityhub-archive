@@ -9,7 +9,7 @@ build_date: "2020-06-13T04:57:01.299Z"
 size_mb: 2900.0
 size: 1057259551
 sif: "https://datasets.datalad.org/shub/ihounie/sing-skl/dcasedocker/2020-06-13-789b45c3-b269822b/b269822b83c45184f5e65d0c7f1b54b6.sif"
-url: https://datasets.datalad.org/shub/ihounie/sing-skl/dcasedocker/2020-06-13-789b45c3-b269822b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ihounie/sing-skl/dcasedocker/2020-06-13-789b45c3-b269822b/
 recipe: https://datasets.datalad.org/shub/ihounie/sing-skl/dcasedocker/2020-06-13-789b45c3-b269822b/Singularity
 collection: ihounie/sing-skl
 ---

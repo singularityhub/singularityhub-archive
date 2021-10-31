@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:52.390Z"
 size_mb: 1445
 size: 572895263
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-fibredensityandcrosssection--0.0.1/2021-03-19-2b6f83c7-32e70abd/32e70abdb50f6946e2b00c631a098ca5.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-fibredensityandcrosssection--0.0.1/2021-03-19-2b6f83c7-32e70abd/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-fibredensityandcrosssection--0.0.1/2021-03-19-2b6f83c7-32e70abd/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-fibredensityandcrosssection--0.0.1/2021-03-19-2b6f83c7-32e70abd/Singularity
 collection: ReproNim/containers
 ---

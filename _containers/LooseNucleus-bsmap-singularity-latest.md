@@ -9,7 +9,7 @@ build_date: "2019-01-03T04:17:35.561Z"
 size_mb: 668
 size: 279797791
 sif: "https://datasets.datalad.org/shub/LooseNucleus/bsmap-singularity/latest/2019-01-03-19bfe44a-db55b5c2/db55b5c21f128d8900f367a885fc8f72.simg"
-url: https://datasets.datalad.org/shub/LooseNucleus/bsmap-singularity/latest/2019-01-03-19bfe44a-db55b5c2/
+datalad_url: https://datasets.datalad.org?dir=/shub/LooseNucleus/bsmap-singularity/latest/2019-01-03-19bfe44a-db55b5c2/
 recipe: https://datasets.datalad.org/shub/LooseNucleus/bsmap-singularity/latest/2019-01-03-19bfe44a-db55b5c2/Singularity
 collection: LooseNucleus/bsmap-singularity
 ---

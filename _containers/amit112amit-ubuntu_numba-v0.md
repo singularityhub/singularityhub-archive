@@ -9,7 +9,7 @@ build_date: "2020-03-24T10:04:15.220Z"
 size_mb: 388.0
 size: 127500319
 sif: "https://datasets.datalad.org/shub/amit112amit/ubuntu_numba/v0/2020-03-24-0635b33e-00cad69a/00cad69a6e32edc126a660ed187560f2.sif"
-url: https://datasets.datalad.org/shub/amit112amit/ubuntu_numba/v0/2020-03-24-0635b33e-00cad69a/
+datalad_url: https://datasets.datalad.org?dir=/shub/amit112amit/ubuntu_numba/v0/2020-03-24-0635b33e-00cad69a/
 recipe: https://datasets.datalad.org/shub/amit112amit/ubuntu_numba/v0/2020-03-24-0635b33e-00cad69a/Singularity
 collection: amit112amit/ubuntu_numba
 ---

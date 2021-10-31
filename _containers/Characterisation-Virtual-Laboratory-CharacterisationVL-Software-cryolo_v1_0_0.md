@@ -9,7 +9,7 @@ build_date: "2018-08-06T09:55:01.805Z"
 size_mb: 8099
 size: 4199952415
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cryolo_v1_0_0/2018-08-06-4c5cafc6-8c38412a/8c38412a9713b1ab180a88ca067fd0dd.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cryolo_v1_0_0/2018-08-06-4c5cafc6-8c38412a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cryolo_v1_0_0/2018-08-06-4c5cafc6-8c38412a/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cryolo_v1_0_0/2018-08-06-4c5cafc6-8c38412a/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

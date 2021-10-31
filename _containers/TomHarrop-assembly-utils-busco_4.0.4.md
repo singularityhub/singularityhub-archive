@@ -9,7 +9,7 @@ build_date: "2021-01-25T22:12:40.079Z"
 size_mb: 753.01171875
 size: 789590016
 sif: "https://datasets.datalad.org/shub/TomHarrop/assembly-utils/busco_4.0.4/2021-01-25-909a99ba-42eda22a/42eda22a80145303fe5636c048ccc7e6d54c3544461c7fe1a1c170b94998b781.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/busco_4.0.4/2021-01-25-909a99ba-42eda22a/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assembly-utils/busco_4.0.4/2021-01-25-909a99ba-42eda22a/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/busco_4.0.4/2021-01-25-909a99ba-42eda22a/Singularity
 collection: TomHarrop/assembly-utils
 ---

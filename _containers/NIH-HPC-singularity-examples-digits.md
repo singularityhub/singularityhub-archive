@@ -9,7 +9,7 @@ build_date: "2019-08-23T19:57:55.467Z"
 size_mb: 4492
 size: 1918017567
 sif: "https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/digits/2019-08-23-57e92739-240a885e/240a885e7841258731bdd9fe9d27fcf3.simg"
-url: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/digits/2019-08-23-57e92739-240a885e/
+datalad_url: https://datasets.datalad.org?dir=/shub/NIH-HPC/singularity-examples/digits/2019-08-23-57e92739-240a885e/
 recipe: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/digits/2019-08-23-57e92739-240a885e/Singularity
 collection: NIH-HPC/singularity-examples
 ---

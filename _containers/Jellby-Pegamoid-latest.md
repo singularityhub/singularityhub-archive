@@ -9,7 +9,7 @@ build_date: "2018-04-21T17:37:03.811Z"
 size_mb: 628
 size: 240275487
 sif: "https://datasets.datalad.org/shub/Jellby/Pegamoid/latest/2018-04-21-7b213bdd-4861d32e/4861d32e060c4f6c4a847251ca7d95f5.simg"
-url: https://datasets.datalad.org/shub/Jellby/Pegamoid/latest/2018-04-21-7b213bdd-4861d32e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Jellby/Pegamoid/latest/2018-04-21-7b213bdd-4861d32e/
 recipe: https://datasets.datalad.org/shub/Jellby/Pegamoid/latest/2018-04-21-7b213bdd-4861d32e/Singularity
 collection: Jellby/Pegamoid
 ---

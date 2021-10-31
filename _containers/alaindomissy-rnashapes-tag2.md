@@ -9,7 +9,7 @@ build_date: "2017-10-15T18:24:56.188Z"
 size_mb: 476
 size: 131485727
 sif: "https://datasets.datalad.org/shub/alaindomissy/rnashapes/tag2/2017-10-15-7d3779fd-99015bf9/99015bf9589651b2bcff1d040caa7e73.simg"
-url: https://datasets.datalad.org/shub/alaindomissy/rnashapes/tag2/2017-10-15-7d3779fd-99015bf9/
+datalad_url: https://datasets.datalad.org?dir=/shub/alaindomissy/rnashapes/tag2/2017-10-15-7d3779fd-99015bf9/
 recipe: https://datasets.datalad.org/shub/alaindomissy/rnashapes/tag2/2017-10-15-7d3779fd-99015bf9/Singularity
 collection: alaindomissy/rnashapes
 ---

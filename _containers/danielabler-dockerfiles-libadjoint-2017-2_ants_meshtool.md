@@ -9,7 +9,7 @@ build_date: "2020-06-11T13:58:13.844Z"
 size_mb: 8467
 size: 2321580063
 sif: "https://datasets.datalad.org/shub/danielabler/dockerfiles/libadjoint-2017-2_ants_meshtool/2020-06-11-ed4fed3d-02c5e33e/02c5e33e59ac50c26225cf98308bd792.simg"
-url: https://datasets.datalad.org/shub/danielabler/dockerfiles/libadjoint-2017-2_ants_meshtool/2020-06-11-ed4fed3d-02c5e33e/
+datalad_url: https://datasets.datalad.org?dir=/shub/danielabler/dockerfiles/libadjoint-2017-2_ants_meshtool/2020-06-11-ed4fed3d-02c5e33e/
 recipe: https://datasets.datalad.org/shub/danielabler/dockerfiles/libadjoint-2017-2_ants_meshtool/2020-06-11-ed4fed3d-02c5e33e/Singularity
 collection: danielabler/dockerfiles
 ---

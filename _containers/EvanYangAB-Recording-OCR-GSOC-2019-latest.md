@@ -9,7 +9,7 @@ build_date: "2019-08-07T11:02:16.145Z"
 size_mb: 6393
 size: 3183173663
 sif: "https://datasets.datalad.org/shub/EvanYangAB/Recording-OCR-GSOC-2019/latest/2019-08-07-6fc98f19-095cc030/095cc0302de2cd9295fd30144e77cf27.simg"
-url: https://datasets.datalad.org/shub/EvanYangAB/Recording-OCR-GSOC-2019/latest/2019-08-07-6fc98f19-095cc030/
+datalad_url: https://datasets.datalad.org?dir=/shub/EvanYangAB/Recording-OCR-GSOC-2019/latest/2019-08-07-6fc98f19-095cc030/
 recipe: https://datasets.datalad.org/shub/EvanYangAB/Recording-OCR-GSOC-2019/latest/2019-08-07-6fc98f19-095cc030/Singularity
 collection: EvanYangAB/Recording-OCR-GSOC-2019
 ---

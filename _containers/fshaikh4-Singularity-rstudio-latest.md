@@ -9,7 +9,7 @@ build_date: "2020-01-09T20:28:38.946Z"
 size_mb: 3436.0
 size: 1366609951
 sif: "https://datasets.datalad.org/shub/fshaikh4/Singularity/rstudio-latest/2020-01-09-7f8c779d-fc9e3c77/fc9e3c77bf1d382248b38738c6d3588f.sif"
-url: https://datasets.datalad.org/shub/fshaikh4/Singularity/rstudio-latest/2020-01-09-7f8c779d-fc9e3c77/
+datalad_url: https://datasets.datalad.org?dir=/shub/fshaikh4/Singularity/rstudio-latest/2020-01-09-7f8c779d-fc9e3c77/
 recipe: https://datasets.datalad.org/shub/fshaikh4/Singularity/rstudio-latest/2020-01-09-7f8c779d-fc9e3c77/Singularity
 collection: fshaikh4/Singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-11-19T14:21:34.836Z"
 size_mb: 505.0
 size: 529530880
 sif: "https://datasets.datalad.org/shub/statiksof/singularity-recipes/jupyterhub/2020-11-19-45f866ed-f94d2329/f94d23290362432abaaa666f0b20e7827e70dc7115f3e37146807d7aed30a792.sif"
-url: https://datasets.datalad.org/shub/statiksof/singularity-recipes/jupyterhub/2020-11-19-45f866ed-f94d2329/
+datalad_url: https://datasets.datalad.org?dir=/shub/statiksof/singularity-recipes/jupyterhub/2020-11-19-45f866ed-f94d2329/
 recipe: https://datasets.datalad.org/shub/statiksof/singularity-recipes/jupyterhub/2020-11-19-45f866ed-f94d2329/Singularity
 collection: statiksof/singularity-recipes
 ---

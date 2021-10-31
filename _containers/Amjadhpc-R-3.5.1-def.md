@@ -9,7 +9,7 @@ build_date: "2019-07-27T00:03:58.473Z"
 size_mb: 932
 size: 356556831
 sif: "https://datasets.datalad.org/shub/Amjadhpc/R-3.5.1/def/2019-07-27-624ee41b-7a4e93c1/7a4e93c1480b04c61c31945c4054c641.simg"
-url: https://datasets.datalad.org/shub/Amjadhpc/R-3.5.1/def/2019-07-27-624ee41b-7a4e93c1/
+datalad_url: https://datasets.datalad.org?dir=/shub/Amjadhpc/R-3.5.1/def/2019-07-27-624ee41b-7a4e93c1/
 recipe: https://datasets.datalad.org/shub/Amjadhpc/R-3.5.1/def/2019-07-27-624ee41b-7a4e93c1/Singularity
 collection: Amjadhpc/R-3.5.1
 ---

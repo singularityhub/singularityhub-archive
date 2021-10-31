@@ -9,7 +9,7 @@ build_date: "2018-07-17T22:43:34.258Z"
 size_mb: 5975
 size: 4753530911
 sif: "https://datasets.datalad.org/shub/colinsauze/Bovine_DNA_RNA/latest/2018-07-17-4370328e-cb871447/cb871447dc6ea99a3bcb6757a13d857f.simg"
-url: https://datasets.datalad.org/shub/colinsauze/Bovine_DNA_RNA/latest/2018-07-17-4370328e-cb871447/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinsauze/Bovine_DNA_RNA/latest/2018-07-17-4370328e-cb871447/
 recipe: https://datasets.datalad.org/shub/colinsauze/Bovine_DNA_RNA/latest/2018-07-17-4370328e-cb871447/Singularity
 collection: colinsauze/Bovine_DNA_RNA
 ---

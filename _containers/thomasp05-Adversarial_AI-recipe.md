@@ -9,7 +9,7 @@ build_date: "2021-01-27T14:43:17.223Z"
 size_mb: 5932.0
 size: 3421003807
 sif: "https://datasets.datalad.org/shub/thomasp05/Adversarial_AI/recipe/2021-01-27-08dcb085-5dce657f/5dce657fbb833ade9424c2d1cdc4f681.sif"
-url: https://datasets.datalad.org/shub/thomasp05/Adversarial_AI/recipe/2021-01-27-08dcb085-5dce657f/
+datalad_url: https://datasets.datalad.org?dir=/shub/thomasp05/Adversarial_AI/recipe/2021-01-27-08dcb085-5dce657f/
 recipe: https://datasets.datalad.org/shub/thomasp05/Adversarial_AI/recipe/2021-01-27-08dcb085-5dce657f/Singularity
 collection: thomasp05/Adversarial_AI
 ---

@@ -9,7 +9,7 @@ build_date: "2019-07-04T14:23:00.807Z"
 size_mb: None
 size: 1341095967
 sif: "https://datasets.datalad.org/shub/rpolicastro/kumar_analysis/latest/2019-07-04-15d06bff-7f7866c5/7f7866c52ea98ab647f33af697a84599.simg"
-url: https://datasets.datalad.org/shub/rpolicastro/kumar_analysis/latest/2019-07-04-15d06bff-7f7866c5/
+datalad_url: https://datasets.datalad.org?dir=/shub/rpolicastro/kumar_analysis/latest/2019-07-04-15d06bff-7f7866c5/
 recipe: https://datasets.datalad.org/shub/rpolicastro/kumar_analysis/latest/2019-07-04-15d06bff-7f7866c5/Singularity
 collection: rpolicastro/kumar_analysis
 ---

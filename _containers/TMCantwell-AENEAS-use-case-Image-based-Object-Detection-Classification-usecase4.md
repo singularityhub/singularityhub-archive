@@ -9,7 +9,7 @@ build_date: "2019-04-02T15:49:00.332Z"
 size_mb: 10048
 size: 5107855391
 sif: "https://datasets.datalad.org/shub/TMCantwell/AENEAS-use-case-Image-based-Object-Detection-Classification/usecase4/2019-04-02-7b12732e-f55b9e8c/f55b9e8c819895beec0d5b30720cec60.simg"
-url: https://datasets.datalad.org/shub/TMCantwell/AENEAS-use-case-Image-based-Object-Detection-Classification/usecase4/2019-04-02-7b12732e-f55b9e8c/
+datalad_url: https://datasets.datalad.org?dir=/shub/TMCantwell/AENEAS-use-case-Image-based-Object-Detection-Classification/usecase4/2019-04-02-7b12732e-f55b9e8c/
 recipe: https://datasets.datalad.org/shub/TMCantwell/AENEAS-use-case-Image-based-Object-Detection-Classification/usecase4/2019-04-02-7b12732e-f55b9e8c/Singularity
 collection: TMCantwell/AENEAS-use-case-Image-based-Object-Detection-Classification
 ---

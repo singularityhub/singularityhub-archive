@@ -9,7 +9,7 @@ build_date: "2017-10-31T10:18:14.465Z"
 size_mb: 337
 size: 91861023
 sif: "https://datasets.datalad.org/shub/mzhan1988/test_shub/latest/2017-10-31-7001e666-0245939e/0245939eb9ec74f5dd8ebf836f5592a0.simg"
-url: https://datasets.datalad.org/shub/mzhan1988/test_shub/latest/2017-10-31-7001e666-0245939e/
+datalad_url: https://datasets.datalad.org?dir=/shub/mzhan1988/test_shub/latest/2017-10-31-7001e666-0245939e/
 recipe: https://datasets.datalad.org/shub/mzhan1988/test_shub/latest/2017-10-31-7001e666-0245939e/Singularity
 collection: mzhan1988/test_shub
 ---

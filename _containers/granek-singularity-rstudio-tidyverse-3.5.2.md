@@ -9,7 +9,7 @@ build_date: "2021-02-01T17:36:20.844Z"
 size_mb: 1307
 size: 385450015
 sif: "https://datasets.datalad.org/shub/granek/singularity-rstudio-tidyverse/3.5.2/2021-02-01-2a6c8b03-340040f6/340040f680856249e67797e752f0f570.simg"
-url: https://datasets.datalad.org/shub/granek/singularity-rstudio-tidyverse/3.5.2/2021-02-01-2a6c8b03-340040f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/granek/singularity-rstudio-tidyverse/3.5.2/2021-02-01-2a6c8b03-340040f6/
 recipe: https://datasets.datalad.org/shub/granek/singularity-rstudio-tidyverse/3.5.2/2021-02-01-2a6c8b03-340040f6/Singularity
 collection: granek/singularity-rstudio-tidyverse
 ---

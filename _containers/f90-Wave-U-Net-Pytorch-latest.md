@@ -9,7 +9,7 @@ build_date: "2021-02-23T03:02:46.679Z"
 size_mb: 6696.0
 size: 4088889375
 sif: "https://datasets.datalad.org/shub/f90/Wave-U-Net-Pytorch/latest/2021-02-23-56a7dd7e-3737aa30/3737aa309796d4164f02334a91a7819a.sif"
-url: https://datasets.datalad.org/shub/f90/Wave-U-Net-Pytorch/latest/2021-02-23-56a7dd7e-3737aa30/
+datalad_url: https://datasets.datalad.org?dir=/shub/f90/Wave-U-Net-Pytorch/latest/2021-02-23-56a7dd7e-3737aa30/
 recipe: https://datasets.datalad.org/shub/f90/Wave-U-Net-Pytorch/latest/2021-02-23-56a7dd7e-3737aa30/Singularity
 collection: f90/Wave-U-Net-Pytorch
 ---

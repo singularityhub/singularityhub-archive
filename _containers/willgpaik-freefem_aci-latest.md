@@ -9,7 +9,7 @@ build_date: "2020-06-29T20:02:21.190Z"
 size_mb: 3350
 size: 1090895903
 sif: "https://datasets.datalad.org/shub/willgpaik/freefem_aci/latest/2020-06-29-160f9d37-0fc725b8/0fc725b80dc7536b3f45916140b3b92b.simg"
-url: https://datasets.datalad.org/shub/willgpaik/freefem_aci/latest/2020-06-29-160f9d37-0fc725b8/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/freefem_aci/latest/2020-06-29-160f9d37-0fc725b8/
 recipe: https://datasets.datalad.org/shub/willgpaik/freefem_aci/latest/2020-06-29-160f9d37-0fc725b8/Singularity
 collection: willgpaik/freefem_aci
 ---

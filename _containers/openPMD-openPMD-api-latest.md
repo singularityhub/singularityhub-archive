@@ -9,7 +9,7 @@ build_date: "2019-10-20T19:32:24.577Z"
 size_mb: 706
 size: 245514271
 sif: "https://datasets.datalad.org/shub/openPMD/openPMD-api/latest/2019-10-20-52993826-6b8ebd81/6b8ebd814134aaa19aeae40378ee5c05.simg"
-url: https://datasets.datalad.org/shub/openPMD/openPMD-api/latest/2019-10-20-52993826-6b8ebd81/
+datalad_url: https://datasets.datalad.org?dir=/shub/openPMD/openPMD-api/latest/2019-10-20-52993826-6b8ebd81/
 recipe: https://datasets.datalad.org/shub/openPMD/openPMD-api/latest/2019-10-20-52993826-6b8ebd81/Singularity
 collection: openPMD/openPMD-api
 ---

@@ -9,7 +9,7 @@ build_date: "2019-06-13T19:51:59.545Z"
 size_mb: 4681
 size: 2030497823
 sif: "https://datasets.datalad.org/shub/msk-cer/JacobCodes/chichen/2019-06-13-95785721-242e8fce/242e8fcec14e545c134dca0f13f37956.simg"
-url: https://datasets.datalad.org/shub/msk-cer/JacobCodes/chichen/2019-06-13-95785721-242e8fce/
+datalad_url: https://datasets.datalad.org?dir=/shub/msk-cer/JacobCodes/chichen/2019-06-13-95785721-242e8fce/
 recipe: https://datasets.datalad.org/shub/msk-cer/JacobCodes/chichen/2019-06-13-95785721-242e8fce/Singularity
 collection: msk-cer/JacobCodes
 ---

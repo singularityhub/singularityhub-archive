@@ -9,7 +9,7 @@ build_date: "2019-08-19T20:26:13.965Z"
 size_mb: 1659
 size: 473280543
 sif: "https://datasets.datalad.org/shub/Kurorororo/downward-lab-experiment/latest/2019-08-19-d434428e-d1247ca9/d1247ca95172f68d298485649a840fe3.simg"
-url: https://datasets.datalad.org/shub/Kurorororo/downward-lab-experiment/latest/2019-08-19-d434428e-d1247ca9/
+datalad_url: https://datasets.datalad.org?dir=/shub/Kurorororo/downward-lab-experiment/latest/2019-08-19-d434428e-d1247ca9/
 recipe: https://datasets.datalad.org/shub/Kurorororo/downward-lab-experiment/latest/2019-08-19-d434428e-d1247ca9/Singularity
 collection: Kurorororo/downward-lab-experiment
 ---

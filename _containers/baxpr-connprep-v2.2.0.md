@@ -9,7 +9,7 @@ build_date: "2020-07-21T23:36:40.908Z"
 size_mb: 3931.0
 size: 1739886623
 sif: "https://datasets.datalad.org/shub/baxpr/connprep/v2.2.0/2020-07-21-855dadc9-44dd24f7/44dd24f778f24a8987ee1508f73f42f3.sif"
-url: https://datasets.datalad.org/shub/baxpr/connprep/v2.2.0/2020-07-21-855dadc9-44dd24f7/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/connprep/v2.2.0/2020-07-21-855dadc9-44dd24f7/
 recipe: https://datasets.datalad.org/shub/baxpr/connprep/v2.2.0/2020-07-21-855dadc9-44dd24f7/Singularity
 collection: baxpr/connprep
 ---

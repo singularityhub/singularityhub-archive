@@ -9,7 +9,7 @@ build_date: "2020-04-11T22:01:12.960Z"
 size_mb: 4994
 size: 2344951839
 sif: "https://datasets.datalad.org/shub/justinblaber/dtiQA_app/1.0.0/2020-04-11-6cd3a1ca-c5284cc9/c5284cc988e74097a0de23413f0db95d.simg"
-url: https://datasets.datalad.org/shub/justinblaber/dtiQA_app/1.0.0/2020-04-11-6cd3a1ca-c5284cc9/
+datalad_url: https://datasets.datalad.org?dir=/shub/justinblaber/dtiQA_app/1.0.0/2020-04-11-6cd3a1ca-c5284cc9/
 recipe: https://datasets.datalad.org/shub/justinblaber/dtiQA_app/1.0.0/2020-04-11-6cd3a1ca-c5284cc9/Singularity
 collection: justinblaber/dtiQA_app
 ---

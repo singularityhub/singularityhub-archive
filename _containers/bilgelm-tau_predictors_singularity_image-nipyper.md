@@ -9,7 +9,7 @@ build_date: "2019-03-27T08:48:38.143Z"
 size_mb: 14572
 size: 5810778143
 sif: "https://datasets.datalad.org/shub/bilgelm/tau_predictors_singularity_image/nipyper/2019-03-27-595bd384-3cf53751/3cf53751f13c3cab9ff29eb2c877bbaa.simg"
-url: https://datasets.datalad.org/shub/bilgelm/tau_predictors_singularity_image/nipyper/2019-03-27-595bd384-3cf53751/
+datalad_url: https://datasets.datalad.org?dir=/shub/bilgelm/tau_predictors_singularity_image/nipyper/2019-03-27-595bd384-3cf53751/
 recipe: https://datasets.datalad.org/shub/bilgelm/tau_predictors_singularity_image/nipyper/2019-03-27-595bd384-3cf53751/Singularity
 collection: bilgelm/tau_predictors_singularity_image
 ---

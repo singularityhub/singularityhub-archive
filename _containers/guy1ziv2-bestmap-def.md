@@ -9,7 +9,7 @@ build_date: "2021-01-20T14:27:16.143Z"
 size_mb: 1688.0
 size: 580157471
 sif: "https://datasets.datalad.org/shub/guy1ziv2/bestmap/def/2021-01-20-4ddf3353-0076f916/0076f916799f508c3d1c9c223d2b2d9e.sif"
-url: https://datasets.datalad.org/shub/guy1ziv2/bestmap/def/2021-01-20-4ddf3353-0076f916/
+datalad_url: https://datasets.datalad.org?dir=/shub/guy1ziv2/bestmap/def/2021-01-20-4ddf3353-0076f916/
 recipe: https://datasets.datalad.org/shub/guy1ziv2/bestmap/def/2021-01-20-4ddf3353-0076f916/Singularity
 collection: guy1ziv2/bestmap
 ---

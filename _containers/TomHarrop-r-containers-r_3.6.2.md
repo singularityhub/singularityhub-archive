@@ -9,7 +9,7 @@ build_date: "2021-03-01T03:47:16.213Z"
 size_mb: 1203.390625
 size: 1261846528
 sif: "https://datasets.datalad.org/shub/TomHarrop/r-containers/r_3.6.2/2021-03-01-5eb2eca6-8fd1c7b3/8fd1c7b3aadf247212f012dd10b63cb9010a5c18c22425bf70b9e5d3d80df14c.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/r-containers/r_3.6.2/2021-03-01-5eb2eca6-8fd1c7b3/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/r-containers/r_3.6.2/2021-03-01-5eb2eca6-8fd1c7b3/
 recipe: https://datasets.datalad.org/shub/TomHarrop/r-containers/r_3.6.2/2021-03-01-5eb2eca6-8fd1c7b3/Singularity
 collection: TomHarrop/r-containers
 ---

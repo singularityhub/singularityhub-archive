@@ -9,7 +9,7 @@ build_date: "2017-11-16T10:30:37.232Z"
 size_mb: 3682
 size: 959365151
 sif: "https://datasets.datalad.org/shub/crbaird/ohpc/1.3.3.el7/2017-11-16-c6f5ab92-730c5d18/730c5d18dfeaed2046d5a3f616519df4.simg"
-url: https://datasets.datalad.org/shub/crbaird/ohpc/1.3.3.el7/2017-11-16-c6f5ab92-730c5d18/
+datalad_url: https://datasets.datalad.org?dir=/shub/crbaird/ohpc/1.3.3.el7/2017-11-16-c6f5ab92-730c5d18/
 recipe: https://datasets.datalad.org/shub/crbaird/ohpc/1.3.3.el7/2017-11-16-c6f5ab92-730c5d18/Singularity
 collection: crbaird/ohpc
 ---

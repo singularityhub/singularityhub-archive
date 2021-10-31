@@ -9,7 +9,7 @@ build_date: "2019-08-14T22:45:41.212Z"
 size_mb: 2939
 size: 1166831647
 sif: "https://datasets.datalad.org/shub/adam2392/deeplearning_hubs/tvb/2019-08-14-a1f1e966-0f65d018/0f65d0181b518057ecd44c641d0c97ef.simg"
-url: https://datasets.datalad.org/shub/adam2392/deeplearning_hubs/tvb/2019-08-14-a1f1e966-0f65d018/
+datalad_url: https://datasets.datalad.org?dir=/shub/adam2392/deeplearning_hubs/tvb/2019-08-14-a1f1e966-0f65d018/
 recipe: https://datasets.datalad.org/shub/adam2392/deeplearning_hubs/tvb/2019-08-14-a1f1e966-0f65d018/Singularity
 collection: adam2392/deeplearning_hubs
 ---

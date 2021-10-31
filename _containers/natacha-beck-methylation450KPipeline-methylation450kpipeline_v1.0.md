@@ -9,7 +9,7 @@ build_date: "2018-09-12T19:58:35.161Z"
 size_mb: 4040
 size: 1583108127
 sif: "https://datasets.datalad.org/shub/natacha-beck/methylation450KPipeline/methylation450kpipeline_v1.0/2018-09-12-37696981-e157ace6/e157ace66950c63240433bcec22af993.simg"
-url: https://datasets.datalad.org/shub/natacha-beck/methylation450KPipeline/methylation450kpipeline_v1.0/2018-09-12-37696981-e157ace6/
+datalad_url: https://datasets.datalad.org?dir=/shub/natacha-beck/methylation450KPipeline/methylation450kpipeline_v1.0/2018-09-12-37696981-e157ace6/
 recipe: https://datasets.datalad.org/shub/natacha-beck/methylation450KPipeline/methylation450kpipeline_v1.0/2018-09-12-37696981-e157ace6/Singularity
 collection: natacha-beck/methylation450KPipeline
 ---

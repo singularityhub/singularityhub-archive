@@ -9,7 +9,7 @@ build_date: "2021-04-13T13:42:29.693Z"
 size_mb: 1591
 size: 610136095
 sif: "https://datasets.datalad.org/shub/tyson-swetnam/turbovnc-singularity/latest/2021-04-13-41c51928-f9a91962/f9a919624d227a88f391a1eb022d9162.simg"
-url: https://datasets.datalad.org/shub/tyson-swetnam/turbovnc-singularity/latest/2021-04-13-41c51928-f9a91962/
+datalad_url: https://datasets.datalad.org?dir=/shub/tyson-swetnam/turbovnc-singularity/latest/2021-04-13-41c51928-f9a91962/
 recipe: https://datasets.datalad.org/shub/tyson-swetnam/turbovnc-singularity/latest/2021-04-13-41c51928-f9a91962/Singularity
 collection: tyson-swetnam/turbovnc-singularity
 ---

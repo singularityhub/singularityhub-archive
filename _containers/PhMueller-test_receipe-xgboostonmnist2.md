@@ -9,7 +9,7 @@ build_date: "2019-11-26T14:42:52.971Z"
 size_mb: 1513.0
 size: 742744095
 sif: "https://datasets.datalad.org/shub/PhMueller/test_receipe/xgboostonmnist2/2019-11-26-006d860b-7bfdc069/7bfdc069b8e30c50b82f10ef631d9019.sif"
-url: https://datasets.datalad.org/shub/PhMueller/test_receipe/xgboostonmnist2/2019-11-26-006d860b-7bfdc069/
+datalad_url: https://datasets.datalad.org?dir=/shub/PhMueller/test_receipe/xgboostonmnist2/2019-11-26-006d860b-7bfdc069/
 recipe: https://datasets.datalad.org/shub/PhMueller/test_receipe/xgboostonmnist2/2019-11-26-006d860b-7bfdc069/Singularity
 collection: PhMueller/test_receipe
 ---

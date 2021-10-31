@@ -9,7 +9,7 @@ build_date: "2019-07-21T23:27:09.681Z"
 size_mb: 877.0
 size: 392753183
 sif: "https://datasets.datalad.org/shub/mmore500/tag-olympics/latest/2019-07-21-5453f5a2-7efd125a/7efd125ae7dc80edafae8528ed855278.sif"
-url: https://datasets.datalad.org/shub/mmore500/tag-olympics/latest/2019-07-21-5453f5a2-7efd125a/
+datalad_url: https://datasets.datalad.org?dir=/shub/mmore500/tag-olympics/latest/2019-07-21-5453f5a2-7efd125a/
 recipe: https://datasets.datalad.org/shub/mmore500/tag-olympics/latest/2019-07-21-5453f5a2-7efd125a/Singularity
 collection: mmore500/tag-olympics
 ---

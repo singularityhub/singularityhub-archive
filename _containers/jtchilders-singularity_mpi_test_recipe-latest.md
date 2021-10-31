@@ -9,7 +9,7 @@ build_date: "2020-05-06T07:48:38.320Z"
 size_mb: 3789
 size: 1146343455
 sif: "https://datasets.datalad.org/shub/jtchilders/singularity_mpi_test_recipe/latest/2020-05-06-cab05a30-e94c4c40/e94c4c402da7e7029d8172216480e591.simg"
-url: https://datasets.datalad.org/shub/jtchilders/singularity_mpi_test_recipe/latest/2020-05-06-cab05a30-e94c4c40/
+datalad_url: https://datasets.datalad.org?dir=/shub/jtchilders/singularity_mpi_test_recipe/latest/2020-05-06-cab05a30-e94c4c40/
 recipe: https://datasets.datalad.org/shub/jtchilders/singularity_mpi_test_recipe/latest/2020-05-06-cab05a30-e94c4c40/Singularity
 collection: jtchilders/singularity_mpi_test_recipe
 ---

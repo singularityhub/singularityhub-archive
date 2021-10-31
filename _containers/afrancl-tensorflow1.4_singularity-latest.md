@@ -9,7 +9,7 @@ build_date: "2018-06-09T14:17:47.956Z"
 size_mb: 2907
 size: 1215746079
 sif: "https://datasets.datalad.org/shub/afrancl/tensorflow1.4_singularity/latest/2018-06-09-f1508401-ce2e39ff/ce2e39ff9758d9779e35e5de49588267.simg"
-url: https://datasets.datalad.org/shub/afrancl/tensorflow1.4_singularity/latest/2018-06-09-f1508401-ce2e39ff/
+datalad_url: https://datasets.datalad.org?dir=/shub/afrancl/tensorflow1.4_singularity/latest/2018-06-09-f1508401-ce2e39ff/
 recipe: https://datasets.datalad.org/shub/afrancl/tensorflow1.4_singularity/latest/2018-06-09-f1508401-ce2e39ff/Singularity
 collection: afrancl/tensorflow1.4_singularity
 ---

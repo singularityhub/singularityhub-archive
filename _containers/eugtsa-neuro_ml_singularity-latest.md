@@ -9,7 +9,7 @@ build_date: "2020-01-27T12:46:43.230Z"
 size_mb: 7189.0
 size: 4288417823
 sif: "https://datasets.datalad.org/shub/eugtsa/neuro_ml_singularity/latest/2020-01-27-4e0cad5b-9bc90e5a/9bc90e5aa76de3a4a476f5362a4a2b83.sif"
-url: https://datasets.datalad.org/shub/eugtsa/neuro_ml_singularity/latest/2020-01-27-4e0cad5b-9bc90e5a/
+datalad_url: https://datasets.datalad.org?dir=/shub/eugtsa/neuro_ml_singularity/latest/2020-01-27-4e0cad5b-9bc90e5a/
 recipe: https://datasets.datalad.org/shub/eugtsa/neuro_ml_singularity/latest/2020-01-27-4e0cad5b-9bc90e5a/Singularity
 collection: eugtsa/neuro_ml_singularity
 ---

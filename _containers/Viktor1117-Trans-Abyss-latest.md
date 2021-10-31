@@ -9,7 +9,7 @@ build_date: "2020-08-27T13:42:05.604Z"
 size_mb: 901.0
 size: 368361503
 sif: "https://datasets.datalad.org/shub/Viktor1117/Trans-Abyss/latest/2020-08-27-73176004-092acd68/092acd688718275eb55530f621bcadb8.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/Trans-Abyss/latest/2020-08-27-73176004-092acd68/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/Trans-Abyss/latest/2020-08-27-73176004-092acd68/
 recipe: https://datasets.datalad.org/shub/Viktor1117/Trans-Abyss/latest/2020-08-27-73176004-092acd68/Singularity
 collection: Viktor1117/Trans-Abyss
 ---

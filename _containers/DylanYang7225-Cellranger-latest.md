@@ -9,7 +9,7 @@ build_date: "2021-01-27T15:36:53.297Z"
 size_mb: 19938.0
 size: 12548964383
 sif: "https://datasets.datalad.org/shub/DylanYang7225/Cellranger/latest/2021-01-27-21aba335-28b38b1e/28b38b1e2e5e72b258fcd6b8bb162d56.sif"
-url: https://datasets.datalad.org/shub/DylanYang7225/Cellranger/latest/2021-01-27-21aba335-28b38b1e/
+datalad_url: https://datasets.datalad.org?dir=/shub/DylanYang7225/Cellranger/latest/2021-01-27-21aba335-28b38b1e/
 recipe: https://datasets.datalad.org/shub/DylanYang7225/Cellranger/latest/2021-01-27-21aba335-28b38b1e/Singularity
 collection: DylanYang7225/Cellranger
 ---

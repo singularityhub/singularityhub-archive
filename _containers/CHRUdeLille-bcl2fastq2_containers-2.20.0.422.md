@@ -9,7 +9,7 @@ build_date: "2018-11-20T17:27:30.328Z"
 size_mb: 497
 size: 187277343
 sif: "https://datasets.datalad.org/shub/CHRUdeLille/bcl2fastq2_containers/2.20.0.422/2018-11-20-1d23b0b1-94110c9f/94110c9f334a0bf9905e5f4b4ca3505f.simg"
-url: https://datasets.datalad.org/shub/CHRUdeLille/bcl2fastq2_containers/2.20.0.422/2018-11-20-1d23b0b1-94110c9f/
+datalad_url: https://datasets.datalad.org?dir=/shub/CHRUdeLille/bcl2fastq2_containers/2.20.0.422/2018-11-20-1d23b0b1-94110c9f/
 recipe: https://datasets.datalad.org/shub/CHRUdeLille/bcl2fastq2_containers/2.20.0.422/2018-11-20-1d23b0b1-94110c9f/Singularity
 collection: CHRUdeLille/bcl2fastq2_containers
 ---

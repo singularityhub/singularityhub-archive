@@ -9,7 +9,7 @@ build_date: "2019-10-18T09:43:08.126Z"
 size_mb: 1103
 size: 467333151
 sif: "https://datasets.datalad.org/shub/iferres/Singularity_recipes/pandelos/2019-10-18-92f333e5-d7e3f838/d7e3f83878d61821af347534afa27cc5.simg"
-url: https://datasets.datalad.org/shub/iferres/Singularity_recipes/pandelos/2019-10-18-92f333e5-d7e3f838/
+datalad_url: https://datasets.datalad.org?dir=/shub/iferres/Singularity_recipes/pandelos/2019-10-18-92f333e5-d7e3f838/
 recipe: https://datasets.datalad.org/shub/iferres/Singularity_recipes/pandelos/2019-10-18-92f333e5-d7e3f838/Singularity
 collection: iferres/Singularity_recipes
 ---

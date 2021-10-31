@@ -9,7 +9,7 @@ build_date: "2020-06-06T00:31:12.383Z"
 size_mb: 3877.0
 size: 1927069727
 sif: "https://datasets.datalad.org/shub/Zhangzhehao1995/MyContainer/tf1/2020-06-06-cbe395cf-70357221/7035722130fc00ac4ba6a03aedb13407.sif"
-url: https://datasets.datalad.org/shub/Zhangzhehao1995/MyContainer/tf1/2020-06-06-cbe395cf-70357221/
+datalad_url: https://datasets.datalad.org?dir=/shub/Zhangzhehao1995/MyContainer/tf1/2020-06-06-cbe395cf-70357221/
 recipe: https://datasets.datalad.org/shub/Zhangzhehao1995/MyContainer/tf1/2020-06-06-cbe395cf-70357221/Singularity
 collection: Zhangzhehao1995/MyContainer
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-11T11:39:34.696Z"
 size_mb: 3017.0
 size: 1295855647
 sif: "https://datasets.datalad.org/shub/hexmek/container/deeptools/2020-12-11-9998d34d-eaec283f/eaec283fd06864a8a1e56fb882a8040f.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/deeptools/2020-12-11-9998d34d-eaec283f/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/deeptools/2020-12-11-9998d34d-eaec283f/
 recipe: https://datasets.datalad.org/shub/hexmek/container/deeptools/2020-12-11-9998d34d-eaec283f/Singularity
 collection: hexmek/container
 ---

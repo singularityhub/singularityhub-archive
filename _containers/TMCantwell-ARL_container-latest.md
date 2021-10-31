@@ -9,7 +9,7 @@ build_date: "2019-03-25T23:16:30.455Z"
 size_mb: 5064
 size: 1902972959
 sif: "https://datasets.datalad.org/shub/TMCantwell/ARL_container/latest/2019-03-25-2c8727df-5daa5bb6/5daa5bb6b05de85edae56604f75e4f13.simg"
-url: https://datasets.datalad.org/shub/TMCantwell/ARL_container/latest/2019-03-25-2c8727df-5daa5bb6/
+datalad_url: https://datasets.datalad.org?dir=/shub/TMCantwell/ARL_container/latest/2019-03-25-2c8727df-5daa5bb6/
 recipe: https://datasets.datalad.org/shub/TMCantwell/ARL_container/latest/2019-03-25-2c8727df-5daa5bb6/Singularity
 collection: TMCantwell/ARL_container
 ---

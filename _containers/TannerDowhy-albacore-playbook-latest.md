@@ -9,7 +9,7 @@ build_date: "2018-08-28T03:21:34.930Z"
 size_mb: 1076
 size: 451244063
 sif: "https://datasets.datalad.org/shub/TannerDowhy/albacore-playbook/latest/2018-08-28-8f36fce1-52bf986d/52bf986d2dd6d8d7fddd485a31e35deb.simg"
-url: https://datasets.datalad.org/shub/TannerDowhy/albacore-playbook/latest/2018-08-28-8f36fce1-52bf986d/
+datalad_url: https://datasets.datalad.org?dir=/shub/TannerDowhy/albacore-playbook/latest/2018-08-28-8f36fce1-52bf986d/
 recipe: https://datasets.datalad.org/shub/TannerDowhy/albacore-playbook/latest/2018-08-28-8f36fce1-52bf986d/Singularity
 collection: TannerDowhy/albacore-playbook
 ---

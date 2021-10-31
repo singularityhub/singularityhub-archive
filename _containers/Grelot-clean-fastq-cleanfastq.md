@@ -9,7 +9,7 @@ build_date: "2021-02-23T14:19:01.048Z"
 size_mb: 1287.0
 size: 559435807
 sif: "https://datasets.datalad.org/shub/Grelot/clean-fastq/cleanfastq/2021-02-23-eb90b3f3-204edf68/204edf68e95b77941d106a4869ea153f.sif"
-url: https://datasets.datalad.org/shub/Grelot/clean-fastq/cleanfastq/2021-02-23-eb90b3f3-204edf68/
+datalad_url: https://datasets.datalad.org?dir=/shub/Grelot/clean-fastq/cleanfastq/2021-02-23-eb90b3f3-204edf68/
 recipe: https://datasets.datalad.org/shub/Grelot/clean-fastq/cleanfastq/2021-02-23-eb90b3f3-204edf68/Singularity
 collection: Grelot/clean-fastq
 ---

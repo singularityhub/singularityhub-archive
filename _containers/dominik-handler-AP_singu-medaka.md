@@ -9,7 +9,7 @@ build_date: "2020-05-04T11:51:32.599Z"
 size_mb: 920.44140625
 size: 965152768
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/medaka/2020-05-04-521aeb80-6b619984/6b6199841d4fc4c2c7dd421957c307a181666dd3a0fb80983e72c496f3fe5788.sif"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/medaka/2020-05-04-521aeb80-6b619984/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/medaka/2020-05-04-521aeb80-6b619984/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/medaka/2020-05-04-521aeb80-6b619984/Singularity
 collection: dominik-handler/AP_singu
 ---

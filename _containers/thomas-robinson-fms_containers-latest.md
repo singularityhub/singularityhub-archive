@@ -9,7 +9,7 @@ build_date: "2020-11-05T21:25:07.828Z"
 size_mb: 611.67578125
 size: 641388544
 sif: "https://datasets.datalad.org/shub/thomas-robinson/fms_containers/latest/2020-11-05-7855bc7c-2bf61368/2bf613683e1907086e1d6727e2d46cad9bf658077c965781b15b57e93d0698e0.sif"
-url: https://datasets.datalad.org/shub/thomas-robinson/fms_containers/latest/2020-11-05-7855bc7c-2bf61368/
+datalad_url: https://datasets.datalad.org?dir=/shub/thomas-robinson/fms_containers/latest/2020-11-05-7855bc7c-2bf61368/
 recipe: https://datasets.datalad.org/shub/thomas-robinson/fms_containers/latest/2020-11-05-7855bc7c-2bf61368/Singularity
 collection: thomas-robinson/fms_containers
 ---

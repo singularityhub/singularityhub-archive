@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:53.267Z"
 size_mb: 19780.0
 size: 8117239839
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-connectomemapper-bidsapp--3.0.0-diffcourse/2021-03-19-daf35899-98a41be2/98a41be22069bef42d7e55c414468362.sif"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-connectomemapper-bidsapp--3.0.0-diffcourse/2021-03-19-daf35899-98a41be2/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-connectomemapper-bidsapp--3.0.0-diffcourse/2021-03-19-daf35899-98a41be2/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-connectomemapper-bidsapp--3.0.0-diffcourse/2021-03-19-daf35899-98a41be2/Singularity
 collection: ReproNim/containers
 ---

@@ -9,7 +9,7 @@ build_date: "2018-02-22T10:18:07.647Z"
 size_mb: 7132
 size: 2280230943
 sif: "https://datasets.datalad.org/shub/Weatherhub/ekdmos/latest/2018-02-22-6c514611-e5ede108/e5ede108d6d795071c7f7546bd3d877d.simg"
-url: https://datasets.datalad.org/shub/Weatherhub/ekdmos/latest/2018-02-22-6c514611-e5ede108/
+datalad_url: https://datasets.datalad.org?dir=/shub/Weatherhub/ekdmos/latest/2018-02-22-6c514611-e5ede108/
 recipe: https://datasets.datalad.org/shub/Weatherhub/ekdmos/latest/2018-02-22-6c514611-e5ede108/Singularity
 collection: Weatherhub/ekdmos
 ---

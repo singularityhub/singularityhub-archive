@@ -9,7 +9,7 @@ build_date: "2021-02-23T14:18:14.751Z"
 size_mb: 2360.0
 size: 941240351
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/gridss-purple-linx.1.2.0.docker/2021-02-23-d7eacac0-db0f1b54/db0f1b5459dc516c4a4a913b1511d375.sif"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/gridss-purple-linx.1.2.0.docker/2021-02-23-d7eacac0-db0f1b54/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/gridss-purple-linx.1.2.0.docker/2021-02-23-d7eacac0-db0f1b54/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/gridss-purple-linx.1.2.0.docker/2021-02-23-d7eacac0-db0f1b54/Singularity
 collection: brucemoran/Singularity
 ---

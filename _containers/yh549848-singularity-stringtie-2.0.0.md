@@ -9,7 +9,7 @@ build_date: "2020-10-18T16:40:02.696Z"
 size_mb: 440.0
 size: 144908319
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-stringtie/2.0.0/2020-10-18-5c68e2c8-df3bf7d0/df3bf7d06e6ec834184ff88504596a67.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-stringtie/2.0.0/2020-10-18-5c68e2c8-df3bf7d0/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-stringtie/2.0.0/2020-10-18-5c68e2c8-df3bf7d0/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-stringtie/2.0.0/2020-10-18-5c68e2c8-df3bf7d0/Singularity
 collection: yh549848/singularity-stringtie
 ---

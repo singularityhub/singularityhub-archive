@@ -9,7 +9,7 @@ build_date: "2018-11-16T10:50:08.447Z"
 size_mb: 2070
 size: 938860575
 sif: "https://datasets.datalad.org/shub/TannerDowhy/theano-container/latest/2018-11-16-495329ca-68242e64/68242e645fda1ea714394d8eea46b149.simg"
-url: https://datasets.datalad.org/shub/TannerDowhy/theano-container/latest/2018-11-16-495329ca-68242e64/
+datalad_url: https://datasets.datalad.org?dir=/shub/TannerDowhy/theano-container/latest/2018-11-16-495329ca-68242e64/
 recipe: https://datasets.datalad.org/shub/TannerDowhy/theano-container/latest/2018-11-16-495329ca-68242e64/Singularity
 collection: TannerDowhy/theano-container
 ---

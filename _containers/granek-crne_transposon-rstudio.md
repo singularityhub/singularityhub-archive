@@ -9,7 +9,7 @@ build_date: "2018-12-03T09:49:39.785Z"
 size_mb: 3956
 size: 1408311327
 sif: "https://datasets.datalad.org/shub/granek/crne_transposon/rstudio/2018-12-03-9eb91416-3594525a/3594525a2ab7b04eaa8956090cf68c2b.simg"
-url: https://datasets.datalad.org/shub/granek/crne_transposon/rstudio/2018-12-03-9eb91416-3594525a/
+datalad_url: https://datasets.datalad.org?dir=/shub/granek/crne_transposon/rstudio/2018-12-03-9eb91416-3594525a/
 recipe: https://datasets.datalad.org/shub/granek/crne_transposon/rstudio/2018-12-03-9eb91416-3594525a/Singularity
 collection: granek/crne_transposon
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-16T22:25:11.720Z"
 size_mb: 3165.6796875
 size: 3319455744
 sif: "https://datasets.datalad.org/shub/TomHarrop/assemblers/trinity_2.9.0/2020-08-16-1b825734-b59a17a3/b59a17a37699de32c5f0641a5633141637a6a681587805001db0ba4567fb58ee.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assemblers/trinity_2.9.0/2020-08-16-1b825734-b59a17a3/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assemblers/trinity_2.9.0/2020-08-16-1b825734-b59a17a3/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assemblers/trinity_2.9.0/2020-08-16-1b825734-b59a17a3/Singularity
 collection: TomHarrop/assemblers
 ---

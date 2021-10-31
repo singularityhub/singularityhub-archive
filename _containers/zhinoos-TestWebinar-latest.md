@@ -9,7 +9,7 @@ build_date: "2021-02-08T08:43:13.553Z"
 size_mb: 314.734375
 size: 330022912
 sif: "https://datasets.datalad.org/shub/zhinoos/TestWebinar/latest/2021-02-08-d9bb7f69-b490cd22/b490cd22bc020d783ae8eb1858cdf0064151a37ac4a69dac0ee8d238a86a7036.sif"
-url: https://datasets.datalad.org/shub/zhinoos/TestWebinar/latest/2021-02-08-d9bb7f69-b490cd22/
+datalad_url: https://datasets.datalad.org?dir=/shub/zhinoos/TestWebinar/latest/2021-02-08-d9bb7f69-b490cd22/
 recipe: https://datasets.datalad.org/shub/zhinoos/TestWebinar/latest/2021-02-08-d9bb7f69-b490cd22/Singularity
 collection: zhinoos/TestWebinar
 ---

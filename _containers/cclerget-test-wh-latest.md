@@ -9,7 +9,7 @@ build_date: "2017-10-22T17:06:24.117Z"
 size_mb: 391
 size: 121503775
 sif: "https://datasets.datalad.org/shub/cclerget/test-wh/latest/2017-10-22-d74c423e-ced18ab5/ced18ab50bf15b5b04a45a83b7c20697.simg"
-url: https://datasets.datalad.org/shub/cclerget/test-wh/latest/2017-10-22-d74c423e-ced18ab5/
+datalad_url: https://datasets.datalad.org?dir=/shub/cclerget/test-wh/latest/2017-10-22-d74c423e-ced18ab5/
 recipe: https://datasets.datalad.org/shub/cclerget/test-wh/latest/2017-10-22-d74c423e-ced18ab5/Singularity
 collection: cclerget/test-wh
 ---

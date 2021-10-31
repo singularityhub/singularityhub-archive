@@ -9,7 +9,7 @@ build_date: "2018-07-26T20:24:37.662Z"
 size_mb: 1182
 size: 556167199
 sif: "https://datasets.datalad.org/shub/TeamMango/cavatica/latest/2018-07-26-d74b9b3b-e3b10270/e3b10270f19c624733d97c919496ffeb.simg"
-url: https://datasets.datalad.org/shub/TeamMango/cavatica/latest/2018-07-26-d74b9b3b-e3b10270/
+datalad_url: https://datasets.datalad.org?dir=/shub/TeamMango/cavatica/latest/2018-07-26-d74b9b3b-e3b10270/
 recipe: https://datasets.datalad.org/shub/TeamMango/cavatica/latest/2018-07-26-d74b9b3b-e3b10270/Singularity
 collection: TeamMango/cavatica
 ---

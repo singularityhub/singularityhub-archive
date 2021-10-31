@@ -9,7 +9,7 @@ build_date: "2021-03-25T17:45:00.997Z"
 size_mb: 925.0
 size: 297918495
 sif: "https://datasets.datalad.org/shub/adswa/nilearn-container/latest/2021-03-25-fe9b917e-6ed4aea6/6ed4aea687ed69922ae2105364793ae6.sif"
-url: https://datasets.datalad.org/shub/adswa/nilearn-container/latest/2021-03-25-fe9b917e-6ed4aea6/
+datalad_url: https://datasets.datalad.org?dir=/shub/adswa/nilearn-container/latest/2021-03-25-fe9b917e-6ed4aea6/
 recipe: https://datasets.datalad.org/shub/adswa/nilearn-container/latest/2021-03-25-fe9b917e-6ed4aea6/Singularity
 collection: adswa/nilearn-container
 ---

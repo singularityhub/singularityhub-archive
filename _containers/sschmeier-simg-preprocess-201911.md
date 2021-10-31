@@ -9,7 +9,7 @@ build_date: "2020-11-01T12:44:39.614Z"
 size_mb: 656.68359375
 size: 688582656
 sif: "https://datasets.datalad.org/shub/sschmeier/simg-preprocess/201911/2020-11-01-86d5ac4e-47c20616/47c2061613c79d79c67c939521723894eb930aeca2d8c8b6e0643a30d43797b8.sif"
-url: https://datasets.datalad.org/shub/sschmeier/simg-preprocess/201911/2020-11-01-86d5ac4e-47c20616/
+datalad_url: https://datasets.datalad.org?dir=/shub/sschmeier/simg-preprocess/201911/2020-11-01-86d5ac4e-47c20616/
 recipe: https://datasets.datalad.org/shub/sschmeier/simg-preprocess/201911/2020-11-01-86d5ac4e-47c20616/Singularity
 collection: sschmeier/simg-preprocess
 ---

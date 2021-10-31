@@ -9,7 +9,7 @@ build_date: "2021-01-15T12:37:16.857Z"
 size_mb: 1352.0
 size: 466677791
 sif: "https://datasets.datalad.org/shub/ARCLeeds/paramotopy-sing/latest/2021-01-15-637dc437-b681c3bc/b681c3bc912eabe0c1d78dd5499dba49.sif"
-url: https://datasets.datalad.org/shub/ARCLeeds/paramotopy-sing/latest/2021-01-15-637dc437-b681c3bc/
+datalad_url: https://datasets.datalad.org?dir=/shub/ARCLeeds/paramotopy-sing/latest/2021-01-15-637dc437-b681c3bc/
 recipe: https://datasets.datalad.org/shub/ARCLeeds/paramotopy-sing/latest/2021-01-15-637dc437-b681c3bc/Singularity
 collection: ARCLeeds/paramotopy-sing
 ---

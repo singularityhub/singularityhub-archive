@@ -9,7 +9,7 @@ build_date: "2020-10-27T18:09:13.115Z"
 size_mb: 1462.0
 size: 636629023
 sif: "https://datasets.datalad.org/shub/pgpmartin/SingIMG/guppy_4.2.2/2020-10-27-3f9c2a0f-84b470eb/84b470eb24c3de44898cc7bc13c07037.sif"
-url: https://datasets.datalad.org/shub/pgpmartin/SingIMG/guppy_4.2.2/2020-10-27-3f9c2a0f-84b470eb/
+datalad_url: https://datasets.datalad.org?dir=/shub/pgpmartin/SingIMG/guppy_4.2.2/2020-10-27-3f9c2a0f-84b470eb/
 recipe: https://datasets.datalad.org/shub/pgpmartin/SingIMG/guppy_4.2.2/2020-10-27-3f9c2a0f-84b470eb/Singularity
 collection: pgpmartin/SingIMG
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-15T17:13:30.080Z"
 size_mb: 5489
 size: 1219780639
 sif: "https://datasets.datalad.org/shub/Shotgunosine/mindcontrol/latest/2019-10-15-272f8de3-6208e82c/6208e82cbf12e10abda5ce19029dface.simg"
-url: https://datasets.datalad.org/shub/Shotgunosine/mindcontrol/latest/2019-10-15-272f8de3-6208e82c/
+datalad_url: https://datasets.datalad.org?dir=/shub/Shotgunosine/mindcontrol/latest/2019-10-15-272f8de3-6208e82c/
 recipe: https://datasets.datalad.org/shub/Shotgunosine/mindcontrol/latest/2019-10-15-272f8de3-6208e82c/Singularity
 collection: Shotgunosine/mindcontrol
 ---

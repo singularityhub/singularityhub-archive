@@ -9,7 +9,7 @@ build_date: "2020-09-21T08:01:27.372Z"
 size_mb: 2422
 size: 1065652255
 sif: "https://datasets.datalad.org/shub/GodloveD/Theano/latest/2020-09-21-a7d005c6-576eff4e/576eff4e31c9d4abe6969fc32026909c.simg"
-url: https://datasets.datalad.org/shub/GodloveD/Theano/latest/2020-09-21-a7d005c6-576eff4e/
+datalad_url: https://datasets.datalad.org?dir=/shub/GodloveD/Theano/latest/2020-09-21-a7d005c6-576eff4e/
 recipe: https://datasets.datalad.org/shub/GodloveD/Theano/latest/2020-09-21-a7d005c6-576eff4e/Singularity
 collection: GodloveD/Theano
 ---

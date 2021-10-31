@@ -9,7 +9,7 @@ build_date: "2020-02-23T23:05:45.994Z"
 size_mb: 8379.0
 size: 3090386975
 sif: "https://datasets.datalad.org/shub/akojamil/nexo-chroma-container/ubuntu1804-cuda10-noroot-new/2020-02-23-8fbd1b28-3eca2862/3eca28621b3cdc5b384ae299e3f6c3e5.sif"
-url: https://datasets.datalad.org/shub/akojamil/nexo-chroma-container/ubuntu1804-cuda10-noroot-new/2020-02-23-8fbd1b28-3eca2862/
+datalad_url: https://datasets.datalad.org?dir=/shub/akojamil/nexo-chroma-container/ubuntu1804-cuda10-noroot-new/2020-02-23-8fbd1b28-3eca2862/
 recipe: https://datasets.datalad.org/shub/akojamil/nexo-chroma-container/ubuntu1804-cuda10-noroot-new/2020-02-23-8fbd1b28-3eca2862/Singularity
 collection: akojamil/nexo-chroma-container
 ---

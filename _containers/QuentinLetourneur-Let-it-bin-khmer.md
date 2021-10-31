@@ -9,7 +9,7 @@ build_date: "2018-09-03T17:16:24.263Z"
 size_mb: 544
 size: 219140127
 sif: "https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/khmer/2018-09-03-f84588bf-e80a367c/e80a367c572aa042495065138701d36d.simg"
-url: https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/khmer/2018-09-03-f84588bf-e80a367c/
+datalad_url: https://datasets.datalad.org?dir=/shub/QuentinLetourneur/Let-it-bin/khmer/2018-09-03-f84588bf-e80a367c/
 recipe: https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/khmer/2018-09-03-f84588bf-e80a367c/Singularity
 collection: QuentinLetourneur/Let-it-bin
 ---

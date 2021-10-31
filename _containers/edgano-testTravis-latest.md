@@ -9,7 +9,7 @@ build_date: "2018-09-10T20:28:05.699Z"
 size_mb: 1095
 size: 429301791
 sif: "https://datasets.datalad.org/shub/edgano/testTravis/latest/2018-09-10-86156cf6-9d2b11e0/9d2b11e0e558a20f47fad1d4b6d4715f.simg"
-url: https://datasets.datalad.org/shub/edgano/testTravis/latest/2018-09-10-86156cf6-9d2b11e0/
+datalad_url: https://datasets.datalad.org?dir=/shub/edgano/testTravis/latest/2018-09-10-86156cf6-9d2b11e0/
 recipe: https://datasets.datalad.org/shub/edgano/testTravis/latest/2018-09-10-86156cf6-9d2b11e0/Singularity
 collection: edgano/testTravis
 ---

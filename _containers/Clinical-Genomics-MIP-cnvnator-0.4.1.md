@@ -9,7 +9,7 @@ build_date: "2020-06-12T22:06:03.483Z"
 size_mb: 1125.0
 size: 546197535
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/cnvnator-0.4.1/2020-06-12-6526814f-03de7ce5/03de7ce5b0527e4122825f9480a817ba.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/cnvnator-0.4.1/2020-06-12-6526814f-03de7ce5/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/cnvnator-0.4.1/2020-06-12-6526814f-03de7ce5/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/cnvnator-0.4.1/2020-06-12-6526814f-03de7ce5/Singularity
 collection: Clinical-Genomics/MIP
 ---

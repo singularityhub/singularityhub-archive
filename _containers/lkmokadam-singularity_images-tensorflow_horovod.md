@@ -9,7 +9,7 @@ build_date: "2018-03-20T18:41:47.106Z"
 size_mb: 3796
 size: 1704124447
 sif: "https://datasets.datalad.org/shub/lkmokadam/singularity_images/tensorflow_horovod/2018-03-20-554fa115-d88a5849/d88a58497c9c3eb99c0470196bc44735.simg"
-url: https://datasets.datalad.org/shub/lkmokadam/singularity_images/tensorflow_horovod/2018-03-20-554fa115-d88a5849/
+datalad_url: https://datasets.datalad.org?dir=/shub/lkmokadam/singularity_images/tensorflow_horovod/2018-03-20-554fa115-d88a5849/
 recipe: https://datasets.datalad.org/shub/lkmokadam/singularity_images/tensorflow_horovod/2018-03-20-554fa115-d88a5849/Singularity
 collection: lkmokadam/singularity_images
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-03T09:05:30.898Z"
 size_mb: 526.0
 size: 196296735
 sif: "https://datasets.datalad.org/shub/cokelaer/ngstools/fastqc/2020-08-03-4651ed11-f91dc768/f91dc768b64b1930afeb44ac47796501.sif"
-url: https://datasets.datalad.org/shub/cokelaer/ngstools/fastqc/2020-08-03-4651ed11-f91dc768/
+datalad_url: https://datasets.datalad.org?dir=/shub/cokelaer/ngstools/fastqc/2020-08-03-4651ed11-f91dc768/
 recipe: https://datasets.datalad.org/shub/cokelaer/ngstools/fastqc/2020-08-03-4651ed11-f91dc768/Singularity
 collection: cokelaer/ngstools
 ---

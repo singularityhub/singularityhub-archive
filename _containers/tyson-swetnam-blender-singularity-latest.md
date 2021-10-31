@@ -9,7 +9,7 @@ build_date: "2020-08-27T08:26:51.716Z"
 size_mb: 791
 size: 301625375
 sif: "https://datasets.datalad.org/shub/tyson-swetnam/blender-singularity/latest/2020-08-27-db9988d8-811ad81a/811ad81a9b6382bd97ffb34a40a3d3fb.simg"
-url: https://datasets.datalad.org/shub/tyson-swetnam/blender-singularity/latest/2020-08-27-db9988d8-811ad81a/
+datalad_url: https://datasets.datalad.org?dir=/shub/tyson-swetnam/blender-singularity/latest/2020-08-27-db9988d8-811ad81a/
 recipe: https://datasets.datalad.org/shub/tyson-swetnam/blender-singularity/latest/2020-08-27-db9988d8-811ad81a/Singularity
 collection: tyson-swetnam/blender-singularity
 ---

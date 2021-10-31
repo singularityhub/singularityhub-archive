@@ -9,7 +9,7 @@ build_date: "2019-06-13T22:59:54.045Z"
 size_mb: 483
 size: 168136735
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/kraken_2.0.8beta/2019-06-13-24881cf2-8b25cc5f/8b25cc5f3b14c2dc7d2cb3b955efbaa0.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/kraken_2.0.8beta/2019-06-13-24881cf2-8b25cc5f/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/kraken_2.0.8beta/2019-06-13-24881cf2-8b25cc5f/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/kraken_2.0.8beta/2019-06-13-24881cf2-8b25cc5f/Singularity
 collection: TomHarrop/singularity-containers
 ---

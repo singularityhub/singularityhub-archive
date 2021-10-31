@@ -9,7 +9,7 @@ build_date: "2019-09-18T23:26:07.550Z"
 size_mb: 1491.40234375
 size: 1563848704
 sif: "https://datasets.datalad.org/shub/Museau/CMC_Medical_Imaging/latest/2019-09-18-5d8d1cad-af41eafe/af41eafedd475a6848b6b24a9b972f22cfb6365dea633762f83bfd902118cf8a.sif"
-url: https://datasets.datalad.org/shub/Museau/CMC_Medical_Imaging/latest/2019-09-18-5d8d1cad-af41eafe/
+datalad_url: https://datasets.datalad.org?dir=/shub/Museau/CMC_Medical_Imaging/latest/2019-09-18-5d8d1cad-af41eafe/
 recipe: https://datasets.datalad.org/shub/Museau/CMC_Medical_Imaging/latest/2019-09-18-5d8d1cad-af41eafe/Singularity
 collection: Museau/CMC_Medical_Imaging
 ---

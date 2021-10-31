@@ -9,7 +9,7 @@ build_date: "2020-09-09T12:52:30.086Z"
 size_mb: 1195.23046875
 size: 1253289984
 sif: "https://datasets.datalad.org/shub/Xentrics/jupyter-r-base/r4/2020-09-09-afc4c67a-8b7652d9/8b7652d99f7e3b31687fd2a52b3d7960f908ff6b4491eee5f1bd5fe7816df9b5.sif"
-url: https://datasets.datalad.org/shub/Xentrics/jupyter-r-base/r4/2020-09-09-afc4c67a-8b7652d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/Xentrics/jupyter-r-base/r4/2020-09-09-afc4c67a-8b7652d9/
 recipe: https://datasets.datalad.org/shub/Xentrics/jupyter-r-base/r4/2020-09-09-afc4c67a-8b7652d9/Singularity
 collection: Xentrics/jupyter-r-base
 ---

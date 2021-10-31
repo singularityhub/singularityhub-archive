@@ -9,7 +9,7 @@ build_date: "2020-01-17T09:35:35.714Z"
 size_mb: 8946.0
 size: 2917457951
 sif: "https://datasets.datalad.org/shub/qibinc/singularity/wav2letter/2020-01-17-fc751d54-3f242f51/3f242f515cfdb5be2eca002f09a7bd56.sif"
-url: https://datasets.datalad.org/shub/qibinc/singularity/wav2letter/2020-01-17-fc751d54-3f242f51/
+datalad_url: https://datasets.datalad.org?dir=/shub/qibinc/singularity/wav2letter/2020-01-17-fc751d54-3f242f51/
 recipe: https://datasets.datalad.org/shub/qibinc/singularity/wav2letter/2020-01-17-fc751d54-3f242f51/Singularity
 collection: qibinc/singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2018-11-24T04:49:43.457Z"
 size_mb: 5805
 size: 3044827167
 sif: "https://datasets.datalad.org/shub/happinesszl/pytorch/0.4.1-cuda9-cudnn7-devel/2018-11-24-22eba5bf-2b59350b/2b59350b80c8dddb6659e3c363347495.simg"
-url: https://datasets.datalad.org/shub/happinesszl/pytorch/0.4.1-cuda9-cudnn7-devel/2018-11-24-22eba5bf-2b59350b/
+datalad_url: https://datasets.datalad.org?dir=/shub/happinesszl/pytorch/0.4.1-cuda9-cudnn7-devel/2018-11-24-22eba5bf-2b59350b/
 recipe: https://datasets.datalad.org/shub/happinesszl/pytorch/0.4.1-cuda9-cudnn7-devel/2018-11-24-22eba5bf-2b59350b/Singularity
 collection: happinesszl/pytorch
 ---

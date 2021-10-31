@@ -9,7 +9,7 @@ build_date: "2021-04-06T19:21:43.941Z"
 size_mb: 6918
 size: 3029467167
 sif: "https://datasets.datalad.org/shub/ISU-HPC/big-scape/latest/2021-04-06-5cd09811-86329012/863290126edd6304645168eedd1c91ba.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/big-scape/latest/2021-04-06-5cd09811-86329012/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/big-scape/latest/2021-04-06-5cd09811-86329012/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/big-scape/latest/2021-04-06-5cd09811-86329012/Singularity
 collection: ISU-HPC/big-scape
 ---

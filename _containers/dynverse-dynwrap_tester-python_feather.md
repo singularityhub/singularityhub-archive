@@ -9,7 +9,7 @@ build_date: "2018-09-07T10:28:52.600Z"
 size_mb: 1424
 size: 536117279
 sif: "https://datasets.datalad.org/shub/dynverse/dynwrap_tester/python_feather/2018-09-07-310a2fcc-ba99c6a9/ba99c6a9b5005adb0c2e374b1bc43c24.simg"
-url: https://datasets.datalad.org/shub/dynverse/dynwrap_tester/python_feather/2018-09-07-310a2fcc-ba99c6a9/
+datalad_url: https://datasets.datalad.org?dir=/shub/dynverse/dynwrap_tester/python_feather/2018-09-07-310a2fcc-ba99c6a9/
 recipe: https://datasets.datalad.org/shub/dynverse/dynwrap_tester/python_feather/2018-09-07-310a2fcc-ba99c6a9/Singularity
 collection: dynverse/dynwrap_tester
 ---

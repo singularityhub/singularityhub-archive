@@ -9,7 +9,7 @@ build_date: "2018-11-16T01:38:15.810Z"
 size_mb: 5083
 size: 2386853919
 sif: "https://datasets.datalad.org/shub/apphys/hpsim_rl_singularity/centos7-tensorflow-cpu/2018-11-16-c4a049b7-a5543c42/a5543c42edb1ce9ad717ae6e80768628.simg"
-url: https://datasets.datalad.org/shub/apphys/hpsim_rl_singularity/centos7-tensorflow-cpu/2018-11-16-c4a049b7-a5543c42/
+datalad_url: https://datasets.datalad.org?dir=/shub/apphys/hpsim_rl_singularity/centos7-tensorflow-cpu/2018-11-16-c4a049b7-a5543c42/
 recipe: https://datasets.datalad.org/shub/apphys/hpsim_rl_singularity/centos7-tensorflow-cpu/2018-11-16-c4a049b7-a5543c42/Singularity
 collection: apphys/hpsim_rl_singularity
 ---

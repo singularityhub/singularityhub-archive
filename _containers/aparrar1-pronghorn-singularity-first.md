@@ -9,7 +9,7 @@ build_date: "2018-04-03T19:57:12.060Z"
 size_mb: 199
 size: 84664351
 sif: "https://datasets.datalad.org/shub/aparrar1/pronghorn-singularity/first/2018-04-03-e52520dc-2c8fdf49/2c8fdf492cec429a44ae87f17c99e231.simg"
-url: https://datasets.datalad.org/shub/aparrar1/pronghorn-singularity/first/2018-04-03-e52520dc-2c8fdf49/
+datalad_url: https://datasets.datalad.org?dir=/shub/aparrar1/pronghorn-singularity/first/2018-04-03-e52520dc-2c8fdf49/
 recipe: https://datasets.datalad.org/shub/aparrar1/pronghorn-singularity/first/2018-04-03-e52520dc-2c8fdf49/Singularity
 collection: aparrar1/pronghorn-singularity
 ---

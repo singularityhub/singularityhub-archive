@@ -9,7 +9,7 @@ build_date: "2018-07-05T15:14:04.837Z"
 size_mb: 2578
 size: 1432645663
 sif: "https://datasets.datalad.org/shub/mikemhenry/cme-lab-images/hoomd/2018-07-05-c8af97df-1a05ae00/1a05ae007bd07ec517a743fa721433be.simg"
-url: https://datasets.datalad.org/shub/mikemhenry/cme-lab-images/hoomd/2018-07-05-c8af97df-1a05ae00/
+datalad_url: https://datasets.datalad.org?dir=/shub/mikemhenry/cme-lab-images/hoomd/2018-07-05-c8af97df-1a05ae00/
 recipe: https://datasets.datalad.org/shub/mikemhenry/cme-lab-images/hoomd/2018-07-05-c8af97df-1a05ae00/Singularity
 collection: mikemhenry/cme-lab-images
 ---

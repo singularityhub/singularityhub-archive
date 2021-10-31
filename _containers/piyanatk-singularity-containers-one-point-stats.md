@@ -9,7 +9,7 @@ build_date: "2020-11-10T16:45:45.924Z"
 size_mb: 1246.38671875
 size: 1306931200
 sif: "https://datasets.datalad.org/shub/piyanatk/singularity-containers/one-point-stats/2020-11-10-44f2cd43-1fbc8df8/1fbc8df877d238a4af5fa71359d2a7daf704aed287676a9f5293cec7a64e6023.sif"
-url: https://datasets.datalad.org/shub/piyanatk/singularity-containers/one-point-stats/2020-11-10-44f2cd43-1fbc8df8/
+datalad_url: https://datasets.datalad.org?dir=/shub/piyanatk/singularity-containers/one-point-stats/2020-11-10-44f2cd43-1fbc8df8/
 recipe: https://datasets.datalad.org/shub/piyanatk/singularity-containers/one-point-stats/2020-11-10-44f2cd43-1fbc8df8/Singularity
 collection: piyanatk/singularity-containers
 ---

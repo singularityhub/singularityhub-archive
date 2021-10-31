@@ -9,7 +9,7 @@ build_date: "2020-07-29T06:09:21.918Z"
 size_mb: 12085.0
 size: 6209925151
 sif: "https://datasets.datalad.org/shub/AnnakinJunhong/singularityhub/latest/2020-07-29-861cd168-c4bb1172/c4bb1172395a5f2de0d376ffb68d6e2d.sif"
-url: https://datasets.datalad.org/shub/AnnakinJunhong/singularityhub/latest/2020-07-29-861cd168-c4bb1172/
+datalad_url: https://datasets.datalad.org?dir=/shub/AnnakinJunhong/singularityhub/latest/2020-07-29-861cd168-c4bb1172/
 recipe: https://datasets.datalad.org/shub/AnnakinJunhong/singularityhub/latest/2020-07-29-861cd168-c4bb1172/Singularity
 collection: AnnakinJunhong/singularityhub
 ---

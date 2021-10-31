@@ -9,7 +9,7 @@ build_date: "2019-01-18T22:38:50.426Z"
 size_mb: 521
 size: 185339935
 sif: "https://datasets.datalad.org/shub/romxero/Blaster_BioRuby_Singularity/latest/2019-01-18-20cb1b37-0a43e314/0a43e3141517d205a700ea7c1a386965.simg"
-url: https://datasets.datalad.org/shub/romxero/Blaster_BioRuby_Singularity/latest/2019-01-18-20cb1b37-0a43e314/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/Blaster_BioRuby_Singularity/latest/2019-01-18-20cb1b37-0a43e314/
 recipe: https://datasets.datalad.org/shub/romxero/Blaster_BioRuby_Singularity/latest/2019-01-18-20cb1b37-0a43e314/Singularity
 collection: romxero/Blaster_BioRuby_Singularity
 ---

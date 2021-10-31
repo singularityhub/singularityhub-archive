@@ -9,7 +9,7 @@ build_date: "2018-07-20T04:10:47.464Z"
 size_mb: 14
 size: 7901215
 sif: "https://datasets.datalad.org/shub/Gkandoi/SingularityExample/latest/2018-07-20-8e658700-343f7acd/343f7acdaf24be61bd09264c7f465675.simg"
-url: https://datasets.datalad.org/shub/Gkandoi/SingularityExample/latest/2018-07-20-8e658700-343f7acd/
+datalad_url: https://datasets.datalad.org?dir=/shub/Gkandoi/SingularityExample/latest/2018-07-20-8e658700-343f7acd/
 recipe: https://datasets.datalad.org/shub/Gkandoi/SingularityExample/latest/2018-07-20-8e658700-343f7acd/Singularity
 collection: Gkandoi/SingularityExample
 ---

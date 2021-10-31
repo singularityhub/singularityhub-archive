@@ -9,7 +9,7 @@ build_date: "2021-03-11T22:28:21.991Z"
 size_mb: 110.97265625
 size: 116363264
 sif: "https://datasets.datalad.org/shub/TomHarrop/assemblers/miniasm_0.3r179/2021-03-11-38e1bf3e-06fb8b88/06fb8b88f65e44724f75c98f639c08feee8e4dca1b3515c387427c3504794e24.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assemblers/miniasm_0.3r179/2021-03-11-38e1bf3e-06fb8b88/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assemblers/miniasm_0.3r179/2021-03-11-38e1bf3e-06fb8b88/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assemblers/miniasm_0.3r179/2021-03-11-38e1bf3e-06fb8b88/Singularity
 collection: TomHarrop/assemblers
 ---

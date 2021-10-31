@@ -9,7 +9,7 @@ build_date: "2020-10-02T07:32:14.682Z"
 size_mb: 274.640625
 size: 287981568
 sif: "https://datasets.datalad.org/shub/edg1983/Singularity_images/aligndedup-v1.0.def/2020-10-02-3899fa9f-f8e258af/f8e258afa22a02287f92b182cc72d0b139c24efadf48434f3597daaf564e63bd.sif"
-url: https://datasets.datalad.org/shub/edg1983/Singularity_images/aligndedup-v1.0.def/2020-10-02-3899fa9f-f8e258af/
+datalad_url: https://datasets.datalad.org?dir=/shub/edg1983/Singularity_images/aligndedup-v1.0.def/2020-10-02-3899fa9f-f8e258af/
 recipe: https://datasets.datalad.org/shub/edg1983/Singularity_images/aligndedup-v1.0.def/2020-10-02-3899fa9f-f8e258af/Singularity
 collection: edg1983/Singularity_images
 ---

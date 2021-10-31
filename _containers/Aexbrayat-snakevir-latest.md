@@ -9,7 +9,7 @@ build_date: "2020-01-10T09:23:04.513Z"
 size_mb: 4911.0
 size: 2240897055
 sif: "https://datasets.datalad.org/shub/Aexbrayat/snakevir/latest/2020-01-10-02b2df29-2af0c52b/2af0c52b4e3fae19d7074951d36a875b.sif"
-url: https://datasets.datalad.org/shub/Aexbrayat/snakevir/latest/2020-01-10-02b2df29-2af0c52b/
+datalad_url: https://datasets.datalad.org?dir=/shub/Aexbrayat/snakevir/latest/2020-01-10-02b2df29-2af0c52b/
 recipe: https://datasets.datalad.org/shub/Aexbrayat/snakevir/latest/2020-01-10-02b2df29-2af0c52b/Singularity
 collection: Aexbrayat/snakevir
 ---

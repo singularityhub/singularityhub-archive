@@ -9,7 +9,7 @@ build_date: "2020-12-20T15:56:00.953Z"
 size_mb: 5655.0
 size: 926400543
 sif: "https://datasets.datalad.org/shub/halabikeren/TraitRELAX/latest/2020-12-20-a5682e1e-747aefa9/747aefa9b7c0a81ae83ef7634773cbe4.sif"
-url: https://datasets.datalad.org/shub/halabikeren/TraitRELAX/latest/2020-12-20-a5682e1e-747aefa9/
+datalad_url: https://datasets.datalad.org?dir=/shub/halabikeren/TraitRELAX/latest/2020-12-20-a5682e1e-747aefa9/
 recipe: https://datasets.datalad.org/shub/halabikeren/TraitRELAX/latest/2020-12-20-a5682e1e-747aefa9/Singularity
 collection: halabikeren/TraitRELAX
 ---

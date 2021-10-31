@@ -9,7 +9,7 @@ build_date: "2018-07-31T11:15:57.513Z"
 size_mb: 843
 size: 402321439
 sif: "https://datasets.datalad.org/shub/idot/Singularity_recipes/fast5/2018-07-31-a226658c-37b7767f/37b7767fafdf7b3fe48f70970aadba2e.simg"
-url: https://datasets.datalad.org/shub/idot/Singularity_recipes/fast5/2018-07-31-a226658c-37b7767f/
+datalad_url: https://datasets.datalad.org?dir=/shub/idot/Singularity_recipes/fast5/2018-07-31-a226658c-37b7767f/
 recipe: https://datasets.datalad.org/shub/idot/Singularity_recipes/fast5/2018-07-31-a226658c-37b7767f/Singularity
 collection: idot/Singularity_recipes
 ---

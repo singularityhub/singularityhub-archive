@@ -9,7 +9,7 @@ build_date: "2020-06-08T21:41:32.985Z"
 size_mb: 104.0
 size: 49692703
 sif: "https://datasets.datalad.org/shub/powerPlant/hapcol-srf/97d4a5e/2020-06-08-01079d6a-798a1ca4/798a1ca43fb8a484cc92e004dc28fb51.sif"
-url: https://datasets.datalad.org/shub/powerPlant/hapcol-srf/97d4a5e/2020-06-08-01079d6a-798a1ca4/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/hapcol-srf/97d4a5e/2020-06-08-01079d6a-798a1ca4/
 recipe: https://datasets.datalad.org/shub/powerPlant/hapcol-srf/97d4a5e/2020-06-08-01079d6a-798a1ca4/Singularity
 collection: powerPlant/hapcol-srf
 ---

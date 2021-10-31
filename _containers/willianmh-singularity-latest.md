@@ -9,7 +9,7 @@ build_date: "2018-08-31T03:21:36.281Z"
 size_mb: 672
 size: 256331807
 sif: "https://datasets.datalad.org/shub/willianmh/singularity/latest/2018-08-31-bd0fc177-d831d6f5/d831d6f5a34d6ecf9309813499ae1a0d.simg"
-url: https://datasets.datalad.org/shub/willianmh/singularity/latest/2018-08-31-bd0fc177-d831d6f5/
+datalad_url: https://datasets.datalad.org?dir=/shub/willianmh/singularity/latest/2018-08-31-bd0fc177-d831d6f5/
 recipe: https://datasets.datalad.org/shub/willianmh/singularity/latest/2018-08-31-bd0fc177-d831d6f5/Singularity
 collection: willianmh/singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-08T18:37:30.597Z"
 size_mb: 702
 size: 198422559
 sif: "https://datasets.datalad.org/shub/ltalirz/singularity-recipe-zeopp/ansible/2019-10-08-2024304e-dc8bbf82/dc8bbf823e5eed2c8c997cdf0e51778e.simg"
-url: https://datasets.datalad.org/shub/ltalirz/singularity-recipe-zeopp/ansible/2019-10-08-2024304e-dc8bbf82/
+datalad_url: https://datasets.datalad.org?dir=/shub/ltalirz/singularity-recipe-zeopp/ansible/2019-10-08-2024304e-dc8bbf82/
 recipe: https://datasets.datalad.org/shub/ltalirz/singularity-recipe-zeopp/ansible/2019-10-08-2024304e-dc8bbf82/Singularity
 collection: ltalirz/singularity-recipe-zeopp
 ---

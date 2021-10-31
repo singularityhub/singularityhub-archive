@@ -9,7 +9,7 @@ build_date: "2021-03-22T13:38:59.747Z"
 size_mb: 1694.49609375
 size: 1776807936
 sif: "https://datasets.datalad.org/shub/UPPMAX/uppmax_in_a_can/latest/2021-03-22-0f4d5510-a0507b9b/a0507b9b6cafe9a8cf61bf188f50f4a21a666b7c57db26dd0574e8a0ed098b88.sif"
-url: https://datasets.datalad.org/shub/UPPMAX/uppmax_in_a_can/latest/2021-03-22-0f4d5510-a0507b9b/
+datalad_url: https://datasets.datalad.org?dir=/shub/UPPMAX/uppmax_in_a_can/latest/2021-03-22-0f4d5510-a0507b9b/
 recipe: https://datasets.datalad.org/shub/UPPMAX/uppmax_in_a_can/latest/2021-03-22-0f4d5510-a0507b9b/Singularity
 collection: UPPMAX/uppmax_in_a_can
 ---

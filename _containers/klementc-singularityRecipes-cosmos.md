@@ -9,7 +9,7 @@ build_date: "2019-08-14T13:49:17.802Z"
 size_mb: 701.0
 size: 256135199
 sif: "https://datasets.datalad.org/shub/klementc/singularityRecipes/cosmos/2019-08-14-fa914931-176e1463/176e14630f1cc5270bee3b1503727e1d.sif"
-url: https://datasets.datalad.org/shub/klementc/singularityRecipes/cosmos/2019-08-14-fa914931-176e1463/
+datalad_url: https://datasets.datalad.org?dir=/shub/klementc/singularityRecipes/cosmos/2019-08-14-fa914931-176e1463/
 recipe: https://datasets.datalad.org/shub/klementc/singularityRecipes/cosmos/2019-08-14-fa914931-176e1463/Singularity
 collection: klementc/singularityRecipes
 ---

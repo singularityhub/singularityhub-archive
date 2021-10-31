@@ -9,7 +9,7 @@ build_date: "2017-12-07T15:25:40.550Z"
 size_mb: 811
 size: 259637279
 sif: "https://datasets.datalad.org/shub/ResearchIT/nwchem/6.6-openmpi/2017-12-07-5f290a6d-4313f79f/4313f79fde2a408e727280805ad2382b.simg"
-url: https://datasets.datalad.org/shub/ResearchIT/nwchem/6.6-openmpi/2017-12-07-5f290a6d-4313f79f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchIT/nwchem/6.6-openmpi/2017-12-07-5f290a6d-4313f79f/
 recipe: https://datasets.datalad.org/shub/ResearchIT/nwchem/6.6-openmpi/2017-12-07-5f290a6d-4313f79f/Singularity
 collection: ResearchIT/nwchem
 ---

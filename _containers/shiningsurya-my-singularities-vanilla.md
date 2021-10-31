@@ -9,7 +9,7 @@ build_date: "2020-10-06T17:06:51.621Z"
 size_mb: 2144.60546875
 size: 2248781824
 sif: "https://datasets.datalad.org/shub/shiningsurya/my-singularities/vanilla/2020-10-06-2d544b3e-8df0eb7d/8df0eb7d1a4aaf602c26b0db8f3bc46a446d00ffa097525dd5387758abd2629d.sif"
-url: https://datasets.datalad.org/shub/shiningsurya/my-singularities/vanilla/2020-10-06-2d544b3e-8df0eb7d/
+datalad_url: https://datasets.datalad.org?dir=/shub/shiningsurya/my-singularities/vanilla/2020-10-06-2d544b3e-8df0eb7d/
 recipe: https://datasets.datalad.org/shub/shiningsurya/my-singularities/vanilla/2020-10-06-2d544b3e-8df0eb7d/Singularity
 collection: shiningsurya/my-singularities
 ---

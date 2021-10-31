@@ -9,7 +9,7 @@ build_date: "2020-10-13T20:13:07.465Z"
 size_mb: 12158.0
 size: 5500391455
 sif: "https://datasets.datalad.org/shub/willgpaik/deformetrica_aci/latest/2020-10-13-7c307e23-4b495925/4b4959255138893375b046fc2f301bad.sif"
-url: https://datasets.datalad.org/shub/willgpaik/deformetrica_aci/latest/2020-10-13-7c307e23-4b495925/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/deformetrica_aci/latest/2020-10-13-7c307e23-4b495925/
 recipe: https://datasets.datalad.org/shub/willgpaik/deformetrica_aci/latest/2020-10-13-7c307e23-4b495925/Singularity
 collection: willgpaik/deformetrica_aci
 ---

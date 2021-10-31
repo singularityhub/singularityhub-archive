@@ -9,7 +9,7 @@ build_date: "2018-03-09T09:29:21.207Z"
 size_mb: 2935
 size: 1228685343
 sif: "https://datasets.datalad.org/shub/TomasCalderon/Slides/latest/2018-03-09-c98bff82-d54b98ae/d54b98ae2579fbb995ed9c78f150e0b8.simg"
-url: https://datasets.datalad.org/shub/TomasCalderon/Slides/latest/2018-03-09-c98bff82-d54b98ae/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomasCalderon/Slides/latest/2018-03-09-c98bff82-d54b98ae/
 recipe: https://datasets.datalad.org/shub/TomasCalderon/Slides/latest/2018-03-09-c98bff82-d54b98ae/Singularity
 collection: TomasCalderon/Slides
 ---

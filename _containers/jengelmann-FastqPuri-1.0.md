@@ -9,7 +9,7 @@ build_date: "2019-01-28T07:49:18.288Z"
 size_mb: 1107
 size: 494465055
 sif: "https://datasets.datalad.org/shub/jengelmann/FastqPuri/1.0/2019-01-28-c0553ac7-0c37d97e/0c37d97e89281f75f3a4f80b5285e405.simg"
-url: https://datasets.datalad.org/shub/jengelmann/FastqPuri/1.0/2019-01-28-c0553ac7-0c37d97e/
+datalad_url: https://datasets.datalad.org?dir=/shub/jengelmann/FastqPuri/1.0/2019-01-28-c0553ac7-0c37d97e/
 recipe: https://datasets.datalad.org/shub/jengelmann/FastqPuri/1.0/2019-01-28-c0553ac7-0c37d97e/Singularity
 collection: jengelmann/FastqPuri
 ---

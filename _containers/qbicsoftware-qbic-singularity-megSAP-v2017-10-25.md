@@ -9,7 +9,7 @@ build_date: "2017-11-19T10:50:40.525Z"
 size_mb: 1470
 size: 691208223
 sif: "https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-megSAP/v2017-10-25/2017-11-19-0456f161-f84e2274/f84e227482f1d0d695702fba77714fc3.simg"
-url: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-megSAP/v2017-10-25/2017-11-19-0456f161-f84e2274/
+datalad_url: https://datasets.datalad.org?dir=/shub/qbicsoftware/qbic-singularity-megSAP/v2017-10-25/2017-11-19-0456f161-f84e2274/
 recipe: https://datasets.datalad.org/shub/qbicsoftware/qbic-singularity-megSAP/v2017-10-25/2017-11-19-0456f161-f84e2274/Singularity
 collection: qbicsoftware/qbic-singularity-megSAP
 ---

@@ -9,7 +9,7 @@ build_date: "2020-02-14T08:02:40.733Z"
 size_mb: 4398.25390625
 size: 4611903488
 sif: "https://datasets.datalad.org/shub/scicore-unibas-ch/singularity-container-freesurfer/1.1/2020-02-14-bee76ed8-d545e113/d545e1136c50db919738f7a7bdbd82b99fec6d8f137c26f89e1e6a94c2a75f7b.sif"
-url: https://datasets.datalad.org/shub/scicore-unibas-ch/singularity-container-freesurfer/1.1/2020-02-14-bee76ed8-d545e113/
+datalad_url: https://datasets.datalad.org?dir=/shub/scicore-unibas-ch/singularity-container-freesurfer/1.1/2020-02-14-bee76ed8-d545e113/
 recipe: https://datasets.datalad.org/shub/scicore-unibas-ch/singularity-container-freesurfer/1.1/2020-02-14-bee76ed8-d545e113/Singularity
 collection: scicore-unibas-ch/singularity-container-freesurfer
 ---

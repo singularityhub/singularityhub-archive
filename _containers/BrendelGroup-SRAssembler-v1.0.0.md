@@ -9,7 +9,7 @@ build_date: "2020-04-11T08:13:01.081Z"
 size_mb: 3896
 size: 1379885087
 sif: "https://datasets.datalad.org/shub/BrendelGroup/SRAssembler/v1.0.0/2020-04-11-a1a5d04a-131a7728/131a77289eec3abfe2d05441e69e01df.simg"
-url: https://datasets.datalad.org/shub/BrendelGroup/SRAssembler/v1.0.0/2020-04-11-a1a5d04a-131a7728/
+datalad_url: https://datasets.datalad.org?dir=/shub/BrendelGroup/SRAssembler/v1.0.0/2020-04-11-a1a5d04a-131a7728/
 recipe: https://datasets.datalad.org/shub/BrendelGroup/SRAssembler/v1.0.0/2020-04-11-a1a5d04a-131a7728/Singularity
 collection: BrendelGroup/SRAssembler
 ---

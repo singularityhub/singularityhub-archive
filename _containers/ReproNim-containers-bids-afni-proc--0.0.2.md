@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:53.119Z"
 size_mb: 3440
 size: 1492447263
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-afni-proc--0.0.2/2021-03-19-697f419c-d4f8b69a/d4f8b69a4154ff0185912bfddae066bf.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-afni-proc--0.0.2/2021-03-19-697f419c-d4f8b69a/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-afni-proc--0.0.2/2021-03-19-697f419c-d4f8b69a/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-afni-proc--0.0.2/2021-03-19-697f419c-d4f8b69a/Singularity
 collection: ReproNim/containers
 ---

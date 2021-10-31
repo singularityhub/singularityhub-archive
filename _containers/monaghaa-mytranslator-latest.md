@@ -9,7 +9,7 @@ build_date: "2021-03-02T22:28:53.828Z"
 size_mb: 533.0
 size: 211460127
 sif: "https://datasets.datalad.org/shub/monaghaa/mytranslator/latest/2021-03-02-5b9ef995-7b3449c5/7b3449c571ac3912aa46ddaf614666d8.sif"
-url: https://datasets.datalad.org/shub/monaghaa/mytranslator/latest/2021-03-02-5b9ef995-7b3449c5/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/mytranslator/latest/2021-03-02-5b9ef995-7b3449c5/
 recipe: https://datasets.datalad.org/shub/monaghaa/mytranslator/latest/2021-03-02-5b9ef995-7b3449c5/Singularity
 collection: monaghaa/mytranslator
 ---

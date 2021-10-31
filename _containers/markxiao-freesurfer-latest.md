@@ -9,7 +9,7 @@ build_date: "2019-12-11T19:47:17.396Z"
 size_mb: 6453
 size: 2735378463
 sif: "https://datasets.datalad.org/shub/markxiao/freesurfer/latest/2019-12-11-45527ee4-bfe89f1e/bfe89f1eedacd96f69972232dea9c6eb.simg"
-url: https://datasets.datalad.org/shub/markxiao/freesurfer/latest/2019-12-11-45527ee4-bfe89f1e/
+datalad_url: https://datasets.datalad.org?dir=/shub/markxiao/freesurfer/latest/2019-12-11-45527ee4-bfe89f1e/
 recipe: https://datasets.datalad.org/shub/markxiao/freesurfer/latest/2019-12-11-45527ee4-bfe89f1e/Singularity
 collection: markxiao/freesurfer
 ---

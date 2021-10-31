@@ -9,7 +9,7 @@ build_date: "2019-08-06T20:56:41.390Z"
 size_mb: 5478
 size: 2659373087
 sif: "https://datasets.datalad.org/shub/rses-singularity/tensorflow-cpu/latest/2019-08-06-9dc77245-f61a6a1f/f61a6a1f36d12b6008ed59b884741d21.simg"
-url: https://datasets.datalad.org/shub/rses-singularity/tensorflow-cpu/latest/2019-08-06-9dc77245-f61a6a1f/
+datalad_url: https://datasets.datalad.org?dir=/shub/rses-singularity/tensorflow-cpu/latest/2019-08-06-9dc77245-f61a6a1f/
 recipe: https://datasets.datalad.org/shub/rses-singularity/tensorflow-cpu/latest/2019-08-06-9dc77245-f61a6a1f/Singularity
 collection: rses-singularity/tensorflow-cpu
 ---

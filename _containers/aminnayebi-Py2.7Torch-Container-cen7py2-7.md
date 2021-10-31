@@ -9,7 +9,7 @@ build_date: "2019-01-31T04:31:41.316Z"
 size_mb: 860
 size: 294289439
 sif: "https://datasets.datalad.org/shub/aminnayebi/Py2.7Torch-Container/cen7py2-7/2019-01-31-a60d1449-eb399de5/eb399de5f5d0dc668e396cd583723220.simg"
-url: https://datasets.datalad.org/shub/aminnayebi/Py2.7Torch-Container/cen7py2-7/2019-01-31-a60d1449-eb399de5/
+datalad_url: https://datasets.datalad.org?dir=/shub/aminnayebi/Py2.7Torch-Container/cen7py2-7/2019-01-31-a60d1449-eb399de5/
 recipe: https://datasets.datalad.org/shub/aminnayebi/Py2.7Torch-Container/cen7py2-7/2019-01-31-a60d1449-eb399de5/Singularity
 collection: aminnayebi/Py2.7Torch-Container
 ---

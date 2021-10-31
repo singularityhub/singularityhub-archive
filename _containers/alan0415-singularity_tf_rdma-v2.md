@@ -9,7 +9,7 @@ build_date: "2019-04-21T09:06:21.121Z"
 size_mb: 6626
 size: 3921059871
 sif: "https://datasets.datalad.org/shub/alan0415/singularity_tf_rdma/v2/2019-04-21-3655f3de-825cf468/825cf468110b8c17f2da20f721cd968e.simg"
-url: https://datasets.datalad.org/shub/alan0415/singularity_tf_rdma/v2/2019-04-21-3655f3de-825cf468/
+datalad_url: https://datasets.datalad.org?dir=/shub/alan0415/singularity_tf_rdma/v2/2019-04-21-3655f3de-825cf468/
 recipe: https://datasets.datalad.org/shub/alan0415/singularity_tf_rdma/v2/2019-04-21-3655f3de-825cf468/Singularity
 collection: alan0415/singularity_tf_rdma
 ---

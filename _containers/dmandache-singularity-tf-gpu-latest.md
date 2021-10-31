@@ -9,7 +9,7 @@ build_date: "2018-06-14T20:27:26.351Z"
 size_mb: 3006
 size: 1296752671
 sif: "https://datasets.datalad.org/shub/dmandache/singularity-tf-gpu/latest/2018-06-14-63fc6693-71b0f8a2/71b0f8a283456b84ef57fa009896e9aa.simg"
-url: https://datasets.datalad.org/shub/dmandache/singularity-tf-gpu/latest/2018-06-14-63fc6693-71b0f8a2/
+datalad_url: https://datasets.datalad.org?dir=/shub/dmandache/singularity-tf-gpu/latest/2018-06-14-63fc6693-71b0f8a2/
 recipe: https://datasets.datalad.org/shub/dmandache/singularity-tf-gpu/latest/2018-06-14-63fc6693-71b0f8a2/Singularity
 collection: dmandache/singularity-tf-gpu
 ---

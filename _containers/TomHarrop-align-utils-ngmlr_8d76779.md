@@ -9,7 +9,7 @@ build_date: "2019-12-09T01:38:42.722Z"
 size_mb: 154.71875
 size: 162234368
 sif: "https://datasets.datalad.org/shub/TomHarrop/align-utils/ngmlr_8d76779/2019-12-09-68c5d996-aad6421f/aad6421f78b13b21a29665e775b2e8b94d97b67fe9fc8b2edd90686dcb0216d7.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/align-utils/ngmlr_8d76779/2019-12-09-68c5d996-aad6421f/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/align-utils/ngmlr_8d76779/2019-12-09-68c5d996-aad6421f/
 recipe: https://datasets.datalad.org/shub/TomHarrop/align-utils/ngmlr_8d76779/2019-12-09-68c5d996-aad6421f/Singularity
 collection: TomHarrop/align-utils
 ---

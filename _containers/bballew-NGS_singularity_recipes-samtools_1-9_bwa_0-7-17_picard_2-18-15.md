@@ -9,7 +9,7 @@ build_date: "2019-04-02T14:29:35.970Z"
 size_mb: 1265
 size: 422830111
 sif: "https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/samtools_1-9_bwa_0-7-17_picard_2-18-15/2019-04-02-261b0ba2-f9139b95/f9139b9587c1ae2975c59102c2d41a38.simg"
-url: https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/samtools_1-9_bwa_0-7-17_picard_2-18-15/2019-04-02-261b0ba2-f9139b95/
+datalad_url: https://datasets.datalad.org?dir=/shub/bballew/NGS_singularity_recipes/samtools_1-9_bwa_0-7-17_picard_2-18-15/2019-04-02-261b0ba2-f9139b95/
 recipe: https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/samtools_1-9_bwa_0-7-17_picard_2-18-15/2019-04-02-261b0ba2-f9139b95/Singularity
 collection: bballew/NGS_singularity_recipes
 ---

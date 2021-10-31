@@ -9,7 +9,7 @@ build_date: "2021-02-15T13:45:08.316Z"
 size_mb: 716.0
 size: 225488927
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/vcf_normalization-nf/v1.1/2021-02-15-1f49f2b7-4fb19d64/4fb19d64b4aaefeebfbf3d7205634ae2.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/vcf_normalization-nf/v1.1/2021-02-15-1f49f2b7-4fb19d64/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/vcf_normalization-nf/v1.1/2021-02-15-1f49f2b7-4fb19d64/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/vcf_normalization-nf/v1.1/2021-02-15-1f49f2b7-4fb19d64/Singularity
 collection: IARCbioinfo/vcf_normalization-nf
 ---

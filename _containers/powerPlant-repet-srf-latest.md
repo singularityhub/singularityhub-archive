@@ -9,7 +9,7 @@ build_date: "2020-10-07T22:03:45.162Z"
 size_mb: 4963.28515625
 size: 5204381696
 sif: "https://datasets.datalad.org/shub/powerPlant/repet-srf/latest/2020-10-07-6fcb1db8-dd668bc0/dd668bc0f7d057f42fd227389e2c7a7b9eda4c2b30c76abc1dbc14ec265359c5.sif"
-url: https://datasets.datalad.org/shub/powerPlant/repet-srf/latest/2020-10-07-6fcb1db8-dd668bc0/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/repet-srf/latest/2020-10-07-6fcb1db8-dd668bc0/
 recipe: https://datasets.datalad.org/shub/powerPlant/repet-srf/latest/2020-10-07-6fcb1db8-dd668bc0/Singularity
 collection: powerPlant/repet-srf
 ---

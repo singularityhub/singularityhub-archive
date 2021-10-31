@@ -9,7 +9,7 @@ build_date: "2019-11-14T16:22:07.119Z"
 size_mb: 1929.0
 size: 542871583
 sif: "https://datasets.datalad.org/shub/subinieee/polysolver/latest/2019-11-14-430f4610-6de75d5c/6de75d5c22ec54bda83876a03ca0cb24.sif"
-url: https://datasets.datalad.org/shub/subinieee/polysolver/latest/2019-11-14-430f4610-6de75d5c/
+datalad_url: https://datasets.datalad.org?dir=/shub/subinieee/polysolver/latest/2019-11-14-430f4610-6de75d5c/
 recipe: https://datasets.datalad.org/shub/subinieee/polysolver/latest/2019-11-14-430f4610-6de75d5c/Singularity
 collection: subinieee/polysolver
 ---

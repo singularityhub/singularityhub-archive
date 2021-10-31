@@ -9,7 +9,7 @@ build_date: "2019-07-02T03:52:33.359Z"
 size_mb: 3173
 size: 1294979103
 sif: "https://datasets.datalad.org/shub/kirsho/ngs2/latest/2019-07-02-648418e8-6200bce8/6200bce88420eb1f7039e72b10f8b63a.simg"
-url: https://datasets.datalad.org/shub/kirsho/ngs2/latest/2019-07-02-648418e8-6200bce8/
+datalad_url: https://datasets.datalad.org?dir=/shub/kirsho/ngs2/latest/2019-07-02-648418e8-6200bce8/
 recipe: https://datasets.datalad.org/shub/kirsho/ngs2/latest/2019-07-02-648418e8-6200bce8/Singularity
 collection: kirsho/ngs2
 ---

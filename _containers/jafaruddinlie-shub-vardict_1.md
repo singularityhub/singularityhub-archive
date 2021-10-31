@@ -9,7 +9,7 @@ build_date: "2020-08-29T02:16:03.673Z"
 size_mb: 10107.0
 size: 3919822848
 sif: "https://datasets.datalad.org/shub/jafaruddinlie/shub/vardict_1/2020-08-29-b597695e-fe829a15/fe829a1567f8854b321597216c456bdae6a621bf3162ac90744a6efab4a56229.sif"
-url: https://datasets.datalad.org/shub/jafaruddinlie/shub/vardict_1/2020-08-29-b597695e-fe829a15/
+datalad_url: https://datasets.datalad.org?dir=/shub/jafaruddinlie?dir=/shub/vardict_1/2020-08-29-b597695e-fe829a15/
 recipe: https://datasets.datalad.org/shub/jafaruddinlie/shub/vardict_1/2020-08-29-b597695e-fe829a15/Singularity
 collection: jafaruddinlie/shub
 ---

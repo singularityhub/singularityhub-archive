@@ -9,7 +9,7 @@ build_date: "2017-12-11T03:00:01.201Z"
 size_mb: 5288
 size: 4400566303
 sif: "https://datasets.datalad.org/shub/tin6150/knime/latest/2017-12-11-caca6d9e-1b27206f/1b27206ffa391cc92e8620c194980cdf.simg"
-url: https://datasets.datalad.org/shub/tin6150/knime/latest/2017-12-11-caca6d9e-1b27206f/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/knime/latest/2017-12-11-caca6d9e-1b27206f/
 recipe: https://datasets.datalad.org/shub/tin6150/knime/latest/2017-12-11-caca6d9e-1b27206f/Singularity
 collection: tin6150/knime
 ---

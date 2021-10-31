@@ -9,7 +9,7 @@ build_date: "2021-03-03T17:56:29.308Z"
 size_mb: 533.0
 size: 199139359
 sif: "https://datasets.datalad.org/shub/phelelani/nf-rnaSeqCount/featurecounts/2021-03-03-ee0a9fb1-afbce7aa/afbce7aa39c75822e9adcbb43a4e1a56.sif"
-url: https://datasets.datalad.org/shub/phelelani/nf-rnaSeqCount/featurecounts/2021-03-03-ee0a9fb1-afbce7aa/
+datalad_url: https://datasets.datalad.org?dir=/shub/phelelani/nf-rnaSeqCount/featurecounts/2021-03-03-ee0a9fb1-afbce7aa/
 recipe: https://datasets.datalad.org/shub/phelelani/nf-rnaSeqCount/featurecounts/2021-03-03-ee0a9fb1-afbce7aa/Singularity
 collection: phelelani/nf-rnaSeqCount
 ---

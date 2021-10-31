@@ -9,7 +9,7 @@ build_date: "2020-12-14T04:10:31.376Z"
 size_mb: 3353.0
 size: 2101182495
 sif: "https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-jupyter/jupyter/2020-12-14-d9e84d7b-8bc7423c/8bc7423c200c8e5f4a4b4b65202ca408.sif"
-url: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-jupyter/jupyter/2020-12-14-d9e84d7b-8bc7423c/
+datalad_url: https://datasets.datalad.org?dir=/shub/ternaustralia/coesra-singularity-jupyter/jupyter/2020-12-14-d9e84d7b-8bc7423c/
 recipe: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-jupyter/jupyter/2020-12-14-d9e84d7b-8bc7423c/Singularity
 collection: ternaustralia/coesra-singularity-jupyter
 ---

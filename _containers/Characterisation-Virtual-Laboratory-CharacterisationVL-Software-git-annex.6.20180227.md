@@ -9,7 +9,7 @@ build_date: "2020-04-27T05:31:53.581Z"
 size_mb: 3488.0
 size: 1411592223
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/git-annex.6.20180227/2020-04-27-92d5c8de-3d8c9896/3d8c989621500ebb622bf36d19754b1c.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/git-annex.6.20180227/2020-04-27-92d5c8de-3d8c9896/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/git-annex.6.20180227/2020-04-27-92d5c8de-3d8c9896/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/git-annex.6.20180227/2020-04-27-92d5c8de-3d8c9896/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

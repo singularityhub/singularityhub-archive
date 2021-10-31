@@ -9,7 +9,7 @@ build_date: "2019-04-25T22:56:40.810Z"
 size_mb: 3099
 size: 1347694623
 sif: "https://datasets.datalad.org/shub/oetodd/Trinity-container/latest/2019-04-25-718ad624-3f18d71f/3f18d71fa6939ec0a1743b002b8c0761.simg"
-url: https://datasets.datalad.org/shub/oetodd/Trinity-container/latest/2019-04-25-718ad624-3f18d71f/
+datalad_url: https://datasets.datalad.org?dir=/shub/oetodd/Trinity-container/latest/2019-04-25-718ad624-3f18d71f/
 recipe: https://datasets.datalad.org/shub/oetodd/Trinity-container/latest/2019-04-25-718ad624-3f18d71f/Singularity
 collection: oetodd/Trinity-container
 ---

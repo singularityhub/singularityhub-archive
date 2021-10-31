@@ -9,7 +9,7 @@ build_date: "2021-04-17T19:57:15.579Z"
 size_mb: 2948.0
 size: 961392671
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/centos-7.9.2009/2021-04-17-f903c4f5-a1c4d2e5/a1c4d2e5078787a6840e1dd75f5b43a8.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/centos-7.9.2009/2021-04-17-f903c4f5-a1c4d2e5/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/centos-7.9.2009/2021-04-17-f903c4f5-a1c4d2e5/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/centos-7.9.2009/2021-04-17-f903c4f5-a1c4d2e5/Singularity
 collection: mkandes/naked-singularity
 ---

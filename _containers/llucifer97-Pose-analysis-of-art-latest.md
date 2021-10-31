@@ -9,7 +9,7 @@ build_date: "2019-06-14T10:36:12.584Z"
 size_mb: 4738
 size: 1935712287
 sif: "https://datasets.datalad.org/shub/llucifer97/Pose-analysis-of-art/latest/2019-06-14-72744f62-d3a4ce3c/d3a4ce3c2589aaa309ee1aff77e0a7f0.simg"
-url: https://datasets.datalad.org/shub/llucifer97/Pose-analysis-of-art/latest/2019-06-14-72744f62-d3a4ce3c/
+datalad_url: https://datasets.datalad.org?dir=/shub/llucifer97/Pose-analysis-of-art/latest/2019-06-14-72744f62-d3a4ce3c/
 recipe: https://datasets.datalad.org/shub/llucifer97/Pose-analysis-of-art/latest/2019-06-14-72744f62-d3a4ce3c/Singularity
 collection: llucifer97/Pose-analysis-of-art
 ---

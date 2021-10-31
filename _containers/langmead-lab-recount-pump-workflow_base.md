@@ -9,7 +9,7 @@ build_date: "2019-02-06T18:43:52.018Z"
 size_mb: 1382
 size: 459214879
 sif: "https://datasets.datalad.org/shub/langmead-lab/recount-pump/workflow_base/2019-02-06-60cc3d4e-0355d341/0355d341dbe4a128736e48b2bc2b477d.simg"
-url: https://datasets.datalad.org/shub/langmead-lab/recount-pump/workflow_base/2019-02-06-60cc3d4e-0355d341/
+datalad_url: https://datasets.datalad.org?dir=/shub/langmead-lab/recount-pump/workflow_base/2019-02-06-60cc3d4e-0355d341/
 recipe: https://datasets.datalad.org/shub/langmead-lab/recount-pump/workflow_base/2019-02-06-60cc3d4e-0355d341/Singularity
 collection: langmead-lab/recount-pump
 ---

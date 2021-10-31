@@ -9,7 +9,7 @@ build_date: "2019-05-13T10:27:31.198Z"
 size_mb: 370
 size: 146628639
 sif: "https://datasets.datalad.org/shub/motroy/singularity-removeHost/latest/2019-05-13-4e409439-e815ba0b/e815ba0bd53db2e51a09b1477ad7c71f.simg"
-url: https://datasets.datalad.org/shub/motroy/singularity-removeHost/latest/2019-05-13-4e409439-e815ba0b/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-removeHost/latest/2019-05-13-4e409439-e815ba0b/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-removeHost/latest/2019-05-13-4e409439-e815ba0b/Singularity
 collection: motroy/singularity-removeHost
 ---

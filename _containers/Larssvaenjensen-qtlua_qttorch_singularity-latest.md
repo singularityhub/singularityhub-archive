@@ -9,7 +9,7 @@ build_date: "2021-03-18T12:07:18.581Z"
 size_mb: 3291.0
 size: 1411362847
 sif: "https://datasets.datalad.org/shub/Larssvaenjensen/qtlua_qttorch_singularity/latest/2021-03-18-fb5ddcb6-1267a7f9/1267a7f9f1948b2de1ab7c5f241c9e07.sif"
-url: https://datasets.datalad.org/shub/Larssvaenjensen/qtlua_qttorch_singularity/latest/2021-03-18-fb5ddcb6-1267a7f9/
+datalad_url: https://datasets.datalad.org?dir=/shub/Larssvaenjensen/qtlua_qttorch_singularity/latest/2021-03-18-fb5ddcb6-1267a7f9/
 recipe: https://datasets.datalad.org/shub/Larssvaenjensen/qtlua_qttorch_singularity/latest/2021-03-18-fb5ddcb6-1267a7f9/Singularity
 collection: Larssvaenjensen/qtlua_qttorch_singularity
 ---

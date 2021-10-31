@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.322Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/grimbough/Testing-Singularity/fun/2019-02-27-207d4798-0845d347/0845d34736bde0b8125794022bf08386.simg"
-url: https://datasets.datalad.org/shub/grimbough/Testing-Singularity/fun/2019-02-27-207d4798-0845d347/
+datalad_url: https://datasets.datalad.org?dir=/shub/grimbough/Testing-Singularity/fun/2019-02-27-207d4798-0845d347/
 recipe: https://datasets.datalad.org/shub/grimbough/Testing-Singularity/fun/2019-02-27-207d4798-0845d347/Singularity
 collection: grimbough/Testing-Singularity
 ---

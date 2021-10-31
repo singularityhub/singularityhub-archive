@@ -9,7 +9,7 @@ build_date: "2021-03-19T20:26:10.298Z"
 size_mb: 480
 size: 190062623
 sif: "https://datasets.datalad.org/shub/jlboat/BioinfoContainers/orthofinder/2021-03-19-92fc067f-9618f47f/9618f47f1dd8ff0dbdb41cd0e9207f91.simg"
-url: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/orthofinder/2021-03-19-92fc067f-9618f47f/
+datalad_url: https://datasets.datalad.org?dir=/shub/jlboat/BioinfoContainers/orthofinder/2021-03-19-92fc067f-9618f47f/
 recipe: https://datasets.datalad.org/shub/jlboat/BioinfoContainers/orthofinder/2021-03-19-92fc067f-9618f47f/Singularity
 collection: jlboat/BioinfoContainers
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-13T15:19:01.102Z"
 size_mb: 2203
 size: 792690719
 sif: "https://datasets.datalad.org/shub/pndni/minc-container/1.3.0/2019-04-13-02ec9939-ae8bfc4e/ae8bfc4e846f4dc6d6e138e3deb1feaa.simg"
-url: https://datasets.datalad.org/shub/pndni/minc-container/1.3.0/2019-04-13-02ec9939-ae8bfc4e/
+datalad_url: https://datasets.datalad.org?dir=/shub/pndni/minc-container/1.3.0/2019-04-13-02ec9939-ae8bfc4e/
 recipe: https://datasets.datalad.org/shub/pndni/minc-container/1.3.0/2019-04-13-02ec9939-ae8bfc4e/Singularity
 collection: pndni/minc-container
 ---

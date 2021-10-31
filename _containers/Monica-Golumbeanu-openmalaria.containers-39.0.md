@@ -9,7 +9,7 @@ build_date: "2018-12-11T09:34:04.740Z"
 size_mb: 777
 size: 211005471
 sif: "https://datasets.datalad.org/shub/Monica-Golumbeanu/openmalaria.containers/39.0/2018-12-11-8ea71048-3a9c41d2/3a9c41d2209aadf5041bfffe000c983f.simg"
-url: https://datasets.datalad.org/shub/Monica-Golumbeanu/openmalaria.containers/39.0/2018-12-11-8ea71048-3a9c41d2/
+datalad_url: https://datasets.datalad.org?dir=/shub/Monica-Golumbeanu/openmalaria.containers/39.0/2018-12-11-8ea71048-3a9c41d2/
 recipe: https://datasets.datalad.org/shub/Monica-Golumbeanu/openmalaria.containers/39.0/2018-12-11-8ea71048-3a9c41d2/Singularity
 collection: Monica-Golumbeanu/openmalaria.containers
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-15T02:56:55.556Z"
 size_mb: 1335.0703125
 size: 1399922688
 sif: "https://datasets.datalad.org/shub/CATG-UMAG/bcell-lymphomas-mutational-signatures/signature_analysis/2021-04-15-8c1fc415-9e621b72/9e621b7280e4e2a327612d544bf4dc3c2206fe0de5ed5ed7be9d4e43e1d14c67.sif"
-url: https://datasets.datalad.org/shub/CATG-UMAG/bcell-lymphomas-mutational-signatures/signature_analysis/2021-04-15-8c1fc415-9e621b72/
+datalad_url: https://datasets.datalad.org?dir=/shub/CATG-UMAG/bcell-lymphomas-mutational-signatures/signature_analysis/2021-04-15-8c1fc415-9e621b72/
 recipe: https://datasets.datalad.org/shub/CATG-UMAG/bcell-lymphomas-mutational-signatures/signature_analysis/2021-04-15-8c1fc415-9e621b72/Singularity
 collection: CATG-UMAG/bcell-lymphomas-mutational-signatures
 ---

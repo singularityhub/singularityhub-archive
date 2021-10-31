@@ -9,7 +9,7 @@ build_date: "2018-11-12T16:21:13.675Z"
 size_mb: 8893
 size: 4184428575
 sif: "https://datasets.datalad.org/shub/ucr-singularity/ml-software/tf/2018-11-12-b90a5de0-252433a5/252433a577f2b9bc4836d53f4a6298de.simg"
-url: https://datasets.datalad.org/shub/ucr-singularity/ml-software/tf/2018-11-12-b90a5de0-252433a5/
+datalad_url: https://datasets.datalad.org?dir=/shub/ucr-singularity/ml-software/tf/2018-11-12-b90a5de0-252433a5/
 recipe: https://datasets.datalad.org/shub/ucr-singularity/ml-software/tf/2018-11-12-b90a5de0-252433a5/Singularity
 collection: ucr-singularity/ml-software
 ---

@@ -9,7 +9,7 @@ build_date: "2018-12-17T16:03:53.034Z"
 size_mb: 769
 size: 306876447
 sif: "https://datasets.datalad.org/shub/paulklemm/visidata-singularity/latest/2018-12-17-747b4b34-0c27f198/0c27f198049f708dae86d870b457d494.simg"
-url: https://datasets.datalad.org/shub/paulklemm/visidata-singularity/latest/2018-12-17-747b4b34-0c27f198/
+datalad_url: https://datasets.datalad.org?dir=/shub/paulklemm/visidata-singularity/latest/2018-12-17-747b4b34-0c27f198/
 recipe: https://datasets.datalad.org/shub/paulklemm/visidata-singularity/latest/2018-12-17-747b4b34-0c27f198/Singularity
 collection: paulklemm/visidata-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-01T13:24:24.657Z"
 size_mb: 2660.0859375
 size: 2789302272
 sif: "https://datasets.datalad.org/shub/multifunkim/best-cbrain/latest/2020-09-01-2438f4a9-63b43b5b/63b43b5bc67cd585ad6f9510fedc6c23dd3f060c3759d626389ed732770e95a5.sif"
-url: https://datasets.datalad.org/shub/multifunkim/best-cbrain/latest/2020-09-01-2438f4a9-63b43b5b/
+datalad_url: https://datasets.datalad.org?dir=/shub/multifunkim/best-cbrain/latest/2020-09-01-2438f4a9-63b43b5b/
 recipe: https://datasets.datalad.org/shub/multifunkim/best-cbrain/latest/2020-09-01-2438f4a9-63b43b5b/Singularity
 collection: multifunkim/best-cbrain
 ---

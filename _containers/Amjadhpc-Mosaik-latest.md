@@ -9,7 +9,7 @@ build_date: "2018-11-05T14:28:49.881Z"
 size_mb: 648
 size: 224264223
 sif: "https://datasets.datalad.org/shub/Amjadhpc/Mosaik/latest/2018-11-05-deaaef3c-c2017304/c2017304002fdfbb1dc728b56dcb8268.simg"
-url: https://datasets.datalad.org/shub/Amjadhpc/Mosaik/latest/2018-11-05-deaaef3c-c2017304/
+datalad_url: https://datasets.datalad.org?dir=/shub/Amjadhpc/Mosaik/latest/2018-11-05-deaaef3c-c2017304/
 recipe: https://datasets.datalad.org/shub/Amjadhpc/Mosaik/latest/2018-11-05-deaaef3c-c2017304/Singularity
 collection: Amjadhpc/Mosaik
 ---

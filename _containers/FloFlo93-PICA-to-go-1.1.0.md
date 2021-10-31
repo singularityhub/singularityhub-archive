@@ -9,7 +9,7 @@ build_date: "2019-07-27T18:17:10.045Z"
 size_mb: 857
 size: 330362911
 sif: "https://datasets.datalad.org/shub/FloFlo93/PICA-to-go/1.1.0/2019-07-27-cef7afa4-b6b16e01/b6b16e0155c2d7e0ad870be007d9fdb4.simg"
-url: https://datasets.datalad.org/shub/FloFlo93/PICA-to-go/1.1.0/2019-07-27-cef7afa4-b6b16e01/
+datalad_url: https://datasets.datalad.org?dir=/shub/FloFlo93/PICA-to-go/1.1.0/2019-07-27-cef7afa4-b6b16e01/
 recipe: https://datasets.datalad.org/shub/FloFlo93/PICA-to-go/1.1.0/2019-07-27-cef7afa4-b6b16e01/Singularity
 collection: FloFlo93/PICA-to-go
 ---

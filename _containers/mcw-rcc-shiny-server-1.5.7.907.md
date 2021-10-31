@@ -9,7 +9,7 @@ build_date: "2018-07-25T23:56:14.604Z"
 size_mb: 2549
 size: 922374175
 sif: "https://datasets.datalad.org/shub/mcw-rcc/shiny-server/1.5.7.907/2018-07-25-33075478-af7af2a7/af7af2a7a39d1487758802058e52b2a3.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/shiny-server/1.5.7.907/2018-07-25-33075478-af7af2a7/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/shiny-server/1.5.7.907/2018-07-25-33075478-af7af2a7/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/shiny-server/1.5.7.907/2018-07-25-33075478-af7af2a7/Singularity
 collection: mcw-rcc/shiny-server
 ---

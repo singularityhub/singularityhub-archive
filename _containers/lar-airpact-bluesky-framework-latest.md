@@ -9,7 +9,7 @@ build_date: "2021-04-18T03:32:04.130Z"
 size_mb: 1316.0546875
 size: 1379983360
 sif: "https://datasets.datalad.org/shub/lar-airpact/bluesky-framework/latest/2021-04-18-1d69a852-5cf5c939/5cf5c93905bb1c46bf70a20c02144647224fbc56eb35970e22c8803c65c4dfa6.sif"
-url: https://datasets.datalad.org/shub/lar-airpact/bluesky-framework/latest/2021-04-18-1d69a852-5cf5c939/
+datalad_url: https://datasets.datalad.org?dir=/shub/lar-airpact/bluesky-framework/latest/2021-04-18-1d69a852-5cf5c939/
 recipe: https://datasets.datalad.org/shub/lar-airpact/bluesky-framework/latest/2021-04-18-1d69a852-5cf5c939/Singularity
 collection: lar-airpact/bluesky-framework
 ---

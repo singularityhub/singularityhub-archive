@@ -9,7 +9,7 @@ build_date: "2020-07-24T12:10:09.860Z"
 size_mb: 4948
 size: 1635520543
 sif: "https://datasets.datalad.org/shub/sequana/sequana/0_6_5/2020-07-24-b77d7b93-311924a0/311924a02b0069ead6f08170963b7631.simg"
-url: https://datasets.datalad.org/shub/sequana/sequana/0_6_5/2020-07-24-b77d7b93-311924a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/sequana/sequana/0_6_5/2020-07-24-b77d7b93-311924a0/
 recipe: https://datasets.datalad.org/shub/sequana/sequana/0_6_5/2020-07-24-b77d7b93-311924a0/Singularity
 collection: sequana/sequana
 ---

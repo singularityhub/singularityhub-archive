@@ -9,7 +9,7 @@ build_date: "2020-03-28T21:05:59.668Z"
 size_mb: 4080.0
 size: 2046398495
 sif: "https://datasets.datalad.org/shub/akojamil/singularity_chroma3/base/2020-03-28-eb0ceec7-e0dcd022/e0dcd022979b7de41ba7d9aa8d6699ac.sif"
-url: https://datasets.datalad.org/shub/akojamil/singularity_chroma3/base/2020-03-28-eb0ceec7-e0dcd022/
+datalad_url: https://datasets.datalad.org?dir=/shub/akojamil/singularity_chroma3/base/2020-03-28-eb0ceec7-e0dcd022/
 recipe: https://datasets.datalad.org/shub/akojamil/singularity_chroma3/base/2020-03-28-eb0ceec7-e0dcd022/Singularity
 collection: akojamil/singularity_chroma3
 ---

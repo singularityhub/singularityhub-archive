@@ -9,7 +9,7 @@ build_date: "2021-01-25T19:33:40.687Z"
 size_mb: 4458.0
 size: 1379242015
 sif: "https://datasets.datalad.org/shub/jdmcdonagh/FEniCS-X/openmpi2/2021-01-25-df207a9e-71dc4d20/71dc4d200210f80c7759ad52cc967abb.sif"
-url: https://datasets.datalad.org/shub/jdmcdonagh/FEniCS-X/openmpi2/2021-01-25-df207a9e-71dc4d20/
+datalad_url: https://datasets.datalad.org?dir=/shub/jdmcdonagh/FEniCS-X/openmpi2/2021-01-25-df207a9e-71dc4d20/
 recipe: https://datasets.datalad.org/shub/jdmcdonagh/FEniCS-X/openmpi2/2021-01-25-df207a9e-71dc4d20/Singularity
 collection: jdmcdonagh/FEniCS-X
 ---

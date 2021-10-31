@@ -9,7 +9,7 @@ build_date: "2021-04-02T20:14:59.157Z"
 size_mb: 2412.0
 size: 846020639
 sif: "https://datasets.datalad.org/shub/dpmerrell/pynbs-singularity/latest/2021-04-02-8f085b43-9f45ebf6/9f45ebf6e20913f46461935032294507.sif"
-url: https://datasets.datalad.org/shub/dpmerrell/pynbs-singularity/latest/2021-04-02-8f085b43-9f45ebf6/
+datalad_url: https://datasets.datalad.org?dir=/shub/dpmerrell/pynbs-singularity/latest/2021-04-02-8f085b43-9f45ebf6/
 recipe: https://datasets.datalad.org/shub/dpmerrell/pynbs-singularity/latest/2021-04-02-8f085b43-9f45ebf6/Singularity
 collection: dpmerrell/pynbs-singularity
 ---

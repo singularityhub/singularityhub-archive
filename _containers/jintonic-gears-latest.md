@@ -9,7 +9,7 @@ build_date: "2021-01-21T04:25:51.939Z"
 size_mb: 784.0
 size: 329887775
 sif: "https://datasets.datalad.org/shub/jintonic/gears/latest/2021-01-21-bbdbde21-bf81fc56/bf81fc5635cbda478af08288bb151d6f.sif"
-url: https://datasets.datalad.org/shub/jintonic/gears/latest/2021-01-21-bbdbde21-bf81fc56/
+datalad_url: https://datasets.datalad.org?dir=/shub/jintonic/gears/latest/2021-01-21-bbdbde21-bf81fc56/
 recipe: https://datasets.datalad.org/shub/jintonic/gears/latest/2021-01-21-bbdbde21-bf81fc56/Singularity
 collection: jintonic/gears
 ---

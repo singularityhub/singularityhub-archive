@@ -9,7 +9,7 @@ build_date: "2018-05-11T07:59:58.275Z"
 size_mb: 5095
 size: 2654851103
 sif: "https://datasets.datalad.org/shub/DoaneAS/NGI-ChIPseq/latest/2018-05-11-7091ba00-0905a64f/0905a64f04ded6fff81cb550660c2025.simg"
-url: https://datasets.datalad.org/shub/DoaneAS/NGI-ChIPseq/latest/2018-05-11-7091ba00-0905a64f/
+datalad_url: https://datasets.datalad.org?dir=/shub/DoaneAS/NGI-ChIPseq/latest/2018-05-11-7091ba00-0905a64f/
 recipe: https://datasets.datalad.org/shub/DoaneAS/NGI-ChIPseq/latest/2018-05-11-7091ba00-0905a64f/Singularity
 collection: DoaneAS/NGI-ChIPseq
 ---

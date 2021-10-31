@@ -9,7 +9,7 @@ build_date: "2019-11-11T17:51:08.719Z"
 size_mb: 1314
 size: 507453471
 sif: "https://datasets.datalad.org/shub/kirsho/bw223/latest/2019-11-11-a9317042-ae234333/ae23433329b8e6c6daa901360d401555.simg"
-url: https://datasets.datalad.org/shub/kirsho/bw223/latest/2019-11-11-a9317042-ae234333/
+datalad_url: https://datasets.datalad.org?dir=/shub/kirsho/bw223/latest/2019-11-11-a9317042-ae234333/
 recipe: https://datasets.datalad.org/shub/kirsho/bw223/latest/2019-11-11-a9317042-ae234333/Singularity
 collection: kirsho/bw223
 ---

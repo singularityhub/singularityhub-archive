@@ -9,7 +9,7 @@ build_date: "2021-03-23T20:33:38.039Z"
 size_mb: 3222.05859375
 size: 3378573312
 sif: "https://datasets.datalad.org/shub/Gresliebear/Singularity_container_HPC_OP/op_image/2021-03-23-26f11e65-b8f64c23/b8f64c23fee168da8773af8e1d56f54930715fccdbc91bd307fce21e9d395657.sif"
-url: https://datasets.datalad.org/shub/Gresliebear/Singularity_container_HPC_OP/op_image/2021-03-23-26f11e65-b8f64c23/
+datalad_url: https://datasets.datalad.org?dir=/shub/Gresliebear/Singularity_container_HPC_OP/op_image/2021-03-23-26f11e65-b8f64c23/
 recipe: https://datasets.datalad.org/shub/Gresliebear/Singularity_container_HPC_OP/op_image/2021-03-23-26f11e65-b8f64c23/Singularity
 collection: Gresliebear/Singularity_container_HPC_OP
 ---

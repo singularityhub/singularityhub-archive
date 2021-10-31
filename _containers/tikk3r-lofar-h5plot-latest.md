@@ -9,7 +9,7 @@ build_date: "2021-03-09T11:37:28.627Z"
 size_mb: 528.6953125
 size: 554377216
 sif: "https://datasets.datalad.org/shub/tikk3r/lofar-h5plot/latest/2021-03-09-77b91efe-c3590faf/c3590fafcad697c1a4910572c801ea40c7bcdf25c4ab9ce094a56ebd09ddfd65.sif"
-url: https://datasets.datalad.org/shub/tikk3r/lofar-h5plot/latest/2021-03-09-77b91efe-c3590faf/
+datalad_url: https://datasets.datalad.org?dir=/shub/tikk3r/lofar-h5plot/latest/2021-03-09-77b91efe-c3590faf/
 recipe: https://datasets.datalad.org/shub/tikk3r/lofar-h5plot/latest/2021-03-09-77b91efe-c3590faf/Singularity
 collection: tikk3r/lofar-h5plot
 ---

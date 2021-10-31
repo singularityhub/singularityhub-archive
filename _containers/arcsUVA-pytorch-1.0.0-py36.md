@@ -9,7 +9,7 @@ build_date: "2020-02-13T00:31:13.006Z"
 size_mb: 6800.0
 size: 3148415007
 sif: "https://datasets.datalad.org/shub/arcsUVA/pytorch/1.0.0-py36/2020-02-13-4d7ac8a0-c5fbe167/c5fbe167cf0c2ff62516865eff6a2547.sif"
-url: https://datasets.datalad.org/shub/arcsUVA/pytorch/1.0.0-py36/2020-02-13-4d7ac8a0-c5fbe167/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/pytorch/1.0.0-py36/2020-02-13-4d7ac8a0-c5fbe167/
 recipe: https://datasets.datalad.org/shub/arcsUVA/pytorch/1.0.0-py36/2020-02-13-4d7ac8a0-c5fbe167/Singularity
 collection: arcsUVA/pytorch
 ---

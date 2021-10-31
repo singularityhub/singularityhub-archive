@@ -9,7 +9,7 @@ build_date: "2018-01-08T17:06:55.190Z"
 size_mb: 3762
 size: 1489911839
 sif: "https://datasets.datalad.org/shub/shots47s/matlab2017b-Singularity/latest/2018-01-08-15b0148d-28fb4455/28fb4455cf881129020c6338ed24d20f.simg"
-url: https://datasets.datalad.org/shub/shots47s/matlab2017b-Singularity/latest/2018-01-08-15b0148d-28fb4455/
+datalad_url: https://datasets.datalad.org?dir=/shub/shots47s/matlab2017b-Singularity/latest/2018-01-08-15b0148d-28fb4455/
 recipe: https://datasets.datalad.org/shub/shots47s/matlab2017b-Singularity/latest/2018-01-08-15b0148d-28fb4455/Singularity
 collection: shots47s/matlab2017b-Singularity
 ---

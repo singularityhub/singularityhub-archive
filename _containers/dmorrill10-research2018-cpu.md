@@ -9,7 +9,7 @@ build_date: "2018-11-01T21:55:11.797Z"
 size_mb: 1364
 size: 495312927
 sif: "https://datasets.datalad.org/shub/dmorrill10/research2018/cpu/2018-11-01-26d55be3-69811e98/69811e98a06ecaee823564af4696a552.simg"
-url: https://datasets.datalad.org/shub/dmorrill10/research2018/cpu/2018-11-01-26d55be3-69811e98/
+datalad_url: https://datasets.datalad.org?dir=/shub/dmorrill10/research2018/cpu/2018-11-01-26d55be3-69811e98/
 recipe: https://datasets.datalad.org/shub/dmorrill10/research2018/cpu/2018-11-01-26d55be3-69811e98/Singularity
 collection: dmorrill10/research2018
 ---

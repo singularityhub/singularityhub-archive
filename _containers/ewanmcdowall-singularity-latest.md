@@ -9,7 +9,7 @@ build_date: "2020-02-11T10:25:22.640Z"
 size_mb: 348.0
 size: 106786847
 sif: "https://datasets.datalad.org/shub/ewanmcdowall/singularity/latest/2020-02-11-56cca137-0dabf0fe/0dabf0fe664067ebb14fc03e5a3469b7.sif"
-url: https://datasets.datalad.org/shub/ewanmcdowall/singularity/latest/2020-02-11-56cca137-0dabf0fe/
+datalad_url: https://datasets.datalad.org?dir=/shub/ewanmcdowall/singularity/latest/2020-02-11-56cca137-0dabf0fe/
 recipe: https://datasets.datalad.org/shub/ewanmcdowall/singularity/latest/2020-02-11-56cca137-0dabf0fe/Singularity
 collection: ewanmcdowall/singularity
 ---

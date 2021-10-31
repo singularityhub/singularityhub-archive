@@ -9,7 +9,7 @@ build_date: "2017-10-17T19:50:54.058Z"
 size_mb: 4890
 size: 1296886265
 sif: "https://datasets.datalad.org/shub/researchapps/quantum_state_diffusion/master/2017-10-17-d5c1c2e1-d5f42d2b/d5f42d2bc86c706ca2e309fcff6f7bec.img.gz"
-url: https://datasets.datalad.org/shub/researchapps/quantum_state_diffusion/master/2017-10-17-d5c1c2e1-d5f42d2b/
+datalad_url: https://datasets.datalad.org?dir=/shub/researchapps/quantum_state_diffusion/master/2017-10-17-d5c1c2e1-d5f42d2b/
 recipe: https://datasets.datalad.org/shub/researchapps/quantum_state_diffusion/master/2017-10-17-d5c1c2e1-d5f42d2b/Singularity
 collection: researchapps/quantum_state_diffusion
 ---

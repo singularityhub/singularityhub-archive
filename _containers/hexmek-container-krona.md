@@ -9,7 +9,7 @@ build_date: "2020-04-23T08:46:00.153Z"
 size_mb: 984.0
 size: 350355487
 sif: "https://datasets.datalad.org/shub/hexmek/container/krona/2020-04-23-114a1368-c3127eda/c3127eda09aa055a3cf1c6d7994b3b2e.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/krona/2020-04-23-114a1368-c3127eda/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/krona/2020-04-23-114a1368-c3127eda/
 recipe: https://datasets.datalad.org/shub/hexmek/container/krona/2020-04-23-114a1368-c3127eda/Singularity
 collection: hexmek/container
 ---

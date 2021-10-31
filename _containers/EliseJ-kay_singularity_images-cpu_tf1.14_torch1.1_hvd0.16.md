@@ -9,7 +9,7 @@ build_date: "2020-12-16T11:43:27.480Z"
 size_mb: 5175.0
 size: 2363686943
 sif: "https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/cpu_tf1.14_torch1.1_hvd0.16/2020-12-16-96f2307d-3af66f0f/3af66f0fcc7d0a47aef12b94ebd796bd.sif"
-url: https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/cpu_tf1.14_torch1.1_hvd0.16/2020-12-16-96f2307d-3af66f0f/
+datalad_url: https://datasets.datalad.org?dir=/shub/EliseJ/kay_singularity_images/cpu_tf1.14_torch1.1_hvd0.16/2020-12-16-96f2307d-3af66f0f/
 recipe: https://datasets.datalad.org/shub/EliseJ/kay_singularity_images/cpu_tf1.14_torch1.1_hvd0.16/2020-12-16-96f2307d-3af66f0f/Singularity
 collection: EliseJ/kay_singularity_images
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-01T10:24:41.750Z"
 size_mb: 7902.0
 size: 3654062111
 sif: "https://datasets.datalad.org/shub/jasteen/singularity/test2/2020-06-01-ee7bbcec-5813d92d/5813d92d43ce00ced0b3edb60f7ea35f.sif"
-url: https://datasets.datalad.org/shub/jasteen/singularity/test2/2020-06-01-ee7bbcec-5813d92d/
+datalad_url: https://datasets.datalad.org?dir=/shub/jasteen/singularity/test2/2020-06-01-ee7bbcec-5813d92d/
 recipe: https://datasets.datalad.org/shub/jasteen/singularity/test2/2020-06-01-ee7bbcec-5813d92d/Singularity
 collection: jasteen/singularity
 ---

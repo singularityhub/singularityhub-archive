@@ -9,7 +9,7 @@ build_date: "2019-03-25T23:16:31.036Z"
 size_mb: 1232
 size: 422719519
 sif: "https://datasets.datalad.org/shub/colinsauze/torch_singularity/latest/2019-03-25-793ab8e7-78f86bf6/78f86bf6c4f1d59b14a940ae10741a7a.simg"
-url: https://datasets.datalad.org/shub/colinsauze/torch_singularity/latest/2019-03-25-793ab8e7-78f86bf6/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinsauze/torch_singularity/latest/2019-03-25-793ab8e7-78f86bf6/
 recipe: https://datasets.datalad.org/shub/colinsauze/torch_singularity/latest/2019-03-25-793ab8e7-78f86bf6/Singularity
 collection: colinsauze/torch_singularity
 ---

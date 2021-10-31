@@ -9,7 +9,7 @@ build_date: "2018-03-26T20:31:23.727Z"
 size_mb: 298
 size: 104480799
 sif: "https://datasets.datalad.org/shub/ajreling/Singularity-CentOS/latest/2018-03-26-f3c46af4-83244bab/83244bab09b01e3b7542ab186d8cb875.simg"
-url: https://datasets.datalad.org/shub/ajreling/Singularity-CentOS/latest/2018-03-26-f3c46af4-83244bab/
+datalad_url: https://datasets.datalad.org?dir=/shub/ajreling/Singularity-CentOS/latest/2018-03-26-f3c46af4-83244bab/
 recipe: https://datasets.datalad.org/shub/ajreling/Singularity-CentOS/latest/2018-03-26-f3c46af4-83244bab/Singularity
 collection: ajreling/Singularity-CentOS
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-19T15:52:04.792Z"
 size_mb: 17642
 size: 7304433695
 sif: "https://datasets.datalad.org/shub/ZhifangYe/dpabi_build/latest/2019-03-19-d529e84e-3c65f07c/3c65f07c7339092e9623c8c51f4d9157.simg"
-url: https://datasets.datalad.org/shub/ZhifangYe/dpabi_build/latest/2019-03-19-d529e84e-3c65f07c/
+datalad_url: https://datasets.datalad.org?dir=/shub/ZhifangYe/dpabi_build/latest/2019-03-19-d529e84e-3c65f07c/
 recipe: https://datasets.datalad.org/shub/ZhifangYe/dpabi_build/latest/2019-03-19-d529e84e-3c65f07c/Singularity
 collection: ZhifangYe/dpabi_build
 ---

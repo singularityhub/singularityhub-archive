@@ -9,7 +9,7 @@ build_date: "2020-11-27T05:41:20.247Z"
 size_mb: 11926.0
 size: 5211004959
 sif: "https://datasets.datalad.org/shub/drneavin/SingularityBaseImages/doubletdetection/2020-11-27-9aaf019b-5e019814/5e019814baafe8e943dd4b6f1f89e323.sif"
-url: https://datasets.datalad.org/shub/drneavin/SingularityBaseImages/doubletdetection/2020-11-27-9aaf019b-5e019814/
+datalad_url: https://datasets.datalad.org?dir=/shub/drneavin/SingularityBaseImages/doubletdetection/2020-11-27-9aaf019b-5e019814/
 recipe: https://datasets.datalad.org/shub/drneavin/SingularityBaseImages/doubletdetection/2020-11-27-9aaf019b-5e019814/Singularity
 collection: drneavin/SingularityBaseImages
 ---

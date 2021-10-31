@@ -9,7 +9,7 @@ build_date: "2018-05-27T16:15:48.108Z"
 size_mb: 4158
 size: 2139287583
 sif: "https://datasets.datalad.org/shub/ManojGopale/Ubuntu_Anaconda_Tensorflow/modified_env/2018-05-27-24cf5531-e1f890c0/e1f890c06c184343dabb7e6a7477137d.simg"
-url: https://datasets.datalad.org/shub/ManojGopale/Ubuntu_Anaconda_Tensorflow/modified_env/2018-05-27-24cf5531-e1f890c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/ManojGopale/Ubuntu_Anaconda_Tensorflow/modified_env/2018-05-27-24cf5531-e1f890c0/
 recipe: https://datasets.datalad.org/shub/ManojGopale/Ubuntu_Anaconda_Tensorflow/modified_env/2018-05-27-24cf5531-e1f890c0/Singularity
 collection: ManojGopale/Ubuntu_Anaconda_Tensorflow
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-29T15:53:53.250Z"
 size_mb: 545
 size: 207675423
 sif: "https://datasets.datalad.org/shub/sysmso/docker-openmpi/latest/2019-12-29-23a45843-4f421b3b/4f421b3bb71e76112a44e8b1d3da125c.simg"
-url: https://datasets.datalad.org/shub/sysmso/docker-openmpi/latest/2019-12-29-23a45843-4f421b3b/
+datalad_url: https://datasets.datalad.org?dir=/shub/sysmso/docker-openmpi/latest/2019-12-29-23a45843-4f421b3b/
 recipe: https://datasets.datalad.org/shub/sysmso/docker-openmpi/latest/2019-12-29-23a45843-4f421b3b/Singularity
 collection: sysmso/docker-openmpi
 ---

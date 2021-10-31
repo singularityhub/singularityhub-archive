@@ -9,7 +9,7 @@ build_date: "2019-09-27T11:37:52.591Z"
 size_mb: 3510
 size: 1101832223
 sif: "https://datasets.datalad.org/shub/ISU-HPC/ros/latest/2019-09-27-956739b4-32ec43bb/32ec43bb1313fe0653b64b220ad11033.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/ros/latest/2019-09-27-956739b4-32ec43bb/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/ros/latest/2019-09-27-956739b4-32ec43bb/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/ros/latest/2019-09-27-956739b4-32ec43bb/Singularity
 collection: ISU-HPC/ros
 ---

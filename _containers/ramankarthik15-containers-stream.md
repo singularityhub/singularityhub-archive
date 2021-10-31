@@ -9,7 +9,7 @@ build_date: "2018-12-29T03:55:59.369Z"
 size_mb: 2984
 size: 994873375
 sif: "https://datasets.datalad.org/shub/ramankarthik15/containers/stream/2018-12-29-97b0db07-29e055aa/29e055aa5b0aad5bff756a286272c418.simg"
-url: https://datasets.datalad.org/shub/ramankarthik15/containers/stream/2018-12-29-97b0db07-29e055aa/
+datalad_url: https://datasets.datalad.org?dir=/shub/ramankarthik15/containers/stream/2018-12-29-97b0db07-29e055aa/
 recipe: https://datasets.datalad.org/shub/ramankarthik15/containers/stream/2018-12-29-97b0db07-29e055aa/Singularity
 collection: ramankarthik15/containers
 ---

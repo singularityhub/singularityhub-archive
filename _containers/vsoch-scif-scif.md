@@ -9,7 +9,7 @@ build_date: "2021-04-11T15:37:06.145Z"
 size_mb: 3115
 size: 1377902623
 sif: "https://datasets.datalad.org/shub/vsoch/scif/scif/2021-04-11-e044ce6c-762d0c58/762d0c58ddd409f33a357a43528ae302.simg"
-url: https://datasets.datalad.org/shub/vsoch/scif/scif/2021-04-11-e044ce6c-762d0c58/
+datalad_url: https://datasets.datalad.org?dir=/shub/vsoch/scif/scif/2021-04-11-e044ce6c-762d0c58/
 recipe: https://datasets.datalad.org/shub/vsoch/scif/scif/2021-04-11-e044ce6c-762d0c58/Singularity
 collection: vsoch/scif
 ---

@@ -9,7 +9,7 @@ build_date: "2018-02-28T22:04:06.181Z"
 size_mb: 1507
 size: 423186463
 sif: "https://datasets.datalad.org/shub/bpuchala/casm-singularity/0.3.x/2018-02-28-5bc76320-b4be0b0d/b4be0b0d3aa191ba47010f676dc9e77d.simg"
-url: https://datasets.datalad.org/shub/bpuchala/casm-singularity/0.3.x/2018-02-28-5bc76320-b4be0b0d/
+datalad_url: https://datasets.datalad.org?dir=/shub/bpuchala/casm-singularity/0.3.x/2018-02-28-5bc76320-b4be0b0d/
 recipe: https://datasets.datalad.org/shub/bpuchala/casm-singularity/0.3.x/2018-02-28-5bc76320-b4be0b0d/Singularity
 collection: bpuchala/casm-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-05-01T22:22:28.889Z"
 size_mb: 1860
 size: 603545631
 sif: "https://datasets.datalad.org/shub/kerimoff/featurecounts_qc/latest/2019-05-01-b9a7ebb6-51e09b76/51e09b768cca5c7b925adee275fa0e80.simg"
-url: https://datasets.datalad.org/shub/kerimoff/featurecounts_qc/latest/2019-05-01-b9a7ebb6-51e09b76/
+datalad_url: https://datasets.datalad.org?dir=/shub/kerimoff/featurecounts_qc/latest/2019-05-01-b9a7ebb6-51e09b76/
 recipe: https://datasets.datalad.org/shub/kerimoff/featurecounts_qc/latest/2019-05-01-b9a7ebb6-51e09b76/Singularity
 collection: kerimoff/featurecounts_qc
 ---

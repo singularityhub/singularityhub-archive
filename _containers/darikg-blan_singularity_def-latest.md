@@ -9,7 +9,7 @@ build_date: "2020-05-11T03:04:27.207Z"
 size_mb: 5630.0
 size: 2316533791
 sif: "https://datasets.datalad.org/shub/darikg/blan_singularity_def/latest/2020-05-11-5ccd6573-e47d0fc8/e47d0fc8109f1461a4122ba44b9da872.sif"
-url: https://datasets.datalad.org/shub/darikg/blan_singularity_def/latest/2020-05-11-5ccd6573-e47d0fc8/
+datalad_url: https://datasets.datalad.org?dir=/shub/darikg/blan_singularity_def/latest/2020-05-11-5ccd6573-e47d0fc8/
 recipe: https://datasets.datalad.org/shub/darikg/blan_singularity_def/latest/2020-05-11-5ccd6573-e47d0fc8/Singularity
 collection: darikg/blan_singularity_def
 ---

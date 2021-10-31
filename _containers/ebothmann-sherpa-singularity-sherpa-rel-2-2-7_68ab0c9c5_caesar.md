@@ -9,7 +9,7 @@ build_date: "2019-03-22T14:10:54.744Z"
 size_mb: 3582
 size: 804380703
 sif: "https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/sherpa-rel-2-2-7_68ab0c9c5_caesar/2019-03-22-a3a9ccd9-23357766/23357766fc4b47574fb01fdc4f52bd70.simg"
-url: https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/sherpa-rel-2-2-7_68ab0c9c5_caesar/2019-03-22-a3a9ccd9-23357766/
+datalad_url: https://datasets.datalad.org?dir=/shub/ebothmann/sherpa-singularity/sherpa-rel-2-2-7_68ab0c9c5_caesar/2019-03-22-a3a9ccd9-23357766/
 recipe: https://datasets.datalad.org/shub/ebothmann/sherpa-singularity/sherpa-rel-2-2-7_68ab0c9c5_caesar/2019-03-22-a3a9ccd9-23357766/Singularity
 collection: ebothmann/sherpa-singularity
 ---

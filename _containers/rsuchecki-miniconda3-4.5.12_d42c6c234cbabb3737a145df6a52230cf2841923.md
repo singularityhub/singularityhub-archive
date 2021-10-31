@@ -9,7 +9,7 @@ build_date: "2019-03-08T23:39:51.935Z"
 size_mb: 392
 size: 149090335
 sif: "https://datasets.datalad.org/shub/rsuchecki/miniconda3/4.5.12_d42c6c234cbabb3737a145df6a52230cf2841923/2019-03-08-199a6889-e0191bcd/e0191bcd233ed3a01b8dd467c885189a.simg"
-url: https://datasets.datalad.org/shub/rsuchecki/miniconda3/4.5.12_d42c6c234cbabb3737a145df6a52230cf2841923/2019-03-08-199a6889-e0191bcd/
+datalad_url: https://datasets.datalad.org?dir=/shub/rsuchecki/miniconda3/4.5.12_d42c6c234cbabb3737a145df6a52230cf2841923/2019-03-08-199a6889-e0191bcd/
 recipe: https://datasets.datalad.org/shub/rsuchecki/miniconda3/4.5.12_d42c6c234cbabb3737a145df6a52230cf2841923/2019-03-08-199a6889-e0191bcd/Singularity
 collection: rsuchecki/miniconda3
 ---

@@ -9,7 +9,7 @@ build_date: "2020-11-12T16:34:57.261Z"
 size_mb: 8101
 size: 2488463391
 sif: "https://datasets.datalad.org/shub/kipoi/models/latest/2020-11-12-b94a8e5e-3b2f5b5b/3b2f5b5b05f8a28b2d4ad63d0bf27e40.simg"
-url: https://datasets.datalad.org/shub/kipoi/models/latest/2020-11-12-b94a8e5e-3b2f5b5b/
+datalad_url: https://datasets.datalad.org?dir=/shub/kipoi/models/latest/2020-11-12-b94a8e5e-3b2f5b5b/
 recipe: https://datasets.datalad.org/shub/kipoi/models/latest/2020-11-12-b94a8e5e-3b2f5b5b/Singularity
 collection: kipoi/models
 ---

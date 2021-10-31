@@ -9,7 +9,7 @@ build_date: "2020-04-08T14:51:54.474Z"
 size_mb: 2162
 size: 859803679
 sif: "https://datasets.datalad.org/shub/mticlla/MetagenomicSnake/preqc/2020-04-08-17e16c0b-d685ffd6/d685ffd621cef3499efdfd2078bf9663.simg"
-url: https://datasets.datalad.org/shub/mticlla/MetagenomicSnake/preqc/2020-04-08-17e16c0b-d685ffd6/
+datalad_url: https://datasets.datalad.org?dir=/shub/mticlla/MetagenomicSnake/preqc/2020-04-08-17e16c0b-d685ffd6/
 recipe: https://datasets.datalad.org/shub/mticlla/MetagenomicSnake/preqc/2020-04-08-17e16c0b-d685ffd6/Singularity
 collection: mticlla/MetagenomicSnake
 ---

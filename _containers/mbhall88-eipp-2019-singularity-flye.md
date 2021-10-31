@@ -9,7 +9,7 @@ build_date: "2021-01-25T02:33:16.591Z"
 size_mb: 888.0
 size: 307339295
 sif: "https://datasets.datalad.org/shub/mbhall88/eipp-2019-singularity/flye/2021-01-25-f7f7af94-f0531dc9/f0531dc9ff16b1080dd399d61f0d9139.sif"
-url: https://datasets.datalad.org/shub/mbhall88/eipp-2019-singularity/flye/2021-01-25-f7f7af94-f0531dc9/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/eipp-2019-singularity/flye/2021-01-25-f7f7af94-f0531dc9/
 recipe: https://datasets.datalad.org/shub/mbhall88/eipp-2019-singularity/flye/2021-01-25-f7f7af94-f0531dc9/Singularity
 collection: mbhall88/eipp-2019-singularity
 ---

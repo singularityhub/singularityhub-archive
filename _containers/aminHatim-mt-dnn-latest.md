@@ -9,7 +9,7 @@ build_date: "2019-11-26T21:08:12.870Z"
 size_mb: 7016.0
 size: 4158705695
 sif: "https://datasets.datalad.org/shub/aminHatim/mt-dnn/latest/2019-11-26-26fe5c40-f1a239e1/f1a239e1f9ce4e01eef074f593885ee5.sif"
-url: https://datasets.datalad.org/shub/aminHatim/mt-dnn/latest/2019-11-26-26fe5c40-f1a239e1/
+datalad_url: https://datasets.datalad.org?dir=/shub/aminHatim/mt-dnn/latest/2019-11-26-26fe5c40-f1a239e1/
 recipe: https://datasets.datalad.org/shub/aminHatim/mt-dnn/latest/2019-11-26-26fe5c40-f1a239e1/Singularity
 collection: aminHatim/mt-dnn
 ---

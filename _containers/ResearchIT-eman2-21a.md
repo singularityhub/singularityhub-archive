@@ -9,7 +9,7 @@ build_date: "2018-05-30T12:30:56.018Z"
 size_mb: 3669
 size: 1803735071
 sif: "https://datasets.datalad.org/shub/ResearchIT/eman2/21a/2018-05-30-93b8ead0-32505f7f/32505f7fcefb8a6e48c657623179781a.simg"
-url: https://datasets.datalad.org/shub/ResearchIT/eman2/21a/2018-05-30-93b8ead0-32505f7f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchIT/eman2/21a/2018-05-30-93b8ead0-32505f7f/
 recipe: https://datasets.datalad.org/shub/ResearchIT/eman2/21a/2018-05-30-93b8ead0-32505f7f/Singularity
 collection: ResearchIT/eman2
 ---

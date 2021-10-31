@@ -9,7 +9,7 @@ build_date: "2018-09-03T17:16:24.242Z"
 size_mb: 218
 size: 91545631
 sif: "https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/metabat/2018-09-03-0fc51cca-3a28d3b7/3a28d3b7367d3ab6730a8a5eb61578ca.simg"
-url: https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/metabat/2018-09-03-0fc51cca-3a28d3b7/
+datalad_url: https://datasets.datalad.org?dir=/shub/QuentinLetourneur/Let-it-bin/metabat/2018-09-03-0fc51cca-3a28d3b7/
 recipe: https://datasets.datalad.org/shub/QuentinLetourneur/Let-it-bin/metabat/2018-09-03-0fc51cca-3a28d3b7/Singularity
 collection: QuentinLetourneur/Let-it-bin
 ---

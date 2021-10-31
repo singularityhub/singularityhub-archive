@@ -9,7 +9,7 @@ build_date: "2020-10-26T20:38:15.676Z"
 size_mb: 3369.0
 size: 1053802527
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/prokka-latest/2020-10-26-7c45c97e-8dcc5ace/8dcc5aced39762479a0f8dcc743be6f0.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/prokka-latest/2020-10-26-7c45c97e-8dcc5ace/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/prokka-latest/2020-10-26-7c45c97e-8dcc5ace/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/prokka-latest/2020-10-26-7c45c97e-8dcc5ace/Singularity
 collection: annacprice/containerCI-test
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-25T08:10:20.533Z"
 size_mb: 1591
 size: 500404255
 sif: "https://datasets.datalad.org/shub/team113sanger/t113-singularity/multiqc__1.7__py_2/2019-04-25-c002fcaa-4193fcb0/4193fcb00db68c6ee86d509e6156f263.simg"
-url: https://datasets.datalad.org/shub/team113sanger/t113-singularity/multiqc__1.7__py_2/2019-04-25-c002fcaa-4193fcb0/
+datalad_url: https://datasets.datalad.org?dir=/shub/team113sanger/t113-singularity/multiqc__1.7__py_2/2019-04-25-c002fcaa-4193fcb0/
 recipe: https://datasets.datalad.org/shub/team113sanger/t113-singularity/multiqc__1.7__py_2/2019-04-25-c002fcaa-4193fcb0/Singularity
 collection: team113sanger/t113-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-26T11:40:34.664Z"
 size_mb: 8818
 size: 4059226143
 sif: "https://datasets.datalad.org/shub/Sylvia-Liang/torch25/latest/2019-04-26-0e4b3314-32a26b38/32a26b38559da9fab5a2eabc1834c8f1.simg"
-url: https://datasets.datalad.org/shub/Sylvia-Liang/torch25/latest/2019-04-26-0e4b3314-32a26b38/
+datalad_url: https://datasets.datalad.org?dir=/shub/Sylvia-Liang/torch25/latest/2019-04-26-0e4b3314-32a26b38/
 recipe: https://datasets.datalad.org/shub/Sylvia-Liang/torch25/latest/2019-04-26-0e4b3314-32a26b38/Singularity
 collection: Sylvia-Liang/torch25
 ---

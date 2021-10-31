@@ -9,7 +9,7 @@ build_date: "2020-03-12T19:03:31.671Z"
 size_mb: 6936
 size: 3095064607
 sif: "https://datasets.datalad.org/shub/14renus/sdsc/latest/2020-03-12-496f1f05-04f2b99d/04f2b99d5358d4e11c25cf549fca9de9.simg"
-url: https://datasets.datalad.org/shub/14renus/sdsc/latest/2020-03-12-496f1f05-04f2b99d/
+datalad_url: https://datasets.datalad.org?dir=/shub/14renus/sdsc/latest/2020-03-12-496f1f05-04f2b99d/
 recipe: https://datasets.datalad.org/shub/14renus/sdsc/latest/2020-03-12-496f1f05-04f2b99d/Singularity
 collection: 14renus/sdsc
 ---

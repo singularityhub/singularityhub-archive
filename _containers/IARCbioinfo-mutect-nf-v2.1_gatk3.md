@@ -9,7 +9,7 @@ build_date: "2020-05-22T07:35:34.688Z"
 size_mb: 1759.0
 size: 673312799
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/mutect-nf/v2.1_gatk3/2020-05-22-759e42c9-7c8c6171/7c8c61714162d673eac5eb831d7e2180.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/mutect-nf/v2.1_gatk3/2020-05-22-759e42c9-7c8c6171/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/mutect-nf/v2.1_gatk3/2020-05-22-759e42c9-7c8c6171/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/mutect-nf/v2.1_gatk3/2020-05-22-759e42c9-7c8c6171/Singularity
 collection: IARCbioinfo/mutect-nf
 ---

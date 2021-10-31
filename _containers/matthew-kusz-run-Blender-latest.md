@@ -9,7 +9,7 @@ build_date: "2020-01-09T15:36:51.486Z"
 size_mb: 865.0
 size: 339148831
 sif: "https://datasets.datalad.org/shub/matthew-kusz/run-Blender/latest/2020-01-09-53b74b04-929ec71d/929ec71d53fea4aa6b16054da757e7ba.sif"
-url: https://datasets.datalad.org/shub/matthew-kusz/run-Blender/latest/2020-01-09-53b74b04-929ec71d/
+datalad_url: https://datasets.datalad.org?dir=/shub/matthew-kusz/run-Blender/latest/2020-01-09-53b74b04-929ec71d/
 recipe: https://datasets.datalad.org/shub/matthew-kusz/run-Blender/latest/2020-01-09-53b74b04-929ec71d/Singularity
 collection: matthew-kusz/run-Blender
 ---

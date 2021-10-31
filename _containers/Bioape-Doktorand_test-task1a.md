@@ -9,7 +9,7 @@ build_date: "2021-03-17T16:42:18.723Z"
 size_mb: 824.0
 size: 443412511
 sif: "https://datasets.datalad.org/shub/Bioape/Doktorand_test/task1a/2021-03-17-fa13accb-548f3187/548f3187594b8fdce2dec18726060ecc.sif"
-url: https://datasets.datalad.org/shub/Bioape/Doktorand_test/task1a/2021-03-17-fa13accb-548f3187/
+datalad_url: https://datasets.datalad.org?dir=/shub/Bioape/Doktorand_test/task1a/2021-03-17-fa13accb-548f3187/
 recipe: https://datasets.datalad.org/shub/Bioape/Doktorand_test/task1a/2021-03-17-fa13accb-548f3187/Singularity
 collection: Bioape/Doktorand_test
 ---

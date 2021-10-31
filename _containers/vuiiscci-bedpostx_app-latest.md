@@ -9,7 +9,7 @@ build_date: "2018-03-29T09:26:06.117Z"
 size_mb: 4852
 size: 2240135199
 sif: "https://datasets.datalad.org/shub/vuiiscci/bedpostx_app/latest/2018-03-29-23aa4e98-a2c6a69c/a2c6a69c2d5feb4371dcb2a2cfbd2fd8.simg"
-url: https://datasets.datalad.org/shub/vuiiscci/bedpostx_app/latest/2018-03-29-23aa4e98-a2c6a69c/
+datalad_url: https://datasets.datalad.org?dir=/shub/vuiiscci/bedpostx_app/latest/2018-03-29-23aa4e98-a2c6a69c/
 recipe: https://datasets.datalad.org/shub/vuiiscci/bedpostx_app/latest/2018-03-29-23aa4e98-a2c6a69c/Singularity
 collection: vuiiscci/bedpostx_app
 ---

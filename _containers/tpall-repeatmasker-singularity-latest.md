@@ -9,7 +9,7 @@ build_date: "2021-04-16T20:42:09.864Z"
 size_mb: 3382.0
 size: 875016223
 sif: "https://datasets.datalad.org/shub/tpall/repeatmasker-singularity/latest/2021-04-16-bf6bfac0-c77e13a4/c77e13a4411c4597477b009f94de391a.sif"
-url: https://datasets.datalad.org/shub/tpall/repeatmasker-singularity/latest/2021-04-16-bf6bfac0-c77e13a4/
+datalad_url: https://datasets.datalad.org?dir=/shub/tpall/repeatmasker-singularity/latest/2021-04-16-bf6bfac0-c77e13a4/
 recipe: https://datasets.datalad.org/shub/tpall/repeatmasker-singularity/latest/2021-04-16-bf6bfac0-c77e13a4/Singularity
 collection: tpall/repeatmasker-singularity
 ---

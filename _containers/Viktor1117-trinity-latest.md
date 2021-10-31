@@ -9,7 +9,7 @@ build_date: "2020-08-24T09:44:40.788Z"
 size_mb: 2059.0
 size: 988184607
 sif: "https://datasets.datalad.org/shub/Viktor1117/trinity/latest/2020-08-24-93bc0779-b1b64315/b1b643155448c9fe7229fb0cfbf59ace.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/trinity/latest/2020-08-24-93bc0779-b1b64315/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/trinity/latest/2020-08-24-93bc0779-b1b64315/
 recipe: https://datasets.datalad.org/shub/Viktor1117/trinity/latest/2020-08-24-93bc0779-b1b64315/Singularity
 collection: Viktor1117/trinity
 ---

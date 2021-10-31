@@ -9,7 +9,7 @@ build_date: "2018-08-14T19:41:13.176Z"
 size_mb: 2985
 size: 1140916255
 sif: "https://datasets.datalad.org/shub/ebioman/SmrtLinkSingularity/v23_legacy/2018-08-14-f6e3184f-c2502970/c2502970e0364392a4ec0746d416e2a1.simg"
-url: https://datasets.datalad.org/shub/ebioman/SmrtLinkSingularity/v23_legacy/2018-08-14-f6e3184f-c2502970/
+datalad_url: https://datasets.datalad.org?dir=/shub/ebioman/SmrtLinkSingularity/v23_legacy/2018-08-14-f6e3184f-c2502970/
 recipe: https://datasets.datalad.org/shub/ebioman/SmrtLinkSingularity/v23_legacy/2018-08-14-f6e3184f-c2502970/Singularity
 collection: ebioman/SmrtLinkSingularity
 ---

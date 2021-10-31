@@ -9,7 +9,7 @@ build_date: "2020-12-01T23:12:31.569Z"
 size_mb: 4680.0
 size: 1456402463
 sif: "https://datasets.datalad.org/shub/DiffeoInvariant/datacenter-profiling/latest/2020-12-01-463ed7ee-4284bae6/4284bae62a2b55e9d3592679d85d6618.sif"
-url: https://datasets.datalad.org/shub/DiffeoInvariant/datacenter-profiling/latest/2020-12-01-463ed7ee-4284bae6/
+datalad_url: https://datasets.datalad.org?dir=/shub/DiffeoInvariant/datacenter-profiling/latest/2020-12-01-463ed7ee-4284bae6/
 recipe: https://datasets.datalad.org/shub/DiffeoInvariant/datacenter-profiling/latest/2020-12-01-463ed7ee-4284bae6/Singularity
 collection: DiffeoInvariant/datacenter-profiling
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-10T09:56:27.571Z"
 size_mb: 480.0
 size: 174329887
 sif: "https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/mongodb/2020-12-10-810426bf-3ac20ca2/3ac20ca2ff3f832da1a091276585b280.sif"
-url: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/mongodb/2020-12-10-810426bf-3ac20ca2/
+datalad_url: https://datasets.datalad.org?dir=/shub/pmitev/Teoroo-singularity/mongodb/2020-12-10-810426bf-3ac20ca2/
 recipe: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/mongodb/2020-12-10-810426bf-3ac20ca2/Singularity
 collection: pmitev/Teoroo-singularity
 ---

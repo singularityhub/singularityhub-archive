@@ -9,7 +9,7 @@ build_date: "2018-06-19T13:16:51.074Z"
 size_mb: 7287
 size: 2832654367
 sif: "https://datasets.datalad.org/shub/davidinouye/destructive-deep-learning/icml2018/2018-06-19-f77ddbf2-6a988f8b/6a988f8b93a8e3f0c8b7f7f1d3f60ca9.simg"
-url: https://datasets.datalad.org/shub/davidinouye/destructive-deep-learning/icml2018/2018-06-19-f77ddbf2-6a988f8b/
+datalad_url: https://datasets.datalad.org?dir=/shub/davidinouye/destructive-deep-learning/icml2018/2018-06-19-f77ddbf2-6a988f8b/
 recipe: https://datasets.datalad.org/shub/davidinouye/destructive-deep-learning/icml2018/2018-06-19-f77ddbf2-6a988f8b/Singularity
 collection: davidinouye/destructive-deep-learning
 ---

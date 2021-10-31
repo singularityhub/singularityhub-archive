@@ -9,7 +9,7 @@ build_date: "2021-04-13T15:53:41.511Z"
 size_mb: 1919.0
 size: 705200159
 sif: "https://datasets.datalad.org/shub/kavonrtep/SeqGrapheR/latest/2021-04-13-4c828754-25614124/256141241986c653d4cb04b3f6a97619.sif"
-url: https://datasets.datalad.org/shub/kavonrtep/SeqGrapheR/latest/2021-04-13-4c828754-25614124/
+datalad_url: https://datasets.datalad.org?dir=/shub/kavonrtep/SeqGrapheR/latest/2021-04-13-4c828754-25614124/
 recipe: https://datasets.datalad.org/shub/kavonrtep/SeqGrapheR/latest/2021-04-13-4c828754-25614124/Singularity
 collection: kavonrtep/SeqGrapheR
 ---

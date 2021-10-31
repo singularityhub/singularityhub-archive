@@ -9,7 +9,7 @@ build_date: "2020-08-16T22:25:06.457Z"
 size_mb: 162.49609375
 size: 170389504
 sif: "https://datasets.datalad.org/shub/TomHarrop/assemblers/spades_3.14.1/2020-08-16-80ba97c6-9230ca94/9230ca941a8ee6fbaad5dab4e16c68de390b479b431cc5668a62f55bb0b9eeac.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assemblers/spades_3.14.1/2020-08-16-80ba97c6-9230ca94/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assemblers/spades_3.14.1/2020-08-16-80ba97c6-9230ca94/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assemblers/spades_3.14.1/2020-08-16-80ba97c6-9230ca94/Singularity
 collection: TomHarrop/assemblers
 ---

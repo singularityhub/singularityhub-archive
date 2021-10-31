@@ -9,7 +9,7 @@ build_date: "2020-06-17T01:33:01.110Z"
 size_mb: 863.78125
 size: 905740288
 sif: "https://datasets.datalad.org/shub/TomHarrop/funannotate-singularity/tetools_1.1/2020-06-17-bb767463-7887bd0a/7887bd0a6d1891d8014aaed191e5aabc9b536e8fc8b6d7e19bb0aaf6276efb0d.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/funannotate-singularity/tetools_1.1/2020-06-17-bb767463-7887bd0a/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/funannotate-singularity/tetools_1.1/2020-06-17-bb767463-7887bd0a/
 recipe: https://datasets.datalad.org/shub/TomHarrop/funannotate-singularity/tetools_1.1/2020-06-17-bb767463-7887bd0a/Singularity
 collection: TomHarrop/funannotate-singularity
 ---

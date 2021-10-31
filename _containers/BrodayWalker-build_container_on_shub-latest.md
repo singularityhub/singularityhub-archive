@@ -9,7 +9,7 @@ build_date: "2019-05-24T15:49:14.229Z"
 size_mb: 533
 size: 208490527
 sif: "https://datasets.datalad.org/shub/BrodayWalker/build_container_on_shub/latest/2019-05-24-d9d6f04e-2eb9e67c/2eb9e67cb1b16c5d26eecac8c182bde0.simg"
-url: https://datasets.datalad.org/shub/BrodayWalker/build_container_on_shub/latest/2019-05-24-d9d6f04e-2eb9e67c/
+datalad_url: https://datasets.datalad.org?dir=/shub/BrodayWalker/build_container_on_shub/latest/2019-05-24-d9d6f04e-2eb9e67c/
 recipe: https://datasets.datalad.org/shub/BrodayWalker/build_container_on_shub/latest/2019-05-24-d9d6f04e-2eb9e67c/Singularity
 collection: BrodayWalker/build_container_on_shub
 ---

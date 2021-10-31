@@ -9,7 +9,7 @@ build_date: "2019-10-18T09:45:41.325Z"
 size_mb: 690
 size: 293097503
 sif: "https://datasets.datalad.org/shub/iferres/Singularity_recipes/panoct/2019-10-18-92f333e5-99b7c92f/99b7c92f96bde9294fb90433a085b92f.simg"
-url: https://datasets.datalad.org/shub/iferres/Singularity_recipes/panoct/2019-10-18-92f333e5-99b7c92f/
+datalad_url: https://datasets.datalad.org?dir=/shub/iferres/Singularity_recipes/panoct/2019-10-18-92f333e5-99b7c92f/
 recipe: https://datasets.datalad.org/shub/iferres/Singularity_recipes/panoct/2019-10-18-92f333e5-99b7c92f/Singularity
 collection: iferres/Singularity_recipes
 ---

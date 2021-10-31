@@ -9,7 +9,7 @@ build_date: "2019-09-27T03:21:53.820Z"
 size_mb: 179.0
 size: 38809631
 sif: "https://datasets.datalad.org/shub/serheang/sc_katacoda/latest/2019-09-27-ffc6b133-e1a3b93c/e1a3b93c47f84c53cee807ac500c473d.sif"
-url: https://datasets.datalad.org/shub/serheang/sc_katacoda/latest/2019-09-27-ffc6b133-e1a3b93c/
+datalad_url: https://datasets.datalad.org?dir=/shub/serheang/sc_katacoda/latest/2019-09-27-ffc6b133-e1a3b93c/
 recipe: https://datasets.datalad.org/shub/serheang/sc_katacoda/latest/2019-09-27-ffc6b133-e1a3b93c/Singularity
 collection: serheang/sc_katacoda
 ---

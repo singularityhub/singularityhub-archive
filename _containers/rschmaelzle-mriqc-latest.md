@@ -9,7 +9,7 @@ build_date: "2018-05-01T10:59:32.296Z"
 size_mb: 7307
 size: 2819358751
 sif: "https://datasets.datalad.org/shub/rschmaelzle/mriqc/latest/2018-05-01-66726976-1cb0217d/1cb0217d6a79c4fecadfad7a22eb1e9a.simg"
-url: https://datasets.datalad.org/shub/rschmaelzle/mriqc/latest/2018-05-01-66726976-1cb0217d/
+datalad_url: https://datasets.datalad.org?dir=/shub/rschmaelzle/mriqc/latest/2018-05-01-66726976-1cb0217d/
 recipe: https://datasets.datalad.org/shub/rschmaelzle/mriqc/latest/2018-05-01-66726976-1cb0217d/Singularity
 collection: rschmaelzle/mriqc
 ---

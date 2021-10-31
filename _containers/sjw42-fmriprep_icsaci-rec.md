@@ -9,7 +9,7 @@ build_date: "2020-10-06T13:51:31.001Z"
 size_mb: 12642.0
 size: 4916236319
 sif: "https://datasets.datalad.org/shub/sjw42/fmriprep_icsaci/rec/2020-10-06-ff0e5fd5-925b9ecc/925b9ecc1967fd2833ad2a311a67bd4d.sif"
-url: https://datasets.datalad.org/shub/sjw42/fmriprep_icsaci/rec/2020-10-06-ff0e5fd5-925b9ecc/
+datalad_url: https://datasets.datalad.org?dir=/shub/sjw42/fmriprep_icsaci/rec/2020-10-06-ff0e5fd5-925b9ecc/
 recipe: https://datasets.datalad.org/shub/sjw42/fmriprep_icsaci/rec/2020-10-06-ff0e5fd5-925b9ecc/Singularity
 collection: sjw42/fmriprep_icsaci
 ---

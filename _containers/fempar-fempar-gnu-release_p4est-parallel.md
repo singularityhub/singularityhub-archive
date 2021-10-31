@@ -9,7 +9,7 @@ build_date: "2019-05-24T15:49:13.410Z"
 size_mb: 4020
 size: 1353936927
 sif: "https://datasets.datalad.org/shub/fempar/fempar/gnu-release_p4est-parallel/2019-05-24-01cfd159-cef98a04/cef98a04279b9e904dd8304d10a1f8d7.simg"
-url: https://datasets.datalad.org/shub/fempar/fempar/gnu-release_p4est-parallel/2019-05-24-01cfd159-cef98a04/
+datalad_url: https://datasets.datalad.org?dir=/shub/fempar/fempar/gnu-release_p4est-parallel/2019-05-24-01cfd159-cef98a04/
 recipe: https://datasets.datalad.org/shub/fempar/fempar/gnu-release_p4est-parallel/2019-05-24-01cfd159-cef98a04/Singularity
 collection: fempar/fempar
 ---

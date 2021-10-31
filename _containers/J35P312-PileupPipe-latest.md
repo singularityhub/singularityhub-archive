@@ -9,7 +9,7 @@ build_date: "2019-10-31T14:05:16.194Z"
 size_mb: 1678
 size: 1040302111
 sif: "https://datasets.datalad.org/shub/J35P312/PileupPipe/latest/2019-10-31-a7bd1b77-b2610238/b2610238b07e67f9d9451124da047bc2.simg"
-url: https://datasets.datalad.org/shub/J35P312/PileupPipe/latest/2019-10-31-a7bd1b77-b2610238/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/PileupPipe/latest/2019-10-31-a7bd1b77-b2610238/
 recipe: https://datasets.datalad.org/shub/J35P312/PileupPipe/latest/2019-10-31-a7bd1b77-b2610238/Singularity
 collection: J35P312/PileupPipe
 ---

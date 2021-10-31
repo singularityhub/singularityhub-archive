@@ -9,7 +9,7 @@ build_date: "2021-04-16T19:08:59.652Z"
 size_mb: 1058
 size: 343916575
 sif: "https://datasets.datalad.org/shub/ISU-HPC/jupyter/latest/2021-04-16-66c46f7b-9d9baba9/9d9baba9342c37793a4da740680cfe2d.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/jupyter/latest/2021-04-16-66c46f7b-9d9baba9/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/jupyter/latest/2021-04-16-66c46f7b-9d9baba9/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/jupyter/latest/2021-04-16-66c46f7b-9d9baba9/Singularity
 collection: ISU-HPC/jupyter
 ---

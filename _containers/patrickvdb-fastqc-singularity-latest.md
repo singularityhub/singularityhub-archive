@@ -9,7 +9,7 @@ build_date: "2019-07-26T16:12:19.066Z"
 size_mb: 640
 size: 242245663
 sif: "https://datasets.datalad.org/shub/patrickvdb/fastqc-singularity/latest/2019-07-26-f25a3905-f5277d7b/f5277d7bfdf865c5a120e91a7ee68d6f.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/fastqc-singularity/latest/2019-07-26-f25a3905-f5277d7b/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/fastqc-singularity/latest/2019-07-26-f25a3905-f5277d7b/
 recipe: https://datasets.datalad.org/shub/patrickvdb/fastqc-singularity/latest/2019-07-26-f25a3905-f5277d7b/Singularity
 collection: patrickvdb/fastqc-singularity
 ---

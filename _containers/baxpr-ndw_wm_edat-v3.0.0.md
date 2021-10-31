@@ -9,7 +9,7 @@ build_date: "2018-11-01T03:16:09.017Z"
 size_mb: 3436
 size: 1441493023
 sif: "https://datasets.datalad.org/shub/baxpr/ndw_wm_edat/v3.0.0/2018-11-01-4d1bae0a-f804ee2a/f804ee2a7bb037ba4de670509581e77a.simg"
-url: https://datasets.datalad.org/shub/baxpr/ndw_wm_edat/v3.0.0/2018-11-01-4d1bae0a-f804ee2a/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/ndw_wm_edat/v3.0.0/2018-11-01-4d1bae0a-f804ee2a/
 recipe: https://datasets.datalad.org/shub/baxpr/ndw_wm_edat/v3.0.0/2018-11-01-4d1bae0a-f804ee2a/Singularity
 collection: baxpr/ndw_wm_edat
 ---

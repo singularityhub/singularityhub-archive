@@ -9,7 +9,7 @@ build_date: "2020-12-25T12:56:44.487Z"
 size_mb: 2920.37890625
 size: 3062239232
 sif: "https://datasets.datalad.org/shub/BrendelGroup/AllRice/latest/2020-12-25-a3bf4850-96b4640a/96b4640a198fda23d47ab4530a531a7ef1ab14615faeecc642932918e8a6363d.sif"
-url: https://datasets.datalad.org/shub/BrendelGroup/AllRice/latest/2020-12-25-a3bf4850-96b4640a/
+datalad_url: https://datasets.datalad.org?dir=/shub/BrendelGroup/AllRice/latest/2020-12-25-a3bf4850-96b4640a/
 recipe: https://datasets.datalad.org/shub/BrendelGroup/AllRice/latest/2020-12-25-a3bf4850-96b4640a/Singularity
 collection: BrendelGroup/AllRice
 ---

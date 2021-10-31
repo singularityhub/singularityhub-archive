@@ -9,7 +9,7 @@ build_date: "2020-08-05T17:20:46.919Z"
 size_mb: 5706.0
 size: 2421104671
 sif: "https://datasets.datalad.org/shub/bempp/bempp-cl/latest/2020-08-05-96701617-168c8a26/168c8a264c21c26ad9b630e6cd5f00d3.sif"
-url: https://datasets.datalad.org/shub/bempp/bempp-cl/latest/2020-08-05-96701617-168c8a26/
+datalad_url: https://datasets.datalad.org?dir=/shub/bempp/bempp-cl/latest/2020-08-05-96701617-168c8a26/
 recipe: https://datasets.datalad.org/shub/bempp/bempp-cl/latest/2020-08-05-96701617-168c8a26/Singularity
 collection: bempp/bempp-cl
 ---

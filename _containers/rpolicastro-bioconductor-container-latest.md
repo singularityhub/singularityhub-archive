@@ -9,7 +9,7 @@ build_date: "2020-08-18T18:41:49.945Z"
 size_mb: 5006
 size: 1496412191
 sif: "https://datasets.datalad.org/shub/rpolicastro/bioconductor-container/latest/2020-08-18-cb439515-f390ddbb/f390ddbbda069a55ef43e32c0ec02e8f.simg"
-url: https://datasets.datalad.org/shub/rpolicastro/bioconductor-container/latest/2020-08-18-cb439515-f390ddbb/
+datalad_url: https://datasets.datalad.org?dir=/shub/rpolicastro/bioconductor-container/latest/2020-08-18-cb439515-f390ddbb/
 recipe: https://datasets.datalad.org/shub/rpolicastro/bioconductor-container/latest/2020-08-18-cb439515-f390ddbb/Singularity
 collection: rpolicastro/bioconductor-container
 ---

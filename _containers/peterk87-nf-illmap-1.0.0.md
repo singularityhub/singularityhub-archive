@@ -9,7 +9,7 @@ build_date: "2021-04-15T05:22:50.005Z"
 size_mb: 2846.0
 size: 955793439
 sif: "https://datasets.datalad.org/shub/peterk87/nf-illmap/1.0.0/2021-04-15-523d63d2-e171aa81/e171aa8186ce254defe1884680031826.sif"
-url: https://datasets.datalad.org/shub/peterk87/nf-illmap/1.0.0/2021-04-15-523d63d2-e171aa81/
+datalad_url: https://datasets.datalad.org?dir=/shub/peterk87/nf-illmap/1.0.0/2021-04-15-523d63d2-e171aa81/
 recipe: https://datasets.datalad.org/shub/peterk87/nf-illmap/1.0.0/2021-04-15-523d63d2-e171aa81/Singularity
 collection: peterk87/nf-illmap
 ---

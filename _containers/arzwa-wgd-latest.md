@@ -9,7 +9,7 @@ build_date: "2021-04-07T13:18:11.140Z"
 size_mb: 1177
 size: 503529503
 sif: "https://datasets.datalad.org/shub/arzwa/wgd/latest/2021-04-07-6154c88c-2982aea3/2982aea32b0cb0326563a709f2d3c94b.simg"
-url: https://datasets.datalad.org/shub/arzwa/wgd/latest/2021-04-07-6154c88c-2982aea3/
+datalad_url: https://datasets.datalad.org?dir=/shub/arzwa/wgd/latest/2021-04-07-6154c88c-2982aea3/
 recipe: https://datasets.datalad.org/shub/arzwa/wgd/latest/2021-04-07-6154c88c-2982aea3/Singularity
 collection: arzwa/wgd
 ---

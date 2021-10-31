@@ -9,7 +9,7 @@ build_date: "2021-01-27T14:28:33.576Z"
 size_mb: 1334.0
 size: 481058847
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/NGSCheckMate-nf/v1.1/2021-01-27-41a5324b-44150760/441507608a59a4874b65794b6dad1bf0.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/NGSCheckMate-nf/v1.1/2021-01-27-41a5324b-44150760/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/NGSCheckMate-nf/v1.1/2021-01-27-41a5324b-44150760/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/NGSCheckMate-nf/v1.1/2021-01-27-41a5324b-44150760/Singularity
 collection: IARCbioinfo/NGSCheckMate-nf
 ---

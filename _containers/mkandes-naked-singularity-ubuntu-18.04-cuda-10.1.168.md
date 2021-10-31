@@ -9,7 +9,7 @@ build_date: "2020-12-29T21:10:01.406Z"
 size_mb: 8806.0
 size: 3750625311
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/ubuntu-18.04-cuda-10.1.168/2020-12-29-00af6ad4-c800f8a7/c800f8a7bfe264b5f9dfc75bd4a4b998.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/ubuntu-18.04-cuda-10.1.168/2020-12-29-00af6ad4-c800f8a7/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/ubuntu-18.04-cuda-10.1.168/2020-12-29-00af6ad4-c800f8a7/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/ubuntu-18.04-cuda-10.1.168/2020-12-29-00af6ad4-c800f8a7/Singularity
 collection: mkandes/naked-singularity
 ---

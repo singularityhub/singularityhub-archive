@@ -9,7 +9,7 @@ build_date: "2020-05-14T20:58:09.402Z"
 size_mb: 3125.0
 size: 1581420575
 sif: "https://datasets.datalad.org/shub/TimerChen/tensorflow1.4_singularity/latest/2020-05-14-5200bfc1-1fc0acce/1fc0acce7407349b2d6c2b736bbef98b.sif"
-url: https://datasets.datalad.org/shub/TimerChen/tensorflow1.4_singularity/latest/2020-05-14-5200bfc1-1fc0acce/
+datalad_url: https://datasets.datalad.org?dir=/shub/TimerChen/tensorflow1.4_singularity/latest/2020-05-14-5200bfc1-1fc0acce/
 recipe: https://datasets.datalad.org/shub/TimerChen/tensorflow1.4_singularity/latest/2020-05-14-5200bfc1-1fc0acce/Singularity
 collection: TimerChen/tensorflow1.4_singularity
 ---

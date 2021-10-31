@@ -9,7 +9,7 @@ build_date: "2020-11-11T10:19:32.548Z"
 size_mb: 48
 size: 13975583
 sif: "https://datasets.datalad.org/shub/verysure/postgres-alpine/latest/2020-11-11-690aa138-9e3a57b7/9e3a57b75a647832a94b77a62c3f7f5d.simg"
-url: https://datasets.datalad.org/shub/verysure/postgres-alpine/latest/2020-11-11-690aa138-9e3a57b7/
+datalad_url: https://datasets.datalad.org?dir=/shub/verysure/postgres-alpine/latest/2020-11-11-690aa138-9e3a57b7/
 recipe: https://datasets.datalad.org/shub/verysure/postgres-alpine/latest/2020-11-11-690aa138-9e3a57b7/Singularity
 collection: verysure/postgres-alpine
 ---

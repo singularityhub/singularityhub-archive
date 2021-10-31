@@ -9,7 +9,7 @@ build_date: "2021-02-18T01:37:53.782Z"
 size_mb: 1586
 size: 482050079
 sif: "https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/rstudio/2021-02-18-9ea93f0c-6bf1ee44/6bf1ee4454554f4d79e83ff6f15467af.simg"
-url: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/rstudio/2021-02-18-9ea93f0c-6bf1ee44/
+datalad_url: https://datasets.datalad.org?dir=/shub/NIH-HPC/singularity-examples/rstudio/2021-02-18-9ea93f0c-6bf1ee44/
 recipe: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/rstudio/2021-02-18-9ea93f0c-6bf1ee44/Singularity
 collection: NIH-HPC/singularity-examples
 ---

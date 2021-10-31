@@ -9,7 +9,7 @@ build_date: "2017-12-07T15:25:40.569Z"
 size_mb: 131
 size: 46370847
 sif: "https://datasets.datalad.org/shub/corinnebosley/singularity-recipes/travis_0/2017-12-07-18243031-3034a6af/3034a6af33ad9bf66f831757cee1c5e1.simg"
-url: https://datasets.datalad.org/shub/corinnebosley/singularity-recipes/travis_0/2017-12-07-18243031-3034a6af/
+datalad_url: https://datasets.datalad.org?dir=/shub/corinnebosley/singularity-recipes/travis_0/2017-12-07-18243031-3034a6af/
 recipe: https://datasets.datalad.org/shub/corinnebosley/singularity-recipes/travis_0/2017-12-07-18243031-3034a6af/Singularity
 collection: corinnebosley/singularity-recipes
 ---

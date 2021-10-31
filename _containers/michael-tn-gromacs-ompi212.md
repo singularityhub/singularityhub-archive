@@ -9,7 +9,7 @@ build_date: "2017-10-23T13:06:41.837Z"
 size_mb: 1260
 size: 435408927
 sif: "https://datasets.datalad.org/shub/michael-tn/gromacs/ompi212/2017-10-23-0f279d1b-63d96d34/63d96d3429412123815a98534065c244.simg"
-url: https://datasets.datalad.org/shub/michael-tn/gromacs/ompi212/2017-10-23-0f279d1b-63d96d34/
+datalad_url: https://datasets.datalad.org?dir=/shub/michael-tn/gromacs/ompi212/2017-10-23-0f279d1b-63d96d34/
 recipe: https://datasets.datalad.org/shub/michael-tn/gromacs/ompi212/2017-10-23-0f279d1b-63d96d34/Singularity
 collection: michael-tn/gromacs
 ---

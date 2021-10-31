@@ -9,7 +9,7 @@ build_date: "2021-02-01T07:31:59.018Z"
 size_mb: 578.42578125
 size: 606523392
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/tailfindr/2021-02-01-2b68de00-4e9484e0/4e9484e005b6d90e31129ed6a1ec7b7892d1402d0e964ca457948c3ca4a44e93.sif"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/tailfindr/2021-02-01-2b68de00-4e9484e0/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/tailfindr/2021-02-01-2b68de00-4e9484e0/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/tailfindr/2021-02-01-2b68de00-4e9484e0/Singularity
 collection: dominik-handler/AP_singu
 ---

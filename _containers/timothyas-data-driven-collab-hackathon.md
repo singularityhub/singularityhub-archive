@@ -9,7 +9,7 @@ build_date: "2021-02-11T02:48:38.847Z"
 size_mb: 9346.0
 size: 4420952095
 sif: "https://datasets.datalad.org/shub/timothyas/data-driven-collab/hackathon/2021-02-11-9ba52434-7e9588d4/7e9588d40626d771e656e3ba90fd84c7.sif"
-url: https://datasets.datalad.org/shub/timothyas/data-driven-collab/hackathon/2021-02-11-9ba52434-7e9588d4/
+datalad_url: https://datasets.datalad.org?dir=/shub/timothyas/data-driven-collab/hackathon/2021-02-11-9ba52434-7e9588d4/
 recipe: https://datasets.datalad.org/shub/timothyas/data-driven-collab/hackathon/2021-02-11-9ba52434-7e9588d4/Singularity
 collection: timothyas/data-driven-collab
 ---

@@ -9,7 +9,7 @@ build_date: "2019-05-17T08:23:24.804Z"
 size_mb: 1106
 size: 485363743
 sif: "https://datasets.datalad.org/shub/darachm/safepy/latest/2019-05-17-5fb64469-cba5e499/cba5e4993800a46701fc318533ea45e9.simg"
-url: https://datasets.datalad.org/shub/darachm/safepy/latest/2019-05-17-5fb64469-cba5e499/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/safepy/latest/2019-05-17-5fb64469-cba5e499/
 recipe: https://datasets.datalad.org/shub/darachm/safepy/latest/2019-05-17-5fb64469-cba5e499/Singularity
 collection: darachm/safepy
 ---

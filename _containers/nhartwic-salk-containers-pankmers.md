@@ -9,7 +9,7 @@ build_date: "2020-08-20T01:19:19.334Z"
 size_mb: 834.0
 size: 287367199
 sif: "https://datasets.datalad.org/shub/nhartwic/salk-containers/pankmers/2020-08-20-908810ad-93d648aa/93d648aa2648fffe589a50a05787abe5.sif"
-url: https://datasets.datalad.org/shub/nhartwic/salk-containers/pankmers/2020-08-20-908810ad-93d648aa/
+datalad_url: https://datasets.datalad.org?dir=/shub/nhartwic/salk-containers/pankmers/2020-08-20-908810ad-93d648aa/
 recipe: https://datasets.datalad.org/shub/nhartwic/salk-containers/pankmers/2020-08-20-908810ad-93d648aa/Singularity
 collection: nhartwic/salk-containers
 ---

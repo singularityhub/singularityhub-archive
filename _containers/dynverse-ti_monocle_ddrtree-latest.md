@@ -9,7 +9,7 @@ build_date: "2020-10-15T05:31:44.262Z"
 size_mb: 2200
 size: 867360799
 sif: "https://datasets.datalad.org/shub/dynverse/ti_monocle_ddrtree/latest/2020-10-15-f7bbd226-25614931/256149311da3e01bfe93b1261cd8ba95.simg"
-url: https://datasets.datalad.org/shub/dynverse/ti_monocle_ddrtree/latest/2020-10-15-f7bbd226-25614931/
+datalad_url: https://datasets.datalad.org?dir=/shub/dynverse/ti_monocle_ddrtree/latest/2020-10-15-f7bbd226-25614931/
 recipe: https://datasets.datalad.org/shub/dynverse/ti_monocle_ddrtree/latest/2020-10-15-f7bbd226-25614931/Singularity
 collection: dynverse/ti_monocle_ddrtree
 ---

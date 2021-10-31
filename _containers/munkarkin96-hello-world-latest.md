@@ -9,7 +9,7 @@ build_date: "2019-09-12T13:55:56.927Z"
 size_mb: 197.0
 size: 62652447
 sif: "https://datasets.datalad.org/shub/munkarkin96/hello-world/latest/2019-09-12-3bac21df-023bdb22/023bdb2224558aa420747f1b3ab92658.sif"
-url: https://datasets.datalad.org/shub/munkarkin96/hello-world/latest/2019-09-12-3bac21df-023bdb22/
+datalad_url: https://datasets.datalad.org?dir=/shub/munkarkin96/hello-world/latest/2019-09-12-3bac21df-023bdb22/
 recipe: https://datasets.datalad.org/shub/munkarkin96/hello-world/latest/2019-09-12-3bac21df-023bdb22/Singularity
 collection: munkarkin96/hello-world
 ---

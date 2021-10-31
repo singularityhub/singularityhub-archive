@@ -9,7 +9,7 @@ build_date: "2019-10-18T09:41:01.623Z"
 size_mb: 2267
 size: 743755807
 sif: "https://datasets.datalad.org/shub/iferres/Singularity_recipes/pirate/2019-10-18-8fc6b3a2-ac7b35bb/ac7b35bb79506de66a3f06e3a3acb5d7.simg"
-url: https://datasets.datalad.org/shub/iferres/Singularity_recipes/pirate/2019-10-18-8fc6b3a2-ac7b35bb/
+datalad_url: https://datasets.datalad.org?dir=/shub/iferres/Singularity_recipes/pirate/2019-10-18-8fc6b3a2-ac7b35bb/
 recipe: https://datasets.datalad.org/shub/iferres/Singularity_recipes/pirate/2019-10-18-8fc6b3a2-ac7b35bb/Singularity
 collection: iferres/Singularity_recipes
 ---

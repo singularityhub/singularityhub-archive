@@ -9,7 +9,7 @@ build_date: "2019-04-23T09:14:03.177Z"
 size_mb: 2666
 size: 849702943
 sif: "https://datasets.datalad.org/shub/marchoeppner/miRNApipe/latest/2019-04-23-40fd14d3-f090ced1/f090ced1802251ab9b9d8313375a7e7d.simg"
-url: https://datasets.datalad.org/shub/marchoeppner/miRNApipe/latest/2019-04-23-40fd14d3-f090ced1/
+datalad_url: https://datasets.datalad.org?dir=/shub/marchoeppner/miRNApipe/latest/2019-04-23-40fd14d3-f090ced1/
 recipe: https://datasets.datalad.org/shub/marchoeppner/miRNApipe/latest/2019-04-23-40fd14d3-f090ced1/Singularity
 collection: marchoeppner/miRNApipe
 ---

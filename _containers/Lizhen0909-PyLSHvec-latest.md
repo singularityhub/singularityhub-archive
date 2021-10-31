@@ -9,7 +9,7 @@ build_date: "2019-11-04T15:47:43.280Z"
 size_mb: 1883.0
 size: 771170335
 sif: "https://datasets.datalad.org/shub/Lizhen0909/PyLSHvec/latest/2019-11-04-362e7f41-0dd02a2e/0dd02a2effdb0398fd0c3dd0fc36d706.sif"
-url: https://datasets.datalad.org/shub/Lizhen0909/PyLSHvec/latest/2019-11-04-362e7f41-0dd02a2e/
+datalad_url: https://datasets.datalad.org?dir=/shub/Lizhen0909/PyLSHvec/latest/2019-11-04-362e7f41-0dd02a2e/
 recipe: https://datasets.datalad.org/shub/Lizhen0909/PyLSHvec/latest/2019-11-04-362e7f41-0dd02a2e/Singularity
 collection: Lizhen0909/PyLSHvec
 ---

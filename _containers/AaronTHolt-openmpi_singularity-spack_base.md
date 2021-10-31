@@ -9,7 +9,7 @@ build_date: "2019-09-04T22:45:12.462Z"
 size_mb: 1020
 size: 356454431
 sif: "https://datasets.datalad.org/shub/AaronTHolt/openmpi_singularity/spack_base/2019-09-04-48d237a2-15ca18f6/15ca18f67d757affb30358a307bc9c53.simg"
-url: https://datasets.datalad.org/shub/AaronTHolt/openmpi_singularity/spack_base/2019-09-04-48d237a2-15ca18f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/AaronTHolt/openmpi_singularity/spack_base/2019-09-04-48d237a2-15ca18f6/
 recipe: https://datasets.datalad.org/shub/AaronTHolt/openmpi_singularity/spack_base/2019-09-04-48d237a2-15ca18f6/Singularity
 collection: AaronTHolt/openmpi_singularity
 ---

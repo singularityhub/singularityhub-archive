@@ -9,7 +9,7 @@ build_date: "2019-02-07T19:57:01.397Z"
 size_mb: 1437
 size: 520237087
 sif: "https://datasets.datalad.org/shub/connor-lab/singularity-recipes/shiver_init/2019-02-07-b688e900-35d4521c/35d4521cd4351cdc5076db0155873080.simg"
-url: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/shiver_init/2019-02-07-b688e900-35d4521c/
+datalad_url: https://datasets.datalad.org?dir=/shub/connor-lab/singularity-recipes/shiver_init/2019-02-07-b688e900-35d4521c/
 recipe: https://datasets.datalad.org/shub/connor-lab/singularity-recipes/shiver_init/2019-02-07-b688e900-35d4521c/Singularity
 collection: connor-lab/singularity-recipes
 ---

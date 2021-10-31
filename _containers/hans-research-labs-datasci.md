@@ -9,7 +9,7 @@ build_date: "2019-02-18T05:30:07.027Z"
 size_mb: 7206
 size: 2338701343
 sif: "https://datasets.datalad.org/shub/hans/research-labs/datasci/2019-02-18-d09f7d97-3b222331/3b222331fc41cfa2ed27df2bf1ede760.simg"
-url: https://datasets.datalad.org/shub/hans/research-labs/datasci/2019-02-18-d09f7d97-3b222331/
+datalad_url: https://datasets.datalad.org?dir=/shub/hans/research-labs/datasci/2019-02-18-d09f7d97-3b222331/
 recipe: https://datasets.datalad.org/shub/hans/research-labs/datasci/2019-02-18-d09f7d97-3b222331/Singularity
 collection: hans/research-labs
 ---

@@ -9,7 +9,7 @@ build_date: "2021-02-26T12:35:05.157Z"
 size_mb: 2865
 size: 1713102879
 sif: "https://datasets.datalad.org/shub/colinsauze/xkcd1425-with-yolo/gpu/2021-02-26-9b02ee88-65aa03e5/65aa03e551e1aadd8cc5cb14fa305568.simg"
-url: https://datasets.datalad.org/shub/colinsauze/xkcd1425-with-yolo/gpu/2021-02-26-9b02ee88-65aa03e5/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinsauze/xkcd1425-with-yolo/gpu/2021-02-26-9b02ee88-65aa03e5/
 recipe: https://datasets.datalad.org/shub/colinsauze/xkcd1425-with-yolo/gpu/2021-02-26-9b02ee88-65aa03e5/Singularity
 collection: colinsauze/xkcd1425-with-yolo
 ---

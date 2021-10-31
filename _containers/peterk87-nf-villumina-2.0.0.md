@@ -9,7 +9,7 @@ build_date: "2021-04-14T20:33:19.955Z"
 size_mb: 2938.0
 size: 1016655903
 sif: "https://datasets.datalad.org/shub/peterk87/nf-villumina/2.0.0/2021-04-14-6d117236-440d203b/440d203bc467a33ef9cbaa932621be02.sif"
-url: https://datasets.datalad.org/shub/peterk87/nf-villumina/2.0.0/2021-04-14-6d117236-440d203b/
+datalad_url: https://datasets.datalad.org?dir=/shub/peterk87/nf-villumina/2.0.0/2021-04-14-6d117236-440d203b/
 recipe: https://datasets.datalad.org/shub/peterk87/nf-villumina/2.0.0/2021-04-14-6d117236-440d203b/Singularity
 collection: peterk87/nf-villumina
 ---

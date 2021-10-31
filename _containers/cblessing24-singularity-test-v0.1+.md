@@ -9,7 +9,7 @@ build_date: "2020-12-08T16:13:48.656Z"
 size_mb: 93.32421875
 size: 97857536
 sif: "https://datasets.datalad.org/shub/cblessing24/singularity-test/v0.1+/2020-12-08-9e1c9666-1a9ecf7b/1a9ecf7be79a9d6cab8bc10f609692f94295ee5f812896740433cbcf16dc8713.sif"
-url: https://datasets.datalad.org/shub/cblessing24/singularity-test/v0.1+/2020-12-08-9e1c9666-1a9ecf7b/
+datalad_url: https://datasets.datalad.org?dir=/shub/cblessing24/singularity-test/v0.1+/2020-12-08-9e1c9666-1a9ecf7b/
 recipe: https://datasets.datalad.org/shub/cblessing24/singularity-test/v0.1+/2020-12-08-9e1c9666-1a9ecf7b/Singularity
 collection: cblessing24/singularity-test
 ---

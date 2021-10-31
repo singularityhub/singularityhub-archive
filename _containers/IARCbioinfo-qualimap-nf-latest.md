@@ -9,7 +9,7 @@ build_date: "2018-10-25T18:55:05.207Z"
 size_mb: 2694
 size: 870916127
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/qualimap-nf/latest/2018-10-25-f1055316-b3d13256/b3d13256e3a0111163b78e6f8d16371f.simg"
-url: https://datasets.datalad.org/shub/IARCbioinfo/qualimap-nf/latest/2018-10-25-f1055316-b3d13256/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/qualimap-nf/latest/2018-10-25-f1055316-b3d13256/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/qualimap-nf/latest/2018-10-25-f1055316-b3d13256/Singularity
 collection: IARCbioinfo/Qualimap-nf
 ---

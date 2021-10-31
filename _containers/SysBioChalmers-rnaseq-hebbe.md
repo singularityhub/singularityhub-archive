@@ -9,7 +9,7 @@ build_date: "2019-12-13T16:41:22.231Z"
 size_mb: 3342
 size: 1072554015
 sif: "https://datasets.datalad.org/shub/SysBioChalmers/rnaseq/hebbe/2019-12-13-aa871ae1-8830c7a2/8830c7a29a61f255c5afadcccd99680d.simg"
-url: https://datasets.datalad.org/shub/SysBioChalmers/rnaseq/hebbe/2019-12-13-aa871ae1-8830c7a2/
+datalad_url: https://datasets.datalad.org?dir=/shub/SysBioChalmers/rnaseq/hebbe/2019-12-13-aa871ae1-8830c7a2/
 recipe: https://datasets.datalad.org/shub/SysBioChalmers/rnaseq/hebbe/2019-12-13-aa871ae1-8830c7a2/Singularity
 collection: SysBioChalmers/rnaseq
 ---

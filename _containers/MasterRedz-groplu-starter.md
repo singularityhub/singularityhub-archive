@@ -9,7 +9,7 @@ build_date: "2019-11-15T16:35:05.678Z"
 size_mb: 3891.0
 size: 1961066527
 sif: "https://datasets.datalad.org/shub/MasterRedz/groplu/starter/2019-11-15-dbeb9829-4f1de143/4f1de1434229fa096a720ac1f0b1e554.sif"
-url: https://datasets.datalad.org/shub/MasterRedz/groplu/starter/2019-11-15-dbeb9829-4f1de143/
+datalad_url: https://datasets.datalad.org?dir=/shub/MasterRedz/groplu/starter/2019-11-15-dbeb9829-4f1de143/
 recipe: https://datasets.datalad.org/shub/MasterRedz/groplu/starter/2019-11-15-dbeb9829-4f1de143/Singularity
 collection: MasterRedz/groplu
 ---

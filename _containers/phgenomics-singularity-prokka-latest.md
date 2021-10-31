@@ -9,7 +9,7 @@ build_date: "2020-04-22T22:43:09.248Z"
 size_mb: 3175.0
 size: 1523933215
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/prokka/latest/2020-04-22-0dfd1f88-bb32f2b5/bb32f2b56bc23adc224e53b0c46a1378.sif"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/prokka/latest/2020-04-22-0dfd1f88-bb32f2b5/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/prokka/latest/2020-04-22-0dfd1f88-bb32f2b5/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/prokka/latest/2020-04-22-0dfd1f88-bb32f2b5/Singularity
 collection: phgenomics-singularity/prokka
 ---

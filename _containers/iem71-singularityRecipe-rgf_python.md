@@ -9,7 +9,7 @@ build_date: "2019-05-19T19:13:25.835Z"
 size_mb: None
 size: 394895391
 sif: "https://datasets.datalad.org/shub/iem71/singularityRecipe/rgf_python/2019-05-19-870053a6-38c360a0/38c360a00bf3c36103744c5f4ffe3513.simg"
-url: https://datasets.datalad.org/shub/iem71/singularityRecipe/rgf_python/2019-05-19-870053a6-38c360a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/iem71/singularityRecipe/rgf_python/2019-05-19-870053a6-38c360a0/
 recipe: https://datasets.datalad.org/shub/iem71/singularityRecipe/rgf_python/2019-05-19-870053a6-38c360a0/Singularity
 collection: iem71/singularityRecipe
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-20T14:05:44.068Z"
 size_mb: 633.0
 size: 232063007
 sif: "https://datasets.datalad.org/shub/Cloud-PG/CachingOnDemand_singularity/latest/2019-11-20-18dda78d-467d8bde/467d8bdee2df64edc822f50ded501504.sif"
-url: https://datasets.datalad.org/shub/Cloud-PG/CachingOnDemand_singularity/latest/2019-11-20-18dda78d-467d8bde/
+datalad_url: https://datasets.datalad.org?dir=/shub/Cloud-PG/CachingOnDemand_singularity/latest/2019-11-20-18dda78d-467d8bde/
 recipe: https://datasets.datalad.org/shub/Cloud-PG/CachingOnDemand_singularity/latest/2019-11-20-18dda78d-467d8bde/Singularity
 collection: Cloud-PG/CachingOnDemand_singularity
 ---

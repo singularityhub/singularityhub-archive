@@ -9,7 +9,7 @@ build_date: "2021-01-21T19:07:29.375Z"
 size_mb: 1083.0
 size: 391266335
 sif: "https://datasets.datalad.org/shub/haeriamin/singularity-ubuntu/1804mpm/2021-01-21-116e1272-26b783da/26b783dadb5116999af7d3cf874f1e17.sif"
-url: https://datasets.datalad.org/shub/haeriamin/singularity-ubuntu/1804mpm/2021-01-21-116e1272-26b783da/
+datalad_url: https://datasets.datalad.org?dir=/shub/haeriamin/singularity-ubuntu/1804mpm/2021-01-21-116e1272-26b783da/
 recipe: https://datasets.datalad.org/shub/haeriamin/singularity-ubuntu/1804mpm/2021-01-21-116e1272-26b783da/Singularity
 collection: haeriamin/singularity-ubuntu
 ---

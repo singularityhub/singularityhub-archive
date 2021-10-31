@@ -9,7 +9,7 @@ build_date: "2021-04-12T09:03:07.573Z"
 size_mb: 1539.01171875
 size: 1613770752
 sif: "https://datasets.datalad.org/shub/dcgc-bfx/dcgc-jupyter-rstudio/0.2.1/2021-04-12-ebbfaca2-8b3e0c1b/8b3e0c1b68444938bb1d732d20309994b3d20b1acd48b3302c3a0f50220f84e2.sif"
-url: https://datasets.datalad.org/shub/dcgc-bfx/dcgc-jupyter-rstudio/0.2.1/2021-04-12-ebbfaca2-8b3e0c1b/
+datalad_url: https://datasets.datalad.org?dir=/shub/dcgc-bfx/dcgc-jupyter-rstudio/0.2.1/2021-04-12-ebbfaca2-8b3e0c1b/
 recipe: https://datasets.datalad.org/shub/dcgc-bfx/dcgc-jupyter-rstudio/0.2.1/2021-04-12-ebbfaca2-8b3e0c1b/Singularity
 collection: dcgc-bfx/dcgc-jupyter-rstudio
 ---

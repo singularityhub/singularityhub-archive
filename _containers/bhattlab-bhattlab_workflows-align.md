@@ -9,7 +9,7 @@ build_date: "2020-01-24T23:05:15.446Z"
 size_mb: 731
 size: 301707295
 sif: "https://datasets.datalad.org/shub/bhattlab/bhattlab_workflows/align/2020-01-24-c04c1e48-e2a9f73a/e2a9f73a872f9eddc5b69ee562f9da4a.simg"
-url: https://datasets.datalad.org/shub/bhattlab/bhattlab_workflows/align/2020-01-24-c04c1e48-e2a9f73a/
+datalad_url: https://datasets.datalad.org?dir=/shub/bhattlab/bhattlab_workflows/align/2020-01-24-c04c1e48-e2a9f73a/
 recipe: https://datasets.datalad.org/shub/bhattlab/bhattlab_workflows/align/2020-01-24-c04c1e48-e2a9f73a/Singularity
 collection: bhattlab/bhattlab_workflows
 ---

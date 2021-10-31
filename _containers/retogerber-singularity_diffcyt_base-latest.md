@@ -9,7 +9,7 @@ build_date: "2021-03-31T05:44:39.524Z"
 size_mb: 1490.3359375
 size: 1562730496
 sif: "https://datasets.datalad.org/shub/retogerber/singularity_diffcyt_base/latest/2021-03-31-c4fc1d74-044337a4/044337a4fb1c123a4cf5bc98e5a00efc1abaa213c4c9f92451bd2ced84f265f7.sif"
-url: https://datasets.datalad.org/shub/retogerber/singularity_diffcyt_base/latest/2021-03-31-c4fc1d74-044337a4/
+datalad_url: https://datasets.datalad.org?dir=/shub/retogerber/singularity_diffcyt_base/latest/2021-03-31-c4fc1d74-044337a4/
 recipe: https://datasets.datalad.org/shub/retogerber/singularity_diffcyt_base/latest/2021-03-31-c4fc1d74-044337a4/Singularity
 collection: retogerber/singularity_diffcyt_base
 ---

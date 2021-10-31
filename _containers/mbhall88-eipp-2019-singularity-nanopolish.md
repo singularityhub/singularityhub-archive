@@ -9,7 +9,7 @@ build_date: "2019-11-07T14:57:34.386Z"
 size_mb: 1299.0
 size: 472522783
 sif: "https://datasets.datalad.org/shub/mbhall88/eipp-2019-singularity/nanopolish/2019-11-07-2229e96d-b2e7828c/b2e7828c973787b40626ec5535fb5d77.sif"
-url: https://datasets.datalad.org/shub/mbhall88/eipp-2019-singularity/nanopolish/2019-11-07-2229e96d-b2e7828c/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/eipp-2019-singularity/nanopolish/2019-11-07-2229e96d-b2e7828c/
 recipe: https://datasets.datalad.org/shub/mbhall88/eipp-2019-singularity/nanopolish/2019-11-07-2229e96d-b2e7828c/Singularity
 collection: mbhall88/eipp-2019-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-06T23:27:32.600Z"
 size_mb: 1181.85546875
 size: 1239265280
 sif: "https://datasets.datalad.org/shub/TomHarrop/assembly-utils/agb_a41ac9e/2020-01-06-5b93de9a-bef51300/bef51300ada63f4fc887cd27145a646378f19151d6c729141823c6fb5304c24e.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/agb_a41ac9e/2020-01-06-5b93de9a-bef51300/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assembly-utils/agb_a41ac9e/2020-01-06-5b93de9a-bef51300/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/agb_a41ac9e/2020-01-06-5b93de9a-bef51300/Singularity
 collection: TomHarrop/assembly-utils
 ---

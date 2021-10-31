@@ -9,7 +9,7 @@ build_date: "2021-03-10T11:54:44.493Z"
 size_mb: 4850.0
 size: 2331738143
 sif: "https://datasets.datalad.org/shub/yfchenShirley/Mjtf-test/latest/2021-03-10-b627d6c1-362cab23/362cab23d116966f2992d557f0637c74.sif"
-url: https://datasets.datalad.org/shub/yfchenShirley/Mjtf-test/latest/2021-03-10-b627d6c1-362cab23/
+datalad_url: https://datasets.datalad.org?dir=/shub/yfchenShirley/Mjtf-test/latest/2021-03-10-b627d6c1-362cab23/
 recipe: https://datasets.datalad.org/shub/yfchenShirley/Mjtf-test/latest/2021-03-10-b627d6c1-362cab23/Singularity
 collection: yfchenShirley/Mjtf-test
 ---

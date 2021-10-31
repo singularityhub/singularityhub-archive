@@ -9,7 +9,7 @@ build_date: "2018-08-29T00:42:04.233Z"
 size_mb: 14639
 size: 5888499743
 sif: "https://datasets.datalad.org/shub/khanlab/neuroglia-core/v1.4/2018-08-29-3215da23-779dcb4b/779dcb4b2c6218cb2ba4dadb528be386.simg"
-url: https://datasets.datalad.org/shub/khanlab/neuroglia-core/v1.4/2018-08-29-3215da23-779dcb4b/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/neuroglia-core/v1.4/2018-08-29-3215da23-779dcb4b/
 recipe: https://datasets.datalad.org/shub/khanlab/neuroglia-core/v1.4/2018-08-29-3215da23-779dcb4b/Singularity
 collection: khanlab/neuroglia-core
 ---

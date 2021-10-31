@@ -9,7 +9,7 @@ build_date: "2020-12-11T05:50:41.177Z"
 size_mb: 99.26171875
 size: 104083456
 sif: "https://datasets.datalad.org/shub/oogasawa/singularity-nodejs/latest/2020-12-11-7d666e41-1bb36352/1bb36352a6daa32a4c142daf9973cffd34c88d59fd8531f707ad69056453eead.sif"
-url: https://datasets.datalad.org/shub/oogasawa/singularity-nodejs/latest/2020-12-11-7d666e41-1bb36352/
+datalad_url: https://datasets.datalad.org?dir=/shub/oogasawa/singularity-nodejs/latest/2020-12-11-7d666e41-1bb36352/
 recipe: https://datasets.datalad.org/shub/oogasawa/singularity-nodejs/latest/2020-12-11-7d666e41-1bb36352/Singularity
 collection: oogasawa/singularity-nodejs
 ---

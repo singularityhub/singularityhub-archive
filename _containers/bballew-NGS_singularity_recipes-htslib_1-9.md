@@ -9,7 +9,7 @@ build_date: "2019-04-02T14:29:35.863Z"
 size_mb: 1010
 size: 321712159
 sif: "https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/htslib_1-9/2019-04-02-261b0ba2-b682c5dd/b682c5dda24d4a676e9a115f791e5411.simg"
-url: https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/htslib_1-9/2019-04-02-261b0ba2-b682c5dd/
+datalad_url: https://datasets.datalad.org?dir=/shub/bballew/NGS_singularity_recipes/htslib_1-9/2019-04-02-261b0ba2-b682c5dd/
 recipe: https://datasets.datalad.org/shub/bballew/NGS_singularity_recipes/htslib_1-9/2019-04-02-261b0ba2-b682c5dd/Singularity
 collection: bballew/NGS_singularity_recipes
 ---

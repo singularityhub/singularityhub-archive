@@ -9,7 +9,7 @@ build_date: "2020-03-03T12:51:21.002Z"
 size_mb: 1511
 size: 894365727
 sif: "https://datasets.datalad.org/shub/s-andrews/singularityconda/latest/2020-03-03-e6ee3d8f-ee9a0391/ee9a03912ccc380a7610faa7daa85abd.simg"
-url: https://datasets.datalad.org/shub/s-andrews/singularityconda/latest/2020-03-03-e6ee3d8f-ee9a0391/
+datalad_url: https://datasets.datalad.org?dir=/shub/s-andrews/singularityconda/latest/2020-03-03-e6ee3d8f-ee9a0391/
 recipe: https://datasets.datalad.org/shub/s-andrews/singularityconda/latest/2020-03-03-e6ee3d8f-ee9a0391/Singularity
 collection: s-andrews/singularityconda
 ---

@@ -9,7 +9,7 @@ build_date: "2020-04-20T11:37:13.970Z"
 size_mb: 3035.0
 size: 2058342431
 sif: "https://datasets.datalad.org/shub/manvari/dockerhub-d2l-cu102/latest/2020-04-20-8b84e185-c3d7e950/c3d7e950d81bcab0dab95918d64f9fef.sif"
-url: https://datasets.datalad.org/shub/manvari/dockerhub-d2l-cu102/latest/2020-04-20-8b84e185-c3d7e950/
+datalad_url: https://datasets.datalad.org?dir=/shub/manvari/dockerhub-d2l-cu102/latest/2020-04-20-8b84e185-c3d7e950/
 recipe: https://datasets.datalad.org/shub/manvari/dockerhub-d2l-cu102/latest/2020-04-20-8b84e185-c3d7e950/Singularity
 collection: manvari/dockerhub-d2l-cu102
 ---

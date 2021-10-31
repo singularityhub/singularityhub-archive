@@ -9,7 +9,7 @@ build_date: "2019-12-12T16:45:18.115Z"
 size_mb: 4424.0
 size: 1272598559
 sif: "https://datasets.datalad.org/shub/asarmakeeva/computational-case/xenial/2019-12-12-a4068643-d2caf448/d2caf448ac1ad643d1133775a888d392.sif"
-url: https://datasets.datalad.org/shub/asarmakeeva/computational-case/xenial/2019-12-12-a4068643-d2caf448/
+datalad_url: https://datasets.datalad.org?dir=/shub/asarmakeeva/computational-case/xenial/2019-12-12-a4068643-d2caf448/
 recipe: https://datasets.datalad.org/shub/asarmakeeva/computational-case/xenial/2019-12-12-a4068643-d2caf448/Singularity
 collection: asarmakeeva/computational-case
 ---

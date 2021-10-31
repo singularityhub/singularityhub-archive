@@ -9,7 +9,7 @@ build_date: "2020-12-05T20:59:56.874Z"
 size_mb: 1847.0
 size: 876453919
 sif: "https://datasets.datalad.org/shub/motroy/singularity-nanosim-h/latest/2020-12-05-9d7e32b2-862940da/862940daef45d1f03ec1abdb30c60f89.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-nanosim-h/latest/2020-12-05-9d7e32b2-862940da/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-nanosim-h/latest/2020-12-05-9d7e32b2-862940da/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-nanosim-h/latest/2020-12-05-9d7e32b2-862940da/Singularity
 collection: motroy/singularity-nanosim-h
 ---

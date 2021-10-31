@@ -9,7 +9,7 @@ build_date: "2018-05-10T14:15:21.691Z"
 size_mb: 2409
 size: 802148383
 sif: "https://datasets.datalad.org/shub/ISU-HPC/plasflow/latest/2018-05-10-bcf9b899-95c620ce/95c620ceae632ce2094deff5f3d74ec0.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/plasflow/latest/2018-05-10-bcf9b899-95c620ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/plasflow/latest/2018-05-10-bcf9b899-95c620ce/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/plasflow/latest/2018-05-10-bcf9b899-95c620ce/Singularity
 collection: ISU-HPC/plasflow
 ---

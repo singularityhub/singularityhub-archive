@@ -9,7 +9,7 @@ build_date: "2020-08-13T21:08:59.313Z"
 size_mb: 4305.0
 size: 2060156959
 sif: "https://datasets.datalad.org/shub/baxpr/sct-singularity/v3.3.1/2020-08-13-9c1d95cc-d25b7fd2/d25b7fd2d1d3098672405cdcbd3865e6.sif"
-url: https://datasets.datalad.org/shub/baxpr/sct-singularity/v3.3.1/2020-08-13-9c1d95cc-d25b7fd2/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/sct-singularity/v3.3.1/2020-08-13-9c1d95cc-d25b7fd2/
 recipe: https://datasets.datalad.org/shub/baxpr/sct-singularity/v3.3.1/2020-08-13-9c1d95cc-d25b7fd2/Singularity
 collection: baxpr/sct-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.089Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/cgirardot/singularity_training/fun/2019-02-27-9460aedc-63654c2b/63654c2b9069fb4bf60b2211678eba29.simg"
-url: https://datasets.datalad.org/shub/cgirardot/singularity_training/fun/2019-02-27-9460aedc-63654c2b/
+datalad_url: https://datasets.datalad.org?dir=/shub/cgirardot/singularity_training/fun/2019-02-27-9460aedc-63654c2b/
 recipe: https://datasets.datalad.org/shub/cgirardot/singularity_training/fun/2019-02-27-9460aedc-63654c2b/Singularity
 collection: cgirardot/singularity_training
 ---

@@ -9,7 +9,7 @@ build_date: "2018-10-07T18:30:41.818Z"
 size_mb: 384
 size: 158109727
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-debian9-ffmpeg/latest/2018-10-07-bb5573b2-7e19ed60/7e19ed60984f5b405f6863dd21aa8c1c.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-debian9-ffmpeg/latest/2018-10-07-bb5573b2-7e19ed60/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-docker-debian9-ffmpeg/latest/2018-10-07-bb5573b2-7e19ed60/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-debian9-ffmpeg/latest/2018-10-07-bb5573b2-7e19ed60/Singularity
 collection: truatpasteurdotfr/singularity-docker-debian9-ffmpeg
 ---

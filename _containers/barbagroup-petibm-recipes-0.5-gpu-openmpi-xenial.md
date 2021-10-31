@@ -9,7 +9,7 @@ build_date: "2020-01-27T21:12:26.370Z"
 size_mb: 2123.0
 size: 964468767
 sif: "https://datasets.datalad.org/shub/barbagroup/petibm-recipes/0.5-gpu-openmpi-xenial/2020-01-27-7145e463-eb477165/eb4771650cd2531f956c29a0b958676b.sif"
-url: https://datasets.datalad.org/shub/barbagroup/petibm-recipes/0.5-gpu-openmpi-xenial/2020-01-27-7145e463-eb477165/
+datalad_url: https://datasets.datalad.org?dir=/shub/barbagroup/petibm-recipes/0.5-gpu-openmpi-xenial/2020-01-27-7145e463-eb477165/
 recipe: https://datasets.datalad.org/shub/barbagroup/petibm-recipes/0.5-gpu-openmpi-xenial/2020-01-27-7145e463-eb477165/Singularity
 collection: barbagroup/petibm-recipes
 ---

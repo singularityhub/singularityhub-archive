@@ -9,7 +9,7 @@ build_date: "2020-08-31T16:29:43.507Z"
 size_mb: 1221.0
 size: 445022239
 sif: "https://datasets.datalad.org/shub/datalad-tester/dev-containers/16.04.20200722.1/2020-08-31-e84cb3c9-1fac6c0a/1fac6c0adf0db8106a34044c2d6f90a7.sif"
-url: https://datasets.datalad.org/shub/datalad-tester/dev-containers/16.04.20200722.1/2020-08-31-e84cb3c9-1fac6c0a/
+datalad_url: https://datasets.datalad.org?dir=/shub/datalad-tester/dev-containers/16.04.20200722.1/2020-08-31-e84cb3c9-1fac6c0a/
 recipe: https://datasets.datalad.org/shub/datalad-tester/dev-containers/16.04.20200722.1/2020-08-31-e84cb3c9-1fac6c0a/Singularity
 collection: datalad-tester/dev-containers
 ---

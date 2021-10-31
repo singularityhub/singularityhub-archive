@@ -9,7 +9,7 @@ build_date: "2018-01-19T22:16:26.617Z"
 size_mb: 12034
 size: 4271353887
 sif: "https://datasets.datalad.org/shub/mppmu/gedet-base/latest/2018-01-19-e34c0aa9-2f44d7fb/2f44d7fba6541666562550f7853908c1.simg"
-url: https://datasets.datalad.org/shub/mppmu/gedet-base/latest/2018-01-19-e34c0aa9-2f44d7fb/
+datalad_url: https://datasets.datalad.org?dir=/shub/mppmu/gedet-base/latest/2018-01-19-e34c0aa9-2f44d7fb/
 recipe: https://datasets.datalad.org/shub/mppmu/gedet-base/latest/2018-01-19-e34c0aa9-2f44d7fb/Singularity
 collection: mppmu/gedet-base
 ---

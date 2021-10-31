@@ -9,7 +9,7 @@ build_date: "2021-03-24T18:22:32.585Z"
 size_mb: 5845.0
 size: 2686771231
 sif: "https://datasets.datalad.org/shub/xiyaojin/singularity/tf2p4_addons/2021-03-24-2afd4d38-39e989e7/39e989e769da4f8e93f1e23c10d589ca.sif"
-url: https://datasets.datalad.org/shub/xiyaojin/singularity/tf2p4_addons/2021-03-24-2afd4d38-39e989e7/
+datalad_url: https://datasets.datalad.org?dir=/shub/xiyaojin/singularity/tf2p4_addons/2021-03-24-2afd4d38-39e989e7/
 recipe: https://datasets.datalad.org/shub/xiyaojin/singularity/tf2p4_addons/2021-03-24-2afd4d38-39e989e7/Singularity
 collection: xiyaojin/singularity
 ---

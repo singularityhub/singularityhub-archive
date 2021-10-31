@@ -9,7 +9,7 @@ build_date: "2020-06-08T21:59:49.379Z"
 size_mb: 1197.0
 size: 488914975
 sif: "https://datasets.datalad.org/shub/powerPlant/getorganelle-srf/v1.6.2e/2020-06-08-71ab3157-90d07f18/90d07f1810ebd13dcf870d5ad977f466.sif"
-url: https://datasets.datalad.org/shub/powerPlant/getorganelle-srf/v1.6.2e/2020-06-08-71ab3157-90d07f18/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/getorganelle-srf/v1.6.2e/2020-06-08-71ab3157-90d07f18/
 recipe: https://datasets.datalad.org/shub/powerPlant/getorganelle-srf/v1.6.2e/2020-06-08-71ab3157-90d07f18/Singularity
 collection: powerPlant/getorganelle-srf
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-20T14:33:53.589Z"
 size_mb: 8619
 size: 4057042975
 sif: "https://datasets.datalad.org/shub/hiaoxui/marcc-pytorch/latest/2019-11-20-0aad269a-a47b2069/a47b20695e53f85931f48fbf326abd84.simg"
-url: https://datasets.datalad.org/shub/hiaoxui/marcc-pytorch/latest/2019-11-20-0aad269a-a47b2069/
+datalad_url: https://datasets.datalad.org?dir=/shub/hiaoxui/marcc-pytorch/latest/2019-11-20-0aad269a-a47b2069/
 recipe: https://datasets.datalad.org/shub/hiaoxui/marcc-pytorch/latest/2019-11-20-0aad269a-a47b2069/Singularity
 collection: hiaoxui/marcc-pytorch
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-17T01:21:30.313Z"
 size_mb: 1302
 size: 361222175
 sif: "https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/tensorflow/2019-11-17-2ccdc4a3-f141ff10/f141ff10195c8e27d6b2491c8584b0d7.simg"
-url: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/tensorflow/2019-11-17-2ccdc4a3-f141ff10/
+datalad_url: https://datasets.datalad.org?dir=/shub/NIH-HPC/singularity-examples/tensorflow/2019-11-17-2ccdc4a3-f141ff10/
 recipe: https://datasets.datalad.org/shub/NIH-HPC/singularity-examples/tensorflow/2019-11-17-2ccdc4a3-f141ff10/Singularity
 collection: NIH-HPC/singularity-examples
 ---

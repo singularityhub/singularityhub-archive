@@ -9,7 +9,7 @@ build_date: "2019-05-29T03:17:47.664Z"
 size_mb: 3840
 size: 1719283743
 sif: "https://datasets.datalad.org/shub/ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE/omic_qc_wf/2019-05-29-1c6a1d8a-314558c4/314558c49dd92fdbfe2e32705b8cc588.simg"
-url: https://datasets.datalad.org/shub/ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE/omic_qc_wf/2019-05-29-1c6a1d8a-314558c4/
+datalad_url: https://datasets.datalad.org?dir=/shub/ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE/omic_qc_wf/2019-05-29-1c6a1d8a-314558c4/
 recipe: https://datasets.datalad.org/shub/ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE/omic_qc_wf/2019-05-29-1c6a1d8a-314558c4/Singularity
 collection: ohsu-cedar-comp-hub/Bulk-RNA-seq-pipeline-SE
 ---

@@ -9,7 +9,7 @@ build_date: "2018-07-31T15:32:55.891Z"
 size_mb: 1604
 size: 616747039
 sif: "https://datasets.datalad.org/shub/idot/Singularity_recipes/nanoporeqc/2018-07-31-015ef587-b5561060/b5561060dd1c1c90737ac6b0cd0b3f98.simg"
-url: https://datasets.datalad.org/shub/idot/Singularity_recipes/nanoporeqc/2018-07-31-015ef587-b5561060/
+datalad_url: https://datasets.datalad.org?dir=/shub/idot/Singularity_recipes/nanoporeqc/2018-07-31-015ef587-b5561060/
 recipe: https://datasets.datalad.org/shub/idot/Singularity_recipes/nanoporeqc/2018-07-31-015ef587-b5561060/Singularity
 collection: idot/Singularity_recipes
 ---

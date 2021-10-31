@@ -9,7 +9,7 @@ build_date: "2019-01-09T15:39:53.455Z"
 size_mb: 760
 size: 260857887
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/krakenuniq/2019-01-09-d76b3062-c9cacb07/c9cacb07202e873d68f324837c8baa01.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/krakenuniq/2019-01-09-d76b3062-c9cacb07/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/krakenuniq/2019-01-09-d76b3062-c9cacb07/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/krakenuniq/2019-01-09-d76b3062-c9cacb07/Singularity
 collection: mbhall88/Singularity_recipes
 ---

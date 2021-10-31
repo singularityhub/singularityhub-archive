@@ -9,7 +9,7 @@ build_date: "2019-10-21T08:55:43.194Z"
 size_mb: 1228
 size: 486961183
 sif: "https://datasets.datalad.org/shub/iqbal-lab-org/Mykrobe_tb_workflow/tb/2019-10-21-aa75d26c-8426a588/8426a58819db4f0ce3de5f999c3843da.simg"
-url: https://datasets.datalad.org/shub/iqbal-lab-org/Mykrobe_tb_workflow/tb/2019-10-21-aa75d26c-8426a588/
+datalad_url: https://datasets.datalad.org?dir=/shub/iqbal-lab-org/Mykrobe_tb_workflow/tb/2019-10-21-aa75d26c-8426a588/
 recipe: https://datasets.datalad.org/shub/iqbal-lab-org/Mykrobe_tb_workflow/tb/2019-10-21-aa75d26c-8426a588/Singularity
 collection: iqbal-lab-org/Mykrobe_tb_workflow
 ---

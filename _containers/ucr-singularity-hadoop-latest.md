@@ -9,7 +9,7 @@ build_date: "2019-11-07T13:47:10.472Z"
 size_mb: 2793.0
 size: 1768382495
 sif: "https://datasets.datalad.org/shub/ucr-singularity/hadoop/latest/2019-11-07-99352c32-1dd07d6d/1dd07d6dc7d67d3e32534fa4ee583eb4.sif"
-url: https://datasets.datalad.org/shub/ucr-singularity/hadoop/latest/2019-11-07-99352c32-1dd07d6d/
+datalad_url: https://datasets.datalad.org?dir=/shub/ucr-singularity/hadoop/latest/2019-11-07-99352c32-1dd07d6d/
 recipe: https://datasets.datalad.org/shub/ucr-singularity/hadoop/latest/2019-11-07-99352c32-1dd07d6d/Singularity
 collection: ucr-singularity/hadoop
 ---

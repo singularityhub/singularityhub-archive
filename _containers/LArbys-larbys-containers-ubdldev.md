@@ -9,7 +9,7 @@ build_date: "2019-03-13T03:34:54.636Z"
 size_mb: 10837
 size: 4729229343
 sif: "https://datasets.datalad.org/shub/LArbys/larbys-containers/ubdldev/2019-03-13-94f99842-fdbaaa42/fdbaaa429957d0a313f5a64ea5446961.simg"
-url: https://datasets.datalad.org/shub/LArbys/larbys-containers/ubdldev/2019-03-13-94f99842-fdbaaa42/
+datalad_url: https://datasets.datalad.org?dir=/shub/LArbys/larbys-containers/ubdldev/2019-03-13-94f99842-fdbaaa42/
 recipe: https://datasets.datalad.org/shub/LArbys/larbys-containers/ubdldev/2019-03-13-94f99842-fdbaaa42/Singularity
 collection: LArbys/larbys-containers
 ---

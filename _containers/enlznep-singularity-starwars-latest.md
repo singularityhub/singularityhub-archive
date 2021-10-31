@@ -9,7 +9,7 @@ build_date: "2018-11-20T15:05:18.710Z"
 size_mb: 99
 size: 45961247
 sif: "https://datasets.datalad.org/shub/enlznep/singularity-starwars/latest/2018-11-20-ea95f10b-1a41b555/1a41b555732c219e0f2063ca67fc2c53.simg"
-url: https://datasets.datalad.org/shub/enlznep/singularity-starwars/latest/2018-11-20-ea95f10b-1a41b555/
+datalad_url: https://datasets.datalad.org?dir=/shub/enlznep/singularity-starwars/latest/2018-11-20-ea95f10b-1a41b555/
 recipe: https://datasets.datalad.org/shub/enlznep/singularity-starwars/latest/2018-11-20-ea95f10b-1a41b555/Singularity
 collection: enlznep/singularity-starwars
 ---

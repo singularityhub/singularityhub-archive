@@ -9,7 +9,7 @@ build_date: "2020-07-04T01:35:48.273Z"
 size_mb: 3205
 size: 1616760863
 sif: "https://datasets.datalad.org/shub/gapicare/tensorflow-gpu/latest/2020-07-04-29d73c22-741202a3/741202a3517bc29ad1baf80133f78d09.simg"
-url: https://datasets.datalad.org/shub/gapicare/tensorflow-gpu/latest/2020-07-04-29d73c22-741202a3/
+datalad_url: https://datasets.datalad.org?dir=/shub/gapicare/tensorflow-gpu/latest/2020-07-04-29d73c22-741202a3/
 recipe: https://datasets.datalad.org/shub/gapicare/tensorflow-gpu/latest/2020-07-04-29d73c22-741202a3/Singularity
 collection: gapicare/tensorflow
 ---

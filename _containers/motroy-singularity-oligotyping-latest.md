@@ -9,7 +9,7 @@ build_date: "2020-08-20T07:38:06.227Z"
 size_mb: 3149.0
 size: 1322545183
 sif: "https://datasets.datalad.org/shub/motroy/singularity-oligotyping/latest/2020-08-20-765479d1-f4136f17/f4136f17581309a21b28604ab47d0561.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-oligotyping/latest/2020-08-20-765479d1-f4136f17/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-oligotyping/latest/2020-08-20-765479d1-f4136f17/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-oligotyping/latest/2020-08-20-765479d1-f4136f17/Singularity
 collection: motroy/singularity-oligotyping
 ---

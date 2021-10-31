@@ -9,7 +9,7 @@ build_date: "2020-12-21T05:14:18.015Z"
 size_mb: 911
 size: 321073183
 sif: "https://datasets.datalad.org/shub/pescobar/singularity-pymol/latest/2020-12-21-7237b844-d3307a92/d3307a92d1c0dcd0c9cedb9d924c78f5.simg"
-url: https://datasets.datalad.org/shub/pescobar/singularity-pymol/latest/2020-12-21-7237b844-d3307a92/
+datalad_url: https://datasets.datalad.org?dir=/shub/pescobar/singularity-pymol/latest/2020-12-21-7237b844-d3307a92/
 recipe: https://datasets.datalad.org/shub/pescobar/singularity-pymol/latest/2020-12-21-7237b844-d3307a92/Singularity
 collection: pescobar/singularity-pymol
 ---

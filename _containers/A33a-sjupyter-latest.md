@@ -9,7 +9,7 @@ build_date: "2021-03-23T18:21:29.610Z"
 size_mb: 1026
 size: 429924383
 sif: "https://datasets.datalad.org/shub/A33a/sjupyter/latest/2021-03-23-003e5de0-f357c1fa/f357c1faf705417d57b8faaa49bd37cc.simg"
-url: https://datasets.datalad.org/shub/A33a/sjupyter/latest/2021-03-23-003e5de0-f357c1fa/
+datalad_url: https://datasets.datalad.org?dir=/shub/A33a/sjupyter/latest/2021-03-23-003e5de0-f357c1fa/
 recipe: https://datasets.datalad.org/shub/A33a/sjupyter/latest/2021-03-23-003e5de0-f357c1fa/Singularity
 collection: A33a/sjupyter
 ---

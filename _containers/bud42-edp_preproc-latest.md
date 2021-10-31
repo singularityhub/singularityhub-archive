@@ -9,7 +9,7 @@ build_date: "2021-01-20T03:30:13.621Z"
 size_mb: 1759.875
 size: 1845362688
 sif: "https://datasets.datalad.org/shub/bud42/edp_preproc/latest/2021-01-20-9bf30aa4-bbdd5f6d/bbdd5f6d881683c39a4c6dd0d39c03586c846943f70e0e29da52a54ecb260e8b.sif"
-url: https://datasets.datalad.org/shub/bud42/edp_preproc/latest/2021-01-20-9bf30aa4-bbdd5f6d/
+datalad_url: https://datasets.datalad.org?dir=/shub/bud42/edp_preproc/latest/2021-01-20-9bf30aa4-bbdd5f6d/
 recipe: https://datasets.datalad.org/shub/bud42/edp_preproc/latest/2021-01-20-9bf30aa4-bbdd5f6d/Singularity
 collection: bud42/edp_preproc
 ---

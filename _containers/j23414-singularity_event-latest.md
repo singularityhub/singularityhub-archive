@@ -9,7 +9,7 @@ build_date: "2020-10-12T18:59:50.452Z"
 size_mb: 219.0
 size: 85463071
 sif: "https://datasets.datalad.org/shub/j23414/singularity_event/latest/2020-10-12-66580316-44d1a34a/44d1a34a8767c8583ddf44f078478048.sif"
-url: https://datasets.datalad.org/shub/j23414/singularity_event/latest/2020-10-12-66580316-44d1a34a/
+datalad_url: https://datasets.datalad.org?dir=/shub/j23414/singularity_event/latest/2020-10-12-66580316-44d1a34a/
 recipe: https://datasets.datalad.org/shub/j23414/singularity_event/latest/2020-10-12-66580316-44d1a34a/Singularity
 collection: j23414/singularity_event
 ---

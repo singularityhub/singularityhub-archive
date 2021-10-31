@@ -9,7 +9,7 @@ build_date: "2020-02-01T10:44:33.181Z"
 size_mb: 156.546875
 size: 164151296
 sif: "https://datasets.datalad.org/shub/bohumir/ph5py/latest/2020-02-01-a7983166-793859d9/793859d9c2f64464dd018015cc954a734de6fb6eb4a87feef029ecc171a649dd.sif"
-url: https://datasets.datalad.org/shub/bohumir/ph5py/latest/2020-02-01-a7983166-793859d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/bohumir/ph5py/latest/2020-02-01-a7983166-793859d9/
 recipe: https://datasets.datalad.org/shub/bohumir/ph5py/latest/2020-02-01-a7983166-793859d9/Singularity
 collection: bohumir/ph5py
 ---

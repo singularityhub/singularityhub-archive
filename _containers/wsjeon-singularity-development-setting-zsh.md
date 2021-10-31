@@ -9,7 +9,7 @@ build_date: "2020-01-15T04:43:51.784Z"
 size_mb: 3522
 size: 1759768607
 sif: "https://datasets.datalad.org/shub/wsjeon/singularity-development-setting/zsh/2020-01-15-7259e543-d65a1182/d65a1182240c19c04a5a7941d399d5b1.simg"
-url: https://datasets.datalad.org/shub/wsjeon/singularity-development-setting/zsh/2020-01-15-7259e543-d65a1182/
+datalad_url: https://datasets.datalad.org?dir=/shub/wsjeon/singularity-development-setting/zsh/2020-01-15-7259e543-d65a1182/
 recipe: https://datasets.datalad.org/shub/wsjeon/singularity-development-setting/zsh/2020-01-15-7259e543-d65a1182/Singularity
 collection: wsjeon/singularity-development-setting
 ---

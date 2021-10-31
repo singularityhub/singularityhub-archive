@@ -9,7 +9,7 @@ build_date: "2020-08-30T16:48:42.885Z"
 size_mb: 1000.0
 size: 448507935
 sif: "https://datasets.datalad.org/shub/Viktor1117/StrawberryTest/latest/2020-08-30-b719d01e-fbdd369b/fbdd369b142b5cea84e235bdfe7aef7d.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/StrawberryTest/latest/2020-08-30-b719d01e-fbdd369b/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/StrawberryTest/latest/2020-08-30-b719d01e-fbdd369b/
 recipe: https://datasets.datalad.org/shub/Viktor1117/StrawberryTest/latest/2020-08-30-b719d01e-fbdd369b/Singularity
 collection: Viktor1117/StrawberryTest
 ---

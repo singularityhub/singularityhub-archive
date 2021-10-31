@@ -9,7 +9,7 @@ build_date: "2019-04-17T02:51:00.593Z"
 size_mb: 454
 size: 150052895
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/flye_2.4/2019-04-17-8a78de7b-5174c30a/5174c30af44ac8cb9adc989c51680aca.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/flye_2.4/2019-04-17-8a78de7b-5174c30a/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/flye_2.4/2019-04-17-8a78de7b-5174c30a/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/flye_2.4/2019-04-17-8a78de7b-5174c30a/Singularity
 collection: TomHarrop/singularity-containers
 ---

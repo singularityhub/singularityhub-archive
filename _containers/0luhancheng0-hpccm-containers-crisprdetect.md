@@ -9,7 +9,7 @@ build_date: "2021-03-10T03:56:36.901Z"
 size_mb: 1462.0
 size: 423411743
 sif: "https://datasets.datalad.org/shub/0luhancheng0/hpccm-containers/crisprdetect/2021-03-10-ebc40bf1-59888cf7/59888cf7132fb41587a3a3fa250b3a54.sif"
-url: https://datasets.datalad.org/shub/0luhancheng0/hpccm-containers/crisprdetect/2021-03-10-ebc40bf1-59888cf7/
+datalad_url: https://datasets.datalad.org?dir=/shub/0luhancheng0/hpccm-containers/crisprdetect/2021-03-10-ebc40bf1-59888cf7/
 recipe: https://datasets.datalad.org/shub/0luhancheng0/hpccm-containers/crisprdetect/2021-03-10-ebc40bf1-59888cf7/Singularity
 collection: 0luhancheng0/hpccm-containers
 ---

@@ -9,7 +9,7 @@ build_date: "2020-08-12T20:49:29.205Z"
 size_mb: 1257
 size: 365920287
 sif: "https://datasets.datalad.org/shub/nickjer/singularity-rstudio/3.4.4/2020-08-12-67056e57-97502464/97502464fb28db1e2392e3398d1738f3.simg"
-url: https://datasets.datalad.org/shub/nickjer/singularity-rstudio/3.4.4/2020-08-12-67056e57-97502464/
+datalad_url: https://datasets.datalad.org?dir=/shub/nickjer/singularity-rstudio/3.4.4/2020-08-12-67056e57-97502464/
 recipe: https://datasets.datalad.org/shub/nickjer/singularity-rstudio/3.4.4/2020-08-12-67056e57-97502464/Singularity
 collection: nickjer/singularity-rstudio
 ---

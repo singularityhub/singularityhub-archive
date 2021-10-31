@@ -9,7 +9,7 @@ build_date: "2019-10-23T07:25:44.776Z"
 size_mb: 931.0
 size: 331124767
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/bwakit-0.7.15/2019-10-23-3a02674d-69786e21/69786e210152ee3d2a3743551d3d257c.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/bwakit-0.7.15/2019-10-23-3a02674d-69786e21/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/bwakit-0.7.15/2019-10-23-3a02674d-69786e21/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/bwakit-0.7.15/2019-10-23-3a02674d-69786e21/Singularity
 collection: Clinical-Genomics/MIP
 ---

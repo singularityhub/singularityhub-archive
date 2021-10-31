@@ -9,7 +9,7 @@ build_date: "2021-01-29T18:50:00.812Z"
 size_mb: 4343.0
 size: 1989836831
 sif: "https://datasets.datalad.org/shub/mani3/tensorflow-gpu-py3-singularity/latest/2021-01-29-4adf9a13-4348feb9/4348feb9ead9285cf101e474ee7bf861.sif"
-url: https://datasets.datalad.org/shub/mani3/tensorflow-gpu-py3-singularity/latest/2021-01-29-4adf9a13-4348feb9/
+datalad_url: https://datasets.datalad.org?dir=/shub/mani3/tensorflow-gpu-py3-singularity/latest/2021-01-29-4adf9a13-4348feb9/
 recipe: https://datasets.datalad.org/shub/mani3/tensorflow-gpu-py3-singularity/latest/2021-01-29-4adf9a13-4348feb9/Singularity
 collection: mani3/tensorflow-gpu-py3-singularity
 ---

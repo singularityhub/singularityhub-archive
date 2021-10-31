@@ -9,7 +9,7 @@ build_date: "2017-12-08T23:25:34.509Z"
 size_mb: 2939
 size: 1066979359
 sif: "https://datasets.datalad.org/shub/joshbcohen/migec_vdjtools_singularity/latest/2017-12-08-0872a981-d42ab637/d42ab6371fd8eb0a02a912b0336c1587.simg"
-url: https://datasets.datalad.org/shub/joshbcohen/migec_vdjtools_singularity/latest/2017-12-08-0872a981-d42ab637/
+datalad_url: https://datasets.datalad.org?dir=/shub/joshbcohen/migec_vdjtools_singularity/latest/2017-12-08-0872a981-d42ab637/
 recipe: https://datasets.datalad.org/shub/joshbcohen/migec_vdjtools_singularity/latest/2017-12-08-0872a981-d42ab637/Singularity
 collection: joshbcohen/migec_vdjtools_singularity
 ---

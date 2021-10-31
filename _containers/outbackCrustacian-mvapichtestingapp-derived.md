@@ -9,7 +9,7 @@ build_date: "2020-04-25T05:34:10.086Z"
 size_mb: 875
 size: 255963167
 sif: "https://datasets.datalad.org/shub/outbackCrustacian/mvapichtestingapp/derived/2020-04-25-d5bc739e-efaafc39/efaafc392a2aaa1ddc5013b654db3486.simg"
-url: https://datasets.datalad.org/shub/outbackCrustacian/mvapichtestingapp/derived/2020-04-25-d5bc739e-efaafc39/
+datalad_url: https://datasets.datalad.org?dir=/shub/outbackCrustacian/mvapichtestingapp/derived/2020-04-25-d5bc739e-efaafc39/
 recipe: https://datasets.datalad.org/shub/outbackCrustacian/mvapichtestingapp/derived/2020-04-25-d5bc739e-efaafc39/Singularity
 collection: outbackCrustacian/mvapichtestingapp
 ---

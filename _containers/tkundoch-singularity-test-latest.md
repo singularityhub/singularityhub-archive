@@ -9,7 +9,7 @@ build_date: "2018-06-13T15:01:49.161Z"
 size_mb: 190
 size: 81268767
 sif: "https://datasets.datalad.org/shub/tkundoch/singularity-test/latest/2018-06-13-9a49ba61-e978502a/e978502ad3f5b331fd84d2412b483d65.simg"
-url: https://datasets.datalad.org/shub/tkundoch/singularity-test/latest/2018-06-13-9a49ba61-e978502a/
+datalad_url: https://datasets.datalad.org?dir=/shub/tkundoch/singularity-test/latest/2018-06-13-9a49ba61-e978502a/
 recipe: https://datasets.datalad.org/shub/tkundoch/singularity-test/latest/2018-06-13-9a49ba61-e978502a/Singularity
 collection: tkundoch/singularity-test
 ---

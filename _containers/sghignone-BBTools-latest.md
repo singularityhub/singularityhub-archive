@@ -9,7 +9,7 @@ build_date: "2021-03-25T19:59:14.966Z"
 size_mb: 323.0
 size: 112119839
 sif: "https://datasets.datalad.org/shub/sghignone/BBTools/latest/2021-03-25-6047ccf7-242079d5/242079d57b057aa4115bf34f7394a9e7.sif"
-url: https://datasets.datalad.org/shub/sghignone/BBTools/latest/2021-03-25-6047ccf7-242079d5/
+datalad_url: https://datasets.datalad.org?dir=/shub/sghignone/BBTools/latest/2021-03-25-6047ccf7-242079d5/
 recipe: https://datasets.datalad.org/shub/sghignone/BBTools/latest/2021-03-25-6047ccf7-242079d5/Singularity
 collection: sghignone/BBTools
 ---

@@ -9,7 +9,7 @@ build_date: "2020-11-12T16:25:57.410Z"
 size_mb: 770.0
 size: 331079711
 sif: "https://datasets.datalad.org/shub/pwiszniewski/SingularityTest/latest/2020-11-12-36f3993c-d7d3d1e3/d7d3d1e3a5190c73aa44ca631379604c.sif"
-url: https://datasets.datalad.org/shub/pwiszniewski/SingularityTest/latest/2020-11-12-36f3993c-d7d3d1e3/
+datalad_url: https://datasets.datalad.org?dir=/shub/pwiszniewski/SingularityTest/latest/2020-11-12-36f3993c-d7d3d1e3/
 recipe: https://datasets.datalad.org/shub/pwiszniewski/SingularityTest/latest/2020-11-12-36f3993c-d7d3d1e3/Singularity
 collection: pwiszniewski/SingularityTest
 ---

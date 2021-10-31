@@ -9,7 +9,7 @@ build_date: "2020-05-13T04:41:27.131Z"
 size_mb: 4487.0
 size: 2347384863
 sif: "https://datasets.datalad.org/shub/ravi-0841/singularity-tensorflow-1.14/1.12.0-gpu/2020-05-13-5178a42e-35df7e92/35df7e926eee78eca23e04c0868c7789.sif"
-url: https://datasets.datalad.org/shub/ravi-0841/singularity-tensorflow-1.14/1.12.0-gpu/2020-05-13-5178a42e-35df7e92/
+datalad_url: https://datasets.datalad.org?dir=/shub/ravi-0841/singularity-tensorflow-1.14/1.12.0-gpu/2020-05-13-5178a42e-35df7e92/
 recipe: https://datasets.datalad.org/shub/ravi-0841/singularity-tensorflow-1.14/1.12.0-gpu/2020-05-13-5178a42e-35df7e92/Singularity
 collection: ravi-0841/singularity-tensorflow-1.14
 ---

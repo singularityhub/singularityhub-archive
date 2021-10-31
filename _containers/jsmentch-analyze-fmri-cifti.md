@@ -9,7 +9,7 @@ build_date: "2020-11-17T22:22:38.135Z"
 size_mb: 1910.0
 size: 586092575
 sif: "https://datasets.datalad.org/shub/jsmentch/analyze-fmri/cifti/2020-11-17-e9fe4344-4cd6708c/4cd6708c6ca50c95e3e75eed64773ae6.sif"
-url: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/cifti/2020-11-17-e9fe4344-4cd6708c/
+datalad_url: https://datasets.datalad.org?dir=/shub/jsmentch/analyze-fmri/cifti/2020-11-17-e9fe4344-4cd6708c/
 recipe: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/cifti/2020-11-17-e9fe4344-4cd6708c/Singularity
 collection: jsmentch/analyze-fmri
 ---

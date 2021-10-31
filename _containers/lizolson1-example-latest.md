@@ -9,7 +9,7 @@ build_date: "2020-02-18T01:35:35.875Z"
 size_mb: 15243.0
 size: 7752527903
 sif: "https://datasets.datalad.org/shub/lizolson1/example/latest/2020-02-18-7f0034d2-1df7d62b/1df7d62bd10f726b3534e86a7dfd050b.sif"
-url: https://datasets.datalad.org/shub/lizolson1/example/latest/2020-02-18-7f0034d2-1df7d62b/
+datalad_url: https://datasets.datalad.org?dir=/shub/lizolson1/example/latest/2020-02-18-7f0034d2-1df7d62b/
 recipe: https://datasets.datalad.org/shub/lizolson1/example/latest/2020-02-18-7f0034d2-1df7d62b/Singularity
 collection: lizolson1/example
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-07T05:40:26.440Z"
 size_mb: 7000
 size: 1663173457
 sif: "https://datasets.datalad.org/shub/YeoLab/eclip-dev/master/2020-03-07-4e087665-f85a9b0a/f85a9b0a45f3aaf02331cbefd8d5adac.img.gz"
-url: https://datasets.datalad.org/shub/YeoLab/eclip-dev/master/2020-03-07-4e087665-f85a9b0a/
+datalad_url: https://datasets.datalad.org?dir=/shub/YeoLab/eclip-dev/master/2020-03-07-4e087665-f85a9b0a/
 recipe: https://datasets.datalad.org/shub/YeoLab/eclip-dev/master/2020-03-07-4e087665-f85a9b0a/Singularity
 collection: YeoLab/eclip-dev
 ---

@@ -9,7 +9,7 @@ build_date: "2018-10-03T15:45:24.625Z"
 size_mb: None
 size: 1497460767
 sif: "https://datasets.datalad.org/shub/vllorens/ReAlMAP/latest/2018-10-03-7ef59cc2-207e5fc0/207e5fc0e596bae8d2f318e11cb05097.simg"
-url: https://datasets.datalad.org/shub/vllorens/ReAlMAP/latest/2018-10-03-7ef59cc2-207e5fc0/
+datalad_url: https://datasets.datalad.org?dir=/shub/vllorens/ReAlMAP/latest/2018-10-03-7ef59cc2-207e5fc0/
 recipe: https://datasets.datalad.org/shub/vllorens/ReAlMAP/latest/2018-10-03-7ef59cc2-207e5fc0/Singularity
 collection: vllorens/ReAlMAP
 ---

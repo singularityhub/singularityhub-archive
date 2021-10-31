@@ -9,7 +9,7 @@ build_date: "2021-02-17T17:51:14.540Z"
 size_mb: 1041.12890625
 size: 1091702784
 sif: "https://datasets.datalad.org/shub/Xentrics/jupyter-r-base/geo2rnaseq/2021-02-17-a864f7e6-8f0b9db6/8f0b9db640a3a3883c85ef425ee824a9aa75110550f244054dbfe75899ce6912.sif"
-url: https://datasets.datalad.org/shub/Xentrics/jupyter-r-base/geo2rnaseq/2021-02-17-a864f7e6-8f0b9db6/
+datalad_url: https://datasets.datalad.org?dir=/shub/Xentrics/jupyter-r-base/geo2rnaseq/2021-02-17-a864f7e6-8f0b9db6/
 recipe: https://datasets.datalad.org/shub/Xentrics/jupyter-r-base/geo2rnaseq/2021-02-17-a864f7e6-8f0b9db6/Singularity
 collection: Xentrics/jupyter-r-base
 ---

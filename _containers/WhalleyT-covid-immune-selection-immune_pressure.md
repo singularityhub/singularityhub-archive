@@ -9,7 +9,7 @@ build_date: "2020-10-30T14:14:17.411Z"
 size_mb: 1890.0
 size: 711696415
 sif: "https://datasets.datalad.org/shub/WhalleyT/covid-immune-selection/immune_pressure/2020-10-30-fa6367d5-ff31da1d/ff31da1d0c9ec1e7eae7e68ef49d01b4.sif"
-url: https://datasets.datalad.org/shub/WhalleyT/covid-immune-selection/immune_pressure/2020-10-30-fa6367d5-ff31da1d/
+datalad_url: https://datasets.datalad.org?dir=/shub/WhalleyT/covid-immune-selection/immune_pressure/2020-10-30-fa6367d5-ff31da1d/
 recipe: https://datasets.datalad.org/shub/WhalleyT/covid-immune-selection/immune_pressure/2020-10-30-fa6367d5-ff31da1d/Singularity
 collection: WhalleyT/covid-immune-selection
 ---

@@ -9,7 +9,7 @@ build_date: "2020-10-20T10:57:40.235Z"
 size_mb: 96.0
 size: 37068831
 sif: "https://datasets.datalad.org/shub/pernillaericsson/shub_testing/v0.2/2020-10-20-f2e6fe14-dc5a44a4/dc5a44a4de7d12657d77938722166e11.sif"
-url: https://datasets.datalad.org/shub/pernillaericsson/shub_testing/v0.2/2020-10-20-f2e6fe14-dc5a44a4/
+datalad_url: https://datasets.datalad.org?dir=/shub/pernillaericsson/shub_testing/v0.2/2020-10-20-f2e6fe14-dc5a44a4/
 recipe: https://datasets.datalad.org/shub/pernillaericsson/shub_testing/v0.2/2020-10-20-f2e6fe14-dc5a44a4/Singularity
 collection: pernillaericsson/shub_testing
 ---

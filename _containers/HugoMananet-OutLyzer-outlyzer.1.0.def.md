@@ -9,7 +9,7 @@ build_date: "2018-12-03T17:26:31.908Z"
 size_mb: 653
 size: 257019935
 sif: "https://datasets.datalad.org/shub/HugoMananet/OutLyzer/outlyzer.1.0.def/2018-12-03-f01fe8dd-2f4d7341/2f4d7341b222b38a704fe765e0df8b4c.simg"
-url: https://datasets.datalad.org/shub/HugoMananet/OutLyzer/outlyzer.1.0.def/2018-12-03-f01fe8dd-2f4d7341/
+datalad_url: https://datasets.datalad.org?dir=/shub/HugoMananet/OutLyzer/outlyzer.1.0.def/2018-12-03-f01fe8dd-2f4d7341/
 recipe: https://datasets.datalad.org/shub/HugoMananet/OutLyzer/outlyzer.1.0.def/2018-12-03-f01fe8dd-2f4d7341/Singularity
 collection: HugoMananet/OutLyzer
 ---

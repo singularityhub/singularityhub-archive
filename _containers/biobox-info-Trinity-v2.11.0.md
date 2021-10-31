@@ -9,7 +9,7 @@ build_date: "2020-09-15T11:51:49.443Z"
 size_mb: 2415.1171875
 size: 2532433920
 sif: "https://datasets.datalad.org/shub/biobox-info/Trinity/v2.11.0/2020-09-15-d0f11773-3e555bd0/3e555bd04bc2b07560edbf724ffe10a7924836a5abe608250b98c0b8976143a3.sif"
-url: https://datasets.datalad.org/shub/biobox-info/Trinity/v2.11.0/2020-09-15-d0f11773-3e555bd0/
+datalad_url: https://datasets.datalad.org?dir=/shub/biobox-info/Trinity/v2.11.0/2020-09-15-d0f11773-3e555bd0/
 recipe: https://datasets.datalad.org/shub/biobox-info/Trinity/v2.11.0/2020-09-15-d0f11773-3e555bd0/Singularity
 collection: biobox-info/Trinity
 ---

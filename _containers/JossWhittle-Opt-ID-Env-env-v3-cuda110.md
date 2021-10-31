@@ -9,7 +9,7 @@ build_date: "2020-12-14T16:59:53.897Z"
 size_mb: 382.41015625
 size: 400986112
 sif: "https://datasets.datalad.org/shub/JossWhittle/Opt-ID-Env/env-v3-cuda110/2020-12-14-21a7ef12-0c862c44/0c862c4493ad0f5594f03631024ce7e5039c5c097879a6d1da38dcdfa8f1af5a.sif"
-url: https://datasets.datalad.org/shub/JossWhittle/Opt-ID-Env/env-v3-cuda110/2020-12-14-21a7ef12-0c862c44/
+datalad_url: https://datasets.datalad.org?dir=/shub/JossWhittle/Opt-ID-Env/env-v3-cuda110/2020-12-14-21a7ef12-0c862c44/
 recipe: https://datasets.datalad.org/shub/JossWhittle/Opt-ID-Env/env-v3-cuda110/2020-12-14-21a7ef12-0c862c44/Singularity
 collection: JossWhittle/Opt-ID-Env
 ---

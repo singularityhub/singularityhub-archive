@@ -9,7 +9,7 @@ build_date: "2021-04-19T21:25:59.115Z"
 size_mb: 109.61328125
 size: 114937856
 sif: "https://datasets.datalad.org/shub/wkpalan/icommands-cyverse/latest/2021-04-19-8ceb6400-a29cba50/a29cba509af365fff79cee502fddabbca0f423eff45603054f07383f70645a1e.sif"
-url: https://datasets.datalad.org/shub/wkpalan/icommands-cyverse/latest/2021-04-19-8ceb6400-a29cba50/
+datalad_url: https://datasets.datalad.org?dir=/shub/wkpalan/icommands-cyverse/latest/2021-04-19-8ceb6400-a29cba50/
 recipe: https://datasets.datalad.org/shub/wkpalan/icommands-cyverse/latest/2021-04-19-8ceb6400-a29cba50/Singularity
 collection: wkpalan/icommands-cyverse
 ---

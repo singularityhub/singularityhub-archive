@@ -9,7 +9,7 @@ build_date: "2019-04-13T15:19:01.428Z"
 size_mb: 26058
 size: 10608197663
 sif: "https://datasets.datalad.org/shub/pndni/minc-ants-fsl-and-fs-container/1.1.0/2019-04-13-4cb310b5-0d9af245/0d9af245314d16533b1139ca757d8d5d.simg"
-url: https://datasets.datalad.org/shub/pndni/minc-ants-fsl-and-fs-container/1.1.0/2019-04-13-4cb310b5-0d9af245/
+datalad_url: https://datasets.datalad.org?dir=/shub/pndni/minc-ants-fsl-and-fs-container/1.1.0/2019-04-13-4cb310b5-0d9af245/
 recipe: https://datasets.datalad.org/shub/pndni/minc-ants-fsl-and-fs-container/1.1.0/2019-04-13-4cb310b5-0d9af245/Singularity
 collection: pndni/minc-ants-fsl-and-fs-container
 ---

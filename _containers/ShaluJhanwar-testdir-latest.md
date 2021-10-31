@@ -9,7 +9,7 @@ build_date: "2018-03-06T14:18:18.491Z"
 size_mb: 425
 size: 155488287
 sif: "https://datasets.datalad.org/shub/ShaluJhanwar/testdir/latest/2018-03-06-486a0a74-2d4df289/2d4df28981af79838718df8b61ac1b94.simg"
-url: https://datasets.datalad.org/shub/ShaluJhanwar/testdir/latest/2018-03-06-486a0a74-2d4df289/
+datalad_url: https://datasets.datalad.org?dir=/shub/ShaluJhanwar/testdir/latest/2018-03-06-486a0a74-2d4df289/
 recipe: https://datasets.datalad.org/shub/ShaluJhanwar/testdir/latest/2018-03-06-486a0a74-2d4df289/Singularity
 collection: ShaluJhanwar/testdir
 ---

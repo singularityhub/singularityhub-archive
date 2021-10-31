@@ -9,7 +9,7 @@ build_date: "2018-11-22T17:35:50.388Z"
 size_mb: 12174
 size: 5599535135
 sif: "https://datasets.datalad.org/shub/Xaniar87/Docker_to_Singularity/latest/2018-11-22-5487302b-5f6071a4/5f6071a40fdeee63b17a3ed60b5560d3.simg"
-url: https://datasets.datalad.org/shub/Xaniar87/Docker_to_Singularity/latest/2018-11-22-5487302b-5f6071a4/
+datalad_url: https://datasets.datalad.org?dir=/shub/Xaniar87/Docker_to_Singularity/latest/2018-11-22-5487302b-5f6071a4/
 recipe: https://datasets.datalad.org/shub/Xaniar87/Docker_to_Singularity/latest/2018-11-22-5487302b-5f6071a4/Singularity
 collection: Xaniar87/Docker_to_Singularity
 ---

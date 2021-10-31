@@ -9,7 +9,7 @@ build_date: "2019-03-06T12:46:34.155Z"
 size_mb: 621
 size: 208908319
 sif: "https://datasets.datalad.org/shub/mxmlnkn/shub-containers/lbann-no-gpu/2019-03-06-cb4516bd-e0ce4be2/e0ce4be23adc189e625d1a59f8c32a38.simg"
-url: https://datasets.datalad.org/shub/mxmlnkn/shub-containers/lbann-no-gpu/2019-03-06-cb4516bd-e0ce4be2/
+datalad_url: https://datasets.datalad.org?dir=/shub/mxmlnkn/shub-containers/lbann-no-gpu/2019-03-06-cb4516bd-e0ce4be2/
 recipe: https://datasets.datalad.org/shub/mxmlnkn/shub-containers/lbann-no-gpu/2019-03-06-cb4516bd-e0ce4be2/Singularity
 collection: mxmlnkn/shub-containers
 ---

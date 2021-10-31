@@ -9,7 +9,7 @@ build_date: "2021-03-24T12:20:02.301Z"
 size_mb: 1997.0
 size: 710324255
 sif: "https://datasets.datalad.org/shub/jmurga/bgd-pic/abcmk/2021-03-24-4fba2c3f-96acb1d0/96acb1d05f260de06c824f2a7d60fab3.sif"
-url: https://datasets.datalad.org/shub/jmurga/bgd-pic/abcmk/2021-03-24-4fba2c3f-96acb1d0/
+datalad_url: https://datasets.datalad.org?dir=/shub/jmurga/bgd-pic/abcmk/2021-03-24-4fba2c3f-96acb1d0/
 recipe: https://datasets.datalad.org/shub/jmurga/bgd-pic/abcmk/2021-03-24-4fba2c3f-96acb1d0/Singularity
 collection: jmurga/bgd-pic
 ---

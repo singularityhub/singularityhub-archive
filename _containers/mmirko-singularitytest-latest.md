@@ -9,7 +9,7 @@ build_date: "2020-11-13T09:05:14.487Z"
 size_mb: 894.0
 size: 311746591
 sif: "https://datasets.datalad.org/shub/mmirko/singularitytest/latest/2020-11-13-03795cae-bee52426/bee52426f17e5a77ce870ddc78582d6f.sif"
-url: https://datasets.datalad.org/shub/mmirko/singularitytest/latest/2020-11-13-03795cae-bee52426/
+datalad_url: https://datasets.datalad.org?dir=/shub/mmirko/singularitytest/latest/2020-11-13-03795cae-bee52426/
 recipe: https://datasets.datalad.org/shub/mmirko/singularitytest/latest/2020-11-13-03795cae-bee52426/Singularity
 collection: mmirko/singularitytest
 ---

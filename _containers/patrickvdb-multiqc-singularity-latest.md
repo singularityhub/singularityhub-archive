@@ -9,7 +9,7 @@ build_date: "2018-09-07T21:20:10.515Z"
 size_mb: 2102
 size: 916516895
 sif: "https://datasets.datalad.org/shub/patrickvdb/multiqc-singularity/latest/2018-09-07-c1f01c03-84ecb9cd/84ecb9cd74fcca0dbbaf4f4131d01dc1.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/multiqc-singularity/latest/2018-09-07-c1f01c03-84ecb9cd/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/multiqc-singularity/latest/2018-09-07-c1f01c03-84ecb9cd/
 recipe: https://datasets.datalad.org/shub/patrickvdb/multiqc-singularity/latest/2018-09-07-c1f01c03-84ecb9cd/Singularity
 collection: patrickvdb/multiqc-singularity
 ---

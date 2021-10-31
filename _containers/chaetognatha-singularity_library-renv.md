@@ -9,7 +9,7 @@ build_date: "2021-03-15T11:27:14.242Z"
 size_mb: 4166.0
 size: 1410461727
 sif: "https://datasets.datalad.org/shub/chaetognatha/singularity_library/renv/2021-03-15-fdba1d2c-fecaf668/fecaf6689618587e9d3f6ef42b2c08d0.sif"
-url: https://datasets.datalad.org/shub/chaetognatha/singularity_library/renv/2021-03-15-fdba1d2c-fecaf668/
+datalad_url: https://datasets.datalad.org?dir=/shub/chaetognatha/singularity_library/renv/2021-03-15-fdba1d2c-fecaf668/
 recipe: https://datasets.datalad.org/shub/chaetognatha/singularity_library/renv/2021-03-15-fdba1d2c-fecaf668/Singularity
 collection: chaetognatha/singularity_library
 ---

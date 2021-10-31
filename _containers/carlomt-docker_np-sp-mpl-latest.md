@@ -9,7 +9,7 @@ build_date: "2020-10-09T16:28:25.832Z"
 size_mb: 480.703125
 size: 504053760
 sif: "https://datasets.datalad.org/shub/carlomt/docker_np-sp-mpl/latest/2020-10-09-d3dd8d51-5a60e4e4/5a60e4e4c64bfea4f0a22911f542c721f3f6cab602a147fd1028b5d05ea7da22.sif"
-url: https://datasets.datalad.org/shub/carlomt/docker_np-sp-mpl/latest/2020-10-09-d3dd8d51-5a60e4e4/
+datalad_url: https://datasets.datalad.org?dir=/shub/carlomt/docker_np-sp-mpl/latest/2020-10-09-d3dd8d51-5a60e4e4/
 recipe: https://datasets.datalad.org/shub/carlomt/docker_np-sp-mpl/latest/2020-10-09-d3dd8d51-5a60e4e4/Singularity
 collection: carlomt/docker_np-sp-mpl
 ---

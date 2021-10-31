@@ -9,7 +9,7 @@ build_date: "2020-08-28T01:27:35.657Z"
 size_mb: 2064.48046875
 size: 2164764672
 sif: "https://datasets.datalad.org/shub/byrdsmyth/custom_highlights_baselines/custom_baselines.def/2020-08-28-365ba82b-8e4e0fd0/8e4e0fd0076bde777f016c5bed79e8db4f48e4faee114b21fc191975304f01a1.sif"
-url: https://datasets.datalad.org/shub/byrdsmyth/custom_highlights_baselines/custom_baselines.def/2020-08-28-365ba82b-8e4e0fd0/
+datalad_url: https://datasets.datalad.org?dir=/shub/byrdsmyth/custom_highlights_baselines/custom_baselines.def/2020-08-28-365ba82b-8e4e0fd0/
 recipe: https://datasets.datalad.org/shub/byrdsmyth/custom_highlights_baselines/custom_baselines.def/2020-08-28-365ba82b-8e4e0fd0/Singularity
 collection: byrdsmyth/custom_highlights_baselines
 ---

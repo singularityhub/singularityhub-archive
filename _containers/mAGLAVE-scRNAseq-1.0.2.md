@@ -9,7 +9,7 @@ build_date: "2021-02-18T11:02:11.478Z"
 size_mb: 2467.0
 size: 1097908255
 sif: "https://datasets.datalad.org/shub/mAGLAVE/scRNAseq/1.0.2/2021-02-18-f220a105-681180d4/681180d44f7ae834dd2e8fc00ee77695.sif"
-url: https://datasets.datalad.org/shub/mAGLAVE/scRNAseq/1.0.2/2021-02-18-f220a105-681180d4/
+datalad_url: https://datasets.datalad.org?dir=/shub/mAGLAVE/scRNAseq/1.0.2/2021-02-18-f220a105-681180d4/
 recipe: https://datasets.datalad.org/shub/mAGLAVE/scRNAseq/1.0.2/2021-02-18-f220a105-681180d4/Singularity
 collection: mAGLAVE/scRNAseq
 ---

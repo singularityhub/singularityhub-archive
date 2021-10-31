@@ -9,7 +9,7 @@ build_date: "2018-11-29T23:44:03.411Z"
 size_mb: 530
 size: 206848031
 sif: "https://datasets.datalad.org/shub/mcuma/build_container_on_shub/latest/2018-11-29-9c7fddce-7e390819/7e390819f120475d67b82e346a92d9d0.simg"
-url: https://datasets.datalad.org/shub/mcuma/build_container_on_shub/latest/2018-11-29-9c7fddce-7e390819/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcuma/build_container_on_shub/latest/2018-11-29-9c7fddce-7e390819/
 recipe: https://datasets.datalad.org/shub/mcuma/build_container_on_shub/latest/2018-11-29-9c7fddce-7e390819/Singularity
 collection: mcuma/build_container_on_shub
 ---

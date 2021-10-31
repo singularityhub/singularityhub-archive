@@ -9,7 +9,7 @@ build_date: "2019-06-16T11:06:35.442Z"
 size_mb: 5009
 size: 2614460447
 sif: "https://datasets.datalad.org/shub/llucifer97/openposeaci/rec/2019-06-16-e1413e9a-694d8771/694d87712021f8af136a22e3b3955dea.simg"
-url: https://datasets.datalad.org/shub/llucifer97/openposeaci/rec/2019-06-16-e1413e9a-694d8771/
+datalad_url: https://datasets.datalad.org?dir=/shub/llucifer97/openposeaci/rec/2019-06-16-e1413e9a-694d8771/
 recipe: https://datasets.datalad.org/shub/llucifer97/openposeaci/rec/2019-06-16-e1413e9a-694d8771/Singularity
 collection: llucifer97/openposeaci
 ---

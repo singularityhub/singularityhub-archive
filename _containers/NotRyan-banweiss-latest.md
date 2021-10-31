@@ -9,7 +9,7 @@ build_date: "2019-08-12T21:53:15.006Z"
 size_mb: 9114.0
 size: 4086824991
 sif: "https://datasets.datalad.org/shub/NotRyan/banweiss/latest/2019-08-12-9d6f7ca5-ad8e8c27/ad8e8c272bebbbb16b546baeac4b8a04.sif"
-url: https://datasets.datalad.org/shub/NotRyan/banweiss/latest/2019-08-12-9d6f7ca5-ad8e8c27/
+datalad_url: https://datasets.datalad.org?dir=/shub/NotRyan/banweiss/latest/2019-08-12-9d6f7ca5-ad8e8c27/
 recipe: https://datasets.datalad.org/shub/NotRyan/banweiss/latest/2019-08-12-9d6f7ca5-ad8e8c27/Singularity
 collection: NotRyan/banweiss
 ---

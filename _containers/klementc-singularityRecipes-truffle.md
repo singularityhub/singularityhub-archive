@@ -9,7 +9,7 @@ build_date: "2019-08-09T12:53:15.434Z"
 size_mb: 957.0
 size: 310284319
 sif: "https://datasets.datalad.org/shub/klementc/singularityRecipes/truffle/2019-08-09-fa914931-ea78469a/ea78469ab7fa2f964a332b9f25f70f27.sif"
-url: https://datasets.datalad.org/shub/klementc/singularityRecipes/truffle/2019-08-09-fa914931-ea78469a/
+datalad_url: https://datasets.datalad.org?dir=/shub/klementc/singularityRecipes/truffle/2019-08-09-fa914931-ea78469a/
 recipe: https://datasets.datalad.org/shub/klementc/singularityRecipes/truffle/2019-08-09-fa914931-ea78469a/Singularity
 collection: klementc/singularityRecipes
 ---

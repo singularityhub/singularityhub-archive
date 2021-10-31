@@ -9,7 +9,7 @@ build_date: "2021-01-05T12:14:57.435Z"
 size_mb: 536.609375
 size: 562675712
 sif: "https://datasets.datalad.org/shub/DiamondLightSource/Opt-ID/latest/2021-01-05-e6ac589e-01ea0c38/01ea0c38841e1d66441b32f64be914df0030c97401588834cadbf4b1a8f034cd.sif"
-url: https://datasets.datalad.org/shub/DiamondLightSource/Opt-ID/latest/2021-01-05-e6ac589e-01ea0c38/
+datalad_url: https://datasets.datalad.org?dir=/shub/DiamondLightSource/Opt-ID/latest/2021-01-05-e6ac589e-01ea0c38/
 recipe: https://datasets.datalad.org/shub/DiamondLightSource/Opt-ID/latest/2021-01-05-e6ac589e-01ea0c38/Singularity
 collection: DiamondLightSource/Opt-ID
 ---

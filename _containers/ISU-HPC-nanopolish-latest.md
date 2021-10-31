@@ -9,7 +9,7 @@ build_date: "2019-06-28T22:40:05.595Z"
 size_mb: 969
 size: 310448159
 sif: "https://datasets.datalad.org/shub/ISU-HPC/nanopolish/latest/2019-06-28-fe47e0a3-094762bc/094762bcee768a6f87597ebc84a5ed3b.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/nanopolish/latest/2019-06-28-fe47e0a3-094762bc/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/nanopolish/latest/2019-06-28-fe47e0a3-094762bc/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/nanopolish/latest/2019-06-28-fe47e0a3-094762bc/Singularity
 collection: ISU-HPC/nanopolish
 ---

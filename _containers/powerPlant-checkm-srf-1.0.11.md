@@ -9,7 +9,7 @@ build_date: "2019-03-04T03:18:51.459Z"
 size_mb: 802
 size: 335081503
 sif: "https://datasets.datalad.org/shub/powerPlant/checkm-srf/1.0.11/2019-03-04-e74ae0b7-9db38bf0/9db38bf0bfd135ec235300131154f66e.simg"
-url: https://datasets.datalad.org/shub/powerPlant/checkm-srf/1.0.11/2019-03-04-e74ae0b7-9db38bf0/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/checkm-srf/1.0.11/2019-03-04-e74ae0b7-9db38bf0/
 recipe: https://datasets.datalad.org/shub/powerPlant/checkm-srf/1.0.11/2019-03-04-e74ae0b7-9db38bf0/Singularity
 collection: powerPlant/checkm-srf
 ---

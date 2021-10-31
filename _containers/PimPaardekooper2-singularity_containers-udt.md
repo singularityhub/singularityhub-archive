@@ -9,7 +9,7 @@ build_date: "2020-05-08T10:42:36.013Z"
 size_mb: 356.0
 size: 137244703
 sif: "https://datasets.datalad.org/shub/PimPaardekooper2/singularity_containers/udt/2020-05-08-b446cab0-4377564d/4377564dafc6f581d3e94f5eb93108a4.sif"
-url: https://datasets.datalad.org/shub/PimPaardekooper2/singularity_containers/udt/2020-05-08-b446cab0-4377564d/
+datalad_url: https://datasets.datalad.org?dir=/shub/PimPaardekooper2/singularity_containers/udt/2020-05-08-b446cab0-4377564d/
 recipe: https://datasets.datalad.org/shub/PimPaardekooper2/singularity_containers/udt/2020-05-08-b446cab0-4377564d/Singularity
 collection: PimPaardekooper2/singularity_containers
 ---

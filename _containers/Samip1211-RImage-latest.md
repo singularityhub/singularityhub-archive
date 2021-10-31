@@ -9,7 +9,7 @@ build_date: "2020-04-26T08:17:53.476Z"
 size_mb: 1038
 size: 354140191
 sif: "https://datasets.datalad.org/shub/Samip1211/RImage/latest/2020-04-26-913e6f11-5871110a/5871110ab9bf339d6542c15da2e91751.simg"
-url: https://datasets.datalad.org/shub/Samip1211/RImage/latest/2020-04-26-913e6f11-5871110a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Samip1211/RImage/latest/2020-04-26-913e6f11-5871110a/
 recipe: https://datasets.datalad.org/shub/Samip1211/RImage/latest/2020-04-26-913e6f11-5871110a/Singularity
 collection: Samip1211/RImage
 ---

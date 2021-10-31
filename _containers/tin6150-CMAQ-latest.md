@@ -9,7 +9,7 @@ build_date: "2021-03-19T16:06:56.980Z"
 size_mb: None
 size: 562749471
 sif: "https://datasets.datalad.org/shub/tin6150/CMAQ/latest/2021-03-19-421be3c3-cd8c0d53/cd8c0d5381d39aa324518fba00dbf5ee.sif"
-url: https://datasets.datalad.org/shub/tin6150/CMAQ/latest/2021-03-19-421be3c3-cd8c0d53/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/CMAQ/latest/2021-03-19-421be3c3-cd8c0d53/
 recipe: https://datasets.datalad.org/shub/tin6150/CMAQ/latest/2021-03-19-421be3c3-cd8c0d53/Singularity
 collection: tin6150/CMAQ
 ---

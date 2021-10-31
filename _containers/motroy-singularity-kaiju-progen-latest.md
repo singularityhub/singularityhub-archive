@@ -9,7 +9,7 @@ build_date: "2020-07-10T21:12:41.711Z"
 size_mb: 468
 size: 164663327
 sif: "https://datasets.datalad.org/shub/motroy/singularity-kaiju-progen/latest/2020-07-10-faf8ac1d-76a5ad90/76a5ad90e532a65f888473ed26575efe.simg"
-url: https://datasets.datalad.org/shub/motroy/singularity-kaiju-progen/latest/2020-07-10-faf8ac1d-76a5ad90/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-kaiju-progen/latest/2020-07-10-faf8ac1d-76a5ad90/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-kaiju-progen/latest/2020-07-10-faf8ac1d-76a5ad90/Singularity
 collection: motroy/singularity-kaiju-progen
 ---

@@ -9,7 +9,7 @@ build_date: "2020-11-27T00:39:55.757Z"
 size_mb: 1860.0
 size: 693100575
 sif: "https://datasets.datalad.org/shub/GuillaumeStuder/essai_hackathon_container/latest/2020-11-27-b42a20a8-85e11aec/85e11aec142eaa1d968c0580deaf8e20.sif"
-url: https://datasets.datalad.org/shub/GuillaumeStuder/essai_hackathon_container/latest/2020-11-27-b42a20a8-85e11aec/
+datalad_url: https://datasets.datalad.org?dir=/shub/GuillaumeStuder/essai_hackathon_container/latest/2020-11-27-b42a20a8-85e11aec/
 recipe: https://datasets.datalad.org/shub/GuillaumeStuder/essai_hackathon_container/latest/2020-11-27-b42a20a8-85e11aec/Singularity
 collection: GuillaumeStuder/essai_hackathon_container
 ---

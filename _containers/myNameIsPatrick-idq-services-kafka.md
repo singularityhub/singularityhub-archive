@@ -9,7 +9,7 @@ build_date: "2018-07-24T19:19:06.065Z"
 size_mb: 282
 size: 144834591
 sif: "https://datasets.datalad.org/shub/myNameIsPatrick/idq-services/kafka/2018-07-24-5de2a7b6-7fdcd726/7fdcd726a8b580dd7a2a8069da824e54.simg"
-url: https://datasets.datalad.org/shub/myNameIsPatrick/idq-services/kafka/2018-07-24-5de2a7b6-7fdcd726/
+datalad_url: https://datasets.datalad.org?dir=/shub/myNameIsPatrick/idq-services/kafka/2018-07-24-5de2a7b6-7fdcd726/
 recipe: https://datasets.datalad.org/shub/myNameIsPatrick/idq-services/kafka/2018-07-24-5de2a7b6-7fdcd726/Singularity
 collection: myNameIsPatrick/idq-services
 ---

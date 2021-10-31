@@ -9,7 +9,7 @@ build_date: "2021-04-06T21:26:57.771Z"
 size_mb: 4622.0
 size: 2413703199
 sif: "https://datasets.datalad.org/shub/tothuhien/synteny_pipeline_singularity/latest/2021-04-06-1d27981d-9ef3ae47/9ef3ae477f93ec0f5dbe3df8c8792493.sif"
-url: https://datasets.datalad.org/shub/tothuhien/synteny_pipeline_singularity/latest/2021-04-06-1d27981d-9ef3ae47/
+datalad_url: https://datasets.datalad.org?dir=/shub/tothuhien/synteny_pipeline_singularity/latest/2021-04-06-1d27981d-9ef3ae47/
 recipe: https://datasets.datalad.org/shub/tothuhien/synteny_pipeline_singularity/latest/2021-04-06-1d27981d-9ef3ae47/Singularity
 collection: tothuhien/synteny_pipeline_singularity
 ---

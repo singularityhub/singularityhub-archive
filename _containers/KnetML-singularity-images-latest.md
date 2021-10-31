@@ -9,7 +9,7 @@ build_date: "2021-01-21T14:37:52.958Z"
 size_mb: 1684
 size: 562257951
 sif: "https://datasets.datalad.org/shub/KnetML/singularity-images/latest/2021-01-21-2d3c2b36-e04a2d4f/e04a2d4f2773ee1e780a4a760c965eb0.simg"
-url: https://datasets.datalad.org/shub/KnetML/singularity-images/latest/2021-01-21-2d3c2b36-e04a2d4f/
+datalad_url: https://datasets.datalad.org?dir=/shub/KnetML/singularity-images/latest/2021-01-21-2d3c2b36-e04a2d4f/
 recipe: https://datasets.datalad.org/shub/KnetML/singularity-images/latest/2021-01-21-2d3c2b36-e04a2d4f/Singularity
 collection: KnetML/singularity-images
 ---

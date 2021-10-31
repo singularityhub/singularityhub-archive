@@ -9,7 +9,7 @@ build_date: "2019-11-10T18:56:55.564Z"
 size_mb: 837.0
 size: 255918111
 sif: "https://datasets.datalad.org/shub/arcsUVA/patric/1.026/2019-11-10-100e6dbc-8deb5148/8deb51488fef8923aecc230f610fe48b.sif"
-url: https://datasets.datalad.org/shub/arcsUVA/patric/1.026/2019-11-10-100e6dbc-8deb5148/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/patric/1.026/2019-11-10-100e6dbc-8deb5148/
 recipe: https://datasets.datalad.org/shub/arcsUVA/patric/1.026/2019-11-10-100e6dbc-8deb5148/Singularity
 collection: arcsUVA/patric
 ---

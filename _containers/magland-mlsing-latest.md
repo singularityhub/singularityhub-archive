@@ -9,7 +9,7 @@ build_date: "2018-08-31T03:21:36.696Z"
 size_mb: 858
 size: 328601631
 sif: "https://datasets.datalad.org/shub/magland/mlsing/latest/2018-08-31-2e3aac25-163d5c53/163d5c536e35d5f6ee1799a9a222db74.simg"
-url: https://datasets.datalad.org/shub/magland/mlsing/latest/2018-08-31-2e3aac25-163d5c53/
+datalad_url: https://datasets.datalad.org?dir=/shub/magland/mlsing/latest/2018-08-31-2e3aac25-163d5c53/
 recipe: https://datasets.datalad.org/shub/magland/mlsing/latest/2018-08-31-2e3aac25-163d5c53/Singularity
 collection: magland/mlsing
 ---

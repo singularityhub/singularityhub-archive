@@ -9,7 +9,7 @@ build_date: "2020-04-29T00:48:48.820Z"
 size_mb: 5972
 size: 2638270495
 sif: "https://datasets.datalad.org/shub/dleehr/qiime2-singularity/latest/2020-04-29-51146bc6-e97319db/e97319db8c62aad5b2262690b05adfdc.simg"
-url: https://datasets.datalad.org/shub/dleehr/qiime2-singularity/latest/2020-04-29-51146bc6-e97319db/
+datalad_url: https://datasets.datalad.org?dir=/shub/dleehr/qiime2-singularity/latest/2020-04-29-51146bc6-e97319db/
 recipe: https://datasets.datalad.org/shub/dleehr/qiime2-singularity/latest/2020-04-29-51146bc6-e97319db/Singularity
 collection: dleehr/qiime2-singularity
 ---

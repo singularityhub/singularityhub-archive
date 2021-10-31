@@ -9,7 +9,7 @@ build_date: "2018-02-15T11:57:05.805Z"
 size_mb: 717
 size: 225603615
 sif: "https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/centos-7.3.1611/2018-02-15-10142708-83d06d05/83d06d05a3dcf4e456431e0006ef695e.simg"
-url: https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/centos-7.3.1611/2018-02-15-10142708-83d06d05/
+datalad_url: https://datasets.datalad.org?dir=/shub/shahzebsiddiqui/eb-singularity/centos-7.3.1611/2018-02-15-10142708-83d06d05/
 recipe: https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/centos-7.3.1611/2018-02-15-10142708-83d06d05/Singularity
 collection: shahzebsiddiqui/eb-singularity
 ---

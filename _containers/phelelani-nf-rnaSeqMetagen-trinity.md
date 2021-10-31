@@ -9,7 +9,7 @@ build_date: "2021-04-12T16:53:41.196Z"
 size_mb: 1391.0
 size: 453861407
 sif: "https://datasets.datalad.org/shub/phelelani/nf-rnaSeqMetagen/trinity/2021-04-12-80e931fd-9e91dc1d/9e91dc1d15ef5fbdb74088e751483a96.sif"
-url: https://datasets.datalad.org/shub/phelelani/nf-rnaSeqMetagen/trinity/2021-04-12-80e931fd-9e91dc1d/
+datalad_url: https://datasets.datalad.org?dir=/shub/phelelani/nf-rnaSeqMetagen/trinity/2021-04-12-80e931fd-9e91dc1d/
 recipe: https://datasets.datalad.org/shub/phelelani/nf-rnaSeqMetagen/trinity/2021-04-12-80e931fd-9e91dc1d/Singularity
 collection: phelelani/nf-rnaSeqMetagen
 ---

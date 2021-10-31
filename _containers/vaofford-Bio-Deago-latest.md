@@ -9,7 +9,7 @@ build_date: "2019-09-03T07:24:27.534Z"
 size_mb: 3452.0
 size: 1097035807
 sif: "https://datasets.datalad.org/shub/vaofford/Bio-Deago/latest/2019-09-03-b469f7a3-0c257848/0c25784875dab149846710d9516df38f.sif"
-url: https://datasets.datalad.org/shub/vaofford/Bio-Deago/latest/2019-09-03-b469f7a3-0c257848/
+datalad_url: https://datasets.datalad.org?dir=/shub/vaofford/Bio-Deago/latest/2019-09-03-b469f7a3-0c257848/
 recipe: https://datasets.datalad.org/shub/vaofford/Bio-Deago/latest/2019-09-03-b469f7a3-0c257848/Singularity
 collection: vaofford/Bio-Deago
 ---

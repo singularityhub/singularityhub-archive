@@ -9,7 +9,7 @@ build_date: "2019-08-29T12:09:01.297Z"
 size_mb: 1009.0
 size: 401481759
 sif: "https://datasets.datalad.org/shub/stephansmit/python_containers/interactivecoolprop/2019-08-29-5c104cc4-72d0e3f6/72d0e3f60ff3805d1147e3b700fe3605.sif"
-url: https://datasets.datalad.org/shub/stephansmit/python_containers/interactivecoolprop/2019-08-29-5c104cc4-72d0e3f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/stephansmit/python_containers/interactivecoolprop/2019-08-29-5c104cc4-72d0e3f6/
 recipe: https://datasets.datalad.org/shub/stephansmit/python_containers/interactivecoolprop/2019-08-29-5c104cc4-72d0e3f6/Singularity
 collection: stephansmit/python_containers
 ---

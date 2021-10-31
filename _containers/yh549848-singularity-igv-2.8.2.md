@@ -9,7 +9,7 @@ build_date: "2020-10-16T12:09:26.038Z"
 size_mb: 624.0
 size: 256462879
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-igv/2.8.2/2020-10-16-959f7235-aef54f5d/aef54f5dfa95ec0c6e56c0bdf08dcf9c.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-igv/2.8.2/2020-10-16-959f7235-aef54f5d/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-igv/2.8.2/2020-10-16-959f7235-aef54f5d/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-igv/2.8.2/2020-10-16-959f7235-aef54f5d/Singularity
 collection: yh549848/singularity-igv
 ---

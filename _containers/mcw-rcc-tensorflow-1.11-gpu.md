@@ -9,7 +9,7 @@ build_date: "2020-09-01T16:39:46.899Z"
 size_mb: 4647
 size: 1471762463
 sif: "https://datasets.datalad.org/shub/mcw-rcc/tensorflow/1.11-gpu/2020-09-01-da2d8d12-f9f848d5/f9f848d51f7b4ef40cf2972edd0baa6f.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/tensorflow/1.11-gpu/2020-09-01-da2d8d12-f9f848d5/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/tensorflow/1.11-gpu/2020-09-01-da2d8d12-f9f848d5/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/tensorflow/1.11-gpu/2020-09-01-da2d8d12-f9f848d5/Singularity
 collection: mcw-rcc/tensorflow
 ---

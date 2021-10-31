@@ -9,7 +9,7 @@ build_date: "2018-09-07T02:36:49.039Z"
 size_mb: 2426
 size: 1257775135
 sif: "https://datasets.datalad.org/shub/SebastianM-C/singularity/0.7/2018-09-07-66b4698d-0a709095/0a7090958aeddd6b92743c357dce6fbe.simg"
-url: https://datasets.datalad.org/shub/SebastianM-C/singularity/0.7/2018-09-07-66b4698d-0a709095/
+datalad_url: https://datasets.datalad.org?dir=/shub/SebastianM-C/singularity/0.7/2018-09-07-66b4698d-0a709095/
 recipe: https://datasets.datalad.org/shub/SebastianM-C/singularity/0.7/2018-09-07-66b4698d-0a709095/Singularity
 collection: SebastianM-C/singularity
 ---

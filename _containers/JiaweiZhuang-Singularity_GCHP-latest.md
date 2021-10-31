@@ -9,7 +9,7 @@ build_date: "2018-04-22T14:56:34.667Z"
 size_mb: 556
 size: 194117663
 sif: "https://datasets.datalad.org/shub/JiaweiZhuang/Singularity_GCHP/latest/2018-04-22-524269af-1e168908/1e168908f8d78f7e0501949f1c64681b.simg"
-url: https://datasets.datalad.org/shub/JiaweiZhuang/Singularity_GCHP/latest/2018-04-22-524269af-1e168908/
+datalad_url: https://datasets.datalad.org?dir=/shub/JiaweiZhuang/Singularity_GCHP/latest/2018-04-22-524269af-1e168908/
 recipe: https://datasets.datalad.org/shub/JiaweiZhuang/Singularity_GCHP/latest/2018-04-22-524269af-1e168908/Singularity
 collection: JiaweiZhuang/Singularity_GCHP
 ---

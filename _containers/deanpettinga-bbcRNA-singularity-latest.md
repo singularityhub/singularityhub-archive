@@ -9,7 +9,7 @@ build_date: "2019-10-22T18:01:03.962Z"
 size_mb: 5503.0
 size: 1772421151
 sif: "https://datasets.datalad.org/shub/deanpettinga/bbcRNA-singularity/latest/2019-10-22-fbb4c564-c396dabb/c396dabb7f597751b137de2602cfc3d3.sif"
-url: https://datasets.datalad.org/shub/deanpettinga/bbcRNA-singularity/latest/2019-10-22-fbb4c564-c396dabb/
+datalad_url: https://datasets.datalad.org?dir=/shub/deanpettinga/bbcRNA-singularity/latest/2019-10-22-fbb4c564-c396dabb/
 recipe: https://datasets.datalad.org/shub/deanpettinga/bbcRNA-singularity/latest/2019-10-22-fbb4c564-c396dabb/Singularity
 collection: deanpettinga/bbcRNA-singularity
 ---

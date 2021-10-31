@@ -9,7 +9,7 @@ build_date: "2020-12-20T03:41:53.492Z"
 size_mb: 2029.96484375
 size: 2128572416
 sif: "https://datasets.datalad.org/shub/Gresliebear/test_example_singularity_hub/tag_name/2020-12-20-fd7106ff-fa66c810/fa66c81055ec1848d9e3ca34de768ddf5ccfb87a7722da09368099a0fdd06fb9.sif"
-url: https://datasets.datalad.org/shub/Gresliebear/test_example_singularity_hub/tag_name/2020-12-20-fd7106ff-fa66c810/
+datalad_url: https://datasets.datalad.org?dir=/shub/Gresliebear/test_example_singularity_hub/tag_name/2020-12-20-fd7106ff-fa66c810/
 recipe: https://datasets.datalad.org/shub/Gresliebear/test_example_singularity_hub/tag_name/2020-12-20-fd7106ff-fa66c810/Singularity
 collection: Gresliebear/test_example_singularity_hub
 ---

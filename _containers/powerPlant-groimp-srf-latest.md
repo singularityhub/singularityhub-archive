@@ -9,7 +9,7 @@ build_date: "2020-06-08T21:35:46.398Z"
 size_mb: 870.0
 size: 441610271
 sif: "https://datasets.datalad.org/shub/powerPlant/groimp-srf/latest/2020-06-08-92fe1da5-1519bc9c/1519bc9c9de15403530fc1a1d0057ae0.sif"
-url: https://datasets.datalad.org/shub/powerPlant/groimp-srf/latest/2020-06-08-92fe1da5-1519bc9c/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/groimp-srf/latest/2020-06-08-92fe1da5-1519bc9c/
 recipe: https://datasets.datalad.org/shub/powerPlant/groimp-srf/latest/2020-06-08-92fe1da5-1519bc9c/Singularity
 collection: powerPlant/groimp-srf
 ---

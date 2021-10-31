@@ -9,7 +9,7 @@ build_date: "2019-10-29T15:51:46.142Z"
 size_mb: 388.11328125
 size: 406966272
 sif: "https://datasets.datalad.org/shub/psumionka-task/Singularity_Debian-9/def/2019-10-29-9d47d76a-36d76e57/36d76e57567b4283b4e7e258765e0fd5130c4c53664597c9e038389d1d9b5e98.sif"
-url: https://datasets.datalad.org/shub/psumionka-task/Singularity_Debian-9/def/2019-10-29-9d47d76a-36d76e57/
+datalad_url: https://datasets.datalad.org?dir=/shub/psumionka-task/Singularity_Debian-9/def/2019-10-29-9d47d76a-36d76e57/
 recipe: https://datasets.datalad.org/shub/psumionka-task/Singularity_Debian-9/def/2019-10-29-9d47d76a-36d76e57/Singularity
 collection: psumionka-task/Singularity_Debian-9
 ---

@@ -9,7 +9,7 @@ build_date: "2018-08-10T20:17:51.219Z"
 size_mb: 1733
 size: 780832799
 sif: "https://datasets.datalad.org/shub/tjhendrickson/bids-app-host/latest/2018-08-10-da8046b8-885d4acb/885d4acba8ca9b46988535062da9325d.simg"
-url: https://datasets.datalad.org/shub/tjhendrickson/bids-app-host/latest/2018-08-10-da8046b8-885d4acb/
+datalad_url: https://datasets.datalad.org?dir=/shub/tjhendrickson/bids-app-host/latest/2018-08-10-da8046b8-885d4acb/
 recipe: https://datasets.datalad.org/shub/tjhendrickson/bids-app-host/latest/2018-08-10-da8046b8-885d4acb/Singularity
 collection: tjhendrickson/bids-app-host
 ---

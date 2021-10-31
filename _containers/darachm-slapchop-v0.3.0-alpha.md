@@ -9,7 +9,7 @@ build_date: "2019-12-27T03:43:55.192Z"
 size_mb: 608
 size: 240873503
 sif: "https://datasets.datalad.org/shub/darachm/slapchop/v0.3.0-alpha/2019-12-27-529d60e1-ae8906aa/ae8906aa994f44df21e92c490f10eac0.simg"
-url: https://datasets.datalad.org/shub/darachm/slapchop/v0.3.0-alpha/2019-12-27-529d60e1-ae8906aa/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/slapchop/v0.3.0-alpha/2019-12-27-529d60e1-ae8906aa/
 recipe: https://datasets.datalad.org/shub/darachm/slapchop/v0.3.0-alpha/2019-12-27-529d60e1-ae8906aa/Singularity
 collection: darachm/slapchop
 ---

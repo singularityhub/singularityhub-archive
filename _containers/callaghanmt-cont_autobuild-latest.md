@@ -9,7 +9,7 @@ build_date: "2020-02-25T12:54:41.951Z"
 size_mb: 304.0
 size: 112005151
 sif: "https://datasets.datalad.org/shub/callaghanmt/cont_autobuild/latest/2020-02-25-e952ca42-8903d0b8/8903d0b88e50537abcb9594a4dd12ff3.sif"
-url: https://datasets.datalad.org/shub/callaghanmt/cont_autobuild/latest/2020-02-25-e952ca42-8903d0b8/
+datalad_url: https://datasets.datalad.org?dir=/shub/callaghanmt/cont_autobuild/latest/2020-02-25-e952ca42-8903d0b8/
 recipe: https://datasets.datalad.org/shub/callaghanmt/cont_autobuild/latest/2020-02-25-e952ca42-8903d0b8/Singularity
 collection: callaghanmt/cont_autobuild
 ---

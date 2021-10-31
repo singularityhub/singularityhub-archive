@@ -9,7 +9,7 @@ build_date: "2019-10-08T01:51:37.080Z"
 size_mb: 2817
 size: 846499871
 sif: "https://datasets.datalad.org/shub/Weatherhub/MET/latest/2019-10-08-8265aefd-aef83ea6/aef83ea62451a58ad808bc03bb67f529.simg"
-url: https://datasets.datalad.org/shub/Weatherhub/MET/latest/2019-10-08-8265aefd-aef83ea6/
+datalad_url: https://datasets.datalad.org?dir=/shub/Weatherhub/MET/latest/2019-10-08-8265aefd-aef83ea6/
 recipe: https://datasets.datalad.org/shub/Weatherhub/MET/latest/2019-10-08-8265aefd-aef83ea6/Singularity
 collection: Weatherhub/MET
 ---

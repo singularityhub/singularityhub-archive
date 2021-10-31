@@ -9,7 +9,7 @@ build_date: "2019-02-04T09:08:23.726Z"
 size_mb: 3526
 size: 1558937631
 sif: "https://datasets.datalad.org/shub/baxpr/magm-normalize/v3.0.0/2019-02-04-98a4ed92-f8941959/f894195959e9e59282eac57a8337cbf6.simg"
-url: https://datasets.datalad.org/shub/baxpr/magm-normalize/v3.0.0/2019-02-04-98a4ed92-f8941959/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/magm-normalize/v3.0.0/2019-02-04-98a4ed92-f8941959/
 recipe: https://datasets.datalad.org/shub/baxpr/magm-normalize/v3.0.0/2019-02-04-98a4ed92-f8941959/Singularity
 collection: baxpr/magm-normalize
 ---

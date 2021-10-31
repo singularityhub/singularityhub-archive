@@ -9,7 +9,7 @@ build_date: "2020-09-25T15:43:43.949Z"
 size_mb: 2132.0
 size: 734535711
 sif: "https://datasets.datalad.org/shub/JihedC/ChIP_seq_PE_Snakemake/latest/2020-09-25-cd7ddb26-505b41f1/505b41f1af0945f31fd29e670588f2cd.sif"
-url: https://datasets.datalad.org/shub/JihedC/ChIP_seq_PE_Snakemake/latest/2020-09-25-cd7ddb26-505b41f1/
+datalad_url: https://datasets.datalad.org?dir=/shub/JihedC/ChIP_seq_PE_Snakemake/latest/2020-09-25-cd7ddb26-505b41f1/
 recipe: https://datasets.datalad.org/shub/JihedC/ChIP_seq_PE_Snakemake/latest/2020-09-25-cd7ddb26-505b41f1/Singularity
 collection: JihedC/ChIP_seq_PE_Snakemake
 ---

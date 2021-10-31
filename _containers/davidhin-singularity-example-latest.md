@@ -9,7 +9,7 @@ build_date: "2021-03-15T01:16:10.326Z"
 size_mb: 7981.0
 size: 4532129823
 sif: "https://datasets.datalad.org/shub/davidhin/singularity-example/latest/2021-03-15-93457c89-fa23b6d6/fa23b6d6979b3d66fbb216f13cb330a3.sif"
-url: https://datasets.datalad.org/shub/davidhin/singularity-example/latest/2021-03-15-93457c89-fa23b6d6/
+datalad_url: https://datasets.datalad.org?dir=/shub/davidhin/singularity-example/latest/2021-03-15-93457c89-fa23b6d6/
 recipe: https://datasets.datalad.org/shub/davidhin/singularity-example/latest/2021-03-15-93457c89-fa23b6d6/Singularity
 collection: davidhin/singularity-example
 ---

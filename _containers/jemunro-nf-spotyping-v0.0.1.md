@@ -9,7 +9,7 @@ build_date: "2019-11-07T04:14:15.278Z"
 size_mb: 2314.0
 size: 774897695
 sif: "https://datasets.datalad.org/shub/jemunro/nf-spotyping/v0.0.1/2019-11-07-96b83ec9-55d36dd3/55d36dd320d8d735a5c20e5309804811.sif"
-url: https://datasets.datalad.org/shub/jemunro/nf-spotyping/v0.0.1/2019-11-07-96b83ec9-55d36dd3/
+datalad_url: https://datasets.datalad.org?dir=/shub/jemunro/nf-spotyping/v0.0.1/2019-11-07-96b83ec9-55d36dd3/
 recipe: https://datasets.datalad.org/shub/jemunro/nf-spotyping/v0.0.1/2019-11-07-96b83ec9-55d36dd3/Singularity
 collection: jemunro/nf-spotyping
 ---

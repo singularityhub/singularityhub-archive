@@ -9,7 +9,7 @@ build_date: "2021-04-01T19:12:01.597Z"
 size_mb: 4386.0
 size: 2128912415
 sif: "https://datasets.datalad.org/shub/BrendelGroup/GoSTRIPES/latest/2021-04-01-eaff2ad7-8fe785d9/8fe785d9a7822a46cc2b604debf9e207.sif"
-url: https://datasets.datalad.org/shub/BrendelGroup/GoSTRIPES/latest/2021-04-01-eaff2ad7-8fe785d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/BrendelGroup/GoSTRIPES/latest/2021-04-01-eaff2ad7-8fe785d9/
 recipe: https://datasets.datalad.org/shub/BrendelGroup/GoSTRIPES/latest/2021-04-01-eaff2ad7-8fe785d9/Singularity
 collection: BrendelGroup/GoSTRIPES
 ---

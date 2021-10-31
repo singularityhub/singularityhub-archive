@@ -9,7 +9,7 @@ build_date: "2020-02-25T19:35:42.009Z"
 size_mb: 5772
 size: 3083792415
 sif: "https://datasets.datalad.org/shub/ucr-singularity/cuda-10.1-ml-software/latest/2020-02-25-fba85d57-0fc82fee/0fc82fee7d803f4c3ae6ccf17c3e1dcb.simg"
-url: https://datasets.datalad.org/shub/ucr-singularity/cuda-10.1-ml-software/latest/2020-02-25-fba85d57-0fc82fee/
+datalad_url: https://datasets.datalad.org?dir=/shub/ucr-singularity/cuda-10.1-ml-software/latest/2020-02-25-fba85d57-0fc82fee/
 recipe: https://datasets.datalad.org/shub/ucr-singularity/cuda-10.1-ml-software/latest/2020-02-25-fba85d57-0fc82fee/Singularity
 collection: ucr-singularity/cuda-10.1-ml-software
 ---

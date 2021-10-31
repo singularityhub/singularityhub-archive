@@ -9,7 +9,7 @@ build_date: "2019-02-26T20:10:20.970Z"
 size_mb: 4313
 size: 2512437279
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/bnnonyearprediction/2019-02-26-75c32449-c488caf5/c488caf51bc0dce4b40eb6b44fe0879f.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/bnnonyearprediction/2019-02-26-75c32449-c488caf5/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/bnnonyearprediction/2019-02-26-75c32449-c488caf5/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/bnnonyearprediction/2019-02-26-75c32449-c488caf5/Singularity
 collection: staeglis/HPOlib2
 ---

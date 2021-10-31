@@ -9,7 +9,7 @@ build_date: "2021-02-21T10:55:09.255Z"
 size_mb: 1400
 size: 437252127
 sif: "https://datasets.datalad.org/shub/chenchen2015/Singularity-jupyter/latest/2021-02-21-f1cf1b3c-7dc17c56/7dc17c56fadcd68b52f8669a50ee4505.simg"
-url: https://datasets.datalad.org/shub/chenchen2015/Singularity-jupyter/latest/2021-02-21-f1cf1b3c-7dc17c56/
+datalad_url: https://datasets.datalad.org?dir=/shub/chenchen2015/Singularity-jupyter/latest/2021-02-21-f1cf1b3c-7dc17c56/
 recipe: https://datasets.datalad.org/shub/chenchen2015/Singularity-jupyter/latest/2021-02-21-f1cf1b3c-7dc17c56/Singularity
 collection: chenchen2015/Singularity-jupyter
 ---

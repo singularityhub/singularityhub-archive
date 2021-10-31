@@ -9,7 +9,7 @@ build_date: "2021-04-14T18:12:39.106Z"
 size_mb: 2628.33984375
 size: 2756014080
 sif: "https://datasets.datalad.org/shub/d-bohn/openpose_aci/gpu/2021-04-14-1ab69b7e-0d380a7f/0d380a7fd661f483f3ede455be1d05dcdf48ad8866ef9e2b8d26ec97ae63d0e0.sif"
-url: https://datasets.datalad.org/shub/d-bohn/openpose_aci/gpu/2021-04-14-1ab69b7e-0d380a7f/
+datalad_url: https://datasets.datalad.org?dir=/shub/d-bohn/openpose_aci/gpu/2021-04-14-1ab69b7e-0d380a7f/
 recipe: https://datasets.datalad.org/shub/d-bohn/openpose_aci/gpu/2021-04-14-1ab69b7e-0d380a7f/Singularity
 collection: d-bohn/openpose_aci
 ---

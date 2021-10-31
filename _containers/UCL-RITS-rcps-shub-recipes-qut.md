@@ -9,7 +9,7 @@ build_date: "2020-11-06T12:57:32.854Z"
 size_mb: 1451.0
 size: 684560415
 sif: "https://datasets.datalad.org/shub/UCL-RITS/rcps-shub-recipes/qut/2020-11-06-1f8eb2ff-a6f2978b/a6f2978bbaae12fc92e129777a881c48.sif"
-url: https://datasets.datalad.org/shub/UCL-RITS/rcps-shub-recipes/qut/2020-11-06-1f8eb2ff-a6f2978b/
+datalad_url: https://datasets.datalad.org?dir=/shub/UCL-RITS/rcps-shub-recipes/qut/2020-11-06-1f8eb2ff-a6f2978b/
 recipe: https://datasets.datalad.org/shub/UCL-RITS/rcps-shub-recipes/qut/2020-11-06-1f8eb2ff-a6f2978b/Singularity
 collection: UCL-RITS/rcps-shub-recipes
 ---

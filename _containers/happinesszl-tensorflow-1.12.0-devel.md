@@ -9,7 +9,7 @@ build_date: "2018-11-26T17:12:55.581Z"
 size_mb: 3699
 size: 1778192415
 sif: "https://datasets.datalad.org/shub/happinesszl/tensorflow/1.12.0-devel/2018-11-26-3f5644f6-6058fab1/6058fab16718e5fc4d36f092daacb5b8.simg"
-url: https://datasets.datalad.org/shub/happinesszl/tensorflow/1.12.0-devel/2018-11-26-3f5644f6-6058fab1/
+datalad_url: https://datasets.datalad.org?dir=/shub/happinesszl/tensorflow/1.12.0-devel/2018-11-26-3f5644f6-6058fab1/
 recipe: https://datasets.datalad.org/shub/happinesszl/tensorflow/1.12.0-devel/2018-11-26-3f5644f6-6058fab1/Singularity
 collection: happinesszl/tensorflow
 ---

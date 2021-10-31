@@ -9,7 +9,7 @@ build_date: "2020-11-20T10:19:32.727Z"
 size_mb: 168.0
 size: 80732191
 sif: "https://datasets.datalad.org/shub/descostesn/singularities/bitmapper2v2007/2020-11-20-1324b4ac-0818df8a/0818df8ab88e353f741658bd739de63a.sif"
-url: https://datasets.datalad.org/shub/descostesn/singularities/bitmapper2v2007/2020-11-20-1324b4ac-0818df8a/
+datalad_url: https://datasets.datalad.org?dir=/shub/descostesn/singularities/bitmapper2v2007/2020-11-20-1324b4ac-0818df8a/
 recipe: https://datasets.datalad.org/shub/descostesn/singularities/bitmapper2v2007/2020-11-20-1324b4ac-0818df8a/Singularity
 collection: descostesn/singularities
 ---

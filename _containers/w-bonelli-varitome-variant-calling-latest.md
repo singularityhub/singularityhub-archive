@@ -9,7 +9,7 @@ build_date: "2020-11-20T07:26:03.223Z"
 size_mb: 15665.0
 size: 6883893279
 sif: "https://datasets.datalad.org/shub/w-bonelli/varitome-variant-calling/latest/2020-11-20-2ba8d316-762f2c61/762f2c61347cf6fb85261580f09ef687.sif"
-url: https://datasets.datalad.org/shub/w-bonelli/varitome-variant-calling/latest/2020-11-20-2ba8d316-762f2c61/
+datalad_url: https://datasets.datalad.org?dir=/shub/w-bonelli/varitome-variant-calling/latest/2020-11-20-2ba8d316-762f2c61/
 recipe: https://datasets.datalad.org/shub/w-bonelli/varitome-variant-calling/latest/2020-11-20-2ba8d316-762f2c61/Singularity
 collection: w-bonelli/varitome-variant-calling
 ---

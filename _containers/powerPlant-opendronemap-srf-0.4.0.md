@@ -9,7 +9,7 @@ build_date: "2019-02-05T05:54:32.398Z"
 size_mb: 3023
 size: 892174367
 sif: "https://datasets.datalad.org/shub/powerPlant/opendronemap-srf/0.4.0/2019-02-05-8e54aa07-b13bc707/b13bc707c40b4a7ccaa7f1622a3abe53.simg"
-url: https://datasets.datalad.org/shub/powerPlant/opendronemap-srf/0.4.0/2019-02-05-8e54aa07-b13bc707/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/opendronemap-srf/0.4.0/2019-02-05-8e54aa07-b13bc707/
 recipe: https://datasets.datalad.org/shub/powerPlant/opendronemap-srf/0.4.0/2019-02-05-8e54aa07-b13bc707/Singularity
 collection: powerPlant/opendronemap-srf
 ---

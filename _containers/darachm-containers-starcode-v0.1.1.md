@@ -9,7 +9,7 @@ build_date: "2021-01-02T18:45:31.341Z"
 size_mb: 392.0
 size: 146702367
 sif: "https://datasets.datalad.org/shub/darachm/containers/starcode-v0.1.1/2021-01-02-c7f3bb04-aaeef960/aaeef960c731faeb65701397a2d1ae22.sif"
-url: https://datasets.datalad.org/shub/darachm/containers/starcode-v0.1.1/2021-01-02-c7f3bb04-aaeef960/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/containers/starcode-v0.1.1/2021-01-02-c7f3bb04-aaeef960/
 recipe: https://datasets.datalad.org/shub/darachm/containers/starcode-v0.1.1/2021-01-02-c7f3bb04-aaeef960/Singularity
 collection: darachm/containers
 ---

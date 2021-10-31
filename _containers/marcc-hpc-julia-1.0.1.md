@@ -9,7 +9,7 @@ build_date: "2018-11-07T13:35:05.785Z"
 size_mb: 550
 size: 186642463
 sif: "https://datasets.datalad.org/shub/marcc-hpc/julia/1.0.1/2018-11-07-8ba703f5-ef81cd18/ef81cd189c39c79464fa517d6d9d93b2.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/julia/1.0.1/2018-11-07-8ba703f5-ef81cd18/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/julia/1.0.1/2018-11-07-8ba703f5-ef81cd18/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/julia/1.0.1/2018-11-07-8ba703f5-ef81cd18/Singularity
 collection: marcc-hpc/julia
 ---

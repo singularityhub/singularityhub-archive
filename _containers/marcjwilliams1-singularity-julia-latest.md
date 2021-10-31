@@ -9,7 +9,7 @@ build_date: "2020-03-02T15:47:04.003Z"
 size_mb: 5283.0
 size: 1903767583
 sif: "https://datasets.datalad.org/shub/marcjwilliams1/singularity-julia/latest/2020-03-02-5b7b2a65-53d4391f/53d4391f1fdba09f77d5f2ab1283177a.sif"
-url: https://datasets.datalad.org/shub/marcjwilliams1/singularity-julia/latest/2020-03-02-5b7b2a65-53d4391f/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcjwilliams1/singularity-julia/latest/2020-03-02-5b7b2a65-53d4391f/
 recipe: https://datasets.datalad.org/shub/marcjwilliams1/singularity-julia/latest/2020-03-02-5b7b2a65-53d4391f/Singularity
 collection: marcjwilliams1/singularity-julia
 ---

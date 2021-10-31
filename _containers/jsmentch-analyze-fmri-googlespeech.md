@@ -9,7 +9,7 @@ build_date: "2020-06-29T20:08:42.889Z"
 size_mb: 1379.0
 size: 437981215
 sif: "https://datasets.datalad.org/shub/jsmentch/analyze-fmri/googlespeech/2020-06-29-3d1d2e52-174d4c33/174d4c33743c35482b3aeecfba8c8026.sif"
-url: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/googlespeech/2020-06-29-3d1d2e52-174d4c33/
+datalad_url: https://datasets.datalad.org?dir=/shub/jsmentch/analyze-fmri/googlespeech/2020-06-29-3d1d2e52-174d4c33/
 recipe: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/googlespeech/2020-06-29-3d1d2e52-174d4c33/Singularity
 collection: jsmentch/analyze-fmri
 ---

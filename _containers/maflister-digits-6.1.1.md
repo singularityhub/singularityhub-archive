@@ -9,7 +9,7 @@ build_date: "2019-08-26T18:12:12.105Z"
 size_mb: 4672
 size: 1654657055
 sif: "https://datasets.datalad.org/shub/maflister/digits/6.1.1/2019-08-26-855890ef-b02de7d7/b02de7d7af1b91d0a5b3c7194224697d.simg"
-url: https://datasets.datalad.org/shub/maflister/digits/6.1.1/2019-08-26-855890ef-b02de7d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/maflister/digits/6.1.1/2019-08-26-855890ef-b02de7d7/
 recipe: https://datasets.datalad.org/shub/maflister/digits/6.1.1/2019-08-26-855890ef-b02de7d7/Singularity
 collection: maflister/digits
 ---

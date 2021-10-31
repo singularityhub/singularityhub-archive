@@ -9,7 +9,7 @@ build_date: "2020-03-21T19:54:17.831Z"
 size_mb: 8396
 size: 3913941023
 sif: "https://datasets.datalad.org/shub/adityabalu/TorchMPISingularity/latest/2020-03-21-e16af9a4-c974f0b1/c974f0b1bd6824a8f9e1201512f2772b.simg"
-url: https://datasets.datalad.org/shub/adityabalu/TorchMPISingularity/latest/2020-03-21-e16af9a4-c974f0b1/
+datalad_url: https://datasets.datalad.org?dir=/shub/adityabalu/TorchMPISingularity/latest/2020-03-21-e16af9a4-c974f0b1/
 recipe: https://datasets.datalad.org/shub/adityabalu/TorchMPISingularity/latest/2020-03-21-e16af9a4-c974f0b1/Singularity
 collection: adityabalu/TorchMPISingularity
 ---

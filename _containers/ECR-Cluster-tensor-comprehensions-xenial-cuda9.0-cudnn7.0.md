@@ -9,7 +9,7 @@ build_date: "2018-08-11T10:39:25.020Z"
 size_mb: 2704
 size: 1563271199
 sif: "https://datasets.datalad.org/shub/ECR-Cluster/tensor-comprehensions/xenial-cuda9.0-cudnn7.0/2018-08-11-dd2da745-867e85e4/867e85e4dbafb3ca49f621e36a69a3c1.simg"
-url: https://datasets.datalad.org/shub/ECR-Cluster/tensor-comprehensions/xenial-cuda9.0-cudnn7.0/2018-08-11-dd2da745-867e85e4/
+datalad_url: https://datasets.datalad.org?dir=/shub/ECR-Cluster/tensor-comprehensions/xenial-cuda9.0-cudnn7.0/2018-08-11-dd2da745-867e85e4/
 recipe: https://datasets.datalad.org/shub/ECR-Cluster/tensor-comprehensions/xenial-cuda9.0-cudnn7.0/2018-08-11-dd2da745-867e85e4/Singularity
 collection: ECR-Cluster/tensor-comprehensions
 ---

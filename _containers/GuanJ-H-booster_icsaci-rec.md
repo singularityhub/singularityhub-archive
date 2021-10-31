@@ -9,7 +9,7 @@ build_date: "2019-01-26T22:48:03.214Z"
 size_mb: 98
 size: 37613599
 sif: "https://datasets.datalad.org/shub/GuanJ-H/booster_icsaci/rec/2019-01-26-05c915a8-794bf1b4/794bf1b436e169a048f08f449246692e.simg"
-url: https://datasets.datalad.org/shub/GuanJ-H/booster_icsaci/rec/2019-01-26-05c915a8-794bf1b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/GuanJ-H/booster_icsaci/rec/2019-01-26-05c915a8-794bf1b4/
 recipe: https://datasets.datalad.org/shub/GuanJ-H/booster_icsaci/rec/2019-01-26-05c915a8-794bf1b4/Singularity
 collection: GuanJ-H/booster_icsaci
 ---

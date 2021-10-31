@@ -9,7 +9,7 @@ build_date: "2019-08-02T22:31:03.451Z"
 size_mb: 940.0
 size: 266137631
 sif: "https://datasets.datalad.org/shub/frankwillmore/singo/hello_mpi_pi/2019-08-02-fdf2503b-26aaeaea/26aaeaea2aa404f48f497f1b716f9e2c.sif"
-url: https://datasets.datalad.org/shub/frankwillmore/singo/hello_mpi_pi/2019-08-02-fdf2503b-26aaeaea/
+datalad_url: https://datasets.datalad.org?dir=/shub/frankwillmore/singo/hello_mpi_pi/2019-08-02-fdf2503b-26aaeaea/
 recipe: https://datasets.datalad.org/shub/frankwillmore/singo/hello_mpi_pi/2019-08-02-fdf2503b-26aaeaea/Singularity
 collection: frankwillmore/singo
 ---

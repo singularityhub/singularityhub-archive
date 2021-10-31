@@ -9,7 +9,7 @@ build_date: "2020-01-31T18:31:13.435Z"
 size_mb: 6084.0
 size: 2927722527
 sif: "https://datasets.datalad.org/shub/ResearchComputing/namd_213_stable_multicore_osgvo-el6/latest/2020-01-31-5f283189-96f22ef2/96f22ef2e0042c6b7d7f583cb7ef79a2.sif"
-url: https://datasets.datalad.org/shub/ResearchComputing/namd_213_stable_multicore_osgvo-el6/latest/2020-01-31-5f283189-96f22ef2/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchComputing/namd_213_stable_multicore_osgvo-el6/latest/2020-01-31-5f283189-96f22ef2/
 recipe: https://datasets.datalad.org/shub/ResearchComputing/namd_213_stable_multicore_osgvo-el6/latest/2020-01-31-5f283189-96f22ef2/Singularity
 collection: ResearchComputing/namd_213_stable_multicore_osgvo-el6
 ---

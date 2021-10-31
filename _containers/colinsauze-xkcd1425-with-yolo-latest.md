@@ -9,7 +9,7 @@ build_date: "2018-08-17T18:19:55.217Z"
 size_mb: 1567
 size: 806219807
 sif: "https://datasets.datalad.org/shub/colinsauze/xkcd1425-with-yolo/latest/2018-08-17-9b02ee88-ad085cd0/ad085cd0192a5888e12e605fe192d533.simg"
-url: https://datasets.datalad.org/shub/colinsauze/xkcd1425-with-yolo/latest/2018-08-17-9b02ee88-ad085cd0/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinsauze/xkcd1425-with-yolo/latest/2018-08-17-9b02ee88-ad085cd0/
 recipe: https://datasets.datalad.org/shub/colinsauze/xkcd1425-with-yolo/latest/2018-08-17-9b02ee88-ad085cd0/Singularity
 collection: colinsauze/xkcd1425-with-yolo
 ---

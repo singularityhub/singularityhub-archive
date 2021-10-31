@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.302Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/adamov-artem/singularity_training/fun/2019-02-27-0fedec9c-a537e3ab/a537e3ab6a1599def2cfc2fc48a6b568.simg"
-url: https://datasets.datalad.org/shub/adamov-artem/singularity_training/fun/2019-02-27-0fedec9c-a537e3ab/
+datalad_url: https://datasets.datalad.org?dir=/shub/adamov-artem/singularity_training/fun/2019-02-27-0fedec9c-a537e3ab/
 recipe: https://datasets.datalad.org/shub/adamov-artem/singularity_training/fun/2019-02-27-0fedec9c-a537e3ab/Singularity
 collection: adamov-artem/singularity_training
 ---

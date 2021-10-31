@@ -9,7 +9,7 @@ build_date: "2021-02-01T15:32:49.604Z"
 size_mb: 244.65234375
 size: 256536576
 sif: "https://datasets.datalad.org/shub/bast/openmpi/4.0.4-gcc-9.3.0/2021-02-01-c49ffbed-18e68941/18e68941f2e58e94d4d8f033e95d18e776f20eace6c6cd79bae1c897455212fc.sif"
-url: https://datasets.datalad.org/shub/bast/openmpi/4.0.4-gcc-9.3.0/2021-02-01-c49ffbed-18e68941/
+datalad_url: https://datasets.datalad.org?dir=/shub/bast/openmpi/4.0.4-gcc-9.3.0/2021-02-01-c49ffbed-18e68941/
 recipe: https://datasets.datalad.org/shub/bast/openmpi/4.0.4-gcc-9.3.0/2021-02-01-c49ffbed-18e68941/Singularity
 collection: bast/openmpi
 ---

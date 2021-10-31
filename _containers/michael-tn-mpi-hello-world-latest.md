@@ -9,7 +9,7 @@ build_date: "2021-02-26T15:31:55.452Z"
 size_mb: 717
 size: 203882527
 sif: "https://datasets.datalad.org/shub/michael-tn/mpi-hello-world/latest/2021-02-26-87b313a3-c59fae00/c59fae0048895204dcf1df163e33ac93.simg"
-url: https://datasets.datalad.org/shub/michael-tn/mpi-hello-world/latest/2021-02-26-87b313a3-c59fae00/
+datalad_url: https://datasets.datalad.org?dir=/shub/michael-tn/mpi-hello-world/latest/2021-02-26-87b313a3-c59fae00/
 recipe: https://datasets.datalad.org/shub/michael-tn/mpi-hello-world/latest/2021-02-26-87b313a3-c59fae00/Singularity
 collection: michael-tn/mpi-hello-world
 ---

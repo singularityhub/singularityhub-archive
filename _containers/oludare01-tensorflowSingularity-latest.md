@@ -9,7 +9,7 @@ build_date: "2018-08-23T00:50:11.066Z"
 size_mb: 8819
 size: 4292636703
 sif: "https://datasets.datalad.org/shub/oludare01/tensorflowSingularity/latest/2018-08-23-f8161ff9-d68ceba2/d68ceba2d069d2bc242741d2155289f7.simg"
-url: https://datasets.datalad.org/shub/oludare01/tensorflowSingularity/latest/2018-08-23-f8161ff9-d68ceba2/
+datalad_url: https://datasets.datalad.org?dir=/shub/oludare01/tensorflowSingularity/latest/2018-08-23-f8161ff9-d68ceba2/
 recipe: https://datasets.datalad.org/shub/oludare01/tensorflowSingularity/latest/2018-08-23-f8161ff9-d68ceba2/Singularity
 collection: oludare01/tensorflowSingularity
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-16T11:50:17.376Z"
 size_mb: 1536.0
 size: 958070815
 sif: "https://datasets.datalad.org/shub/KatSteinke/singularity-camisim-standalone/cami_python2/2021-04-16-1aa0265f-8bee4ceb/8bee4cebb4117b7173b774bc7ea55b3c.sif"
-url: https://datasets.datalad.org/shub/KatSteinke/singularity-camisim-standalone/cami_python2/2021-04-16-1aa0265f-8bee4ceb/
+datalad_url: https://datasets.datalad.org?dir=/shub/KatSteinke/singularity-camisim-standalone/cami_python2/2021-04-16-1aa0265f-8bee4ceb/
 recipe: https://datasets.datalad.org/shub/KatSteinke/singularity-camisim-standalone/cami_python2/2021-04-16-1aa0265f-8bee4ceb/Singularity
 collection: KatSteinke/singularity-camisim-standalone
 ---

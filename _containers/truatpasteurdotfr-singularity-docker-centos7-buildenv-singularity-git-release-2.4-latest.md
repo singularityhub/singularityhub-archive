@@ -9,7 +9,7 @@ build_date: "2018-03-04T20:03:50.739Z"
 size_mb: 425
 size: 148623391
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-centos7-buildenv-singularity-git-release-2.4/latest/2018-03-04-374ac1c7-0ac33210/0ac332106958da2ea3cc260177fd8990.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-centos7-buildenv-singularity-git-release-2.4/latest/2018-03-04-374ac1c7-0ac33210/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-docker-centos7-buildenv-singularity-git-release-2.4/latest/2018-03-04-374ac1c7-0ac33210/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-centos7-buildenv-singularity-git-release-2.4/latest/2018-03-04-374ac1c7-0ac33210/Singularity
 collection: truatpasteurdotfr/singularity-docker-centos7-buildenv-singularity-git-release-2.4
 ---

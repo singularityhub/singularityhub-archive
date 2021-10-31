@@ -9,7 +9,7 @@ build_date: "2020-01-10T15:53:59.015Z"
 size_mb: 10958.0
 size: 7897460767
 sif: "https://datasets.datalad.org/shub/J35P312/Bianca_Singularity/0.0.3/2020-01-10-814aa750-107fd3b5/107fd3b559763a28bfeaeba2df9414f0.sif"
-url: https://datasets.datalad.org/shub/J35P312/Bianca_Singularity/0.0.3/2020-01-10-814aa750-107fd3b5/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/Bianca_Singularity/0.0.3/2020-01-10-814aa750-107fd3b5/
 recipe: https://datasets.datalad.org/shub/J35P312/Bianca_Singularity/0.0.3/2020-01-10-814aa750-107fd3b5/Singularity
 collection: J35P312/Bianca_Singularity
 ---

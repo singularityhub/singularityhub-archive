@@ -9,7 +9,7 @@ build_date: "2020-12-29T22:04:54.663Z"
 size_mb: 8908.0
 size: 3777732639
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/gromacs-2020.3-ubuntu-18.04-cuda-10.1.168-tmpi-avx-512-cuda-70/2020-12-29-23ad4a5f-d743aa31/d743aa319feae485a1af20f9c5a4d4c6.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/gromacs-2020.3-ubuntu-18.04-cuda-10.1.168-tmpi-avx-512-cuda-70/2020-12-29-23ad4a5f-d743aa31/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/gromacs-2020.3-ubuntu-18.04-cuda-10.1.168-tmpi-avx-512-cuda-70/2020-12-29-23ad4a5f-d743aa31/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/gromacs-2020.3-ubuntu-18.04-cuda-10.1.168-tmpi-avx-512-cuda-70/2020-12-29-23ad4a5f-d743aa31/Singularity
 collection: mkandes/naked-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-01-08T23:44:45.545Z"
 size_mb: 3960
 size: 1777934367
 sif: "https://datasets.datalad.org/shub/csadorf/software/cuda8-bridges/2019-01-08-3d509362-1098c8ee/1098c8eea1157e7b6a79180060a79c50.simg"
-url: https://datasets.datalad.org/shub/csadorf/software/cuda8-bridges/2019-01-08-3d509362-1098c8ee/
+datalad_url: https://datasets.datalad.org?dir=/shub/csadorf/software/cuda8-bridges/2019-01-08-3d509362-1098c8ee/
 recipe: https://datasets.datalad.org/shub/csadorf/software/cuda8-bridges/2019-01-08-3d509362-1098c8ee/Singularity
 collection: csadorf/software
 ---

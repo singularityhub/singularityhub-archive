@@ -9,7 +9,7 @@ build_date: "2020-08-17T14:28:58.053Z"
 size_mb: 12286.0
 size: 6721769503
 sif: "https://datasets.datalad.org/shub/fmporter/GPUs/cuda10/2020-08-17-88b74c56-a094c4a2/a094c4a2c5a44a3720c0fdd23e7e1838.sif"
-url: https://datasets.datalad.org/shub/fmporter/GPUs/cuda10/2020-08-17-88b74c56-a094c4a2/
+datalad_url: https://datasets.datalad.org?dir=/shub/fmporter/GPUs/cuda10/2020-08-17-88b74c56-a094c4a2/
 recipe: https://datasets.datalad.org/shub/fmporter/GPUs/cuda10/2020-08-17-88b74c56-a094c4a2/Singularity
 collection: fmporter/GPUs
 ---

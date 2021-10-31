@@ -9,7 +9,7 @@ build_date: "2019-06-25T05:49:24.165Z"
 size_mb: 1289
 size: 417980447
 sif: "https://datasets.datalad.org/shub/bud42/ASHS/v2.1.0/2019-06-25-77980fe7-6ac98516/6ac98516fb5d477848fe3daeb396b3cc.simg"
-url: https://datasets.datalad.org/shub/bud42/ASHS/v2.1.0/2019-06-25-77980fe7-6ac98516/
+datalad_url: https://datasets.datalad.org?dir=/shub/bud42/ASHS/v2.1.0/2019-06-25-77980fe7-6ac98516/
 recipe: https://datasets.datalad.org/shub/bud42/ASHS/v2.1.0/2019-06-25-77980fe7-6ac98516/Singularity
 collection: bud42/ASHS
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-01T02:28:42.277Z"
 size_mb: 6065.0
 size: 2841747487
 sif: "https://datasets.datalad.org/shub/jpetucci/centos7_icsaci/base/2020-05-01-151f4074-8f0dbaf1/8f0dbaf1d7efa70d23b10b9bd243511e.sif"
-url: https://datasets.datalad.org/shub/jpetucci/centos7_icsaci/base/2020-05-01-151f4074-8f0dbaf1/
+datalad_url: https://datasets.datalad.org?dir=/shub/jpetucci/centos7_icsaci/base/2020-05-01-151f4074-8f0dbaf1/
 recipe: https://datasets.datalad.org/shub/jpetucci/centos7_icsaci/base/2020-05-01-151f4074-8f0dbaf1/Singularity
 collection: jpetucci/centos7_icsaci
 ---

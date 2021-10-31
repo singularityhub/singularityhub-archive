@@ -9,7 +9,7 @@ build_date: "2017-12-01T20:07:55.371Z"
 size_mb: 1335
 size: 387117087
 sif: "https://datasets.datalad.org/shub/DaleDupont/singularity-keycloak/latest/2017-12-01-dd6c21c5-2b7cb022/2b7cb02213e680b9a13f79f1708286ed.simg"
-url: https://datasets.datalad.org/shub/DaleDupont/singularity-keycloak/latest/2017-12-01-dd6c21c5-2b7cb022/
+datalad_url: https://datasets.datalad.org?dir=/shub/DaleDupont/singularity-keycloak/latest/2017-12-01-dd6c21c5-2b7cb022/
 recipe: https://datasets.datalad.org/shub/DaleDupont/singularity-keycloak/latest/2017-12-01-dd6c21c5-2b7cb022/Singularity
 collection: DaleDupont/singularity-keycloak
 ---

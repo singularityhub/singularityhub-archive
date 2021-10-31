@@ -9,7 +9,7 @@ build_date: "2021-01-11T22:56:18.693Z"
 size_mb: 20506.0
 size: 8453095455
 sif: "https://datasets.datalad.org/shub/harvard-nrg/anatqc/latest/2021-01-11-a0ae7be0-af2bf344/af2bf34472256fd47855c3019604e2ff.sif"
-url: https://datasets.datalad.org/shub/harvard-nrg/anatqc/latest/2021-01-11-a0ae7be0-af2bf344/
+datalad_url: https://datasets.datalad.org?dir=/shub/harvard-nrg/anatqc/latest/2021-01-11-a0ae7be0-af2bf344/
 recipe: https://datasets.datalad.org/shub/harvard-nrg/anatqc/latest/2021-01-11-a0ae7be0-af2bf344/Singularity
 collection: harvard-nrg/anatqc
 ---

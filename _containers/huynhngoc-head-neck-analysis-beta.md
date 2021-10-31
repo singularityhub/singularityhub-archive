@@ -9,7 +9,7 @@ build_date: "2021-04-19T07:52:35.307Z"
 size_mb: 6642.0
 size: 3612102687
 sif: "https://datasets.datalad.org/shub/huynhngoc/head-neck-analysis/beta/2021-04-19-4246489d-fb0681c5/fb0681c516966c8eafc92a131ffeaeac.sif"
-url: https://datasets.datalad.org/shub/huynhngoc/head-neck-analysis/beta/2021-04-19-4246489d-fb0681c5/
+datalad_url: https://datasets.datalad.org?dir=/shub/huynhngoc/head-neck-analysis/beta/2021-04-19-4246489d-fb0681c5/
 recipe: https://datasets.datalad.org/shub/huynhngoc/head-neck-analysis/beta/2021-04-19-4246489d-fb0681c5/Singularity
 collection: huynhngoc/head-neck-analysis
 ---

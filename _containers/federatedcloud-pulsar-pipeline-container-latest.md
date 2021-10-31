@@ -9,7 +9,7 @@ build_date: "2021-02-15T06:21:48.872Z"
 size_mb: 1237.1328125
 size: 1297227776
 sif: "https://datasets.datalad.org/shub/federatedcloud/pulsar-pipeline-container/latest/2021-02-15-a5a2fa4c-1e669128/1e669128561ce12b65ac6c6174c7d9328d6630c750c6599d7c2a88cfa59487cb.sif"
-url: https://datasets.datalad.org/shub/federatedcloud/pulsar-pipeline-container/latest/2021-02-15-a5a2fa4c-1e669128/
+datalad_url: https://datasets.datalad.org?dir=/shub/federatedcloud/pulsar-pipeline-container/latest/2021-02-15-a5a2fa4c-1e669128/
 recipe: https://datasets.datalad.org/shub/federatedcloud/pulsar-pipeline-container/latest/2021-02-15-a5a2fa4c-1e669128/Singularity
 collection: federatedcloud/pulsar-pipeline-container
 ---

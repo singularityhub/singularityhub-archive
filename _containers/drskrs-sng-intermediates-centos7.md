@@ -9,7 +9,7 @@ build_date: "2018-10-25T18:55:06.202Z"
 size_mb: 352
 size: 72949791
 sif: "https://datasets.datalad.org/shub/drskrs/sng-intermediates/centos7/2018-10-25-bd466cd7-e0e2a599/e0e2a599a3e8456e5ae7753abbe40019.simg"
-url: https://datasets.datalad.org/shub/drskrs/sng-intermediates/centos7/2018-10-25-bd466cd7-e0e2a599/
+datalad_url: https://datasets.datalad.org?dir=/shub/drskrs/sng-intermediates/centos7/2018-10-25-bd466cd7-e0e2a599/
 recipe: https://datasets.datalad.org/shub/drskrs/sng-intermediates/centos7/2018-10-25-bd466cd7-e0e2a599/Singularity
 collection: drskrs/sng-intermediates
 ---

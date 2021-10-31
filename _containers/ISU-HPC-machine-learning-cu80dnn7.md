@@ -9,7 +9,7 @@ build_date: "2020-03-14T03:19:39.957Z"
 size_mb: 8083
 size: 3263725599
 sif: "https://datasets.datalad.org/shub/ISU-HPC/machine-learning/cu80dnn7/2020-03-14-399ce915-9a7039b2/9a7039b28d9a52a2dcf6e85c350c12be.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/machine-learning/cu80dnn7/2020-03-14-399ce915-9a7039b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/machine-learning/cu80dnn7/2020-03-14-399ce915-9a7039b2/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/machine-learning/cu80dnn7/2020-03-14-399ce915-9a7039b2/Singularity
 collection: ISU-HPC/machine-learning
 ---

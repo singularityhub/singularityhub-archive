@@ -9,7 +9,7 @@ build_date: "2019-03-01T19:49:14.189Z"
 size_mb: 1383
 size: 545251359
 sif: "https://datasets.datalad.org/shub/GuanJ-H/Madagascar_icsaci/rec/2019-03-01-9024fe95-e8d4c6e1/e8d4c6e196350ffc12afe7dd916e7770.simg"
-url: https://datasets.datalad.org/shub/GuanJ-H/Madagascar_icsaci/rec/2019-03-01-9024fe95-e8d4c6e1/
+datalad_url: https://datasets.datalad.org?dir=/shub/GuanJ-H/Madagascar_icsaci/rec/2019-03-01-9024fe95-e8d4c6e1/
 recipe: https://datasets.datalad.org/shub/GuanJ-H/Madagascar_icsaci/rec/2019-03-01-9024fe95-e8d4c6e1/Singularity
 collection: GuanJ-H/Madagascar_icsaci
 ---

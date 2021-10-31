@@ -9,7 +9,7 @@ build_date: "2020-08-11T10:55:27.958Z"
 size_mb: 1693.0
 size: 541397023
 sif: "https://datasets.datalad.org/shub/OSC/sa_singularity_molgfx/latest/2020-08-11-93e3b7c2-78f863d7/78f863d7627f6678a7c1e386787355b8.sif"
-url: https://datasets.datalad.org/shub/OSC/sa_singularity_molgfx/latest/2020-08-11-93e3b7c2-78f863d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/OSC/sa_singularity_molgfx/latest/2020-08-11-93e3b7c2-78f863d7/
 recipe: https://datasets.datalad.org/shub/OSC/sa_singularity_molgfx/latest/2020-08-11-93e3b7c2-78f863d7/Singularity
 collection: OSC/sa_singularity_molgfx
 ---

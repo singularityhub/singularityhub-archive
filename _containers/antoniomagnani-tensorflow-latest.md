@@ -9,7 +9,7 @@ build_date: "2019-02-25T20:22:55.922Z"
 size_mb: 3205
 size: 1547288607
 sif: "https://datasets.datalad.org/shub/antoniomagnani/tensorflow/latest/2019-02-25-e760bee8-566e6f67/566e6f67a506d8692a2d9ddbfa91c257.simg"
-url: https://datasets.datalad.org/shub/antoniomagnani/tensorflow/latest/2019-02-25-e760bee8-566e6f67/
+datalad_url: https://datasets.datalad.org?dir=/shub/antoniomagnani/tensorflow/latest/2019-02-25-e760bee8-566e6f67/
 recipe: https://datasets.datalad.org/shub/antoniomagnani/tensorflow/latest/2019-02-25-e760bee8-566e6f67/Singularity
 collection: antoniomagnani/tensorflow
 ---

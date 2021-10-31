@@ -9,7 +9,7 @@ build_date: "2018-08-31T03:21:36.371Z"
 size_mb: 1288
 size: 477380639
 sif: "https://datasets.datalad.org/shub/nfahlgren/DIRT/latest/2018-08-31-9d50257c-fa15f3d9/fa15f3d93fd368e6348c4e5e0a4577c2.simg"
-url: https://datasets.datalad.org/shub/nfahlgren/DIRT/latest/2018-08-31-9d50257c-fa15f3d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/nfahlgren/DIRT/latest/2018-08-31-9d50257c-fa15f3d9/
 recipe: https://datasets.datalad.org/shub/nfahlgren/DIRT/latest/2018-08-31-9d50257c-fa15f3d9/Singularity
 collection: nfahlgren/DIRT
 ---

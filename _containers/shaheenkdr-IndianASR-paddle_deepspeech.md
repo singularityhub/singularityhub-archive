@@ -9,7 +9,7 @@ build_date: "2019-04-24T14:27:17.551Z"
 size_mb: 4177
 size: 2687012895
 sif: "https://datasets.datalad.org/shub/shaheenkdr/IndianASR/paddle_deepspeech/2019-04-24-8bb186cc-a689b8b0/a689b8b0b31ebdd55a3d16ad32818382.simg"
-url: https://datasets.datalad.org/shub/shaheenkdr/IndianASR/paddle_deepspeech/2019-04-24-8bb186cc-a689b8b0/
+datalad_url: https://datasets.datalad.org?dir=/shub/shaheenkdr/IndianASR/paddle_deepspeech/2019-04-24-8bb186cc-a689b8b0/
 recipe: https://datasets.datalad.org/shub/shaheenkdr/IndianASR/paddle_deepspeech/2019-04-24-8bb186cc-a689b8b0/Singularity
 collection: shaheenkdr/IndianASR
 ---

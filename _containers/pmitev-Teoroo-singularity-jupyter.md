@@ -9,7 +9,7 @@ build_date: "2020-04-01T20:44:00.045Z"
 size_mb: 3540.0
 size: 1540505631
 sif: "https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/jupyter/2020-04-01-4a841fc3-53fee487/53fee48754169af1e160ee484b4a0b99.sif"
-url: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/jupyter/2020-04-01-4a841fc3-53fee487/
+datalad_url: https://datasets.datalad.org?dir=/shub/pmitev/Teoroo-singularity/jupyter/2020-04-01-4a841fc3-53fee487/
 recipe: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/jupyter/2020-04-01-4a841fc3-53fee487/Singularity
 collection: pmitev/Teoroo-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-17T14:27:57.721Z"
 size_mb: 1696
 size: 452329503
 sif: "https://datasets.datalad.org/shub/ARPA-SIMC/smnd/mistral/2019-04-17-949e2b43-a903325a/a903325a9110b99ee17760a918632652.simg"
-url: https://datasets.datalad.org/shub/ARPA-SIMC/smnd/mistral/2019-04-17-949e2b43-a903325a/
+datalad_url: https://datasets.datalad.org?dir=/shub/ARPA-SIMC/smnd/mistral/2019-04-17-949e2b43-a903325a/
 recipe: https://datasets.datalad.org/shub/ARPA-SIMC/smnd/mistral/2019-04-17-949e2b43-a903325a/Singularity
 collection: ARPA-SIMC/smnd
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-29T17:00:30.187Z"
 size_mb: 1030.0
 size: 337371167
 sif: "https://datasets.datalad.org/shub/mkandes/naked-singularity/stream-5.10-ubuntu-18.04/2020-12-29-28bfeb50-148f878f/148f878ff305da7c01555cc2a341b5eb.sif"
-url: https://datasets.datalad.org/shub/mkandes/naked-singularity/stream-5.10-ubuntu-18.04/2020-12-29-28bfeb50-148f878f/
+datalad_url: https://datasets.datalad.org?dir=/shub/mkandes/naked-singularity/stream-5.10-ubuntu-18.04/2020-12-29-28bfeb50-148f878f/
 recipe: https://datasets.datalad.org/shub/mkandes/naked-singularity/stream-5.10-ubuntu-18.04/2020-12-29-28bfeb50-148f878f/Singularity
 collection: mkandes/naked-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2018-10-20T20:47:30.362Z"
 size_mb: 1967
 size: 646696991
 sif: "https://datasets.datalad.org/shub/verysure/rdkit-django/latest/2018-10-20-ab186c2e-db6cdda1/db6cdda151ab79f78f5cd4b6f3414bb7.simg"
-url: https://datasets.datalad.org/shub/verysure/rdkit-django/latest/2018-10-20-ab186c2e-db6cdda1/
+datalad_url: https://datasets.datalad.org?dir=/shub/verysure/rdkit-django/latest/2018-10-20-ab186c2e-db6cdda1/
 recipe: https://datasets.datalad.org/shub/verysure/rdkit-django/latest/2018-10-20-ab186c2e-db6cdda1/Singularity
 collection: verysure/rdkit-django
 ---

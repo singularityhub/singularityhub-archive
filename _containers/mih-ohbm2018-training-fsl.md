@@ -9,7 +9,7 @@ build_date: "2021-01-29T08:26:01.839Z"
 size_mb: 647
 size: 273047583
 sif: "https://datasets.datalad.org/shub/mih/ohbm2018-training/fsl/2021-01-29-470f4df5-b8a3453e/b8a3453e757c6c4a00f753cdc137aeb5.simg"
-url: https://datasets.datalad.org/shub/mih/ohbm2018-training/fsl/2021-01-29-470f4df5-b8a3453e/
+datalad_url: https://datasets.datalad.org?dir=/shub/mih/ohbm2018-training/fsl/2021-01-29-470f4df5-b8a3453e/
 recipe: https://datasets.datalad.org/shub/mih/ohbm2018-training/fsl/2021-01-29-470f4df5-b8a3453e/Singularity
 collection: mih/ohbm2018-training
 ---

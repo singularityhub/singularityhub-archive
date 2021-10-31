@@ -9,7 +9,7 @@ build_date: "2019-08-19T03:15:12.092Z"
 size_mb: 835
 size: 313749535
 sif: "https://datasets.datalad.org/shub/jemunro/nf-wgs-raxml-ng/latest/2019-08-19-1a039846-d52be8c6/d52be8c6f60213e5aa4799eac59c56cc.simg"
-url: https://datasets.datalad.org/shub/jemunro/nf-wgs-raxml-ng/latest/2019-08-19-1a039846-d52be8c6/
+datalad_url: https://datasets.datalad.org?dir=/shub/jemunro/nf-wgs-raxml-ng/latest/2019-08-19-1a039846-d52be8c6/
 recipe: https://datasets.datalad.org/shub/jemunro/nf-wgs-raxml-ng/latest/2019-08-19-1a039846-d52be8c6/Singularity
 collection: jemunro/nf-wgs-raxml-ng
 ---

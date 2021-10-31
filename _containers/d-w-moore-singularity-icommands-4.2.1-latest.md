@@ -9,7 +9,7 @@ build_date: "2018-05-23T02:20:48.076Z"
 size_mb: 480
 size: 174526495
 sif: "https://datasets.datalad.org/shub/d-w-moore/singularity-icommands-4.2.1/latest/2018-05-23-724d2f8c-580c3c7c/580c3c7ca162b4d0ddcb23b7edaa9f0f.simg"
-url: https://datasets.datalad.org/shub/d-w-moore/singularity-icommands-4.2.1/latest/2018-05-23-724d2f8c-580c3c7c/
+datalad_url: https://datasets.datalad.org?dir=/shub/d-w-moore/singularity-icommands-4.2.1/latest/2018-05-23-724d2f8c-580c3c7c/
 recipe: https://datasets.datalad.org/shub/d-w-moore/singularity-icommands-4.2.1/latest/2018-05-23-724d2f8c-580c3c7c/Singularity
 collection: d-w-moore/singularity-icommands-4.2.1
 ---

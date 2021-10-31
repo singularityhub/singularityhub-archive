@@ -9,7 +9,7 @@ build_date: "2020-03-24T17:25:12.869Z"
 size_mb: 3134
 size: 1071603743
 sif: "https://datasets.datalad.org/shub/ISU-HPC/braker/2.1.2/2020-03-24-f3018f71-0a70205d/0a70205dd132a8844555c6042eb6d9c7.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/braker/2.1.2/2020-03-24-f3018f71-0a70205d/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/braker/2.1.2/2020-03-24-f3018f71-0a70205d/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/braker/2.1.2/2020-03-24-f3018f71-0a70205d/Singularity
 collection: ISU-HPC/braker
 ---

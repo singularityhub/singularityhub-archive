@@ -9,7 +9,7 @@ build_date: "2019-08-14T22:46:53.630Z"
 size_mb: 7
 size: 3428383
 sif: "https://datasets.datalad.org/shub/tin6150/cvs/latest/2019-08-14-f311fe14-664ac367/664ac367a8bc3da3d61c529f428af2cb.simg"
-url: https://datasets.datalad.org/shub/tin6150/cvs/latest/2019-08-14-f311fe14-664ac367/
+datalad_url: https://datasets.datalad.org?dir=/shub/tin6150/cvs/latest/2019-08-14-f311fe14-664ac367/
 recipe: https://datasets.datalad.org/shub/tin6150/cvs/latest/2019-08-14-f311fe14-664ac367/Singularity
 collection: tin6150/cvs
 ---

@@ -9,7 +9,7 @@ build_date: "2020-11-03T15:28:59.080Z"
 size_mb: 7728.0
 size: 2239000607
 sif: "https://datasets.datalad.org/shub/buregab/openspiel_singularity/custom_openspiel/2020-11-03-f0afcd96-d2f701d7/d2f701d7972a5c977c668d9a68322bdc.sif"
-url: https://datasets.datalad.org/shub/buregab/openspiel_singularity/custom_openspiel/2020-11-03-f0afcd96-d2f701d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/buregab/openspiel_singularity/custom_openspiel/2020-11-03-f0afcd96-d2f701d7/
 recipe: https://datasets.datalad.org/shub/buregab/openspiel_singularity/custom_openspiel/2020-11-03-f0afcd96-d2f701d7/Singularity
 collection: buregab/openspiel_singularity
 ---

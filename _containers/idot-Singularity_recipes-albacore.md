@@ -9,7 +9,7 @@ build_date: "2018-07-31T15:32:55.898Z"
 size_mb: 832
 size: 399999007
 sif: "https://datasets.datalad.org/shub/idot/Singularity_recipes/albacore/2018-07-31-015ef587-58067264/58067264b39dd5e557be2c695f58d1e0.simg"
-url: https://datasets.datalad.org/shub/idot/Singularity_recipes/albacore/2018-07-31-015ef587-58067264/
+datalad_url: https://datasets.datalad.org?dir=/shub/idot/Singularity_recipes/albacore/2018-07-31-015ef587-58067264/
 recipe: https://datasets.datalad.org/shub/idot/Singularity_recipes/albacore/2018-07-31-015ef587-58067264/Singularity
 collection: idot/Singularity_recipes
 ---

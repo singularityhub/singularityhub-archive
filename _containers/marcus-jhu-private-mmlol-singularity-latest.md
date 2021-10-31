@@ -9,7 +9,7 @@ build_date: "2020-09-14T14:47:17.139Z"
 size_mb: 207.0
 size: 82804767
 sif: "https://datasets.datalad.org/shub/marcus-jhu-private/mmlol-singularity/latest/2020-09-14-996b143b-15d7d5ca/15d7d5caee36900ce7c544b95af74aca.sif"
-url: https://datasets.datalad.org/shub/marcus-jhu-private/mmlol-singularity/latest/2020-09-14-996b143b-15d7d5ca/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcus-jhu-private/mmlol-singularity/latest/2020-09-14-996b143b-15d7d5ca/
 recipe: https://datasets.datalad.org/shub/marcus-jhu-private/mmlol-singularity/latest/2020-09-14-996b143b-15d7d5ca/Singularity
 collection: marcus-jhu-private/mmlol-singularity
 ---

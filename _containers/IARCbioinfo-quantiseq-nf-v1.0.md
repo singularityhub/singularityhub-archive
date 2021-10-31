@@ -9,7 +9,7 @@ build_date: "2020-07-27T15:04:19.645Z"
 size_mb: 2862.0
 size: 1807499295
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/quantiseq-nf/v1.0/2020-07-27-7ed21f88-8829ea36/8829ea361ab3d40835d1e748c09363f3.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/quantiseq-nf/v1.0/2020-07-27-7ed21f88-8829ea36/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/quantiseq-nf/v1.0/2020-07-27-7ed21f88-8829ea36/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/quantiseq-nf/v1.0/2020-07-27-7ed21f88-8829ea36/Singularity
 collection: IARCbioinfo/quantiseq-nf
 ---

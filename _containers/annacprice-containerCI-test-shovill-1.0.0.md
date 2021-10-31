@@ -9,7 +9,7 @@ build_date: "2020-08-13T19:15:50.719Z"
 size_mb: 1312.0
 size: 480432159
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/shovill-1.0.0/2020-08-13-2cb82540-320fa00d/320fa00dea283ff77373a80b9b6afe64.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/shovill-1.0.0/2020-08-13-2cb82540-320fa00d/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/shovill-1.0.0/2020-08-13-2cb82540-320fa00d/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/shovill-1.0.0/2020-08-13-2cb82540-320fa00d/Singularity
 collection: annacprice/containerCI-test
 ---

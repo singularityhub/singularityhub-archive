@@ -9,7 +9,7 @@ build_date: "2020-06-08T21:06:38.482Z"
 size_mb: 5698
 size: 2721341471
 sif: "https://datasets.datalad.org/shub/DeepLearnPhysics/larcv2-singularity/ub16.04-pytorch0.4.1-root6.14.04/2020-06-08-be669c05-5dcff977/5dcff977ce83fdd7a35d7773d31a83e6.simg"
-url: https://datasets.datalad.org/shub/DeepLearnPhysics/larcv2-singularity/ub16.04-pytorch0.4.1-root6.14.04/2020-06-08-be669c05-5dcff977/
+datalad_url: https://datasets.datalad.org?dir=/shub/DeepLearnPhysics/larcv2-singularity/ub16.04-pytorch0.4.1-root6.14.04/2020-06-08-be669c05-5dcff977/
 recipe: https://datasets.datalad.org/shub/DeepLearnPhysics/larcv2-singularity/ub16.04-pytorch0.4.1-root6.14.04/2020-06-08-be669c05-5dcff977/Singularity
 collection: DeepLearnPhysics/larcv2-singularity
 ---

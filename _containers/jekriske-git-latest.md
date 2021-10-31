@@ -9,7 +9,7 @@ build_date: "2019-12-07T22:51:48.674Z"
 size_mb: 37
 size: 16457759
 sif: "https://datasets.datalad.org/shub/jekriske/git/latest/2019-12-07-0f7a4876-a4942a40/a4942a407e99ea0688e9fcae41b5d4e2.simg"
-url: https://datasets.datalad.org/shub/jekriske/git/latest/2019-12-07-0f7a4876-a4942a40/
+datalad_url: https://datasets.datalad.org?dir=/shub/jekriske/git/latest/2019-12-07-0f7a4876-a4942a40/
 recipe: https://datasets.datalad.org/shub/jekriske/git/latest/2019-12-07-0f7a4876-a4942a40/Singularity
 collection: jekriske/git
 ---

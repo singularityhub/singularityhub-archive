@@ -9,7 +9,7 @@ build_date: "2020-01-07T21:54:10.999Z"
 size_mb: 1737
 size: 582324255
 sif: "https://datasets.datalad.org/shub/nuitrcs/yade/latest/2020-01-07-9e1af9f8-f7c9e943/f7c9e943b591d0dff7a1b209f9a2e0f3.simg"
-url: https://datasets.datalad.org/shub/nuitrcs/yade/latest/2020-01-07-9e1af9f8-f7c9e943/
+datalad_url: https://datasets.datalad.org?dir=/shub/nuitrcs/yade/latest/2020-01-07-9e1af9f8-f7c9e943/
 recipe: https://datasets.datalad.org/shub/nuitrcs/yade/latest/2020-01-07-9e1af9f8-f7c9e943/Singularity
 collection: nuitrcs/yade
 ---

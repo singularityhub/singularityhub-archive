@@ -9,7 +9,7 @@ build_date: "2018-03-01T23:01:15.421Z"
 size_mb: 2268
 size: 640290847
 sif: "https://datasets.datalad.org/shub/faustus123/hdsingularity/latest/2018-03-01-4ab700bf-b2a59d11/b2a59d115b5bb0d345c97b2d7c85a071.simg"
-url: https://datasets.datalad.org/shub/faustus123/hdsingularity/latest/2018-03-01-4ab700bf-b2a59d11/
+datalad_url: https://datasets.datalad.org?dir=/shub/faustus123/hdsingularity/latest/2018-03-01-4ab700bf-b2a59d11/
 recipe: https://datasets.datalad.org/shub/faustus123/hdsingularity/latest/2018-03-01-4ab700bf-b2a59d11/Singularity
 collection: faustus123/hdsingularity
 ---

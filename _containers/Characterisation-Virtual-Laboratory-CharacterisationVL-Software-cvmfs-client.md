@@ -9,7 +9,7 @@ build_date: "2020-09-16T23:27:43.488Z"
 size_mb: 949.0
 size: 341938207
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cvmfs-client/2020-09-16-e09dfbeb-5d5e5267/5d5e52677b1ec547dcc0625a1b14fa73.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cvmfs-client/2020-09-16-e09dfbeb-5d5e5267/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cvmfs-client/2020-09-16-e09dfbeb-5d5e5267/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cvmfs-client/2020-09-16-e09dfbeb-5d5e5267/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

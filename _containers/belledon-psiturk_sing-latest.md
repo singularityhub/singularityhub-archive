@@ -9,7 +9,7 @@ build_date: "2018-04-13T04:44:02.333Z"
 size_mb: 502
 size: 203976735
 sif: "https://datasets.datalad.org/shub/belledon/psiturk_sing/latest/2018-04-13-2eb12490-0b3558d2/0b3558d222afcef03df392805677e9e8.simg"
-url: https://datasets.datalad.org/shub/belledon/psiturk_sing/latest/2018-04-13-2eb12490-0b3558d2/
+datalad_url: https://datasets.datalad.org?dir=/shub/belledon/psiturk_sing/latest/2018-04-13-2eb12490-0b3558d2/
 recipe: https://datasets.datalad.org/shub/belledon/psiturk_sing/latest/2018-04-13-2eb12490-0b3558d2/Singularity
 collection: belledon/psiturk_sing
 ---

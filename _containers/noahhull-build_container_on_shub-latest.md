@@ -9,7 +9,7 @@ build_date: "2019-08-09T17:52:01.622Z"
 size_mb: 532.0
 size: 210862111
 sif: "https://datasets.datalad.org/shub/noahhull/build_container_on_shub/latest/2019-08-09-6788e3ee-2392b57f/2392b57fcb9f6f2d4f7ebef403a47cec.sif"
-url: https://datasets.datalad.org/shub/noahhull/build_container_on_shub/latest/2019-08-09-6788e3ee-2392b57f/
+datalad_url: https://datasets.datalad.org?dir=/shub/noahhull/build_container_on_shub/latest/2019-08-09-6788e3ee-2392b57f/
 recipe: https://datasets.datalad.org/shub/noahhull/build_container_on_shub/latest/2019-08-09-6788e3ee-2392b57f/Singularity
 collection: noahhull/build_container_on_shub
 ---

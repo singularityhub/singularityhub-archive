@@ -9,7 +9,7 @@ build_date: "2020-03-27T17:24:34.473Z"
 size_mb: 2657.0
 size: 893300767
 sif: "https://datasets.datalad.org/shub/jsmentch/analyze-fmri/debian/2020-03-27-27619cd8-5d5158d1/5d5158d1ac6232e7357f3f32c5b74fc7.sif"
-url: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/debian/2020-03-27-27619cd8-5d5158d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/jsmentch/analyze-fmri/debian/2020-03-27-27619cd8-5d5158d1/
 recipe: https://datasets.datalad.org/shub/jsmentch/analyze-fmri/debian/2020-03-27-27619cd8-5d5158d1/Singularity
 collection: jsmentch/analyze-fmri
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-25T16:21:57.397Z"
 size_mb: 1898.1953125
 size: 1990402048
 sif: "https://datasets.datalad.org/shub/ftabaro/singularity-coderefinery2020/latest/2020-05-25-c3352cd9-720e2a59/720e2a592f4d663ab895995d2b83a58b2e1e1d42d7852880d439ba9f85c93804.sif"
-url: https://datasets.datalad.org/shub/ftabaro/singularity-coderefinery2020/latest/2020-05-25-c3352cd9-720e2a59/
+datalad_url: https://datasets.datalad.org?dir=/shub/ftabaro/singularity-coderefinery2020/latest/2020-05-25-c3352cd9-720e2a59/
 recipe: https://datasets.datalad.org/shub/ftabaro/singularity-coderefinery2020/latest/2020-05-25-c3352cd9-720e2a59/Singularity
 collection: ftabaro/singularity-coderefinery2020
 ---

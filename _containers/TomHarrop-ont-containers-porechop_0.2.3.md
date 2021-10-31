@@ -9,7 +9,7 @@ build_date: "2020-12-10T00:20:00.111Z"
 size_mb: 316.4921875
 size: 331866112
 sif: "https://datasets.datalad.org/shub/TomHarrop/ont-containers/porechop_0.2.3/2020-12-10-7a3a689f-5e7059dc/5e7059dca498b79cb11ecfbf48d14e4603eb2ed6a58a000976125164fd6e8afa.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/ont-containers/porechop_0.2.3/2020-12-10-7a3a689f-5e7059dc/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/ont-containers/porechop_0.2.3/2020-12-10-7a3a689f-5e7059dc/
 recipe: https://datasets.datalad.org/shub/TomHarrop/ont-containers/porechop_0.2.3/2020-12-10-7a3a689f-5e7059dc/Singularity
 collection: TomHarrop/ont-containers
 ---

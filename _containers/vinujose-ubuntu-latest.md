@@ -9,7 +9,7 @@ build_date: "2020-04-25T16:37:12.489Z"
 size_mb: 76
 size: 27947039
 sif: "https://datasets.datalad.org/shub/vinujose/ubuntu/latest/2020-04-25-dcec7350-e686a27d/e686a27d12ba425862699ece13d037cf.simg"
-url: https://datasets.datalad.org/shub/vinujose/ubuntu/latest/2020-04-25-dcec7350-e686a27d/
+datalad_url: https://datasets.datalad.org?dir=/shub/vinujose/ubuntu/latest/2020-04-25-dcec7350-e686a27d/
 recipe: https://datasets.datalad.org/shub/vinujose/ubuntu/latest/2020-04-25-dcec7350-e686a27d/Singularity
 collection: vinujose/ubuntu
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-12T15:20:08.207Z"
 size_mb: 2930.0
 size: 1135489055
 sif: "https://datasets.datalad.org/shub/tgac-vumc/BLADE/latest/2021-03-12-7734dfb4-92b37224/92b372245270a944910bf00c2b5af412.sif"
-url: https://datasets.datalad.org/shub/tgac-vumc/BLADE/latest/2021-03-12-7734dfb4-92b37224/
+datalad_url: https://datasets.datalad.org?dir=/shub/tgac-vumc/BLADE/latest/2021-03-12-7734dfb4-92b37224/
 recipe: https://datasets.datalad.org/shub/tgac-vumc/BLADE/latest/2021-03-12-7734dfb4-92b37224/Singularity
 collection: tgac-vumc/BLADE
 ---

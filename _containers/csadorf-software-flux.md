@@ -9,7 +9,7 @@ build_date: "2019-01-08T21:45:14.375Z"
 size_mb: 3841
 size: 1738072095
 sif: "https://datasets.datalad.org/shub/csadorf/software/flux/2019-01-08-3d509362-896eeff7/896eeff75bad293972a829540ecedc73.simg"
-url: https://datasets.datalad.org/shub/csadorf/software/flux/2019-01-08-3d509362-896eeff7/
+datalad_url: https://datasets.datalad.org?dir=/shub/csadorf/software/flux/2019-01-08-3d509362-896eeff7/
 recipe: https://datasets.datalad.org/shub/csadorf/software/flux/2019-01-08-3d509362-896eeff7/Singularity
 collection: csadorf/software
 ---

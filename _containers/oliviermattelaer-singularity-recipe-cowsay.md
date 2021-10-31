@@ -9,7 +9,7 @@ build_date: "2018-10-30T15:18:48.362Z"
 size_mb: 353
 size: 152510495
 sif: "https://datasets.datalad.org/shub/oliviermattelaer/singularity-recipe/cowsay/2018-10-30-a9c6e977-6e1a5e8b/6e1a5e8b4a4049925f50f60fb0067255.simg"
-url: https://datasets.datalad.org/shub/oliviermattelaer/singularity-recipe/cowsay/2018-10-30-a9c6e977-6e1a5e8b/
+datalad_url: https://datasets.datalad.org?dir=/shub/oliviermattelaer/singularity-recipe/cowsay/2018-10-30-a9c6e977-6e1a5e8b/
 recipe: https://datasets.datalad.org/shub/oliviermattelaer/singularity-recipe/cowsay/2018-10-30-a9c6e977-6e1a5e8b/Singularity
 collection: oliviermattelaer/singularity-recipe
 ---

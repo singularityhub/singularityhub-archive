@@ -9,7 +9,7 @@ build_date: "2020-04-08T00:33:12.385Z"
 size_mb: 782.13671875
 size: 820129792
 sif: "https://datasets.datalad.org/shub/TomHarrop/honeybee-genotype-pipeline/honeybee_genotype_pipeline_v0.0.9/2020-04-08-55b8d7dd-9beda5d1/9beda5d1ef2e3b1c8bea097c4947eafda613a83afb8caebe3454023325604d23.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/honeybee-genotype-pipeline/honeybee_genotype_pipeline_v0.0.9/2020-04-08-55b8d7dd-9beda5d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/honeybee-genotype-pipeline/honeybee_genotype_pipeline_v0.0.9/2020-04-08-55b8d7dd-9beda5d1/
 recipe: https://datasets.datalad.org/shub/TomHarrop/honeybee-genotype-pipeline/honeybee_genotype_pipeline_v0.0.9/2020-04-08-55b8d7dd-9beda5d1/Singularity
 collection: TomHarrop/honeybee-genotype-pipeline
 ---

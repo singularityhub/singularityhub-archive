@@ -9,7 +9,7 @@ build_date: "2020-09-09T10:30:47.125Z"
 size_mb: 1462.0
 size: 504950815
 sif: "https://datasets.datalad.org/shub/OSC/sa_singularity_winehq/latest/2020-09-09-cd680372-9a293eb1/9a293eb1c4365935f18b99b66dae49a5.sif"
-url: https://datasets.datalad.org/shub/OSC/sa_singularity_winehq/latest/2020-09-09-cd680372-9a293eb1/
+datalad_url: https://datasets.datalad.org?dir=/shub/OSC/sa_singularity_winehq/latest/2020-09-09-cd680372-9a293eb1/
 recipe: https://datasets.datalad.org/shub/OSC/sa_singularity_winehq/latest/2020-09-09-cd680372-9a293eb1/Singularity
 collection: OSC/sa_singularity_winehq
 ---

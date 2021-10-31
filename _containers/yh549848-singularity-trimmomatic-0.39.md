@@ -9,7 +9,7 @@ build_date: "2020-10-18T16:42:46.484Z"
 size_mb: 892.0
 size: 269565983
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-trimmomatic/0.39/2020-10-18-d28e6352-9baef384/9baef38437273ea6c6736c3ea2cf6363.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-trimmomatic/0.39/2020-10-18-d28e6352-9baef384/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-trimmomatic/0.39/2020-10-18-d28e6352-9baef384/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-trimmomatic/0.39/2020-10-18-d28e6352-9baef384/Singularity
 collection: yh549848/singularity-trimmomatic
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-07T02:59:25.891Z"
 size_mb: 356
 size: 87588895
 sif: "https://datasets.datalad.org/shub/containers-ftw/metrics-ftw/latest/2021-04-07-6ec35596-31159780/31159780b77f30c17ba8120f3cbff76a.simg"
-url: https://datasets.datalad.org/shub/containers-ftw/metrics-ftw/latest/2021-04-07-6ec35596-31159780/
+datalad_url: https://datasets.datalad.org?dir=/shub/containers-ftw/metrics-ftw/latest/2021-04-07-6ec35596-31159780/
 recipe: https://datasets.datalad.org/shub/containers-ftw/metrics-ftw/latest/2021-04-07-6ec35596-31159780/Singularity
 collection: containers-ftw/metrics-ftw
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-18T11:11:56.389Z"
 size_mb: 674.0
 size: 261488671
 sif: "https://datasets.datalad.org/shub/h3abionet/h3avarcall/fastqc/2021-01-18-5420785f-a7188732/a7188732e880048dc2f7e1f859b8d8ae.sif"
-url: https://datasets.datalad.org/shub/h3abionet/h3avarcall/fastqc/2021-01-18-5420785f-a7188732/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/h3avarcall/fastqc/2021-01-18-5420785f-a7188732/
 recipe: https://datasets.datalad.org/shub/h3abionet/h3avarcall/fastqc/2021-01-18-5420785f-a7188732/Singularity
 collection: h3abionet/h3avarcall
 ---

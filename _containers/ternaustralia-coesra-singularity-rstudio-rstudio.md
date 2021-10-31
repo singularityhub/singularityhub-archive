@@ -9,7 +9,7 @@ build_date: "2020-12-22T03:26:47.789Z"
 size_mb: 3142.0
 size: 1110241311
 sif: "https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-rstudio/rstudio/2020-12-22-18b2110d-396d4aac/396d4aaccbac2a8bfe15a0d3b49fa217.sif"
-url: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-rstudio/rstudio/2020-12-22-18b2110d-396d4aac/
+datalad_url: https://datasets.datalad.org?dir=/shub/ternaustralia/coesra-singularity-rstudio/rstudio/2020-12-22-18b2110d-396d4aac/
 recipe: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-rstudio/rstudio/2020-12-22-18b2110d-396d4aac/Singularity
 collection: ternaustralia/coesra-singularity-rstudio
 ---

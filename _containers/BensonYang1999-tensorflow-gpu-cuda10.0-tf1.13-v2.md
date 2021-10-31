@@ -9,7 +9,7 @@ build_date: "2021-03-19T22:03:05.676Z"
 size_mb: 5613
 size: 3055190047
 sif: "https://datasets.datalad.org/shub/BensonYang1999/tensorflow-gpu/cuda10.0-tf1.13-v2/2021-03-19-357e5623-437e2939/437e293927c9c38383b016cabf2eef75.simg"
-url: https://datasets.datalad.org/shub/BensonYang1999/tensorflow-gpu/cuda10.0-tf1.13-v2/2021-03-19-357e5623-437e2939/
+datalad_url: https://datasets.datalad.org?dir=/shub/BensonYang1999/tensorflow-gpu/cuda10.0-tf1.13-v2/2021-03-19-357e5623-437e2939/
 recipe: https://datasets.datalad.org/shub/BensonYang1999/tensorflow-gpu/cuda10.0-tf1.13-v2/2021-03-19-357e5623-437e2939/Singularity
 collection: BensonYang1999/tensorflow-gpu
 ---

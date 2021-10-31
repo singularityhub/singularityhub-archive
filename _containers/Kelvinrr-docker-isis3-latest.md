@@ -9,7 +9,7 @@ build_date: "2018-01-22T19:49:48.198Z"
 size_mb: 3161
 size: 1171521567
 sif: "https://datasets.datalad.org/shub/Kelvinrr/docker-isis3/latest/2018-01-22-d9bfff08-d31485ec/d31485ec9b681b5ac7ef3a47caf8e746.simg"
-url: https://datasets.datalad.org/shub/Kelvinrr/docker-isis3/latest/2018-01-22-d9bfff08-d31485ec/
+datalad_url: https://datasets.datalad.org?dir=/shub/Kelvinrr/docker-isis3/latest/2018-01-22-d9bfff08-d31485ec/
 recipe: https://datasets.datalad.org/shub/Kelvinrr/docker-isis3/latest/2018-01-22-d9bfff08-d31485ec/Singularity
 collection: Kelvinrr/docker-isis3
 ---

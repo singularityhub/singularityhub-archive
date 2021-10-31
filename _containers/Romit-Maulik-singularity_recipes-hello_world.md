@@ -9,7 +9,7 @@ build_date: "2021-04-16T01:05:02.488Z"
 size_mb: 972.0
 size: 356118559
 sif: "https://datasets.datalad.org/shub/Romit-Maulik/singularity_recipes/hello_world/2021-04-16-cddbc748-3db2efdb/3db2efdbde4647bd1a067f394e6683e0.sif"
-url: https://datasets.datalad.org/shub/Romit-Maulik/singularity_recipes/hello_world/2021-04-16-cddbc748-3db2efdb/
+datalad_url: https://datasets.datalad.org?dir=/shub/Romit-Maulik/singularity_recipes/hello_world/2021-04-16-cddbc748-3db2efdb/
 recipe: https://datasets.datalad.org/shub/Romit-Maulik/singularity_recipes/hello_world/2021-04-16-cddbc748-3db2efdb/Singularity
 collection: Romit-Maulik/singularity_recipes
 ---

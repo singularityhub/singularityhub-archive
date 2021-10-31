@@ -9,7 +9,7 @@ build_date: "2020-10-03T02:33:28.032Z"
 size_mb: 5041.0
 size: 2342936607
 sif: "https://datasets.datalad.org/shub/nhartwic/salk_containers_two_electric_bugaloo/assembly/2020-10-03-8b6b9d99-439ffc57/439ffc57787a83422f03b92fb0bc7b49.sif"
-url: https://datasets.datalad.org/shub/nhartwic/salk_containers_two_electric_bugaloo/assembly/2020-10-03-8b6b9d99-439ffc57/
+datalad_url: https://datasets.datalad.org?dir=/shub/nhartwic/salk_containers_two_electric_bugaloo/assembly/2020-10-03-8b6b9d99-439ffc57/
 recipe: https://datasets.datalad.org/shub/nhartwic/salk_containers_two_electric_bugaloo/assembly/2020-10-03-8b6b9d99-439ffc57/Singularity
 collection: nhartwic/salk_containers_two_electric_bugaloo
 ---

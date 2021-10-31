@@ -9,7 +9,7 @@ build_date: "2019-06-13T19:52:02.109Z"
 size_mb: 6188
 size: 3792031775
 sif: "https://datasets.datalad.org/shub/ethancaballero/singularity-containers/myia_benchmarks_prof/2019-06-13-fb39b406-200747a5/200747a591fbd50109da94b75491f97a.simg"
-url: https://datasets.datalad.org/shub/ethancaballero/singularity-containers/myia_benchmarks_prof/2019-06-13-fb39b406-200747a5/
+datalad_url: https://datasets.datalad.org?dir=/shub/ethancaballero/singularity-containers/myia_benchmarks_prof/2019-06-13-fb39b406-200747a5/
 recipe: https://datasets.datalad.org/shub/ethancaballero/singularity-containers/myia_benchmarks_prof/2019-06-13-fb39b406-200747a5/Singularity
 collection: ethancaballero/singularity-containers
 ---

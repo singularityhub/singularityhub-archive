@@ -9,7 +9,7 @@ build_date: "2019-05-24T15:49:14.260Z"
 size_mb: 533
 size: 208490527
 sif: "https://datasets.datalad.org/shub/syserr/build_container_on_shub/latest/2019-05-24-2f98be5d-343d297d/343d297d069119709aa59749c3d3c993.simg"
-url: https://datasets.datalad.org/shub/syserr/build_container_on_shub/latest/2019-05-24-2f98be5d-343d297d/
+datalad_url: https://datasets.datalad.org?dir=/shub/syserr/build_container_on_shub/latest/2019-05-24-2f98be5d-343d297d/
 recipe: https://datasets.datalad.org/shub/syserr/build_container_on_shub/latest/2019-05-24-2f98be5d-343d297d/Singularity
 collection: syserr/build_container_on_shub
 ---

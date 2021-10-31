@@ -9,7 +9,7 @@ build_date: "2018-12-04T00:53:19.983Z"
 size_mb: 3617
 size: 1365577759
 sif: "https://datasets.datalad.org/shub/hongchengkuan/cornell-moe-singularity/latest/2018-12-04-8670926c-c28cef5a/c28cef5a534de1a831d430205172df81.simg"
-url: https://datasets.datalad.org/shub/hongchengkuan/cornell-moe-singularity/latest/2018-12-04-8670926c-c28cef5a/
+datalad_url: https://datasets.datalad.org?dir=/shub/hongchengkuan/cornell-moe-singularity/latest/2018-12-04-8670926c-c28cef5a/
 recipe: https://datasets.datalad.org/shub/hongchengkuan/cornell-moe-singularity/latest/2018-12-04-8670926c-c28cef5a/Singularity
 collection: hongchengkuan/cornell-moe-singularity
 ---

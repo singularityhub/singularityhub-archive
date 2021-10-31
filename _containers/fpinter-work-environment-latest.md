@@ -9,7 +9,7 @@ build_date: "2021-02-26T02:32:40.031Z"
 size_mb: 1043.2890625
 size: 1093967872
 sif: "https://datasets.datalad.org/shub/fpinter/work-environment/latest/2021-02-26-26ef4c47-280125e2/280125e2ddd15b7e22c1fcb86b66b696dada3b0f11442bcfc0ac02dfceb38301.sif"
-url: https://datasets.datalad.org/shub/fpinter/work-environment/latest/2021-02-26-26ef4c47-280125e2/
+datalad_url: https://datasets.datalad.org?dir=/shub/fpinter/work-environment/latest/2021-02-26-26ef4c47-280125e2/
 recipe: https://datasets.datalad.org/shub/fpinter/work-environment/latest/2021-02-26-26ef4c47-280125e2/Singularity
 collection: fpinter/work-environment
 ---

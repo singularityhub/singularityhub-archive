@@ -9,7 +9,7 @@ build_date: "2021-03-05T21:51:53.806Z"
 size_mb: 8435.0
 size: 4636631071
 sif: "https://datasets.datalad.org/shub/daverblair/singularity_vlpi/latest/2021-03-05-80861c62-cd8dc7f6/cd8dc7f6c459a092a02575de504788d6.sif"
-url: https://datasets.datalad.org/shub/daverblair/singularity_vlpi/latest/2021-03-05-80861c62-cd8dc7f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/daverblair/singularity_vlpi/latest/2021-03-05-80861c62-cd8dc7f6/
 recipe: https://datasets.datalad.org/shub/daverblair/singularity_vlpi/latest/2021-03-05-80861c62-cd8dc7f6/Singularity
 collection: daverblair/singularity_vlpi
 ---

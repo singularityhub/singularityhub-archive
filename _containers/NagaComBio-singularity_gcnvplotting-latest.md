@@ -9,7 +9,7 @@ build_date: "2021-03-20T11:50:49.025Z"
 size_mb: 4258.0
 size: 1854439455
 sif: "https://datasets.datalad.org/shub/NagaComBio/singularity_gcnvplotting/latest/2021-03-20-5039939c-a5c8ee18/a5c8ee183c84838bfa579f09a37796ba.sif"
-url: https://datasets.datalad.org/shub/NagaComBio/singularity_gcnvplotting/latest/2021-03-20-5039939c-a5c8ee18/
+datalad_url: https://datasets.datalad.org?dir=/shub/NagaComBio/singularity_gcnvplotting/latest/2021-03-20-5039939c-a5c8ee18/
 recipe: https://datasets.datalad.org/shub/NagaComBio/singularity_gcnvplotting/latest/2021-03-20-5039939c-a5c8ee18/Singularity
 collection: NagaComBio/singularity_gcnvplotting
 ---

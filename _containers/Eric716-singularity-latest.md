@@ -9,7 +9,7 @@ build_date: "2019-05-03T14:43:31.745Z"
 size_mb: 4757
 size: 1964711967
 sif: "https://datasets.datalad.org/shub/Eric716/singularity/latest/2019-05-03-567a1bb0-d8d60732/d8d6073213d95a0d7f0e51e4917dc5c8.simg"
-url: https://datasets.datalad.org/shub/Eric716/singularity/latest/2019-05-03-567a1bb0-d8d60732/
+datalad_url: https://datasets.datalad.org?dir=/shub/Eric716/singularity/latest/2019-05-03-567a1bb0-d8d60732/
 recipe: https://datasets.datalad.org/shub/Eric716/singularity/latest/2019-05-03-567a1bb0-d8d60732/Singularity
 collection: Eric716/singularity
 ---

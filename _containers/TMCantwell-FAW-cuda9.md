@@ -9,7 +9,7 @@ build_date: "2019-03-07T14:19:12.980Z"
 size_mb: 9222
 size: 4635861023
 sif: "https://datasets.datalad.org/shub/TMCantwell/FAW/cuda9/2019-03-07-89277322-6e01ffb2/6e01ffb25d6e23b0a423009a21191b02.simg"
-url: https://datasets.datalad.org/shub/TMCantwell/FAW/cuda9/2019-03-07-89277322-6e01ffb2/
+datalad_url: https://datasets.datalad.org?dir=/shub/TMCantwell/FAW/cuda9/2019-03-07-89277322-6e01ffb2/
 recipe: https://datasets.datalad.org/shub/TMCantwell/FAW/cuda9/2019-03-07-89277322-6e01ffb2/Singularity
 collection: TMCantwell/FAW
 ---

@@ -9,7 +9,7 @@ build_date: "2020-09-07T13:41:20.733Z"
 size_mb: 595
 size: 239149087
 sif: "https://datasets.datalad.org/shub/J35P312/CircusCircos/latest/2020-09-07-739688ea-ba8bac94/ba8bac9451be8d9143cb001aa892a76b.simg"
-url: https://datasets.datalad.org/shub/J35P312/CircusCircos/latest/2020-09-07-739688ea-ba8bac94/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/CircusCircos/latest/2020-09-07-739688ea-ba8bac94/
 recipe: https://datasets.datalad.org/shub/J35P312/CircusCircos/latest/2020-09-07-739688ea-ba8bac94/Singularity
 collection: J35P312/CircusCircos
 ---

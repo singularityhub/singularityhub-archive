@@ -9,7 +9,7 @@ build_date: "2018-04-13T04:44:05.118Z"
 size_mb: 3200
 size: 1380724767
 sif: "https://datasets.datalad.org/shub/electronioncollider/jleic/1.0.3/2018-04-13-fd00861b-33e874e9/33e874e902b388b4847406cb2df85861.simg"
-url: https://datasets.datalad.org/shub/electronioncollider/jleic/1.0.3/2018-04-13-fd00861b-33e874e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/electronioncollider/jleic/1.0.3/2018-04-13-fd00861b-33e874e9/
 recipe: https://datasets.datalad.org/shub/electronioncollider/jleic/1.0.3/2018-04-13-fd00861b-33e874e9/Singularity
 collection: electronioncollider/jleic
 ---

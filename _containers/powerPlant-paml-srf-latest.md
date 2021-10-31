@@ -9,7 +9,7 @@ build_date: "2021-03-19T15:19:02.979Z"
 size_mb: 116.0
 size: 54251551
 sif: "https://datasets.datalad.org/shub/powerPlant/paml-srf/latest/2021-03-19-3dfe1f9c-30c4a07d/30c4a07d68ec4177db8dc5f4fe70bc0c.sif"
-url: https://datasets.datalad.org/shub/powerPlant/paml-srf/latest/2021-03-19-3dfe1f9c-30c4a07d/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/paml-srf/latest/2021-03-19-3dfe1f9c-30c4a07d/
 recipe: https://datasets.datalad.org/shub/powerPlant/paml-srf/latest/2021-03-19-3dfe1f9c-30c4a07d/Singularity
 collection: powerPlant/paml-srf
 ---

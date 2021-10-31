@@ -9,7 +9,7 @@ build_date: "2021-02-22T21:28:19.147Z"
 size_mb: 405
 size: 133754911
 sif: "https://datasets.datalad.org/shub/haavee/jiveplot/latest/2021-02-22-770fc9d9-a709d5f1/a709d5f190529a687b47ccc44341c136.simg"
-url: https://datasets.datalad.org/shub/haavee/jiveplot/latest/2021-02-22-770fc9d9-a709d5f1/
+datalad_url: https://datasets.datalad.org?dir=/shub/haavee/jiveplot/latest/2021-02-22-770fc9d9-a709d5f1/
 recipe: https://datasets.datalad.org/shub/haavee/jiveplot/latest/2021-02-22-770fc9d9-a709d5f1/Singularity
 collection: haavee/jiveplot
 ---

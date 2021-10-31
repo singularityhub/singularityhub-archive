@@ -9,7 +9,7 @@ build_date: "2018-11-28T14:26:02.844Z"
 size_mb: 3558
 size: 1708576799
 sif: "https://datasets.datalad.org/shub/gdhugo/coral_singularity/simpleitk/2018-11-28-89e67fe9-8df3941f/8df3941ffc7e899dfd34695464b9a0ec.simg"
-url: https://datasets.datalad.org/shub/gdhugo/coral_singularity/simpleitk/2018-11-28-89e67fe9-8df3941f/
+datalad_url: https://datasets.datalad.org?dir=/shub/gdhugo/coral_singularity/simpleitk/2018-11-28-89e67fe9-8df3941f/
 recipe: https://datasets.datalad.org/shub/gdhugo/coral_singularity/simpleitk/2018-11-28-89e67fe9-8df3941f/Singularity
 collection: gdhugo/coral_singularity
 ---

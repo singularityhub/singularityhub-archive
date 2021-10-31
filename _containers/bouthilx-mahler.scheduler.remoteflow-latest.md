@@ -9,7 +9,7 @@ build_date: "2019-03-23T22:36:04.844Z"
 size_mb: 510
 size: 196157471
 sif: "https://datasets.datalad.org/shub/bouthilx/mahler.scheduler.remoteflow/latest/2019-03-23-1cc34e26-e9386043/e93860437ec5cbd5eeb3491411827074.simg"
-url: https://datasets.datalad.org/shub/bouthilx/mahler.scheduler.remoteflow/latest/2019-03-23-1cc34e26-e9386043/
+datalad_url: https://datasets.datalad.org?dir=/shub/bouthilx/mahler.scheduler.remoteflow/latest/2019-03-23-1cc34e26-e9386043/
 recipe: https://datasets.datalad.org/shub/bouthilx/mahler.scheduler.remoteflow/latest/2019-03-23-1cc34e26-e9386043/Singularity
 collection: bouthilx/mahler.scheduler.remoteflow
 ---

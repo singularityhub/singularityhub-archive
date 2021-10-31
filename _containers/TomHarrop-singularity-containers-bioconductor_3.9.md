@@ -9,7 +9,7 @@ build_date: "2021-04-19T08:34:51.273Z"
 size_mb: 4060.0
 size: 1352036383
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/bioconductor_3.9/2021-04-19-2990d81b-752a9788/752a9788043f6a471665da4e270cd870.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/bioconductor_3.9/2021-04-19-2990d81b-752a9788/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/bioconductor_3.9/2021-04-19-2990d81b-752a9788/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/bioconductor_3.9/2021-04-19-2990d81b-752a9788/Singularity
 collection: TomHarrop/singularity-containers
 ---

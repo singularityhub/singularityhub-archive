@@ -9,7 +9,7 @@ build_date: "2019-05-19T12:12:34.432Z"
 size_mb: 614
 size: 240091167
 sif: "https://datasets.datalad.org/shub/mvdenbog/BwaSamtoolsSingle/latest/2019-05-19-0b8e7c41-749ac5ca/749ac5cadab399f9e56681c315dfe6e5.simg"
-url: https://datasets.datalad.org/shub/mvdenbog/BwaSamtoolsSingle/latest/2019-05-19-0b8e7c41-749ac5ca/
+datalad_url: https://datasets.datalad.org?dir=/shub/mvdenbog/BwaSamtoolsSingle/latest/2019-05-19-0b8e7c41-749ac5ca/
 recipe: https://datasets.datalad.org/shub/mvdenbog/BwaSamtoolsSingle/latest/2019-05-19-0b8e7c41-749ac5ca/Singularity
 collection: mvdenbog/BwaSamtoolsSingle
 ---

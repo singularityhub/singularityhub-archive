@@ -9,7 +9,7 @@ build_date: "2019-06-06T09:15:15.412Z"
 size_mb: 2402
 size: 721670175
 sif: "https://datasets.datalad.org/shub/keceli/ffn/tf1.12/2019-06-06-c664ca2f-51ec0927/51ec09270f8e8c78cd52b33ffaf4de8f.simg"
-url: https://datasets.datalad.org/shub/keceli/ffn/tf1.12/2019-06-06-c664ca2f-51ec0927/
+datalad_url: https://datasets.datalad.org?dir=/shub/keceli/ffn/tf1.12/2019-06-06-c664ca2f-51ec0927/
 recipe: https://datasets.datalad.org/shub/keceli/ffn/tf1.12/2019-06-06-c664ca2f-51ec0927/Singularity
 collection: keceli/ffn
 ---

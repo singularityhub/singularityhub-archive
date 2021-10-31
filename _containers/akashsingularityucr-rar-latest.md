@@ -9,7 +9,7 @@ build_date: "2020-01-20T07:40:49.828Z"
 size_mb: 823.0
 size: 263933983
 sif: "https://datasets.datalad.org/shub/akashsingularityucr/rar/latest/2020-01-20-8eae96b2-27b59e45/27b59e451c0ebb1bb3360cd49d5e6652.sif"
-url: https://datasets.datalad.org/shub/akashsingularityucr/rar/latest/2020-01-20-8eae96b2-27b59e45/
+datalad_url: https://datasets.datalad.org?dir=/shub/akashsingularityucr/rar/latest/2020-01-20-8eae96b2-27b59e45/
 recipe: https://datasets.datalad.org/shub/akashsingularityucr/rar/latest/2020-01-20-8eae96b2-27b59e45/Singularity
 collection: akashsingularityucr/rar
 ---

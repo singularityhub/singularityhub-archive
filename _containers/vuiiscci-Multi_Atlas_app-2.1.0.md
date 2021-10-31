@@ -9,7 +9,7 @@ build_date: "2018-03-15T13:24:19.918Z"
 size_mb: 14474
 size: 7385444383
 sif: "https://datasets.datalad.org/shub/vuiiscci/Multi_Atlas_app/2.1.0/2018-03-15-befe1c06-8524316a/8524316a76d4a6aa26a88edc832a2123.simg"
-url: https://datasets.datalad.org/shub/vuiiscci/Multi_Atlas_app/2.1.0/2018-03-15-befe1c06-8524316a/
+datalad_url: https://datasets.datalad.org?dir=/shub/vuiiscci/Multi_Atlas_app/2.1.0/2018-03-15-befe1c06-8524316a/
 recipe: https://datasets.datalad.org/shub/vuiiscci/Multi_Atlas_app/2.1.0/2018-03-15-befe1c06-8524316a/Singularity
 collection: vuiiscci/Multi_Atlas_app
 ---

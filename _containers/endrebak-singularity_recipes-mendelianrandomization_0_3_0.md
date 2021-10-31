@@ -9,7 +9,7 @@ build_date: "2018-03-14T15:22:05.472Z"
 size_mb: 1032
 size: 363659295
 sif: "https://datasets.datalad.org/shub/endrebak/singularity_recipes/mendelianrandomization_0_3_0/2018-03-14-a759e971-93202988/93202988eff8e6ebd7d4b70782bce0db.simg"
-url: https://datasets.datalad.org/shub/endrebak/singularity_recipes/mendelianrandomization_0_3_0/2018-03-14-a759e971-93202988/
+datalad_url: https://datasets.datalad.org?dir=/shub/endrebak/singularity_recipes/mendelianrandomization_0_3_0/2018-03-14-a759e971-93202988/
 recipe: https://datasets.datalad.org/shub/endrebak/singularity_recipes/mendelianrandomization_0_3_0/2018-03-14-a759e971-93202988/Singularity
 collection: endrebak/singularity_recipes
 ---

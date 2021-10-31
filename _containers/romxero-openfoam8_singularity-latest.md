@@ -9,7 +9,7 @@ build_date: "2021-04-02T17:58:24.274Z"
 size_mb: 683.73046875
 size: 716943360
 sif: "https://datasets.datalad.org/shub/romxero/openfoam8_singularity/latest/2021-04-02-bf2aa41b-ac48dd05/ac48dd05ab4a987101c04d72892c28786f4c0109313a29df114af6a9423d3dd5.sif"
-url: https://datasets.datalad.org/shub/romxero/openfoam8_singularity/latest/2021-04-02-bf2aa41b-ac48dd05/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/openfoam8_singularity/latest/2021-04-02-bf2aa41b-ac48dd05/
 recipe: https://datasets.datalad.org/shub/romxero/openfoam8_singularity/latest/2021-04-02-bf2aa41b-ac48dd05/Singularity
 collection: romxero/openfoam8_singularity
 ---

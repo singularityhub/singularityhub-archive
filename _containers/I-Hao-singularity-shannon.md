@@ -9,7 +9,7 @@ build_date: "2020-06-19T20:44:24.398Z"
 size_mb: 4155.0
 size: 1415344159
 sif: "https://datasets.datalad.org/shub/I-Hao/singularity/shannon/2020-06-19-b89e2954-0e6e00f2/0e6e00f2cee844d8221bc94b61095ec0.sif"
-url: https://datasets.datalad.org/shub/I-Hao/singularity/shannon/2020-06-19-b89e2954-0e6e00f2/
+datalad_url: https://datasets.datalad.org?dir=/shub/I-Hao/singularity/shannon/2020-06-19-b89e2954-0e6e00f2/
 recipe: https://datasets.datalad.org/shub/I-Hao/singularity/shannon/2020-06-19-b89e2954-0e6e00f2/Singularity
 collection: I-Hao/singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2018-09-16T00:53:00.698Z"
 size_mb: 4998
 size: 2752069663
 sif: "https://datasets.datalad.org/shub/xboix/docker/latest/2018-09-16-0d44cae2-bc582c42/bc582c422a64376d211268b4a2a807ca.simg"
-url: https://datasets.datalad.org/shub/xboix/docker/latest/2018-09-16-0d44cae2-bc582c42/
+datalad_url: https://datasets.datalad.org?dir=/shub/xboix/docker/latest/2018-09-16-0d44cae2-bc582c42/
 recipe: https://datasets.datalad.org/shub/xboix/docker/latest/2018-09-16-0d44cae2-bc582c42/Singularity
 collection: xboix/docker
 ---

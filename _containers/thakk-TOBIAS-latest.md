@@ -9,7 +9,7 @@ build_date: "2020-05-07T08:20:03.857Z"
 size_mb: 2558.0
 size: 1073086495
 sif: "https://datasets.datalad.org/shub/thakk/TOBIAS/latest/2020-05-07-72620fdc-ede4b4d7/ede4b4d7fa616796dd36d16f7a587ac9.sif"
-url: https://datasets.datalad.org/shub/thakk/TOBIAS/latest/2020-05-07-72620fdc-ede4b4d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/thakk/TOBIAS/latest/2020-05-07-72620fdc-ede4b4d7/
 recipe: https://datasets.datalad.org/shub/thakk/TOBIAS/latest/2020-05-07-72620fdc-ede4b4d7/Singularity
 collection: thakk/TOBIAS
 ---

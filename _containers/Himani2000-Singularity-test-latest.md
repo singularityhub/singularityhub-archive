@@ -9,7 +9,7 @@ build_date: "2020-05-11T17:52:26.344Z"
 size_mb: 79.0
 size: 27725855
 sif: "https://datasets.datalad.org/shub/Himani2000/Singularity-test/latest/2020-05-11-74029e6d-004e65bd/004e65bd28d436bb4e5ba1170f7a59ba.sif"
-url: https://datasets.datalad.org/shub/Himani2000/Singularity-test/latest/2020-05-11-74029e6d-004e65bd/
+datalad_url: https://datasets.datalad.org?dir=/shub/Himani2000/Singularity-test/latest/2020-05-11-74029e6d-004e65bd/
 recipe: https://datasets.datalad.org/shub/Himani2000/Singularity-test/latest/2020-05-11-74029e6d-004e65bd/Singularity
 collection: Himani2000/Singularity-test
 ---

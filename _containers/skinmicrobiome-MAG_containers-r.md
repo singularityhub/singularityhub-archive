@@ -9,7 +9,7 @@ build_date: "2020-10-20T02:31:05.416Z"
 size_mb: 907.0
 size: 339836959
 sif: "https://datasets.datalad.org/shub/skinmicrobiome/MAG_containers/r/2020-10-20-3e88b183-55219d0d/55219d0d5d9bc85ecce0a64e56f24f8e.sif"
-url: https://datasets.datalad.org/shub/skinmicrobiome/MAG_containers/r/2020-10-20-3e88b183-55219d0d/
+datalad_url: https://datasets.datalad.org?dir=/shub/skinmicrobiome/MAG_containers/r/2020-10-20-3e88b183-55219d0d/
 recipe: https://datasets.datalad.org/shub/skinmicrobiome/MAG_containers/r/2020-10-20-3e88b183-55219d0d/Singularity
 collection: skinmicrobiome/MAG_containers
 ---

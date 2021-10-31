@@ -9,7 +9,7 @@ build_date: "2020-12-11T19:20:58.563Z"
 size_mb: 375
 size: 72552479
 sif: "https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-alpine-roca/latest/2020-12-11-18e9b7e9-24b1501d/24b1501dee0060f9f16dfba7658c6f55.simg"
-url: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-alpine-roca/latest/2020-12-11-18e9b7e9-24b1501d/
+datalad_url: https://datasets.datalad.org?dir=/shub/truatpasteurdotfr/singularity-docker-alpine-roca/latest/2020-12-11-18e9b7e9-24b1501d/
 recipe: https://datasets.datalad.org/shub/truatpasteurdotfr/singularity-docker-alpine-roca/latest/2020-12-11-18e9b7e9-24b1501d/Singularity
 collection: truatpasteurdotfr/singularity-docker-alpine-roca
 ---

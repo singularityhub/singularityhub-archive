@@ -9,7 +9,7 @@ build_date: "2019-03-13T03:34:53.030Z"
 size_mb: 910
 size: 314417183
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/aracne-ap.centos7/2019-03-13-b30f2442-e4953ac4/e4953ac47e728fcffd015a5f1250eca3.simg"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/aracne-ap.centos7/2019-03-13-b30f2442-e4953ac4/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/aracne-ap.centos7/2019-03-13-b30f2442-e4953ac4/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/aracne-ap.centos7/2019-03-13-b30f2442-e4953ac4/Singularity
 collection: brucemoran/Singularity
 ---

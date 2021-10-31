@@ -9,7 +9,7 @@ build_date: "2018-11-21T17:32:10.167Z"
 size_mb: 302
 size: 53547039
 sif: "https://datasets.datalad.org/shub/federatedcloud/NixTemplates/nix_alpine_openmpi_743d51f9711fdb3f59b442641b8fa950e41128b9/2018-11-21-8ad0d698-f35399d9/f35399d960a1640a8e695e659193a847.simg"
-url: https://datasets.datalad.org/shub/federatedcloud/NixTemplates/nix_alpine_openmpi_743d51f9711fdb3f59b442641b8fa950e41128b9/2018-11-21-8ad0d698-f35399d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/federatedcloud/NixTemplates/nix_alpine_openmpi_743d51f9711fdb3f59b442641b8fa950e41128b9/2018-11-21-8ad0d698-f35399d9/
 recipe: https://datasets.datalad.org/shub/federatedcloud/NixTemplates/nix_alpine_openmpi_743d51f9711fdb3f59b442641b8fa950e41128b9/2018-11-21-8ad0d698-f35399d9/Singularity
 collection: federatedcloud/NixTemplates
 ---

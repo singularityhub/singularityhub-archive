@@ -9,7 +9,7 @@ build_date: "2020-04-05T22:31:28.359Z"
 size_mb: 1584.0
 size: 704831519
 sif: "https://datasets.datalad.org/shub/rkalyanapurdue/geoedf-connector/latest/2020-04-05-e577019c-cc4e45c7/cc4e45c7919739d37aedb9a1e5f09fbd.sif"
-url: https://datasets.datalad.org/shub/rkalyanapurdue/geoedf-connector/latest/2020-04-05-e577019c-cc4e45c7/
+datalad_url: https://datasets.datalad.org?dir=/shub/rkalyanapurdue/geoedf-connector/latest/2020-04-05-e577019c-cc4e45c7/
 recipe: https://datasets.datalad.org/shub/rkalyanapurdue/geoedf-connector/latest/2020-04-05-e577019c-cc4e45c7/Singularity
 collection: rkalyanapurdue/geoedf-connector
 ---

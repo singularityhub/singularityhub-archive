@@ -9,7 +9,7 @@ build_date: "2018-11-06T16:15:10.718Z"
 size_mb: 2275
 size: 710254623
 sif: "https://datasets.datalad.org/shub/aeneas-wp3/use-case-2/pulsar.ska/2018-11-06-343b75ef-9c502cff/9c502cff3383684ed9ad43f5346fea86.simg"
-url: https://datasets.datalad.org/shub/aeneas-wp3/use-case-2/pulsar.ska/2018-11-06-343b75ef-9c502cff/
+datalad_url: https://datasets.datalad.org?dir=/shub/aeneas-wp3/use-case-2/pulsar.ska/2018-11-06-343b75ef-9c502cff/
 recipe: https://datasets.datalad.org/shub/aeneas-wp3/use-case-2/pulsar.ska/2018-11-06-343b75ef-9c502cff/Singularity
 collection: aeneas-wp3/use-case-2
 ---

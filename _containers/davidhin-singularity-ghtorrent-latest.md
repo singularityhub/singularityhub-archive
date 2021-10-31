@@ -9,7 +9,7 @@ build_date: "2021-03-12T00:27:49.875Z"
 size_mb: 837.0
 size: 324821023
 sif: "https://datasets.datalad.org/shub/davidhin/singularity-ghtorrent/latest/2021-03-12-2c463399-e0ef1583/e0ef15831d16dce142b7a04ca339a89e.sif"
-url: https://datasets.datalad.org/shub/davidhin/singularity-ghtorrent/latest/2021-03-12-2c463399-e0ef1583/
+datalad_url: https://datasets.datalad.org?dir=/shub/davidhin/singularity-ghtorrent/latest/2021-03-12-2c463399-e0ef1583/
 recipe: https://datasets.datalad.org/shub/davidhin/singularity-ghtorrent/latest/2021-03-12-2c463399-e0ef1583/Singularity
 collection: davidhin/singularity-ghtorrent
 ---

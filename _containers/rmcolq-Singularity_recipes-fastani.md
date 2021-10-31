@@ -9,7 +9,7 @@ build_date: "2019-02-19T17:11:32.010Z"
 size_mb: 1682
 size: 405454879
 sif: "https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/fastani/2019-02-19-c87889bd-b6e6a4db/b6e6a4dbfa29cdc761f22b1f0ddfd4fa.simg"
-url: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/fastani/2019-02-19-c87889bd-b6e6a4db/
+datalad_url: https://datasets.datalad.org?dir=/shub/rmcolq/Singularity_recipes/fastani/2019-02-19-c87889bd-b6e6a4db/
 recipe: https://datasets.datalad.org/shub/rmcolq/Singularity_recipes/fastani/2019-02-19-c87889bd-b6e6a4db/Singularity
 collection: rmcolq/Singularity_recipes
 ---

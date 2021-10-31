@@ -9,7 +9,7 @@ build_date: "2019-06-24T14:48:03.806Z"
 size_mb: 2734
 size: 1247350815
 sif: "https://datasets.datalad.org/shub/rbrewster727/brewster_pipelines/sgv_finder/2019-06-24-ae3f8ee3-ef2357cf/ef2357cf4fc1b64aef854afbe0b8bc2c.simg"
-url: https://datasets.datalad.org/shub/rbrewster727/brewster_pipelines/sgv_finder/2019-06-24-ae3f8ee3-ef2357cf/
+datalad_url: https://datasets.datalad.org?dir=/shub/rbrewster727/brewster_pipelines/sgv_finder/2019-06-24-ae3f8ee3-ef2357cf/
 recipe: https://datasets.datalad.org/shub/rbrewster727/brewster_pipelines/sgv_finder/2019-06-24-ae3f8ee3-ef2357cf/Singularity
 collection: rbrewster727/brewster_pipelines
 ---

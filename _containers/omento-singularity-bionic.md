@@ -9,7 +9,7 @@ build_date: "2018-08-16T17:20:05.721Z"
 size_mb: 289
 size: 88789023
 sif: "https://datasets.datalad.org/shub/omento/singularity/bionic/2018-08-16-a8db86bc-fc684ad5/fc684ad5db98507595ca249406dd103a.simg"
-url: https://datasets.datalad.org/shub/omento/singularity/bionic/2018-08-16-a8db86bc-fc684ad5/
+datalad_url: https://datasets.datalad.org?dir=/shub/omento/singularity/bionic/2018-08-16-a8db86bc-fc684ad5/
 recipe: https://datasets.datalad.org/shub/omento/singularity/bionic/2018-08-16-a8db86bc-fc684ad5/Singularity
 collection: omento/singularity
 ---

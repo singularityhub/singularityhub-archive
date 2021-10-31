@@ -9,7 +9,7 @@ build_date: "2019-09-04T13:13:43.008Z"
 size_mb: 1222.0
 size: 385642527
 sif: "https://datasets.datalad.org/shub/dominik-handler/AP_singu/salmon/2019-09-04-74fe71e2-54955edb/54955edb25438fc19c7b8233906459d8.sif"
-url: https://datasets.datalad.org/shub/dominik-handler/AP_singu/salmon/2019-09-04-74fe71e2-54955edb/
+datalad_url: https://datasets.datalad.org?dir=/shub/dominik-handler/AP_singu/salmon/2019-09-04-74fe71e2-54955edb/
 recipe: https://datasets.datalad.org/shub/dominik-handler/AP_singu/salmon/2019-09-04-74fe71e2-54955edb/Singularity
 collection: dominik-handler/AP_singu
 ---

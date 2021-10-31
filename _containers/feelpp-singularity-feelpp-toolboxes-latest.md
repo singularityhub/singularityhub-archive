@@ -9,7 +9,7 @@ build_date: "2019-09-17T07:15:39.750Z"
 size_mb: 9766
 size: 3124617247
 sif: "https://datasets.datalad.org/shub/feelpp/singularity/feelpp-toolboxes-latest/2019-09-17-19ffe87e-c6ceb1e3/c6ceb1e37c89a287b2fb202bd64fc5b6.simg"
-url: https://datasets.datalad.org/shub/feelpp/singularity/feelpp-toolboxes-latest/2019-09-17-19ffe87e-c6ceb1e3/
+datalad_url: https://datasets.datalad.org?dir=/shub/feelpp/singularity/feelpp-toolboxes-latest/2019-09-17-19ffe87e-c6ceb1e3/
 recipe: https://datasets.datalad.org/shub/feelpp/singularity/feelpp-toolboxes-latest/2019-09-17-19ffe87e-c6ceb1e3/Singularity
 collection: feelpp/singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-06T11:55:11.543Z"
 size_mb: 37.5859375
 size: 39411712
 sif: "https://datasets.datalad.org/shub/ctpelok77/fd-red-black-postipc2018/latest/2021-04-06-2e3a9e74-e34291a2/e34291a2a04d7deadf2529189d30b41306612f3f44fb9f49e172e23c2363900f.sif"
-url: https://datasets.datalad.org/shub/ctpelok77/fd-red-black-postipc2018/latest/2021-04-06-2e3a9e74-e34291a2/
+datalad_url: https://datasets.datalad.org?dir=/shub/ctpelok77/fd-red-black-postipc2018/latest/2021-04-06-2e3a9e74-e34291a2/
 recipe: https://datasets.datalad.org/shub/ctpelok77/fd-red-black-postipc2018/latest/2021-04-06-2e3a9e74-e34291a2/Singularity
 collection: ctpelok77/fd-red-black-postipc2018
 ---

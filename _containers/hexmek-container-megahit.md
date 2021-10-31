@@ -9,7 +9,7 @@ build_date: "2021-02-09T12:12:44.171Z"
 size_mb: 1299.0
 size: 533401631
 sif: "https://datasets.datalad.org/shub/hexmek/container/megahit/2021-02-09-09d9e57f-04b26466/04b2646618b6230643c51f354f9dcd40.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/megahit/2021-02-09-09d9e57f-04b26466/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/megahit/2021-02-09-09d9e57f-04b26466/
 recipe: https://datasets.datalad.org/shub/hexmek/container/megahit/2021-02-09-09d9e57f-04b26466/Singularity
 collection: hexmek/container
 ---

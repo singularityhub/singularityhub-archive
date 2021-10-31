@@ -9,7 +9,7 @@ build_date: "2020-11-13T16:00:28.462Z"
 size_mb: 3068.0
 size: 1350062111
 sif: "https://datasets.datalad.org/shub/davecwright3/bart-singularity/latest/2020-11-13-0f7595c6-26d7531d/26d7531d71e9fcdcbc10367aaffc8271.sif"
-url: https://datasets.datalad.org/shub/davecwright3/bart-singularity/latest/2020-11-13-0f7595c6-26d7531d/
+datalad_url: https://datasets.datalad.org?dir=/shub/davecwright3/bart-singularity/latest/2020-11-13-0f7595c6-26d7531d/
 recipe: https://datasets.datalad.org/shub/davecwright3/bart-singularity/latest/2020-11-13-0f7595c6-26d7531d/Singularity
 collection: davecwright3/bart-singularity
 ---

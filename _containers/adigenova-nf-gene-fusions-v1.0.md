@@ -9,7 +9,7 @@ build_date: "2020-10-29T17:51:09.928Z"
 size_mb: 1988.0
 size: 872734751
 sif: "https://datasets.datalad.org/shub/adigenova/nf-gene-fusions/v1.0/2020-10-29-5d8f73a4-df917491/df9174916294c7a146799b17ae28fd9c.sif"
-url: https://datasets.datalad.org/shub/adigenova/nf-gene-fusions/v1.0/2020-10-29-5d8f73a4-df917491/
+datalad_url: https://datasets.datalad.org?dir=/shub/adigenova/nf-gene-fusions/v1.0/2020-10-29-5d8f73a4-df917491/
 recipe: https://datasets.datalad.org/shub/adigenova/nf-gene-fusions/v1.0/2020-10-29-5d8f73a4-df917491/Singularity
 collection: adigenova/nf-gene-fusions
 ---

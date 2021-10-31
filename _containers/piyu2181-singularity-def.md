@@ -9,7 +9,7 @@ build_date: "2019-08-13T23:09:35.257Z"
 size_mb: 2069.0
 size: 1062588447
 sif: "https://datasets.datalad.org/shub/piyu2181/singularity/def/2019-08-13-a29ba3e8-c04afd5d/c04afd5d9d11b263a7a4a2cd160194a0.sif"
-url: https://datasets.datalad.org/shub/piyu2181/singularity/def/2019-08-13-a29ba3e8-c04afd5d/
+datalad_url: https://datasets.datalad.org?dir=/shub/piyu2181/singularity/def/2019-08-13-a29ba3e8-c04afd5d/
 recipe: https://datasets.datalad.org/shub/piyu2181/singularity/def/2019-08-13-a29ba3e8-c04afd5d/Singularity
 collection: piyu2181/singularity
 ---

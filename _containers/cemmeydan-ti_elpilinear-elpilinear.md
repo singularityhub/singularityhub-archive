@@ -9,7 +9,7 @@ build_date: "2019-04-04T22:58:11.707Z"
 size_mb: 2199
 size: 844607519
 sif: "https://datasets.datalad.org/shub/cemmeydan/ti_elpilinear/elpilinear/2019-04-04-410f8c17-2ac04123/2ac04123626fcaca47ce1d431a5050e0.simg"
-url: https://datasets.datalad.org/shub/cemmeydan/ti_elpilinear/elpilinear/2019-04-04-410f8c17-2ac04123/
+datalad_url: https://datasets.datalad.org?dir=/shub/cemmeydan/ti_elpilinear/elpilinear/2019-04-04-410f8c17-2ac04123/
 recipe: https://datasets.datalad.org/shub/cemmeydan/ti_elpilinear/elpilinear/2019-04-04-410f8c17-2ac04123/Singularity
 collection: cemmeydan/ti_elpilinear
 ---

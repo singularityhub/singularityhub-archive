@@ -9,7 +9,7 @@ build_date: "2019-01-04T07:48:36.779Z"
 size_mb: 1140
 size: 337907743
 sif: "https://datasets.datalad.org/shub/darachm/singularity_grinder/latest/2019-01-04-11c7c5b5-3c506498/3c506498cf5a6a78dd334d52f348adc0.simg"
-url: https://datasets.datalad.org/shub/darachm/singularity_grinder/latest/2019-01-04-11c7c5b5-3c506498/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_grinder/latest/2019-01-04-11c7c5b5-3c506498/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_grinder/latest/2019-01-04-11c7c5b5-3c506498/Singularity
 collection: darachm/singularity_grinder
 ---

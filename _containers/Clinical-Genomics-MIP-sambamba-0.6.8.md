@@ -9,7 +9,7 @@ build_date: "2020-04-16T06:16:12.543Z"
 size_mb: 857.0
 size: 320245791
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/sambamba-0.6.8/2020-04-16-f60d68c2-c5b01f8b/c5b01f8b241683ca8c4b067d621c1a4c.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/sambamba-0.6.8/2020-04-16-f60d68c2-c5b01f8b/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/sambamba-0.6.8/2020-04-16-f60d68c2-c5b01f8b/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/sambamba-0.6.8/2020-04-16-f60d68c2-c5b01f8b/Singularity
 collection: Clinical-Genomics/MIP
 ---

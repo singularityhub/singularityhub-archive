@@ -9,7 +9,7 @@ build_date: "2020-02-28T23:49:54.508Z"
 size_mb: 24167.0
 size: 9176793119
 sif: "https://datasets.datalad.org/shub/DavidEWarrenPhD/HCPPipelines/latest/2020-02-28-2e7535a8-dfaae41e/dfaae41eb716bca317b11cece8f6b599.sif"
-url: https://datasets.datalad.org/shub/DavidEWarrenPhD/HCPPipelines/latest/2020-02-28-2e7535a8-dfaae41e/
+datalad_url: https://datasets.datalad.org?dir=/shub/DavidEWarrenPhD/HCPPipelines/latest/2020-02-28-2e7535a8-dfaae41e/
 recipe: https://datasets.datalad.org/shub/DavidEWarrenPhD/HCPPipelines/latest/2020-02-28-2e7535a8-dfaae41e/Singularity
 collection: DavidEWarrenPhD/HCPPipelines
 ---

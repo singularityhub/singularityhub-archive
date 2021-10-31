@@ -9,7 +9,7 @@ build_date: "2018-09-21T20:39:55.034Z"
 size_mb: 4321
 size: 1593688095
 sif: "https://datasets.datalad.org/shub/nuitrcs/metapathways2/latest/2018-09-21-8f5733bb-cdbda2a3/cdbda2a340ad6b3fc3984ffdc3406a1c.simg"
-url: https://datasets.datalad.org/shub/nuitrcs/metapathways2/latest/2018-09-21-8f5733bb-cdbda2a3/
+datalad_url: https://datasets.datalad.org?dir=/shub/nuitrcs/metapathways2/latest/2018-09-21-8f5733bb-cdbda2a3/
 recipe: https://datasets.datalad.org/shub/nuitrcs/metapathways2/latest/2018-09-21-8f5733bb-cdbda2a3/Singularity
 collection: nuitrcs/metapathways2
 ---

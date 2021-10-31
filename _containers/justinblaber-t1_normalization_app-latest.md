@@ -9,7 +9,7 @@ build_date: "2019-07-25T20:28:25.335Z"
 size_mb: 344
 size: 141631519
 sif: "https://datasets.datalad.org/shub/justinblaber/t1_normalization_app/latest/2019-07-25-58a72c0d-4cc85710/4cc85710f661b69854f26c2e3c98a6ee.simg"
-url: https://datasets.datalad.org/shub/justinblaber/t1_normalization_app/latest/2019-07-25-58a72c0d-4cc85710/
+datalad_url: https://datasets.datalad.org?dir=/shub/justinblaber/t1_normalization_app/latest/2019-07-25-58a72c0d-4cc85710/
 recipe: https://datasets.datalad.org/shub/justinblaber/t1_normalization_app/latest/2019-07-25-58a72c0d-4cc85710/Singularity
 collection: justinblaber/t1_normalization_app
 ---

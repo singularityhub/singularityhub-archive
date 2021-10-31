@@ -9,7 +9,7 @@ build_date: "2020-07-13T10:28:52.417Z"
 size_mb: 2655.0
 size: 1145282591
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/RNAseq-nf/v2.3/2020-07-13-133087f0-4da30f24/4da30f243af275c134694a78cfcd7606.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/RNAseq-nf/v2.3/2020-07-13-133087f0-4da30f24/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/RNAseq-nf/v2.3/2020-07-13-133087f0-4da30f24/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/RNAseq-nf/v2.3/2020-07-13-133087f0-4da30f24/Singularity
 collection: IARCbioinfo/RNAseq-nf
 ---

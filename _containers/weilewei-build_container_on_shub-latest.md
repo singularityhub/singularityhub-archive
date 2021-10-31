@@ -9,7 +9,7 @@ build_date: "2019-05-24T15:49:14.284Z"
 size_mb: 533
 size: 208490527
 sif: "https://datasets.datalad.org/shub/weilewei/build_container_on_shub/latest/2019-05-24-9af18ab9-defa3a05/defa3a05afce1274407c834dfb5a2c22.simg"
-url: https://datasets.datalad.org/shub/weilewei/build_container_on_shub/latest/2019-05-24-9af18ab9-defa3a05/
+datalad_url: https://datasets.datalad.org?dir=/shub/weilewei/build_container_on_shub/latest/2019-05-24-9af18ab9-defa3a05/
 recipe: https://datasets.datalad.org/shub/weilewei/build_container_on_shub/latest/2019-05-24-9af18ab9-defa3a05/Singularity
 collection: weilewei/build_container_on_shub
 ---

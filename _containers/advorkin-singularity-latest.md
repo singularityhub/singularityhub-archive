@@ -9,7 +9,7 @@ build_date: "2021-04-16T17:23:52.655Z"
 size_mb: 3869.0
 size: 1886449695
 sif: "https://datasets.datalad.org/shub/advorkin/singularity/latest/2021-04-16-63ab5bcc-5cc3d50e/5cc3d50e57b0143a3993e7b2aaf14087.sif"
-url: https://datasets.datalad.org/shub/advorkin/singularity/latest/2021-04-16-63ab5bcc-5cc3d50e/
+datalad_url: https://datasets.datalad.org?dir=/shub/advorkin/singularity/latest/2021-04-16-63ab5bcc-5cc3d50e/
 recipe: https://datasets.datalad.org/shub/advorkin/singularity/latest/2021-04-16-63ab5bcc-5cc3d50e/Singularity
 collection: advorkin/singularity
 ---

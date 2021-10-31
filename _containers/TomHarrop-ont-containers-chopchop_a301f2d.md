@@ -9,7 +9,7 @@ build_date: "2019-11-04T01:32:52.545Z"
 size_mb: 583.1796875
 size: 611508224
 sif: "https://datasets.datalad.org/shub/TomHarrop/ont-containers/chopchop_a301f2d/2019-11-04-641f5cf7-0ef55822/0ef558220834da993437c922a6186d0869f008417e81147ce20890ffea974e30.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/ont-containers/chopchop_a301f2d/2019-11-04-641f5cf7-0ef55822/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/ont-containers/chopchop_a301f2d/2019-11-04-641f5cf7-0ef55822/
 recipe: https://datasets.datalad.org/shub/TomHarrop/ont-containers/chopchop_a301f2d/2019-11-04-641f5cf7-0ef55822/Singularity
 collection: TomHarrop/ont-containers
 ---

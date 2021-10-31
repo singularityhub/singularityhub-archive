@@ -9,7 +9,7 @@ build_date: "2018-05-05T03:56:29.025Z"
 size_mb: 5925
 size: 2487410719
 sif: "https://datasets.datalad.org/shub/DoaneAS/CRISPRAnalyzeR/latest/2018-05-05-b2b2ad4f-eb3048e9/eb3048e9c271cd0f1fba09622d90d333.simg"
-url: https://datasets.datalad.org/shub/DoaneAS/CRISPRAnalyzeR/latest/2018-05-05-b2b2ad4f-eb3048e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/DoaneAS/CRISPRAnalyzeR/latest/2018-05-05-b2b2ad4f-eb3048e9/
 recipe: https://datasets.datalad.org/shub/DoaneAS/CRISPRAnalyzeR/latest/2018-05-05-b2b2ad4f-eb3048e9/Singularity
 collection: DoaneAS/CRISPRAnalyzeR
 ---

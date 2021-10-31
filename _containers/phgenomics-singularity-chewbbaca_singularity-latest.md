@@ -9,7 +9,7 @@ build_date: "2021-02-05T03:55:47.879Z"
 size_mb: 3062
 size: 1254432799
 sif: "https://datasets.datalad.org/shub/phgenomics-singularity/chewbbaca_singularity/latest/2021-02-05-c808a9c5-5d1a86c1/5d1a86c138ef75915f693cfc16df1e82.simg"
-url: https://datasets.datalad.org/shub/phgenomics-singularity/chewbbaca_singularity/latest/2021-02-05-c808a9c5-5d1a86c1/
+datalad_url: https://datasets.datalad.org?dir=/shub/phgenomics-singularity/chewbbaca_singularity/latest/2021-02-05-c808a9c5-5d1a86c1/
 recipe: https://datasets.datalad.org/shub/phgenomics-singularity/chewbbaca_singularity/latest/2021-02-05-c808a9c5-5d1a86c1/Singularity
 collection: phgenomics-singularity/chewbbaca_singularity
 ---

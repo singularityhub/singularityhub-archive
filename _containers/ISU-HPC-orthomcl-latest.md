@@ -9,7 +9,7 @@ build_date: "2021-03-17T02:34:45.265Z"
 size_mb: 527
 size: 202207263
 sif: "https://datasets.datalad.org/shub/ISU-HPC/orthomcl/latest/2021-03-17-169ff2a7-39caa471/39caa4719a738aef71de8504b9491447.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/orthomcl/latest/2021-03-17-169ff2a7-39caa471/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/orthomcl/latest/2021-03-17-169ff2a7-39caa471/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/orthomcl/latest/2021-03-17-169ff2a7-39caa471/Singularity
 collection: ISU-HPC/orthomcl
 ---

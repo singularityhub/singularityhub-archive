@@ -9,7 +9,7 @@ build_date: "2019-11-07T09:54:21.721Z"
 size_mb: 378.0
 size: 144740383
 sif: "https://datasets.datalad.org/shub/GilbertoAlvarez/eipp-2019-singularity/shellcheck/2019-11-07-c847950f-ebf3eefe/ebf3eefe6c48b9fccf689aec50226295.sif"
-url: https://datasets.datalad.org/shub/GilbertoAlvarez/eipp-2019-singularity/shellcheck/2019-11-07-c847950f-ebf3eefe/
+datalad_url: https://datasets.datalad.org?dir=/shub/GilbertoAlvarez/eipp-2019-singularity/shellcheck/2019-11-07-c847950f-ebf3eefe/
 recipe: https://datasets.datalad.org/shub/GilbertoAlvarez/eipp-2019-singularity/shellcheck/2019-11-07-c847950f-ebf3eefe/Singularity
 collection: GilbertoAlvarez/eipp-2019-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-13T02:15:38.947Z"
 size_mb: 1561.7578125
 size: 1637621760
 sif: "https://datasets.datalad.org/shub/TomHarrop/r-containers/bioconductor_3.11/2021-04-13-ae3e49fb-90e51376/90e5137662810c688b0c3149b7acd5bb9d5163f1bc7e997fb7d47bcc7ee2dd6c.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/r-containers/bioconductor_3.11/2021-04-13-ae3e49fb-90e51376/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/r-containers/bioconductor_3.11/2021-04-13-ae3e49fb-90e51376/
 recipe: https://datasets.datalad.org/shub/TomHarrop/r-containers/bioconductor_3.11/2021-04-13-ae3e49fb-90e51376/Singularity
 collection: TomHarrop/r-containers
 ---

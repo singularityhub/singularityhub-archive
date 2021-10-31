@@ -9,7 +9,7 @@ build_date: "2017-11-28T19:11:34.789Z"
 size_mb: 2134
 size: 646811679
 sif: "https://datasets.datalad.org/shub/UNM-CARC/FEniCS/docker/2017-11-28-621954ed-0a712f6a/0a712f6adfdf8d31fb39a292a09c72c2.simg"
-url: https://datasets.datalad.org/shub/UNM-CARC/FEniCS/docker/2017-11-28-621954ed-0a712f6a/
+datalad_url: https://datasets.datalad.org?dir=/shub/UNM-CARC/FEniCS/docker/2017-11-28-621954ed-0a712f6a/
 recipe: https://datasets.datalad.org/shub/UNM-CARC/FEniCS/docker/2017-11-28-621954ed-0a712f6a/Singularity
 collection: UNM-CARC/FEniCS
 ---

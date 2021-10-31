@@ -9,7 +9,7 @@ build_date: "2018-06-05T19:17:38.169Z"
 size_mb: 1135
 size: 458493983
 sif: "https://datasets.datalad.org/shub/aizjForever/darch_recipe/darch_build_nongpu/2018-06-05-5a560c4f-2e4e2e79/2e4e2e79c96c779216839c3318732794.simg"
-url: https://datasets.datalad.org/shub/aizjForever/darch_recipe/darch_build_nongpu/2018-06-05-5a560c4f-2e4e2e79/
+datalad_url: https://datasets.datalad.org?dir=/shub/aizjForever/darch_recipe/darch_build_nongpu/2018-06-05-5a560c4f-2e4e2e79/
 recipe: https://datasets.datalad.org/shub/aizjForever/darch_recipe/darch_build_nongpu/2018-06-05-5a560c4f-2e4e2e79/Singularity
 collection: aizjForever/darch_recipe
 ---

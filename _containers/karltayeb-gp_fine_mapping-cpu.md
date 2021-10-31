@@ -9,7 +9,7 @@ build_date: "2019-06-23T23:32:49.177Z"
 size_mb: 1722
 size: 733978655
 sif: "https://datasets.datalad.org/shub/karltayeb/gp_fine_mapping/cpu/2019-06-23-8a9fd414-09e6f600/09e6f600ddf1bf54749db87cbdb360ac.simg"
-url: https://datasets.datalad.org/shub/karltayeb/gp_fine_mapping/cpu/2019-06-23-8a9fd414-09e6f600/
+datalad_url: https://datasets.datalad.org?dir=/shub/karltayeb/gp_fine_mapping/cpu/2019-06-23-8a9fd414-09e6f600/
 recipe: https://datasets.datalad.org/shub/karltayeb/gp_fine_mapping/cpu/2019-06-23-8a9fd414-09e6f600/Singularity
 collection: karltayeb/gp_fine_mapping
 ---

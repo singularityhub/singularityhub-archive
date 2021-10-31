@@ -9,7 +9,7 @@ build_date: "2019-09-19T05:32:15.897Z"
 size_mb: 2701
 size: 1437704223
 sif: "https://datasets.datalad.org/shub/jmhays/singularity-restrained-ensemble/latest/2019-09-19-3366290f-32b90af2/32b90af2c13dfd993d498c655b408a47.simg"
-url: https://datasets.datalad.org/shub/jmhays/singularity-restrained-ensemble/latest/2019-09-19-3366290f-32b90af2/
+datalad_url: https://datasets.datalad.org?dir=/shub/jmhays/singularity-restrained-ensemble/latest/2019-09-19-3366290f-32b90af2/
 recipe: https://datasets.datalad.org/shub/jmhays/singularity-restrained-ensemble/latest/2019-09-19-3366290f-32b90af2/Singularity
 collection: jmhays/singularity-restrained-ensemble
 ---

@@ -9,7 +9,7 @@ build_date: "2018-07-27T19:35:01.357Z"
 size_mb: 280
 size: 121663519
 sif: "https://datasets.datalad.org/shub/yinglilu/dicom2tar/latest/2018-07-27-8f2bd1f4-957b6e4a/957b6e4a61bbf1a882139a934839d65b.simg"
-url: https://datasets.datalad.org/shub/yinglilu/dicom2tar/latest/2018-07-27-8f2bd1f4-957b6e4a/
+datalad_url: https://datasets.datalad.org?dir=/shub/yinglilu/dicom2tar/latest/2018-07-27-8f2bd1f4-957b6e4a/
 recipe: https://datasets.datalad.org/shub/yinglilu/dicom2tar/latest/2018-07-27-8f2bd1f4-957b6e4a/Singularity
 collection: yinglilu/dicom2tar
 ---

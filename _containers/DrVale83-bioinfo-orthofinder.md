@@ -9,7 +9,7 @@ build_date: "2021-03-19T20:23:12.178Z"
 size_mb: 474
 size: 188137503
 sif: "https://datasets.datalad.org/shub/DrVale83/bioinfo/orthofinder/2021-03-19-93734416-0983e113/0983e113864ec809de2a6ed3fbdd2733.simg"
-url: https://datasets.datalad.org/shub/DrVale83/bioinfo/orthofinder/2021-03-19-93734416-0983e113/
+datalad_url: https://datasets.datalad.org?dir=/shub/DrVale83/bioinfo/orthofinder/2021-03-19-93734416-0983e113/
 recipe: https://datasets.datalad.org/shub/DrVale83/bioinfo/orthofinder/2021-03-19-93734416-0983e113/Singularity
 collection: DrVale83/bioinfo
 ---

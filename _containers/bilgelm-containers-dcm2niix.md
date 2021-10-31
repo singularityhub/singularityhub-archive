@@ -9,7 +9,7 @@ build_date: "2020-01-10T19:26:53.690Z"
 size_mb: 1155.0
 size: 405852191
 sif: "https://datasets.datalad.org/shub/bilgelm/containers/dcm2niix/2020-01-10-ccda9fda-1dda9f5f/1dda9f5fa439b7ac152680325b7c9261.sif"
-url: https://datasets.datalad.org/shub/bilgelm/containers/dcm2niix/2020-01-10-ccda9fda-1dda9f5f/
+datalad_url: https://datasets.datalad.org?dir=/shub/bilgelm/containers/dcm2niix/2020-01-10-ccda9fda-1dda9f5f/
 recipe: https://datasets.datalad.org/shub/bilgelm/containers/dcm2niix/2020-01-10-ccda9fda-1dda9f5f/Singularity
 collection: bilgelm/containers
 ---

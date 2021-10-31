@@ -9,7 +9,7 @@ build_date: "2021-04-13T14:01:22.440Z"
 size_mb: 2796.0
 size: 1083441183
 sif: "https://datasets.datalad.org/shub/repeatexplorer/repex_tarean/0.3.8.dbaa07f/2021-04-13-368dfdee-2e3c8ac9/2e3c8ac9cb58efd452e21892be0a7f4a.sif"
-url: https://datasets.datalad.org/shub/repeatexplorer/repex_tarean/0.3.8.dbaa07f/2021-04-13-368dfdee-2e3c8ac9/
+datalad_url: https://datasets.datalad.org?dir=/shub/repeatexplorer/repex_tarean/0.3.8.dbaa07f/2021-04-13-368dfdee-2e3c8ac9/
 recipe: https://datasets.datalad.org/shub/repeatexplorer/repex_tarean/0.3.8.dbaa07f/2021-04-13-368dfdee-2e3c8ac9/Singularity
 collection: repeatexplorer/repex_tarean
 ---

@@ -9,7 +9,7 @@ build_date: "2019-08-27T01:56:59.113Z"
 size_mb: 313
 size: 131301407
 sif: "https://datasets.datalad.org/shub/bbbbbrie/cufflinks-hello-world/latest/2019-08-27-444c0526-c84adae9/c84adae955524422c0c7a051cdab67b6.simg"
-url: https://datasets.datalad.org/shub/bbbbbrie/cufflinks-hello-world/latest/2019-08-27-444c0526-c84adae9/
+datalad_url: https://datasets.datalad.org?dir=/shub/bbbbbrie/cufflinks-hello-world/latest/2019-08-27-444c0526-c84adae9/
 recipe: https://datasets.datalad.org/shub/bbbbbrie/cufflinks-hello-world/latest/2019-08-27-444c0526-c84adae9/Singularity
 collection: bbbbbrie/cufflinks-hello-world
 ---

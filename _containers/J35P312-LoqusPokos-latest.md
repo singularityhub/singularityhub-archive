@@ -9,7 +9,7 @@ build_date: "2019-10-14T11:02:00.144Z"
 size_mb: 1120
 size: 514809887
 sif: "https://datasets.datalad.org/shub/J35P312/LoqusPokos/latest/2019-10-14-eaeb678c-5196b226/5196b2266285cafdec4ddb9b341d44a1.simg"
-url: https://datasets.datalad.org/shub/J35P312/LoqusPokos/latest/2019-10-14-eaeb678c-5196b226/
+datalad_url: https://datasets.datalad.org?dir=/shub/J35P312/LoqusPokos/latest/2019-10-14-eaeb678c-5196b226/
 recipe: https://datasets.datalad.org/shub/J35P312/LoqusPokos/latest/2019-10-14-eaeb678c-5196b226/Singularity
 collection: J35P312/LoqusPokos
 ---

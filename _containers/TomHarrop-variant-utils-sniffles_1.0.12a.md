@@ -9,7 +9,7 @@ build_date: "2020-08-17T21:39:32.166Z"
 size_mb: 169.7890625
 size: 178036736
 sif: "https://datasets.datalad.org/shub/TomHarrop/variant-utils/sniffles_1.0.12a/2020-08-17-960d14d0-89d90a7f/89d90a7f7d9e87209edcbbec821f83f51672cc74cfa064fd0b444005ba36f1aa.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/variant-utils/sniffles_1.0.12a/2020-08-17-960d14d0-89d90a7f/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/variant-utils/sniffles_1.0.12a/2020-08-17-960d14d0-89d90a7f/
 recipe: https://datasets.datalad.org/shub/TomHarrop/variant-utils/sniffles_1.0.12a/2020-08-17-960d14d0-89d90a7f/Singularity
 collection: TomHarrop/variant-utils
 ---

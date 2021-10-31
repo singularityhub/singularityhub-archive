@@ -9,7 +9,7 @@ build_date: "2018-09-13T21:15:41.965Z"
 size_mb: 517
 size: 162578463
 sif: "https://datasets.datalad.org/shub/GreenwoodLab/imputePrepSanger/imputeprepsanger_v0.1/2018-09-13-1cc66016-e5ec0e5a/e5ec0e5a177ac01303280a40c306cb3e.simg"
-url: https://datasets.datalad.org/shub/GreenwoodLab/imputePrepSanger/imputeprepsanger_v0.1/2018-09-13-1cc66016-e5ec0e5a/
+datalad_url: https://datasets.datalad.org?dir=/shub/GreenwoodLab/imputePrepSanger/imputeprepsanger_v0.1/2018-09-13-1cc66016-e5ec0e5a/
 recipe: https://datasets.datalad.org/shub/GreenwoodLab/imputePrepSanger/imputeprepsanger_v0.1/2018-09-13-1cc66016-e5ec0e5a/Singularity
 collection: GreenwoodLab/imputePrepSanger
 ---

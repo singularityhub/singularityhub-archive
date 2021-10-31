@@ -9,7 +9,7 @@ build_date: "2021-03-11T15:21:29.124Z"
 size_mb: 1228.0
 size: 425115679
 sif: "https://datasets.datalad.org/shub/jacobhepkema/scanem-r/latest/2021-03-11-b3a9904f-fe5406ca/fe5406cae559ddc46ad733deec7ee27d.sif"
-url: https://datasets.datalad.org/shub/jacobhepkema/scanem-r/latest/2021-03-11-b3a9904f-fe5406ca/
+datalad_url: https://datasets.datalad.org?dir=/shub/jacobhepkema/scanem-r/latest/2021-03-11-b3a9904f-fe5406ca/
 recipe: https://datasets.datalad.org/shub/jacobhepkema/scanem-r/latest/2021-03-11-b3a9904f-fe5406ca/Singularity
 collection: jacobhepkema/scanem-r
 ---

@@ -9,7 +9,7 @@ build_date: "2019-01-22T21:59:06.281Z"
 size_mb: 2628
 size: 1262026783
 sif: "https://datasets.datalad.org/shub/gapicare/tensorflow/latest/2019-01-22-b99e7f57-439f2f70/439f2f70dca02ca8d76a89d6b81809b4.simg"
-url: https://datasets.datalad.org/shub/gapicare/tensorflow/latest/2019-01-22-b99e7f57-439f2f70/
+datalad_url: https://datasets.datalad.org?dir=/shub/gapicare/tensorflow/latest/2019-01-22-b99e7f57-439f2f70/
 recipe: https://datasets.datalad.org/shub/gapicare/tensorflow/latest/2019-01-22-b99e7f57-439f2f70/Singularity
 collection: gapicare/tensorflow
 ---

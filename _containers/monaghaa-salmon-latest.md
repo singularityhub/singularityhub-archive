@@ -9,7 +9,7 @@ build_date: "2020-09-23T13:58:58.267Z"
 size_mb: 1999
 size: 751013919
 sif: "https://datasets.datalad.org/shub/monaghaa/salmon/latest/2020-09-23-8fde9fbb-66bd6d1f/66bd6d1f12f5a41badd00386a0566b90.simg"
-url: https://datasets.datalad.org/shub/monaghaa/salmon/latest/2020-09-23-8fde9fbb-66bd6d1f/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/salmon/latest/2020-09-23-8fde9fbb-66bd6d1f/
 recipe: https://datasets.datalad.org/shub/monaghaa/salmon/latest/2020-09-23-8fde9fbb-66bd6d1f/Singularity
 collection: monaghaa/salmon
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-01T17:33:01.518Z"
 size_mb: 4486.0
 size: 2489548831
 sif: "https://datasets.datalad.org/shub/kangzhiq/GSoC2020/lip2wav_new/2021-04-01-ac100579-e1be8cc1/e1be8cc1ba624b4f8b58867cd4ce1fe1.sif"
-url: https://datasets.datalad.org/shub/kangzhiq/GSoC2020/lip2wav_new/2021-04-01-ac100579-e1be8cc1/
+datalad_url: https://datasets.datalad.org?dir=/shub/kangzhiq/GSoC2020/lip2wav_new/2021-04-01-ac100579-e1be8cc1/
 recipe: https://datasets.datalad.org/shub/kangzhiq/GSoC2020/lip2wav_new/2021-04-01-ac100579-e1be8cc1/Singularity
 collection: kangzhiq/GSoC2020
 ---

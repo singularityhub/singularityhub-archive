@@ -9,7 +9,7 @@ build_date: "2019-11-06T18:32:15.255Z"
 size_mb: 427.0
 size: 140996639
 sif: "https://datasets.datalad.org/shub/harryscholes/julia-singularity/latest/2019-11-06-17c85e8d-24facb85/24facb85892e7655e2bc752fdc323356.sif"
-url: https://datasets.datalad.org/shub/harryscholes/julia-singularity/latest/2019-11-06-17c85e8d-24facb85/
+datalad_url: https://datasets.datalad.org?dir=/shub/harryscholes/julia-singularity/latest/2019-11-06-17c85e8d-24facb85/
 recipe: https://datasets.datalad.org/shub/harryscholes/julia-singularity/latest/2019-11-06-17c85e8d-24facb85/Singularity
 collection: harryscholes/julia-singularity
 ---

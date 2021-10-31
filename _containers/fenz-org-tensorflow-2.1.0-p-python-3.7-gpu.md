@@ -9,7 +9,7 @@ build_date: "2020-10-31T09:13:21.080Z"
 size_mb: 2875.2578125
 size: 3014926336
 sif: "https://datasets.datalad.org/shub/fenz-org/tensorflow/2.1.0-p-python-3.7-gpu/2020-10-31-1c308e07-e97ebc39/e97ebc39d10a977be4874da4ce7d595cfd45ed53b1ae411656d2d771b8c96f90.sif"
-url: https://datasets.datalad.org/shub/fenz-org/tensorflow/2.1.0-p-python-3.7-gpu/2020-10-31-1c308e07-e97ebc39/
+datalad_url: https://datasets.datalad.org?dir=/shub/fenz-org/tensorflow/2.1.0-p-python-3.7-gpu/2020-10-31-1c308e07-e97ebc39/
 recipe: https://datasets.datalad.org/shub/fenz-org/tensorflow/2.1.0-p-python-3.7-gpu/2020-10-31-1c308e07-e97ebc39/Singularity
 collection: fenz-org/tensorflow
 ---

@@ -9,7 +9,7 @@ build_date: "2020-07-29T19:11:40.431Z"
 size_mb: 2845.0
 size: 1554251807
 sif: "https://datasets.datalad.org/shub/dkafkes/singularity_imgs/py3_pnnl/2020-07-29-1cf21a42-220f00d2/220f00d2eca268b4a39ee562c052e9c7.sif"
-url: https://datasets.datalad.org/shub/dkafkes/singularity_imgs/py3_pnnl/2020-07-29-1cf21a42-220f00d2/
+datalad_url: https://datasets.datalad.org?dir=/shub/dkafkes/singularity_imgs/py3_pnnl/2020-07-29-1cf21a42-220f00d2/
 recipe: https://datasets.datalad.org/shub/dkafkes/singularity_imgs/py3_pnnl/2020-07-29-1cf21a42-220f00d2/Singularity
 collection: dkafkes/singularity_imgs
 ---

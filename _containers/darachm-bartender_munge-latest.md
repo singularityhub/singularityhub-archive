@@ -9,7 +9,7 @@ build_date: "2019-04-03T00:18:37.743Z"
 size_mb: 1157
 size: 663027743
 sif: "https://datasets.datalad.org/shub/darachm/bartender_munge/latest/2019-04-03-f1075613-7cec9e9b/7cec9e9ba03f721e4ce9539da8f1b889.simg"
-url: https://datasets.datalad.org/shub/darachm/bartender_munge/latest/2019-04-03-f1075613-7cec9e9b/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/bartender_munge/latest/2019-04-03-f1075613-7cec9e9b/
 recipe: https://datasets.datalad.org/shub/darachm/bartender_munge/latest/2019-04-03-f1075613-7cec9e9b/Singularity
 collection: darachm/bartender_munge
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-14T22:24:06.577Z"
 size_mb: 1929
 size: 542879775
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/polysolver-singularity/v4/2021-04-14-6526dbf3-8c7ef4db/8c7ef4db6c2011a18f27a558d81d5d59.simg"
-url: https://datasets.datalad.org/shub/IARCbioinfo/polysolver-singularity/v4/2021-04-14-6526dbf3-8c7ef4db/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/polysolver-singularity/v4/2021-04-14-6526dbf3-8c7ef4db/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/polysolver-singularity/v4/2021-04-14-6526dbf3-8c7ef4db/Singularity
 collection: IARCbioinfo/polysolver-singularity
 ---

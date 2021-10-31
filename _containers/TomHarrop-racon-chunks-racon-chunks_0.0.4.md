@@ -9,7 +9,7 @@ build_date: "2019-10-11T23:54:35.038Z"
 size_mb: 482.1171875
 size: 505536512
 sif: "https://datasets.datalad.org/shub/TomHarrop/racon-chunks/racon-chunks_0.0.4/2019-10-11-c7f63547-35a9143b/35a9143b817dc2223f56085a9bc7b8da7f274ef802e1b66d106a565da07baf80.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/racon-chunks/racon-chunks_0.0.4/2019-10-11-c7f63547-35a9143b/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/racon-chunks/racon-chunks_0.0.4/2019-10-11-c7f63547-35a9143b/
 recipe: https://datasets.datalad.org/shub/TomHarrop/racon-chunks/racon-chunks_0.0.4/2019-10-11-c7f63547-35a9143b/Singularity
 collection: TomHarrop/racon-chunks
 ---

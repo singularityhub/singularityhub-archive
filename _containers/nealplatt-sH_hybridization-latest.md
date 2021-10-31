@@ -9,7 +9,7 @@ build_date: "2018-02-06T23:37:02.039Z"
 size_mb: 2595
 size: 1360052255
 sif: "https://datasets.datalad.org/shub/nealplatt/sH_hybridization/latest/2018-02-06-83fcebaa-a16cb090/a16cb090803aab238c9c11d5866f6147.simg"
-url: https://datasets.datalad.org/shub/nealplatt/sH_hybridization/latest/2018-02-06-83fcebaa-a16cb090/
+datalad_url: https://datasets.datalad.org?dir=/shub/nealplatt/sH_hybridization/latest/2018-02-06-83fcebaa-a16cb090/
 recipe: https://datasets.datalad.org/shub/nealplatt/sH_hybridization/latest/2018-02-06-83fcebaa-a16cb090/Singularity
 collection: nealplatt/sH_hybridization
 ---

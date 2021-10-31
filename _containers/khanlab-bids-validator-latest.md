@@ -9,7 +9,7 @@ build_date: "2018-01-03T20:54:05.630Z"
 size_mb: 348
 size: 119361567
 sif: "https://datasets.datalad.org/shub/khanlab/bids-validator/latest/2018-01-03-44d3f178-8ab66a12/8ab66a12ee15ffc161bcd25a76002e69.simg"
-url: https://datasets.datalad.org/shub/khanlab/bids-validator/latest/2018-01-03-44d3f178-8ab66a12/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/bids-validator/latest/2018-01-03-44d3f178-8ab66a12/
 recipe: https://datasets.datalad.org/shub/khanlab/bids-validator/latest/2018-01-03-44d3f178-8ab66a12/Singularity
 collection: khanlab/bids-validator
 ---

@@ -9,7 +9,7 @@ build_date: "2019-09-10T13:37:02.132Z"
 size_mb: 3237
 size: 1651580959
 sif: "https://datasets.datalad.org/shub/jpetucci/tensorflow_icsaci/gpu-py3/2019-09-10-7e32b432-90d239e1/90d239e1cd18d4d7df5a6b333ce4bcaa.simg"
-url: https://datasets.datalad.org/shub/jpetucci/tensorflow_icsaci/gpu-py3/2019-09-10-7e32b432-90d239e1/
+datalad_url: https://datasets.datalad.org?dir=/shub/jpetucci/tensorflow_icsaci/gpu-py3/2019-09-10-7e32b432-90d239e1/
 recipe: https://datasets.datalad.org/shub/jpetucci/tensorflow_icsaci/gpu-py3/2019-09-10-7e32b432-90d239e1/Singularity
 collection: jpetucci/tensorflow_icsaci
 ---

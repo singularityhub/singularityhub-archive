@@ -9,7 +9,7 @@ build_date: "2020-03-12T09:10:17.319Z"
 size_mb: 869.0
 size: 320749599
 sif: "https://datasets.datalad.org/shub/hexmek/container/bioinfo/2020-03-12-f2d25133-003c9d30/003c9d302a06865c72851f74389de926.sif"
-url: https://datasets.datalad.org/shub/hexmek/container/bioinfo/2020-03-12-f2d25133-003c9d30/
+datalad_url: https://datasets.datalad.org?dir=/shub/hexmek/container/bioinfo/2020-03-12-f2d25133-003c9d30/
 recipe: https://datasets.datalad.org/shub/hexmek/container/bioinfo/2020-03-12-f2d25133-003c9d30/Singularity
 collection: hexmek/container
 ---

@@ -9,7 +9,7 @@ build_date: "2019-07-20T11:58:39.597Z"
 size_mb: 1575
 size: 688336927
 sif: "https://datasets.datalad.org/shub/vrastil/FastSim-Container/latest/2019-07-20-11863d88-f2782957/f27829570b8549ccf219c57efd27e5da.simg"
-url: https://datasets.datalad.org/shub/vrastil/FastSim-Container/latest/2019-07-20-11863d88-f2782957/
+datalad_url: https://datasets.datalad.org?dir=/shub/vrastil/FastSim-Container/latest/2019-07-20-11863d88-f2782957/
 recipe: https://datasets.datalad.org/shub/vrastil/FastSim-Container/latest/2019-07-20-11863d88-f2782957/Singularity
 collection: vrastil/FastSim-Container
 ---

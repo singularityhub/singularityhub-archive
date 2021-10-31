@@ -9,7 +9,7 @@ build_date: "2020-09-22T22:24:43.639Z"
 size_mb: 2257.0
 size: 736776223
 sif: "https://datasets.datalad.org/shub/romxero/cloudcomnpare_singularity/latest/2020-09-22-a2e5cf31-8e074f46/8e074f4633f83d46dcc58519ed5d2fed.sif"
-url: https://datasets.datalad.org/shub/romxero/cloudcomnpare_singularity/latest/2020-09-22-a2e5cf31-8e074f46/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/cloudcomnpare_singularity/latest/2020-09-22-a2e5cf31-8e074f46/
 recipe: https://datasets.datalad.org/shub/romxero/cloudcomnpare_singularity/latest/2020-09-22-a2e5cf31-8e074f46/Singularity
 collection: romxero/cloudcomnpare_singularity
 ---

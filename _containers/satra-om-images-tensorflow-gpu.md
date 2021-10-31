@@ -9,7 +9,7 @@ build_date: "2021-04-15T00:55:59.621Z"
 size_mb: 3340
 size: 1548119608
 sif: "https://datasets.datalad.org/shub/satra/om-images/tensorflow-gpu/2021-04-15-26d7dd00-72ed4d74/72ed4d748b1fa74c7bd37b3610fd5561.img.gz"
-url: https://datasets.datalad.org/shub/satra/om-images/tensorflow-gpu/2021-04-15-26d7dd00-72ed4d74/
+datalad_url: https://datasets.datalad.org?dir=/shub/satra/om-images/tensorflow-gpu/2021-04-15-26d7dd00-72ed4d74/
 recipe: https://datasets.datalad.org/shub/satra/om-images/tensorflow-gpu/2021-04-15-26d7dd00-72ed4d74/Singularity
 collection: satra/om-images
 ---

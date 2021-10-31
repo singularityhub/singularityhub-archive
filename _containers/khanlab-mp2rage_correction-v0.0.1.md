@@ -9,7 +9,7 @@ build_date: "2018-02-04T22:11:50.359Z"
 size_mb: 9581
 size: 3854905375
 sif: "https://datasets.datalad.org/shub/khanlab/mp2rage_correction/v0.0.1/2018-02-04-d0e54627-ffc279ba/ffc279ba253055df3a7de6e700124463.simg"
-url: https://datasets.datalad.org/shub/khanlab/mp2rage_correction/v0.0.1/2018-02-04-d0e54627-ffc279ba/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/mp2rage_correction/v0.0.1/2018-02-04-d0e54627-ffc279ba/
 recipe: https://datasets.datalad.org/shub/khanlab/mp2rage_correction/v0.0.1/2018-02-04-d0e54627-ffc279ba/Singularity
 collection: khanlab/mp2rage_correction
 ---

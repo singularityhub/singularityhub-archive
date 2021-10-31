@@ -9,7 +9,7 @@ build_date: "2019-06-08T01:44:30.058Z"
 size_mb: 9499
 size: 4276944927
 sif: "https://datasets.datalad.org/shub/bmacherone/singularity/scijupyter/2019-06-08-2ce967c1-ca76e4fc/ca76e4fc7b77e9e96bc25b159a782760.simg"
-url: https://datasets.datalad.org/shub/bmacherone/singularity/scijupyter/2019-06-08-2ce967c1-ca76e4fc/
+datalad_url: https://datasets.datalad.org?dir=/shub/bmacherone/singularity/scijupyter/2019-06-08-2ce967c1-ca76e4fc/
 recipe: https://datasets.datalad.org/shub/bmacherone/singularity/scijupyter/2019-06-08-2ce967c1-ca76e4fc/Singularity
 collection: bmacherone/singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-05T08:12:01.075Z"
 size_mb: 728.0
 size: 140550175
 sif: "https://datasets.datalad.org/shub/sandiprt/Test/latest/2020-06-05-f608d041-d221acee/d221acee1289ede162d78eee355bbb5d.sif"
-url: https://datasets.datalad.org/shub/sandiprt/Test/latest/2020-06-05-f608d041-d221acee/
+datalad_url: https://datasets.datalad.org?dir=/shub/sandiprt/Test/latest/2020-06-05-f608d041-d221acee/
 recipe: https://datasets.datalad.org/shub/sandiprt/Test/latest/2020-06-05-f608d041-d221acee/Singularity
 collection: sandiprt/Test
 ---

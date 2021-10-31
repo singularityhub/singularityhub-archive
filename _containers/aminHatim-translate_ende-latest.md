@@ -9,7 +9,7 @@ build_date: "2019-05-05T08:37:08.445Z"
 size_mb: 3627
 size: 1809588255
 sif: "https://datasets.datalad.org/shub/aminHatim/translate_ende/latest/2019-05-05-5a3d1cad-61bfb723/61bfb7233c74fb1840b0578b5edc0c96.simg"
-url: https://datasets.datalad.org/shub/aminHatim/translate_ende/latest/2019-05-05-5a3d1cad-61bfb723/
+datalad_url: https://datasets.datalad.org?dir=/shub/aminHatim/translate_ende/latest/2019-05-05-5a3d1cad-61bfb723/
 recipe: https://datasets.datalad.org/shub/aminHatim/translate_ende/latest/2019-05-05-5a3d1cad-61bfb723/Singularity
 collection: aminHatim/translate_ende
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-19T20:21:52.005Z"
 size_mb: 208
 size: 68317215
 sif: "https://datasets.datalad.org/shub/khurtado/singularity-images/latest/2020-05-19-13feeacb-5f426f33/5f426f33b0147d94da852c8d3459c900.simg"
-url: https://datasets.datalad.org/shub/khurtado/singularity-images/latest/2020-05-19-13feeacb-5f426f33/
+datalad_url: https://datasets.datalad.org?dir=/shub/khurtado/singularity-images/latest/2020-05-19-13feeacb-5f426f33/
 recipe: https://datasets.datalad.org/shub/khurtado/singularity-images/latest/2020-05-19-13feeacb-5f426f33/Singularity
 collection: khurtado/singularity-images
 ---

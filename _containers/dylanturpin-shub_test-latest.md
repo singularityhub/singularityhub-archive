@@ -9,7 +9,7 @@ build_date: "2019-11-27T21:26:01.253Z"
 size_mb: 96.0
 size: 37146655
 sif: "https://datasets.datalad.org/shub/dylanturpin/shub_test/latest/2019-11-27-ea8454a3-8836f9ce/8836f9ce00453775359e31b1cc2c95e5.sif"
-url: https://datasets.datalad.org/shub/dylanturpin/shub_test/latest/2019-11-27-ea8454a3-8836f9ce/
+datalad_url: https://datasets.datalad.org?dir=/shub/dylanturpin/shub_test/latest/2019-11-27-ea8454a3-8836f9ce/
 recipe: https://datasets.datalad.org/shub/dylanturpin/shub_test/latest/2019-11-27-ea8454a3-8836f9ce/Singularity
 collection: dylanturpin/shub_test
 ---

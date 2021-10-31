@@ -9,7 +9,7 @@ build_date: "2020-09-28T18:28:55.656Z"
 size_mb: 3204.46484375
 size: 3360124928
 sif: "https://datasets.datalad.org/shub/cyang31/containers/centos_tf/2020-09-28-fa8ac58c-cd7f668a/cd7f668ae55fa622f93cb76f190d5e733a62cd268a81e01fad566771c0b5b273.sif"
-url: https://datasets.datalad.org/shub/cyang31/containers/centos_tf/2020-09-28-fa8ac58c-cd7f668a/
+datalad_url: https://datasets.datalad.org?dir=/shub/cyang31/containers/centos_tf/2020-09-28-fa8ac58c-cd7f668a/
 recipe: https://datasets.datalad.org/shub/cyang31/containers/centos_tf/2020-09-28-fa8ac58c-cd7f668a/Singularity
 collection: cyang31/containers
 ---

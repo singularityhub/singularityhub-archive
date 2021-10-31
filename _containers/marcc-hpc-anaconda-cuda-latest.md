@@ -9,7 +9,7 @@ build_date: "2020-10-11T04:58:39.262Z"
 size_mb: 6059
 size: 3299057695
 sif: "https://datasets.datalad.org/shub/marcc-hpc/anaconda-cuda/latest/2020-10-11-27791ff4-003507ad/003507adc29ff9676395cfc7a09affa9.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/anaconda-cuda/latest/2020-10-11-27791ff4-003507ad/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/anaconda-cuda/latest/2020-10-11-27791ff4-003507ad/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/anaconda-cuda/latest/2020-10-11-27791ff4-003507ad/Singularity
 collection: marcc-hpc/anaconda-cuda
 ---

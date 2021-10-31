@@ -9,7 +9,7 @@ build_date: "2020-07-17T21:23:38.448Z"
 size_mb: 1334.0
 size: 502280223
 sif: "https://datasets.datalad.org/shub/funnell/schnapps_singularity/latest/2020-07-17-cb178f25-18c81d79/18c81d799c47a3465f0aec697aa6eb65.sif"
-url: https://datasets.datalad.org/shub/funnell/schnapps_singularity/latest/2020-07-17-cb178f25-18c81d79/
+datalad_url: https://datasets.datalad.org?dir=/shub/funnell/schnapps_singularity/latest/2020-07-17-cb178f25-18c81d79/
 recipe: https://datasets.datalad.org/shub/funnell/schnapps_singularity/latest/2020-07-17-cb178f25-18c81d79/Singularity
 collection: funnell/schnapps_singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2018-08-06T09:55:01.795Z"
 size_mb: 8099
 size: 4199952415
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/1.0.0/2018-08-06-09a0769a-0a054dc9/0a054dc986f32315509b26507207a039.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/1.0.0/2018-08-06-09a0769a-0a054dc9/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/1.0.0/2018-08-06-09a0769a-0a054dc9/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/1.0.0/2018-08-06-09a0769a-0a054dc9/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

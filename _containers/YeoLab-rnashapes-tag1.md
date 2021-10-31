@@ -9,7 +9,7 @@ build_date: "2021-04-12T21:45:38.451Z"
 size_mb: 476
 size: 131485727
 sif: "https://datasets.datalad.org/shub/YeoLab/rnashapes/tag1/2021-04-12-7d3779fd-9bf55463/9bf554630cb68433ffdb072088876d37.simg"
-url: https://datasets.datalad.org/shub/YeoLab/rnashapes/tag1/2021-04-12-7d3779fd-9bf55463/
+datalad_url: https://datasets.datalad.org?dir=/shub/YeoLab/rnashapes/tag1/2021-04-12-7d3779fd-9bf55463/
 recipe: https://datasets.datalad.org/shub/YeoLab/rnashapes/tag1/2021-04-12-7d3779fd-9bf55463/Singularity
 collection: YeoLab/rnashapes
 ---

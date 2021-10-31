@@ -9,7 +9,7 @@ build_date: "2020-04-28T08:53:47.548Z"
 size_mb: 1212
 size: 630157343
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/pilon/2020-04-28-c45bed96-9cf480ad/9cf480ad69bf29ca7ec846efef652765.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/pilon/2020-04-28-c45bed96-9cf480ad/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/pilon/2020-04-28-c45bed96-9cf480ad/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/pilon/2020-04-28-c45bed96-9cf480ad/Singularity
 collection: mbhall88/Singularity_recipes
 ---

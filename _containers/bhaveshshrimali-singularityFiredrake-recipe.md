@@ -9,7 +9,7 @@ build_date: "2019-10-22T20:02:21.038Z"
 size_mb: 2871.0
 size: 1162010655
 sif: "https://datasets.datalad.org/shub/bhaveshshrimali/singularityFiredrake/recipe/2019-10-22-2566985f-b7a4cb03/b7a4cb03997b5367bd4e3746dd86724d.sif"
-url: https://datasets.datalad.org/shub/bhaveshshrimali/singularityFiredrake/recipe/2019-10-22-2566985f-b7a4cb03/
+datalad_url: https://datasets.datalad.org?dir=/shub/bhaveshshrimali/singularityFiredrake/recipe/2019-10-22-2566985f-b7a4cb03/
 recipe: https://datasets.datalad.org/shub/bhaveshshrimali/singularityFiredrake/recipe/2019-10-22-2566985f-b7a4cb03/Singularity
 collection: bhaveshshrimali/singularityFiredrake
 ---

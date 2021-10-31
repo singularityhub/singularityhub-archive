@@ -9,7 +9,7 @@ build_date: "2018-06-19T10:43:42.466Z"
 size_mb: 3185
 size: 1513164831
 sif: "https://datasets.datalad.org/shub/gsmashd/picrust2/latest/2018-06-19-d7b462c6-2b25c3c0/2b25c3c099c0a07143cc0bfe26e428e4.simg"
-url: https://datasets.datalad.org/shub/gsmashd/picrust2/latest/2018-06-19-d7b462c6-2b25c3c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/gsmashd/picrust2/latest/2018-06-19-d7b462c6-2b25c3c0/
 recipe: https://datasets.datalad.org/shub/gsmashd/picrust2/latest/2018-06-19-d7b462c6-2b25c3c0/Singularity
 collection: gsmashd/picrust2
 ---

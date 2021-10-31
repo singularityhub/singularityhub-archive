@@ -9,7 +9,7 @@ build_date: "2019-03-06T15:11:52.701Z"
 size_mb: 1383
 size: 553500703
 sif: "https://datasets.datalad.org/shub/serbinsh/ctsm_containers/ctsm-clm5.0.15-fates-fates_s1.8.1_a3.0.0/2019-03-06-21d44103-df4c1df4/df4c1df432f8ee2a0776088c499a687b.simg"
-url: https://datasets.datalad.org/shub/serbinsh/ctsm_containers/ctsm-clm5.0.15-fates-fates_s1.8.1_a3.0.0/2019-03-06-21d44103-df4c1df4/
+datalad_url: https://datasets.datalad.org?dir=/shub/serbinsh/ctsm_containers/ctsm-clm5.0.15-fates-fates_s1.8.1_a3.0.0/2019-03-06-21d44103-df4c1df4/
 recipe: https://datasets.datalad.org/shub/serbinsh/ctsm_containers/ctsm-clm5.0.15-fates-fates_s1.8.1_a3.0.0/2019-03-06-21d44103-df4c1df4/Singularity
 collection: serbinsh/ctsm_containers
 ---

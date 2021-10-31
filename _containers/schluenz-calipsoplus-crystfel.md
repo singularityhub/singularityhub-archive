@@ -9,7 +9,7 @@ build_date: "2018-10-11T09:24:02.696Z"
 size_mb: 1152
 size: 320958495
 sif: "https://datasets.datalad.org/shub/schluenz/calipsoplus/crystfel/2018-10-11-03cbf8d9-5a74d8aa/5a74d8aa674c69aac2256f03162732d8.simg"
-url: https://datasets.datalad.org/shub/schluenz/calipsoplus/crystfel/2018-10-11-03cbf8d9-5a74d8aa/
+datalad_url: https://datasets.datalad.org?dir=/shub/schluenz/calipsoplus/crystfel/2018-10-11-03cbf8d9-5a74d8aa/
 recipe: https://datasets.datalad.org/shub/schluenz/calipsoplus/crystfel/2018-10-11-03cbf8d9-5a74d8aa/Singularity
 collection: schluenz/calipsoplus
 ---

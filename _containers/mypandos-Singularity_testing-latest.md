@@ -9,7 +9,7 @@ build_date: "2019-05-06T15:37:40.461Z"
 size_mb: 400
 size: 156639263
 sif: "https://datasets.datalad.org/shub/mypandos/Singularity_testing/latest/2019-05-06-be146f0b-b9020cbb/b9020cbb27f658277794f5594b033f7c.simg"
-url: https://datasets.datalad.org/shub/mypandos/Singularity_testing/latest/2019-05-06-be146f0b-b9020cbb/
+datalad_url: https://datasets.datalad.org?dir=/shub/mypandos/Singularity_testing/latest/2019-05-06-be146f0b-b9020cbb/
 recipe: https://datasets.datalad.org/shub/mypandos/Singularity_testing/latest/2019-05-06-be146f0b-b9020cbb/Singularity
 collection: mypandos/Singularity_testing
 ---

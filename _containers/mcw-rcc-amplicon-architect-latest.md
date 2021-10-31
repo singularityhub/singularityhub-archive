@@ -9,7 +9,7 @@ build_date: "2018-09-07T02:36:52.701Z"
 size_mb: 756
 size: 340357151
 sif: "https://datasets.datalad.org/shub/mcw-rcc/amplicon-architect/latest/2018-09-07-a4df5f78-61b1b0db/61b1b0db4b1cc6d57cd6c8516b184156.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/amplicon-architect/latest/2018-09-07-a4df5f78-61b1b0db/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/amplicon-architect/latest/2018-09-07-a4df5f78-61b1b0db/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/amplicon-architect/latest/2018-09-07-a4df5f78-61b1b0db/Singularity
 collection: mcw-rcc/amplicon-architect
 ---

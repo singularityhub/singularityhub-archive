@@ -9,7 +9,7 @@ build_date: "2020-11-21T20:33:49.056Z"
 size_mb: 338.6328125
 size: 355082240
 sif: "https://datasets.datalad.org/shub/mcw-rcc/xfce-ood-desktop/latest/2020-11-21-7302fc7e-204d3287/204d3287a8088055ed1882908e5b168da6060b9d9080954fd0574a41f7f73421.sif"
-url: https://datasets.datalad.org/shub/mcw-rcc/xfce-ood-desktop/latest/2020-11-21-7302fc7e-204d3287/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/xfce-ood-desktop/latest/2020-11-21-7302fc7e-204d3287/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/xfce-ood-desktop/latest/2020-11-21-7302fc7e-204d3287/Singularity
 collection: mcw-rcc/xfce-ood-desktop
 ---

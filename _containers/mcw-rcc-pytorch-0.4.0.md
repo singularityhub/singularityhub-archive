@@ -9,7 +9,7 @@ build_date: "2018-07-13T21:19:59.509Z"
 size_mb: 4034
 size: 1718243359
 sif: "https://datasets.datalad.org/shub/mcw-rcc/pytorch/0.4.0/2018-07-13-74bdc625-7ca6c733/7ca6c733bd1d448c979dbeaccd1db690.simg"
-url: https://datasets.datalad.org/shub/mcw-rcc/pytorch/0.4.0/2018-07-13-74bdc625-7ca6c733/
+datalad_url: https://datasets.datalad.org?dir=/shub/mcw-rcc/pytorch/0.4.0/2018-07-13-74bdc625-7ca6c733/
 recipe: https://datasets.datalad.org/shub/mcw-rcc/pytorch/0.4.0/2018-07-13-74bdc625-7ca6c733/Singularity
 collection: mcw-rcc/pytorch
 ---

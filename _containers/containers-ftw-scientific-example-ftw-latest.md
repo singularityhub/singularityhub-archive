@@ -9,7 +9,7 @@ build_date: "2017-10-17T21:47:54.094Z"
 size_mb: None
 size: 1174466591
 sif: "https://datasets.datalad.org/shub/containers-ftw/scientific-example-ftw/latest/2017-10-17-691f39d3-a8155138/a815513812973bb04c8052de1445c973.simg"
-url: https://datasets.datalad.org/shub/containers-ftw/scientific-example-ftw/latest/2017-10-17-691f39d3-a8155138/
+datalad_url: https://datasets.datalad.org?dir=/shub/containers-ftw/scientific-example-ftw/latest/2017-10-17-691f39d3-a8155138/
 recipe: https://datasets.datalad.org/shub/containers-ftw/scientific-example-ftw/latest/2017-10-17-691f39d3-a8155138/Singularity
 collection: containers-ftw/scientific-example-ftw
 ---

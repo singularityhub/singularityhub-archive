@@ -9,7 +9,7 @@ build_date: "2019-08-31T01:11:46.744Z"
 size_mb: 3401
 size: 1434488863
 sif: "https://datasets.datalad.org/shub/baxpr/gradtensor/v1.0.0/2019-08-31-bb9608c8-c96475a9/c96475a9ec20b6c00cd836d2c7666dd1.simg"
-url: https://datasets.datalad.org/shub/baxpr/gradtensor/v1.0.0/2019-08-31-bb9608c8-c96475a9/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/gradtensor/v1.0.0/2019-08-31-bb9608c8-c96475a9/
 recipe: https://datasets.datalad.org/shub/baxpr/gradtensor/v1.0.0/2019-08-31-bb9608c8-c96475a9/Singularity
 collection: baxpr/gradtensor
 ---

@@ -9,7 +9,7 @@ build_date: "2020-04-10T16:28:02.005Z"
 size_mb: 3155.0
 size: 1807134751
 sif: "https://datasets.datalad.org/shub/ulorentz/singularity_imgs/py3_astro/2020-04-10-2e311eda-c85a10c2/c85a10c2c07833c03fd79fe67bbb5d5f.sif"
-url: https://datasets.datalad.org/shub/ulorentz/singularity_imgs/py3_astro/2020-04-10-2e311eda-c85a10c2/
+datalad_url: https://datasets.datalad.org?dir=/shub/ulorentz/singularity_imgs/py3_astro/2020-04-10-2e311eda-c85a10c2/
 recipe: https://datasets.datalad.org/shub/ulorentz/singularity_imgs/py3_astro/2020-04-10-2e311eda-c85a10c2/Singularity
 collection: ulorentz/singularity_imgs
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-06T14:49:46.720Z"
 size_mb: 678
 size: 241152031
 sif: "https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/centrifuge/2019-11-06-a78d650d-13bc12f4/13bc12f41b20001f17e6f8811dc3eeea.simg"
-url: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/centrifuge/2019-11-06-a78d650d-13bc12f4/
+datalad_url: https://datasets.datalad.org?dir=/shub/mbhall88/Singularity_recipes/centrifuge/2019-11-06-a78d650d-13bc12f4/
 recipe: https://datasets.datalad.org/shub/mbhall88/Singularity_recipes/centrifuge/2019-11-06-a78d650d-13bc12f4/Singularity
 collection: mbhall88/Singularity_recipes
 ---

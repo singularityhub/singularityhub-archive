@@ -9,7 +9,7 @@ build_date: "2018-12-14T05:20:14.972Z"
 size_mb: 5275
 size: 2117181471
 sif: "https://datasets.datalad.org/shub/Old-Bull-Lee/ms4/electron-build/2018-12-14-0606228e-36be5cb6/36be5cb6e959ec7e5618d3335be28f5c.simg"
-url: https://datasets.datalad.org/shub/Old-Bull-Lee/ms4/electron-build/2018-12-14-0606228e-36be5cb6/
+datalad_url: https://datasets.datalad.org?dir=/shub/Old-Bull-Lee/ms4/electron-build/2018-12-14-0606228e-36be5cb6/
 recipe: https://datasets.datalad.org/shub/Old-Bull-Lee/ms4/electron-build/2018-12-14-0606228e-36be5cb6/Singularity
 collection: Old-Bull-Lee/ms4
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-12T08:04:35.663Z"
 size_mb: 315
 size: 124039199
 sif: "https://datasets.datalad.org/shub/aminnayebi/ContainerMOE/ubuntumoe-xenial/2019-03-12-48dff621-3850929b/3850929b4ba6435dd62519400acea875.simg"
-url: https://datasets.datalad.org/shub/aminnayebi/ContainerMOE/ubuntumoe-xenial/2019-03-12-48dff621-3850929b/
+datalad_url: https://datasets.datalad.org?dir=/shub/aminnayebi/ContainerMOE/ubuntumoe-xenial/2019-03-12-48dff621-3850929b/
 recipe: https://datasets.datalad.org/shub/aminnayebi/ContainerMOE/ubuntumoe-xenial/2019-03-12-48dff621-3850929b/Singularity
 collection: aminnayebi/ContainerMOE
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-05T22:25:26.949Z"
 size_mb: 5910
 size: 2604089375
 sif: "https://datasets.datalad.org/shub/arcsUVA/theano/1.0.4-py36/2019-04-05-f4b98e88-c99ca8ef/c99ca8ef0c6d49f4955de4b88c8f4f16.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/theano/1.0.4-py36/2019-04-05-f4b98e88-c99ca8ef/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/theano/1.0.4-py36/2019-04-05-f4b98e88-c99ca8ef/
 recipe: https://datasets.datalad.org/shub/arcsUVA/theano/1.0.4-py36/2019-04-05-f4b98e88-c99ca8ef/Singularity
 collection: arcsUVA/theano
 ---

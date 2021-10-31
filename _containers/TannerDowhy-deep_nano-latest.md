@@ -9,7 +9,7 @@ build_date: "2018-11-05T19:47:46.770Z"
 size_mb: 1542
 size: 696741919
 sif: "https://datasets.datalad.org/shub/TannerDowhy/deep_nano/latest/2018-11-05-b1c27f46-6820b583/6820b583375d3a10eb43bfd7931ab0ea.simg"
-url: https://datasets.datalad.org/shub/TannerDowhy/deep_nano/latest/2018-11-05-b1c27f46-6820b583/
+datalad_url: https://datasets.datalad.org?dir=/shub/TannerDowhy/deep_nano/latest/2018-11-05-b1c27f46-6820b583/
 recipe: https://datasets.datalad.org/shub/TannerDowhy/deep_nano/latest/2018-11-05-b1c27f46-6820b583/Singularity
 collection: TannerDowhy/deep_nano
 ---

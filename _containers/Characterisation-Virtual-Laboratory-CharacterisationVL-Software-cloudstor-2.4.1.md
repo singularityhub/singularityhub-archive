@@ -9,7 +9,7 @@ build_date: "2020-02-23T20:03:40.910Z"
 size_mb: 3387.0
 size: 1386758175
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cloudstor-2.4.1/2020-02-23-5df51e06-96fa1a11/96fa1a11cc0418126f7f3f8e64773d0a.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cloudstor-2.4.1/2020-02-23-5df51e06-96fa1a11/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cloudstor-2.4.1/2020-02-23-5df51e06-96fa1a11/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/cloudstor-2.4.1/2020-02-23-5df51e06-96fa1a11/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

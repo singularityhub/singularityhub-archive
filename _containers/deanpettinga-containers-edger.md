@@ -9,7 +9,7 @@ build_date: "2019-09-23T21:15:11.079Z"
 size_mb: 3017.0
 size: 1062150175
 sif: "https://datasets.datalad.org/shub/deanpettinga/containers/edger/2019-09-23-089cff64-f0596d04/f0596d047a9f2524dc906215a590141d.sif"
-url: https://datasets.datalad.org/shub/deanpettinga/containers/edger/2019-09-23-089cff64-f0596d04/
+datalad_url: https://datasets.datalad.org?dir=/shub/deanpettinga/containers/edger/2019-09-23-089cff64-f0596d04/
 recipe: https://datasets.datalad.org/shub/deanpettinga/containers/edger/2019-09-23-089cff64-f0596d04/Singularity
 collection: deanpettinga/containers
 ---

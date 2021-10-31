@@ -9,7 +9,7 @@ build_date: "2021-03-23T13:05:51.073Z"
 size_mb: 436.41015625
 size: 457609216
 sif: "https://datasets.datalad.org/shub/edg1983/GREEN-VARAN/green-varan_v1/2021-03-23-14c0ea3e-8298b312/8298b312dde04f9142eeca17b4d4ad334df47f77742fd79f131ba2e442045781.sif"
-url: https://datasets.datalad.org/shub/edg1983/GREEN-VARAN/green-varan_v1/2021-03-23-14c0ea3e-8298b312/
+datalad_url: https://datasets.datalad.org?dir=/shub/edg1983/GREEN-VARAN/green-varan_v1/2021-03-23-14c0ea3e-8298b312/
 recipe: https://datasets.datalad.org/shub/edg1983/GREEN-VARAN/green-varan_v1/2021-03-23-14c0ea3e-8298b312/Singularity
 collection: edg1983/GREEN-VARAN
 ---

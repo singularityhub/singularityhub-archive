@@ -9,7 +9,7 @@ build_date: "2020-06-30T19:26:47.010Z"
 size_mb: 2967.140625
 size: 3111272448
 sif: "https://datasets.datalad.org/shub/vitusbenson/pytorchsingularity/latest/2020-06-30-09518e81-6ddb0131/6ddb013126f62e2c8608c86990cbc0520a5101c2916c58bdd451ba61c0939b6a.sif"
-url: https://datasets.datalad.org/shub/vitusbenson/pytorchsingularity/latest/2020-06-30-09518e81-6ddb0131/
+datalad_url: https://datasets.datalad.org?dir=/shub/vitusbenson/pytorchsingularity/latest/2020-06-30-09518e81-6ddb0131/
 recipe: https://datasets.datalad.org/shub/vitusbenson/pytorchsingularity/latest/2020-06-30-09518e81-6ddb0131/Singularity
 collection: vitusbenson/pytorchsingularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-10-22T09:03:33.019Z"
 size_mb: 1042.0
 size: 478728223
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/rtg-tools-3.10.1/2019-10-22-cba94456-58ee8c3b/58ee8c3bdea8dad53ba731294359e40a.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/rtg-tools-3.10.1/2019-10-22-cba94456-58ee8c3b/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/rtg-tools-3.10.1/2019-10-22-cba94456-58ee8c3b/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/rtg-tools-3.10.1/2019-10-22-cba94456-58ee8c3b/Singularity
 collection: Clinical-Genomics/MIP
 ---

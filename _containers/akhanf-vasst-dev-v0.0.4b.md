@@ -9,7 +9,7 @@ build_date: "2018-02-01T11:37:38.819Z"
 size_mb: 10985
 size: 4666597407
 sif: "https://datasets.datalad.org/shub/akhanf/vasst-dev/v0.0.4b/2018-02-01-db71c123-b0ddb7e6/b0ddb7e699eaca93c27f3b39fac270c8.simg"
-url: https://datasets.datalad.org/shub/akhanf/vasst-dev/v0.0.4b/2018-02-01-db71c123-b0ddb7e6/
+datalad_url: https://datasets.datalad.org?dir=/shub/akhanf/vasst-dev/v0.0.4b/2018-02-01-db71c123-b0ddb7e6/
 recipe: https://datasets.datalad.org/shub/akhanf/vasst-dev/v0.0.4b/2018-02-01-db71c123-b0ddb7e6/Singularity
 collection: akhanf/vasst-dev
 ---

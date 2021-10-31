@@ -9,7 +9,7 @@ build_date: "2020-06-16T09:45:50.301Z"
 size_mb: 954.0
 size: 336109599
 sif: "https://datasets.datalad.org/shub/pvrqualitasag/quagtsp-sidef/latest/2020-06-16-8ec9616e-25681257/256812578c2b702720f3fcc23eafad5a.sif"
-url: https://datasets.datalad.org/shub/pvrqualitasag/quagtsp-sidef/latest/2020-06-16-8ec9616e-25681257/
+datalad_url: https://datasets.datalad.org?dir=/shub/pvrqualitasag/quagtsp-sidef/latest/2020-06-16-8ec9616e-25681257/
 recipe: https://datasets.datalad.org/shub/pvrqualitasag/quagtsp-sidef/latest/2020-06-16-8ec9616e-25681257/Singularity
 collection: pvrqualitasag/quagtsp-sidef
 ---

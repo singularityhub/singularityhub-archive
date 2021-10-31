@@ -9,7 +9,7 @@ build_date: "2019-08-19T12:57:14.810Z"
 size_mb: 85
 size: 30162975
 sif: "https://datasets.datalad.org/shub/fenz/singularity-images/ubuntu/2019-08-19-2d50aff7-17ba485d/17ba485d915e5fbb2820c8fa639b6e75.simg"
-url: https://datasets.datalad.org/shub/fenz/singularity-images/ubuntu/2019-08-19-2d50aff7-17ba485d/
+datalad_url: https://datasets.datalad.org?dir=/shub/fenz/singularity-images/ubuntu/2019-08-19-2d50aff7-17ba485d/
 recipe: https://datasets.datalad.org/shub/fenz/singularity-images/ubuntu/2019-08-19-2d50aff7-17ba485d/Singularity
 collection: fenz/singularity-images
 ---

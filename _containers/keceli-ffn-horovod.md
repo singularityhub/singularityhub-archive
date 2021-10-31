@@ -9,7 +9,7 @@ build_date: "2019-01-16T12:24:38.518Z"
 size_mb: 4430
 size: 2020831263
 sif: "https://datasets.datalad.org/shub/keceli/ffn/horovod/2019-01-16-eb12c9fd-2d348c31/2d348c314b1c437bb41f091a285ed1e9.simg"
-url: https://datasets.datalad.org/shub/keceli/ffn/horovod/2019-01-16-eb12c9fd-2d348c31/
+datalad_url: https://datasets.datalad.org?dir=/shub/keceli/ffn/horovod/2019-01-16-eb12c9fd-2d348c31/
 recipe: https://datasets.datalad.org/shub/keceli/ffn/horovod/2019-01-16-eb12c9fd-2d348c31/Singularity
 collection: keceli/ffn
 ---

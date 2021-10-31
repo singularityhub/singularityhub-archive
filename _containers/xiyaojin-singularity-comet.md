@@ -9,7 +9,7 @@ build_date: "2020-03-10T04:55:31.691Z"
 size_mb: 3734.0
 size: 1837187103
 sif: "https://datasets.datalad.org/shub/xiyaojin/singularity/comet/2020-03-10-fd16b12c-da8b4377/da8b437763c2724e317f3ef750cec7db.sif"
-url: https://datasets.datalad.org/shub/xiyaojin/singularity/comet/2020-03-10-fd16b12c-da8b4377/
+datalad_url: https://datasets.datalad.org?dir=/shub/xiyaojin/singularity/comet/2020-03-10-fd16b12c-da8b4377/
 recipe: https://datasets.datalad.org/shub/xiyaojin/singularity/comet/2020-03-10-fd16b12c-da8b4377/Singularity
 collection: xiyaojin/singularity
 ---

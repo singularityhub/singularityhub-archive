@@ -9,7 +9,7 @@ build_date: "2020-03-12T20:16:15.400Z"
 size_mb: 1361
 size: 481173535
 sif: "https://datasets.datalad.org/shub/marcc-hpc/octave/latest/2020-03-12-6291bf10-36dfbeea/36dfbeea21ab059921849529221c0d6a.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/octave/latest/2020-03-12-6291bf10-36dfbeea/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/octave/latest/2020-03-12-6291bf10-36dfbeea/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/octave/latest/2020-03-12-6291bf10-36dfbeea/Singularity
 collection: marcc-hpc/octave
 ---

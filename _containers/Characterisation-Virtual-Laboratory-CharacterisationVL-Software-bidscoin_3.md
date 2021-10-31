@@ -9,7 +9,7 @@ build_date: "2020-04-27T06:11:00.112Z"
 size_mb: 8460.0
 size: 3934679071
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/bidscoin_3/2020-04-27-c4e19577-0bd087a3/0bd087a3bf6a2db0ef2387d7f78037f1.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/bidscoin_3/2020-04-27-c4e19577-0bd087a3/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/bidscoin_3/2020-04-27-c4e19577-0bd087a3/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/bidscoin_3/2020-04-27-c4e19577-0bd087a3/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

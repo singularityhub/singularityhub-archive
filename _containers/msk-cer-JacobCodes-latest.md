@@ -9,7 +9,7 @@ build_date: "2019-06-11T20:52:50.977Z"
 size_mb: 4666
 size: 2021498911
 sif: "https://datasets.datalad.org/shub/msk-cer/JacobCodes/latest/2019-06-11-fc197832-04ea5e51/04ea5e51edb4c530d763ded40181f03e.simg"
-url: https://datasets.datalad.org/shub/msk-cer/JacobCodes/latest/2019-06-11-fc197832-04ea5e51/
+datalad_url: https://datasets.datalad.org?dir=/shub/msk-cer/JacobCodes/latest/2019-06-11-fc197832-04ea5e51/
 recipe: https://datasets.datalad.org/shub/msk-cer/JacobCodes/latest/2019-06-11-fc197832-04ea5e51/Singularity
 collection: msk-cer/JacobCodes
 ---

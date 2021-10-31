@@ -9,7 +9,7 @@ build_date: "2020-09-08T08:29:44.980Z"
 size_mb: 1188.0
 size: 465960991
 sif: "https://datasets.datalad.org/shub/Viktor1117/IDBA/latest/2020-09-08-ad5d0722-82b577d9/82b577d9a2d272aa0f4436bdea6e31a8.sif"
-url: https://datasets.datalad.org/shub/Viktor1117/IDBA/latest/2020-09-08-ad5d0722-82b577d9/
+datalad_url: https://datasets.datalad.org?dir=/shub/Viktor1117/IDBA/latest/2020-09-08-ad5d0722-82b577d9/
 recipe: https://datasets.datalad.org/shub/Viktor1117/IDBA/latest/2020-09-08-ad5d0722-82b577d9/Singularity
 collection: Viktor1117/IDBA
 ---

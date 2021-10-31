@@ -9,7 +9,7 @@ build_date: "2020-01-29T01:29:40.071Z"
 size_mb: 1702.0
 size: 639414303
 sif: "https://datasets.datalad.org/shub/powerPlant/octave-srf/4.4.1/2020-01-29-74e05b6b-7212d563/7212d5632642f213ae67d4ba008648c5.sif"
-url: https://datasets.datalad.org/shub/powerPlant/octave-srf/4.4.1/2020-01-29-74e05b6b-7212d563/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/octave-srf/4.4.1/2020-01-29-74e05b6b-7212d563/
 recipe: https://datasets.datalad.org/shub/powerPlant/octave-srf/4.4.1/2020-01-29-74e05b6b-7212d563/Singularity
 collection: powerPlant/octave-srf
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-18T09:39:27.462Z"
 size_mb: 1759.0
 size: 1059872799
 sif: "https://datasets.datalad.org/shub/hqhv/cuda_centos/cuda_ubuntu/2021-01-18-0e17e076-503e1187/503e1187b07dc603a01f3db13b31955a.sif"
-url: https://datasets.datalad.org/shub/hqhv/cuda_centos/cuda_ubuntu/2021-01-18-0e17e076-503e1187/
+datalad_url: https://datasets.datalad.org?dir=/shub/hqhv/cuda_centos/cuda_ubuntu/2021-01-18-0e17e076-503e1187/
 recipe: https://datasets.datalad.org/shub/hqhv/cuda_centos/cuda_ubuntu/2021-01-18-0e17e076-503e1187/Singularity
 collection: hqhv/cuda_centos
 ---

@@ -9,7 +9,7 @@ build_date: "2018-10-11T09:24:02.570Z"
 size_mb: 2621
 size: 1483046943
 sif: "https://datasets.datalad.org/shub/ilkerkesen/ajan-metin/latest/2018-10-11-087ef89b-9e8f0091/9e8f0091bd2bba8b34f1c9920ee5877e.simg"
-url: https://datasets.datalad.org/shub/ilkerkesen/ajan-metin/latest/2018-10-11-087ef89b-9e8f0091/
+datalad_url: https://datasets.datalad.org?dir=/shub/ilkerkesen/ajan-metin/latest/2018-10-11-087ef89b-9e8f0091/
 recipe: https://datasets.datalad.org/shub/ilkerkesen/ajan-metin/latest/2018-10-11-087ef89b-9e8f0091/Singularity
 collection: ilkerkesen/ajan-metin
 ---

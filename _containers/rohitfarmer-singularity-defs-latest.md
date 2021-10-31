@@ -9,7 +9,7 @@ build_date: "2019-07-29T18:06:45.489Z"
 size_mb: 6468
 size: 3004256287
 sif: "https://datasets.datalad.org/shub/rohitfarmer/singularity-defs/latest/2019-07-29-de59e377-7a30384d/7a30384d2780f222ab540c396915ff12.simg"
-url: https://datasets.datalad.org/shub/rohitfarmer/singularity-defs/latest/2019-07-29-de59e377-7a30384d/
+datalad_url: https://datasets.datalad.org?dir=/shub/rohitfarmer/singularity-defs/latest/2019-07-29-de59e377-7a30384d/
 recipe: https://datasets.datalad.org/shub/rohitfarmer/singularity-defs/latest/2019-07-29-de59e377-7a30384d/Singularity
 collection: rohitfarmer/singularity-defs
 ---

@@ -9,7 +9,7 @@ build_date: "2018-08-25T18:39:33.440Z"
 size_mb: 2054
 size: 960811039
 sif: "https://datasets.datalad.org/shub/muhammadzaheer/singularity-recipes/classic-control/2018-08-25-65f098e4-6667c948/6667c948514cc45c86af74285115fee9.simg"
-url: https://datasets.datalad.org/shub/muhammadzaheer/singularity-recipes/classic-control/2018-08-25-65f098e4-6667c948/
+datalad_url: https://datasets.datalad.org?dir=/shub/muhammadzaheer/singularity-recipes/classic-control/2018-08-25-65f098e4-6667c948/
 recipe: https://datasets.datalad.org/shub/muhammadzaheer/singularity-recipes/classic-control/2018-08-25-65f098e4-6667c948/Singularity
 collection: muhammadzaheer/singularity-recipes
 ---

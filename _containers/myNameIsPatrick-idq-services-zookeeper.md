@@ -9,7 +9,7 @@ build_date: "2018-07-24T19:19:06.071Z"
 size_mb: 460
 size: 183042079
 sif: "https://datasets.datalad.org/shub/myNameIsPatrick/idq-services/zookeeper/2018-07-24-03a29a50-09ec3a19/09ec3a19f5fb04da9651aa2c1b4fc165.simg"
-url: https://datasets.datalad.org/shub/myNameIsPatrick/idq-services/zookeeper/2018-07-24-03a29a50-09ec3a19/
+datalad_url: https://datasets.datalad.org?dir=/shub/myNameIsPatrick/idq-services/zookeeper/2018-07-24-03a29a50-09ec3a19/
 recipe: https://datasets.datalad.org/shub/myNameIsPatrick/idq-services/zookeeper/2018-07-24-03a29a50-09ec3a19/Singularity
 collection: myNameIsPatrick/idq-services
 ---

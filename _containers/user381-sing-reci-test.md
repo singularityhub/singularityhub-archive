@@ -9,7 +9,7 @@ build_date: "2020-07-09T07:53:11.856Z"
 size_mb: 1635.0
 size: 696762399
 sif: "https://datasets.datalad.org/shub/user381/sing-reci/test/2020-07-09-8c37b834-8edce874/8edce874480e865ab533d674ea851342.sif"
-url: https://datasets.datalad.org/shub/user381/sing-reci/test/2020-07-09-8c37b834-8edce874/
+datalad_url: https://datasets.datalad.org?dir=/shub/user381/sing-reci/test/2020-07-09-8c37b834-8edce874/
 recipe: https://datasets.datalad.org/shub/user381/sing-reci/test/2020-07-09-8c37b834-8edce874/Singularity
 collection: user381/sing-reci
 ---

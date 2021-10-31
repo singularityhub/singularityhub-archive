@@ -9,7 +9,7 @@ build_date: "2020-12-22T06:06:21.091Z"
 size_mb: 36
 size: 12328991
 sif: "https://datasets.datalad.org/shub/klabhub/singularity/rclone/2020-12-22-c89f7024-552687df/552687df4a6320a64c562e0bcd85cdb6.simg"
-url: https://datasets.datalad.org/shub/klabhub/singularity/rclone/2020-12-22-c89f7024-552687df/
+datalad_url: https://datasets.datalad.org?dir=/shub/klabhub/singularity/rclone/2020-12-22-c89f7024-552687df/
 recipe: https://datasets.datalad.org/shub/klabhub/singularity/rclone/2020-12-22-c89f7024-552687df/Singularity
 collection: klabhub/singularity
 ---

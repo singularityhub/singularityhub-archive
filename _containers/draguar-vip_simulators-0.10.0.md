@@ -9,7 +9,7 @@ build_date: "2021-01-05T09:42:14.470Z"
 size_mb: 2022.78515625
 size: 2121043968
 sif: "https://datasets.datalad.org/shub/draguar/vip_simulators/0.10.0/2021-01-05-34807890-8c2678ca/8c2678caa1999d35242a4aa4591d62a6d3370445729d8b3f262ac0f7ad075042.sif"
-url: https://datasets.datalad.org/shub/draguar/vip_simulators/0.10.0/2021-01-05-34807890-8c2678ca/
+datalad_url: https://datasets.datalad.org?dir=/shub/draguar/vip_simulators/0.10.0/2021-01-05-34807890-8c2678ca/
 recipe: https://datasets.datalad.org/shub/draguar/vip_simulators/0.10.0/2021-01-05-34807890-8c2678ca/Singularity
 collection: draguar/vip_simulators
 ---

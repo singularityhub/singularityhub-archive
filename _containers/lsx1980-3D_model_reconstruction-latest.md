@@ -9,7 +9,7 @@ build_date: "2019-06-26T22:56:27.295Z"
 size_mb: 1699
 size: 648982559
 sif: "https://datasets.datalad.org/shub/lsx1980/3D_model_reconstruction/latest/2019-06-26-03092287-b55a8bd9/b55a8bd96be7db1aa9d9cc950044bb7f.simg"
-url: https://datasets.datalad.org/shub/lsx1980/3D_model_reconstruction/latest/2019-06-26-03092287-b55a8bd9/
+datalad_url: https://datasets.datalad.org?dir=/shub/lsx1980/3D_model_reconstruction/latest/2019-06-26-03092287-b55a8bd9/
 recipe: https://datasets.datalad.org/shub/lsx1980/3D_model_reconstruction/latest/2019-06-26-03092287-b55a8bd9/Singularity
 collection: lsx1980/3D_model_reconstruction
 ---

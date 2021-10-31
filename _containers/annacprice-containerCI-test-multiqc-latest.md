@@ -9,7 +9,7 @@ build_date: "2020-10-26T22:49:41.143Z"
 size_mb: 1198.0
 size: 413319199
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/multiqc-latest/2020-10-26-679171cf-a8d737f2/a8d737f223e1823c8babd3c6ea3146d8.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/multiqc-latest/2020-10-26-679171cf-a8d737f2/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/multiqc-latest/2020-10-26-679171cf-a8d737f2/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/multiqc-latest/2020-10-26-679171cf-a8d737f2/Singularity
 collection: annacprice/containerCI-test
 ---

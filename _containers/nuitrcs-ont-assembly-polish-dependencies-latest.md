@@ -9,7 +9,7 @@ build_date: "2021-01-10T23:33:16.530Z"
 size_mb: 1838
 size: 837001247
 sif: "https://datasets.datalad.org/shub/nuitrcs/ont-assembly-polish-dependencies/latest/2021-01-10-c348b35d-28bbb0b4/28bbb0b432c1808a5b8327d4e1bcd43d.simg"
-url: https://datasets.datalad.org/shub/nuitrcs/ont-assembly-polish-dependencies/latest/2021-01-10-c348b35d-28bbb0b4/
+datalad_url: https://datasets.datalad.org?dir=/shub/nuitrcs/ont-assembly-polish-dependencies/latest/2021-01-10-c348b35d-28bbb0b4/
 recipe: https://datasets.datalad.org/shub/nuitrcs/ont-assembly-polish-dependencies/latest/2021-01-10-c348b35d-28bbb0b4/Singularity
 collection: nuitrcs/ont-assembly-polish-dependencies
 ---

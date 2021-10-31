@@ -9,7 +9,7 @@ build_date: "2019-02-21T01:10:10.330Z"
 size_mb: 794
 size: 309796895
 sif: "https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/ase-twistd/2019-02-21-97010fdf-4492fd31/4492fd31843969158520d54539c2a4a7.simg"
-url: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/ase-twistd/2019-02-21-97010fdf-4492fd31/
+datalad_url: https://datasets.datalad.org?dir=/shub/pmitev/Teoroo-singularity/ase-twistd/2019-02-21-97010fdf-4492fd31/
 recipe: https://datasets.datalad.org/shub/pmitev/Teoroo-singularity/ase-twistd/2019-02-21-97010fdf-4492fd31/Singularity
 collection: pmitev/Teoroo-singularity
 ---

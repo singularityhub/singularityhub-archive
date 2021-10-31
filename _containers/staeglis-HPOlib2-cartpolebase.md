@@ -9,7 +9,7 @@ build_date: "2019-02-05T11:03:50.420Z"
 size_mb: 1366
 size: 527597599
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/cartpolebase/2019-02-05-7e50130e-0c3cc590/0c3cc5905a791632f5d9e96061f9ccff.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/cartpolebase/2019-02-05-7e50130e-0c3cc590/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/cartpolebase/2019-02-05-7e50130e-0c3cc590/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/cartpolebase/2019-02-05-7e50130e-0c3cc590/Singularity
 collection: staeglis/HPOlib2
 ---

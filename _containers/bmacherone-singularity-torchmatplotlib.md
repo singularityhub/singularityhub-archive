@@ -9,7 +9,7 @@ build_date: "2019-06-05T18:27:51.234Z"
 size_mb: 2187
 size: 1474228255
 sif: "https://datasets.datalad.org/shub/bmacherone/singularity/torchmatplotlib/2019-06-05-190d3a9c-7e279845/7e279845b48fa2308f351a5ad3c78a9f.simg"
-url: https://datasets.datalad.org/shub/bmacherone/singularity/torchmatplotlib/2019-06-05-190d3a9c-7e279845/
+datalad_url: https://datasets.datalad.org?dir=/shub/bmacherone/singularity/torchmatplotlib/2019-06-05-190d3a9c-7e279845/
 recipe: https://datasets.datalad.org/shub/bmacherone/singularity/torchmatplotlib/2019-06-05-190d3a9c-7e279845/Singularity
 collection: bmacherone/singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-30T12:16:25.080Z"
 size_mb: 3302.0
 size: 1973112863
 sif: "https://datasets.datalad.org/shub/sodalite-hpe/modak/pytorch-latest-cpu-pip/2020-06-30-3460c588-56be0104/56be0104a22584aee7327922d4728006.sif"
-url: https://datasets.datalad.org/shub/sodalite-hpe/modak/pytorch-latest-cpu-pip/2020-06-30-3460c588-56be0104/
+datalad_url: https://datasets.datalad.org?dir=/shub/sodalite-hpe/modak/pytorch-latest-cpu-pip/2020-06-30-3460c588-56be0104/
 recipe: https://datasets.datalad.org/shub/sodalite-hpe/modak/pytorch-latest-cpu-pip/2020-06-30-3460c588-56be0104/Singularity
 collection: sodalite-hpe/modak
 ---

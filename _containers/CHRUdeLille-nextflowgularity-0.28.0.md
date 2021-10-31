@@ -9,7 +9,7 @@ build_date: "2018-08-01T12:24:34.937Z"
 size_mb: 368
 size: 160342047
 sif: "https://datasets.datalad.org/shub/CHRUdeLille/nextflowgularity/0.28.0/2018-08-01-e5f6537e-baf6f0cf/baf6f0cf2c1d60a37c7f4daba54b1c28.simg"
-url: https://datasets.datalad.org/shub/CHRUdeLille/nextflowgularity/0.28.0/2018-08-01-e5f6537e-baf6f0cf/
+datalad_url: https://datasets.datalad.org?dir=/shub/CHRUdeLille/nextflowgularity/0.28.0/2018-08-01-e5f6537e-baf6f0cf/
 recipe: https://datasets.datalad.org/shub/CHRUdeLille/nextflowgularity/0.28.0/2018-08-01-e5f6537e-baf6f0cf/Singularity
 collection: CHRUdeLille/nextflowgularity
 ---

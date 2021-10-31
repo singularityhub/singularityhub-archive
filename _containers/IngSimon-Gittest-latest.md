@@ -9,7 +9,7 @@ build_date: "2019-08-24T22:38:46.951Z"
 size_mb: 1364
 size: 680038431
 sif: "https://datasets.datalad.org/shub/IngSimon/Gittest/latest/2019-08-24-267c71e6-e623fa1d/e623fa1d3dd99ed9644147fcf52d47c4.simg"
-url: https://datasets.datalad.org/shub/IngSimon/Gittest/latest/2019-08-24-267c71e6-e623fa1d/
+datalad_url: https://datasets.datalad.org?dir=/shub/IngSimon/Gittest/latest/2019-08-24-267c71e6-e623fa1d/
 recipe: https://datasets.datalad.org/shub/IngSimon/Gittest/latest/2019-08-24-267c71e6-e623fa1d/Singularity
 collection: IngSimon/Gittest
 ---

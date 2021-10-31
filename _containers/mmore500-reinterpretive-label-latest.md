@@ -9,7 +9,7 @@ build_date: "2019-12-12T20:44:56.637Z"
 size_mb: 2304
 size: 1707794463
 sif: "https://datasets.datalad.org/shub/mmore500/reinterpretive-label/latest/2019-12-12-a140e233-41671c73/41671c730a764d835c0c9246c42758fe.simg"
-url: https://datasets.datalad.org/shub/mmore500/reinterpretive-label/latest/2019-12-12-a140e233-41671c73/
+datalad_url: https://datasets.datalad.org?dir=/shub/mmore500/reinterpretive-label/latest/2019-12-12-a140e233-41671c73/
 recipe: https://datasets.datalad.org/shub/mmore500/reinterpretive-label/latest/2019-12-12-a140e233-41671c73/Singularity
 collection: mmore500/reinterpretive-label
 ---

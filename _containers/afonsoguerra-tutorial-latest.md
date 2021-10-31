@@ -9,7 +9,7 @@ build_date: "2021-03-23T16:22:58.964Z"
 size_mb: 1302.0
 size: 480399391
 sif: "https://datasets.datalad.org/shub/afonsoguerra/tutorial/latest/2021-03-23-c299b776-0b65af4c/0b65af4c84cf85bf1ded1f683746c390.sif"
-url: https://datasets.datalad.org/shub/afonsoguerra/tutorial/latest/2021-03-23-c299b776-0b65af4c/
+datalad_url: https://datasets.datalad.org?dir=/shub/afonsoguerra/tutorial/latest/2021-03-23-c299b776-0b65af4c/
 recipe: https://datasets.datalad.org/shub/afonsoguerra/tutorial/latest/2021-03-23-c299b776-0b65af4c/Singularity
 collection: afonsoguerra/tutorial
 ---

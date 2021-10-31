@@ -9,7 +9,7 @@ build_date: "2018-08-21T21:25:53.560Z"
 size_mb: 4768
 size: 1887445023
 sif: "https://datasets.datalad.org/shub/jasongallant/wustl_shockly/latest/2018-08-21-4c0eaac0-738938dd/738938dd6d0857891b001275fe3a0627.simg"
-url: https://datasets.datalad.org/shub/jasongallant/wustl_shockly/latest/2018-08-21-4c0eaac0-738938dd/
+datalad_url: https://datasets.datalad.org?dir=/shub/jasongallant/wustl_shockly/latest/2018-08-21-4c0eaac0-738938dd/
 recipe: https://datasets.datalad.org/shub/jasongallant/wustl_shockly/latest/2018-08-21-4c0eaac0-738938dd/Singularity
 collection: jasongallant/wustl_shockly
 ---

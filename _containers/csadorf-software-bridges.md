@@ -9,7 +9,7 @@ build_date: "2019-01-08T23:44:45.539Z"
 size_mb: 5191
 size: 2187391007
 sif: "https://datasets.datalad.org/shub/csadorf/software/bridges/2019-01-08-3d509362-e5158a8c/e5158a8c2dfad3bc507d92803f2fde0e.simg"
-url: https://datasets.datalad.org/shub/csadorf/software/bridges/2019-01-08-3d509362-e5158a8c/
+datalad_url: https://datasets.datalad.org?dir=/shub/csadorf/software/bridges/2019-01-08-3d509362-e5158a8c/
 recipe: https://datasets.datalad.org/shub/csadorf/software/bridges/2019-01-08-3d509362-e5158a8c/Singularity
 collection: csadorf/software
 ---

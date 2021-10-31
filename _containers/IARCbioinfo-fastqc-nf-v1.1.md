@@ -9,7 +9,7 @@ build_date: "2021-04-19T21:08:51.773Z"
 size_mb: 1355.0
 size: 545107999
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/fastqc-nf/v1.1/2021-04-19-f3af7ffc-e41f1b8c/e41f1b8cce52241259c91bd1aa090579.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/fastqc-nf/v1.1/2021-04-19-f3af7ffc-e41f1b8c/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/fastqc-nf/v1.1/2021-04-19-f3af7ffc-e41f1b8c/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/fastqc-nf/v1.1/2021-04-19-f3af7ffc-e41f1b8c/Singularity
 collection: IARCbioinfo/fastqc-nf
 ---

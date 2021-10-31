@@ -9,7 +9,7 @@ build_date: "2020-05-16T00:13:33.189Z"
 size_mb: 446.0
 size: 178479135
 sif: "https://datasets.datalad.org/shub/UConn-HPC/singularity-bazel/latest/2020-05-16-265cf8b0-cdfd0239/cdfd02399be37306c968f1ab3b10b5b4.sif"
-url: https://datasets.datalad.org/shub/UConn-HPC/singularity-bazel/latest/2020-05-16-265cf8b0-cdfd0239/
+datalad_url: https://datasets.datalad.org?dir=/shub/UConn-HPC/singularity-bazel/latest/2020-05-16-265cf8b0-cdfd0239/
 recipe: https://datasets.datalad.org/shub/UConn-HPC/singularity-bazel/latest/2020-05-16-265cf8b0-cdfd0239/Singularity
 collection: UConn-HPC/singularity-bazel
 ---

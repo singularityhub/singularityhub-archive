@@ -9,7 +9,7 @@ build_date: "2019-06-17T19:35:32.462Z"
 size_mb: 3337
 size: 1016717343
 sif: "https://datasets.datalad.org/shub/nturaga/biocparallel-example/latest/2019-06-17-482d383c-7bf0e87e/7bf0e87e2ef891827c96ce1f82c6e442.simg"
-url: https://datasets.datalad.org/shub/nturaga/biocparallel-example/latest/2019-06-17-482d383c-7bf0e87e/
+datalad_url: https://datasets.datalad.org?dir=/shub/nturaga/biocparallel-example/latest/2019-06-17-482d383c-7bf0e87e/
 recipe: https://datasets.datalad.org/shub/nturaga/biocparallel-example/latest/2019-06-17-482d383c-7bf0e87e/Singularity
 collection: nturaga/biocparallel-example
 ---

@@ -9,7 +9,7 @@ build_date: "2021-02-05T15:08:52.597Z"
 size_mb: 4646
 size: 1612140575
 sif: "https://datasets.datalad.org/shub/sonnhammergroup/Domainoid/def/2021-02-05-b3567341-82f41203/82f412030c3a2e1e7ade5b290d22867a.simg"
-url: https://datasets.datalad.org/shub/sonnhammergroup/Domainoid/def/2021-02-05-b3567341-82f41203/
+datalad_url: https://datasets.datalad.org?dir=/shub/sonnhammergroup/Domainoid/def/2021-02-05-b3567341-82f41203/
 recipe: https://datasets.datalad.org/shub/sonnhammergroup/Domainoid/def/2021-02-05-b3567341-82f41203/Singularity
 collection: sonnhammergroup/Domainoid
 ---

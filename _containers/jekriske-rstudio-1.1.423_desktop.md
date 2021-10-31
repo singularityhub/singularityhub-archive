@@ -9,7 +9,7 @@ build_date: "2020-01-09T08:22:45.698Z"
 size_mb: 1400
 size: 517050399
 sif: "https://datasets.datalad.org/shub/jekriske/rstudio/1.1.423_desktop/2020-01-09-c76a1de2-efaa2e66/efaa2e667ed84dae88e5c1f703e2fac2.simg"
-url: https://datasets.datalad.org/shub/jekriske/rstudio/1.1.423_desktop/2020-01-09-c76a1de2-efaa2e66/
+datalad_url: https://datasets.datalad.org?dir=/shub/jekriske/rstudio/1.1.423_desktop/2020-01-09-c76a1de2-efaa2e66/
 recipe: https://datasets.datalad.org/shub/jekriske/rstudio/1.1.423_desktop/2020-01-09-c76a1de2-efaa2e66/Singularity
 collection: jekriske/rstudio
 ---

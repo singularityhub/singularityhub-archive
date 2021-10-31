@@ -9,7 +9,7 @@ build_date: "2017-12-20T19:57:56.266Z"
 size_mb: 3640
 size: 1761349663
 sif: "https://datasets.datalad.org/shub/joshbcohen/VdjcallerSingularity/latest/2017-12-20-c56386fe-1712e160/1712e1602af8e759e71f2c28ef24806a.simg"
-url: https://datasets.datalad.org/shub/joshbcohen/VdjcallerSingularity/latest/2017-12-20-c56386fe-1712e160/
+datalad_url: https://datasets.datalad.org?dir=/shub/joshbcohen/VdjcallerSingularity/latest/2017-12-20-c56386fe-1712e160/
 recipe: https://datasets.datalad.org/shub/joshbcohen/VdjcallerSingularity/latest/2017-12-20-c56386fe-1712e160/Singularity
 collection: joshbcohen/VdjcallerSingularity
 ---

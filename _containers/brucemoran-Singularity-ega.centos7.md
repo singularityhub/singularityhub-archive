@@ -9,7 +9,7 @@ build_date: "2021-02-23T23:35:24.438Z"
 size_mb: 786.0
 size: 349351967
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/ega.centos7/2021-02-23-ad74993f-b524aa8b/b524aa8b0e8f01f57cfe309325b71bc4.sif"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/ega.centos7/2021-02-23-ad74993f-b524aa8b/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/ega.centos7/2021-02-23-ad74993f-b524aa8b/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/ega.centos7/2021-02-23-ad74993f-b524aa8b/Singularity
 collection: brucemoran/Singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2019-11-15T11:24:18.286Z"
 size_mb: 86.0
 size: 31731743
 sif: "https://datasets.datalad.org/shub/team113sanger/t113-singularity/bagel__0.9/2019-11-15-9b2e0a5d-dec52644/dec526441c9e4163ed247f05836fcfa5.sif"
-url: https://datasets.datalad.org/shub/team113sanger/t113-singularity/bagel__0.9/2019-11-15-9b2e0a5d-dec52644/
+datalad_url: https://datasets.datalad.org?dir=/shub/team113sanger/t113-singularity/bagel__0.9/2019-11-15-9b2e0a5d-dec52644/
 recipe: https://datasets.datalad.org/shub/team113sanger/t113-singularity/bagel__0.9/2019-11-15-9b2e0a5d-dec52644/Singularity
 collection: team113sanger/t113-singularity
 ---

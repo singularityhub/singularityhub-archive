@@ -9,7 +9,7 @@ build_date: "2018-10-18T10:53:34.330Z"
 size_mb: 998
 size: 363274271
 sif: "https://datasets.datalad.org/shub/HugoMananet/RTG-Tools/3.9.1/2018-10-18-bf130f37-e1047a03/e1047a0378ddb7d7faae94eb1d120da8.simg"
-url: https://datasets.datalad.org/shub/HugoMananet/RTG-Tools/3.9.1/2018-10-18-bf130f37-e1047a03/
+datalad_url: https://datasets.datalad.org?dir=/shub/HugoMananet/RTG-Tools/3.9.1/2018-10-18-bf130f37-e1047a03/
 recipe: https://datasets.datalad.org/shub/HugoMananet/RTG-Tools/3.9.1/2018-10-18-bf130f37-e1047a03/Singularity
 collection: HugoMananet/RTG-Tools
 ---

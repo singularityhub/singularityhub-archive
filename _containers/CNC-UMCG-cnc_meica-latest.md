@@ -9,7 +9,7 @@ build_date: "2018-03-29T09:26:05.795Z"
 size_mb: 7392
 size: 3343052831
 sif: "https://datasets.datalad.org/shub/CNC-UMCG/cnc_meica/latest/2018-03-29-ddb509d9-4df93b03/4df93b0332122927e8b7e49c14dc136f.simg"
-url: https://datasets.datalad.org/shub/CNC-UMCG/cnc_meica/latest/2018-03-29-ddb509d9-4df93b03/
+datalad_url: https://datasets.datalad.org?dir=/shub/CNC-UMCG/cnc_meica/latest/2018-03-29-ddb509d9-4df93b03/
 recipe: https://datasets.datalad.org/shub/CNC-UMCG/cnc_meica/latest/2018-03-29-ddb509d9-4df93b03/Singularity
 collection: CNC-UMCG/cnc_meica
 ---

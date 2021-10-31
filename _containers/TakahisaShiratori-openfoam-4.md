@@ -9,7 +9,7 @@ build_date: "2021-04-16T09:05:06.445Z"
 size_mb: 1576
 size: 533680159
 sif: "https://datasets.datalad.org/shub/TakahisaShiratori/openfoam/4/2021-04-16-55d4c5cb-f4458c13/f4458c13a27b2474c203a31073802fae.simg"
-url: https://datasets.datalad.org/shub/TakahisaShiratori/openfoam/4/2021-04-16-55d4c5cb-f4458c13/
+datalad_url: https://datasets.datalad.org?dir=/shub/TakahisaShiratori/openfoam/4/2021-04-16-55d4c5cb-f4458c13/
 recipe: https://datasets.datalad.org/shub/TakahisaShiratori/openfoam/4/2021-04-16-55d4c5cb-f4458c13/Singularity
 collection: TakahisaShiratori/openfoam
 ---

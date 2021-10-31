@@ -9,7 +9,7 @@ build_date: "2021-04-16T09:47:24.972Z"
 size_mb: 1359
 size: 445620255
 sif: "https://datasets.datalad.org/shub/katakombi/dolmades/latest/2021-04-16-eac5b225-6cd67f74/6cd67f74b29173809f1fce31cdd0c93d.simg"
-url: https://datasets.datalad.org/shub/katakombi/dolmades/latest/2021-04-16-eac5b225-6cd67f74/
+datalad_url: https://datasets.datalad.org?dir=/shub/katakombi/dolmades/latest/2021-04-16-eac5b225-6cd67f74/
 recipe: https://datasets.datalad.org/shub/katakombi/dolmades/latest/2021-04-16-eac5b225-6cd67f74/Singularity
 collection: katakombi/dolmades
 ---

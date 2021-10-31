@@ -9,7 +9,7 @@ build_date: "2018-08-30T14:39:44.246Z"
 size_mb: 1969
 size: 738123807
 sif: "https://datasets.datalad.org/shub/aghozlane/entvirus/latest/2018-08-30-a7f0decd-c930dc5c/c930dc5ca8263bea9a194172c5a238c0.simg"
-url: https://datasets.datalad.org/shub/aghozlane/entvirus/latest/2018-08-30-a7f0decd-c930dc5c/
+datalad_url: https://datasets.datalad.org?dir=/shub/aghozlane/entvirus/latest/2018-08-30-a7f0decd-c930dc5c/
 recipe: https://datasets.datalad.org/shub/aghozlane/entvirus/latest/2018-08-30-a7f0decd-c930dc5c/Singularity
 collection: aghozlane/entvirus
 ---

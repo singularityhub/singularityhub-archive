@@ -9,7 +9,7 @@ build_date: "2019-07-02T23:19:18.802Z"
 size_mb: 3419
 size: 1791115295
 sif: "https://datasets.datalad.org/shub/jmhays/singularity-brer/brer-cuda-10.0-ubuntu-18.04/2019-07-02-d27e6fbc-65e5fa98/65e5fa98cb2c17ae6ff20d672b9c7ea6.simg"
-url: https://datasets.datalad.org/shub/jmhays/singularity-brer/brer-cuda-10.0-ubuntu-18.04/2019-07-02-d27e6fbc-65e5fa98/
+datalad_url: https://datasets.datalad.org?dir=/shub/jmhays/singularity-brer/brer-cuda-10.0-ubuntu-18.04/2019-07-02-d27e6fbc-65e5fa98/
 recipe: https://datasets.datalad.org/shub/jmhays/singularity-brer/brer-cuda-10.0-ubuntu-18.04/2019-07-02-d27e6fbc-65e5fa98/Singularity
 collection: jmhays/singularity-brer
 ---

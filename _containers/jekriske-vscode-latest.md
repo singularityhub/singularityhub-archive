@@ -9,7 +9,7 @@ build_date: "2020-06-30T18:54:02.867Z"
 size_mb: 887
 size: 279441439
 sif: "https://datasets.datalad.org/shub/jekriske/vscode/latest/2020-06-30-385d887f-222a9a73/222a9a73c5e7222e8a69a9b02d91be37.simg"
-url: https://datasets.datalad.org/shub/jekriske/vscode/latest/2020-06-30-385d887f-222a9a73/
+datalad_url: https://datasets.datalad.org?dir=/shub/jekriske/vscode/latest/2020-06-30-385d887f-222a9a73/
 recipe: https://datasets.datalad.org/shub/jekriske/vscode/latest/2020-06-30-385d887f-222a9a73/Singularity
 collection: jekriske/vscode
 ---

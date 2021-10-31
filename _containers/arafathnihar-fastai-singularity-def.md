@@ -9,7 +9,7 @@ build_date: "2020-02-04T22:04:11.542Z"
 size_mb: 3192.0
 size: 1768640543
 sif: "https://datasets.datalad.org/shub/arafathnihar/fastai-singularity/def/2020-02-04-6804f083-64e6a0c8/64e6a0c83df995ed7539774cb3a1f66d.sif"
-url: https://datasets.datalad.org/shub/arafathnihar/fastai-singularity/def/2020-02-04-6804f083-64e6a0c8/
+datalad_url: https://datasets.datalad.org?dir=/shub/arafathnihar/fastai-singularity/def/2020-02-04-6804f083-64e6a0c8/
 recipe: https://datasets.datalad.org/shub/arafathnihar/fastai-singularity/def/2020-02-04-6804f083-64e6a0c8/Singularity
 collection: arafathnihar/fastai-singularity
 ---

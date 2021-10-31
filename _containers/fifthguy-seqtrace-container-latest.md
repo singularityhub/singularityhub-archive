@@ -9,7 +9,7 @@ build_date: "2021-02-18T10:42:57.657Z"
 size_mb: 231.9921875
 size: 243261440
 sif: "https://datasets.datalad.org/shub/fifthguy/seqtrace-container/latest/2021-02-18-f83abce5-889f470c/889f470c31403f6980a0379336d26dbad1fdd21364d49d0b8c1fd36fddc7ca91.sif"
-url: https://datasets.datalad.org/shub/fifthguy/seqtrace-container/latest/2021-02-18-f83abce5-889f470c/
+datalad_url: https://datasets.datalad.org?dir=/shub/fifthguy/seqtrace-container/latest/2021-02-18-f83abce5-889f470c/
 recipe: https://datasets.datalad.org/shub/fifthguy/seqtrace-container/latest/2021-02-18-f83abce5-889f470c/Singularity
 collection: fifthguy/seqtrace-container
 ---

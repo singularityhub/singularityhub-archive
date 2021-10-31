@@ -9,7 +9,7 @@ build_date: "2018-12-09T13:14:42.970Z"
 size_mb: 971
 size: 267091999
 sif: "https://datasets.datalad.org/shub/jmhays/singularity-ebmetad/openmpi-ubuntu18.04/2018-12-09-6705324b-8bc3c010/8bc3c010657abc1d4e8f1974a890031d.simg"
-url: https://datasets.datalad.org/shub/jmhays/singularity-ebmetad/openmpi-ubuntu18.04/2018-12-09-6705324b-8bc3c010/
+datalad_url: https://datasets.datalad.org?dir=/shub/jmhays/singularity-ebmetad/openmpi-ubuntu18.04/2018-12-09-6705324b-8bc3c010/
 recipe: https://datasets.datalad.org/shub/jmhays/singularity-ebmetad/openmpi-ubuntu18.04/2018-12-09-6705324b-8bc3c010/Singularity
 collection: jmhays/singularity-ebmetad
 ---

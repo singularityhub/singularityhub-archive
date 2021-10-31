@@ -9,7 +9,7 @@ build_date: "2018-08-13T01:36:21.039Z"
 size_mb: 8208
 size: 3855593503
 sif: "https://datasets.datalad.org/shub/marcc-hpc/pytorch/0.5.0/2018-08-13-9a13601b-9a13bde0/9a13bde09e3f45a11750b1da7ccbaa88.simg"
-url: https://datasets.datalad.org/shub/marcc-hpc/pytorch/0.5.0/2018-08-13-9a13601b-9a13bde0/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcc-hpc/pytorch/0.5.0/2018-08-13-9a13601b-9a13bde0/
 recipe: https://datasets.datalad.org/shub/marcc-hpc/pytorch/0.5.0/2018-08-13-9a13601b-9a13bde0/Singularity
 collection: marcc-hpc/pytorch
 ---

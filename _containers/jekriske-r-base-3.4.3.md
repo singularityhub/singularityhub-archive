@@ -9,7 +9,7 @@ build_date: "2021-02-10T13:38:30.300Z"
 size_mb: 826
 size: 305799199
 sif: "https://datasets.datalad.org/shub/jekriske/r-base/3.4.3/2021-02-10-d3420e7e-796c7182/796c71822cd8d135d97b44f7719c60cf.simg"
-url: https://datasets.datalad.org/shub/jekriske/r-base/3.4.3/2021-02-10-d3420e7e-796c7182/
+datalad_url: https://datasets.datalad.org?dir=/shub/jekriske/r-base/3.4.3/2021-02-10-d3420e7e-796c7182/
 recipe: https://datasets.datalad.org/shub/jekriske/r-base/3.4.3/2021-02-10-d3420e7e-796c7182/Singularity
 collection: jekriske/r-base
 ---

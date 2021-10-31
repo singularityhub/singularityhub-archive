@@ -9,7 +9,7 @@ build_date: "2021-01-20T16:56:55.067Z"
 size_mb: 3386.0
 size: 1757294623
 sif: "https://datasets.datalad.org/shub/SergFern/Variant_Calling/def/2021-01-20-d4c89392-a1ed705f/a1ed705fb5ff2edaaa2ccaf08cf97592.sif"
-url: https://datasets.datalad.org/shub/SergFern/Variant_Calling/def/2021-01-20-d4c89392-a1ed705f/
+datalad_url: https://datasets.datalad.org?dir=/shub/SergFern/Variant_Calling/def/2021-01-20-d4c89392-a1ed705f/
 recipe: https://datasets.datalad.org/shub/SergFern/Variant_Calling/def/2021-01-20-d4c89392-a1ed705f/Singularity
 collection: SergFern/Variant_Calling
 ---

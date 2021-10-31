@@ -9,7 +9,7 @@ build_date: "2019-09-22T19:47:11.831Z"
 size_mb: 1324
 size: 480903199
 sif: "https://datasets.datalad.org/shub/GodloveD/rnaseq/latest/2019-09-22-ce0ab3b6-80e3bb99/80e3bb9959cf161069f4fb72d30fa7d0.simg"
-url: https://datasets.datalad.org/shub/GodloveD/rnaseq/latest/2019-09-22-ce0ab3b6-80e3bb99/
+datalad_url: https://datasets.datalad.org?dir=/shub/GodloveD/rnaseq/latest/2019-09-22-ce0ab3b6-80e3bb99/
 recipe: https://datasets.datalad.org/shub/GodloveD/rnaseq/latest/2019-09-22-ce0ab3b6-80e3bb99/Singularity
 collection: GodloveD/rnaseq
 ---

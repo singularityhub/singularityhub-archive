@@ -9,7 +9,7 @@ build_date: "2020-10-21T15:11:41.451Z"
 size_mb: 5834
 size: 2745720863
 sif: "https://datasets.datalad.org/shub/trcook/tf/latest/2020-10-21-11765a01-0e2c621a/0e2c621a7187f66b115a2cbc277445f8.simg"
-url: https://datasets.datalad.org/shub/trcook/tf/latest/2020-10-21-11765a01-0e2c621a/
+datalad_url: https://datasets.datalad.org?dir=/shub/trcook/tf/latest/2020-10-21-11765a01-0e2c621a/
 recipe: https://datasets.datalad.org/shub/trcook/tf/latest/2020-10-21-11765a01-0e2c621a/Singularity
 collection: trcook/tf
 ---

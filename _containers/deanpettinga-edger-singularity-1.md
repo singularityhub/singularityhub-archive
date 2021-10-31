@@ -9,7 +9,7 @@ build_date: "2019-09-24T21:33:10.618Z"
 size_mb: 4955.0
 size: 1563922463
 sif: "https://datasets.datalad.org/shub/deanpettinga/edger-singularity/1/2019-09-24-b4cf2792-4af77b1c/4af77b1c6b4b503ae577912c92075f64.sif"
-url: https://datasets.datalad.org/shub/deanpettinga/edger-singularity/1/2019-09-24-b4cf2792-4af77b1c/
+datalad_url: https://datasets.datalad.org?dir=/shub/deanpettinga/edger-singularity/1/2019-09-24-b4cf2792-4af77b1c/
 recipe: https://datasets.datalad.org/shub/deanpettinga/edger-singularity/1/2019-09-24-b4cf2792-4af77b1c/Singularity
 collection: deanpettinga/edger-singularity
 ---

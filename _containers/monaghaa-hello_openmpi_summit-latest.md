@@ -9,7 +9,7 @@ build_date: "2021-03-04T23:01:38.506Z"
 size_mb: 1382
 size: 430456863
 sif: "https://datasets.datalad.org/shub/monaghaa/hello_openmpi_summit/latest/2021-03-04-2efca62c-5f59c605/5f59c605fabdffa8280e698cf6b2129a.simg"
-url: https://datasets.datalad.org/shub/monaghaa/hello_openmpi_summit/latest/2021-03-04-2efca62c-5f59c605/
+datalad_url: https://datasets.datalad.org?dir=/shub/monaghaa/hello_openmpi_summit/latest/2021-03-04-2efca62c-5f59c605/
 recipe: https://datasets.datalad.org/shub/monaghaa/hello_openmpi_summit/latest/2021-03-04-2efca62c-5f59c605/Singularity
 collection: monaghaa/hello_openmpi_summit
 ---

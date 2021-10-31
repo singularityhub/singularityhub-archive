@@ -9,7 +9,7 @@ build_date: "2020-05-06T09:04:34.092Z"
 size_mb: 1323.0
 size: 405860383
 sif: "https://datasets.datalad.org/shub/sohojai/singularity_mpi_test_recipe/openmpi/2020-05-06-56c9824c-4ee360c8/4ee360c8c9609aa3ec95f1c8a66faf0b.sif"
-url: https://datasets.datalad.org/shub/sohojai/singularity_mpi_test_recipe/openmpi/2020-05-06-56c9824c-4ee360c8/
+datalad_url: https://datasets.datalad.org?dir=/shub/sohojai/singularity_mpi_test_recipe/openmpi/2020-05-06-56c9824c-4ee360c8/
 recipe: https://datasets.datalad.org/shub/sohojai/singularity_mpi_test_recipe/openmpi/2020-05-06-56c9824c-4ee360c8/Singularity
 collection: sohojai/singularity_mpi_test_recipe
 ---

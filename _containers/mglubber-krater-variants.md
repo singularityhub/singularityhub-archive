@@ -9,7 +9,7 @@ build_date: "2020-07-20T15:17:21.732Z"
 size_mb: 1293.0
 size: 412975135
 sif: "https://datasets.datalad.org/shub/mglubber/krater/variants/2020-07-20-f312ae61-0f65d84e/0f65d84ebad5486b18e961ed7c086cd5.sif"
-url: https://datasets.datalad.org/shub/mglubber/krater/variants/2020-07-20-f312ae61-0f65d84e/
+datalad_url: https://datasets.datalad.org?dir=/shub/mglubber/krater/variants/2020-07-20-f312ae61-0f65d84e/
 recipe: https://datasets.datalad.org/shub/mglubber/krater/variants/2020-07-20-f312ae61-0f65d84e/Singularity
 collection: mglubber/krater
 ---

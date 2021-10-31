@@ -9,7 +9,7 @@ build_date: "2019-01-18T10:30:21.765Z"
 size_mb: 2970
 size: 1690988575
 sif: "https://datasets.datalad.org/shub/staeglis/HPOlib2/classificationneuralnetwork/2019-01-18-83e83de3-283757b0/283757b06d5c434d0a81724eafdf554d.simg"
-url: https://datasets.datalad.org/shub/staeglis/HPOlib2/classificationneuralnetwork/2019-01-18-83e83de3-283757b0/
+datalad_url: https://datasets.datalad.org?dir=/shub/staeglis/HPOlib2/classificationneuralnetwork/2019-01-18-83e83de3-283757b0/
 recipe: https://datasets.datalad.org/shub/staeglis/HPOlib2/classificationneuralnetwork/2019-01-18-83e83de3-283757b0/Singularity
 collection: staeglis/HPOlib2
 ---

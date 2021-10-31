@@ -9,7 +9,7 @@ build_date: "2020-09-03T22:53:40.488Z"
 size_mb: 3376.0
 size: 1753542687
 sif: "https://datasets.datalad.org/shub/tylerakonom/rnaseq/latest/2020-09-03-3fa29197-751d57cc/751d57cc5548d30ec652e7032fab059d.sif"
-url: https://datasets.datalad.org/shub/tylerakonom/rnaseq/latest/2020-09-03-3fa29197-751d57cc/
+datalad_url: https://datasets.datalad.org?dir=/shub/tylerakonom/rnaseq/latest/2020-09-03-3fa29197-751d57cc/
 recipe: https://datasets.datalad.org/shub/tylerakonom/rnaseq/latest/2020-09-03-3fa29197-751d57cc/Singularity
 collection: tylerakonom/rnaseq
 ---

@@ -9,7 +9,7 @@ build_date: "2019-12-13T07:25:50.979Z"
 size_mb: 5830.0
 size: 2248794143
 sif: "https://datasets.datalad.org/shub/motroy/singularity-ekidna/latest/2019-12-13-b49ab5d8-6ba4d464/6ba4d46473c6c3f3b1de1c612f61d355.sif"
-url: https://datasets.datalad.org/shub/motroy/singularity-ekidna/latest/2019-12-13-b49ab5d8-6ba4d464/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-ekidna/latest/2019-12-13-b49ab5d8-6ba4d464/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-ekidna/latest/2019-12-13-b49ab5d8-6ba4d464/Singularity
 collection: motroy/singularity-ekidna
 ---

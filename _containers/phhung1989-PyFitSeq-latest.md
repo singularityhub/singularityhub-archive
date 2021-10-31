@@ -9,7 +9,7 @@ build_date: "2020-08-20T22:46:48.796Z"
 size_mb: 691.0
 size: 267374623
 sif: "https://datasets.datalad.org/shub/phhung1989/PyFitSeq/latest/2020-08-20-3c73ea07-2dc50dcf/2dc50dcf77b42b9064a6123ff3e03110.sif"
-url: https://datasets.datalad.org/shub/phhung1989/PyFitSeq/latest/2020-08-20-3c73ea07-2dc50dcf/
+datalad_url: https://datasets.datalad.org?dir=/shub/phhung1989/PyFitSeq/latest/2020-08-20-3c73ea07-2dc50dcf/
 recipe: https://datasets.datalad.org/shub/phhung1989/PyFitSeq/latest/2020-08-20-3c73ea07-2dc50dcf/Singularity
 collection: phhung1989/PyFitSeq
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-01T10:59:47.265Z"
 size_mb: 2149.01953125
 size: 2253410304
 sif: "https://datasets.datalad.org/shub/vibaotram/singularity-container/guppy4.0.14gpu-conda-api/2021-04-01-ef4fe0f9-e1b6605a/e1b6605a6927c488d0023f40cd418bc58bf5d0e14732601a3c34e8463e8c8f57.sif"
-url: https://datasets.datalad.org/shub/vibaotram/singularity-container/guppy4.0.14gpu-conda-api/2021-04-01-ef4fe0f9-e1b6605a/
+datalad_url: https://datasets.datalad.org?dir=/shub/vibaotram/singularity-container/guppy4.0.14gpu-conda-api/2021-04-01-ef4fe0f9-e1b6605a/
 recipe: https://datasets.datalad.org/shub/vibaotram/singularity-container/guppy4.0.14gpu-conda-api/2021-04-01-ef4fe0f9-e1b6605a/Singularity
 collection: vibaotram/singularity-container
 ---

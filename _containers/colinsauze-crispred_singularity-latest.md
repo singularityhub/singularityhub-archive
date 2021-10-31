@@ -9,7 +9,7 @@ build_date: "2018-10-05T08:15:00.299Z"
 size_mb: 2093
 size: 728981535
 sif: "https://datasets.datalad.org/shub/colinsauze/crispred_singularity/latest/2018-10-05-bdf21447-39f7904a/39f7904a5f6853be724210cb0d78970d.simg"
-url: https://datasets.datalad.org/shub/colinsauze/crispred_singularity/latest/2018-10-05-bdf21447-39f7904a/
+datalad_url: https://datasets.datalad.org?dir=/shub/colinsauze/crispred_singularity/latest/2018-10-05-bdf21447-39f7904a/
 recipe: https://datasets.datalad.org/shub/colinsauze/crispred_singularity/latest/2018-10-05-bdf21447-39f7904a/Singularity
 collection: colinsauze/crispred_singularity
 ---

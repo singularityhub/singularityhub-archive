@@ -9,7 +9,7 @@ build_date: "2020-08-23T23:56:31.053Z"
 size_mb: 6813.0
 size: 2467934239
 sif: "https://datasets.datalad.org/shub/ResearchComputing/rstudiojh2/latest/2020-08-23-6f08ac69-f7978e5b/f7978e5b1ddc1d045eb5dd561290343b.sif"
-url: https://datasets.datalad.org/shub/ResearchComputing/rstudiojh2/latest/2020-08-23-6f08ac69-f7978e5b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchComputing/rstudiojh2/latest/2020-08-23-6f08ac69-f7978e5b/
 recipe: https://datasets.datalad.org/shub/ResearchComputing/rstudiojh2/latest/2020-08-23-6f08ac69-f7978e5b/Singularity
 collection: ResearchComputing/rstudiojh2
 ---

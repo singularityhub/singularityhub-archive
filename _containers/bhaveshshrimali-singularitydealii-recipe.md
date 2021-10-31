@@ -9,7 +9,7 @@ build_date: "2020-06-28T00:59:24.545Z"
 size_mb: 3607.0
 size: 1223151647
 sif: "https://datasets.datalad.org/shub/bhaveshshrimali/singularitydealii/recipe/2020-06-28-3da875c7-b957a339/b957a3398d6b02e5ddf9a766db79de6e.sif"
-url: https://datasets.datalad.org/shub/bhaveshshrimali/singularitydealii/recipe/2020-06-28-3da875c7-b957a339/
+datalad_url: https://datasets.datalad.org?dir=/shub/bhaveshshrimali/singularitydealii/recipe/2020-06-28-3da875c7-b957a339/
 recipe: https://datasets.datalad.org/shub/bhaveshshrimali/singularitydealii/recipe/2020-06-28-3da875c7-b957a339/Singularity
 collection: bhaveshshrimali/singularitydealii
 ---

@@ -9,7 +9,7 @@ build_date: "2020-03-06T14:32:37.862Z"
 size_mb: 1507
 size: 518557727
 sif: "https://datasets.datalad.org/shub/rpolicastro/chip_downsampling/latest/2020-03-06-96ba7a5e-9f0202cd/9f0202cd088299b924e3c8dd8f4bc036.simg"
-url: https://datasets.datalad.org/shub/rpolicastro/chip_downsampling/latest/2020-03-06-96ba7a5e-9f0202cd/
+datalad_url: https://datasets.datalad.org?dir=/shub/rpolicastro/chip_downsampling/latest/2020-03-06-96ba7a5e-9f0202cd/
 recipe: https://datasets.datalad.org/shub/rpolicastro/chip_downsampling/latest/2020-03-06-96ba7a5e-9f0202cd/Singularity
 collection: rpolicastro/chip_downsampling
 ---

@@ -9,7 +9,7 @@ build_date: "2019-03-19T05:26:46.835Z"
 size_mb: 6413
 size: 3084419103
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/volview_3.4-cuda-9.0/2019-03-19-11166864-a85a72c0/a85a72c012f57b3cd74ad0fc9957bba0.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/volview_3.4-cuda-9.0/2019-03-19-11166864-a85a72c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/volview_3.4-cuda-9.0/2019-03-19-11166864-a85a72c0/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/volview_3.4-cuda-9.0/2019-03-19-11166864-a85a72c0/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

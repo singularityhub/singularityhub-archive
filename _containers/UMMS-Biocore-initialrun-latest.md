@@ -9,7 +9,7 @@ build_date: "2019-06-13T14:46:43.408Z"
 size_mb: 1199
 size: 536502303
 sif: "https://datasets.datalad.org/shub/UMMS-Biocore/initialrun/latest/2019-06-13-3d21a88f-716bdeb0/716bdeb0eb417b3a1481aff894833d17.simg"
-url: https://datasets.datalad.org/shub/UMMS-Biocore/initialrun/latest/2019-06-13-3d21a88f-716bdeb0/
+datalad_url: https://datasets.datalad.org?dir=/shub/UMMS-Biocore/initialrun/latest/2019-06-13-3d21a88f-716bdeb0/
 recipe: https://datasets.datalad.org/shub/UMMS-Biocore/initialrun/latest/2019-06-13-3d21a88f-716bdeb0/Singularity
 collection: UMMS-Biocore/initialrun
 ---

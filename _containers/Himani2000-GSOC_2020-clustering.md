@@ -9,7 +9,7 @@ build_date: "2020-08-23T12:36:24.584Z"
 size_mb: 2276.0
 size: 978604063
 sif: "https://datasets.datalad.org/shub/Himani2000/GSOC_2020/clustering/2020-08-23-3ea51125-58b0b44a/58b0b44a574f818ed589f0238e395a18.sif"
-url: https://datasets.datalad.org/shub/Himani2000/GSOC_2020/clustering/2020-08-23-3ea51125-58b0b44a/
+datalad_url: https://datasets.datalad.org?dir=/shub/Himani2000/GSOC_2020/clustering/2020-08-23-3ea51125-58b0b44a/
 recipe: https://datasets.datalad.org/shub/Himani2000/GSOC_2020/clustering/2020-08-23-3ea51125-58b0b44a/Singularity
 collection: Himani2000/GSOC_2020
 ---

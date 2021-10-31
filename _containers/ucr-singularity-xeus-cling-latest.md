@@ -9,7 +9,7 @@ build_date: "2018-08-20T11:37:23.084Z"
 size_mb: 2727
 size: 1250566175
 sif: "https://datasets.datalad.org/shub/ucr-singularity/xeus-cling/latest/2018-08-20-b11d88a4-b076317e/b076317e6999502fd28185ce1e977c09.simg"
-url: https://datasets.datalad.org/shub/ucr-singularity/xeus-cling/latest/2018-08-20-b11d88a4-b076317e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ucr-singularity/xeus-cling/latest/2018-08-20-b11d88a4-b076317e/
 recipe: https://datasets.datalad.org/shub/ucr-singularity/xeus-cling/latest/2018-08-20-b11d88a4-b076317e/Singularity
 collection: ucr-singularity/xeus-cling
 ---

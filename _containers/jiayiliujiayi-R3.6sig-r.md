@@ -9,7 +9,7 @@ build_date: "2019-07-02T23:19:22.495Z"
 size_mb: 595
 size: 232779807
 sif: "https://datasets.datalad.org/shub/jiayiliujiayi/R3.6sig/r/2019-07-02-23cbb9e6-976cf38d/976cf38d48e5e851eca25d66287b1948.simg"
-url: https://datasets.datalad.org/shub/jiayiliujiayi/R3.6sig/r/2019-07-02-23cbb9e6-976cf38d/
+datalad_url: https://datasets.datalad.org?dir=/shub/jiayiliujiayi/R3.6sig/r/2019-07-02-23cbb9e6-976cf38d/
 recipe: https://datasets.datalad.org/shub/jiayiliujiayi/R3.6sig/r/2019-07-02-23cbb9e6-976cf38d/Singularity
 collection: jiayiliujiayi/R3.6sig
 ---

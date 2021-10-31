@@ -9,7 +9,7 @@ build_date: "2019-11-02T14:52:05.802Z"
 size_mb: 20124.0
 size: 8087171103
 sif: "https://datasets.datalad.org/shub/kevin30292/tf-bazel-darkflow/latest/2019-11-02-21abcc88-0bbf9811/0bbf9811ddd4c9afe77189926b5f00b7.sif"
-url: https://datasets.datalad.org/shub/kevin30292/tf-bazel-darkflow/latest/2019-11-02-21abcc88-0bbf9811/
+datalad_url: https://datasets.datalad.org?dir=/shub/kevin30292/tf-bazel-darkflow/latest/2019-11-02-21abcc88-0bbf9811/
 recipe: https://datasets.datalad.org/shub/kevin30292/tf-bazel-darkflow/latest/2019-11-02-21abcc88-0bbf9811/Singularity
 collection: kevin30292/tf-bazel-darkflow
 ---

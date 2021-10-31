@@ -9,7 +9,7 @@ build_date: "2019-03-22T14:10:55.292Z"
 size_mb: 3296
 size: 1559687199
 sif: "https://datasets.datalad.org/shub/zyj008/tacotron_tf/latest/2019-03-22-37358b03-1b5bd9d2/1b5bd9d24f184b085aea33c60048f6f4.simg"
-url: https://datasets.datalad.org/shub/zyj008/tacotron_tf/latest/2019-03-22-37358b03-1b5bd9d2/
+datalad_url: https://datasets.datalad.org?dir=/shub/zyj008/tacotron_tf/latest/2019-03-22-37358b03-1b5bd9d2/
 recipe: https://datasets.datalad.org/shub/zyj008/tacotron_tf/latest/2019-03-22-37358b03-1b5bd9d2/Singularity
 collection: zyj008/tacotron_tf
 ---

@@ -9,7 +9,7 @@ build_date: "2021-03-31T09:00:31.972Z"
 size_mb: 1600.0
 size: 602341407
 sif: "https://datasets.datalad.org/shub/IARCbioinfo/nf_coverage_demo/v2.3/2021-03-31-828c77b6-969c43de/969c43de7004951c4bce8b94e4ead812.sif"
-url: https://datasets.datalad.org/shub/IARCbioinfo/nf_coverage_demo/v2.3/2021-03-31-828c77b6-969c43de/
+datalad_url: https://datasets.datalad.org?dir=/shub/IARCbioinfo/nf_coverage_demo/v2.3/2021-03-31-828c77b6-969c43de/
 recipe: https://datasets.datalad.org/shub/IARCbioinfo/nf_coverage_demo/v2.3/2021-03-31-828c77b6-969c43de/Singularity
 collection: IARCbioinfo/nf_coverage_demo
 ---

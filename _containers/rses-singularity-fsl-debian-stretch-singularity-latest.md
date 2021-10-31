@@ -9,7 +9,7 @@ build_date: "2020-07-01T13:53:24.220Z"
 size_mb: 2282
 size: 1762279455
 sif: "https://datasets.datalad.org/shub/rses-singularity/fsl-debian-stretch-singularity/latest/2020-07-01-b26a4aa0-4a830abf/4a830abfbba3d55e8b5b594fd9687415.simg"
-url: https://datasets.datalad.org/shub/rses-singularity/fsl-debian-stretch-singularity/latest/2020-07-01-b26a4aa0-4a830abf/
+datalad_url: https://datasets.datalad.org?dir=/shub/rses-singularity/fsl-debian-stretch-singularity/latest/2020-07-01-b26a4aa0-4a830abf/
 recipe: https://datasets.datalad.org/shub/rses-singularity/fsl-debian-stretch-singularity/latest/2020-07-01-b26a4aa0-4a830abf/Singularity
 collection: rses-singularity/fsl-debian-stretch-singularity
 ---

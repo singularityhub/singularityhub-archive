@@ -9,7 +9,7 @@ build_date: "2019-02-14T08:45:05.003Z"
 size_mb: 448
 size: 167804959
 sif: "https://datasets.datalad.org/shub/shiozaki/runscript/latest/2019-02-14-9b579517-110faebb/110faebb83c8c369340434ac5be672e0.simg"
-url: https://datasets.datalad.org/shub/shiozaki/runscript/latest/2019-02-14-9b579517-110faebb/
+datalad_url: https://datasets.datalad.org?dir=/shub/shiozaki/runscript/latest/2019-02-14-9b579517-110faebb/
 recipe: https://datasets.datalad.org/shub/shiozaki/runscript/latest/2019-02-14-9b579517-110faebb/Singularity
 collection: shiozaki/runscript
 ---

@@ -9,7 +9,7 @@ build_date: "2019-04-02T20:23:25.379Z"
 size_mb: 4200
 size: 1997336607
 sif: "https://datasets.datalad.org/shub/vladGriguta/GPUs/cuda10/2019-04-02-fb28fd0b-6bf8680a/6bf8680a20656572609d9ee6e92f78ea.simg"
-url: https://datasets.datalad.org/shub/vladGriguta/GPUs/cuda10/2019-04-02-fb28fd0b-6bf8680a/
+datalad_url: https://datasets.datalad.org?dir=/shub/vladGriguta/GPUs/cuda10/2019-04-02-fb28fd0b-6bf8680a/
 recipe: https://datasets.datalad.org/shub/vladGriguta/GPUs/cuda10/2019-04-02-fb28fd0b-6bf8680a/Singularity
 collection: vladGriguta/GPUs
 ---

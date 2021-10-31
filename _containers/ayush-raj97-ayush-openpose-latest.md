@@ -9,7 +9,7 @@ build_date: "2019-07-01T20:21:50.861Z"
 size_mb: 4926
 size: 2106785823
 sif: "https://datasets.datalad.org/shub/ayush-raj97/ayush-openpose/latest/2019-07-01-8282e31a-5ecc7cd3/5ecc7cd39183aebd09e52f1c4fb39e5b.simg"
-url: https://datasets.datalad.org/shub/ayush-raj97/ayush-openpose/latest/2019-07-01-8282e31a-5ecc7cd3/
+datalad_url: https://datasets.datalad.org?dir=/shub/ayush-raj97/ayush-openpose/latest/2019-07-01-8282e31a-5ecc7cd3/
 recipe: https://datasets.datalad.org/shub/ayush-raj97/ayush-openpose/latest/2019-07-01-8282e31a-5ecc7cd3/Singularity
 collection: ayush-raj97/ayush-openpose
 ---

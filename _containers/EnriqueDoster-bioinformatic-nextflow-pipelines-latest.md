@@ -9,7 +9,7 @@ build_date: "2020-11-25T06:54:08.488Z"
 size_mb: 10496.0
 size: 5132070943
 sif: "https://datasets.datalad.org/shub/EnriqueDoster/bioinformatic-nextflow-pipelines/latest/2020-11-25-96cd0e85-8c6a0983/8c6a09835346b959fc7178712ffe2c39.sif"
-url: https://datasets.datalad.org/shub/EnriqueDoster/bioinformatic-nextflow-pipelines/latest/2020-11-25-96cd0e85-8c6a0983/
+datalad_url: https://datasets.datalad.org?dir=/shub/EnriqueDoster/bioinformatic-nextflow-pipelines/latest/2020-11-25-96cd0e85-8c6a0983/
 recipe: https://datasets.datalad.org/shub/EnriqueDoster/bioinformatic-nextflow-pipelines/latest/2020-11-25-96cd0e85-8c6a0983/Singularity
 collection: EnriqueDoster/bioinformatic-nextflow-pipelines
 ---

@@ -9,7 +9,7 @@ build_date: "2020-11-13T09:03:34.383Z"
 size_mb: 12054.0
 size: 5308686367
 sif: "https://datasets.datalad.org/shub/onuryukselen/singularity-cellranger/latest/2020-11-13-8b724565-05bfcab7/05bfcab713a3e906a49e75c41e981aa3.sif"
-url: https://datasets.datalad.org/shub/onuryukselen/singularity-cellranger/latest/2020-11-13-8b724565-05bfcab7/
+datalad_url: https://datasets.datalad.org?dir=/shub/onuryukselen/singularity-cellranger/latest/2020-11-13-8b724565-05bfcab7/
 recipe: https://datasets.datalad.org/shub/onuryukselen/singularity-cellranger/latest/2020-11-13-8b724565-05bfcab7/Singularity
 collection: onuryukselen/singularity-cellranger
 ---

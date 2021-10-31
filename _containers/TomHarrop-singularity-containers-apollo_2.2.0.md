@@ -9,7 +9,7 @@ build_date: "2019-01-16T07:21:11.412Z"
 size_mb: 3115
 size: 1441058847
 sif: "https://datasets.datalad.org/shub/TomHarrop/singularity-containers/apollo_2.2.0/2019-01-16-1a59932d-6e34769f/6e34769fcf62ae0bce3d441de5228dbe.simg"
-url: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/apollo_2.2.0/2019-01-16-1a59932d-6e34769f/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/singularity-containers/apollo_2.2.0/2019-01-16-1a59932d-6e34769f/
 recipe: https://datasets.datalad.org/shub/TomHarrop/singularity-containers/apollo_2.2.0/2019-01-16-1a59932d-6e34769f/Singularity
 collection: TomHarrop/singularity-containers
 ---

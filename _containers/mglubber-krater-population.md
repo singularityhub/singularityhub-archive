@@ -9,7 +9,7 @@ build_date: "2020-07-14T18:18:13.551Z"
 size_mb: 673.0
 size: 225234975
 sif: "https://datasets.datalad.org/shub/mglubber/krater/population/2020-07-14-c423fbcd-15c12637/15c1263787379951606b3a06aafba42b.sif"
-url: https://datasets.datalad.org/shub/mglubber/krater/population/2020-07-14-c423fbcd-15c12637/
+datalad_url: https://datasets.datalad.org?dir=/shub/mglubber/krater/population/2020-07-14-c423fbcd-15c12637/
 recipe: https://datasets.datalad.org/shub/mglubber/krater/population/2020-07-14-c423fbcd-15c12637/Singularity
 collection: mglubber/krater
 ---

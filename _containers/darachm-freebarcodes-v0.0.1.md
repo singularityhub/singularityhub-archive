@@ -9,7 +9,7 @@ build_date: "2019-06-07T11:19:42.467Z"
 size_mb: 980
 size: 399036447
 sif: "https://datasets.datalad.org/shub/darachm/freebarcodes/v0.0.1/2019-06-07-4858dc20-a5deb4d7/a5deb4d7895c176f0ded898063b0be18.simg"
-url: https://datasets.datalad.org/shub/darachm/freebarcodes/v0.0.1/2019-06-07-4858dc20-a5deb4d7/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/freebarcodes/v0.0.1/2019-06-07-4858dc20-a5deb4d7/
 recipe: https://datasets.datalad.org/shub/darachm/freebarcodes/v0.0.1/2019-06-07-4858dc20-a5deb4d7/Singularity
 collection: darachm/freebarcodes
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-22T18:42:17.539Z"
 size_mb: 3888.0
 size: 2065563679
 sif: "https://datasets.datalad.org/shub/ynop/siubuntu/ubuntu18.cuda10_0/2020-01-22-5133c9e7-2545ac02/2545ac02f9e9b612ad29e66ecd9fb14b.sif"
-url: https://datasets.datalad.org/shub/ynop/siubuntu/ubuntu18.cuda10_0/2020-01-22-5133c9e7-2545ac02/
+datalad_url: https://datasets.datalad.org?dir=/shub/ynop/siubuntu/ubuntu18.cuda10_0/2020-01-22-5133c9e7-2545ac02/
 recipe: https://datasets.datalad.org/shub/ynop/siubuntu/ubuntu18.cuda10_0/2020-01-22-5133c9e7-2545ac02/Singularity
 collection: ynop/siubuntu
 ---

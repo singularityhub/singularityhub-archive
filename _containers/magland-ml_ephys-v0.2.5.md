@@ -9,7 +9,7 @@ build_date: "2021-04-15T20:11:03.900Z"
 size_mb: 1275
 size: 498389023
 sif: "https://datasets.datalad.org/shub/magland/ml_ephys/v0.2.5/2021-04-15-b31d6dda-2180f1f6/2180f1f696b7855b802541147cbaede8.simg"
-url: https://datasets.datalad.org/shub/magland/ml_ephys/v0.2.5/2021-04-15-b31d6dda-2180f1f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/magland/ml_ephys/v0.2.5/2021-04-15-b31d6dda-2180f1f6/
 recipe: https://datasets.datalad.org/shub/magland/ml_ephys/v0.2.5/2021-04-15-b31d6dda-2180f1f6/Singularity
 collection: magland/ml_ephys
 ---

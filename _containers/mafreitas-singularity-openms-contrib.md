@@ -9,7 +9,7 @@ build_date: "2020-07-11T09:41:27.555Z"
 size_mb: 1466
 size: 653410335
 sif: "https://datasets.datalad.org/shub/mafreitas/singularity-openms/contrib/2020-07-11-8c8cf4b0-6574be6f/6574be6fbc02b22ef9e3f0db75747abb.simg"
-url: https://datasets.datalad.org/shub/mafreitas/singularity-openms/contrib/2020-07-11-8c8cf4b0-6574be6f/
+datalad_url: https://datasets.datalad.org?dir=/shub/mafreitas/singularity-openms/contrib/2020-07-11-8c8cf4b0-6574be6f/
 recipe: https://datasets.datalad.org/shub/mafreitas/singularity-openms/contrib/2020-07-11-8c8cf4b0-6574be6f/Singularity
 collection: mafreitas/singularity-openms
 ---

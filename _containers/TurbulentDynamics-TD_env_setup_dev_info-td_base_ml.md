@@ -9,7 +9,7 @@ build_date: "2019-06-19T16:10:35.568Z"
 size_mb: 8939
 size: 5311082527
 sif: "https://datasets.datalad.org/shub/TurbulentDynamics/TD_env_setup_dev_info/td_base_ml/2019-06-19-73d53fb3-9dd084ae/9dd084ae6dad59de5184ac881941f3ff.simg"
-url: https://datasets.datalad.org/shub/TurbulentDynamics/TD_env_setup_dev_info/td_base_ml/2019-06-19-73d53fb3-9dd084ae/
+datalad_url: https://datasets.datalad.org?dir=/shub/TurbulentDynamics/TD_env_setup_dev_info/td_base_ml/2019-06-19-73d53fb3-9dd084ae/
 recipe: https://datasets.datalad.org/shub/TurbulentDynamics/TD_env_setup_dev_info/td_base_ml/2019-06-19-73d53fb3-9dd084ae/Singularity
 collection: TurbulentDynamics/TD_env_setup_dev_info
 ---

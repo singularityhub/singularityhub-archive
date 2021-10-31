@@ -9,7 +9,7 @@ build_date: "2020-05-22T06:23:43.953Z"
 size_mb: 383
 size: 175448095
 sif: "https://datasets.datalad.org/shub/MarissaLL/singularity-containers/fastsimcoal_2.6/2020-05-22-e34376da-6081abe4/6081abe4ab765de9d920af30f176c2c9.simg"
-url: https://datasets.datalad.org/shub/MarissaLL/singularity-containers/fastsimcoal_2.6/2020-05-22-e34376da-6081abe4/
+datalad_url: https://datasets.datalad.org?dir=/shub/MarissaLL/singularity-containers/fastsimcoal_2.6/2020-05-22-e34376da-6081abe4/
 recipe: https://datasets.datalad.org/shub/MarissaLL/singularity-containers/fastsimcoal_2.6/2020-05-22-e34376da-6081abe4/Singularity
 collection: MarissaLL/singularity-containers
 ---

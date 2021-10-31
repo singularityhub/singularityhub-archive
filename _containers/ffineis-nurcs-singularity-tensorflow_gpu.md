@@ -9,7 +9,7 @@ build_date: "2018-08-16T07:54:17.355Z"
 size_mb: 3447
 size: 1625993247
 sif: "https://datasets.datalad.org/shub/ffineis/nurcs-singularity/tensorflow_gpu/2018-08-16-edc49cef-6ed46c19/6ed46c199466729639ef9699e05e9efe.simg"
-url: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/tensorflow_gpu/2018-08-16-edc49cef-6ed46c19/
+datalad_url: https://datasets.datalad.org?dir=/shub/ffineis/nurcs-singularity/tensorflow_gpu/2018-08-16-edc49cef-6ed46c19/
 recipe: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/tensorflow_gpu/2018-08-16-edc49cef-6ed46c19/Singularity
 collection: ffineis/nurcs-singularity
 ---

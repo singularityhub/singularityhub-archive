@@ -9,7 +9,7 @@ build_date: "2019-03-01T19:49:14.143Z"
 size_mb: 112
 size: 39931935
 sif: "https://datasets.datalad.org/shub/mxmlnkn/shub-containers/taurus-mpi/2019-03-01-44fa73e4-d0139a35/d0139a357d7e3196192225750ded63de.simg"
-url: https://datasets.datalad.org/shub/mxmlnkn/shub-containers/taurus-mpi/2019-03-01-44fa73e4-d0139a35/
+datalad_url: https://datasets.datalad.org?dir=/shub/mxmlnkn/shub-containers/taurus-mpi/2019-03-01-44fa73e4-d0139a35/
 recipe: https://datasets.datalad.org/shub/mxmlnkn/shub-containers/taurus-mpi/2019-03-01-44fa73e4-d0139a35/Singularity
 collection: mxmlnkn/shub-containers
 ---

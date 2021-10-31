@@ -9,7 +9,7 @@ build_date: "2020-07-03T13:07:39.203Z"
 size_mb: 1544.0
 size: 569712671
 sif: "https://datasets.datalad.org/shub/stephansmit/su2_containers/forkv2_blackbird_v7.0.2/2020-07-03-bae2b406-571521ae/571521ae80b373273c1da6b36a41a549.sif"
-url: https://datasets.datalad.org/shub/stephansmit/su2_containers/forkv2_blackbird_v7.0.2/2020-07-03-bae2b406-571521ae/
+datalad_url: https://datasets.datalad.org?dir=/shub/stephansmit/su2_containers/forkv2_blackbird_v7.0.2/2020-07-03-bae2b406-571521ae/
 recipe: https://datasets.datalad.org/shub/stephansmit/su2_containers/forkv2_blackbird_v7.0.2/2020-07-03-bae2b406-571521ae/Singularity
 collection: stephansmit/su2_containers
 ---

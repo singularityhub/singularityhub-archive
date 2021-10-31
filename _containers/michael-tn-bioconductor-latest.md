@@ -9,7 +9,7 @@ build_date: "2020-12-17T13:37:30.568Z"
 size_mb: 8625
 size: 4157444127
 sif: "https://datasets.datalad.org/shub/michael-tn/bioconductor/latest/2020-12-17-a96c55fc-1a6e34e5/1a6e34e5f43b698ca2e19b16f330cfc8.simg"
-url: https://datasets.datalad.org/shub/michael-tn/bioconductor/latest/2020-12-17-a96c55fc-1a6e34e5/
+datalad_url: https://datasets.datalad.org?dir=/shub/michael-tn/bioconductor/latest/2020-12-17-a96c55fc-1a6e34e5/
 recipe: https://datasets.datalad.org/shub/michael-tn/bioconductor/latest/2020-12-17-a96c55fc-1a6e34e5/Singularity
 collection: michael-tn/bioconductor
 ---

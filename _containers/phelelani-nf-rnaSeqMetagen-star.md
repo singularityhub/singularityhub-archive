@@ -9,7 +9,7 @@ build_date: "2021-04-12T16:53:40.397Z"
 size_mb: 914.0
 size: 625741855
 sif: "https://datasets.datalad.org/shub/phelelani/nf-rnaSeqMetagen/star/2021-04-12-abf9c668-64ce82b5/64ce82b501c7e8bc0dc6af3993d60a01.sif"
-url: https://datasets.datalad.org/shub/phelelani/nf-rnaSeqMetagen/star/2021-04-12-abf9c668-64ce82b5/
+datalad_url: https://datasets.datalad.org?dir=/shub/phelelani/nf-rnaSeqMetagen/star/2021-04-12-abf9c668-64ce82b5/
 recipe: https://datasets.datalad.org/shub/phelelani/nf-rnaSeqMetagen/star/2021-04-12-abf9c668-64ce82b5/Singularity
 collection: phelelani/nf-rnaSeqMetagen
 ---

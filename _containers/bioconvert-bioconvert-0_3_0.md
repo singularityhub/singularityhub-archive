@@ -9,7 +9,7 @@ build_date: "2021-04-07T19:51:39.162Z"
 size_mb: 2636
 size: 776433695
 sif: "https://datasets.datalad.org/shub/bioconvert/bioconvert/0_3_0/2021-04-07-7e521c6f-4386e41e/4386e41ea39bfdf0f022fba9d34a6712.simg"
-url: https://datasets.datalad.org/shub/bioconvert/bioconvert/0_3_0/2021-04-07-7e521c6f-4386e41e/
+datalad_url: https://datasets.datalad.org?dir=/shub/bioconvert/bioconvert/0_3_0/2021-04-07-7e521c6f-4386e41e/
 recipe: https://datasets.datalad.org/shub/bioconvert/bioconvert/0_3_0/2021-04-07-7e521c6f-4386e41e/Singularity
 collection: biokit/bioconvert
 ---

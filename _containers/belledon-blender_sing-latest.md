@@ -9,7 +9,7 @@ build_date: "2018-04-03T22:05:09.825Z"
 size_mb: 2717
 size: 899895327
 sif: "https://datasets.datalad.org/shub/belledon/blender_sing/latest/2018-04-03-7ae0293a-49308066/49308066d130ab6f8e6ddd67531ea9e0.simg"
-url: https://datasets.datalad.org/shub/belledon/blender_sing/latest/2018-04-03-7ae0293a-49308066/
+datalad_url: https://datasets.datalad.org?dir=/shub/belledon/blender_sing/latest/2018-04-03-7ae0293a-49308066/
 recipe: https://datasets.datalad.org/shub/belledon/blender_sing/latest/2018-04-03-7ae0293a-49308066/Singularity
 collection: belledon/blender_sing
 ---

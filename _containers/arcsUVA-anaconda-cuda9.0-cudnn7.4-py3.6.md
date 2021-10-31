@@ -9,7 +9,7 @@ build_date: "2020-01-30T18:58:50.103Z"
 size_mb: 6774
 size: 3289235487
 sif: "https://datasets.datalad.org/shub/arcsUVA/anaconda/cuda9.0-cudnn7.4-py3.6/2020-01-30-4471a82d-07da7448/07da74488ea7e0d73b36ad0c3d432622.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/anaconda/cuda9.0-cudnn7.4-py3.6/2020-01-30-4471a82d-07da7448/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/anaconda/cuda9.0-cudnn7.4-py3.6/2020-01-30-4471a82d-07da7448/
 recipe: https://datasets.datalad.org/shub/arcsUVA/anaconda/cuda9.0-cudnn7.4-py3.6/2020-01-30-4471a82d-07da7448/Singularity
 collection: arcsUVA/anaconda
 ---

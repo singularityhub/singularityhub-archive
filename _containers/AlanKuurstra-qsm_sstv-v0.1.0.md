@@ -9,7 +9,7 @@ build_date: "2018-04-26T16:28:55.737Z"
 size_mb: 5805
 size: 2159824927
 sif: "https://datasets.datalad.org/shub/AlanKuurstra/qsm_sstv/v0.1.0/2018-04-26-06b6b331-e02d6798/e02d67980b6910fa8313a63e28a40969.simg"
-url: https://datasets.datalad.org/shub/AlanKuurstra/qsm_sstv/v0.1.0/2018-04-26-06b6b331-e02d6798/
+datalad_url: https://datasets.datalad.org?dir=/shub/AlanKuurstra/qsm_sstv/v0.1.0/2018-04-26-06b6b331-e02d6798/
 recipe: https://datasets.datalad.org/shub/AlanKuurstra/qsm_sstv/v0.1.0/2018-04-26-06b6b331-e02d6798/Singularity
 collection: AlanKuurstra/qsm_sstv
 ---

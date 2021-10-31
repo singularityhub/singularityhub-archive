@@ -9,7 +9,7 @@ build_date: "2021-04-07T12:42:12.051Z"
 size_mb: 3042.0
 size: 974110751
 sif: "https://datasets.datalad.org/shub/maxemil/PhyloMagnet/latest/2021-04-07-c742de49-33bf1df1/33bf1df183c46c2464fa00cfdd8b2fde.sif"
-url: https://datasets.datalad.org/shub/maxemil/PhyloMagnet/latest/2021-04-07-c742de49-33bf1df1/
+datalad_url: https://datasets.datalad.org?dir=/shub/maxemil/PhyloMagnet/latest/2021-04-07-c742de49-33bf1df1/
 recipe: https://datasets.datalad.org/shub/maxemil/PhyloMagnet/latest/2021-04-07-c742de49-33bf1df1/Singularity
 collection: maxemil/PhyloMagnet
 ---

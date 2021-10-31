@@ -9,7 +9,7 @@ build_date: "2020-05-12T15:24:28.458Z"
 size_mb: 1075.0
 size: 376344607
 sif: "https://datasets.datalad.org/shub/regicor/prediction/latest/2020-05-12-647543d8-bdd6563c/bdd6563c51382aeaa1d9ee76a31264c5.sif"
-url: https://datasets.datalad.org/shub/regicor/prediction/latest/2020-05-12-647543d8-bdd6563c/
+datalad_url: https://datasets.datalad.org?dir=/shub/regicor/prediction/latest/2020-05-12-647543d8-bdd6563c/
 recipe: https://datasets.datalad.org/shub/regicor/prediction/latest/2020-05-12-647543d8-bdd6563c/Singularity
 collection: regicor/prediction
 ---

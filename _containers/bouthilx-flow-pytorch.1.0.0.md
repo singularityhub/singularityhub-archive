@@ -9,7 +9,7 @@ build_date: "2019-11-25T19:57:50.607Z"
 size_mb: 2191
 size: 1396572191
 sif: "https://datasets.datalad.org/shub/bouthilx/flow/pytorch.1.0.0/2019-11-25-c66b4c3a-75a020c0/75a020c0a5efcf262d68a92ca143c2e2.simg"
-url: https://datasets.datalad.org/shub/bouthilx/flow/pytorch.1.0.0/2019-11-25-c66b4c3a-75a020c0/
+datalad_url: https://datasets.datalad.org?dir=/shub/bouthilx/flow/pytorch.1.0.0/2019-11-25-c66b4c3a-75a020c0/
 recipe: https://datasets.datalad.org/shub/bouthilx/flow/pytorch.1.0.0/2019-11-25-c66b4c3a-75a020c0/Singularity
 collection: bouthilx/flow
 ---

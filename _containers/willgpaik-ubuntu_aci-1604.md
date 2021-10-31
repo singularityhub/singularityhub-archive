@@ -9,7 +9,7 @@ build_date: "2020-08-07T21:23:43.649Z"
 size_mb: 685.0
 size: 284364831
 sif: "https://datasets.datalad.org/shub/willgpaik/ubuntu_aci/1604/2020-08-07-bd2faeb0-b9e429f8/b9e429f807f5a5b52bd162d7c4614a9d.sif"
-url: https://datasets.datalad.org/shub/willgpaik/ubuntu_aci/1604/2020-08-07-bd2faeb0-b9e429f8/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/ubuntu_aci/1604/2020-08-07-bd2faeb0-b9e429f8/
 recipe: https://datasets.datalad.org/shub/willgpaik/ubuntu_aci/1604/2020-08-07-bd2faeb0-b9e429f8/Singularity
 collection: willgpaik/ubuntu_aci
 ---

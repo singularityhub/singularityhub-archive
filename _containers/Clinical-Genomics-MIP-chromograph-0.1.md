@@ -9,7 +9,7 @@ build_date: "2019-10-22T11:25:09.580Z"
 size_mb: 1375.0
 size: 480243743
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/MIP/chromograph-0.1/2019-10-22-735d8c32-8265ad09/8265ad09ac4821e78ec7f08ecb738e03.sif"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/chromograph-0.1/2019-10-22-735d8c32-8265ad09/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/MIP/chromograph-0.1/2019-10-22-735d8c32-8265ad09/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/MIP/chromograph-0.1/2019-10-22-735d8c32-8265ad09/Singularity
 collection: Clinical-Genomics/MIP
 ---

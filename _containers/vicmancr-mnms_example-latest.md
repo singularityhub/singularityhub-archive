@@ -9,7 +9,7 @@ build_date: "2020-06-03T10:12:57.732Z"
 size_mb: 3253.0
 size: 1715982367
 sif: "https://datasets.datalad.org/shub/vicmancr/mnms_example/latest/2020-06-03-44814dbd-992cb480/992cb480838e71c2a87b9ff261888d3d.sif"
-url: https://datasets.datalad.org/shub/vicmancr/mnms_example/latest/2020-06-03-44814dbd-992cb480/
+datalad_url: https://datasets.datalad.org?dir=/shub/vicmancr/mnms_example/latest/2020-06-03-44814dbd-992cb480/
 recipe: https://datasets.datalad.org/shub/vicmancr/mnms_example/latest/2020-06-03-44814dbd-992cb480/Singularity
 collection: vicmancr/mnms_example
 ---

@@ -9,7 +9,7 @@ build_date: "2020-12-18T23:16:40.626Z"
 size_mb: 2426.0
 size: 1150320671
 sif: "https://datasets.datalad.org/shub/semarpetrus/singularity_containers_private/assembly/2020-12-18-a76bc739-847dc13a/847dc13a3e11ba73262b2b273db53602.sif"
-url: https://datasets.datalad.org/shub/semarpetrus/singularity_containers_private/assembly/2020-12-18-a76bc739-847dc13a/
+datalad_url: https://datasets.datalad.org?dir=/shub/semarpetrus/singularity_containers_private/assembly/2020-12-18-a76bc739-847dc13a/
 recipe: https://datasets.datalad.org/shub/semarpetrus/singularity_containers_private/assembly/2020-12-18-a76bc739-847dc13a/Singularity
 collection: semarpetrus/singularity_containers_private
 ---

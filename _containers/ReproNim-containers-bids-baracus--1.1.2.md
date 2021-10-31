@@ -9,7 +9,7 @@ build_date: "2019-09-17T14:25:00.521Z"
 size_mb: 6504
 size: 3064270879
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-baracus--1.1.2/2019-09-17-697f419c-11916fef/11916fef54c4938282b4ab0e924d9872.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-baracus--1.1.2/2019-09-17-697f419c-11916fef/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-baracus--1.1.2/2019-09-17-697f419c-11916fef/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-baracus--1.1.2/2019-09-17-697f419c-11916fef/Singularity
 collection: ReproNim/containers
 ---

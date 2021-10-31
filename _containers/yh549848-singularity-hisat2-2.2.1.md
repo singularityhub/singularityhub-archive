@@ -9,7 +9,7 @@ build_date: "2021-04-08T20:45:04.642Z"
 size_mb: 345.0
 size: 100339743
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-hisat2/2.2.1/2021-04-08-f01a8ab6-1e00b63b/1e00b63bc1028e0c9188d0a70078b55c.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-hisat2/2.2.1/2021-04-08-f01a8ab6-1e00b63b/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-hisat2/2.2.1/2021-04-08-f01a8ab6-1e00b63b/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-hisat2/2.2.1/2021-04-08-f01a8ab6-1e00b63b/Singularity
 collection: yh549848/singularity-hisat2
 ---

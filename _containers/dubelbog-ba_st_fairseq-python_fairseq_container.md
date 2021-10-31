@@ -9,7 +9,7 @@ build_date: "2021-03-24T22:42:03.168Z"
 size_mb: 2964.0
 size: 1786617887
 sif: "https://datasets.datalad.org/shub/dubelbog/ba_st_fairseq/python_fairseq_container/2021-03-24-dc779277-94ad7ca9/94ad7ca9d78932a771233f19e442e42e.sif"
-url: https://datasets.datalad.org/shub/dubelbog/ba_st_fairseq/python_fairseq_container/2021-03-24-dc779277-94ad7ca9/
+datalad_url: https://datasets.datalad.org?dir=/shub/dubelbog/ba_st_fairseq/python_fairseq_container/2021-03-24-dc779277-94ad7ca9/
 recipe: https://datasets.datalad.org/shub/dubelbog/ba_st_fairseq/python_fairseq_container/2021-03-24-dc779277-94ad7ca9/Singularity
 collection: dubelbog/ba_st_fairseq
 ---

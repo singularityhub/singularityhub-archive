@@ -9,7 +9,7 @@ build_date: "2020-10-16T05:40:04.655Z"
 size_mb: 384.0
 size: 143626271
 sif: "https://datasets.datalad.org/shub/yh549848/singularity-genomepy/0.8.1/2020-10-16-547288e9-5c040a41/5c040a413ff31e3fc5ab8873db84f78e.sif"
-url: https://datasets.datalad.org/shub/yh549848/singularity-genomepy/0.8.1/2020-10-16-547288e9-5c040a41/
+datalad_url: https://datasets.datalad.org?dir=/shub/yh549848/singularity-genomepy/0.8.1/2020-10-16-547288e9-5c040a41/
 recipe: https://datasets.datalad.org/shub/yh549848/singularity-genomepy/0.8.1/2020-10-16-547288e9-5c040a41/Singularity
 collection: yh549848/singularity-genomepy
 ---

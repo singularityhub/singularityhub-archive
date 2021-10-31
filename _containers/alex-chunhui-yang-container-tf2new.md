@@ -9,7 +9,7 @@ build_date: "2020-09-25T03:44:22.281Z"
 size_mb: 5026.0
 size: 2554830879
 sif: "https://datasets.datalad.org/shub/alex-chunhui-yang/container/tf2new/2020-09-25-a7ea4182-e794bb39/e794bb392a19fc75f86179bc53227089.sif"
-url: https://datasets.datalad.org/shub/alex-chunhui-yang/container/tf2new/2020-09-25-a7ea4182-e794bb39/
+datalad_url: https://datasets.datalad.org?dir=/shub/alex-chunhui-yang/container/tf2new/2020-09-25-a7ea4182-e794bb39/
 recipe: https://datasets.datalad.org/shub/alex-chunhui-yang/container/tf2new/2020-09-25-a7ea4182-e794bb39/Singularity
 collection: alex-chunhui-yang/container
 ---

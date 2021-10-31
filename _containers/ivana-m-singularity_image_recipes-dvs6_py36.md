@@ -9,7 +9,7 @@ build_date: "2019-04-10T18:24:19.207Z"
 size_mb: 1042
 size: 344715295
 sif: "https://datasets.datalad.org/shub/ivana-m/singularity_image_recipes/dvs6_py36/2019-04-10-03b18aa4-585b0c5f/585b0c5f354f81e681da07f89aeff251.simg"
-url: https://datasets.datalad.org/shub/ivana-m/singularity_image_recipes/dvs6_py36/2019-04-10-03b18aa4-585b0c5f/
+datalad_url: https://datasets.datalad.org?dir=/shub/ivana-m/singularity_image_recipes/dvs6_py36/2019-04-10-03b18aa4-585b0c5f/
 recipe: https://datasets.datalad.org/shub/ivana-m/singularity_image_recipes/dvs6_py36/2019-04-10-03b18aa4-585b0c5f/Singularity
 collection: ivana-m/singularity_image_recipes
 ---

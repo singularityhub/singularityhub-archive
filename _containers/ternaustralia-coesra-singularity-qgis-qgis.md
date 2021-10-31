@@ -9,7 +9,7 @@ build_date: "2019-10-29T04:12:04.374Z"
 size_mb: 1407.0
 size: 490758175
 sif: "https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-qgis/qgis/2019-10-29-ac373911-730b703b/730b703bd0fd72796fc7f2d04c603ae3.sif"
-url: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-qgis/qgis/2019-10-29-ac373911-730b703b/
+datalad_url: https://datasets.datalad.org?dir=/shub/ternaustralia/coesra-singularity-qgis/qgis/2019-10-29-ac373911-730b703b/
 recipe: https://datasets.datalad.org/shub/ternaustralia/coesra-singularity-qgis/qgis/2019-10-29-ac373911-730b703b/Singularity
 collection: ternaustralia/coesra-singularity-qgis
 ---

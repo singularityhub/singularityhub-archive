@@ -9,7 +9,7 @@ build_date: "2021-04-16T07:33:13.318Z"
 size_mb: 5031
 size: 2516373535
 sif: "https://datasets.datalad.org/shub/CrazyAlan99/tensorflow-gpu/latest/2021-04-16-437f3d0d-2bbe4039/2bbe40397bbe3dc7bc3fe04b6edfe87c.simg"
-url: https://datasets.datalad.org/shub/CrazyAlan99/tensorflow-gpu/latest/2021-04-16-437f3d0d-2bbe4039/
+datalad_url: https://datasets.datalad.org?dir=/shub/CrazyAlan99/tensorflow-gpu/latest/2021-04-16-437f3d0d-2bbe4039/
 recipe: https://datasets.datalad.org/shub/CrazyAlan99/tensorflow-gpu/latest/2021-04-16-437f3d0d-2bbe4039/Singularity
 collection: CrazyAlan99/tensorflow-gpu
 ---

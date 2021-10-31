@@ -9,7 +9,7 @@ build_date: "2019-04-04T12:23:52.027Z"
 size_mb: 1827
 size: 687173663
 sif: "https://datasets.datalad.org/shub/simozhou/epi-awesome/latest/2019-04-04-0d4dcc34-07c88f8e/07c88f8eb085085f94dc6b5b28a27198.simg"
-url: https://datasets.datalad.org/shub/simozhou/epi-awesome/latest/2019-04-04-0d4dcc34-07c88f8e/
+datalad_url: https://datasets.datalad.org?dir=/shub/simozhou/epi-awesome/latest/2019-04-04-0d4dcc34-07c88f8e/
 recipe: https://datasets.datalad.org/shub/simozhou/epi-awesome/latest/2019-04-04-0d4dcc34-07c88f8e/Singularity
 collection: simozhou/epi-awesome
 ---

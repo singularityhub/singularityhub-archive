@@ -9,7 +9,7 @@ build_date: "2019-04-29T20:57:19.698Z"
 size_mb: 7589
 size: 2928963615
 sif: "https://datasets.datalad.org/shub/pndni/mriqc-singularity/mriqc-0.15.0_1.0.0/2019-04-29-7b7f2832-c388dba2/c388dba210896700d946b290259f8bea.simg"
-url: https://datasets.datalad.org/shub/pndni/mriqc-singularity/mriqc-0.15.0_1.0.0/2019-04-29-7b7f2832-c388dba2/
+datalad_url: https://datasets.datalad.org?dir=/shub/pndni/mriqc-singularity/mriqc-0.15.0_1.0.0/2019-04-29-7b7f2832-c388dba2/
 recipe: https://datasets.datalad.org/shub/pndni/mriqc-singularity/mriqc-0.15.0_1.0.0/2019-04-29-7b7f2832-c388dba2/Singularity
 collection: pndni/mriqc-singularity
 ---

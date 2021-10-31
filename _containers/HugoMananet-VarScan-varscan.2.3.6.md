@@ -9,7 +9,7 @@ build_date: "2018-11-30T19:45:31.341Z"
 size_mb: 752
 size: 271675423
 sif: "https://datasets.datalad.org/shub/HugoMananet/VarScan/varscan.2.3.6/2018-11-30-81c4b04a-dc0cebb7/dc0cebb70178c6ef9a6cad063e163a37.simg"
-url: https://datasets.datalad.org/shub/HugoMananet/VarScan/varscan.2.3.6/2018-11-30-81c4b04a-dc0cebb7/
+datalad_url: https://datasets.datalad.org?dir=/shub/HugoMananet/VarScan/varscan.2.3.6/2018-11-30-81c4b04a-dc0cebb7/
 recipe: https://datasets.datalad.org/shub/HugoMananet/VarScan/varscan.2.3.6/2018-11-30-81c4b04a-dc0cebb7/Singularity
 collection: HugoMananet/VarScan
 ---

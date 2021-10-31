@@ -9,7 +9,7 @@ build_date: "2018-06-11T18:30:27.462Z"
 size_mb: 2349
 size: 735768607
 sif: "https://datasets.datalad.org/shub/ResearchIT/NMRPipe/212_64/2018-06-11-ec046224-bd9402de/bd9402deefcb994d868ed0bfc8146c48.simg"
-url: https://datasets.datalad.org/shub/ResearchIT/NMRPipe/212_64/2018-06-11-ec046224-bd9402de/
+datalad_url: https://datasets.datalad.org?dir=/shub/ResearchIT/NMRPipe/212_64/2018-06-11-ec046224-bd9402de/
 recipe: https://datasets.datalad.org/shub/ResearchIT/NMRPipe/212_64/2018-06-11-ec046224-bd9402de/Singularity
 collection: ResearchIT/NMRPipe
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-13T13:21:31.958Z"
 size_mb: 418
 size: 162246687
 sif: "https://datasets.datalad.org/shub/recap/udt-singularity/latest/2020-01-13-b93f3373-943c7d3a/943c7d3a499dfaa58b102e13dd5ea245.simg"
-url: https://datasets.datalad.org/shub/recap/udt-singularity/latest/2020-01-13-b93f3373-943c7d3a/
+datalad_url: https://datasets.datalad.org?dir=/shub/recap/udt-singularity/latest/2020-01-13-b93f3373-943c7d3a/
 recipe: https://datasets.datalad.org/shub/recap/udt-singularity/latest/2020-01-13-b93f3373-943c7d3a/Singularity
 collection: recap/udt-singularity
 ---

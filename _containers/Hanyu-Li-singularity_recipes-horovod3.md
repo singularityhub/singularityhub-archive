@@ -9,7 +9,7 @@ build_date: "2019-05-10T20:18:29.510Z"
 size_mb: 6128
 size: 3529158687
 sif: "https://datasets.datalad.org/shub/Hanyu-Li/singularity_recipes/horovod3/2019-05-10-88d48e6a-520ebb94/520ebb944357cdb28bee77cb14b4e92f.simg"
-url: https://datasets.datalad.org/shub/Hanyu-Li/singularity_recipes/horovod3/2019-05-10-88d48e6a-520ebb94/
+datalad_url: https://datasets.datalad.org?dir=/shub/Hanyu-Li/singularity_recipes/horovod3/2019-05-10-88d48e6a-520ebb94/
 recipe: https://datasets.datalad.org/shub/Hanyu-Li/singularity_recipes/horovod3/2019-05-10-88d48e6a-520ebb94/Singularity
 collection: Hanyu-Li/singularity_recipes
 ---

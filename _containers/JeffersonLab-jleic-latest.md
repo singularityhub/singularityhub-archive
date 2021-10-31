@@ -9,7 +9,7 @@ build_date: "2017-12-13T01:42:44.984Z"
 size_mb: 5118
 size: 1697038367
 sif: "https://datasets.datalad.org/shub/JeffersonLab/jleic/latest/2017-12-13-3fedef7b-658cb703/658cb70329912303ba317b52071c50a1.simg"
-url: https://datasets.datalad.org/shub/JeffersonLab/jleic/latest/2017-12-13-3fedef7b-658cb703/
+datalad_url: https://datasets.datalad.org?dir=/shub/JeffersonLab/jleic/latest/2017-12-13-3fedef7b-658cb703/
 recipe: https://datasets.datalad.org/shub/JeffersonLab/jleic/latest/2017-12-13-3fedef7b-658cb703/Singularity
 collection: JeffersonLab/jleic
 ---

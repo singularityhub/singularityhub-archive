@@ -9,7 +9,7 @@ build_date: "2019-11-11T16:31:29.270Z"
 size_mb: 12187
 size: 4811120671
 sif: "https://datasets.datalad.org/shub/kasbohm/singularity_fmriprep/latest/2019-11-11-7bd45578-e6f3c126/e6f3c126352e8847214f7ed3aa920d65.simg"
-url: https://datasets.datalad.org/shub/kasbohm/singularity_fmriprep/latest/2019-11-11-7bd45578-e6f3c126/
+datalad_url: https://datasets.datalad.org?dir=/shub/kasbohm/singularity_fmriprep/latest/2019-11-11-7bd45578-e6f3c126/
 recipe: https://datasets.datalad.org/shub/kasbohm/singularity_fmriprep/latest/2019-11-11-7bd45578-e6f3c126/Singularity
 collection: kasbohm/singularity_fmriprep
 ---

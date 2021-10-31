@@ -9,7 +9,7 @@ build_date: "2020-01-16T03:48:31.847Z"
 size_mb: 415
 size: 147017759
 sif: "https://datasets.datalad.org/shub/johnfrx/globus-container/latest/2020-01-16-cdd990e5-7c5fdca1/7c5fdca1bd59cd0ccf7ba6380d0232e3.simg"
-url: https://datasets.datalad.org/shub/johnfrx/globus-container/latest/2020-01-16-cdd990e5-7c5fdca1/
+datalad_url: https://datasets.datalad.org?dir=/shub/johnfrx/globus-container/latest/2020-01-16-cdd990e5-7c5fdca1/
 recipe: https://datasets.datalad.org/shub/johnfrx/globus-container/latest/2020-01-16-cdd990e5-7c5fdca1/Singularity
 collection: johnfrx/globus-container
 ---

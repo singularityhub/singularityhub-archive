@@ -9,7 +9,7 @@ build_date: "2019-03-10T12:12:53.542Z"
 size_mb: 852
 size: 328699935
 sif: "https://datasets.datalad.org/shub/motroy/singularity-bob-gridtk/latest/2019-03-10-6c2a53a6-f745f69b/f745f69bb9a3a554440b02c4cb5d1478.simg"
-url: https://datasets.datalad.org/shub/motroy/singularity-bob-gridtk/latest/2019-03-10-6c2a53a6-f745f69b/
+datalad_url: https://datasets.datalad.org?dir=/shub/motroy/singularity-bob-gridtk/latest/2019-03-10-6c2a53a6-f745f69b/
 recipe: https://datasets.datalad.org/shub/motroy/singularity-bob-gridtk/latest/2019-03-10-6c2a53a6-f745f69b/Singularity
 collection: motroy/singularity-bob-gridtk
 ---

@@ -9,7 +9,7 @@ build_date: "2021-02-08T09:15:04.284Z"
 size_mb: 752.0
 size: 251748383
 sif: "https://datasets.datalad.org/shub/arrabito/CTADIRAC/ctadirac-rucio/2021-02-08-58b3eff2-c289884b/c289884bcecfabe7057c40d25ccaeba9.sif"
-url: https://datasets.datalad.org/shub/arrabito/CTADIRAC/ctadirac-rucio/2021-02-08-58b3eff2-c289884b/
+datalad_url: https://datasets.datalad.org?dir=/shub/arrabito/CTADIRAC/ctadirac-rucio/2021-02-08-58b3eff2-c289884b/
 recipe: https://datasets.datalad.org/shub/arrabito/CTADIRAC/ctadirac-rucio/2021-02-08-58b3eff2-c289884b/Singularity
 collection: arrabito/CTADIRAC
 ---

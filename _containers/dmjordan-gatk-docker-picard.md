@@ -9,7 +9,7 @@ build_date: "2020-07-22T14:04:34.034Z"
 size_mb: 325.34375
 size: 341147648
 sif: "https://datasets.datalad.org/shub/dmjordan/gatk-docker/picard/2020-07-22-6981a28f-a7432516/a74325166f3087e3f25ebb9b4dd625d0c6f57a93e843395eacfda617e918c670.sif"
-url: https://datasets.datalad.org/shub/dmjordan/gatk-docker/picard/2020-07-22-6981a28f-a7432516/
+datalad_url: https://datasets.datalad.org?dir=/shub/dmjordan/gatk-docker/picard/2020-07-22-6981a28f-a7432516/
 recipe: https://datasets.datalad.org/shub/dmjordan/gatk-docker/picard/2020-07-22-6981a28f-a7432516/Singularity
 collection: dmjordan/gatk-docker
 ---

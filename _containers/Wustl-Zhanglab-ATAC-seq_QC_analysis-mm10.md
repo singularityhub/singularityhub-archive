@@ -9,7 +9,7 @@ build_date: "2018-03-03T01:06:30.189Z"
 size_mb: 10215
 size: 5175660575
 sif: "https://datasets.datalad.org/shub/Wustl-Zhanglab/ATAC-seq_QC_analysis/mm10/2018-03-03-5d22c943-28fca78d/28fca78dee700bc735c30ea64993b12a.simg"
-url: https://datasets.datalad.org/shub/Wustl-Zhanglab/ATAC-seq_QC_analysis/mm10/2018-03-03-5d22c943-28fca78d/
+datalad_url: https://datasets.datalad.org?dir=/shub/Wustl-Zhanglab/ATAC-seq_QC_analysis/mm10/2018-03-03-5d22c943-28fca78d/
 recipe: https://datasets.datalad.org/shub/Wustl-Zhanglab/ATAC-seq_QC_analysis/mm10/2018-03-03-5d22c943-28fca78d/Singularity
 collection: ShaopengLiu1/ATAC-seq_QC_analysis
 ---

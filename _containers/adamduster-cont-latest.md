@@ -9,7 +9,7 @@ build_date: "2019-05-24T15:49:14.206Z"
 size_mb: 533
 size: 208490527
 sif: "https://datasets.datalad.org/shub/adamduster/cont/latest/2019-05-24-42370a06-1dc1eb16/1dc1eb1666537f6dcabf27ee23d5d85f.simg"
-url: https://datasets.datalad.org/shub/adamduster/cont/latest/2019-05-24-42370a06-1dc1eb16/
+datalad_url: https://datasets.datalad.org?dir=/shub/adamduster/cont/latest/2019-05-24-42370a06-1dc1eb16/
 recipe: https://datasets.datalad.org/shub/adamduster/cont/latest/2019-05-24-42370a06-1dc1eb16/Singularity
 collection: adamduster/cont
 ---

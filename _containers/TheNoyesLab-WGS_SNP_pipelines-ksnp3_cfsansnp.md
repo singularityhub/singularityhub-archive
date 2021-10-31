@@ -9,7 +9,7 @@ build_date: "2021-03-07T16:21:39.085Z"
 size_mb: 4743.0
 size: 2586996767
 sif: "https://datasets.datalad.org/shub/TheNoyesLab/WGS_SNP_pipelines/ksnp3_cfsansnp/2021-03-07-0ee566a8-cc712665/cc712665719b2bb3e131aa4bcb25922b.sif"
-url: https://datasets.datalad.org/shub/TheNoyesLab/WGS_SNP_pipelines/ksnp3_cfsansnp/2021-03-07-0ee566a8-cc712665/
+datalad_url: https://datasets.datalad.org?dir=/shub/TheNoyesLab/WGS_SNP_pipelines/ksnp3_cfsansnp/2021-03-07-0ee566a8-cc712665/
 recipe: https://datasets.datalad.org/shub/TheNoyesLab/WGS_SNP_pipelines/ksnp3_cfsansnp/2021-03-07-0ee566a8-cc712665/Singularity
 collection: TheNoyesLab/WGS_SNP_pipelines
 ---

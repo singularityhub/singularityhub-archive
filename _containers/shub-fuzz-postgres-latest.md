@@ -9,7 +9,7 @@ build_date: "2021-01-18T16:06:34.848Z"
 size_mb: 103.5546875
 size: 108584960
 sif: "https://datasets.datalad.org/shub/shub-fuzz/postgres/latest/2021-01-18-e64f3407-b9ebdea7/b9ebdea72d162d5faceadabcb15c1dac979b03ce887b7d9b0bd5e8ce84a88818.sif"
-url: https://datasets.datalad.org/shub/shub-fuzz/postgres/latest/2021-01-18-e64f3407-b9ebdea7/
+datalad_url: https://datasets.datalad.org?dir=/shub/shub-fuzz/postgres/latest/2021-01-18-e64f3407-b9ebdea7/
 recipe: https://datasets.datalad.org/shub/shub-fuzz/postgres/latest/2021-01-18-e64f3407-b9ebdea7/Singularity
 collection: shub-fuzz/postgres
 ---

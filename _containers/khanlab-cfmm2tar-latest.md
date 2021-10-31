@@ -9,7 +9,7 @@ build_date: "2021-04-13T13:44:50.260Z"
 size_mb: 583
 size: 232230943
 sif: "https://datasets.datalad.org/shub/khanlab/cfmm2tar/latest/2021-04-13-05d9c005-0b18e41e/0b18e41e4a695a830a315cc93c75bd7d.simg"
-url: https://datasets.datalad.org/shub/khanlab/cfmm2tar/latest/2021-04-13-05d9c005-0b18e41e/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/cfmm2tar/latest/2021-04-13-05d9c005-0b18e41e/
 recipe: https://datasets.datalad.org/shub/khanlab/cfmm2tar/latest/2021-04-13-05d9c005-0b18e41e/Singularity
 collection: khanlab/cfmm2tar
 ---

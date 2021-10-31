@@ -9,7 +9,7 @@ build_date: "2019-12-12T06:54:02.870Z"
 size_mb: 2648
 size: 569024543
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/octopus_8.4_parallel/2019-12-12-0dc75873-44ca3ef6/44ca3ef62088dee4f43d4e34dd9462ce.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/octopus_8.4_parallel/2019-12-12-0dc75873-44ca3ef6/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/octopus_8.4_parallel/2019-12-12-0dc75873-44ca3ef6/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/octopus_8.4_parallel/2019-12-12-0dc75873-44ca3ef6/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

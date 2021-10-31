@@ -9,7 +9,7 @@ build_date: "2020-05-05T04:51:10.940Z"
 size_mb: 667.0
 size: 254591007
 sif: "https://datasets.datalad.org/shub/h3abionet/h3ameta/trimmomatic/2020-05-05-5555cd3a-7401a8bb/7401a8bbc78790b693b58a0a03665fa9.sif"
-url: https://datasets.datalad.org/shub/h3abionet/h3ameta/trimmomatic/2020-05-05-5555cd3a-7401a8bb/
+datalad_url: https://datasets.datalad.org?dir=/shub/h3abionet/h3ameta/trimmomatic/2020-05-05-5555cd3a-7401a8bb/
 recipe: https://datasets.datalad.org/shub/h3abionet/h3ameta/trimmomatic/2020-05-05-5555cd3a-7401a8bb/Singularity
 collection: h3abionet/h3ameta
 ---

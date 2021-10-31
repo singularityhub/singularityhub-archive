@@ -9,7 +9,7 @@ build_date: "2020-05-07T09:20:43.579Z"
 size_mb: 3155.0
 size: 1161285663
 sif: "https://datasets.datalad.org/shub/PersonalizedOncology/ClinVAP/report/2020-05-07-9d935aa3-a17fc9e8/a17fc9e810aba189ca787ba4918b2677.sif"
-url: https://datasets.datalad.org/shub/PersonalizedOncology/ClinVAP/report/2020-05-07-9d935aa3-a17fc9e8/
+datalad_url: https://datasets.datalad.org?dir=/shub/PersonalizedOncology/ClinVAP/report/2020-05-07-9d935aa3-a17fc9e8/
 recipe: https://datasets.datalad.org/shub/PersonalizedOncology/ClinVAP/report/2020-05-07-9d935aa3-a17fc9e8/Singularity
 collection: PersonalizedOncology/ClinVAP
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-08T14:46:58.392Z"
 size_mb: 8162.0
 size: 3185438751
 sif: "https://datasets.datalad.org/shub/franciscozorrilla/metaBAGpipes/latest/2020-06-08-d5c6eed0-88b78a9b/88b78a9b55183e4a115ba1eb09d6c5b0.sif"
-url: https://datasets.datalad.org/shub/franciscozorrilla/metaBAGpipes/latest/2020-06-08-d5c6eed0-88b78a9b/
+datalad_url: https://datasets.datalad.org?dir=/shub/franciscozorrilla/metaBAGpipes/latest/2020-06-08-d5c6eed0-88b78a9b/
 recipe: https://datasets.datalad.org/shub/franciscozorrilla/metaBAGpipes/latest/2020-06-08-d5c6eed0-88b78a9b/Singularity
 collection: franciscozorrilla/metaBAGpipes
 ---

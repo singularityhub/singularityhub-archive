@@ -9,7 +9,7 @@ build_date: "2020-01-15T23:24:19.254Z"
 size_mb: 3616.0
 size: 1792864287
 sif: "https://datasets.datalad.org/shub/MephistophelesUCR/Research/latest/2020-01-15-52822743-5ae793e9/5ae793e9703740679935ea1cfdfe4658.sif"
-url: https://datasets.datalad.org/shub/MephistophelesUCR/Research/latest/2020-01-15-52822743-5ae793e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/MephistophelesUCR/Research/latest/2020-01-15-52822743-5ae793e9/
 recipe: https://datasets.datalad.org/shub/MephistophelesUCR/Research/latest/2020-01-15-52822743-5ae793e9/Singularity
 collection: MephistophelesUCR/Research
 ---

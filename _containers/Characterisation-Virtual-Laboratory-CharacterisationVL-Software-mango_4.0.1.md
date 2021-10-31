@@ -9,7 +9,7 @@ build_date: "2019-12-12T06:54:02.810Z"
 size_mb: 6219
 size: 2986135583
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/mango_4.0.1/2019-12-12-0dc75873-16c9041c/16c9041c9ad8847fed787f3dfc4e4243.simg"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/mango_4.0.1/2019-12-12-0dc75873-16c9041c/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/mango_4.0.1/2019-12-12-0dc75873-16c9041c/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/mango_4.0.1/2019-12-12-0dc75873-16c9041c/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

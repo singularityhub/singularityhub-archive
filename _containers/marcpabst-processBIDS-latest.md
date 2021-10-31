@@ -9,7 +9,7 @@ build_date: "2019-08-08T18:31:20.556Z"
 size_mb: 1759.0
 size: 692449311
 sif: "https://datasets.datalad.org/shub/marcpabst/processBIDS/latest/2019-08-08-2ac3a598-2b38ca0b/2b38ca0b66c30de24f7f250cbd258505.sif"
-url: https://datasets.datalad.org/shub/marcpabst/processBIDS/latest/2019-08-08-2ac3a598-2b38ca0b/
+datalad_url: https://datasets.datalad.org?dir=/shub/marcpabst/processBIDS/latest/2019-08-08-2ac3a598-2b38ca0b/
 recipe: https://datasets.datalad.org/shub/marcpabst/processBIDS/latest/2019-08-08-2ac3a598-2b38ca0b/Singularity
 collection: marcpabst/processBIDS
 ---

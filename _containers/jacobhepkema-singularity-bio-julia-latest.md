@@ -9,7 +9,7 @@ build_date: "2020-02-10T13:23:04.347Z"
 size_mb: 789.0
 size: 289447967
 sif: "https://datasets.datalad.org/shub/jacobhepkema/singularity-bio-julia/latest/2020-02-10-b059107e-224fe936/224fe936020ac5b19e47764f2cbb7073.sif"
-url: https://datasets.datalad.org/shub/jacobhepkema/singularity-bio-julia/latest/2020-02-10-b059107e-224fe936/
+datalad_url: https://datasets.datalad.org?dir=/shub/jacobhepkema/singularity-bio-julia/latest/2020-02-10-b059107e-224fe936/
 recipe: https://datasets.datalad.org/shub/jacobhepkema/singularity-bio-julia/latest/2020-02-10-b059107e-224fe936/Singularity
 collection: jacobhepkema/singularity-bio-julia
 ---

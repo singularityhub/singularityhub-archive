@@ -9,7 +9,7 @@ build_date: "2018-10-28T13:17:12.816Z"
 size_mb: 2754
 size: 916733983
 sif: "https://datasets.datalad.org/shub/tai271828/solvcon/latest/2018-10-28-ef3f7d15-978bcf4e/978bcf4eb604adc6862a199af665e930.simg"
-url: https://datasets.datalad.org/shub/tai271828/solvcon/latest/2018-10-28-ef3f7d15-978bcf4e/
+datalad_url: https://datasets.datalad.org?dir=/shub/tai271828/solvcon/latest/2018-10-28-ef3f7d15-978bcf4e/
 recipe: https://datasets.datalad.org/shub/tai271828/solvcon/latest/2018-10-28-ef3f7d15-978bcf4e/Singularity
 collection: tai271828/solvcon
 ---

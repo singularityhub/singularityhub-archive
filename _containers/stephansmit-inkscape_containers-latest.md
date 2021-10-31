@@ -9,7 +9,7 @@ build_date: "2019-09-30T11:21:32.358Z"
 size_mb: 541.0
 size: 179085343
 sif: "https://datasets.datalad.org/shub/stephansmit/inkscape_containers/latest/2019-09-30-0b2aca70-e3b83ced/e3b83cedca59510df861f68cebf03e32.sif"
-url: https://datasets.datalad.org/shub/stephansmit/inkscape_containers/latest/2019-09-30-0b2aca70-e3b83ced/
+datalad_url: https://datasets.datalad.org?dir=/shub/stephansmit/inkscape_containers/latest/2019-09-30-0b2aca70-e3b83ced/
 recipe: https://datasets.datalad.org/shub/stephansmit/inkscape_containers/latest/2019-09-30-0b2aca70-e3b83ced/Singularity
 collection: stephansmit/inkscape_containers
 ---

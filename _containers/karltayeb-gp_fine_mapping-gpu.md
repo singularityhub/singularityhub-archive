@@ -9,7 +9,7 @@ build_date: "2019-06-24T14:48:05.229Z"
 size_mb: 3903
 size: 1962504223
 sif: "https://datasets.datalad.org/shub/karltayeb/gp_fine_mapping/gpu/2019-06-24-5252e00f-ddc5fd6d/ddc5fd6dbdca1f22739b5e4c0859791a.simg"
-url: https://datasets.datalad.org/shub/karltayeb/gp_fine_mapping/gpu/2019-06-24-5252e00f-ddc5fd6d/
+datalad_url: https://datasets.datalad.org?dir=/shub/karltayeb/gp_fine_mapping/gpu/2019-06-24-5252e00f-ddc5fd6d/
 recipe: https://datasets.datalad.org/shub/karltayeb/gp_fine_mapping/gpu/2019-06-24-5252e00f-ddc5fd6d/Singularity
 collection: karltayeb/gp_fine_mapping
 ---

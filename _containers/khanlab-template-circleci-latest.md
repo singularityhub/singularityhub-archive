@@ -9,7 +9,7 @@ build_date: "2019-01-11T15:17:03.912Z"
 size_mb: 5
 size: 2043935
 sif: "https://datasets.datalad.org/shub/khanlab/template-circleci/latest/2019-01-11-0503649c-4a332ac3/4a332ac3f179e3b3681c9e46f0a6cd4e.simg"
-url: https://datasets.datalad.org/shub/khanlab/template-circleci/latest/2019-01-11-0503649c-4a332ac3/
+datalad_url: https://datasets.datalad.org?dir=/shub/khanlab/template-circleci/latest/2019-01-11-0503649c-4a332ac3/
 recipe: https://datasets.datalad.org/shub/khanlab/template-circleci/latest/2019-01-11-0503649c-4a332ac3/Singularity
 collection: khanlab/template-circleci
 ---

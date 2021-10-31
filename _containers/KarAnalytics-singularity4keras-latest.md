@@ -9,7 +9,7 @@ build_date: "2019-08-05T03:41:11.914Z"
 size_mb: 2889
 size: 1213517855
 sif: "https://datasets.datalad.org/shub/KarAnalytics/singularity4keras/latest/2019-08-05-36fa6b70-ce7d884f/ce7d884f8dd23b3445c4a3437dfb351c.simg"
-url: https://datasets.datalad.org/shub/KarAnalytics/singularity4keras/latest/2019-08-05-36fa6b70-ce7d884f/
+datalad_url: https://datasets.datalad.org?dir=/shub/KarAnalytics/singularity4keras/latest/2019-08-05-36fa6b70-ce7d884f/
 recipe: https://datasets.datalad.org/shub/KarAnalytics/singularity4keras/latest/2019-08-05-36fa6b70-ce7d884f/Singularity
 collection: KarAnalytics/singularity4keras
 ---

@@ -9,7 +9,7 @@ build_date: "2018-08-28T03:21:34.884Z"
 size_mb: 172
 size: 82468895
 sif: "https://datasets.datalad.org/shub/ncy9371/singularity-buildtest/latest/2018-08-28-482df601-d43d387c/d43d387c64c76b70c43511235a4632b6.simg"
-url: https://datasets.datalad.org/shub/ncy9371/singularity-buildtest/latest/2018-08-28-482df601-d43d387c/
+datalad_url: https://datasets.datalad.org?dir=/shub/ncy9371/singularity-buildtest/latest/2018-08-28-482df601-d43d387c/
 recipe: https://datasets.datalad.org/shub/ncy9371/singularity-buildtest/latest/2018-08-28-482df601-d43d387c/Singularity
 collection: ncy9371/singularity-buildtest
 ---

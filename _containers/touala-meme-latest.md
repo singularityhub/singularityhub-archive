@@ -9,7 +9,7 @@ build_date: "2020-01-31T16:50:14.581Z"
 size_mb: 1198.0
 size: 399503391
 sif: "https://datasets.datalad.org/shub/touala/meme/latest/2020-01-31-20ced9f2-41788dea/41788dea9e870ba23aa448a8dec20452.sif"
-url: https://datasets.datalad.org/shub/touala/meme/latest/2020-01-31-20ced9f2-41788dea/
+datalad_url: https://datasets.datalad.org?dir=/shub/touala/meme/latest/2020-01-31-20ced9f2-41788dea/
 recipe: https://datasets.datalad.org/shub/touala/meme/latest/2020-01-31-20ced9f2-41788dea/Singularity
 collection: touala/meme
 ---

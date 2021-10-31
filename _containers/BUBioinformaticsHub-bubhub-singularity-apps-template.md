@@ -9,7 +9,7 @@ build_date: "2018-10-16T23:20:50.103Z"
 size_mb: 351
 size: 135483423
 sif: "https://datasets.datalad.org/shub/BUBioinformaticsHub/bubhub-singularity-apps/template/2018-10-16-8166e4a2-91d7f6df/91d7f6df79d3c1baadfd27b32572075d.simg"
-url: https://datasets.datalad.org/shub/BUBioinformaticsHub/bubhub-singularity-apps/template/2018-10-16-8166e4a2-91d7f6df/
+datalad_url: https://datasets.datalad.org?dir=/shub/BUBioinformaticsHub/bubhub-singularity-apps/template/2018-10-16-8166e4a2-91d7f6df/
 recipe: https://datasets.datalad.org/shub/BUBioinformaticsHub/bubhub-singularity-apps/template/2018-10-16-8166e4a2-91d7f6df/Singularity
 collection: BUBioinformaticsHub/bubhub-singularity-apps
 ---

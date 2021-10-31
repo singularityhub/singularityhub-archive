@@ -9,7 +9,7 @@ build_date: "2021-01-28T17:41:42.264Z"
 size_mb: 4902.0
 size: 2274807839
 sif: "https://datasets.datalad.org/shub/willgpaik/centos7_aci/cuda9.1/2021-01-28-2554d799-f51d3c64/f51d3c64d114fc69ffdd16084ffa27f1.sif"
-url: https://datasets.datalad.org/shub/willgpaik/centos7_aci/cuda9.1/2021-01-28-2554d799-f51d3c64/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/centos7_aci/cuda9.1/2021-01-28-2554d799-f51d3c64/
 recipe: https://datasets.datalad.org/shub/willgpaik/centos7_aci/cuda9.1/2021-01-28-2554d799-f51d3c64/Singularity
 collection: willgpaik/centos7_aci
 ---

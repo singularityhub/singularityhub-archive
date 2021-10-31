@@ -9,7 +9,7 @@ build_date: "2020-03-16T08:50:10.270Z"
 size_mb: 609
 size: 256679967
 sif: "https://datasets.datalad.org/shub/DrVale83/bioinfo/igv/2020-03-16-c9a1ea1b-ca75b09f/ca75b09f6c823cce7a340a5cb9089984.simg"
-url: https://datasets.datalad.org/shub/DrVale83/bioinfo/igv/2020-03-16-c9a1ea1b-ca75b09f/
+datalad_url: https://datasets.datalad.org?dir=/shub/DrVale83/bioinfo/igv/2020-03-16-c9a1ea1b-ca75b09f/
 recipe: https://datasets.datalad.org/shub/DrVale83/bioinfo/igv/2020-03-16-c9a1ea1b-ca75b09f/Singularity
 collection: DrVale83/bioinfo
 ---

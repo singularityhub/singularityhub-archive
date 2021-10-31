@@ -9,7 +9,7 @@ build_date: "2018-10-09T10:11:50.120Z"
 size_mb: 3566
 size: 1524387871
 sif: "https://datasets.datalad.org/shub/patrickvdb/RNAseq_tools/v1.1/2018-10-09-d74ee17f-7c6517f4/7c6517f415c9953f4078ab50b8ac5687.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/RNAseq_tools/v1.1/2018-10-09-d74ee17f-7c6517f4/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/RNAseq_tools/v1.1/2018-10-09-d74ee17f-7c6517f4/
 recipe: https://datasets.datalad.org/shub/patrickvdb/RNAseq_tools/v1.1/2018-10-09-d74ee17f-7c6517f4/Singularity
 collection: patrickvdb/RNAseq_tools
 ---

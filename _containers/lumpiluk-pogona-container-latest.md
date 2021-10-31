@@ -9,7 +9,7 @@ build_date: "2020-07-13T19:08:57.175Z"
 size_mb: 3750.0
 size: 1104216095
 sif: "https://datasets.datalad.org/shub/lumpiluk/pogona-container/latest/2020-07-13-7807fb17-454eb76c/454eb76c309f4f2e617553e2b6bc140e.sif"
-url: https://datasets.datalad.org/shub/lumpiluk/pogona-container/latest/2020-07-13-7807fb17-454eb76c/
+datalad_url: https://datasets.datalad.org?dir=/shub/lumpiluk/pogona-container/latest/2020-07-13-7807fb17-454eb76c/
 recipe: https://datasets.datalad.org/shub/lumpiluk/pogona-container/latest/2020-07-13-7807fb17-454eb76c/Singularity
 collection: lumpiluk/pogona-container
 ---

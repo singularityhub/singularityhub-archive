@@ -9,7 +9,7 @@ build_date: "2017-11-21T18:32:11.686Z"
 size_mb: 1499
 size: 808738847
 sif: "https://datasets.datalad.org/shub/sentient-singularity/singularity-images/latest/2017-11-21-ff8be9b4-05f5e206/05f5e206952d312c440ac0fe4a13ea0d.simg"
-url: https://datasets.datalad.org/shub/sentient-singularity/singularity-images/latest/2017-11-21-ff8be9b4-05f5e206/
+datalad_url: https://datasets.datalad.org?dir=/shub/sentient-singularity/singularity-images/latest/2017-11-21-ff8be9b4-05f5e206/
 recipe: https://datasets.datalad.org/shub/sentient-singularity/singularity-images/latest/2017-11-21-ff8be9b4-05f5e206/Singularity
 collection: sentient-singularity/singularity-images
 ---

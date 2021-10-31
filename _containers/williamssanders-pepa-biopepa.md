@@ -9,7 +9,7 @@ build_date: "2019-02-14T08:45:05.107Z"
 size_mb: 928
 size: 544141343
 sif: "https://datasets.datalad.org/shub/williamssanders/pepa/biopepa/2019-02-14-fe1f0762-45bce1f6/45bce1f6c76ac2011bb06daab90c40e3.simg"
-url: https://datasets.datalad.org/shub/williamssanders/pepa/biopepa/2019-02-14-fe1f0762-45bce1f6/
+datalad_url: https://datasets.datalad.org?dir=/shub/williamssanders/pepa/biopepa/2019-02-14-fe1f0762-45bce1f6/
 recipe: https://datasets.datalad.org/shub/williamssanders/pepa/biopepa/2019-02-14-fe1f0762-45bce1f6/Singularity
 collection: williamssanders/pepa
 ---

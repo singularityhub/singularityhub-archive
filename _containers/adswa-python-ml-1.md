@@ -9,7 +9,7 @@ build_date: "2021-01-29T08:18:13.432Z"
 size_mb: 619.0
 size: 278458399
 sif: "https://datasets.datalad.org/shub/adswa/python-ml/1/2021-01-29-0f6bf856-cc43025f/cc43025f9d19773db0185ccb9b0e4cc2.sif"
-url: https://datasets.datalad.org/shub/adswa/python-ml/1/2021-01-29-0f6bf856-cc43025f/
+datalad_url: https://datasets.datalad.org?dir=/shub/adswa/python-ml/1/2021-01-29-0f6bf856-cc43025f/
 recipe: https://datasets.datalad.org/shub/adswa/python-ml/1/2021-01-29-0f6bf856-cc43025f/Singularity
 collection: adswa/python-ml
 ---

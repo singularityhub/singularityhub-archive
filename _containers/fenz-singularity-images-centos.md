@@ -9,7 +9,7 @@ build_date: "2018-05-08T13:50:24.793Z"
 size_mb: 279
 size: 83025951
 sif: "https://datasets.datalad.org/shub/fenz/singularity-images/centos/2018-05-08-c82b4783-88e661d1/88e661d1bf3570e8535d187a965faa4f.simg"
-url: https://datasets.datalad.org/shub/fenz/singularity-images/centos/2018-05-08-c82b4783-88e661d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/fenz/singularity-images/centos/2018-05-08-c82b4783-88e661d1/
 recipe: https://datasets.datalad.org/shub/fenz/singularity-images/centos/2018-05-08-c82b4783-88e661d1/Singularity
 collection: fenz/singularity-images
 ---

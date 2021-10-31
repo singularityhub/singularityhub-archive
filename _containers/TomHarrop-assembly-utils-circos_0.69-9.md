@@ -9,7 +9,7 @@ build_date: "2020-08-18T00:07:16.582Z"
 size_mb: 144.24609375
 size: 151252992
 sif: "https://datasets.datalad.org/shub/TomHarrop/assembly-utils/circos_0.69-9/2020-08-18-82aca465-f53a6033/f53a6033cd04780615dc9554c09a02bc2c96c23aed6c01e2803a7bcbbabf41f1.sif"
-url: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/circos_0.69-9/2020-08-18-82aca465-f53a6033/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomHarrop/assembly-utils/circos_0.69-9/2020-08-18-82aca465-f53a6033/
 recipe: https://datasets.datalad.org/shub/TomHarrop/assembly-utils/circos_0.69-9/2020-08-18-82aca465-f53a6033/Singularity
 collection: TomHarrop/assembly-utils
 ---

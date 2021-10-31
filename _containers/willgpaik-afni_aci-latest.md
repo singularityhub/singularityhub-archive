@@ -9,7 +9,7 @@ build_date: "2021-04-09T19:11:55.187Z"
 size_mb: 3202.0
 size: 6109896704
 sif: "https://datasets.datalad.org/shub/willgpaik/afni_aci/latest/2021-04-09-8ef45193-43f14b87/43f14b87dd00cba270e77f608e6259e232f4460f4eac00a445fbd9edeaeed0fd.sif"
-url: https://datasets.datalad.org/shub/willgpaik/afni_aci/latest/2021-04-09-8ef45193-43f14b87/
+datalad_url: https://datasets.datalad.org?dir=/shub/willgpaik/afni_aci/latest/2021-04-09-8ef45193-43f14b87/
 recipe: https://datasets.datalad.org/shub/willgpaik/afni_aci/latest/2021-04-09-8ef45193-43f14b87/Singularity
 collection: willgpaik/afni_aci
 ---

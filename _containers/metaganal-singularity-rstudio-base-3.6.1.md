@@ -9,7 +9,7 @@ build_date: "2020-06-02T01:50:08.782Z"
 size_mb: 1992.0
 size: 535121951
 sif: "https://datasets.datalad.org/shub/metaganal/singularity-rstudio-base/3.6.1/2020-06-02-c58294af-814b7576/814b7576cf4c087d1c4d4c3ffabb885c.sif"
-url: https://datasets.datalad.org/shub/metaganal/singularity-rstudio-base/3.6.1/2020-06-02-c58294af-814b7576/
+datalad_url: https://datasets.datalad.org?dir=/shub/metaganal/singularity-rstudio-base/3.6.1/2020-06-02-c58294af-814b7576/
 recipe: https://datasets.datalad.org/shub/metaganal/singularity-rstudio-base/3.6.1/2020-06-02-c58294af-814b7576/Singularity
 collection: metaganal/singularity-rstudio-base
 ---

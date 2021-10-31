@@ -9,7 +9,7 @@ build_date: "2019-08-19T12:53:13.366Z"
 size_mb: 204
 size: 65105951
 sif: "https://datasets.datalad.org/shub/francois-baptiste/hello-world/latest/2019-08-19-3bac21df-bf6f5eef/bf6f5eefe8752e588d741b20b4f82ece.simg"
-url: https://datasets.datalad.org/shub/francois-baptiste/hello-world/latest/2019-08-19-3bac21df-bf6f5eef/
+datalad_url: https://datasets.datalad.org?dir=/shub/francois-baptiste/hello-world/latest/2019-08-19-3bac21df-bf6f5eef/
 recipe: https://datasets.datalad.org/shub/francois-baptiste/hello-world/latest/2019-08-19-3bac21df-bf6f5eef/Singularity
 collection: francois-baptiste/hello-world
 ---

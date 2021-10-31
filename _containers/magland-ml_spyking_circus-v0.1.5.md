@@ -9,7 +9,7 @@ build_date: "2018-09-08T21:55:12.947Z"
 size_mb: 1111
 size: 425373727
 sif: "https://datasets.datalad.org/shub/magland/ml_spyking_circus/v0.1.5/2018-09-08-1116d21b-3097572d/3097572d7e0618203f52bf26af0e367f.simg"
-url: https://datasets.datalad.org/shub/magland/ml_spyking_circus/v0.1.5/2018-09-08-1116d21b-3097572d/
+datalad_url: https://datasets.datalad.org?dir=/shub/magland/ml_spyking_circus/v0.1.5/2018-09-08-1116d21b-3097572d/
 recipe: https://datasets.datalad.org/shub/magland/ml_spyking_circus/v0.1.5/2018-09-08-1116d21b-3097572d/Singularity
 collection: magland/ml_spyking_circus
 ---

@@ -9,7 +9,7 @@ build_date: "2020-06-29T13:05:09.646Z"
 size_mb: 2177
 size: 843259935
 sif: "https://datasets.datalad.org/shub/d-bohn/emorec_aci/latest/2020-06-29-7ee69e2f-f8c1fb9a/f8c1fb9aa924480acc6e883dafaf0863.simg"
-url: https://datasets.datalad.org/shub/d-bohn/emorec_aci/latest/2020-06-29-7ee69e2f-f8c1fb9a/
+datalad_url: https://datasets.datalad.org?dir=/shub/d-bohn/emorec_aci/latest/2020-06-29-7ee69e2f-f8c1fb9a/
 recipe: https://datasets.datalad.org/shub/d-bohn/emorec_aci/latest/2020-06-29-7ee69e2f-f8c1fb9a/Singularity
 collection: d-bohn/emorec_aci
 ---

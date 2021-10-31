@@ -9,7 +9,7 @@ build_date: "2021-04-14T19:51:48.662Z"
 size_mb: 2650.50390625
 size: 2779254784
 sif: "https://datasets.datalad.org/shub/XSEDE/nix-container-namd2.14-cuda10.2/latest/2021-04-14-45b9a0fc-d924d1a8/d924d1a8146518e2b7e0d22c6f72af187935cdbe914324d5ec9f57710a4d5f70.sif"
-url: https://datasets.datalad.org/shub/XSEDE/nix-container-namd2.14-cuda10.2/latest/2021-04-14-45b9a0fc-d924d1a8/
+datalad_url: https://datasets.datalad.org?dir=/shub/XSEDE/nix-container-namd2.14-cuda10.2/latest/2021-04-14-45b9a0fc-d924d1a8/
 recipe: https://datasets.datalad.org/shub/XSEDE/nix-container-namd2.14-cuda10.2/latest/2021-04-14-45b9a0fc-d924d1a8/Singularity
 collection: XSEDE/nix-container-namd2.14-cuda10.2
 ---

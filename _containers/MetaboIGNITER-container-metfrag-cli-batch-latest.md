@@ -9,7 +9,7 @@ build_date: "2020-03-13T12:15:35.617Z"
 size_mb: 287.0
 size: 140685343
 sif: "https://datasets.datalad.org/shub/MetaboIGNITER/container-metfrag-cli-batch/latest/2020-03-13-d3a529da-2e21a408/2e21a4081e05cb25d6bfd236fb423696.sif"
-url: https://datasets.datalad.org/shub/MetaboIGNITER/container-metfrag-cli-batch/latest/2020-03-13-d3a529da-2e21a408/
+datalad_url: https://datasets.datalad.org?dir=/shub/MetaboIGNITER/container-metfrag-cli-batch/latest/2020-03-13-d3a529da-2e21a408/
 recipe: https://datasets.datalad.org/shub/MetaboIGNITER/container-metfrag-cli-batch/latest/2020-03-13-d3a529da-2e21a408/Singularity
 collection: MetaboIGNITER/container-metfrag-cli-batch
 ---

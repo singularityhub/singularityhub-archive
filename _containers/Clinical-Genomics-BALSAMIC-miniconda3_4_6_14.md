@@ -9,7 +9,7 @@ build_date: "2019-11-11T10:09:26.224Z"
 size_mb: 483
 size: 180473887
 sif: "https://datasets.datalad.org/shub/Clinical-Genomics/BALSAMIC/miniconda3_4_6_14/2019-11-11-acb0ef61-e21e45dd/e21e45dd896d7646e4bc0f1497335b79.simg"
-url: https://datasets.datalad.org/shub/Clinical-Genomics/BALSAMIC/miniconda3_4_6_14/2019-11-11-acb0ef61-e21e45dd/
+datalad_url: https://datasets.datalad.org?dir=/shub/Clinical-Genomics/BALSAMIC/miniconda3_4_6_14/2019-11-11-acb0ef61-e21e45dd/
 recipe: https://datasets.datalad.org/shub/Clinical-Genomics/BALSAMIC/miniconda3_4_6_14/2019-11-11-acb0ef61-e21e45dd/Singularity
 collection: Clinical-Genomics/BALSAMIC
 ---

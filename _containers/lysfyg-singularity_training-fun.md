@@ -9,7 +9,7 @@ build_date: "2019-02-27T18:33:23.100Z"
 size_mb: 419
 size: 153026591
 sif: "https://datasets.datalad.org/shub/lysfyg/singularity_training/fun/2019-02-27-f3794f68-917dc8db/917dc8dbb892afef257f347b1750d5f7.simg"
-url: https://datasets.datalad.org/shub/lysfyg/singularity_training/fun/2019-02-27-f3794f68-917dc8db/
+datalad_url: https://datasets.datalad.org?dir=/shub/lysfyg/singularity_training/fun/2019-02-27-f3794f68-917dc8db/
 recipe: https://datasets.datalad.org/shub/lysfyg/singularity_training/fun/2019-02-27-f3794f68-917dc8db/Singularity
 collection: lysfyg/singularity_training
 ---

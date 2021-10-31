@@ -9,7 +9,7 @@ build_date: "2019-01-24T13:54:57.323Z"
 size_mb: 1121
 size: 423522335
 sif: "https://datasets.datalad.org/shub/koszullab/metaTOR/8fcb868/2019-01-24-4e42783e-0e93a53c/0e93a53cdd9ca6c3e47b69b51605d335.simg"
-url: https://datasets.datalad.org/shub/koszullab/metaTOR/8fcb868/2019-01-24-4e42783e-0e93a53c/
+datalad_url: https://datasets.datalad.org?dir=/shub/koszullab/metaTOR/8fcb868/2019-01-24-4e42783e-0e93a53c/
 recipe: https://datasets.datalad.org/shub/koszullab/metaTOR/8fcb868/2019-01-24-4e42783e-0e93a53c/Singularity
 collection: koszullab/metaTOR
 ---

@@ -9,7 +9,7 @@ build_date: "2019-08-27T04:38:16.644Z"
 size_mb: 5964.0
 size: 3621453855
 sif: "https://datasets.datalad.org/shub/MicroSTM/singularity_containers/py35_mcts.def/2019-08-27-f29c1478-6009600e/6009600e43ada883d6a68f6b915aba0a.sif"
-url: https://datasets.datalad.org/shub/MicroSTM/singularity_containers/py35_mcts.def/2019-08-27-f29c1478-6009600e/
+datalad_url: https://datasets.datalad.org?dir=/shub/MicroSTM/singularity_containers/py35_mcts.def/2019-08-27-f29c1478-6009600e/
 recipe: https://datasets.datalad.org/shub/MicroSTM/singularity_containers/py35_mcts.def/2019-08-27-f29c1478-6009600e/Singularity
 collection: MicroSTM/singularity_containers
 ---

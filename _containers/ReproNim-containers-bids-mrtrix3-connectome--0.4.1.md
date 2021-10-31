@@ -9,7 +9,7 @@ build_date: "2019-05-03T16:30:47.534Z"
 size_mb: 17936
 size: 7570726943
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-mrtrix3-connectome--0.4.1/2019-05-03-dc6dedfd-4f140f2e/4f140f2e916a265572669554817c090f.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-mrtrix3-connectome--0.4.1/2019-05-03-dc6dedfd-4f140f2e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-mrtrix3-connectome--0.4.1/2019-05-03-dc6dedfd-4f140f2e/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-mrtrix3-connectome--0.4.1/2019-05-03-dc6dedfd-4f140f2e/Singularity
 collection: ReproNim/containers
 ---

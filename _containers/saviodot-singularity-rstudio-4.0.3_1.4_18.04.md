@@ -9,7 +9,7 @@ build_date: "2021-02-17T22:05:49.613Z"
 size_mb: 4019.0
 size: 1195827231
 sif: "https://datasets.datalad.org/shub/saviodot/singularity-rstudio/4.0.3_1.4_18.04/2021-02-17-516fa667-14b85af7/14b85af7b78af425cb385a1c5b76f159.sif"
-url: https://datasets.datalad.org/shub/saviodot/singularity-rstudio/4.0.3_1.4_18.04/2021-02-17-516fa667-14b85af7/
+datalad_url: https://datasets.datalad.org?dir=/shub/saviodot/singularity-rstudio/4.0.3_1.4_18.04/2021-02-17-516fa667-14b85af7/
 recipe: https://datasets.datalad.org/shub/saviodot/singularity-rstudio/4.0.3_1.4_18.04/2021-02-17-516fa667-14b85af7/Singularity
 collection: saviodot/singularity-rstudio
 ---

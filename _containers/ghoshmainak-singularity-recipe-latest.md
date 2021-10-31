@@ -9,7 +9,7 @@ build_date: "2021-02-03T17:46:50.021Z"
 size_mb: 1191.0
 size: 423804959
 sif: "https://datasets.datalad.org/shub/ghoshmainak/singularity-recipe/latest/2021-02-03-6a66598a-2090c8de/2090c8dea7f7d80a57e31109528492cd.sif"
-url: https://datasets.datalad.org/shub/ghoshmainak/singularity-recipe/latest/2021-02-03-6a66598a-2090c8de/
+datalad_url: https://datasets.datalad.org?dir=/shub/ghoshmainak/singularity-recipe/latest/2021-02-03-6a66598a-2090c8de/
 recipe: https://datasets.datalad.org/shub/ghoshmainak/singularity-recipe/latest/2021-02-03-6a66598a-2090c8de/Singularity
 collection: ghoshmainak/singularity-recipe
 ---

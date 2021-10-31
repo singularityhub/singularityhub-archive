@@ -9,7 +9,7 @@ build_date: "2020-06-02T17:25:46.952Z"
 size_mb: 13747.0
 size: 5814251551
 sif: "https://datasets.datalad.org/shub/baxpr/fsl-base/latest/2020-06-02-925494b5-30445db9/30445db9a1ace3fcfa7d5cfdfbc52c0f.sif"
-url: https://datasets.datalad.org/shub/baxpr/fsl-base/latest/2020-06-02-925494b5-30445db9/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/fsl-base/latest/2020-06-02-925494b5-30445db9/
 recipe: https://datasets.datalad.org/shub/baxpr/fsl-base/latest/2020-06-02-925494b5-30445db9/Singularity
 collection: baxpr/fsl-base
 ---

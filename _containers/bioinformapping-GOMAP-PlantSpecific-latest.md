@@ -9,7 +9,7 @@ build_date: "2021-02-28T19:44:36.795Z"
 size_mb: 371.66015625
 size: 389713920
 sif: "https://datasets.datalad.org/shub/bioinformapping/GOMAP-PlantSpecific/latest/2021-02-28-6e506173-906dc8a9/906dc8a9e8128ffe702a4c47893c0b58c6f08acc8db4528db075578856de5c18.sif"
-url: https://datasets.datalad.org/shub/bioinformapping/GOMAP-PlantSpecific/latest/2021-02-28-6e506173-906dc8a9/
+datalad_url: https://datasets.datalad.org?dir=/shub/bioinformapping/GOMAP-PlantSpecific/latest/2021-02-28-6e506173-906dc8a9/
 recipe: https://datasets.datalad.org/shub/bioinformapping/GOMAP-PlantSpecific/latest/2021-02-28-6e506173-906dc8a9/Singularity
 collection: bioinformapping/GOMAP-PlantSpecific
 ---

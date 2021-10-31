@@ -9,7 +9,7 @@ build_date: "2020-06-19T06:38:23.816Z"
 size_mb: 3941
 size: 1554059295
 sif: "https://datasets.datalad.org/shub/akashsingularityucr/caffe-cpu-faces/latest/2020-06-19-cded99d8-bbb32e2d/bbb32e2d36291850d48101731745de92.simg"
-url: https://datasets.datalad.org/shub/akashsingularityucr/caffe-cpu-faces/latest/2020-06-19-cded99d8-bbb32e2d/
+datalad_url: https://datasets.datalad.org?dir=/shub/akashsingularityucr/caffe-cpu-faces/latest/2020-06-19-cded99d8-bbb32e2d/
 recipe: https://datasets.datalad.org/shub/akashsingularityucr/caffe-cpu-faces/latest/2020-06-19-cded99d8-bbb32e2d/Singularity
 collection: akashsingularityucr/caffe-cpu-faces
 ---

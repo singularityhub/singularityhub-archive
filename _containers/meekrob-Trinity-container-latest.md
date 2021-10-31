@@ -9,7 +9,7 @@ build_date: "2019-04-25T22:56:40.440Z"
 size_mb: 3099
 size: 1347694623
 sif: "https://datasets.datalad.org/shub/meekrob/Trinity-container/latest/2019-04-25-718ad624-fb8cba4f/fb8cba4f98e3903af80a143276fa9038.simg"
-url: https://datasets.datalad.org/shub/meekrob/Trinity-container/latest/2019-04-25-718ad624-fb8cba4f/
+datalad_url: https://datasets.datalad.org?dir=/shub/meekrob/Trinity-container/latest/2019-04-25-718ad624-fb8cba4f/
 recipe: https://datasets.datalad.org/shub/meekrob/Trinity-container/latest/2019-04-25-718ad624-fb8cba4f/Singularity
 collection: meekrob/Trinity-container
 ---

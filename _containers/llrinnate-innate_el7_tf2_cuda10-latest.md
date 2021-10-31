@@ -9,7 +9,7 @@ build_date: "2020-09-23T15:41:21.850Z"
 size_mb: 4815.0
 size: 2813390879
 sif: "https://datasets.datalad.org/shub/llrinnate/innate_el7_tf2_cuda10/latest/2020-09-23-fef1796a-3ebee37e/3ebee37e4baeea39bdcc3add27a6e5c5.sif"
-url: https://datasets.datalad.org/shub/llrinnate/innate_el7_tf2_cuda10/latest/2020-09-23-fef1796a-3ebee37e/
+datalad_url: https://datasets.datalad.org?dir=/shub/llrinnate/innate_el7_tf2_cuda10/latest/2020-09-23-fef1796a-3ebee37e/
 recipe: https://datasets.datalad.org/shub/llrinnate/innate_el7_tf2_cuda10/latest/2020-09-23-fef1796a-3ebee37e/Singularity
 collection: llrinnate/innate_el7_tf2_cuda10
 ---

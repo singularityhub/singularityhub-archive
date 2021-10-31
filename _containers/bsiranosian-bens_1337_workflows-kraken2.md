@@ -9,7 +9,7 @@ build_date: "2020-09-01T17:23:18.066Z"
 size_mb: 1913
 size: 975716383
 sif: "https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/kraken2/2020-09-01-e2af0cef-2428de4a/2428de4a97458af99ba97a302ca01357.simg"
-url: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/kraken2/2020-09-01-e2af0cef-2428de4a/
+datalad_url: https://datasets.datalad.org?dir=/shub/bsiranosian/bens_1337_workflows/kraken2/2020-09-01-e2af0cef-2428de4a/
 recipe: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/kraken2/2020-09-01-e2af0cef-2428de4a/Singularity
 collection: bsiranosian/bens_1337_workflows
 ---

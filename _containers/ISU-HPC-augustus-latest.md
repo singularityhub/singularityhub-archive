@@ -9,7 +9,7 @@ build_date: "2021-03-22T04:33:19.679Z"
 size_mb: 2861
 size: 999796767
 sif: "https://datasets.datalad.org/shub/ISU-HPC/augustus/latest/2021-03-22-8741a46b-d683fa48/d683fa481096f966ea654798b053dbd8.simg"
-url: https://datasets.datalad.org/shub/ISU-HPC/augustus/latest/2021-03-22-8741a46b-d683fa48/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISU-HPC/augustus/latest/2021-03-22-8741a46b-d683fa48/
 recipe: https://datasets.datalad.org/shub/ISU-HPC/augustus/latest/2021-03-22-8741a46b-d683fa48/Singularity
 collection: ISU-HPC/augustus
 ---

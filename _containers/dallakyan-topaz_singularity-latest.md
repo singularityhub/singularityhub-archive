@@ -9,7 +9,7 @@ build_date: "2019-03-12T08:04:35.745Z"
 size_mb: 6210
 size: 3323482143
 sif: "https://datasets.datalad.org/shub/dallakyan/topaz_singularity/latest/2019-03-12-999f3b82-02ac7a82/02ac7a823ee207c4fe0f08ebc22f335b.simg"
-url: https://datasets.datalad.org/shub/dallakyan/topaz_singularity/latest/2019-03-12-999f3b82-02ac7a82/
+datalad_url: https://datasets.datalad.org?dir=/shub/dallakyan/topaz_singularity/latest/2019-03-12-999f3b82-02ac7a82/
 recipe: https://datasets.datalad.org/shub/dallakyan/topaz_singularity/latest/2019-03-12-999f3b82-02ac7a82/Singularity
 collection: dallakyan/topaz_singularity
 ---

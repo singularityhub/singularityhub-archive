@@ -9,7 +9,7 @@ build_date: "2020-05-06T11:18:59.782Z"
 size_mb: 6418.0
 size: 3340402719
 sif: "https://datasets.datalad.org/shub/yngvem/ntnu-analysis/latest/2020-05-06-24d28ed6-7a92cc88/7a92cc88711215a485f93db7a613385e.sif"
-url: https://datasets.datalad.org/shub/yngvem/ntnu-analysis/latest/2020-05-06-24d28ed6-7a92cc88/
+datalad_url: https://datasets.datalad.org?dir=/shub/yngvem/ntnu-analysis/latest/2020-05-06-24d28ed6-7a92cc88/
 recipe: https://datasets.datalad.org/shub/yngvem/ntnu-analysis/latest/2020-05-06-24d28ed6-7a92cc88/Singularity
 collection: yngvem/ntnu-analysis
 ---

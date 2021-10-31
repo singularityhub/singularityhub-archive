@@ -9,7 +9,7 @@ build_date: "2021-04-06T04:30:11.842Z"
 size_mb: 4771.0
 size: 2245845023
 sif: "https://datasets.datalad.org/shub/BrendelGroup/TSRchitect/latest/2021-04-06-ceed6587-0ae5a551/0ae5a551e67ebe9018cdc1589d3e6a78.sif"
-url: https://datasets.datalad.org/shub/BrendelGroup/TSRchitect/latest/2021-04-06-ceed6587-0ae5a551/
+datalad_url: https://datasets.datalad.org?dir=/shub/BrendelGroup/TSRchitect/latest/2021-04-06-ceed6587-0ae5a551/
 recipe: https://datasets.datalad.org/shub/BrendelGroup/TSRchitect/latest/2021-04-06-ceed6587-0ae5a551/Singularity
 collection: BrendelGroup/TSRchitect
 ---

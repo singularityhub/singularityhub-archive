@@ -9,7 +9,7 @@ build_date: "2021-03-19T23:51:52.757Z"
 size_mb: 6140
 size: 3125166111
 sif: "https://datasets.datalad.org/shub/ReproNim/containers/bids-broccoli--1.0.1/2021-03-19-697f419c-fcd1915e/fcd1915ed808029b0f792b634ac1261c.simg"
-url: https://datasets.datalad.org/shub/ReproNim/containers/bids-broccoli--1.0.1/2021-03-19-697f419c-fcd1915e/
+datalad_url: https://datasets.datalad.org?dir=/shub/ReproNim/containers/bids-broccoli--1.0.1/2021-03-19-697f419c-fcd1915e/
 recipe: https://datasets.datalad.org/shub/ReproNim/containers/bids-broccoli--1.0.1/2021-03-19-697f419c-fcd1915e/Singularity
 collection: ReproNim/containers
 ---

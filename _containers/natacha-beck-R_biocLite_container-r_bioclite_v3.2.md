@@ -9,7 +9,7 @@ build_date: "2018-07-10T19:29:39.798Z"
 size_mb: 3906
 size: 1487421471
 sif: "https://datasets.datalad.org/shub/natacha-beck/R_biocLite_container/r_bioclite_v3.2/2018-07-10-b5b8c30c-7c783a25/7c783a25f80cef6889b72fb3ff055276.simg"
-url: https://datasets.datalad.org/shub/natacha-beck/R_biocLite_container/r_bioclite_v3.2/2018-07-10-b5b8c30c-7c783a25/
+datalad_url: https://datasets.datalad.org?dir=/shub/natacha-beck/R_biocLite_container/r_bioclite_v3.2/2018-07-10-b5b8c30c-7c783a25/
 recipe: https://datasets.datalad.org/shub/natacha-beck/R_biocLite_container/r_bioclite_v3.2/2018-07-10-b5b8c30c-7c783a25/Singularity
 collection: natacha-beck/R_biocLite_container
 ---

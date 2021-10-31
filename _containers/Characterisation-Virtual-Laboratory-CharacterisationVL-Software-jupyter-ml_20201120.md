@@ -9,7 +9,7 @@ build_date: "2020-12-07T12:23:48.136Z"
 size_mb: 14930.0
 size: 7038545951
 sif: "https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/jupyter-ml_20201120/2020-12-07-b0522205-f28bdb1d/f28bdb1d56c6e618486f04d7184bcddd.sif"
-url: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/jupyter-ml_20201120/2020-12-07-b0522205-f28bdb1d/
+datalad_url: https://datasets.datalad.org?dir=/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/jupyter-ml_20201120/2020-12-07-b0522205-f28bdb1d/
 recipe: https://datasets.datalad.org/shub/Characterisation-Virtual-Laboratory/CharacterisationVL-Software/jupyter-ml_20201120/2020-12-07-b0522205-f28bdb1d/Singularity
 collection: Characterisation-Virtual-Laboratory/CharacterisationVL-Software
 ---

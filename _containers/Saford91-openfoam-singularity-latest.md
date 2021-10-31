@@ -9,7 +9,7 @@ build_date: "2020-10-05T17:05:19.429Z"
 size_mb: 2126
 size: 568352799
 sif: "https://datasets.datalad.org/shub/Saford91/openfoam-singularity/latest/2020-10-05-a996574c-7aafc924/7aafc924c5828ecfd1eb96da8e78e8b9.simg"
-url: https://datasets.datalad.org/shub/Saford91/openfoam-singularity/latest/2020-10-05-a996574c-7aafc924/
+datalad_url: https://datasets.datalad.org?dir=/shub/Saford91/openfoam-singularity/latest/2020-10-05-a996574c-7aafc924/
 recipe: https://datasets.datalad.org/shub/Saford91/openfoam-singularity/latest/2020-10-05-a996574c-7aafc924/Singularity
 collection: Saford91/openfoam-singularity
 ---

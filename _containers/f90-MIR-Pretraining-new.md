@@ -9,7 +9,7 @@ build_date: "2020-01-10T16:30:09.652Z"
 size_mb: 6640.0
 size: 4080394271
 sif: "https://datasets.datalad.org/shub/f90/MIR-Pretraining/new/2020-01-10-548f401e-32dc7809/32dc780901d9a94f891b1951b66fb927.sif"
-url: https://datasets.datalad.org/shub/f90/MIR-Pretraining/new/2020-01-10-548f401e-32dc7809/
+datalad_url: https://datasets.datalad.org?dir=/shub/f90/MIR-Pretraining/new/2020-01-10-548f401e-32dc7809/
 recipe: https://datasets.datalad.org/shub/f90/MIR-Pretraining/new/2020-01-10-548f401e-32dc7809/Singularity
 collection: f90/MIR-Pretraining
 ---

@@ -9,7 +9,7 @@ build_date: "2018-05-17T15:22:18.356Z"
 size_mb: 1576
 size: 686800927
 sif: "https://datasets.datalad.org/shub/edgano/dpa-analysis/latest/2018-05-17-9b661cfe-6d11bd5f/6d11bd5f363a55260e68e6df352d8ac5.simg"
-url: https://datasets.datalad.org/shub/edgano/dpa-analysis/latest/2018-05-17-9b661cfe-6d11bd5f/
+datalad_url: https://datasets.datalad.org?dir=/shub/edgano/dpa-analysis/latest/2018-05-17-9b661cfe-6d11bd5f/
 recipe: https://datasets.datalad.org/shub/edgano/dpa-analysis/latest/2018-05-17-9b661cfe-6d11bd5f/Singularity
 collection: edgano/dpa-analysis
 ---

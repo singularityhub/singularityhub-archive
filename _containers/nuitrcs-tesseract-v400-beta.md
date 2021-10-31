@@ -9,7 +9,7 @@ build_date: "2018-10-19T18:21:08.392Z"
 size_mb: 209
 size: 95113247
 sif: "https://datasets.datalad.org/shub/nuitrcs/tesseract/v400-beta/2018-10-19-799fb86e-18b72f7f/18b72f7f53487160f9b694cb4a2ccfe7.simg"
-url: https://datasets.datalad.org/shub/nuitrcs/tesseract/v400-beta/2018-10-19-799fb86e-18b72f7f/
+datalad_url: https://datasets.datalad.org?dir=/shub/nuitrcs/tesseract/v400-beta/2018-10-19-799fb86e-18b72f7f/
 recipe: https://datasets.datalad.org/shub/nuitrcs/tesseract/v400-beta/2018-10-19-799fb86e-18b72f7f/Singularity
 collection: nuitrcs/tesseract
 ---

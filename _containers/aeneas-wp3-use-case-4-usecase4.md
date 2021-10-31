@@ -9,7 +9,7 @@ build_date: "2019-02-26T20:10:22.966Z"
 size_mb: 10813
 size: 7025545247
 sif: "https://datasets.datalad.org/shub/aeneas-wp3/use-case-4/usecase4/2019-02-26-2ca7a5ca-8d472af4/8d472af47defc1cdf30c52fa6f52ad42.simg"
-url: https://datasets.datalad.org/shub/aeneas-wp3/use-case-4/usecase4/2019-02-26-2ca7a5ca-8d472af4/
+datalad_url: https://datasets.datalad.org?dir=/shub/aeneas-wp3/use-case-4/usecase4/2019-02-26-2ca7a5ca-8d472af4/
 recipe: https://datasets.datalad.org/shub/aeneas-wp3/use-case-4/usecase4/2019-02-26-2ca7a5ca-8d472af4/Singularity
 collection: aeneas-wp3/use-case-4
 ---

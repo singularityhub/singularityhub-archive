@@ -9,7 +9,7 @@ build_date: "2018-03-29T09:26:02.857Z"
 size_mb: 4011
 size: 1528369183
 sif: "https://datasets.datalad.org/shub/transientlunatic/minke/latest/2018-03-29-5f505e13-750910a0/750910a036fee2c7c4b532f69c1b9168.simg"
-url: https://datasets.datalad.org/shub/transientlunatic/minke/latest/2018-03-29-5f505e13-750910a0/
+datalad_url: https://datasets.datalad.org?dir=/shub/transientlunatic/minke/latest/2018-03-29-5f505e13-750910a0/
 recipe: https://datasets.datalad.org/shub/transientlunatic/minke/latest/2018-03-29-5f505e13-750910a0/Singularity
 collection: transientlunatic/minke
 ---

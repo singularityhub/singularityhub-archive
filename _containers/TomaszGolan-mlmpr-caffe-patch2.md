@@ -9,7 +9,7 @@ build_date: "2017-11-20T13:56:11.981Z"
 size_mb: 2346
 size: 1007333407
 sif: "https://datasets.datalad.org/shub/TomaszGolan/mlmpr/caffe-patch2/2017-11-20-8e717bbd-0215e25c/0215e25c0225575cf88ab5f629a3475c.simg"
-url: https://datasets.datalad.org/shub/TomaszGolan/mlmpr/caffe-patch2/2017-11-20-8e717bbd-0215e25c/
+datalad_url: https://datasets.datalad.org?dir=/shub/TomaszGolan/mlmpr/caffe-patch2/2017-11-20-8e717bbd-0215e25c/
 recipe: https://datasets.datalad.org/shub/TomaszGolan/mlmpr/caffe-patch2/2017-11-20-8e717bbd-0215e25c/Singularity
 collection: TomaszGolan/mlmpr
 ---

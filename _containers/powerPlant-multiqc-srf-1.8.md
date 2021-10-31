@@ -9,7 +9,7 @@ build_date: "2020-09-08T01:59:01.968Z"
 size_mb: 180.0
 size: 52645919
 sif: "https://datasets.datalad.org/shub/powerPlant/multiqc-srf/1.8/2020-09-08-951bc31a-35204443/35204443f9317542d5d9822942cebe2c.sif"
-url: https://datasets.datalad.org/shub/powerPlant/multiqc-srf/1.8/2020-09-08-951bc31a-35204443/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/multiqc-srf/1.8/2020-09-08-951bc31a-35204443/
 recipe: https://datasets.datalad.org/shub/powerPlant/multiqc-srf/1.8/2020-09-08-951bc31a-35204443/Singularity
 collection: powerPlant/multiqc-srf
 ---

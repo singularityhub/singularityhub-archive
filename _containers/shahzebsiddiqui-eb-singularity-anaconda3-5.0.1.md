@@ -9,7 +9,7 @@ build_date: "2020-06-02T22:11:36.772Z"
 size_mb: 3488
 size: 1474441247
 sif: "https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/anaconda3-5.0.1/2020-06-02-63508547-afbbb50a/afbbb50a62b731cb30a9b0c82a5ec711.simg"
-url: https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/anaconda3-5.0.1/2020-06-02-63508547-afbbb50a/
+datalad_url: https://datasets.datalad.org?dir=/shub/shahzebsiddiqui/eb-singularity/anaconda3-5.0.1/2020-06-02-63508547-afbbb50a/
 recipe: https://datasets.datalad.org/shub/shahzebsiddiqui/eb-singularity/anaconda3-5.0.1/2020-06-02-63508547-afbbb50a/Singularity
 collection: shahzebsiddiqui/eb-singularity
 ---

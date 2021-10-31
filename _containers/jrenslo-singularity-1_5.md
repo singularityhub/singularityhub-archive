@@ -9,7 +9,7 @@ build_date: "2018-11-14T12:52:25.483Z"
 size_mb: 3133
 size: 1531670559
 sif: "https://datasets.datalad.org/shub/jrenslo/singularity/1_5/2018-11-14-06de2c12-f4d4f430/f4d4f430254185483c8417aac5f64b8a.simg"
-url: https://datasets.datalad.org/shub/jrenslo/singularity/1_5/2018-11-14-06de2c12-f4d4f430/
+datalad_url: https://datasets.datalad.org?dir=/shub/jrenslo/singularity/1_5/2018-11-14-06de2c12-f4d4f430/
 recipe: https://datasets.datalad.org/shub/jrenslo/singularity/1_5/2018-11-14-06de2c12-f4d4f430/Singularity
 collection: jrenslo/singularity
 ---

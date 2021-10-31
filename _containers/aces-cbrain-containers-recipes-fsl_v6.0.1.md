@@ -9,7 +9,7 @@ build_date: "2021-04-13T19:13:26.380Z"
 size_mb: 13016
 size: 5445525535
 sif: "https://datasets.datalad.org/shub/aces/cbrain-containers-recipes/fsl_v6.0.1/2021-04-13-88d2e588-9e51e712/9e51e712df0837cc5b4b61b09285f90e.simg"
-url: https://datasets.datalad.org/shub/aces/cbrain-containers-recipes/fsl_v6.0.1/2021-04-13-88d2e588-9e51e712/
+datalad_url: https://datasets.datalad.org?dir=/shub/aces/cbrain-containers-recipes/fsl_v6.0.1/2021-04-13-88d2e588-9e51e712/
 recipe: https://datasets.datalad.org/shub/aces/cbrain-containers-recipes/fsl_v6.0.1/2021-04-13-88d2e588-9e51e712/Singularity
 collection: aces/cbrain-containers-recipes
 ---

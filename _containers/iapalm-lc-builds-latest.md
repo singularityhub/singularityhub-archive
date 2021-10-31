@@ -9,7 +9,7 @@ build_date: "2019-06-20T02:24:45.827Z"
 size_mb: 6702
 size: 4185333791
 sif: "https://datasets.datalad.org/shub/iapalm/lc-builds/latest/2019-06-20-1a6c3ed7-c8f8a583/c8f8a583ac207e9208b4f5187678f735.simg"
-url: https://datasets.datalad.org/shub/iapalm/lc-builds/latest/2019-06-20-1a6c3ed7-c8f8a583/
+datalad_url: https://datasets.datalad.org?dir=/shub/iapalm/lc-builds/latest/2019-06-20-1a6c3ed7-c8f8a583/
 recipe: https://datasets.datalad.org/shub/iapalm/lc-builds/latest/2019-06-20-1a6c3ed7-c8f8a583/Singularity
 collection: iapalm/lc-builds
 ---

@@ -9,7 +9,7 @@ build_date: "2020-01-17T16:12:02.923Z"
 size_mb: 1660
 size: 528609311
 sif: "https://datasets.datalad.org/shub/alikerr/INLA-RImage/latest/2020-01-17-ddfd15bb-abe54986/abe5498602344776f7429878c0264dfb.simg"
-url: https://datasets.datalad.org/shub/alikerr/INLA-RImage/latest/2020-01-17-ddfd15bb-abe54986/
+datalad_url: https://datasets.datalad.org?dir=/shub/alikerr/INLA-RImage/latest/2020-01-17-ddfd15bb-abe54986/
 recipe: https://datasets.datalad.org/shub/alikerr/INLA-RImage/latest/2020-01-17-ddfd15bb-abe54986/Singularity
 collection: alikerr/INLA-RImage
 ---

@@ -9,7 +9,7 @@ build_date: "2021-04-17T01:37:04.886Z"
 size_mb: 1092.0
 size: 401408031
 sif: "https://datasets.datalad.org/shub/radiantone/gsas2container/gsas2/2021-04-17-b697de83-2f47d527/2f47d527e6d32f0b661202fbe6f93b1b.sif"
-url: https://datasets.datalad.org/shub/radiantone/gsas2container/gsas2/2021-04-17-b697de83-2f47d527/
+datalad_url: https://datasets.datalad.org?dir=/shub/radiantone/gsas2container/gsas2/2021-04-17-b697de83-2f47d527/
 recipe: https://datasets.datalad.org/shub/radiantone/gsas2container/gsas2/2021-04-17-b697de83-2f47d527/Singularity
 collection: radiantone/gsas2container
 ---

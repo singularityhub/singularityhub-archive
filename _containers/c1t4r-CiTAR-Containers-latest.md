@@ -9,7 +9,7 @@ build_date: "2017-10-24T10:52:23.345Z"
 size_mb: 1527
 size: 594362399
 sif: "https://datasets.datalad.org/shub/c1t4r/CiTAR-Containers/latest/2017-10-24-1aa4954b-15b554e9/15b554e96058e7e85536a10aabcf3359.simg"
-url: https://datasets.datalad.org/shub/c1t4r/CiTAR-Containers/latest/2017-10-24-1aa4954b-15b554e9/
+datalad_url: https://datasets.datalad.org?dir=/shub/c1t4r/CiTAR-Containers/latest/2017-10-24-1aa4954b-15b554e9/
 recipe: https://datasets.datalad.org/shub/c1t4r/CiTAR-Containers/latest/2017-10-24-1aa4954b-15b554e9/Singularity
 collection: c1t4r/CiTAR-Containers
 ---

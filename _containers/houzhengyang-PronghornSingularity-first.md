@@ -9,7 +9,7 @@ build_date: "2018-04-03T19:57:12.024Z"
 size_mb: 199
 size: 84664351
 sif: "https://datasets.datalad.org/shub/houzhengyang/PronghornSingularity/first/2018-04-03-289ff942-7e0beede/7e0beede855c3f6fc78d14d29d5f5d54.simg"
-url: https://datasets.datalad.org/shub/houzhengyang/PronghornSingularity/first/2018-04-03-289ff942-7e0beede/
+datalad_url: https://datasets.datalad.org?dir=/shub/houzhengyang/PronghornSingularity/first/2018-04-03-289ff942-7e0beede/
 recipe: https://datasets.datalad.org/shub/houzhengyang/PronghornSingularity/first/2018-04-03-289ff942-7e0beede/Singularity
 collection: houzhengyang/PronghornSingularity
 ---

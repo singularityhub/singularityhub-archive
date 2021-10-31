@@ -9,7 +9,7 @@ build_date: "2019-02-05T02:55:37.535Z"
 size_mb: 153
 size: 58621983
 sif: "https://datasets.datalad.org/shub/powerPlant/abyss-srf/2.1.0/2019-02-05-c36f714e-429e6ec3/429e6ec3b653ebb9c646888bd1bd8bc3.simg"
-url: https://datasets.datalad.org/shub/powerPlant/abyss-srf/2.1.0/2019-02-05-c36f714e-429e6ec3/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/abyss-srf/2.1.0/2019-02-05-c36f714e-429e6ec3/
 recipe: https://datasets.datalad.org/shub/powerPlant/abyss-srf/2.1.0/2019-02-05-c36f714e-429e6ec3/Singularity
 collection: powerPlant/abyss-srf
 ---

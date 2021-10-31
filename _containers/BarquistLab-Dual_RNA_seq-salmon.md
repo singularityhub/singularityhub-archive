@@ -9,7 +9,7 @@ build_date: "2020-07-21T12:15:20.245Z"
 size_mb: 594.0
 size: 188518431
 sif: "https://datasets.datalad.org/shub/BarquistLab/Dual_RNA_seq/salmon/2020-07-21-1aa1dca5-254dec81/254dec81c08c8b90a82c8639b8223a3b.sif"
-url: https://datasets.datalad.org/shub/BarquistLab/Dual_RNA_seq/salmon/2020-07-21-1aa1dca5-254dec81/
+datalad_url: https://datasets.datalad.org?dir=/shub/BarquistLab/Dual_RNA_seq/salmon/2020-07-21-1aa1dca5-254dec81/
 recipe: https://datasets.datalad.org/shub/BarquistLab/Dual_RNA_seq/salmon/2020-07-21-1aa1dca5-254dec81/Singularity
 collection: BarquistLab/Dual_RNA_seq
 ---

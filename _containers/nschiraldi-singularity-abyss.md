@@ -9,7 +9,7 @@ build_date: "2020-04-27T15:33:22.381Z"
 size_mb: 1111.0
 size: 158408735
 sif: "https://datasets.datalad.org/shub/nschiraldi/singularity/abyss/2020-04-27-f8959190-4919a0b8/4919a0b89d02cc2281fca411b6d35d7c.sif"
-url: https://datasets.datalad.org/shub/nschiraldi/singularity/abyss/2020-04-27-f8959190-4919a0b8/
+datalad_url: https://datasets.datalad.org?dir=/shub/nschiraldi/singularity/abyss/2020-04-27-f8959190-4919a0b8/
 recipe: https://datasets.datalad.org/shub/nschiraldi/singularity/abyss/2020-04-27-f8959190-4919a0b8/Singularity
 collection: nschiraldi/singularity
 ---

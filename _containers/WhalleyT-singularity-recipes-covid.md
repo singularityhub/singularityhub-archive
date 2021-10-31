@@ -9,7 +9,7 @@ build_date: "2021-04-14T21:56:11.348Z"
 size_mb: None
 size: 714686495
 sif: "https://datasets.datalad.org/shub/WhalleyT/singularity-recipes/covid/2021-04-14-f2aa6211-22f0de2c/22f0de2c5e1a12ac106b48b5a257d59d.sif"
-url: https://datasets.datalad.org/shub/WhalleyT/singularity-recipes/covid/2021-04-14-f2aa6211-22f0de2c/
+datalad_url: https://datasets.datalad.org?dir=/shub/WhalleyT/singularity-recipes/covid/2021-04-14-f2aa6211-22f0de2c/
 recipe: https://datasets.datalad.org/shub/WhalleyT/singularity-recipes/covid/2021-04-14-f2aa6211-22f0de2c/Singularity
 collection: WhalleyT/singularity-recipes
 ---

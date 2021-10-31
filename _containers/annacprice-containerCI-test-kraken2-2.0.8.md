@@ -9,7 +9,7 @@ build_date: "2020-10-28T17:39:22.696Z"
 size_mb: 827.0
 size: 258088991
 sif: "https://datasets.datalad.org/shub/annacprice/containerCI-test/kraken2-2.0.8/2020-10-28-b740d8f1-667e7421/667e7421b9391efac4ab2cee6039e0ef.sif"
-url: https://datasets.datalad.org/shub/annacprice/containerCI-test/kraken2-2.0.8/2020-10-28-b740d8f1-667e7421/
+datalad_url: https://datasets.datalad.org?dir=/shub/annacprice/containerCI-test/kraken2-2.0.8/2020-10-28-b740d8f1-667e7421/
 recipe: https://datasets.datalad.org/shub/annacprice/containerCI-test/kraken2-2.0.8/2020-10-28-b740d8f1-667e7421/Singularity
 collection: annacprice/containerCI-test
 ---

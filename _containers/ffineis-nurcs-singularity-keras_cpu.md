@@ -9,7 +9,7 @@ build_date: "2018-07-18T23:19:18.904Z"
 size_mb: 3068
 size: 1143869471
 sif: "https://datasets.datalad.org/shub/ffineis/nurcs-singularity/keras_cpu/2018-07-18-2a4c047b-a98bc101/a98bc1013af2ad3c7cf0a48dd7058275.simg"
-url: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/keras_cpu/2018-07-18-2a4c047b-a98bc101/
+datalad_url: https://datasets.datalad.org?dir=/shub/ffineis/nurcs-singularity/keras_cpu/2018-07-18-2a4c047b-a98bc101/
 recipe: https://datasets.datalad.org/shub/ffineis/nurcs-singularity/keras_cpu/2018-07-18-2a4c047b-a98bc101/Singularity
 collection: ffineis/nurcs-singularity
 ---

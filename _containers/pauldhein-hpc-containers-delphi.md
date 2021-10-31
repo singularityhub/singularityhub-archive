@@ -9,7 +9,7 @@ build_date: "2019-06-06T15:55:37.587Z"
 size_mb: 4749
 size: 3062181919
 sif: "https://datasets.datalad.org/shub/pauldhein/hpc-containers/delphi/2019-06-06-d580bc9b-bf0b2c4d/bf0b2c4d2b048025fe788c1a893f1384.simg"
-url: https://datasets.datalad.org/shub/pauldhein/hpc-containers/delphi/2019-06-06-d580bc9b-bf0b2c4d/
+datalad_url: https://datasets.datalad.org?dir=/shub/pauldhein/hpc-containers/delphi/2019-06-06-d580bc9b-bf0b2c4d/
 recipe: https://datasets.datalad.org/shub/pauldhein/hpc-containers/delphi/2019-06-06-d580bc9b-bf0b2c4d/Singularity
 collection: pauldhein/hpc-containers
 ---

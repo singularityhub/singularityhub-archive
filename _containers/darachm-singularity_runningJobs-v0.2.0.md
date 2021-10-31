@@ -9,7 +9,7 @@ build_date: "2019-12-18T01:15:49.251Z"
 size_mb: 1016
 size: 427696159
 sif: "https://datasets.datalad.org/shub/darachm/singularity_runningJobs/v0.2.0/2019-12-18-1ef3344a-252ac35b/252ac35b95eeedf3cb3dd3a0cb3eeb74.simg"
-url: https://datasets.datalad.org/shub/darachm/singularity_runningJobs/v0.2.0/2019-12-18-1ef3344a-252ac35b/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/singularity_runningJobs/v0.2.0/2019-12-18-1ef3344a-252ac35b/
 recipe: https://datasets.datalad.org/shub/darachm/singularity_runningJobs/v0.2.0/2019-12-18-1ef3344a-252ac35b/Singularity
 collection: darachm/singularity_runningJobs
 ---

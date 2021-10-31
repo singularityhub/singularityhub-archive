@@ -9,7 +9,7 @@ build_date: "2020-04-21T01:55:11.237Z"
 size_mb: 9806.0
 size: 5180944415
 sif: "https://datasets.datalad.org/shub/matmu/nanopore/latest/2020-04-21-d96dfbc9-42faae0b/42faae0bfd74f2380a6a84f185bbf622.sif"
-url: https://datasets.datalad.org/shub/matmu/nanopore/latest/2020-04-21-d96dfbc9-42faae0b/
+datalad_url: https://datasets.datalad.org?dir=/shub/matmu/nanopore/latest/2020-04-21-d96dfbc9-42faae0b/
 recipe: https://datasets.datalad.org/shub/matmu/nanopore/latest/2020-04-21-d96dfbc9-42faae0b/Singularity
 collection: matmu/nanopore
 ---

@@ -9,7 +9,7 @@ build_date: "2018-08-28T03:21:34.065Z"
 size_mb: 604
 size: 214450207
 sif: "https://datasets.datalad.org/shub/lakinsm/summit-assembly/latest/2018-08-28-deb5015e-3eb8581c/3eb8581ceeaabd872c2b81bdad16eb6f.simg"
-url: https://datasets.datalad.org/shub/lakinsm/summit-assembly/latest/2018-08-28-deb5015e-3eb8581c/
+datalad_url: https://datasets.datalad.org?dir=/shub/lakinsm/summit-assembly/latest/2018-08-28-deb5015e-3eb8581c/
 recipe: https://datasets.datalad.org/shub/lakinsm/summit-assembly/latest/2018-08-28-deb5015e-3eb8581c/Singularity
 collection: lakinsm/summit-assembly
 ---

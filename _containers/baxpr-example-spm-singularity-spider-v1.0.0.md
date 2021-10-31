@@ -9,7 +9,7 @@ build_date: "2019-01-20T13:44:22.526Z"
 size_mb: 3525
 size: 1557848095
 sif: "https://datasets.datalad.org/shub/baxpr/example-spm-singularity-spider/v1.0.0/2019-01-20-6d644805-61c734b6/61c734b65f9046753a1bbbcb802ab22b.simg"
-url: https://datasets.datalad.org/shub/baxpr/example-spm-singularity-spider/v1.0.0/2019-01-20-6d644805-61c734b6/
+datalad_url: https://datasets.datalad.org?dir=/shub/baxpr/example-spm-singularity-spider/v1.0.0/2019-01-20-6d644805-61c734b6/
 recipe: https://datasets.datalad.org/shub/baxpr/example-spm-singularity-spider/v1.0.0/2019-01-20-6d644805-61c734b6/Singularity
 collection: baxpr/example-spm-singularity-spider
 ---

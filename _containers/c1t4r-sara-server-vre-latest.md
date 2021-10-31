@@ -9,7 +9,7 @@ build_date: "2018-01-25T14:23:38.626Z"
 size_mb: 1565
 size: 696885279
 sif: "https://datasets.datalad.org/shub/c1t4r/sara-server-vre/latest/2018-01-25-a3ecbd23-180e6cd0/180e6cd0a4d88c2a809cd79e1508999f.simg"
-url: https://datasets.datalad.org/shub/c1t4r/sara-server-vre/latest/2018-01-25-a3ecbd23-180e6cd0/
+datalad_url: https://datasets.datalad.org?dir=/shub/c1t4r/sara-server-vre/latest/2018-01-25-a3ecbd23-180e6cd0/
 recipe: https://datasets.datalad.org/shub/c1t4r/sara-server-vre/latest/2018-01-25-a3ecbd23-180e6cd0/Singularity
 collection: c1t4r/sara-server-vre
 ---

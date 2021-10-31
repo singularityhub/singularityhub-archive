@@ -9,7 +9,7 @@ build_date: "2020-03-13T11:00:42.427Z"
 size_mb: 1582.0
 size: 797700127
 sif: "https://datasets.datalad.org/shub/MetaboIGNITER/container-camera/latest/2020-03-13-44f550dc-ae922b40/ae922b4003ac70a96a0fdf7a6c97d79c.sif"
-url: https://datasets.datalad.org/shub/MetaboIGNITER/container-camera/latest/2020-03-13-44f550dc-ae922b40/
+datalad_url: https://datasets.datalad.org?dir=/shub/MetaboIGNITER/container-camera/latest/2020-03-13-44f550dc-ae922b40/
 recipe: https://datasets.datalad.org/shub/MetaboIGNITER/container-camera/latest/2020-03-13-44f550dc-ae922b40/Singularity
 collection: MetaboIGNITER/container-camera
 ---

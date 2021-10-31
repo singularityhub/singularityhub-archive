@@ -9,7 +9,7 @@ build_date: "2019-01-21T15:26:42.092Z"
 size_mb: 3056
 size: 1560698911
 sif: "https://datasets.datalad.org/shub/gapicare/singularity/latest/2019-01-21-41baeb14-fe3352b8/fe3352b8f9e0fa865d41e9403b7ec53c.simg"
-url: https://datasets.datalad.org/shub/gapicare/singularity/latest/2019-01-21-41baeb14-fe3352b8/
+datalad_url: https://datasets.datalad.org?dir=/shub/gapicare/singularity/latest/2019-01-21-41baeb14-fe3352b8/
 recipe: https://datasets.datalad.org/shub/gapicare/singularity/latest/2019-01-21-41baeb14-fe3352b8/Singularity
 collection: gapicare/singularity
 ---

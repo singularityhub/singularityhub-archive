@@ -9,7 +9,7 @@ build_date: "2021-03-05T14:10:09.446Z"
 size_mb: 2128
 size: 684232735
 sif: "https://datasets.datalad.org/shub/ISUGIFsingularity/masurca/3.2.9/2021-03-05-e6f1edd7-9b14bbfa/9b14bbfafc78c1203a709a5e1faaee71.simg"
-url: https://datasets.datalad.org/shub/ISUGIFsingularity/masurca/3.2.9/2021-03-05-e6f1edd7-9b14bbfa/
+datalad_url: https://datasets.datalad.org?dir=/shub/ISUGIFsingularity/masurca/3.2.9/2021-03-05-e6f1edd7-9b14bbfa/
 recipe: https://datasets.datalad.org/shub/ISUGIFsingularity/masurca/3.2.9/2021-03-05-e6f1edd7-9b14bbfa/Singularity
 collection: ISUGIFsingularity/masurca
 ---

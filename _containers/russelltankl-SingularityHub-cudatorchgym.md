@@ -9,7 +9,7 @@ build_date: "2019-05-06T04:14:38.918Z"
 size_mb: 9404
 size: 4297314335
 sif: "https://datasets.datalad.org/shub/russelltankl/SingularityHub/cudatorchgym/2019-05-06-91ab6aac-f2004efc/f2004efc5767f07a664d329bd99e66ca.simg"
-url: https://datasets.datalad.org/shub/russelltankl/SingularityHub/cudatorchgym/2019-05-06-91ab6aac-f2004efc/
+datalad_url: https://datasets.datalad.org?dir=/shub/russelltankl/SingularityHub/cudatorchgym/2019-05-06-91ab6aac-f2004efc/
 recipe: https://datasets.datalad.org/shub/russelltankl/SingularityHub/cudatorchgym/2019-05-06-91ab6aac-f2004efc/Singularity
 collection: russelltankl/SingularityHub
 ---

@@ -9,7 +9,7 @@ build_date: "2020-05-06T17:22:39.702Z"
 size_mb: 6224
 size: 3342721055
 sif: "https://datasets.datalad.org/shub/mark-e-deyoung/afit_mlperf_training/recommendation/2020-05-06-78b08ded-4cbebf25/4cbebf25cf7329bf5605abcea6b8d84b.simg"
-url: https://datasets.datalad.org/shub/mark-e-deyoung/afit_mlperf_training/recommendation/2020-05-06-78b08ded-4cbebf25/
+datalad_url: https://datasets.datalad.org?dir=/shub/mark-e-deyoung/afit_mlperf_training/recommendation/2020-05-06-78b08ded-4cbebf25/
 recipe: https://datasets.datalad.org/shub/mark-e-deyoung/afit_mlperf_training/recommendation/2020-05-06-78b08ded-4cbebf25/Singularity
 collection: mark-e-deyoung/afit_mlperf_training
 ---

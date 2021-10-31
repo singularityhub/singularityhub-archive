@@ -9,7 +9,7 @@ build_date: "2019-02-05T05:54:32.623Z"
 size_mb: 1004
 size: 410226719
 sif: "https://datasets.datalad.org/shub/powerPlant/3d-dna-srf/180922/2019-02-05-cb2defdf-80a85d39/80a85d39d73a9da3c07fb4316c273fb7.simg"
-url: https://datasets.datalad.org/shub/powerPlant/3d-dna-srf/180922/2019-02-05-cb2defdf-80a85d39/
+datalad_url: https://datasets.datalad.org?dir=/shub/powerPlant/3d-dna-srf/180922/2019-02-05-cb2defdf-80a85d39/
 recipe: https://datasets.datalad.org/shub/powerPlant/3d-dna-srf/180922/2019-02-05-cb2defdf-80a85d39/Singularity
 collection: powerPlant/3d-dna-srf
 ---

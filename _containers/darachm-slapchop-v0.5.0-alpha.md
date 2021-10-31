@@ -9,7 +9,7 @@ build_date: "2020-07-01T23:17:08.675Z"
 size_mb: 609.0
 size: 241500191
 sif: "https://datasets.datalad.org/shub/darachm/slapchop/v0.5.0-alpha/2020-07-01-b54d7237-16b17d4f/16b17d4ff20b95a505c8256a53034a53.sif"
-url: https://datasets.datalad.org/shub/darachm/slapchop/v0.5.0-alpha/2020-07-01-b54d7237-16b17d4f/
+datalad_url: https://datasets.datalad.org?dir=/shub/darachm/slapchop/v0.5.0-alpha/2020-07-01-b54d7237-16b17d4f/
 recipe: https://datasets.datalad.org/shub/darachm/slapchop/v0.5.0-alpha/2020-07-01-b54d7237-16b17d4f/Singularity
 collection: darachm/slapchop
 ---

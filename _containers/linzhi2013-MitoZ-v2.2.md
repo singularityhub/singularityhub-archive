@@ -9,7 +9,7 @@ build_date: "2021-03-10T04:44:28.647Z"
 size_mb: 3247
 size: 1116532767
 sif: "https://datasets.datalad.org/shub/linzhi2013/MitoZ/v2.2/2021-03-10-5c3b0530-d701df17/d701df176d16dbef2cb91f930499d49e.simg"
-url: https://datasets.datalad.org/shub/linzhi2013/MitoZ/v2.2/2021-03-10-5c3b0530-d701df17/
+datalad_url: https://datasets.datalad.org?dir=/shub/linzhi2013/MitoZ/v2.2/2021-03-10-5c3b0530-d701df17/
 recipe: https://datasets.datalad.org/shub/linzhi2013/MitoZ/v2.2/2021-03-10-5c3b0530-d701df17/Singularity
 collection: linzhi2013/MitoZ
 ---

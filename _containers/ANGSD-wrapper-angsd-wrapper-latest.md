@@ -9,7 +9,7 @@ build_date: "2021-04-01T14:23:19.110Z"
 size_mb: 779
 size: 247328799
 sif: "https://datasets.datalad.org/shub/ANGSD-wrapper/angsd-wrapper/latest/2021-04-01-9200983d-6817b159/6817b159bdb0f66e69904a26d76696b5.simg"
-url: https://datasets.datalad.org/shub/ANGSD-wrapper/angsd-wrapper/latest/2021-04-01-9200983d-6817b159/
+datalad_url: https://datasets.datalad.org?dir=/shub/ANGSD-wrapper/angsd-wrapper/latest/2021-04-01-9200983d-6817b159/
 recipe: https://datasets.datalad.org/shub/ANGSD-wrapper/angsd-wrapper/latest/2021-04-01-9200983d-6817b159/Singularity
 collection: ANGSD-wrapper/angsd-wrapper
 ---

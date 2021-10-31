@@ -9,7 +9,7 @@ build_date: "2021-01-21T03:49:56.042Z"
 size_mb: 486.0
 size: 151425055
 sif: "https://datasets.datalad.org/shub/romxero/pdftk-singularity/latest/2021-01-21-cc2f507e-c3f6e4b2/c3f6e4b20c8a98bbee53093eb4cb3961.sif"
-url: https://datasets.datalad.org/shub/romxero/pdftk-singularity/latest/2021-01-21-cc2f507e-c3f6e4b2/
+datalad_url: https://datasets.datalad.org?dir=/shub/romxero/pdftk-singularity/latest/2021-01-21-cc2f507e-c3f6e4b2/
 recipe: https://datasets.datalad.org/shub/romxero/pdftk-singularity/latest/2021-01-21-cc2f507e-c3f6e4b2/Singularity
 collection: romxero/pdftk-singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2021-01-27T20:49:57.540Z"
 size_mb: 13493.0
 size: 5525446687
 sif: "https://datasets.datalad.org/shub/HALFpipe/HALFpipe/1.0.0/2021-01-27-3575fbf2-1356af18/1356af1843dcf065a19147d72bb8b152.sif"
-url: https://datasets.datalad.org/shub/HALFpipe/HALFpipe/1.0.0/2021-01-27-3575fbf2-1356af18/
+datalad_url: https://datasets.datalad.org?dir=/shub/HALFpipe/HALFpipe/1.0.0/2021-01-27-3575fbf2-1356af18/
 recipe: https://datasets.datalad.org/shub/HALFpipe/HALFpipe/1.0.0/2021-01-27-3575fbf2-1356af18/Singularity
 collection: HALFpipe/HALFpipe
 ---

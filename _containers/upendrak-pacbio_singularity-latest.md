@@ -9,7 +9,7 @@ build_date: "2020-02-11T12:50:06.632Z"
 size_mb: 4666
 size: 3768729631
 sif: "https://datasets.datalad.org/shub/upendrak/pacbio_singularity/latest/2020-02-11-bdfa9333-57e9de60/57e9de607501f52fbc40b276744125c1.simg"
-url: https://datasets.datalad.org/shub/upendrak/pacbio_singularity/latest/2020-02-11-bdfa9333-57e9de60/
+datalad_url: https://datasets.datalad.org?dir=/shub/upendrak/pacbio_singularity/latest/2020-02-11-bdfa9333-57e9de60/
 recipe: https://datasets.datalad.org/shub/upendrak/pacbio_singularity/latest/2020-02-11-bdfa9333-57e9de60/Singularity
 collection: upendrak/pacbio_singularity
 ---

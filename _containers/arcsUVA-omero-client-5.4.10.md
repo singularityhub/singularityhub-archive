@@ -9,7 +9,7 @@ build_date: "2020-05-01T18:29:36.072Z"
 size_mb: 3783
 size: 1266651167
 sif: "https://datasets.datalad.org/shub/arcsUVA/omero-client/5.4.10/2020-05-01-2cc87ab9-289c64c3/289c64c34acb6ffa7ba8886a5d3fc9fe.simg"
-url: https://datasets.datalad.org/shub/arcsUVA/omero-client/5.4.10/2020-05-01-2cc87ab9-289c64c3/
+datalad_url: https://datasets.datalad.org?dir=/shub/arcsUVA/omero-client/5.4.10/2020-05-01-2cc87ab9-289c64c3/
 recipe: https://datasets.datalad.org/shub/arcsUVA/omero-client/5.4.10/2020-05-01-2cc87ab9-289c64c3/Singularity
 collection: arcsUVA/omero-client
 ---

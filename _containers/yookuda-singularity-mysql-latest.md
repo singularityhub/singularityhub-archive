@@ -9,7 +9,7 @@ build_date: "2020-06-26T07:47:32.800Z"
 size_mb: 1442.0
 size: 468078623
 sif: "https://datasets.datalad.org/shub/yookuda/singularity-mysql/latest/2020-06-26-0a262b60-3020d6c5/3020d6c57139d7497bce28341426b5fb.sif"
-url: https://datasets.datalad.org/shub/yookuda/singularity-mysql/latest/2020-06-26-0a262b60-3020d6c5/
+datalad_url: https://datasets.datalad.org?dir=/shub/yookuda/singularity-mysql/latest/2020-06-26-0a262b60-3020d6c5/
 recipe: https://datasets.datalad.org/shub/yookuda/singularity-mysql/latest/2020-06-26-0a262b60-3020d6c5/Singularity
 collection: yookuda/singularity-mysql
 ---

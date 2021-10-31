@@ -9,7 +9,7 @@ build_date: "2021-04-14T03:38:36.691Z"
 size_mb: 1202
 size: 535547935
 sif: "https://datasets.datalad.org/shub/bhattlab/bhattlab_workflows/plotting/2021-04-14-f444516e-60baa094/60baa094086622695b3ac47d0f1814f3.simg"
-url: https://datasets.datalad.org/shub/bhattlab/bhattlab_workflows/plotting/2021-04-14-f444516e-60baa094/
+datalad_url: https://datasets.datalad.org?dir=/shub/bhattlab/bhattlab_workflows/plotting/2021-04-14-f444516e-60baa094/
 recipe: https://datasets.datalad.org/shub/bhattlab/bhattlab_workflows/plotting/2021-04-14-f444516e-60baa094/Singularity
 collection: bhattlab/bhattlab_workflows
 ---

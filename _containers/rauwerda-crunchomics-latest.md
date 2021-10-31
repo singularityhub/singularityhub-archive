@@ -9,7 +9,7 @@ build_date: "2019-10-24T15:30:20.976Z"
 size_mb: 96.0
 size: 37146655
 sif: "https://datasets.datalad.org/shub/rauwerda/crunchomics/latest/2019-10-24-2a92375c-9b60dac3/9b60dac30f42857f99327e9e2ec8d5c6.sif"
-url: https://datasets.datalad.org/shub/rauwerda/crunchomics/latest/2019-10-24-2a92375c-9b60dac3/
+datalad_url: https://datasets.datalad.org?dir=/shub/rauwerda/crunchomics/latest/2019-10-24-2a92375c-9b60dac3/
 recipe: https://datasets.datalad.org/shub/rauwerda/crunchomics/latest/2019-10-24-2a92375c-9b60dac3/Singularity
 collection: rauwerda/crunchomics
 ---

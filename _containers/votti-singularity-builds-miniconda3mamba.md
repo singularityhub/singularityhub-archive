@@ -9,7 +9,7 @@ build_date: "2020-06-05T18:58:20.441Z"
 size_mb: 636.0
 size: 228323359
 sif: "https://datasets.datalad.org/shub/votti/singularity-builds/miniconda3mamba/2020-06-05-295ad86a-052fad53/052fad53f80bfb1a00ac2c168979c5f6.sif"
-url: https://datasets.datalad.org/shub/votti/singularity-builds/miniconda3mamba/2020-06-05-295ad86a-052fad53/
+datalad_url: https://datasets.datalad.org?dir=/shub/votti/singularity-builds/miniconda3mamba/2020-06-05-295ad86a-052fad53/
 recipe: https://datasets.datalad.org/shub/votti/singularity-builds/miniconda3mamba/2020-06-05-295ad86a-052fad53/Singularity
 collection: votti/singularity-builds
 ---

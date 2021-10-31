@@ -9,7 +9,7 @@ build_date: "2020-05-31T11:56:22.527Z"
 size_mb: 192.0
 size: 96469023
 sif: "https://datasets.datalad.org/shub/micro-infrastructure/adaptor-fdt/latest/2020-05-31-a297eb09-4b5a21e8/4b5a21e8c9627e07852bd3d5172749e2.sif"
-url: https://datasets.datalad.org/shub/micro-infrastructure/adaptor-fdt/latest/2020-05-31-a297eb09-4b5a21e8/
+datalad_url: https://datasets.datalad.org?dir=/shub/micro-infrastructure/adaptor-fdt/latest/2020-05-31-a297eb09-4b5a21e8/
 recipe: https://datasets.datalad.org/shub/micro-infrastructure/adaptor-fdt/latest/2020-05-31-a297eb09-4b5a21e8/Singularity
 collection: micro-infrastructure/adaptor-fdt
 ---

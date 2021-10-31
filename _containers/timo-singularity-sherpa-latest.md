@@ -9,7 +9,7 @@ build_date: "2021-04-05T19:44:22.178Z"
 size_mb: 4582.0
 size: 933527583
 sif: "https://datasets.datalad.org/shub/timo-singularity/sherpa/latest/2021-04-05-27b1ad9a-9abedc5d/9abedc5dd073cae2aa7e1a6eeb48f20e.sif"
-url: https://datasets.datalad.org/shub/timo-singularity/sherpa/latest/2021-04-05-27b1ad9a-9abedc5d/
+datalad_url: https://datasets.datalad.org?dir=/shub/timo-singularity/sherpa/latest/2021-04-05-27b1ad9a-9abedc5d/
 recipe: https://datasets.datalad.org/shub/timo-singularity/sherpa/latest/2021-04-05-27b1ad9a-9abedc5d/Singularity
 collection: timo-singularity/sherpa
 ---

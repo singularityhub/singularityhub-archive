@@ -9,7 +9,7 @@ build_date: "2020-10-05T09:57:25.477Z"
 size_mb: 631.0
 size: 232636447
 sif: "https://datasets.datalad.org/shub/c3se/containers/julia-v1.4.0/2020-10-05-11ee8fde-821ade82/821ade823de6390372d3bbca4fb6e463.sif"
-url: https://datasets.datalad.org/shub/c3se/containers/julia-v1.4.0/2020-10-05-11ee8fde-821ade82/
+datalad_url: https://datasets.datalad.org?dir=/shub/c3se/containers/julia-v1.4.0/2020-10-05-11ee8fde-821ade82/
 recipe: https://datasets.datalad.org/shub/c3se/containers/julia-v1.4.0/2020-10-05-11ee8fde-821ade82/Singularity
 collection: c3se/containers
 ---

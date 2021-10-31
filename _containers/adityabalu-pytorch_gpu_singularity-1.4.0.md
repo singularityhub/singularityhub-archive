@@ -9,7 +9,7 @@ build_date: "2020-05-28T01:22:31.652Z"
 size_mb: 8095.0
 size: 4383842335
 sif: "https://datasets.datalad.org/shub/adityabalu/pytorch_gpu_singularity/1.4.0/2020-05-28-408787e6-7e9d73d1/7e9d73d1962bbd89dd6af8bf919c7689.sif"
-url: https://datasets.datalad.org/shub/adityabalu/pytorch_gpu_singularity/1.4.0/2020-05-28-408787e6-7e9d73d1/
+datalad_url: https://datasets.datalad.org?dir=/shub/adityabalu/pytorch_gpu_singularity/1.4.0/2020-05-28-408787e6-7e9d73d1/
 recipe: https://datasets.datalad.org/shub/adityabalu/pytorch_gpu_singularity/1.4.0/2020-05-28-408787e6-7e9d73d1/Singularity
 collection: adityabalu/pytorch_gpu_singularity
 ---

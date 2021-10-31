@@ -9,7 +9,7 @@ build_date: "2020-10-13T09:27:58.892Z"
 size_mb: 866.0
 size: 279896095
 sif: "https://datasets.datalad.org/shub/brucemoran/Singularity/centos7/2020-10-13-387e4426-f2eba0b5/f2eba0b5205e8dff775e723c755860f8.sif"
-url: https://datasets.datalad.org/shub/brucemoran/Singularity/centos7/2020-10-13-387e4426-f2eba0b5/
+datalad_url: https://datasets.datalad.org?dir=/shub/brucemoran/Singularity/centos7/2020-10-13-387e4426-f2eba0b5/
 recipe: https://datasets.datalad.org/shub/brucemoran/Singularity/centos7/2020-10-13-387e4426-f2eba0b5/Singularity
 collection: brucemoran/Singularity
 ---

@@ -9,7 +9,7 @@ build_date: "2018-08-08T03:56:31.444Z"
 size_mb: 9477
 size: 4421767199
 sif: "https://datasets.datalad.org/shub/lalet/Eddy/latest/2018-08-08-ca6ec175-e8830bdd/e8830bdda0677ef67b49a76967dab917.simg"
-url: https://datasets.datalad.org/shub/lalet/Eddy/latest/2018-08-08-ca6ec175-e8830bdd/
+datalad_url: https://datasets.datalad.org?dir=/shub/lalet/Eddy/latest/2018-08-08-ca6ec175-e8830bdd/
 recipe: https://datasets.datalad.org/shub/lalet/Eddy/latest/2018-08-08-ca6ec175-e8830bdd/Singularity
 collection: lalet/Eddy
 ---

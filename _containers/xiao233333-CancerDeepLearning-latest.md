@@ -9,7 +9,7 @@ build_date: "2019-06-25T05:49:27.539Z"
 size_mb: 4720
 size: 2419372063
 sif: "https://datasets.datalad.org/shub/xiao233333/CancerDeepLearning/latest/2019-06-25-9cda6e6f-1d442014/1d4420149584e7e1fb774b082aad6985.simg"
-url: https://datasets.datalad.org/shub/xiao233333/CancerDeepLearning/latest/2019-06-25-9cda6e6f-1d442014/
+datalad_url: https://datasets.datalad.org?dir=/shub/xiao233333/CancerDeepLearning/latest/2019-06-25-9cda6e6f-1d442014/
 recipe: https://datasets.datalad.org/shub/xiao233333/CancerDeepLearning/latest/2019-06-25-9cda6e6f-1d442014/Singularity
 collection: xiao233333/CancerDeepLearning
 ---

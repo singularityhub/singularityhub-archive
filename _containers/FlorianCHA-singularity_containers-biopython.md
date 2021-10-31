@@ -9,7 +9,7 @@ build_date: "2021-03-31T13:49:58.863Z"
 size_mb: 657.0
 size: 271380511
 sif: "https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/biopython/2021-03-31-7cb598aa-6bca6d00/6bca6d0005296c704d4cb7e833b31c1a.sif"
-url: https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/biopython/2021-03-31-7cb598aa-6bca6d00/
+datalad_url: https://datasets.datalad.org?dir=/shub/FlorianCHA/singularity_containers/biopython/2021-03-31-7cb598aa-6bca6d00/
 recipe: https://datasets.datalad.org/shub/FlorianCHA/singularity_containers/biopython/2021-03-31-7cb598aa-6bca6d00/Singularity
 collection: FlorianCHA/singularity_containers
 ---

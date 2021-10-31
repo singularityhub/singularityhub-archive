@@ -9,7 +9,7 @@ build_date: "2020-01-09T00:03:43.931Z"
 size_mb: 3999.0
 size: 1807495199
 sif: "https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/athena/2020-01-09-04c292ab-bf382235/bf38223597896dc610a4be3479b343ee.sif"
-url: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/athena/2020-01-09-04c292ab-bf382235/
+datalad_url: https://datasets.datalad.org?dir=/shub/bsiranosian/bens_1337_workflows/athena/2020-01-09-04c292ab-bf382235/
 recipe: https://datasets.datalad.org/shub/bsiranosian/bens_1337_workflows/athena/2020-01-09-04c292ab-bf382235/Singularity
 collection: bsiranosian/bens_1337_workflows
 ---

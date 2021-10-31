@@ -9,7 +9,7 @@ build_date: "2018-10-29T20:59:13.178Z"
 size_mb: 2094
 size: 806383647
 sif: "https://datasets.datalad.org/shub/dynverse/ti_mst/latest/2018-10-29-5e79276f-37dce18b/37dce18b54da65809be3bb2bc335b94e.simg"
-url: https://datasets.datalad.org/shub/dynverse/ti_mst/latest/2018-10-29-5e79276f-37dce18b/
+datalad_url: https://datasets.datalad.org?dir=/shub/dynverse/ti_mst/latest/2018-10-29-5e79276f-37dce18b/
 recipe: https://datasets.datalad.org/shub/dynverse/ti_mst/latest/2018-10-29-5e79276f-37dce18b/Singularity
 collection: dynverse/ti_mst
 ---

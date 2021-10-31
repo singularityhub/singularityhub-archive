@@ -9,7 +9,7 @@ build_date: "2020-03-02T13:27:13.152Z"
 size_mb: 4533
 size: 1953026079
 sif: "https://datasets.datalad.org/shub/patrickvdb/velocyto/v0.17/2020-03-02-7f039a83-497e7121/497e7121060b845c6eec753284352540.simg"
-url: https://datasets.datalad.org/shub/patrickvdb/velocyto/v0.17/2020-03-02-7f039a83-497e7121/
+datalad_url: https://datasets.datalad.org?dir=/shub/patrickvdb/velocyto/v0.17/2020-03-02-7f039a83-497e7121/
 recipe: https://datasets.datalad.org/shub/patrickvdb/velocyto/v0.17/2020-03-02-7f039a83-497e7121/Singularity
 collection: patrickvdb/velocyto
 ---

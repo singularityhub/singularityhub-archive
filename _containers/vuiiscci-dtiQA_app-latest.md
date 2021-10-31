@@ -9,7 +9,7 @@ build_date: "2019-11-12T17:47:01.806Z"
 size_mb: 4993
 size: 2344648735
 sif: "https://datasets.datalad.org/shub/vuiiscci/dtiQA_app/latest/2019-11-12-1deaad3f-65767c03/65767c036b4519080d99610e30cf7962.simg"
-url: https://datasets.datalad.org/shub/vuiiscci/dtiQA_app/latest/2019-11-12-1deaad3f-65767c03/
+datalad_url: https://datasets.datalad.org?dir=/shub/vuiiscci/dtiQA_app/latest/2019-11-12-1deaad3f-65767c03/
 recipe: https://datasets.datalad.org/shub/vuiiscci/dtiQA_app/latest/2019-11-12-1deaad3f-65767c03/Singularity
 collection: vuiiscci/dtiQA_app
 ---

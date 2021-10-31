@@ -9,7 +9,7 @@ build_date: "2018-11-16T10:50:05.387Z"
 size_mb: 232
 size: 71061535
 sif: "https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/cufflinks/2018-11-16-58478a9f-9d0449c1/9d0449c1e0b921af0e013dc37f7719a1.simg"
-url: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/cufflinks/2018-11-16-58478a9f-9d0449c1/
+datalad_url: https://datasets.datalad.org?dir=/shub/CompBio-TDU-Japan/containers/cufflinks/2018-11-16-58478a9f-9d0449c1/
 recipe: https://datasets.datalad.org/shub/CompBio-TDU-Japan/containers/cufflinks/2018-11-16-58478a9f-9d0449c1/Singularity
 collection: CompBio-TDU-Japan/containers
 ---

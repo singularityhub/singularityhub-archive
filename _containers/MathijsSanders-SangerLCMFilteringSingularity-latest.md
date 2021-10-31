@@ -9,7 +9,7 @@ build_date: "2021-04-06T15:31:09.420Z"
 size_mb: 252.859375
 size: 265142272
 sif: "https://datasets.datalad.org/shub/MathijsSanders/SangerLCMFilteringSingularity/latest/2021-04-06-b4a65d4d-2ca3c981/2ca3c98169b075f9a94657d62735dc9f146b32df0ff1fd84a76ee33f6be3c3e3.sif"
-url: https://datasets.datalad.org/shub/MathijsSanders/SangerLCMFilteringSingularity/latest/2021-04-06-b4a65d4d-2ca3c981/
+datalad_url: https://datasets.datalad.org?dir=/shub/MathijsSanders/SangerLCMFilteringSingularity/latest/2021-04-06-b4a65d4d-2ca3c981/
 recipe: https://datasets.datalad.org/shub/MathijsSanders/SangerLCMFilteringSingularity/latest/2021-04-06-b4a65d4d-2ca3c981/Singularity
 collection: MathijsSanders/SangerLCMFilteringSingularity
 ---
