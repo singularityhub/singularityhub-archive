@@ -1,0 +1,97 @@
+---
+id: 10107
+name: "ayush-raj97/ayush-openpose"
+branch: "master"
+tag: "latest"
+commit: "8282e31aeb0722907c9ddfdf5c56a6f1da4a2e64"
+version: "5ecc7cd39183aebd09e52f1c4fb39e5b"
+build_date: "2019-07-01T20:21:50.861Z"
+size_mb: 4926
+size: 2106785823
+sif: "https://datasets.datalad.org/shub/ayush-raj97/ayush-openpose/latest/2019-07-01-8282e31a-5ecc7cd3/5ecc7cd39183aebd09e52f1c4fb39e5b.simg"
+url: https://datasets.datalad.org/shub/ayush-raj97/ayush-openpose/latest/2019-07-01-8282e31a-5ecc7cd3/
+recipe: https://datasets.datalad.org/shub/ayush-raj97/ayush-openpose/latest/2019-07-01-8282e31a-5ecc7cd3/Singularity
+collection: ayush-raj97/ayush-openpose
+---
+
+# ayush-raj97/ayush-openpose:latest
+
+```bash
+$ singularity pull shub://ayush-raj97/ayush-openpose:latest
+```
+
+## Singularity Recipe
+
+```singularity
+Bootstrap:docker
+From:ubuntu:latest
+%labels
+        MAINTAINER ayushraj
+
+%environment
+        export LANGUAGE=en_US.UTF-8
+        export LANG=en_US.UTF-8
+        export LC_ALL=en_US.UTF-8
+
+%post
+        
+	
+apt-get update && apt-get install -y --no-install-recommends software-properties-common wget
+add-apt-repository universe
+apt-get install -y libcanberra-gtk-module 
+apt-get install -y libcanberra-gtk3-module
+apt-get update && apt-get install -y --no-install-recommends \
+  ca-certificates curl git nano less \
+  build-essential cmake cmake-gui pkg-config libopencv-dev caffe-cpu libgoogle-glog-dev libcaffe-cpu-dev \
+  libboost-dev libprotobuf-dev gpg-agent locales language-pack-en
+locale-gen en_US.UTF-8 && dpkg-reconfigure locales
+wget https://apt.repos.intel.com/intel-gpg-keys/GPG-PUB-KEY-INTEL-SW-PRODUCTS-2019.PUB
+apt-key add GPG-PUB-KEY-INTEL-SW-PRODUCTS-2019.PUB
+wget https://apt.repos.intel.com/setup/intelproducts.list -O /etc/apt/sources.list.d/intelproducts.list
+apt-get update && apt-get install -y --no-install-recommends intel-mkl-64bit-2018.2
+
+# option caffe-cuda
+# http://caffe.berkeleyvision.org/install_apt.html
+# In case we need to turn off ssl verify
+# RUN
+apt install -y python3-pip
+apt install -y git-all 
+apt update	
+
+  git config --global http.sslVerify false
+         
+# Installing some Python packages that are needed for pre-processing.
+  apt install -y python3 python3-matplotlib python3-numpy
+  pip3 install pillow numpy opencv-python image sklearn statistics beautifulsoup4 ipaddress ipykernel ipython ipython-genutils ipywidgets jsonschema jupyter jupyter-client jupyter-console jupyter-core natsort notebook bqplot pandas scikit-image scikit-learn seaborn plotly requests appmode 
+
+mkdir /localdata
+cd /localdata
+mkdir src
+cd src
+git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
+cd openpose
+mkdir build
+cd build
+export MKLVARS_ARCHITECTURE=intel64
+. /opt/intel/mkl/bin/mklvars.sh
+# Apparently not all shells allow parameters with source.
+#. /opt/intel/mkl/bin/mklvars.sh intel64
+
+cmake -DGPU_MODE=CPU_ONLY -DBUILD_CAFFE=OFF -DCaffe_INCLUDE_DIRS=/usr/include/caffe/ -DCaffe_LIBS=/usr/lib/x86_64-linux-gnu/libcaffe.so ..
+make
+make install
+apt update	
+cd /localdata/src/openpose/models/pose/coco 
+wget posefs1.perception.cs.cmu.edu/OpenPose/models/pose/coco/pose_iter_440000.caffemodel
+	
+%runscript
+cd /
+cd localdata/src/openpose
+exec ./build/examples/openpose/openpose.bin --image_dir examples/media/ --write_json output/ --model_pose COCO --display 0 --render_pose 0
+```
+
+## Collection
+
+ - Name: [ayush-raj97/ayush-openpose](https://github.com/ayush-raj97/ayush-openpose)
+ - License: None
+

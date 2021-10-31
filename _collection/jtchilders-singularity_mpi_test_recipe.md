@@ -1,0 +1,26 @@
+---
+id: 1151
+full_name: "jtchilders/singularity_mpi_test_recipe"
+images: 
+  - "jtchilders-singularity_mpi_test_recipe-mpich"
+  - "jtchilders-singularity_mpi_test_recipe-mpifileutils"
+  - "jtchilders-singularity_mpi_test_recipe-openmpi"
+  - "jtchilders-singularity_mpi_test_recipe-derived"
+  - "jtchilders-singularity_mpi_test_recipe-latest"
+  - "jtchilders-singularity_mpi_test_recipe-intelpython"
+  - "jtchilders-singularity_mpi_test_recipe-devtoolset3"
+  - "jtchilders-singularity_mpi_test_recipe-devtoolset6"
+  - "jtchilders-singularity_mpi_test_recipe-devtoolset4"
+  - "jtchilders-singularity_mpi_test_recipe-miniconda040512"
+  - "jtchilders-singularity_mpi_test_recipe-dvs6_py36"
+  - "jtchilders-singularity_mpi_test_recipe-dvs6_py36_basel"
+  - "jtchilders-singularity_mpi_test_recipe-dvs6_py36_basel16"
+  - "jtchilders-singularity_mpi_test_recipe-dvs6_py36_mpi"
+  - "jtchilders-singularity_mpi_test_recipe-dvs6_py36_mpi33_bzl16"
+  - "jtchilders-singularity_mpi_test_recipe-dvs6_py36_mpi33_bzl19"
+  - "jtchilders-singularity_mpi_test_recipe-dvs6_py36_mpi33_bzl241"
+  - "jtchilders-singularity_mpi_test_recipe-devtoolset8"
+  - "jtchilders-singularity_mpi_test_recipe-dvs8_py36"
+  - "jtchilders-singularity_mpi_test_recipe-dvs8_py36_mpi33"
+  - "jtchilders-singularity_mpi_test_recipe-dvs8_py36_mpi33_bzl19"
+---
