@@ -25,4 +25,6 @@ mv __containers/*.md _containers/
 bundle exec jekyll build --incremental
 rmdir __containers
 rmdir __collection
-bundle exec jekyll build --incremental
+
+# Final build is needed for main page
+bundle exec jekyll build
