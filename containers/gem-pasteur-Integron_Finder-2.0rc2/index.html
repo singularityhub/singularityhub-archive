@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <!-- Copyright 2019-2021 Vanessa Sochat-->
+  <head>
+<meta charset="utf-8">
+<!-- Copyright 2019-2021 Vanessa Sochat-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.55.6" />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+<link rel="alternate" type="application/rss&#43;xml" href="/docs/index.xml">
+
+<link rel="shortcut icon" href="/singularityhub-archive/assets/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/singularityhub-archive/assets/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-96x196.png" sizes="96x196">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-192x192.png"sizes="192x192">
+
+<title>Gem Pasteur Integron_finder 2.0rc2</title>
+<meta property="og:title" content="Gem Pasteur Integron_finder 2.0rc2" />
+<meta property="og:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://singularityhub.github.io" />
+<meta property="og:site_name" content="https://singularityhub.github.io" />
+
+<meta itemprop="name" content="Gem Pasteur Integron_finder 2.0rc2">
+<meta itemprop="description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Gem Pasteur Integron_finder 2.0rc2"/>
+<meta name="twitter:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+"/>
+
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/main.css">
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/palette.css">
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+</head>
+
+  
+
+  <body class="td-section">
+    <header>
+        <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/singularityhub-archive/">
+            <span class="navbar-logo"></span><img src="/singularityhub-archive/assets/img/logo.png" width="40px" style="padding-right:5px"><span class="text-uppercase font-weight-bold">Singularity Hub Archive</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="https://github.com/singularityhub/singularityhub-archive" target="_blank"><span>GitHub</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/about" ><span>About</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/docs" ><span>Documentation</span></a>
+			</li>
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+ <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+        </div>
+
+	<div class="navbar-nav d-none d-lg-block">
+          <a class="gh-source" data-gh-source="github" href="https://github.com/singularityhub/singularityhub-archive" title="Go to repository" data-md-state="done">
+          <div class="gh-source__repository">
+            <i class="fab fa fa-github fa-2x" style='padding-right:20px; float:left; margin-top:5px'></i>
+            singularityhub/singularityhub-archive
+          <ul class="gh-source__facts"><li class="gh-source__fact" id='stars'></li><li id="forks" class="gh-source__fact"></li></ul></div></a>
+        </div>
+      </div>
+
+
+</nav>
+</header>
+
+<script>
+$(document).ready(function() {
+  var url = "https://api.github.com/search/repositories?q=singularityhub/singularityhub-archive";
+  fetch(url, { 
+      headers: {"Accept":"application/vnd.github.preview"}
+  }).then(function(e) {
+    return e.json()
+  }).then(function(r) {
+     console.log(r.items[0])
+     stars = r.items[0]['stargazers_count']
+     forks = r.items[0]['forks_count']
+     $('#stars').text(stars + " Stars")
+     $('#forks').text(forks + " Forks")
+  });
+});
+</script>
+
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+          <div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+      <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      </button>
+  </form>  
+  
+  <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="/singularityhub-archive/docs" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Documentation</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="documentation">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Collections
+                    </a>
+                  </li>
+                  
+                    <ul>
+                      <li class="collapse show" id="">
+                        
+                      </li>
+                    </ul>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/about
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">About
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/news
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">News
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/tags
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Tags
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">External</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="external">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Docs
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/lastday/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Gallery
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                http://datasets.datalad.org/?dir=/shub
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Datalad Site
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+  </nav>
+</div>
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+              <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+                  <a href="https://github.com/singularityhub/singularityhub-archive/edit/main/_containers/gem-pasteur-Integron_Finder-2.0rc2.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new?labels=question&title=Question:&body=Question on: https://github.com/singularityhub/singularityhub-archive/tree/master/_containers/gem-pasteur-Integron_Finder-2.0rc2.md" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Create project issue</a>
+<!-- this will parse through the header fields and add a button to open
+     an issue / ask a question on Github. The editable field should be in
+     the post frontend matter, and refer to the label to open the issue for -->
+
+              </div>
+              <nav id="TableOfContents"><ul>
+              <li><ul id="TOC">
+                <!-- Links will be appended here-->
+              </ul></li>
+              </ul></nav>
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	      <ol class="breadcrumb spb-1">
+              
+              
+                <li class="breadcrumb-item">
+                  <a href="https://singularityhub.github.io/singularityhub-archive/containers/">Containers</a>
+                </li>
+                
+                <li class="breadcrumb-item active" aria-current="page">
+	          <a href="https://singularityhub.github.io/singularityhub-archive/containers/gem-pasteur-Integron_Finder-2.0rc2/">Gem Pasteur Integron_finder 2.0rc2</a>
+                </li>
+                
+	      </ol>
+           </nav>
+           <div class="td-content">
+	      <h1 id="gem-pasteurintegron_finder20rc2">gem-pasteur/Integron_Finder:2.0rc2</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>singularity pull shub://gem-pasteur/Integron_Finder:2.0rc2
+</code></pre></div></div>
+
+<h2 id="singularity-recipe">Singularity Recipe</h2>
+
+<pre><code class="language-singularity">Bootstrap: docker
+from: ubuntu:xenial
+
+%labels
+    org.label-schema.maintainer Bertrand Neron
+    org.label-schema.maintainer.email bneron@pasteur.fr
+    org.label-schema.authors Jean Cury; Thomas Jove; Marie Touchon; Bertrand Neron; Eduardo PC Rocha
+    org.label-schema.package.version 2.0rc2
+    org.label-schema.package.license GPLv3
+    org.label-schema.package.homepage https://github.com/gem-pasteur/Integron_Finder/
+    org.label-schema.vcs-url https://github.com/gem-pasteur/Integron_Finder/
+    org.label-schema.scientific.topics topic_0798 topic_0160 topic_0160 topic_0080 topic_3073 topic_3053 topic_3053 topic_0114 topic_0798
+    org.label-schema.scientific.operations operation_0361 operation_0362 operation_0239 operation_2423 operation_0253 operation_3087 operation_0415
+    org.label-schema.publications https://doi.org/10.1093/nar/gkw319
+
+%post
+    export  DEBIAN_FRONTEND=noninteractive
+    apt-get update -y
+    apt-get install -y wget python3 python3-pip git
+    apt-get install -y hmmer infernal prodigal
+
+    if ! test -d /pasteur
+    # to work on pasteur cluster
+    then
+        mkdir /pasteur
+    fi
+
+    ################################
+    # integron_finder installation #
+    ################################
+    # do not forget to modify version in labels section
+    if_ver='2.0rc2'
+
+    cd /usr/local/src/
+    if test -d integron_finder
+    then
+        rm -Rf integron_finder
+    fi
+    #just for testing the package from pipy test
+    pip3 download --index-url https://test.pypi.org/simple/ --no-deps integron_finder==${if_ver}
+    #pip3 download -d . "integron_finder==${if_ver}"
+    # to avoid ugly warning message
+    # '/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88'
+    # image build on singularity-hub add --no-binary
+    pip3 install --no-binary numpy --no-binary pandas "integron_finder-${if_ver}.tar.gz"
+    # to run tests. See test section
+    mkdir integron_finder
+    tar -xzf integron_finder-${if_ver}.tar.gz --strip-components=1 -C integron_finder
+
+%help
+
+Finds integrons in DNA sequences
+
+You can use it in command line, or you can use it online
+https://galaxy.pasteur.fr/root?tool_id=toolshed.pasteur.fr%2Frepos%2Fkhillion%2Fintegron_finder%2Fintegron_finder%2F1.5.1
+
+See Documentation for how to use it:
+https://integronfinder.readthedocs.io/en/latest
+
+# Licence:
+
+Integron Finder is under open source licence GPLv3
+
+# Usage
+
+to get usage run
+  ./integron_finder.simg -h
+or
+  singularity run integron_finder.simg -h
+or
+  singularity run shub://integron_finder -h
+
+
+### Example
+
+    integron_finder myfastafile.fst --local_max --func_annot
+
+## Input:
+
+    a file containing one or several replicon (nucleic) in fasta format.
+
+## Output :
+
+A folder name `Results_&lt;input_file&gt;`, inside there are different files :
+
+- *.integrons : contain list of all element detected (attc, protein near attC, integrase, Pc, attI, Pint) with position,
+  strand, evalue, etc... by default there is one file with integrons from all replicons but if you prefer to have
+  one file by replicon you can add the option --split. In this case one file per replicon will be generated.
+- *.gbk : contains the input sequence with all integrons and features found (if --gbk is set).
+- *.pdf : representation of complete integrons detected (with integrase (redish) and at least one attc (blueish)).
+  If a protein has a hit with an antibiotic resistance gene, it's yellow, otherwise grey. (if --pdf is set)
+
+ and one folder by replicon, `other_&lt;replicon_id&gt;`, containing the different outputs of the different steps
+ of the program for this replicon. (if --keep-tmp is set)
+
+# Galaxy
+
+You can use this program without installing it, through the pasteur galaxy webserver instance:
+
+https://galaxy.pasteur.fr/root?tool_id=toolshed.pasteur.fr%2Frepos%2Fkhillion%2Fintegron_finder%2Fintegron_finder%2F1.5.1
+
+# Citation
+
+The paper is published in Nucleic Acid Research.
+
+Identification and analysis of integrons and cassette arrays in bacterial genomes
+Jean Cury; Thomas Jove; Marie Touchon; Bertrand Neron; Eduardo PC Rocha
+Nucleic Acids Research 2016; [doi: 10.1093/nar/gkw319](http://nar.oxfordjournals.org/cgi/content/full/gkw319)
+
+ Please cite also the following articles:
+
+ - Nawrocki, E.P. and Eddy, S.R. (2013)
+   Infernal 1.1: 100-fold faster RNA homology searches.
+   Bioinformatics, 29, 2933-2935.
+ - Eddy, S.R. (2011)
+   Accelerated Profile HMM Searches.
+   PLoS Comput Biol, 7, e1002195.
+ - Hyatt, D., Chen, G.L., Locascio, P.F., Land, M.L., Larimer, F.W. and Hauser, L.J. (2010)
+   Prodigal: prokaryotic gene recognition and translation initiation site identification.
+   BMC Bioinformatics, 11, 119.
+
+and if you use the function `--func_annot` which uses Resfams:
+
+ - Gibson, M.K., Forsberg, K.J. and Dantas, G. (2015)
+   Improved annotation of antibiotic resistance determinants reveals microbial resistomes cluster by ecology.
+   ISME J, 9, 207-216.
+
+
+%runscript
+    exec /usr/local/bin/integron_finder "$@"
+
+%test
+    cd /usr/local/src/integron_finder
+    python3 setup.py test
+</code></pre>
+
+<h2 id="collection">Collection</h2>
+
+<ul>
+  <li>Name: <a href="https://github.com/gem-pasteur/Integron_Finder">gem-pasteur/Integron_Finder</a></li>
+  <li>License: <a href="None">Other</a></li>
+</ul>
+
+
+
+
+<br>
+<a class="btn btn-primary" href="https://datasets.datalad.org?dir=/shub/gem-pasteur/Integron_Finder/2.0rc2/2018-07-27-eec3c37e-2ece8fdd/" target="_blank" type="button">View on Datalad</a>
+
+<h2>Metrics</h2>
+
+<table>
+<tr>
+  <th>key</th>
+  <th>value</th>
+</tr>
+<tbody>
+  <tr>
+    <td>id</td>
+    <td>/containers/gem-pasteur-Integron_Finder-2.0rc2</td>
+  </tr>
+  <tr>
+    <td>collection name</td>
+    <td>gem-pasteur/Integron_Finder</td>
+  </tr>
+  <tr>
+    <td>branch</td>
+    <td>dev</td>
+  </tr>
+  <tr>
+    <td>tag</td>
+    <td>2.0rc2</td>
+  </tr>
+  <tr>
+    <td>commit</td>
+    <td>eec3c37e81efa4b5f6938db3dcd7404227e70645</td>
+  </tr>
+  <tr>
+    <td>version (container hash)</td>
+    <td>2ece8fdd8e20c6386da217235f616a20</td>
+  </tr>
+  <tr>
+    <td>build date</td>
+    <td>2018-07-27T17:39:28.734Z</td>
+  </tr>
+  <tr>
+    <td>size (MB)</td>
+    <td>869</td>
+  </tr>
+  <tr>
+    <td>size (bytes)</td>
+    <td>363790367</td>
+  </tr>
+  <tr>
+    <td>SIF</td>
+    <td><a href="https://datasets.datalad.org/shub/gem-pasteur/Integron_Finder/2.0rc2/2018-07-27-eec3c37e-2ece8fdd/2ece8fdd8e20c6386da217235f616a20.simg">Download URL (please use pull with shub://)</td>
+  </tr>
+  <tr>
+    <td>Datalad URL</td>
+    <td><a href="https://datasets.datalad.org?dir=/shub/gem-pasteur/Integron_Finder/2.0rc2/2018-07-27-eec3c37e-2ece8fdd/">View on Datalad</td>
+  </tr>
+  <tr>
+    <td>Singularity Recipe</td>
+    <td><a href="https://datasets.datalad.org/shub/gem-pasteur/Integron_Finder/2.0rc2/2018-07-27-eec3c37e-2ece8fdd/Singularity">Singularity Recipe on Datalad</td>
+  </tr>
+</tbody>
+</table>
+  
+<small>We cannot guarantee that all containers will still exist on GitHub.</small>
+
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<script>
+$(document).ready(function() {
+
+    var toc = $('#TOC');
+
+    // Select each header
+    sections = $('.td-content h1');
+        $.each(sections, function(idx, v) {
+            section = $(v);
+            var div_id = $(section).attr('id');
+            var div_text = section.text().split('¶')[0];
+            var parent = $("#" + div_id)
+            var content = '<li id="link_' + div_id + '" class="md-nav__item"><a class="md-nav__link" href="#' + div_id + '" title="' + div_text +'">' + div_text +'</a></li>';
+            $(toc).append(content);
+
+            // Add section code to subnavigation
+            var children = $('<nav class="md-nav"><ul class="md-nav__list"></nav></ul>')
+            var contenders = $("#" + div_id).nextUntil("h1");
+            $.each(contenders, function(idx, contender){
+               if($(contender).is('h2') || $(contender).is('h3')) {
+                   var contender_id = $(contender).attr('id');
+                   var contender_text = $(contender).text().split('¶')[0];
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   children.append(content);
+                }
+             })
+             $("#link_" + div_id).append(children);
+        });
+    });
+</script>
+
+<script>
+var headers = ["h1", "h2", "h3", "h4"]
+var colors = ["red", "orange", "green", "blue"]
+
+$.each(headers, function(i, header){
+    var color = colors[i];
+    $(header).each(function () {
+        var href=$(this).attr("id");
+        $(this).append('<a class="headerlink" style="color:' + color + '" href="#' + href + '" title="Permanent link">¶</a>')
+    });
+})
+</script>
+
+<script>
+$('h1').first().append('<div><span style="font-size:12px" class="badge badge-danger"><a style="cursor:pointer; color:white" href="https://singularityhub.github.io/singularityhub-archive/tags#2.0rc2 ">2.0rc2</a></span></div>')</script>
+
+	
+              
+              <style>
+  .feedback--answer {
+    display: inline-block;
+  }
+  .feedback--answer-no {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<h5 class="feedback--title">Feedback</h5>
+<p class="feedback--question">Was this page helpful?</p>
+<button class="feedback--answer feedback--answer-yes">Yes</button>
+<button class="feedback--answer feedback--answer-no">No</button>
+<p class="feedback--response feedback--response-yes">
+  Glad to hear it! Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<p class="feedback--response feedback--response-no">
+  Sorry to hear that. Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<script>
+  const yesButton = document.querySelector('.feedback--answer-yes');
+  const noButton = document.querySelector('.feedback--answer-no');
+  const yesResponse = document.querySelector('.feedback--response-yes');
+  const noResponse = document.querySelector('.feedback--response-no');
+  const disableButtons = () => {
+    yesButton.disabled = true;
+    noButton.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof ga !== 'function') return;
+    const args = {
+      command: 'send',
+      hitType: 'event',
+      category: 'Helpful',
+      action: 'click',
+      label: window.location.pathname,
+      value: value
+    };
+    ga(args.command, args.hitType, args.category, args.action, args.label, args.value);
+  };
+  yesButton.addEventListener('click', () => {
+    yesResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  noButton.addEventListener('click', () => {
+    noResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script><br/>
+
+
+           </div>
+          </main>
+        </div>
+      </div>
+      <footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        <ul class="list-inline mb-0">  
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Twitter" data-original-title="Twitter">
+              <a class="text-white" target="_blank" href="https://twitter.com/vsoch">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="LinkedIn" data-original-title="LinkedIn">
+              <a class="text-white" target="_blank" href="https://linkedin.com/in/vsochat">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        <ul class="list-inline mb-0">  
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
+            <a class="text-white" target="_blank" href="https://github.com/singularityhub/singularityhub-archive">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small class="text-white">© 2021 Dinosaur Avocado All Rights Reserved</small>
+        
+        <p class="mt-2"><a href="/about/">About the Archive</a></p>	
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="/singularityhub-archive/assets/js/main.js"></script>
+
+  </body>
+</html>

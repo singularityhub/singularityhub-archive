@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <!-- Copyright 2019-2021 Vanessa Sochat-->
+  <head>
+<meta charset="utf-8">
+<!-- Copyright 2019-2021 Vanessa Sochat-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.55.6" />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+<link rel="alternate" type="application/rss&#43;xml" href="/docs/index.xml">
+
+<link rel="shortcut icon" href="/singularityhub-archive/assets/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/singularityhub-archive/assets/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-96x196.png" sizes="96x196">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-192x192.png"sizes="192x192">
+
+<title>Maflister Surpi 1.0.18</title>
+<meta property="og:title" content="Maflister Surpi 1.0.18" />
+<meta property="og:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://singularityhub.github.io" />
+<meta property="og:site_name" content="https://singularityhub.github.io" />
+
+<meta itemprop="name" content="Maflister Surpi 1.0.18">
+<meta itemprop="description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Maflister Surpi 1.0.18"/>
+<meta name="twitter:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+"/>
+
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/main.css">
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/palette.css">
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+</head>
+
+  
+
+  <body class="td-section">
+    <header>
+        <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/singularityhub-archive/">
+            <span class="navbar-logo"></span><img src="/singularityhub-archive/assets/img/logo.png" width="40px" style="padding-right:5px"><span class="text-uppercase font-weight-bold">Singularity Hub Archive</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="https://github.com/singularityhub/singularityhub-archive" target="_blank"><span>GitHub</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/about" ><span>About</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/docs" ><span>Documentation</span></a>
+			</li>
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+ <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+        </div>
+
+	<div class="navbar-nav d-none d-lg-block">
+          <a class="gh-source" data-gh-source="github" href="https://github.com/singularityhub/singularityhub-archive" title="Go to repository" data-md-state="done">
+          <div class="gh-source__repository">
+            <i class="fab fa fa-github fa-2x" style='padding-right:20px; float:left; margin-top:5px'></i>
+            singularityhub/singularityhub-archive
+          <ul class="gh-source__facts"><li class="gh-source__fact" id='stars'></li><li id="forks" class="gh-source__fact"></li></ul></div></a>
+        </div>
+      </div>
+
+
+</nav>
+</header>
+
+<script>
+$(document).ready(function() {
+  var url = "https://api.github.com/search/repositories?q=singularityhub/singularityhub-archive";
+  fetch(url, { 
+      headers: {"Accept":"application/vnd.github.preview"}
+  }).then(function(e) {
+    return e.json()
+  }).then(function(r) {
+     console.log(r.items[0])
+     stars = r.items[0]['stargazers_count']
+     forks = r.items[0]['forks_count']
+     $('#stars').text(stars + " Stars")
+     $('#forks').text(forks + " Forks")
+  });
+});
+</script>
+
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+          <div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+      <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      </button>
+  </form>  
+  
+  <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="/singularityhub-archive/docs" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Documentation</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="documentation">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Collections
+                    </a>
+                  </li>
+                  
+                    <ul>
+                      <li class="collapse show" id="">
+                        
+                      </li>
+                    </ul>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/about
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">About
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/news
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">News
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/tags
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Tags
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">External</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="external">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Docs
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/lastday/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Gallery
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                http://datasets.datalad.org/?dir=/shub
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Datalad Site
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+  </nav>
+</div>
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+              <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+                  <a href="https://github.com/singularityhub/singularityhub-archive/edit/main/_containers/maflister-surpi-1.0.18.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new?labels=question&title=Question:&body=Question on: https://github.com/singularityhub/singularityhub-archive/tree/master/_containers/maflister-surpi-1.0.18.md" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Create project issue</a>
+<!-- this will parse through the header fields and add a button to open
+     an issue / ask a question on Github. The editable field should be in
+     the post frontend matter, and refer to the label to open the issue for -->
+
+              </div>
+              <nav id="TableOfContents"><ul>
+              <li><ul id="TOC">
+                <!-- Links will be appended here-->
+              </ul></li>
+              </ul></nav>
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	      <ol class="breadcrumb spb-1">
+              
+              
+                <li class="breadcrumb-item">
+                  <a href="https://singularityhub.github.io/singularityhub-archive/containers/">Containers</a>
+                </li>
+                
+                <li class="breadcrumb-item active" aria-current="page">
+	          <a href="https://singularityhub.github.io/singularityhub-archive/containers/maflister-surpi-1.0.18/">Maflister Surpi 1.0.18</a>
+                </li>
+                
+	      </ol>
+           </nav>
+           <div class="td-content">
+	      <h1 id="maflistersurpi1018">maflister/surpi:1.0.18</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>singularity pull shub://maflister/surpi:1.0.18
+</code></pre></div></div>
+
+<h2 id="singularity-recipe">Singularity Recipe</h2>
+
+<pre><code class="language-singularity">Bootstrap: docker
+From: ubuntu:12.04
+
+%labels
+Maintainer Matthew Flister
+Version v1.0
+
+%help
+This container runs SURPI.
+
+%environment
+    export PATH=$PATH:/usr/local/bin/surpi
+
+%post
+    mkdir -p /scratch/global /scratch/local /rcc/stor1/refdata /rcc/stor1/projects /rcc/stor1/depts
+
+    export DEBIAN_FRONTEND=noninteractive
+    apt-get update &amp;&amp; apt-get install -y --no-install-recommends \
+        curl \
+        wget \
+        vim \
+        build-essential \
+        gcc-multilib \
+        git \
+        make \
+        python \
+        python-dev \
+        gcc \
+        unzip \
+        g++ \
+        g++-4.6 \
+        cpanminus \
+        ghostscript \
+        blast2 
+    apt-get clean
+
+    #Change below folders as desired in order to change installation location.
+    install_folder="/usr/local"
+    bin_folder="$install_folder/bin"
+   
+    if [ ! -d $bin_folder ]
+    then
+        mkdir $bin_folder
+    fi
+   
+    CWD=$(pwd)
+   
+    #
+    ##
+    ### install Perl Modules
+    ##
+    #
+   
+    # for taxonomy
+    cpanm DBI
+    cpanm DBD::SQLite
+   
+    #
+    ##
+    ### install SURPI scripts
+    ##
+    #
+   
+    #Install via git clone
+    # cd $bin_folder
+    # git clone https://github.com/chiulab/surpi.git
+    # cd $CWD
+   
+    #Install specific version
+    version="surpi-1.0.18"
+    wget "https://github.com/chiulab/surpi/releases/download/v1.0.18/$version.tar.gz"
+    tar xvfz $version.tar.gz
+    mv $version "$bin_folder/"
+    ln -s "$bin_folder/$version" "$bin_folder/surpi"
+   
+    echo "PATH=\$PATH:$bin_folder" &gt;&gt; ~/.bashrc
+    echo "PATH=\$PATH:$bin_folder/surpi" &gt;&gt; ~/.bashrc
+   
+    #
+    ##
+    ### install gt (genometools)
+    ##
+    #
+    #Works in Ubuntu 14.10
+    curl -O "http://genometools.org/pub/genometools-1.5.4.tar.gz"
+    tar xvfz genometools-1.5.4.tar.gz
+    cd genometools-1.5.4
+    make 64bit=yes curses=no cairo=no
+    make "prefix=$install_folder" 64bit=yes curses=no cairo=no install
+    cd "$CWD"
+   
+    #
+    ##
+    ### install seqtk
+    ##
+    #
+    # 6/4/14 - discovered that current version of seqtk (1.0-r57) is buggy. We should install 1.0-r31
+    curl "https://codeload.github.com/lh3/seqtk/zip/1.0" &gt; seqtk.zip
+    unzip seqtk.zip
+    cd seqtk-1.0
+    make
+    mv seqtk "$bin_folder/"
+    cd $CWD
+   
+    #
+    ##
+    ### install fastq
+    ##
+    #
+    mkdir fastq
+    cd fastq
+    wget "https://raw.github.com/brentp/bio-playground/master/reads-utils/fastq.cpp"
+    g++ -O2 -o fastq fastq.cpp
+    mv fastq "$bin_folder/"
+    chmod +x "$bin_folder/fastq"
+    cd $CWD
+   
+    #
+    ##
+    ### install fqextract
+    ##
+    #
+    mkdir fqextract
+    cd fqextract
+    wget https://raw.github.com/attractivechaos/klib/master/khash.h
+    wget http://chiulab.ucsf.edu/SURPI/software/fqextract.c
+    gcc fqextract.c -o fqextract
+    mv fqextract "$bin_folder/"
+    chmod +x "$bin_folder/fqextract"
+    cd $CWD
+   
+    #
+    ##
+    ### install cutadapt
+    ##
+    #
+    #curl -O "https://cutadapt.googlecode.com/files/cutadapt-1.2.1.tar.gz"
+    wget https://pypi.python.org/packages/44/16/cf42365624044fd4c2491015fb7292e8cf67a8832d77be103d55103ebf6d/cutadapt-1.2.1.tar.gz
+    tar xvfz cutadapt-1.2.1.tar.gz
+    cd cutadapt-1.2.1
+    python setup.py build
+    python setup.py install
+    cd $CWD
+    
+    #
+    ##
+    ### install prinseq-lite.pl
+    ##
+    #
+    
+    curl -O "http://iweb.dl.sourceforge.net/project/prinseq/standalone/prinseq-lite-0.20.3.tar.gz"
+    tar xvfz prinseq-lite-0.20.3.tar.gz
+    cp prinseq-lite-0.20.3/prinseq-lite.pl "$bin_folder/"
+    chmod +x "$bin_folder/prinseq-lite.pl"
+    
+    #
+    ##
+    ### compile and install dropcache (must be after SURPI scripts)
+    ##
+    #
+    
+    gcc $bin_folder/surpi/source/dropcache.c -o dropcache
+    mv dropcache "$bin_folder/"
+    chown root "$bin_folder/dropcache"
+    chmod u+s "$bin_folder/dropcache"
+    
+    #
+    ##
+    ### install SNAP
+    ##
+    #
+    
+    curl -O "http://snap.cs.berkeley.edu/downloads/snap-0.15.4-linux.tar.gz"
+    tar xvfz snap-0.15.4-linux.tar.gz
+    cp snap-0.15.4-linux/snap "$bin_folder/"
+    
+    #
+    ##
+    ### install RAPSearch
+    ##
+    #
+    
+    git clone https://github.com/zhaoyanswill/RAPSearch2.git
+    cd RAPSearch2
+    ./install
+    cp bin/* "$bin_folder/"
+    cd $CWD
+   
+    #
+    ##
+    ### install fastQValidator from sourcecode
+    ##
+    #
+    # http://genome.sph.umich.edu/wiki/FastQValidator
+   
+    curl -O "https://genome.sph.umich.edu/w/images/2/20/FastQValidatorLibStatGen.0.1.1a.tgz"
+    tar xvf FastQValidatorLibStatGen.0.1.1a.tgz
+    cd fastQValidator_0.1.1a
+    make all
+    cp fastQValidator/bin/fastQValidator "$bin_folder/"
+    cd $CWD
+   
+   
+    #
+    ##
+    ### install AbySS 1.5.2
+    ##
+    #
+    # http://www.bcgsc.ca/platform/bioinfo/software/abyss
+   
+    #Download ABySS
+    wget "https://github.com/bcgsc/abyss/releases/download/1.5.2/abyss-1.5.2.tar.gz"
+    tar xvfz abyss-1.5.2.tar.gz
+   
+    #Set up Boost Dependency
+    cd abyss-1.5.2
+    wget http://sourceforge.net/projects/boost/files/boost/1.57.0/boost_1_57_0.tar.gz
+    tar xvfz boost_1_57_0.tar.gz
+    ln -s boost_1_57_0/boost boost
+   
+    #Install packaged dependencies
+    apt-get install -y openmpi-bin sparsehash libopenmpi-dev # Ubuntu 12.04
+    #apt-get install -y openmpi-bin libsparsehash-dev libopenmpi-dev # Ubuntu 14.10
+   
+    # Configure ABySS
+    ./configure --with-mpi=/usr/lib/openmpi CPPFLAGS=-I/usr/include/google
+    make AM_CXXFLAGS=-Wall
+    make install
+    cd $CWD
+   
+    #
+    ##
+    ### install Minimo
+    ##
+    #
+   
+    apt-get -y install mummer
+    cpanm DBI
+    cpanm Statistics::Descriptive
+    cpanm XML::Parser
+   
+    curl -O "http://iweb.dl.sourceforge.net/project/amos/amos/3.1.0/amos-3.1.0.tar.gz"
+    tar xvfz amos-3.1.0.tar.gz
+    cd amos-3.1.0
+    ./configure --prefix=$install_folder CXX='g++-4.6'
+    make
+    make install
+    cd $CWD
+   
+    #
+    ##
+    ### install fastq-dump
+    ##
+    #
+
+    wget http://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit.current-ubuntu64.tar.gz
+    tar -xvf sratoolkit.current-ubuntu64.tar.gz
+    cd sratoolkit.2.9.0-ubuntu64/bin
+    cp -R * /usr/local/bin
+    cd $CWD
+</code></pre>
+
+<h2 id="collection">Collection</h2>
+
+<ul>
+  <li>Name: <a href="https://github.com/maflister/surpi">maflister/surpi</a></li>
+  <li>License: <a href="https://api.github.com/licenses/mit">MIT License</a></li>
+</ul>
+
+
+
+
+<br>
+<a class="btn btn-primary" href="https://datasets.datalad.org?dir=/shub/maflister/surpi/1.0.18/2018-04-03-9cb8e657-b350c933/" target="_blank" type="button">View on Datalad</a>
+
+<h2>Metrics</h2>
+
+<table>
+<tr>
+  <th>key</th>
+  <th>value</th>
+</tr>
+<tbody>
+  <tr>
+    <td>id</td>
+    <td>/containers/maflister-surpi-1.0.18</td>
+  </tr>
+  <tr>
+    <td>collection name</td>
+    <td>maflister/surpi</td>
+  </tr>
+  <tr>
+    <td>branch</td>
+    <td>master</td>
+  </tr>
+  <tr>
+    <td>tag</td>
+    <td>1.0.18</td>
+  </tr>
+  <tr>
+    <td>commit</td>
+    <td>9cb8e657d1c40339ae5b1a1c418ebcbeafca9e21</td>
+  </tr>
+  <tr>
+    <td>version (container hash)</td>
+    <td>b350c93379dce4a6d67d299a368b8a18</td>
+  </tr>
+  <tr>
+    <td>build date</td>
+    <td>2018-04-03T19:57:11.411Z</td>
+  </tr>
+  <tr>
+    <td>size (MB)</td>
+    <td>3033</td>
+  </tr>
+  <tr>
+    <td>size (bytes)</td>
+    <td>786472991</td>
+  </tr>
+  <tr>
+    <td>SIF</td>
+    <td><a href="https://datasets.datalad.org/shub/maflister/surpi/1.0.18/2018-04-03-9cb8e657-b350c933/b350c93379dce4a6d67d299a368b8a18.simg">Download URL (please use pull with shub://)</td>
+  </tr>
+  <tr>
+    <td>Datalad URL</td>
+    <td><a href="https://datasets.datalad.org?dir=/shub/maflister/surpi/1.0.18/2018-04-03-9cb8e657-b350c933/">View on Datalad</td>
+  </tr>
+  <tr>
+    <td>Singularity Recipe</td>
+    <td><a href="https://datasets.datalad.org/shub/maflister/surpi/1.0.18/2018-04-03-9cb8e657-b350c933/Singularity">Singularity Recipe on Datalad</td>
+  </tr>
+</tbody>
+</table>
+  
+<small>We cannot guarantee that all containers will still exist on GitHub.</small>
+
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<script>
+$(document).ready(function() {
+
+    var toc = $('#TOC');
+
+    // Select each header
+    sections = $('.td-content h1');
+        $.each(sections, function(idx, v) {
+            section = $(v);
+            var div_id = $(section).attr('id');
+            var div_text = section.text().split('¶')[0];
+            var parent = $("#" + div_id)
+            var content = '<li id="link_' + div_id + '" class="md-nav__item"><a class="md-nav__link" href="#' + div_id + '" title="' + div_text +'">' + div_text +'</a></li>';
+            $(toc).append(content);
+
+            // Add section code to subnavigation
+            var children = $('<nav class="md-nav"><ul class="md-nav__list"></nav></ul>')
+            var contenders = $("#" + div_id).nextUntil("h1");
+            $.each(contenders, function(idx, contender){
+               if($(contender).is('h2') || $(contender).is('h3')) {
+                   var contender_id = $(contender).attr('id');
+                   var contender_text = $(contender).text().split('¶')[0];
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   children.append(content);
+                }
+             })
+             $("#link_" + div_id).append(children);
+        });
+    });
+</script>
+
+<script>
+var headers = ["h1", "h2", "h3", "h4"]
+var colors = ["red", "orange", "green", "blue"]
+
+$.each(headers, function(i, header){
+    var color = colors[i];
+    $(header).each(function () {
+        var href=$(this).attr("id");
+        $(this).append('<a class="headerlink" style="color:' + color + '" href="#' + href + '" title="Permanent link">¶</a>')
+    });
+})
+</script>
+
+<script>
+$('h1').first().append('<div><span style="font-size:12px" class="badge badge-danger"><a style="cursor:pointer; color:white" href="https://singularityhub.github.io/singularityhub-archive/tags#1.0.18 ">1.0.18</a></span></div>')</script>
+
+	
+              
+              <style>
+  .feedback--answer {
+    display: inline-block;
+  }
+  .feedback--answer-no {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<h5 class="feedback--title">Feedback</h5>
+<p class="feedback--question">Was this page helpful?</p>
+<button class="feedback--answer feedback--answer-yes">Yes</button>
+<button class="feedback--answer feedback--answer-no">No</button>
+<p class="feedback--response feedback--response-yes">
+  Glad to hear it! Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<p class="feedback--response feedback--response-no">
+  Sorry to hear that. Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<script>
+  const yesButton = document.querySelector('.feedback--answer-yes');
+  const noButton = document.querySelector('.feedback--answer-no');
+  const yesResponse = document.querySelector('.feedback--response-yes');
+  const noResponse = document.querySelector('.feedback--response-no');
+  const disableButtons = () => {
+    yesButton.disabled = true;
+    noButton.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof ga !== 'function') return;
+    const args = {
+      command: 'send',
+      hitType: 'event',
+      category: 'Helpful',
+      action: 'click',
+      label: window.location.pathname,
+      value: value
+    };
+    ga(args.command, args.hitType, args.category, args.action, args.label, args.value);
+  };
+  yesButton.addEventListener('click', () => {
+    yesResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  noButton.addEventListener('click', () => {
+    noResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script><br/>
+
+
+           </div>
+          </main>
+        </div>
+      </div>
+      <footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        <ul class="list-inline mb-0">  
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Twitter" data-original-title="Twitter">
+              <a class="text-white" target="_blank" href="https://twitter.com/vsoch">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="LinkedIn" data-original-title="LinkedIn">
+              <a class="text-white" target="_blank" href="https://linkedin.com/in/vsochat">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        <ul class="list-inline mb-0">  
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
+            <a class="text-white" target="_blank" href="https://github.com/singularityhub/singularityhub-archive">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small class="text-white">© 2021 Dinosaur Avocado All Rights Reserved</small>
+        
+        <p class="mt-2"><a href="/about/">About the Archive</a></p>	
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="/singularityhub-archive/assets/js/main.js"></script>
+
+  </body>
+</html>

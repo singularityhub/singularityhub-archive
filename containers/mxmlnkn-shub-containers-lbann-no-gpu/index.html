@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <!-- Copyright 2019-2021 Vanessa Sochat-->
+  <head>
+<meta charset="utf-8">
+<!-- Copyright 2019-2021 Vanessa Sochat-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.55.6" />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+<link rel="alternate" type="application/rss&#43;xml" href="/docs/index.xml">
+
+<link rel="shortcut icon" href="/singularityhub-archive/assets/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/singularityhub-archive/assets/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-96x196.png" sizes="96x196">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-192x192.png"sizes="192x192">
+
+<title>Mxmlnkn Shub Containers Lbann No Gpu</title>
+<meta property="og:title" content="Mxmlnkn Shub Containers Lbann No Gpu" />
+<meta property="og:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://singularityhub.github.io" />
+<meta property="og:site_name" content="https://singularityhub.github.io" />
+
+<meta itemprop="name" content="Mxmlnkn Shub Containers Lbann No Gpu">
+<meta itemprop="description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Mxmlnkn Shub Containers Lbann No Gpu"/>
+<meta name="twitter:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+"/>
+
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/main.css">
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/palette.css">
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+</head>
+
+  
+
+  <body class="td-section">
+    <header>
+        <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/singularityhub-archive/">
+            <span class="navbar-logo"></span><img src="/singularityhub-archive/assets/img/logo.png" width="40px" style="padding-right:5px"><span class="text-uppercase font-weight-bold">Singularity Hub Archive</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="https://github.com/singularityhub/singularityhub-archive" target="_blank"><span>GitHub</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/about" ><span>About</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/docs" ><span>Documentation</span></a>
+			</li>
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+ <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+        </div>
+
+	<div class="navbar-nav d-none d-lg-block">
+          <a class="gh-source" data-gh-source="github" href="https://github.com/singularityhub/singularityhub-archive" title="Go to repository" data-md-state="done">
+          <div class="gh-source__repository">
+            <i class="fab fa fa-github fa-2x" style='padding-right:20px; float:left; margin-top:5px'></i>
+            singularityhub/singularityhub-archive
+          <ul class="gh-source__facts"><li class="gh-source__fact" id='stars'></li><li id="forks" class="gh-source__fact"></li></ul></div></a>
+        </div>
+      </div>
+
+
+</nav>
+</header>
+
+<script>
+$(document).ready(function() {
+  var url = "https://api.github.com/search/repositories?q=singularityhub/singularityhub-archive";
+  fetch(url, { 
+      headers: {"Accept":"application/vnd.github.preview"}
+  }).then(function(e) {
+    return e.json()
+  }).then(function(r) {
+     console.log(r.items[0])
+     stars = r.items[0]['stargazers_count']
+     forks = r.items[0]['forks_count']
+     $('#stars').text(stars + " Stars")
+     $('#forks').text(forks + " Forks")
+  });
+});
+</script>
+
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+          <div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+      <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      </button>
+  </form>  
+  
+  <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="/singularityhub-archive/docs" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Documentation</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="documentation">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Collections
+                    </a>
+                  </li>
+                  
+                    <ul>
+                      <li class="collapse show" id="">
+                        
+                      </li>
+                    </ul>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/about
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">About
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/news
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">News
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/tags
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Tags
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">External</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="external">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Docs
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/lastday/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Gallery
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                http://datasets.datalad.org/?dir=/shub
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Datalad Site
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+  </nav>
+</div>
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+              <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+                  <a href="https://github.com/singularityhub/singularityhub-archive/edit/main/_containers/mxmlnkn-shub-containers-lbann-no-gpu.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new?labels=question&title=Question:&body=Question on: https://github.com/singularityhub/singularityhub-archive/tree/master/_containers/mxmlnkn-shub-containers-lbann-no-gpu.md" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Create project issue</a>
+<!-- this will parse through the header fields and add a button to open
+     an issue / ask a question on Github. The editable field should be in
+     the post frontend matter, and refer to the label to open the issue for -->
+
+              </div>
+              <nav id="TableOfContents"><ul>
+              <li><ul id="TOC">
+                <!-- Links will be appended here-->
+              </ul></li>
+              </ul></nav>
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	      <ol class="breadcrumb spb-1">
+              
+              
+                <li class="breadcrumb-item">
+                  <a href="https://singularityhub.github.io/singularityhub-archive/containers/">Containers</a>
+                </li>
+                
+                <li class="breadcrumb-item active" aria-current="page">
+	          <a href="https://singularityhub.github.io/singularityhub-archive/containers/mxmlnkn-shub-containers-lbann-no-gpu/">Mxmlnkn Shub Containers Lbann No Gpu</a>
+                </li>
+                
+	      </ol>
+           </nav>
+           <div class="td-content">
+	      <h1 id="mxmlnknshub-containerslbann-no-gpu">mxmlnkn/shub-containers:lbann-no-gpu</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>singularity pull shub://mxmlnkn/shub-containers:lbann-no-gpu
+</code></pre></div></div>
+
+<h2 id="singularity-recipe">Singularity Recipe</h2>
+
+<pre><code class="language-singularity">Bootstrap: docker
+From: debian:buster-slim
+
+%environment
+    # elevating this to /bin/bash is not possible. Therefore should on ubuntu also be runnable in /bin/dash -.-
+
+    PREFIX='/opt/lbann'
+
+    exportPath()
+    {
+        if test -d "$2"; then
+            export "$1"="$2"
+            printf "\e[37mExported existing path '$2' into environment variable '$1'\e[0m\n"
+        else
+            printf "\e[31m[Warning] '$2' is not a directory. Won't export it\e[0m\n"
+        fi
+    }
+
+    add2path()
+    {
+        targetVar=PATH
+        if test "$#" -gt 1; then
+            targetVar=$1
+            shift 1
+        fi
+        targetContent=$( eval echo \$$targetVar )
+        oldContent=$targetContent
+
+        while test "$#" -gt 0; do
+            if test -d "$1"; then
+                case ":$targetContent:" in
+                    *:"$1":*)
+                    printf "\e[37m[Info] Path '$1' already exists in \$$targetVar. Won't add it.\e[0m\n"
+                    ;;
+                    *)
+                    targetContent=$1:$targetContent
+                    ;;
+                esac
+            else
+                printf "\e[33m[Warning] '$1' is not a directory. Won't append to \$$targetVar variable.\e[0m\n"
+            fi
+            shift 1
+        done
+
+        if test "${#targetContent}" -gt "${#oldContent}"; then
+            export $targetVar=$targetContent
+            printf "\e[37mExporting new \$$targetVar: $targetContent\e[0m\n"
+        elif test "${#targetContent}" -lt "${#oldContent}"; then
+            printf "\e[31m[Error] After adding paths, the variable is erroneously shorter (${#targetContent}) than before (${#oldContent})"'!'"\e[0m\n"
+        fi
+    }
+
+    exportPath CEREAL_DIR "$PREFIX/cereal"
+    exportPath CNPY_DIR "$PREFIX/cnpy"
+    exportPath CUB_DIR "$PREFIX"/cub-*/
+    exportPath HYDROGEN_DIR "$PREFIX/Elemental"
+
+    exportPath LBANN_DIR "$PREFIX/lbann"
+    if test -d "$LBANN_DIR"; then
+        add2path 'PATH' "$LBANN_DIR/bin"
+        add2path 'CMAKE_PREFIX_PATH' "$LBANN_DIR"
+        add2path 'LIBRARY_PATH' "$LBANN_DIR/lib"
+        add2path 'LD_LIBRARY_PATH' "$LBANN_DIR/lib"
+    fi
+
+    add2path 'CMAKE_PREFIX_PATH' "$OPENCV_DIR" "$HYDROGEN_DIR"
+
+%post
+    unzip(){ python -c "from zipfile import PyZipFile; PyZipFile( '''$1''' ).extractall()"; }
+
+    remoteExtract()
+    {
+        remoteExtract_ext="$( printf '%s' "$1" | sed 's/\?.*//; s/.*\.//; s|.*|\L&amp;|;' )"
+        remoteExtract_iTry=5
+        remoteExtract_wgetCmd='wget -q -O- --retry-connrefused --timeout=5 --tries=5 --waitretry=5 --read-timeout=20'
+
+        while test "$remoteExtract_iTry" -gt 0; do
+            remoteExtract_iTry=$(( remoteExtract_iTry - 1 ))
+
+            case "$remoteExtract_ext" in
+                tgz|gz) compression=--gzip ;;
+                xz) compression=--xz ;;
+                tbz2|bz2) compression=--bzip2 ;;
+            esac
+
+            if test "$remoteExtract_ext" = "zip"; then
+                remoteExtract_tmpFile="$( mktemp )" &amp;&amp;
+                $remoteExtract_wgetCmd "$1" &gt; "$remoteExtract_tmpFile" &amp;&amp;
+                unzip "$remoteExtract_tmpFile" &amp;&amp;
+                rm "$remoteExtract_tmpFile"
+            else
+                $remoteExtract_wgetCmd "$1" | tar -x $compression
+            fi &amp;&amp;
+            break
+        done
+    }
+
+    setupCub()
+    {
+        cd -- "$PREFIX" &amp;&amp;
+        if ! test -d cub-*; then
+            remoteExtract 'https://github.com/NVlabs/cub/archive/v1.8.0.tar.gz'
+        fi &amp;&amp;
+        cd -- cub-* &amp;&amp; export CUB_DIR="$( pwd )"
+    }
+
+    setupCereal()
+    {
+        export CEREAL_DIR="$PREFIX"/cereal &amp;&amp;
+        if ! test -d "$CEREAL_DIR"; then
+            cd -- "$PREFIX/src" &amp;&amp;
+            remoteExtract 'https://github.com/USCiLab/cereal/archive/v1.2.2.tar.gz' &amp;&amp;
+            cd cereal-* &amp;&amp; mkdir -p build &amp;&amp; cd build &amp;&amp;
+            cmake -Wno-dev -DCMAKE_INSTALL_PREFIX="$PREFIX"/cereal -DJUST_INSTALL_CEREAL=ON .. &amp;&amp;
+            make -j "$( nproc )" install
+        fi
+    }
+
+    setupCnpy()
+    {
+        export CNPY_DIR="$PREFIX"/cnpy &amp;&amp;
+        if ! test -d "$CNPY_DIR"; then
+            cd -- "$PREFIX/src" &amp;&amp; remoteExtract 'https://github.com/rogersce/cnpy/archive/4e8810b1a8637695171ed346ce68f6984e585ef4.zip' &amp;&amp;
+            cd -- cnpy-* &amp;&amp; mkdir -p build &amp;&amp; cd build &amp;&amp;
+            cmake -Wno-dev -DCMAKE_INSTALL_PREFIX="$CNPY_DIR" .. &amp;&amp; make -j "$( nproc )" install
+        fi
+    }
+
+    buildHydrogen()
+    {
+        # Needs at least CUDA 7.5 because it uses cuda_fp16.h even though Hydrogen_ENABLE_HALF=OFF Oo
+        # Need a commit higher than release 1.1.0 or else the version check when bulding LBANN will fail
+        cd -- "$PREFIX/src" &amp;&amp;
+        remoteExtract 'https://github.com/LLNL/Elemental/archive/6d4bc32515087ed7c8c1dd2687dd2cc771c139d3.zip' &amp;&amp;
+        cd Elemental-* &amp;&amp; mkdir -p build &amp;&amp; cd build &amp;&amp;
+        cmake -Wno-dev                               \
+              -DCMAKE_BUILD_TYPE=Release             \
+              -DCMAKE_INSTALL_PREFIX="$HYDROGEN_DIR" \
+              -DCMAKE_LIBRARY_PATH="$LIBRARY_PATH"   \
+              -DHydrogen_USE_64BIT_INTS=ON           \
+              -DHydrogen_ENABLE_OPENMP=ON            \
+              -DBUILD_SHARED_LIBS=ON                 \
+              -DHydrogen_ENABLE_ALUMINUM=OFF         \
+              .. &amp;&amp;
+        make -j "$( nproc )" VERBOSE=1 install
+    }
+
+    buildOpenCV()
+    {
+        cd -- "$PREFIX/src" &amp;&amp; remoteExtract 'https://github.com/opencv/opencv/archive/3.4.3.tar.gz' &amp;&amp;
+        cd opencv-* &amp;&amp; mkdir -p build &amp;&amp; cd build &amp;&amp;
+        cmake -Wno-dev                                      \
+              -DCMAKE_BUILD_TYPE=Release                    \
+              -DCMAKE_INSTALL_PREFIX="$OPENCV_DIR"          \
+              -DWITH_JPEG=ON                                \
+              -DWITH_PNG=ON                                 \
+              -DWITH_TIFF=ON                                \
+              -DWITH_CUDA=OFF                               \
+              -DWITH_JASPER=OFF                             \
+              -DBUILD_SHARED_LIBS=ON                        \
+              -DBUILD_JAVA=OFF                              \
+              -DBUILD_opencv_calib3d=OFF                    \
+              -DBUILD_opencv_cuda=OFF                       \
+              -DBUILD_opencv_dnn=OFF                        \
+              -DBUILD_opencv_features2d=OFF                 \
+              -DBUILD_opencv_flann=OFF                      \
+              -DBUILD_opencv_java=OFF                       \
+              -DBUILD_opencv_java_bindings_generator=OFF    \
+              -DBUILD_opencv_python_bindings_generator=OFF  \
+              -DBUILD_opencv_ml=OFF                         \
+              -DBUILD_opencv_python2=OFF                    \
+              -DBUILD_opencv_python3=OFF                    \
+              -DBUILD_opencv_stitching=OFF                  \
+              -DBUILD_opencv_ts=OFF                         \
+              -DBUILD_opencv_superres=OFF                   \
+              -DBUILD_opencv_videoio=OFF                    \
+              -DBUILD_opencv_videostab=OFF                  \
+              .. &amp;&amp;
+        make -j "$( nproc )" install
+    }
+
+    buildLBANN()
+    {
+        fixLibZBug()
+        {
+            find . -type f -execdir  bash -c '
+                if grep "g++.*libcnpy\.so" "$0" | grep -q -v " -lz"; then
+                    sed -i -r "/g\+\+ .*libcnpy\.so( |$)/{ s:(libcnpy\.so |$):\1-lz : }" "$0";
+                fi' {} \;
+        }
+
+        # 0.98.1 does not work for me because it hangs: https://github.com/LLNL/lbann/issues/914
+        cd -- "$PREFIX/src" &amp;&amp; remoteExtract 'https://github.com/LLNL/lbann/archive/10b84da933a7b62e63120c6f9067df17cd9ba5f3.zip' &amp;&amp;
+        cd lbann-* &amp;&amp; mkdir -p build &amp;&amp; cd build &amp;&amp;
+        cmake -Wno-dev                               \
+              -DCMAKE_BUILD_TYPE=Release             \
+              -DCMAKE_INSTALL_PREFIX="$PREFIX"/lbann \
+              -DCMAKE_LIBRARY_PATH="$LIBRARY_PATH"   \
+              -DHydrogen_DIR="$HYDROGEN_DIR"         \
+              -DLBANN_WITH_ALUMINUM:BOOL=OFF         \
+              -DLBANN_USE_PROTOBUF_MODULE=$( if test -f "$PROTOBUF_ROOT/lib/cmake/protobuf/protobuf-config.cmake"; then echo OFF; else echo ON; fi )  .. &amp;&amp;
+        fixLibZBug &amp;&amp; make -j 2 VERBOSE=1 install
+        # only building with -j 2 instead of -j 4 because some VMs don't seem to have enough memory to run for compilations in parallel ...
+    }
+
+    apt-get -y update &amp;&amp;
+    apt-get -y install --no-install-recommends \
+        findutils sed grep coreutils ca-certificates tar wget cmake gcc g++ gfortran python make \
+        zlib1g-dev libopenblas-dev libopenmpi-dev libprotobuf-dev protobuf-compiler liblapack-dev \
+        zlib1g libopenblas-base libopenmpi3 libprotobuf17 liblapack3 libgfortran5 libstdc++6 libc6
+
+    PREFIX='/opt/lbann'
+
+    mkdir -p -- "$PREFIX/src"
+
+    setupCub
+    setupCereal
+    setupCnpy
+
+    HYDROGEN_DIR="$PREFIX/Elemental" &amp;&amp;
+    buildHydrogen &amp;&amp;
+    export CMAKE_PREFIX_PATH="$HYDROGEN_DIR:$CMAKE_PREFIX_PATH"
+
+    OPENCV_DIR="$PREFIX/opencv" &amp;&amp;
+    buildOpenCV &amp;&amp;
+    export CMAKE_PREFIX_PATH="$OPENCV_DIR:$CMAKE_PREFIX_PATH"
+
+    buildLBANN
+
+    # Clean up for smaller image size
+
+    apt-get -y purge \
+        wget cmake g++ python make \
+        zlib1g-dev libopenblas-dev libopenmpi-dev libprotobuf-dev protobuf-compiler liblapack-dev
+    apt-get -y autoremove
+    apt-get -y clean
+    rm -rf /var/lib/apt/lists/*
+    rm -rf "$PREFIX/src"
+
+%runscript
+    PREFIX='/opt/lbann'
+
+    "$PREFIX/lbann/bin/lbann2" "$@"
+</code></pre>
+
+<h2 id="collection">Collection</h2>
+
+<ul>
+  <li>Name: <a href="https://github.com/mxmlnkn/shub-containers">mxmlnkn/shub-containers</a></li>
+  <li>License: None</li>
+</ul>
+
+
+
+
+<br>
+<a class="btn btn-primary" href="https://datasets.datalad.org?dir=/shub/mxmlnkn/shub-containers/lbann-no-gpu/2019-03-06-cb4516bd-e0ce4be2/" target="_blank" type="button">View on Datalad</a>
+
+<h2>Metrics</h2>
+
+<table>
+<tr>
+  <th>key</th>
+  <th>value</th>
+</tr>
+<tbody>
+  <tr>
+    <td>id</td>
+    <td>/containers/mxmlnkn-shub-containers-lbann-no-gpu</td>
+  </tr>
+  <tr>
+    <td>collection name</td>
+    <td>mxmlnkn/shub-containers</td>
+  </tr>
+  <tr>
+    <td>branch</td>
+    <td>master</td>
+  </tr>
+  <tr>
+    <td>tag</td>
+    <td>lbann-no-gpu</td>
+  </tr>
+  <tr>
+    <td>commit</td>
+    <td>cb4516bd01d80733f7f7bdb65d4d99e6217d1a87</td>
+  </tr>
+  <tr>
+    <td>version (container hash)</td>
+    <td>e0ce4be23adc189e625d1a59f8c32a38</td>
+  </tr>
+  <tr>
+    <td>build date</td>
+    <td>2019-03-06T12:46:34.155Z</td>
+  </tr>
+  <tr>
+    <td>size (MB)</td>
+    <td>621</td>
+  </tr>
+  <tr>
+    <td>size (bytes)</td>
+    <td>208908319</td>
+  </tr>
+  <tr>
+    <td>SIF</td>
+    <td><a href="https://datasets.datalad.org/shub/mxmlnkn/shub-containers/lbann-no-gpu/2019-03-06-cb4516bd-e0ce4be2/e0ce4be23adc189e625d1a59f8c32a38.simg">Download URL (please use pull with shub://)</td>
+  </tr>
+  <tr>
+    <td>Datalad URL</td>
+    <td><a href="https://datasets.datalad.org?dir=/shub/mxmlnkn/shub-containers/lbann-no-gpu/2019-03-06-cb4516bd-e0ce4be2/">View on Datalad</td>
+  </tr>
+  <tr>
+    <td>Singularity Recipe</td>
+    <td><a href="https://datasets.datalad.org/shub/mxmlnkn/shub-containers/lbann-no-gpu/2019-03-06-cb4516bd-e0ce4be2/Singularity">Singularity Recipe on Datalad</td>
+  </tr>
+</tbody>
+</table>
+  
+<small>We cannot guarantee that all containers will still exist on GitHub.</small>
+
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<script>
+$(document).ready(function() {
+
+    var toc = $('#TOC');
+
+    // Select each header
+    sections = $('.td-content h1');
+        $.each(sections, function(idx, v) {
+            section = $(v);
+            var div_id = $(section).attr('id');
+            var div_text = section.text().split('¶')[0];
+            var parent = $("#" + div_id)
+            var content = '<li id="link_' + div_id + '" class="md-nav__item"><a class="md-nav__link" href="#' + div_id + '" title="' + div_text +'">' + div_text +'</a></li>';
+            $(toc).append(content);
+
+            // Add section code to subnavigation
+            var children = $('<nav class="md-nav"><ul class="md-nav__list"></nav></ul>')
+            var contenders = $("#" + div_id).nextUntil("h1");
+            $.each(contenders, function(idx, contender){
+               if($(contender).is('h2') || $(contender).is('h3')) {
+                   var contender_id = $(contender).attr('id');
+                   var contender_text = $(contender).text().split('¶')[0];
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   children.append(content);
+                }
+             })
+             $("#link_" + div_id).append(children);
+        });
+    });
+</script>
+
+<script>
+var headers = ["h1", "h2", "h3", "h4"]
+var colors = ["red", "orange", "green", "blue"]
+
+$.each(headers, function(i, header){
+    var color = colors[i];
+    $(header).each(function () {
+        var href=$(this).attr("id");
+        $(this).append('<a class="headerlink" style="color:' + color + '" href="#' + href + '" title="Permanent link">¶</a>')
+    });
+})
+</script>
+
+<script>
+$('h1').first().append('<div><span style="font-size:12px" class="badge badge-danger"><a style="cursor:pointer; color:white" href="https://singularityhub.github.io/singularityhub-archive/tags#lbann-no-gpu ">lbann-no-gpu</a></span></div>')</script>
+
+	
+              
+              <style>
+  .feedback--answer {
+    display: inline-block;
+  }
+  .feedback--answer-no {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<h5 class="feedback--title">Feedback</h5>
+<p class="feedback--question">Was this page helpful?</p>
+<button class="feedback--answer feedback--answer-yes">Yes</button>
+<button class="feedback--answer feedback--answer-no">No</button>
+<p class="feedback--response feedback--response-yes">
+  Glad to hear it! Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<p class="feedback--response feedback--response-no">
+  Sorry to hear that. Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<script>
+  const yesButton = document.querySelector('.feedback--answer-yes');
+  const noButton = document.querySelector('.feedback--answer-no');
+  const yesResponse = document.querySelector('.feedback--response-yes');
+  const noResponse = document.querySelector('.feedback--response-no');
+  const disableButtons = () => {
+    yesButton.disabled = true;
+    noButton.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof ga !== 'function') return;
+    const args = {
+      command: 'send',
+      hitType: 'event',
+      category: 'Helpful',
+      action: 'click',
+      label: window.location.pathname,
+      value: value
+    };
+    ga(args.command, args.hitType, args.category, args.action, args.label, args.value);
+  };
+  yesButton.addEventListener('click', () => {
+    yesResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  noButton.addEventListener('click', () => {
+    noResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script><br/>
+
+
+           </div>
+          </main>
+        </div>
+      </div>
+      <footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        <ul class="list-inline mb-0">  
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Twitter" data-original-title="Twitter">
+              <a class="text-white" target="_blank" href="https://twitter.com/vsoch">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="LinkedIn" data-original-title="LinkedIn">
+              <a class="text-white" target="_blank" href="https://linkedin.com/in/vsochat">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        <ul class="list-inline mb-0">  
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
+            <a class="text-white" target="_blank" href="https://github.com/singularityhub/singularityhub-archive">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small class="text-white">© 2021 Dinosaur Avocado All Rights Reserved</small>
+        
+        <p class="mt-2"><a href="/about/">About the Archive</a></p>	
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="/singularityhub-archive/assets/js/main.js"></script>
+
+  </body>
+</html>

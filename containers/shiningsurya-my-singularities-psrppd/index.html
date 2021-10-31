@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <!-- Copyright 2019-2021 Vanessa Sochat-->
+  <head>
+<meta charset="utf-8">
+<!-- Copyright 2019-2021 Vanessa Sochat-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.55.6" />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+<link rel="alternate" type="application/rss&#43;xml" href="/docs/index.xml">
+
+<link rel="shortcut icon" href="/singularityhub-archive/assets/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/singularityhub-archive/assets/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-96x196.png" sizes="96x196">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-192x192.png"sizes="192x192">
+
+<title>Shiningsurya My Singularities Psrppd</title>
+<meta property="og:title" content="Shiningsurya My Singularities Psrppd" />
+<meta property="og:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://singularityhub.github.io" />
+<meta property="og:site_name" content="https://singularityhub.github.io" />
+
+<meta itemprop="name" content="Shiningsurya My Singularities Psrppd">
+<meta itemprop="description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Shiningsurya My Singularities Psrppd"/>
+<meta name="twitter:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+"/>
+
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/main.css">
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/palette.css">
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+</head>
+
+  
+
+  <body class="td-section">
+    <header>
+        <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/singularityhub-archive/">
+            <span class="navbar-logo"></span><img src="/singularityhub-archive/assets/img/logo.png" width="40px" style="padding-right:5px"><span class="text-uppercase font-weight-bold">Singularity Hub Archive</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="https://github.com/singularityhub/singularityhub-archive" target="_blank"><span>GitHub</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/about" ><span>About</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/docs" ><span>Documentation</span></a>
+			</li>
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+ <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+        </div>
+
+	<div class="navbar-nav d-none d-lg-block">
+          <a class="gh-source" data-gh-source="github" href="https://github.com/singularityhub/singularityhub-archive" title="Go to repository" data-md-state="done">
+          <div class="gh-source__repository">
+            <i class="fab fa fa-github fa-2x" style='padding-right:20px; float:left; margin-top:5px'></i>
+            singularityhub/singularityhub-archive
+          <ul class="gh-source__facts"><li class="gh-source__fact" id='stars'></li><li id="forks" class="gh-source__fact"></li></ul></div></a>
+        </div>
+      </div>
+
+
+</nav>
+</header>
+
+<script>
+$(document).ready(function() {
+  var url = "https://api.github.com/search/repositories?q=singularityhub/singularityhub-archive";
+  fetch(url, { 
+      headers: {"Accept":"application/vnd.github.preview"}
+  }).then(function(e) {
+    return e.json()
+  }).then(function(r) {
+     console.log(r.items[0])
+     stars = r.items[0]['stargazers_count']
+     forks = r.items[0]['forks_count']
+     $('#stars').text(stars + " Stars")
+     $('#forks').text(forks + " Forks")
+  });
+});
+</script>
+
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+          <div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+      <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      </button>
+  </form>  
+  
+  <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="/singularityhub-archive/docs" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Documentation</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="documentation">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Collections
+                    </a>
+                  </li>
+                  
+                    <ul>
+                      <li class="collapse show" id="">
+                        
+                      </li>
+                    </ul>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/about
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">About
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/news
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">News
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/tags
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Tags
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">External</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="external">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Docs
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/lastday/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Gallery
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                http://datasets.datalad.org/?dir=/shub
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Datalad Site
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+  </nav>
+</div>
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+              <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+                  <a href="https://github.com/singularityhub/singularityhub-archive/edit/main/_containers/shiningsurya-my-singularities-psrppd.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new?labels=question&title=Question:&body=Question on: https://github.com/singularityhub/singularityhub-archive/tree/master/_containers/shiningsurya-my-singularities-psrppd.md" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Create project issue</a>
+<!-- this will parse through the header fields and add a button to open
+     an issue / ask a question on Github. The editable field should be in
+     the post frontend matter, and refer to the label to open the issue for -->
+
+              </div>
+              <nav id="TableOfContents"><ul>
+              <li><ul id="TOC">
+                <!-- Links will be appended here-->
+              </ul></li>
+              </ul></nav>
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	      <ol class="breadcrumb spb-1">
+              
+              
+                <li class="breadcrumb-item">
+                  <a href="https://singularityhub.github.io/singularityhub-archive/containers/">Containers</a>
+                </li>
+                
+                <li class="breadcrumb-item active" aria-current="page">
+	          <a href="https://singularityhub.github.io/singularityhub-archive/containers/shiningsurya-my-singularities-psrppd/">Shiningsurya My Singularities Psrppd</a>
+                </li>
+                
+	      </ol>
+           </nav>
+           <div class="td-content">
+	      <h1 id="shiningsuryamy-singularitiespsrppd">shiningsurya/my-singularities:psrppd</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>singularity pull shub://shiningsurya/my-singularities:psrppd
+</code></pre></div></div>
+
+<h2 id="singularity-recipe">Singularity Recipe</h2>
+
+<pre><code class="language-singularity">Bootstrap:           library
+From:                ubuntu:20.04
+
+%setup
+
+%labels
+	Author             shiningsurya
+	Hosting            Github
+	Version            v0.0.1
+
+
+%help
+	This is a singularity container which installs three pulsar softwares. 
+	PRESTO, PSRCHIVE, and DSPSR and all its dependencies.
+
+
+%post
+	apt-get -y update 
+	apt-get -y install build-essential binutils-dev
+	apt-get -y install software-properties-common
+	apt-get -y install ftp wget curl dkms
+	apt-get -y install autoconf automake libtool autotools-dev
+	apt-get -y install pkg-config
+	add-apt-repository universe
+	add-apt-repository multiverse
+	apt-get -y update 
+	apt-get -y install csh tcsh
+	apt-get -y install make man mc mlocate lsof
+
+	# GNU compiler collections
+	apt-get -y install gcc g++ gfortran fort77 f2c
+	apt-get -y install libboost-all-dev
+
+	# other closely related stuff
+	apt-get -y install flex bison swig libbison-dev
+	apt-get -y install cmake m4
+	apt-get -y install hwloc libhwloc-dev
+	apt-get -y install gsl-bin libgsl-dev 
+
+	# X11
+	apt-get -y install libx11-dev libxext-dev libxext-doc
+	apt-get -y install default-jre default-jdk
+
+	# Qt5
+	apt-get -y install qt5-default 
+
+	# ssh numa nfs
+	apt-get -y install openssh-server numactl
+	apt-get -y install libssl-dev libsocket++-dev libsocket++1
+	apt-get -y install nfs-common
+
+	# essential libraries
+	apt-get -y install libblas64-dev liblapack64-dev liblapacke64-dev libxext-dev
+	apt-get -y install libeigen3-dev libxml2-dev libxml2-doc
+	apt-get -y install libopenblas-base libopenblas-dev
+	apt-get -y install libpng++-dev libpng-dev libpnglite-dev 
+	apt-get -y install libgsl-dev libgmp-dev
+	apt-get -y install libfftw3-bin libfftw3-dev
+	apt-get -y install libglib2.0-dev libglib2.0-bin libbsd-dev
+	apt-get -y install libreadline-dev 
+	apt-get -y install libhealpix-cxx-dev libhealpix-cxx2
+	apt-get -y install libyaml-cpp-dev
+
+	# unittest
+	# ghost
+	apt-get -y install libcppunit-dev libcppunit-subunit-dev
+	apt-get -y install ghostscript dvipng gv
+
+
+	# HDF5
+	apt-get -y install h5utils hdf5-helpers hdf5-tools hdfview
+	apt-get -y install libhdf5-dev libhdf5-serial-dev
+
+	# Lua
+	apt-get -y install liblua5.1-0 liblua5.1-0-dev liblua5.2-0 liblua5.2-dev liblua5.3-0 liblua5.3-dev
+
+	# MPI
+	apt-get -y install openmpi-bin libopenmpi-dev mpich libmpich-dev
+	apt-get -y install libhdf5-openmpi-dev libhdf5-mpich-dev
+
+	# PGPLOT-ing
+	# pdf 
+	# groff
+	apt-get -y install pgplot5
+	apt-get -y install libpoppler-dev libpoppler-glib-dev
+	apt-get -y install poppler-utils
+	apt-get -y install xterm imagemagick
+
+	# GNU plotting
+	# that silly interactive stuff
+	# apt-get -y install gnuplot 
+
+	# cfitsio
+	apt-get -y install libcfitsio-bin libcfitsio-dev libcfitsio-doc
+	# multitask
+	apt-get -y install tmux screen
+	# can not do anything without you
+	apt-get -y install rsync parallel
+
+	# misc
+	apt-get -y install htop
+	apt-get -y install cvs git subversion
+	apt-get -y install sed grep gawk
+	apt-get -y install vim emacs nano
+	apt-get -y install groff worker
+
+	# ldconfig
+	ldconfig
+
+	# python
+	apt-get -y install python cython python3
+	apt-get -y install python3-notebook jupyter jupyter-core 
+	apt-get -y install python3-numpy python3-numpydoc  python3-matplotlib python3-pip 
+
+	# pip my image
+	# installing pip via pip3 installs pip and I never got the hang
+	# of it
+	pip3 install -U setuptools datetime pytz bitstring
+	pip3 install -U numpy scipy pandas 
+	pip3 install -U matplotlib APLpy
+	pip3 install -U six h5py nose
+	pip3 install -U mpi4py schwimmbad joblib
+	pip3 install -U scikit-learn scikit-video scikit-image
+	pip3 install -U bokeh corner seaborn
+	pip3 install -U paramz peakutils
+	pip3 install -U splinter tqdm
+	pip3 install -U emcee ChainConsumer
+	pip3 install -U setuptools_scm pep517 
+	
+	# astropy
+	pip3 install -U astropy astroplan astropy_helpers astroquery
+
+	# ipython
+	pip3 install -U ipython
+
+	# random?
+	pip3 install -U pyfits lmfit statsmodels 
+	pip3 install -U pyephem psrqpy
+
+	# sigpyproc
+	pip3 install -U git+https://github.com/FRBs/sigpyproc3
+
+	# update alternatives
+	update-alternatives --install /usr/bin/python python /usr/bin/python3.8 1
+	update-alternatives --install /usr/bin/python python /usr/bin/python2.7 2
+	update-alternatives --set python /usr/bin/python3.8
+
+	# ldconfig
+	ldconfig
+
+	#################################################################
+	######### GOING TO SOFTWARES
+	#################################################################
+	np=2
+
+	wget "http://www.atnf.csiro.au/people/pulsar/psrcat/downloads/psrcat_pkg.tar.gz"
+	git clone https://github.com/SixByNine/psrxml.git 
+	git clone https://github.com/SixByNine/sigproc.git 
+	#git clone https://github.com/ewanbarr/sigpyproc.git 
+	git clone https://github.com/nextgen-astrodata/DAL.git
+	git clone https://git.code.sf.net/p/psrchive/code psrchive 
+	git clone https://git.code.sf.net/p/dspsr/code dspsr 
+	git clone https://github.com/scottransom/presto.git 
+	git clone git://git.code.sf.net/p/psrdada/code psrdada
+	git clone https://github.com/straten/epsic.git
+	git clone https://github.com/scottransom/pyslalib.git
+
+
+	CTIME=`date`
+	echo "export CTIME=\"${CTIME}\"" &gt;&gt; $SINGULARITY_ENVIRONMENT
+	### and the process begins
+	tar xvzf psrcat_pkg.tar.gz 
+	cd psrcat_tar 
+	./makeit &amp;&amp; cp psrcat /usr/bin
+	cd ../
+
+	# this causes a weird linking error when building psrchive
+	#cd psrxml 
+	#autoreconf --install --warnings=none
+	#./configure
+	#make -j ${np}
+	#make install
+	#cd ../
+
+	cd sigproc &amp;&amp; ./bootstrap
+	./configure FC=gfortran F77=gfortran CC=gcc CXX=g++ --enable-shared CFLAGS=-fPIC FFLAGS=-fPIC
+	make -j ${np} &amp;&amp; make install &amp;&amp; make install
+	make install
+	cd ../
+
+	cd DAL
+	sed -i 's/2.7/3.7/' CMakeLists.txt
+	mkdir -p build &amp;&amp; cd build
+	cmake ..
+	make -j ${np} &amp;&amp; make install &amp;&amp; make install
+	make install
+	cd ../
+	cd ../
+
+	cd pyslalib
+	python setup.py install
+	cd ../
+
+	cd presto
+	P=${PWD}
+	cd src
+	make prep
+	sed -i "s/ifdef USEMMAP/if 1/" accel_utils.c
+	PRESTO=${P} PGPLOT_DIR=/usr/lib/pgplot5 make -j ${np} libpresto
+	PRESTO=${P} PGPLOT_DIR=/usr/lib/pgplot5 make -j ${np} binaries
+	PRESTO=${P} PGPLOT_DIR=/usr/lib/pgplot5 make mpi 
+	PRESTO=${P} PGPLOT_DIR=/usr/lib/pgplot5 make libsla.so
+	cd ../
+	#PRESTO=${P} PGPLOT_DIR=/usr/lib/pgplot5 python setup.py install
+	PRESTO=${P} PGPLOT_DIR=/usr/lib/pgplot5 pip3 install .
+	cd ../
+
+	cd epsic/src
+	./bootstrap
+	./configure 
+	make -j ${np} &amp;&amp; make install &amp;&amp; make install 
+	cd ../..
+
+	cd psrdada
+	./bootstrap
+	./configure --enable-shared 
+	make -j ${np} &amp;&amp; make install &amp;&amp; make install 
+	cd ../
+
+	cd psrchive
+	./bootstrap 
+	UI="/usr/include/x86_64-linux-gnu"
+	./configure PYTHON=/usr/bin/python3.8 F77=gfortran \
+  		--enable-shared --enable-static --with-eigen-include-dir=/usr/include/eigen3 \
+		CFLAGS="-fPIC -I/usr/include -I/usr/include/healpix_cxx " FFLAGS="-fPIC -I/usr/include -I/usr/include/healpix_cxx " CXXFLAGS="-fPIC -I/usr/include " \
+		LDFLAGS="-L/usr/lib/x86_64-linux-gnu/ -L/lib/x86_64-linux-gnu/ "
+	make -j ${np} &amp;&amp; make install &amp;&amp; make install 
+	make install
+	cd ../
+
+	cd dspsr
+	UI="/usr/include/x86_64-linux-gnu"
+	UL="/usr/lib/x86_64-linux-gnu"
+	./bootstrap
+	echo "apsr asp bcpm bpsr caspsr cpsr cpsr2 dummy dada fits kat lbadr lbadr64 lump lwa vdif gmrt puma2 sigproc ska1" &gt; backends.list
+	# ignore mpi because it needs "stdmpi.h,portable_mpi.h"
+	# ignore hdf5 because it can not link against libraries anyways
+	./configure PYTHON=/usr/bin/python3.8 F77=gfortran \
+		--enable-shared --enable-static \
+		CFLAGS="-fPIC -I/usr/include -I/usr/include/healpix_cxx" FFLAGS="-fPIC -I/usr/include" CXXFLAGS="-fPIC -I/usr/include -I/usr/include/healpix_cxx " \
+		LDFLAGS="-L/usr/lib/x86_64-linux-gnu/ -L/lib/x86_64-linux-gnu/"
+	make -j ${np} &amp;&amp; make install &amp;&amp; make install &amp;&amp; make clean
+	cd ../ 
+
+	#########################################################
+	# clean apt
+	apt-get clean
+
+%environment
+	export PRESTO=/presto
+	export PATH=${PATH}:${PRESTO}/bin
+	export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/lib:${PRESTO}/lib
+	export PYTHONPATH=${PYTHONPATH}:/usr/local/lib/python3.8/site-packages:/usr/local/lib/python3.8/dist-packages:${PRESTO}/python
+
+	# PGPLOT
+	export PGPLOT_DIR=/usr/lib/pgplot5
+	export PGPLOT_FONT=/usr/lib/pgplot5/grfont.dat
+	export PGPLOT_INCLUDES=/usr/include
+	export PGPLOT_BACKGROUND=white
+	export PGPLOT_FOREGROUND=black
+	export PGPLOT_DEV=/ps
+	
+	# alias
+	alias rm='rm -i'
+	alias cp='cp -i'
+	alias mv='mv -i'
+
+	# prompt
+	export PS1=" Singularity:::PsrPPD \u \w&gt; \n$ "
+
+
+%runscript
+	echo "-------------------------------------"
+	echo "--- PRESTO --- PSRCHIVE --- DSPSR ---"
+	echo "-------------------------------------"
+	echo " Name :  PsrPPD                      "
+	echo "This container was created $CTIME"
+</code></pre>
+
+<h2 id="collection">Collection</h2>
+
+<ul>
+  <li>Name: <a href="https://github.com/shiningsurya/my-singularities">shiningsurya/my-singularities</a></li>
+  <li>License: <a href="https://api.github.com/licenses/bsd-3-clause">BSD 3-Clause “New” or “Revised” License</a></li>
+</ul>
+
+
+
+
+<br>
+<a class="btn btn-primary" href="https://datasets.datalad.org?dir=/shub/shiningsurya/my-singularities/psrppd/2021-04-16-f56ae96e-7d6c08b0/" target="_blank" type="button">View on Datalad</a>
+
+<h2>Metrics</h2>
+
+<table>
+<tr>
+  <th>key</th>
+  <th>value</th>
+</tr>
+<tbody>
+  <tr>
+    <td>id</td>
+    <td>/containers/shiningsurya-my-singularities-psrppd</td>
+  </tr>
+  <tr>
+    <td>collection name</td>
+    <td>shiningsurya/my-singularities</td>
+  </tr>
+  <tr>
+    <td>branch</td>
+    <td>main</td>
+  </tr>
+  <tr>
+    <td>tag</td>
+    <td>psrppd</td>
+  </tr>
+  <tr>
+    <td>commit</td>
+    <td>f56ae96e484a0a8e5759e62af27088de4828a399</td>
+  </tr>
+  <tr>
+    <td>version (container hash)</td>
+    <td>7d6c08b0f5dc604dfd4ed7d28d700d00b5086ef5b5f8d4e0186057a4c1e4e5cb</td>
+  </tr>
+  <tr>
+    <td>build date</td>
+    <td>2021-04-16T08:55:09.577Z</td>
+  </tr>
+  <tr>
+    <td>size (MB)</td>
+    <td>1612.33203125</td>
+  </tr>
+  <tr>
+    <td>size (bytes)</td>
+    <td>1690652672</td>
+  </tr>
+  <tr>
+    <td>SIF</td>
+    <td><a href="https://datasets.datalad.org/shub/shiningsurya/my-singularities/psrppd/2021-04-16-f56ae96e-7d6c08b0/7d6c08b0f5dc604dfd4ed7d28d700d00b5086ef5b5f8d4e0186057a4c1e4e5cb.sif">Download URL (please use pull with shub://)</td>
+  </tr>
+  <tr>
+    <td>Datalad URL</td>
+    <td><a href="https://datasets.datalad.org?dir=/shub/shiningsurya/my-singularities/psrppd/2021-04-16-f56ae96e-7d6c08b0/">View on Datalad</td>
+  </tr>
+  <tr>
+    <td>Singularity Recipe</td>
+    <td><a href="https://datasets.datalad.org/shub/shiningsurya/my-singularities/psrppd/2021-04-16-f56ae96e-7d6c08b0/Singularity">Singularity Recipe on Datalad</td>
+  </tr>
+</tbody>
+</table>
+  
+<small>We cannot guarantee that all containers will still exist on GitHub.</small>
+
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<script>
+$(document).ready(function() {
+
+    var toc = $('#TOC');
+
+    // Select each header
+    sections = $('.td-content h1');
+        $.each(sections, function(idx, v) {
+            section = $(v);
+            var div_id = $(section).attr('id');
+            var div_text = section.text().split('¶')[0];
+            var parent = $("#" + div_id)
+            var content = '<li id="link_' + div_id + '" class="md-nav__item"><a class="md-nav__link" href="#' + div_id + '" title="' + div_text +'">' + div_text +'</a></li>';
+            $(toc).append(content);
+
+            // Add section code to subnavigation
+            var children = $('<nav class="md-nav"><ul class="md-nav__list"></nav></ul>')
+            var contenders = $("#" + div_id).nextUntil("h1");
+            $.each(contenders, function(idx, contender){
+               if($(contender).is('h2') || $(contender).is('h3')) {
+                   var contender_id = $(contender).attr('id');
+                   var contender_text = $(contender).text().split('¶')[0];
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   children.append(content);
+                }
+             })
+             $("#link_" + div_id).append(children);
+        });
+    });
+</script>
+
+<script>
+var headers = ["h1", "h2", "h3", "h4"]
+var colors = ["red", "orange", "green", "blue"]
+
+$.each(headers, function(i, header){
+    var color = colors[i];
+    $(header).each(function () {
+        var href=$(this).attr("id");
+        $(this).append('<a class="headerlink" style="color:' + color + '" href="#' + href + '" title="Permanent link">¶</a>')
+    });
+})
+</script>
+
+<script>
+$('h1').first().append('<div><span style="font-size:12px" class="badge badge-danger"><a style="cursor:pointer; color:white" href="https://singularityhub.github.io/singularityhub-archive/tags#psrppd ">psrppd</a></span></div>')</script>
+
+	
+              
+              <style>
+  .feedback--answer {
+    display: inline-block;
+  }
+  .feedback--answer-no {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<h5 class="feedback--title">Feedback</h5>
+<p class="feedback--question">Was this page helpful?</p>
+<button class="feedback--answer feedback--answer-yes">Yes</button>
+<button class="feedback--answer feedback--answer-no">No</button>
+<p class="feedback--response feedback--response-yes">
+  Glad to hear it! Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<p class="feedback--response feedback--response-no">
+  Sorry to hear that. Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<script>
+  const yesButton = document.querySelector('.feedback--answer-yes');
+  const noButton = document.querySelector('.feedback--answer-no');
+  const yesResponse = document.querySelector('.feedback--response-yes');
+  const noResponse = document.querySelector('.feedback--response-no');
+  const disableButtons = () => {
+    yesButton.disabled = true;
+    noButton.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof ga !== 'function') return;
+    const args = {
+      command: 'send',
+      hitType: 'event',
+      category: 'Helpful',
+      action: 'click',
+      label: window.location.pathname,
+      value: value
+    };
+    ga(args.command, args.hitType, args.category, args.action, args.label, args.value);
+  };
+  yesButton.addEventListener('click', () => {
+    yesResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  noButton.addEventListener('click', () => {
+    noResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script><br/>
+
+
+           </div>
+          </main>
+        </div>
+      </div>
+      <footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        <ul class="list-inline mb-0">  
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Twitter" data-original-title="Twitter">
+              <a class="text-white" target="_blank" href="https://twitter.com/vsoch">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="LinkedIn" data-original-title="LinkedIn">
+              <a class="text-white" target="_blank" href="https://linkedin.com/in/vsochat">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        <ul class="list-inline mb-0">  
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
+            <a class="text-white" target="_blank" href="https://github.com/singularityhub/singularityhub-archive">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small class="text-white">© 2021 Dinosaur Avocado All Rights Reserved</small>
+        
+        <p class="mt-2"><a href="/about/">About the Archive</a></p>	
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="/singularityhub-archive/assets/js/main.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <!-- Copyright 2019-2021 Vanessa Sochat-->
+  <head>
+<meta charset="utf-8">
+<!-- Copyright 2019-2021 Vanessa Sochat-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.55.6" />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+<link rel="alternate" type="application/rss&#43;xml" href="/docs/index.xml">
+
+<link rel="shortcut icon" href="/singularityhub-archive/assets/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/singularityhub-archive/assets/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-96x196.png" sizes="96x196">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-192x192.png"sizes="192x192">
+
+<title>Glass Consortium Glasstools Beta</title>
+<meta property="og:title" content="Glass Consortium Glasstools Beta" />
+<meta property="og:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://singularityhub.github.io" />
+<meta property="og:site_name" content="https://singularityhub.github.io" />
+
+<meta itemprop="name" content="Glass Consortium Glasstools Beta">
+<meta itemprop="description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Glass Consortium Glasstools Beta"/>
+<meta name="twitter:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+"/>
+
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/main.css">
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/palette.css">
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+</head>
+
+  
+
+  <body class="td-section">
+    <header>
+        <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/singularityhub-archive/">
+            <span class="navbar-logo"></span><img src="/singularityhub-archive/assets/img/logo.png" width="40px" style="padding-right:5px"><span class="text-uppercase font-weight-bold">Singularity Hub Archive</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="https://github.com/singularityhub/singularityhub-archive" target="_blank"><span>GitHub</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/about" ><span>About</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/docs" ><span>Documentation</span></a>
+			</li>
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+ <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+        </div>
+
+	<div class="navbar-nav d-none d-lg-block">
+          <a class="gh-source" data-gh-source="github" href="https://github.com/singularityhub/singularityhub-archive" title="Go to repository" data-md-state="done">
+          <div class="gh-source__repository">
+            <i class="fab fa fa-github fa-2x" style='padding-right:20px; float:left; margin-top:5px'></i>
+            singularityhub/singularityhub-archive
+          <ul class="gh-source__facts"><li class="gh-source__fact" id='stars'></li><li id="forks" class="gh-source__fact"></li></ul></div></a>
+        </div>
+      </div>
+
+
+</nav>
+</header>
+
+<script>
+$(document).ready(function() {
+  var url = "https://api.github.com/search/repositories?q=singularityhub/singularityhub-archive";
+  fetch(url, { 
+      headers: {"Accept":"application/vnd.github.preview"}
+  }).then(function(e) {
+    return e.json()
+  }).then(function(r) {
+     console.log(r.items[0])
+     stars = r.items[0]['stargazers_count']
+     forks = r.items[0]['forks_count']
+     $('#stars').text(stars + " Stars")
+     $('#forks').text(forks + " Forks")
+  });
+});
+</script>
+
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+          <div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+      <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      </button>
+  </form>  
+  
+  <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="/singularityhub-archive/docs" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Documentation</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="documentation">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Collections
+                    </a>
+                  </li>
+                  
+                    <ul>
+                      <li class="collapse show" id="">
+                        
+                      </li>
+                    </ul>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/about
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">About
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/news
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">News
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/tags
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Tags
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">External</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="external">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Docs
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/lastday/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Gallery
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                http://datasets.datalad.org/?dir=/shub
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Datalad Site
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+  </nav>
+</div>
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+              <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+                  <a href="https://github.com/singularityhub/singularityhub-archive/edit/main/_containers/glass-consortium-glasstools-beta.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new?labels=question&title=Question:&body=Question on: https://github.com/singularityhub/singularityhub-archive/tree/master/_containers/glass-consortium-glasstools-beta.md" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Create project issue</a>
+<!-- this will parse through the header fields and add a button to open
+     an issue / ask a question on Github. The editable field should be in
+     the post frontend matter, and refer to the label to open the issue for -->
+
+              </div>
+              <nav id="TableOfContents"><ul>
+              <li><ul id="TOC">
+                <!-- Links will be appended here-->
+              </ul></li>
+              </ul></nav>
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	      <ol class="breadcrumb spb-1">
+              
+              
+                <li class="breadcrumb-item">
+                  <a href="https://singularityhub.github.io/singularityhub-archive/containers/">Containers</a>
+                </li>
+                
+                <li class="breadcrumb-item active" aria-current="page">
+	          <a href="https://singularityhub.github.io/singularityhub-archive/containers/glass-consortium-glasstools-beta/">Glass Consortium Glasstools Beta</a>
+                </li>
+                
+	      </ol>
+           </nav>
+           <div class="td-content">
+	      <h1 id="glass-consortiumglasstoolsbeta">glass-consortium/glasstools:beta</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>singularity pull shub://glass-consortium/glasstools:beta
+</code></pre></div></div>
+
+<h2 id="singularity-recipe">Singularity Recipe</h2>
+
+<pre><code class="language-singularity">Bootstrap: docker
+From: ubuntu:16.04
+IncludeCmd: no
+
+%help
+  Visit https://docker.glass-consortium.org on getting started with GLASS workflows.
+
+%setup
+  umask 0022
+  rm -rf ${SINGULARITY_ROOTFS}/setup
+  mkdir -p ${SINGULARITY_ROOTFS}/setup
+  chmod 755 ${SINGULARITY_ROOTFS}/setup
+  cp -r setup ${SINGULARITY_ROOTFS}/
+
+%labels
+  Name glasstools:beta
+  Version v1.1.2s2
+  Maintainer Samir B. Amin, tweet: sbamin, web: https://sbamin.com
+  Description Singularity image to run GLASS consortium workflows
+  Website https://docker.glass-consortium.org
+  Sourcecode https://github.com/glass-consortium/glasstools
+  Issues https://github.com/glass-consortium/glassdocs/issues
+  License https://github.com/glass-consortium/glasstools/blob/master/LICENSE
+  Contact Roel Verhaak, tweet: roelverhaak, web: https://www.jax.org/verhaak-lab
+
+%environment
+
+  PATH=/opt/miniconda/bin:/opt/bin:/home/glass/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/prada/pyPRADA_1.2:/opt/freebayes/default/bin:/usr/lib/jvm/java/bin:/usr/lib/jvm/java/db/bin:/usr/lib/jvm/java/jre/bin"${PATH:+:$PATH}"
+  JAVA_HOME=/usr/lib/jvm/java
+  J2SDKDIR=/usr/lib/jvm/java
+  J2REDIR=/usr/lib/jvm/java/jre
+  JAVA_LD_LIBRARY_PATH=/usr/lib/jvm/java/jre/lib/amd64/server
+  JDK7=/opt/java/jdk7
+  JDK8=/opt/java/jdk8
+  TZ=Etc/UTC
+  LD_LIBRARY_PATH=/usr/lib/jvm/java/jre/lib/amd64/server"${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
+
+  export PATH JAVA_HOME J2SDKDIR J2REDIR JAVA_LD_LIBRARY_PATH JDK7 JDK8 TZ LD_LIBRARY_PATH
+
+%post
+  echo -e "\n#####\nSet Env\n#####\n"
+  chmod 755 /etc/profile
+  . /etc/profile
+  umask 0022
+
+  echo -e "\n#####\nUpdate startup script by adding mypathmunge function and user defined profile.d directory\n#####\n"
+  cat /setup/config/profile &gt;&gt;$SINGULARITY_ENVIRONMENT
+
+  export LC_ALL=en_US.UTF-8
+  export LANG=en_US.UTF-8
+  export R_VERSION="R-3.4.2"
+  export TZ=Etc/UTC
+  echo $TZ &gt;| /etc/timezone
+
+  export DEBIAN_FRONTEND=noninteractive
+  export DEBCONF_NONINTERACTIVE_SEEN=true
+
+  echo -e "\n#####\nInstall devtools\n#####\n"
+  apt-get update &amp;&amp; apt-get install --yes --no-install-recommends apt-utils \
+  build-essential python-software-properties \
+  python-setuptools sudo locales ca-certificates tzdata \
+  software-properties-common cmake libcurl4-openssl-dev wget curl \
+  gdebi tar zip unzip rsync screen nano vim dos2unix bc \
+  libxml2-dev libssl-dev dpkg-dev libx11-dev libxpm-dev libxft-dev \
+  libxext-dev libpng-dev libjpeg-dev binutils libncurses-dev zlib1g-dev libbz2-dev \
+  liblzma-dev ruby libarchive-zip-perl libdbd-mysql-perl libjson-perl gfortran libpcre3-dev
+
+  echo -e "\n#####\nInstall devtools\n#####\n"
+  add-apt-repository --yes ppa:git-core/ppa
+  apt-get update &amp;&amp; apt-get install --yes --no-install-recommends git
+
+  echo -e "\n#####\nSetup locale\n#####\n"
+  echo "en_US.UTF-8 UTF-8" &gt;&gt; /etc/locale.gen
+  locale-gen en_US.utf8
+  /usr/sbin/update-locale LANG=en_US.UTF-8
+
+  echo -e "\n#####\nSetup Timezone\n#####\n"
+  echo "TZ is $TZ"
+  rm -f /etc/localtime &amp;&amp; ln -snf /usr/share/zoneinfo/$TZ /etc/localtime
+  dpkg-reconfigure -f noninteractive tzdata
+
+  echo -e "\n#####\nSetup glassuser\n#####\n"
+  groupadd -g 712119 glass &amp;&amp; \
+  useradd -m -d /home/glass -s /bin/bash -c "GLASS Default User" -u 2119518 -g glass -G staff,sudo glassuser &amp;&amp; \
+  echo "%sudo  ALL=(ALL) NOPASSWD:ALL" | (EDITOR="tee -a" visudo)
+
+  echo -e "\n#####\nInstall Conda\n#####\n"
+  mkdir -p /opt/bin &amp;&amp; \
+  wget --no-check-certificate https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh -O /opt/miniconda.sh &amp;&amp; \
+  bash /opt/miniconda.sh -b -p /opt/miniconda -f &amp;&amp; \
+  rm -f /opt/miniconda.sh
+
+  echo -e "\n#####\nOverride system python with conda python\n#####\n"
+  PATH=/opt/miniconda/bin:/opt/bin:/home/glass/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+  export PATH
+
+  ## bugfix: https://stackoverflow.com/a/46498173/1243763 
+  conda update --yes conda &amp;&amp; conda update --yes python
+
+  conda config --add channels conda-forge &amp;&amp; \
+  conda config --add channels defaults &amp;&amp; \
+  conda config --add channels r &amp;&amp; \
+  conda config --add channels bioconda &amp;&amp; \
+  cp /root/.condarc /opt/miniconda/.condarc &amp;&amp; \
+  mkdir -p /etc/profile.d
+  chmod 755 /etc/profile.d
+
+  echo -e "\n#####\nCopy startup and git config\n#####\n"
+  chown -R root:glass /setup
+  rsync -avhP /setup/config/profile /etc/profile
+  chmod 755 /etc/profile
+  rsync -avhP /setup/config/.gitconfig /root/.gitconfig
+  rsync -avhP /setup/config/.gitconfig_glass /home/glass/.gitconfig
+  chown glassuser:glass /home/glass/.gitconfig
+
+  echo -e "\n#####\nSetup JDK8\n#####\n"
+  mkdir -p /opt/java
+  cd /opt/java
+  wget --no-check-certificate ftp://ftp.jax.org/verhaak/deps/jdk-8u151-linux-x64.tar.gz
+  tar xvzf jdk-8u151-linux-x64.tar.gz
+  ln -s jdk1.8.0_151 jdk8
+  rm -f jdk-8u151-linux-x64.tar.gz
+  cd /opt/java/jdk1.8.0_151/lib/amd64
+  ln -s ../../jre/lib/amd64/server ./server
+  mkdir -p /usr/lib/jvm
+  cd /usr/lib/jvm
+  ln -s /opt/java/jdk8 java
+
+  echo -e "\n#####\nSetup JDK7\n#####\n"
+  cd /opt/java
+  wget --no-check-certificate ftp://ftp.jax.org/verhaak/deps/jdk1.7.0_79.tar.gz
+  tar xvzf jdk1.7.0_79.tar.gz
+  ln -s jdk1.7.0_79 jdk7
+  rm -f jdk1.7.0_79.tar.gz
+
+  echo -e "\n#####\nPush jar files\n#####\n"
+  mkdir -p /opt/jars
+  cd /opt/jars
+  wget --no-check-certificate ftp://ftp.jax.org/verhaak/deps/picard.jar
+  wget --no-check-certificate ftp://ftp.jax.org/verhaak/deps/GenomeAnalysisTK.jar
+  wget --no-check-certificate ftp://ftp.jax.org/verhaak/deps/VarScan2.jar
+  wget --no-check-certificate ftp://ftp.jax.org/verhaak/deps/mutect-1.1.7.jar
+  chown -R root:glass /opt/jars
+  chmod 644 /opt/jars/*.jar
+
+  echo -e "\n#####\nSetup PRADA\n#####\n"
+  mkdir -p /opt/prada
+  cd /opt/prada
+  wget --no-check-certificate ftp://ftp.jax.org/verhaak/deps/pyPRADA_1.2.tar.gz
+  tar xvzf pyPRADA_1.2.tar.gz
+  chown -R root:glass pyPRADA_1.2
+  rm -f pyPRADA_1.2.tar.gz
+  cd /
+
+  echo -e "\n#####\nUpdate Env\n#####\n"
+  PATH=/opt/miniconda/bin:/opt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/lib/jvm/java/bin:/usr/lib/jvm/java/db/bin:/usr/lib/jvm/java/jre/bin"${PATH:+:$PATH}"
+
+  JAVA_HOME=/usr/lib/jvm/java
+  J2SDKDIR=/usr/lib/jvm/java
+  J2REDIR=/usr/lib/jvm/java/jre
+  JAVA_LD_LIBRARY_PATH=/usr/lib/jvm/java/jre/lib/amd64/server
+  JDK7=/opt/java/jdk7
+  JDK8=/opt/java/jdk8
+  
+  LD_LIBRARY_PATH=/usr/lib/jvm/java/jre/lib/amd64/server"${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
+
+  export PATH JAVA_HOME J2SDKDIR J2REDIR JAVA_LD_LIBRARY_PATH JDK7 JDK8 TZ LD_LIBRARY_PATH
+
+  echo -e "\n#####\nInstall R and other tools from conda\n#####\n"
+  conda install --yes r-base htslib samtools bcftools bwa bedtools bamtools htseq pysam biopython
+
+  echo -e "\n#####\nInstall R packages\n#####\n"
+  Rscript -e 'install.packages(c("tidyverse", "git2r", "stringr", "devtools", "params", "flowr", "funr"), repos = c(CRAN="http://cran.rstudio.com"))'
+  
+  Rscript -e 'devtools::install_github("glass-consortium/ultraseq", subdir = "ultraseq", ref="master")'
+  
+  echo -e "\n#####\nInstall sequenza\n#####\n"  
+  Rscript -e "source('http://bioconductor.org/biocLite.R');biocLite('copynumber', suppressUpdates=TRUE)"
+
+  Rscript -e 'install.packages("sequenza", repos = c(CRAN="http://cran.rstudio.com"))'
+
+  wget --no-check-certificate -O /opt/bin/sequenza-utils.py ftp://ftp.jax.org/verhaak/deps/sequenza-utils.py
+  chmod 755 /opt/bin/sequenza-utils.py
+
+  echo -e "\n#####\nSetup flowr\n#####\n"
+  mkdir -p /root/bin
+  Rscript -e 'library(flowr);setup()'
+
+  echo -e "\n#####\nTest flowr\n#####\n"
+  ln -s /opt/miniconda/lib/R/library/flowr/scripts/flowr /opt/bin/flowr
+  chmod 755 /opt/miniconda/lib/R/library/flowr/scripts/flowr
+  echo "Where is flowr command located?"
+  which flowr
+  flowr run x=sleep_pipe platform=local execute=TRUE
+  rm -f /root/Rplots.pdf /opt/Rplots.pdf
+
+  echo -e "\n#####\nInstall rjava package\n#####\n"
+  ln -s /opt/java/jdk8/jre/lib/amd64/server/libjvm.so /opt/miniconda/lib/
+  R CMD javareconf
+  conda install --yes r-rjava
+  cd /
+
+  echo -e "\n#####\nInstall STAR\n#####\n"
+  mkdir -p /opt/star
+  cd /opt/star
+  git clone https://github.com/alexdobin/STAR
+  cd STAR
+  git checkout 2.5.3a
+  rsync -avhP /opt/star/STAR/bin/Linux_x86_64_static/ /opt/bin/
+  cd /
+  rm -rf /opt/star
+
+  echo -e "\n#####\nInstall bamutil\n#####\n"
+  mkdir -p /opt/bamutil
+  cd /opt/bamutil
+  wget --no-check-certificate https://github.com/statgen/bamUtil/archive/v1.0.14.tar.gz &amp;&amp; \
+  tar xvzf v1.0.14.tar.gz
+  cd bamUtil-1.0.14
+  make cloneLib
+  make
+  rsync -avhP /opt/bamutil/bamUtil-1.0.14/bin/bam /opt/bin
+  cd /
+  rm -rf /opt/bamutil
+
+  echo -e "\n#####\nInstall freebayes\n#####\n"
+  mkdir -p /opt/freebayes
+  cd /opt/freebayes
+  mkdir -p fb_seqlib
+  mkdir -p fb_bamtools
+  git clone --recursive https://github.com/ekg/freebayes.git source
+  cd /opt/freebayes/source
+  make
+  cd /opt/freebayes
+  rm -rf source/vcflib/samples
+  rm -rf source/src
+  rm -rf source/bamtools
+  rm -rf source/.git
+  rm -rf source/vcflib/googletest
+  rm -rf source/vcflib/paper
+  rm -rf source/SeqLib/src
+  rm -rf source/SeqLib/htslib/test
+  rm -rf source/vcflib/tabixpp/htslib/test
+  rsync -avhP source/ fb_seqlib/
+  ln -s fb_seqlib default
+  rm -rf source
+  cd fb_seqlib
+  chmod 755 scripts/sam_add_rg.pl
+  rsync -avhP scripts/ bin/
+  cd /
+
+  echo -e "\n#####\nSetup Disk Mounts\n#####\n"
+  mkdir -p /mnt/scratch/refdata &amp;&amp; \
+  mkdir -p /mnt/scratch/logs &amp;&amp; \
+  mkdir -p /mnt/glasscore &amp;&amp; \
+  mkdir -p /mnt/glasscore/configs/bin &amp;&amp; \
+  mkdir -p /mnt/glasscore/configs/profile.d &amp;&amp; \
+  mkdir -p /mnt/glasscore/configs/extapps &amp;&amp; \
+  mkdir -p /mnt/glasscore/configs/extapps/Rpkgs &amp;&amp; \
+  mkdir -p /mnt/glasscore/workflows &amp;&amp; \
+  mkdir -p /mnt/glassdata/tmp &amp;&amp; \
+  mkdir -p /mnt/glassdata/flowr &amp;&amp; \
+  chown -R glassuser:glass /mnt/scratch &amp;&amp; \
+  chown -R glassuser:glass /mnt/glasscore &amp;&amp; \
+  chown -R glassuser:glass /mnt/glassdata &amp;&amp; \
+  chmod -R 775 /mnt/scratch &amp;&amp; \
+  chmod -R 775 /mnt/glasscore &amp;&amp; \
+  chmod -R 775 /mnt/glassdata
+
+  echo -e "\n#####\nSetup bashrc\n#####\n"
+  rsync -avhP /setup/config/root.bashrc /root/.bashrc &amp;&amp; \
+  rsync -avhP /setup/config/glassuser.bashrc /home/glass/.bashrc &amp;&amp; \
+  chown root:root /root/.bashrc &amp;&amp; \
+  chown glassuser:glass /home/glass/.bashrc &amp;&amp; \
+  chmod 644 /root/.bashrc &amp;&amp; \
+  chmod 644 /home/glass/.bashrc
+
+  echo -e "\n#####\nCleanup\n#####\n"
+  rm -rf /setup
+  apt-get clean
+  rm -rf /var/lib/apt/lists/*
+  conda clean --yes --all
+
+##############################
+# R
+##############################
+
+%apprun R
+  exec R "$@"
+
+%apphelp R
+  Get to R prompt, e.g.,
+
+  singularity run --app R image_name.simg
+
+  Visit https://docker.glass-consortium.org on getting started with GLASS workflows.
+
+%apprun Rscript
+  exec Rscript "$@"
+
+%apphelp Rscript
+  Run R scripts from shell using Rscript, e.g.,
+
+  singularity run --app Rscript image_name.simg mycommands.R
+
+  Visit https://docker.glass-consortium.org on getting started with GLASS workflows.
+
+##############################
+# goglass
+##############################
+
+%apprun goglass
+  exec goglass "$@"
+
+%apphelp goglass
+  Run GLASS workflows from shell,e.g.,
+
+  export GLASSMOUNTS=/mnt/scratch/lab/sandbox/singularity_glasstools/recipes/build/glass_mounts
+
+  singularity run --app goglass \
+  -B "${GLASSMOUNTS}"/disk1/glasscore:/mnt/glasscore \
+  -B "${GLASSMOUNTS}"/disk1/scratch:/mnt/scratch \
+  -B "${GLASSMOUNTS}"/disk2/glassdata:/mnt/glassdata \
+  image_name.simg -m dna -t align -i fqs -s sample_barcode -f sample_mapping_table.tsv -d WES -n GO
+
+  PS: For current and valid command format for GLASS workflows,
+  visit https://docker.glass-consortium.org
+
+##############################
+# default command
+##############################
+
+%runscript
+  exec echo "Visit https://docker.glass-consortium.org on getting started with GLASS workflows"
+
+## END ##
+</code></pre>
+
+<h2 id="collection">Collection</h2>
+
+<ul>
+  <li>Name: <a href="https://github.com/glass-consortium/glasstools">glass-consortium/glasstools</a></li>
+  <li>License: None</li>
+</ul>
+
+
+
+
+<br>
+<a class="btn btn-primary" href="https://datasets.datalad.org?dir=/shub/glass-consortium/glasstools/beta/2019-11-10-402ecb7c-e3fcd575/" target="_blank" type="button">View on Datalad</a>
+
+<h2>Metrics</h2>
+
+<table>
+<tr>
+  <th>key</th>
+  <th>value</th>
+</tr>
+<tbody>
+  <tr>
+    <td>id</td>
+    <td>/containers/glass-consortium-glasstools-beta</td>
+  </tr>
+  <tr>
+    <td>collection name</td>
+    <td>glass-consortium/glasstools</td>
+  </tr>
+  <tr>
+    <td>branch</td>
+    <td>master</td>
+  </tr>
+  <tr>
+    <td>tag</td>
+    <td>beta</td>
+  </tr>
+  <tr>
+    <td>commit</td>
+    <td>402ecb7cf84072d58d5a98c340ef0c96661099a7</td>
+  </tr>
+  <tr>
+    <td>version (container hash)</td>
+    <td>e3fcd575b10b6869cbf9faa5d98acdb4</td>
+  </tr>
+  <tr>
+    <td>build date</td>
+    <td>2019-11-10T23:21:28.210Z</td>
+  </tr>
+  <tr>
+    <td>size (MB)</td>
+    <td>3629</td>
+  </tr>
+  <tr>
+    <td>size (bytes)</td>
+    <td>1390419999</td>
+  </tr>
+  <tr>
+    <td>SIF</td>
+    <td><a href="https://datasets.datalad.org/shub/glass-consortium/glasstools/beta/2019-11-10-402ecb7c-e3fcd575/e3fcd575b10b6869cbf9faa5d98acdb4.simg">Download URL (please use pull with shub://)</td>
+  </tr>
+  <tr>
+    <td>Datalad URL</td>
+    <td><a href="https://datasets.datalad.org?dir=/shub/glass-consortium/glasstools/beta/2019-11-10-402ecb7c-e3fcd575/">View on Datalad</td>
+  </tr>
+  <tr>
+    <td>Singularity Recipe</td>
+    <td><a href="https://datasets.datalad.org/shub/glass-consortium/glasstools/beta/2019-11-10-402ecb7c-e3fcd575/Singularity">Singularity Recipe on Datalad</td>
+  </tr>
+</tbody>
+</table>
+  
+<small>We cannot guarantee that all containers will still exist on GitHub.</small>
+
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<script>
+$(document).ready(function() {
+
+    var toc = $('#TOC');
+
+    // Select each header
+    sections = $('.td-content h1');
+        $.each(sections, function(idx, v) {
+            section = $(v);
+            var div_id = $(section).attr('id');
+            var div_text = section.text().split('¶')[0];
+            var parent = $("#" + div_id)
+            var content = '<li id="link_' + div_id + '" class="md-nav__item"><a class="md-nav__link" href="#' + div_id + '" title="' + div_text +'">' + div_text +'</a></li>';
+            $(toc).append(content);
+
+            // Add section code to subnavigation
+            var children = $('<nav class="md-nav"><ul class="md-nav__list"></nav></ul>')
+            var contenders = $("#" + div_id).nextUntil("h1");
+            $.each(contenders, function(idx, contender){
+               if($(contender).is('h2') || $(contender).is('h3')) {
+                   var contender_id = $(contender).attr('id');
+                   var contender_text = $(contender).text().split('¶')[0];
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   children.append(content);
+                }
+             })
+             $("#link_" + div_id).append(children);
+        });
+    });
+</script>
+
+<script>
+var headers = ["h1", "h2", "h3", "h4"]
+var colors = ["red", "orange", "green", "blue"]
+
+$.each(headers, function(i, header){
+    var color = colors[i];
+    $(header).each(function () {
+        var href=$(this).attr("id");
+        $(this).append('<a class="headerlink" style="color:' + color + '" href="#' + href + '" title="Permanent link">¶</a>')
+    });
+})
+</script>
+
+<script>
+$('h1').first().append('<div><span style="font-size:12px" class="badge badge-danger"><a style="cursor:pointer; color:white" href="https://singularityhub.github.io/singularityhub-archive/tags#beta ">beta</a></span></div>')</script>
+
+	
+              
+              <style>
+  .feedback--answer {
+    display: inline-block;
+  }
+  .feedback--answer-no {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<h5 class="feedback--title">Feedback</h5>
+<p class="feedback--question">Was this page helpful?</p>
+<button class="feedback--answer feedback--answer-yes">Yes</button>
+<button class="feedback--answer feedback--answer-no">No</button>
+<p class="feedback--response feedback--response-yes">
+  Glad to hear it! Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<p class="feedback--response feedback--response-no">
+  Sorry to hear that. Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<script>
+  const yesButton = document.querySelector('.feedback--answer-yes');
+  const noButton = document.querySelector('.feedback--answer-no');
+  const yesResponse = document.querySelector('.feedback--response-yes');
+  const noResponse = document.querySelector('.feedback--response-no');
+  const disableButtons = () => {
+    yesButton.disabled = true;
+    noButton.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof ga !== 'function') return;
+    const args = {
+      command: 'send',
+      hitType: 'event',
+      category: 'Helpful',
+      action: 'click',
+      label: window.location.pathname,
+      value: value
+    };
+    ga(args.command, args.hitType, args.category, args.action, args.label, args.value);
+  };
+  yesButton.addEventListener('click', () => {
+    yesResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  noButton.addEventListener('click', () => {
+    noResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script><br/>
+
+
+           </div>
+          </main>
+        </div>
+      </div>
+      <footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        <ul class="list-inline mb-0">  
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Twitter" data-original-title="Twitter">
+              <a class="text-white" target="_blank" href="https://twitter.com/vsoch">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="LinkedIn" data-original-title="LinkedIn">
+              <a class="text-white" target="_blank" href="https://linkedin.com/in/vsochat">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        <ul class="list-inline mb-0">  
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
+            <a class="text-white" target="_blank" href="https://github.com/singularityhub/singularityhub-archive">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small class="text-white">© 2021 Dinosaur Avocado All Rights Reserved</small>
+        
+        <p class="mt-2"><a href="/about/">About the Archive</a></p>	
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="/singularityhub-archive/assets/js/main.js"></script>
+
+  </body>
+</html>

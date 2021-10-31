@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <!-- Copyright 2019-2021 Vanessa Sochat-->
+  <head>
+<meta charset="utf-8">
+<!-- Copyright 2019-2021 Vanessa Sochat-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.55.6" />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+<link rel="alternate" type="application/rss&#43;xml" href="/docs/index.xml">
+
+<link rel="shortcut icon" href="/singularityhub-archive/assets/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/singularityhub-archive/assets/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-96x196.png" sizes="96x196">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-192x192.png"sizes="192x192">
+
+<title>Yeolab Eclip Dev Master</title>
+<meta property="og:title" content="Yeolab Eclip Dev Master" />
+<meta property="og:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://singularityhub.github.io" />
+<meta property="og:site_name" content="https://singularityhub.github.io" />
+
+<meta itemprop="name" content="Yeolab Eclip Dev Master">
+<meta itemprop="description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Yeolab Eclip Dev Master"/>
+<meta name="twitter:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+"/>
+
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/main.css">
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/palette.css">
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+</head>
+
+  
+
+  <body class="td-section">
+    <header>
+        <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/singularityhub-archive/">
+            <span class="navbar-logo"></span><img src="/singularityhub-archive/assets/img/logo.png" width="40px" style="padding-right:5px"><span class="text-uppercase font-weight-bold">Singularity Hub Archive</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="https://github.com/singularityhub/singularityhub-archive" target="_blank"><span>GitHub</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/about" ><span>About</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/docs" ><span>Documentation</span></a>
+			</li>
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+ <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+        </div>
+
+	<div class="navbar-nav d-none d-lg-block">
+          <a class="gh-source" data-gh-source="github" href="https://github.com/singularityhub/singularityhub-archive" title="Go to repository" data-md-state="done">
+          <div class="gh-source__repository">
+            <i class="fab fa fa-github fa-2x" style='padding-right:20px; float:left; margin-top:5px'></i>
+            singularityhub/singularityhub-archive
+          <ul class="gh-source__facts"><li class="gh-source__fact" id='stars'></li><li id="forks" class="gh-source__fact"></li></ul></div></a>
+        </div>
+      </div>
+
+
+</nav>
+</header>
+
+<script>
+$(document).ready(function() {
+  var url = "https://api.github.com/search/repositories?q=singularityhub/singularityhub-archive";
+  fetch(url, { 
+      headers: {"Accept":"application/vnd.github.preview"}
+  }).then(function(e) {
+    return e.json()
+  }).then(function(r) {
+     console.log(r.items[0])
+     stars = r.items[0]['stargazers_count']
+     forks = r.items[0]['forks_count']
+     $('#stars').text(stars + " Stars")
+     $('#forks').text(forks + " Forks")
+  });
+});
+</script>
+
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+          <div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+      <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      </button>
+  </form>  
+  
+  <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="/singularityhub-archive/docs" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Documentation</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="documentation">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Collections
+                    </a>
+                  </li>
+                  
+                    <ul>
+                      <li class="collapse show" id="">
+                        
+                      </li>
+                    </ul>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/about
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">About
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/news
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">News
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/tags
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Tags
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">External</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="external">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Docs
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/lastday/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Gallery
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                http://datasets.datalad.org/?dir=/shub
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Datalad Site
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+  </nav>
+</div>
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+              <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+                  <a href="https://github.com/singularityhub/singularityhub-archive/edit/main/_containers/YeoLab-eclip-dev-master.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new?labels=question&title=Question:&body=Question on: https://github.com/singularityhub/singularityhub-archive/tree/master/_containers/YeoLab-eclip-dev-master.md" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Create project issue</a>
+<!-- this will parse through the header fields and add a button to open
+     an issue / ask a question on Github. The editable field should be in
+     the post frontend matter, and refer to the label to open the issue for -->
+
+              </div>
+              <nav id="TableOfContents"><ul>
+              <li><ul id="TOC">
+                <!-- Links will be appended here-->
+              </ul></li>
+              </ul></nav>
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	      <ol class="breadcrumb spb-1">
+              
+              
+                <li class="breadcrumb-item">
+                  <a href="https://singularityhub.github.io/singularityhub-archive/containers/">Containers</a>
+                </li>
+                
+                <li class="breadcrumb-item active" aria-current="page">
+	          <a href="https://singularityhub.github.io/singularityhub-archive/containers/YeoLab-eclip-dev-master/">Yeolab Eclip Dev Master</a>
+                </li>
+                
+	      </ol>
+           </nav>
+           <div class="td-content">
+	      <h1 id="yeolabeclip-devmaster">YeoLab/eclip-dev:master</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>singularity pull shub://YeoLab/eclip-dev:master
+</code></pre></div></div>
+
+<h2 id="singularity-recipe">Singularity Recipe</h2>
+
+<pre><code class="language-singularity">BootStrap: docker
+From:  ubuntu:16.04
+
+  #############################################################################
+
+%setup
+
+  # initial setups from outside the container
+  # this is run from outside the container to start setting it up
+
+  echo "Looking in directory '$SINGULARITY_ROOTFS' for /bin/sh"
+  if [ ! -x "$SINGULARITY_ROOTFS/bin/sh" ]; then
+      echo "Hrmm, this container does not have /bin/sh installed..."
+      exit 1
+  fi
+
+  mkdir -p $SINGULARITY_ROOTFS/oasis/tscc/scratch
+  mkdir -p $SINGULARITY_ROOTFS/projects/ps-yeolab
+  mkdir -p $SINGULARITY_ROOTFS/projects/ps-yeolab3
+  mkdir -p $SINGULARITY_ROOTFS/projects/ps-scrm
+  mkdir -p $SINGULARITY_ROOTFS/oasis/projects/nsf
+
+  mkdir -p $SINGULARITY_ROOTFS/opt/torque
+  mkdir -p $SINGULARITY_ROOTFS/opt/sdsc/lib
+
+  mkdir -p $SINGULARITY_ROOTFS/media/mis
+
+  mkdir -p $SINGULARITY_ROOTFS/opt/members
+  mkdir -p $SINGULARITY_ROOTFS/opt/modules
+  mkdir -p $SINGULARITY_ROOTFS/opt/patches
+
+  # these are needed early for post section
+  cp -r ./members/* $SINGULARITY_ROOTFS/opt/members/
+  cp -r ./modules/* $SINGULARITY_ROOTFS/opt/modules/
+  cp -r ./patches/* $SINGULARITY_ROOTFS/opt/patches/
+
+  #############################################################################
+
+%post
+
+  # running post scriptlet
+  # this is run inside the container to install all necessary packages
+
+  set -x
+
+  ###########
+  # MINICONDA  # instead of having: From: continuumio/miniconda:4.3.11
+  # from https://hub.docker.com/r/continuumio/miniconda/~/dockerfile/
+
+  # ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
+
+  apt-get update --fix-missing
+  apt-get install -y wget bzip2 ca-certificates \
+    libglib2.0-0 libxext6 libsm6 libxrender1 \
+    git mercurial subversion
+
+  #echo 'export PATH=/opt/conda/bin:$PATH' &gt; /etc/profile.d/conda.sh
+  wget --quiet https://repo.continuum.io/miniconda/Miniconda2-4.3.14-Linux-x86_64.sh -O ~/miniconda.sh
+  /bin/bash ~/miniconda.sh -b -p /opt/conda
+  rm ~/miniconda.sh
+
+  #apt-get install -y curl grep sed dpkg
+  #TINI_VERSION=`curl https://github.com/krallin/tini/releases/latest | grep -o "/v.*\"" | sed 's:^..\(.*\).$:\1:'`
+  #curl -L "https://github.com/krallin/tini/releases/download/v${TINI_VERSION}/tini_${TINI_VERSION}.deb" &gt; tini.deb
+  #dpkg -i tini.deb
+  #rm tini.deb
+  #apt-get clean
+
+  #ENV PATH /opt/conda/bin:$PATH
+  #ENTRYPOINT [ "/usr/bin/tini", "--" ]
+  #CMD [ "/bin/bash" ]
+
+  ###########
+  # TOUCH-UPS
+
+  #rm $SINGULARITY_ROOTFS/opt/members/bin/bedToBigBed       # no longer there
+  ln -s -f /opt/modules/eclipdemux/demux /opt/modules/eclipdemux/eclipdemux
+  rm  /opt/modules/makebigwigfiles/bedSort
+  rm  /opt/modules/makebigwigfiles/bedGraphToBigWig
+
+  touch /opt/done_with_touchups
+
+  ########
+  # UBUNTU
+  apt-get -y update
+  apt-get -y install make gcc g++ zlib1g-dev libncurses5-dev nano unzip
+  # cleanup   x? M
+  apt-get clean
+
+  touch /opt/done_with_ubuntu
+
+  ##########
+  # SAMTOOLS
+  TARBZ2="samtools-1.3.1.tar.bz2"
+  wget https://github.com/samtools/samtools/releases/download/1.3.1/${TARBZ2} -P /opt
+  tar -C /opt -xjf /opt/${TARBZ2}
+  cd /opt/samtools-1.3.1
+  make
+  make prefix=/usr/local install
+  cd -
+  rm /opt/${TARBZ2}
+  rm -rf /opt/samtools-1.3.1
+
+  touch /opt/done_with_samtools
+
+
+
+  #########################
+  # CONDA CHANNELS PACKAGES
+  # this is required here as the environment section is not processed yet
+  PATH=/opt/conda/bin:$PATH
+  #export $PATH
+
+  # r-essentials
+  /opt/conda/bin/conda install --yes -c r r-base=3.3.2 r-essentials
+
+  touch /opt/done_with_r
+
+  # perl
+  /opt/conda/bin/conda install --yes -c bioconda \
+    perl-statistics-distributions=1.02 \
+    perl-statistics-r=0.34  perl-regexp-common=2016060801 perl-ipc-run=0.94
+
+  touch /opt/done_with_perl
+
+  # TODO: available from conda,
+  # TODO: but overridden by /opt/members/map/STAR until shub 2349 included
+  # -c liulab star=2.4.2a \
+  # -c bioconda star=2.5.2b \
+  /opt/conda/bin/conda install --yes -c bioconda \
+    star=2.5.2b \
+    bcftools=1.4.1 cutadapt=1.13 gffutils=0.8.7.1  \
+    bd2k-python-lib=1.14a1.dev37 bedtools=2.26.0 bx-python=0.7.3 emboss=6.5.7 \
+    ucsc-bedsort=332 ucsc-bedgraphtobigwig=332-0 ucsc-bedtobigbed=332-0
+  #### fastqc=0.11.5 kallisto=0.43.0 sailfish=0.10.1 subread=1.5.0.post3
+  #### htseq=0.7.2 pysam==0.11.2.1 pybedtools==0.7.9
+  # cleanup 600M
+  /opt/conda/bin/conda clean --index-cache --tarballs --packages --yes
+
+  touch /opt/done_with_conda_channels
+
+  ##############
+  # PIP PACKAGES
+  /opt/conda/bin/pip install pysam pybedtools htseq pyfaidx
+  /opt/conda/bin/pip install boto
+  ####pip install trackhub
+
+  # customized trackhub
+  # /opt/conda/bin/pip install https://github.com/gpratt/trackhub
+  /opt/conda/bin/pip install /opt/patches/trackhub/0.1.1
+
+  touch /opt/done_with_pip_packages
+
+  ##########
+  # PIP TOIL
+
+  # #pip install toil[cwl]
+  # #pip install toil[aws,mesos,azure,google,encryption,cwl]
+  # /opt/conda/bin/pip install toil[aws,azure,google,cwl]
+
+  #wget https://github.com/BD2KGenomics/toil/archive/releases/3.9.1.tar.gz --directory-prefix=/opt/
+  #tar --directory /opt/ -xzf /opt/3.9.1.tar.gz
+  #rm -f /opt/3.9.1.tar/gz
+  #rm -f /opt/toil-releases-3.9.1/src/toil/batchSystems/registry.py
+  #cp -f /opt/patches/toil_registry_fix/registry.py  /opt/toil-releases-3.9.1/src/toil/batchSystems/
+  #/opt/conda/bin/pip install -e /opt/toil-releases-3.9.1[aws,azure,google,cwl]
+
+  ###
+  /opt/conda/bin/pip install toil[aws,azure,google,cwl]
+  # torque patch
+  rm -f /opt/conda/lib/python2.7/site-packages/toil/batchSystems/registry.py
+  cp -f /opt/patches/toil_registry_fix/registry.py /opt/conda/lib/python2.7/site-packages/toil/batchSystems/
+  ###
+
+  touch /opt/done_with_pip_toil
+
+  #########################
+  # CONDA STANDARD PACKAGES
+  ###conda install --yes -c conda-forge nodejs=6.10.2
+  /opt/conda/bin/conda install --yes nodejs      #=4.4.1-1
+  /opt/conda/bin/conda install --yes yaml pyyaml future futures cython curl simplejson \
+    boto fabric requests s3transfer azure dill docutils psutil argcomplete \
+    tqdm=4.14.0 numpy=1.10.2 matplotlib=1.5.1 scipy=0.16.0 \
+    scikit-learn=0.17 pandas=0.18.1 seaborn statsmodels=0.6.1 pcre=8.39
+  # cleanup 100M
+  /opt/conda/bin/conda clean --index-cache --tarballs --packages --yes
+
+  touch /opt/done_with_conda_standard _packages
+
+  #########
+  # CLIPPER
+  #conda install --yes libgfortran==1                  # required for clipper!
+  # NOT wORKING AS THIS REMOVES libgfortran.so.3 WHICH IS NEEDED BY R
+  cp /opt/modules/eclipclipper/repo/libgfortran.so.1.0.0 /opt/conda/lib/
+  ln -s /opt/conda/lib/libgfortran.so.1.0.0 /opt/conda/lib/libgfortran.so.1
+  /opt/conda/bin/pip install -e /opt/modules/eclipclipper/repo
+  #ln -s /opt/conda/bin/clipper /opt/modules/eclipclipper/bin/eclipclipper
+  cp /opt/conda/bin/clipper /opt/conda/bin/eclipclipper
+
+  touch /opt/done_with_clipper
+
+
+  ##################################
+  # SECOND ATTEMPT AT PIP PYBEDTOOLS
+  ##################################
+  /opt/conda/bin/pip uninstall --yes pybedtools
+  /opt/conda/bin/pip install pybedtools
+
+
+  ########################
+  # CONDA EXPORT AND CLEAN
+  /opt/conda/bin/conda env export \
+    -n root &gt; /opt/condaenv_root_`date +%Y-%m-%d-%H-%M`.yaml
+  # cleanup 274 M
+  /opt/conda/bin/conda clean --index-cache --tarballs --packages --yes
+
+  touch /opt/done_with_conda_export_clean
+
+  set +x
+
+  #############################################################################
+
+%environment
+
+  if [ -z "$LD_LIBRARY_PATH" ]
+  then
+      LD_LIBRARY_PATH="/opt/conda/lib:/opt/patches/torque_usr_lib64:/opt/sdsc/lib"
+  else
+      LD_LIBRARY_PATH="/opt/conda/lib:/opt/patches/torque_usr_lib64:/opt/sdsc/lib:$LD_LIBRARY_PATH"
+  fi
+  export LD_LIBRARY_PATH
+
+  PATH="/opt/conda/bin:$PATH"
+  PATH="/opt/torque/bin:/opt/torque/sbin:$PATH"
+  PATH="/opt/wf:/opt/cwl:$PATH"
+
+  PATH="/opt/members/bin:$PATH"
+  PATH="/opt/members/analyse:$PATH"
+  PATH="/opt/members/normalize:$PATH"
+  PATH="/opt/members/normalizepy:$PATH"
+  PATH="/opt/members/annotate:$PATH"
+  PATH="/opt/members/map:$PATH"  # TODO: keep this for STAR2, but in there mv STAR to STAR_OUT
+  PATH="/opt/members/trim:$PATH"
+  PATH="/opt/members/update:$PATH"
+  PATH="/opt/members/eclipget:$PATH"
+  PATH="/opt/members/rclone:$PATH"
+
+  PATH="/opt/modules/eclipclipper/bin:$PATH"
+  PATH="/opt/modules/eclipdemux:$PATH"
+  PATH="/opt/modules/qcsummary:$PATH"
+  PATH="/opt/modules/fastqtools:$PATH"
+  PATH="/opt/modules/makebigwigfiles:$PATH"
+  PATH="/opt/modules/maketrackhubs:$PATH"
+
+  export PATH
+
+  export RCLONE_HOME=/opt/members/rclone
+  export RCLONE_CONFIG_GCLOUD_TYPE="google cloud storage"
+  export RCLONE_CONFIG_GCLOUD_CLIENT_ID=
+  export RCLONE_CONFIG_GCLOUD_CLIENT_SECRET=
+  export RCLONE_CONFIG_GCLOUD_PROJECT_NUMBER=207049422273
+  export RCLONE_CONFIG_GCLOUD_SERVICE_ACCOUNT_FILE=${RCLONE_HOME}/gcp_service_account_eliprefdownloader_Eclip-84f681496b46.json
+  export RCLONE_CONFIG_GCLOUD_OBJECT_ACL=publicRead
+  export RCLONE_CONFIG_GCLOUD_BUCKET_ACK=publicReadWrite
+
+
+  ECLIP_DOCUMENTATION="/opt/documentation"
+  export ECLIP_DOCUMENTATION
+
+  HOSTIP=$(hostname -i)
+  export HOSTIP
+
+  alias echopathtr='echo $PATH | tr ":" "\n"'
+  alias ll='ls -lhF'
+
+ ##############################################################################
+
+%labels
+
+  MAINTAINER adomissy@ucsd.edu
+  VERSION 0.1.5.99
+  BUILD_DATE $(date -Ihours)
+
+  #############################################################################
+
+%files
+
+  cwl                /opt/
+  wf                 /opt/
+  init               /opt/
+  documentation      /opt/
+  tests              /opt/
+
+  #############################################################################
+
+%runscript
+
+  # this will get copied to /.singularity.d/runscript indide the container
+  # which will run whenever the container is called as an executable
+
+  set -o errexit
+  set -o xtrace
+  #set -o pipefail
+  set -o nounset
+
+  IDATE=$(date -Iseconds)
+  # IDATE=$(date -Iseconds | tr "\:" "-" | tr "T" "+")
+
+  IMAGENAME=eclip_${IDATE}_${SINGULARITY_NAME}
+  mv ${SINGULARITY_NAME} ${IMAGENAME}
+  ln -sf ${IMAGENAME} eclip.img
+
+  cp /opt/patches/scripts/*    ./
+  mv ./ecliprc              ./.ecliprc
+
+  mkdir -p commands
+  mv eclip ./commands
+  cd commands
+  ln -sf eclip eclipcwltool
+  ln -sf eclip eclipcwltoil
+  ln -sf eclip eclipcwltorq
+  ln -sf eclip eclipgetreference
+  ln -sf eclip eclipgetdataset
+  ln -sf eclip eclipupdate
+  cd -
+
+  echo
+  echo ======================
+  echo please type:
+  echo
+  echo        source .ecliprc
+  echo
+  echo and enjoy eclip!
+  echo ======================
+  echo
+
+  #if [ $# -eq 0 ]
+  #then
+  #    /opt/wf/eclip
+  #else
+  #    $1
+  #fi
+
+###############################################################################
+%test
+
+  # this will be run once upon completion of container building
+  #/opt/test.sh
+</code></pre>
+
+<h2 id="collection">Collection</h2>
+
+<ul>
+  <li>Name: <a href="https://github.com/YeoLab/eclip-dev">YeoLab/eclip-dev</a></li>
+  <li>License: None</li>
+</ul>
+
+
+
+
+<br>
+<a class="btn btn-primary" href="https://datasets.datalad.org?dir=/shub/YeoLab/eclip-dev/master/2020-03-07-4e087665-f85a9b0a/" target="_blank" type="button">View on Datalad</a>
+
+<h2>Metrics</h2>
+
+<table>
+<tr>
+  <th>key</th>
+  <th>value</th>
+</tr>
+<tbody>
+  <tr>
+    <td>id</td>
+    <td>/containers/YeoLab-eclip-dev-master</td>
+  </tr>
+  <tr>
+    <td>collection name</td>
+    <td>YeoLab/eclip-dev</td>
+  </tr>
+  <tr>
+    <td>branch</td>
+    <td>master</td>
+  </tr>
+  <tr>
+    <td>tag</td>
+    <td>master</td>
+  </tr>
+  <tr>
+    <td>commit</td>
+    <td>4e087665c2cd9b90896c122b0e7e6030033d013a</td>
+  </tr>
+  <tr>
+    <td>version (container hash)</td>
+    <td>f85a9b0a45f3aaf02331cbefd8d5adac</td>
+  </tr>
+  <tr>
+    <td>build date</td>
+    <td>2020-03-07T05:40:26.440Z</td>
+  </tr>
+  <tr>
+    <td>size (MB)</td>
+    <td>7000</td>
+  </tr>
+  <tr>
+    <td>size (bytes)</td>
+    <td>1663173457</td>
+  </tr>
+  <tr>
+    <td>SIF</td>
+    <td><a href="https://datasets.datalad.org/shub/YeoLab/eclip-dev/master/2020-03-07-4e087665-f85a9b0a/f85a9b0a45f3aaf02331cbefd8d5adac.img.gz">Download URL (please use pull with shub://)</td>
+  </tr>
+  <tr>
+    <td>Datalad URL</td>
+    <td><a href="https://datasets.datalad.org?dir=/shub/YeoLab/eclip-dev/master/2020-03-07-4e087665-f85a9b0a/">View on Datalad</td>
+  </tr>
+  <tr>
+    <td>Singularity Recipe</td>
+    <td><a href="https://datasets.datalad.org/shub/YeoLab/eclip-dev/master/2020-03-07-4e087665-f85a9b0a/Singularity">Singularity Recipe on Datalad</td>
+  </tr>
+</tbody>
+</table>
+  
+<small>We cannot guarantee that all containers will still exist on GitHub.</small>
+
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<script>
+$(document).ready(function() {
+
+    var toc = $('#TOC');
+
+    // Select each header
+    sections = $('.td-content h1');
+        $.each(sections, function(idx, v) {
+            section = $(v);
+            var div_id = $(section).attr('id');
+            var div_text = section.text().split('¶')[0];
+            var parent = $("#" + div_id)
+            var content = '<li id="link_' + div_id + '" class="md-nav__item"><a class="md-nav__link" href="#' + div_id + '" title="' + div_text +'">' + div_text +'</a></li>';
+            $(toc).append(content);
+
+            // Add section code to subnavigation
+            var children = $('<nav class="md-nav"><ul class="md-nav__list"></nav></ul>')
+            var contenders = $("#" + div_id).nextUntil("h1");
+            $.each(contenders, function(idx, contender){
+               if($(contender).is('h2') || $(contender).is('h3')) {
+                   var contender_id = $(contender).attr('id');
+                   var contender_text = $(contender).text().split('¶')[0];
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   children.append(content);
+                }
+             })
+             $("#link_" + div_id).append(children);
+        });
+    });
+</script>
+
+<script>
+var headers = ["h1", "h2", "h3", "h4"]
+var colors = ["red", "orange", "green", "blue"]
+
+$.each(headers, function(i, header){
+    var color = colors[i];
+    $(header).each(function () {
+        var href=$(this).attr("id");
+        $(this).append('<a class="headerlink" style="color:' + color + '" href="#' + href + '" title="Permanent link">¶</a>')
+    });
+})
+</script>
+
+<script>
+$('h1').first().append('<div><span style="font-size:12px" class="badge badge-danger"><a style="cursor:pointer; color:white" href="https://singularityhub.github.io/singularityhub-archive/tags#master ">master</a></span></div>')</script>
+
+	
+              
+              <style>
+  .feedback--answer {
+    display: inline-block;
+  }
+  .feedback--answer-no {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<h5 class="feedback--title">Feedback</h5>
+<p class="feedback--question">Was this page helpful?</p>
+<button class="feedback--answer feedback--answer-yes">Yes</button>
+<button class="feedback--answer feedback--answer-no">No</button>
+<p class="feedback--response feedback--response-yes">
+  Glad to hear it! Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<p class="feedback--response feedback--response-no">
+  Sorry to hear that. Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<script>
+  const yesButton = document.querySelector('.feedback--answer-yes');
+  const noButton = document.querySelector('.feedback--answer-no');
+  const yesResponse = document.querySelector('.feedback--response-yes');
+  const noResponse = document.querySelector('.feedback--response-no');
+  const disableButtons = () => {
+    yesButton.disabled = true;
+    noButton.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof ga !== 'function') return;
+    const args = {
+      command: 'send',
+      hitType: 'event',
+      category: 'Helpful',
+      action: 'click',
+      label: window.location.pathname,
+      value: value
+    };
+    ga(args.command, args.hitType, args.category, args.action, args.label, args.value);
+  };
+  yesButton.addEventListener('click', () => {
+    yesResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  noButton.addEventListener('click', () => {
+    noResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script><br/>
+
+
+           </div>
+          </main>
+        </div>
+      </div>
+      <footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        <ul class="list-inline mb-0">  
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Twitter" data-original-title="Twitter">
+              <a class="text-white" target="_blank" href="https://twitter.com/vsoch">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="LinkedIn" data-original-title="LinkedIn">
+              <a class="text-white" target="_blank" href="https://linkedin.com/in/vsochat">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        <ul class="list-inline mb-0">  
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
+            <a class="text-white" target="_blank" href="https://github.com/singularityhub/singularityhub-archive">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small class="text-white">© 2021 Dinosaur Avocado All Rights Reserved</small>
+        
+        <p class="mt-2"><a href="/about/">About the Archive</a></p>	
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="/singularityhub-archive/assets/js/main.js"></script>
+
+  </body>
+</html>

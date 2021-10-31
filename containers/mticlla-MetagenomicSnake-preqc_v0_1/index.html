@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <!-- Copyright 2019-2021 Vanessa Sochat-->
+  <head>
+<meta charset="utf-8">
+<!-- Copyright 2019-2021 Vanessa Sochat-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.55.6" />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+<link rel="alternate" type="application/rss&#43;xml" href="/docs/index.xml">
+
+<link rel="shortcut icon" href="/singularityhub-archive/assets/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/singularityhub-archive/assets/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-96x196.png" sizes="96x196">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-192x192.png"sizes="192x192">
+
+<title>Mticlla Metagenomicsnake Preqc_v0_1</title>
+<meta property="og:title" content="Mticlla Metagenomicsnake Preqc_v0_1" />
+<meta property="og:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://singularityhub.github.io" />
+<meta property="og:site_name" content="https://singularityhub.github.io" />
+
+<meta itemprop="name" content="Mticlla Metagenomicsnake Preqc_v0_1">
+<meta itemprop="description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Mticlla Metagenomicsnake Preqc_v0_1"/>
+<meta name="twitter:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+"/>
+
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/main.css">
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/palette.css">
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+</head>
+
+  
+
+  <body class="td-section">
+    <header>
+        <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/singularityhub-archive/">
+            <span class="navbar-logo"></span><img src="/singularityhub-archive/assets/img/logo.png" width="40px" style="padding-right:5px"><span class="text-uppercase font-weight-bold">Singularity Hub Archive</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="https://github.com/singularityhub/singularityhub-archive" target="_blank"><span>GitHub</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/about" ><span>About</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/docs" ><span>Documentation</span></a>
+			</li>
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+ <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+        </div>
+
+	<div class="navbar-nav d-none d-lg-block">
+          <a class="gh-source" data-gh-source="github" href="https://github.com/singularityhub/singularityhub-archive" title="Go to repository" data-md-state="done">
+          <div class="gh-source__repository">
+            <i class="fab fa fa-github fa-2x" style='padding-right:20px; float:left; margin-top:5px'></i>
+            singularityhub/singularityhub-archive
+          <ul class="gh-source__facts"><li class="gh-source__fact" id='stars'></li><li id="forks" class="gh-source__fact"></li></ul></div></a>
+        </div>
+      </div>
+
+
+</nav>
+</header>
+
+<script>
+$(document).ready(function() {
+  var url = "https://api.github.com/search/repositories?q=singularityhub/singularityhub-archive";
+  fetch(url, { 
+      headers: {"Accept":"application/vnd.github.preview"}
+  }).then(function(e) {
+    return e.json()
+  }).then(function(r) {
+     console.log(r.items[0])
+     stars = r.items[0]['stargazers_count']
+     forks = r.items[0]['forks_count']
+     $('#stars').text(stars + " Stars")
+     $('#forks').text(forks + " Forks")
+  });
+});
+</script>
+
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+          <div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+      <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      </button>
+  </form>  
+  
+  <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="/singularityhub-archive/docs" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Documentation</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="documentation">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Collections
+                    </a>
+                  </li>
+                  
+                    <ul>
+                      <li class="collapse show" id="">
+                        
+                      </li>
+                    </ul>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/about
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">About
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/news
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">News
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/tags
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Tags
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">External</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="external">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Docs
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/lastday/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Gallery
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                http://datasets.datalad.org/?dir=/shub
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Datalad Site
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+  </nav>
+</div>
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+              <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+                  <a href="https://github.com/singularityhub/singularityhub-archive/edit/main/_containers/mticlla-MetagenomicSnake-preqc_v0_1.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new?labels=question&title=Question:&body=Question on: https://github.com/singularityhub/singularityhub-archive/tree/master/_containers/mticlla-MetagenomicSnake-preqc_v0_1.md" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Create project issue</a>
+<!-- this will parse through the header fields and add a button to open
+     an issue / ask a question on Github. The editable field should be in
+     the post frontend matter, and refer to the label to open the issue for -->
+
+              </div>
+              <nav id="TableOfContents"><ul>
+              <li><ul id="TOC">
+                <!-- Links will be appended here-->
+              </ul></li>
+              </ul></nav>
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	      <ol class="breadcrumb spb-1">
+              
+              
+                <li class="breadcrumb-item">
+                  <a href="https://singularityhub.github.io/singularityhub-archive/containers/">Containers</a>
+                </li>
+                
+                <li class="breadcrumb-item active" aria-current="page">
+	          <a href="https://singularityhub.github.io/singularityhub-archive/containers/mticlla-MetagenomicSnake-preqc_v0_1/">Mticlla Metagenomicsnake Preqc_v0_1</a>
+                </li>
+                
+	      </ol>
+           </nav>
+           <div class="td-content">
+	      <h1 id="mticllametagenomicsnakepreqc_v0_1">mticlla/MetagenomicSnake:preqc_v0_1</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>singularity pull shub://mticlla/MetagenomicSnake:preqc_v0_1
+</code></pre></div></div>
+
+<h2 id="singularity-recipe">Singularity Recipe</h2>
+
+<pre><code class="language-singularity"># Author(s): Monica R. Ticlla
+# Afiliation(s):
+#  - Swiss Institute of Bioinformatics (SIB)
+#  - Swiss Tropical and Public Health Institute (SwissTPH)
+#  - University of Basel (UNIBAS)
+
+Bootstrap: docker
+From: centos:7
+
+# ==============================================================================
+# Global Help
+# ==============================================================================
+%help
+This image contains software for quality control and preprocessing of sequencing
+data. It was built with CentOS 7 as base OS and Python 3.6. Although this is a
+companion container of the MetagenomicSnake workflow, it can also be used separately.
+
+Usage:
+- To list available Apps:
+singularity apps &lt;CONTAINER_PATH&gt;
+- To get help for a particular APP:
+singularity help --app &lt;APP_NAME&gt; &lt;CONTAINER_PATH&gt;
+- To run a particular APP:
+singularity run --app &lt;APP_NAME&gt; &lt;CONTAINER_PATH&gt;
+
+%labels
+# ==============================================================================
+# Labels
+# ==============================================================================
+  AUTHOR mticlla@gmail.com
+  MAINTAINER mticlla@gmail.com
+  BUILD_VERSION v0.1
+
+# ==============================================================================
+# Global Environment
+# ==============================================================================
+%environment
+  export LANG=en_US.UTF-8
+  export LANGUAGE=en_US:en
+  export LC_ALL=en_US.UTF-8
+
+# ==============================================================================
+# Global installation
+# ==============================================================================
+%post
+  # set environment variables for build time
+  echo "Setting environment variables for build time ..."
+  export LANG=en_US.UTF-8
+  export LANGUAGE=en_US:en
+  export LC_ALL=en_US.UTF-8
+
+  # Install core packages
+  yum -y update
+  echo "Installing development tools ..."
+  yum -y groupinstall "Development tools"
+  yum -y makecache
+  yum -y install unzip
+  yum -y install which
+  yum -y install hg
+  yum -y install gcc
+  yum -y install gcc-c++
+  yum -y install zlib-devel
+  yum -y install libstdc++-static
+  yum -y install wget
+  yum -y install bzip2
+  yum -y install git
+  yum -y install make
+  yum -y install nano
+  yum -y install perl
+
+  # Install Java
+  yum -y install java-1.8.0-openjdk-devel
+
+  # Install pigz
+  yum -y install pigz
+
+  # Install conda
+  curl -sSL -O https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  bash Miniconda3-latest-Linux-x86_64.sh -p /opt/miniconda3 -b
+  rm -fr Miniconda3-latest-Linux-x86_64.sh
+  export PATH=/opt/miniconda3/bin:$PATH
+  echo "export PATH=/opt/miniconda3/bin:\$PATH" &gt;&gt; $SINGULARITY_ENVIRONMENT
+  conda update --yes -n base conda
+  conda install --yes gcc_linux-64
+  conda install --yes gxx_linux-64
+  conda install --yes python==3.6
+
+%runscript
+  echo "This image has the following software installed:"
+  fastqc --version
+  echo "BBTools $(tail -n1 /scif/apps/BBTools/bbmap/README.md | cut -d' ' -f 2,3)"
+  multiqc --version
+  cutadapt --help| head -n1
+  fastp --version
+
+  echo -e "\nHow to use these programs?:"
+  echo "Example: singularity exec &lt;CONTAINER_PATH&gt; fastp --help"
+
+  echo -e "\nThese programs are also available as SCIF applications:"
+  ls /scif/apps | sort -u
+  echo -e "\nHow to use a SCIF APP?:"
+  echo "Example: singularity run --app FastQC &lt;CONTAINER_PATH&gt;\n"
+
+# ==============================================================================
+# SCIF Apps
+# ==============================================================================
+
+# FastQC
+# ==============================================================================
+%applabels FastQC
+  VERSION v0.11.8
+%appenv FastQC
+  FASTQC_VERSION='0.11.8'
+  export FASTQC_VERSION
+%appinstall FastQC
+  FASTQC_VERSION='0.11.8'
+  yum -y install java-1.8.0-openjdk-devel
+  wget https://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v${FASTQC_VERSION}.zip
+  unzip fastqc_v${FASTQC_VERSION}.zip
+  rm fastqc_v${FASTQC_VERSION}.zip
+  cd FastQC/
+  chmod 755 fastqc
+  ln -s /scif/apps/FastQC/FastQC/fastqc /usr/local/bin/fastqc
+%apphelp FastQC
+  From [FastQC website](http://www.bioinformatics.babraham.ac.uk/projects/fastqc):
+
+  FastQC aims to provide a simple way to do some quality control checks on raw
+  sequence data coming from high throughput sequencing pipelines. It provides a
+  modular set of analyses which you can use to give a quick impression of whether
+  your data has any problems of which you should be aware before doing any further
+  analysis.
+%apprun FastQC
+  exec fastqc "$@"
+%apptest FastQC
+  fastqc --version
+  if [ $? -ne 0 ] ; then
+    echo "FastQC installation failed!"
+  else
+    echo "FastQC installed successfully!"
+  fi
+
+# BBTools
+# ==============================================================================
+%applabels BBTools
+  VERSION v38.39
+%appenv BBTools
+  BBTOOLS_VERSION='38.39'
+  export BBTOOLS_VERSION
+  BBTOOLS=/scif/apps/BBTools/bbmap
+  export BBTOOLS
+%appinstall BBTools
+  BBTOOLS_VS='38.39'
+  yum -y install java-1.8.0-openjdk-devel
+  wget https://sourceforge.net/projects/bbmap/files/BBMap_${BBTOOLS_VS}.tar.gz
+  tar -xzf BBMap_${BBTOOLS_VS}.tar.gz
+  rm BBMap_${BBTOOLS_VS}.tar.gz
+  ln -s /scif/apps/BBTools/bbmap /scif/apps/BBTools/bin
+  echo "export PATH=/scif/apps/BBTools/bbmap:\$PATH" &gt;&gt; $SINGULARITY_ENVIRONMENT
+%apphelp BBTools
+  From [BBTools website](https://jgi.doe.gov/data-and-tools/bbtools/):
+
+  BBTools is a suite of fast, multithreaded bioinformatics tools designed for
+  analysis of DNA and RNA sequence data. BBTools can handle common sequencing
+  file formats such as fastq, fasta, sam, scarf, fasta+qual, compressed or raw,
+  with autodetection of quality encoding and interleaving. It is written in Java
+  and works on any platform supporting Java, including Linux, MacOS, and Microsoft
+  Windows and Linux; there are no dependencies other than Java (version 7 or higher).
+  Program descriptions and options are shown when running the shell scripts with
+  no parameters.
+
+  BBTools is open source and free for unlimited use, and is used regularly by
+  DOE JGI and other institutions around the world.
+
+  USAGE:
+  Once the container has been built, BBTools tools (e.g reformat.sh) can be used
+  in any of the following ways:
+  - Option 1:
+  singularity exec --app BBTools &lt;SINGULARITY_CONTAINER_PATH&gt; reformat.sh --help
+
+  - Option 2:
+  singularity exec &lt;SINGULARITY_CONTAINER_PATH&gt; reformat.sh --help
+
+  - Option 3 :from inside the container
+  reformat.sh --help
+%apprun BBTools
+  echo -e "
+  BBTools v${BBTOOLS_VERSION} is a suite of tools designed for analysis of DNA
+  and RNA sequence data.For help, run:
+  singularity help --app BBTools &lt;CONTAINER_PATH&gt;
+  "
+%apptest BBTools
+  export BBTOOLS=/scif/apps/BBTools/bbmap
+  ${BBTOOLS}/stats.sh in=${BBTOOLS}/resources/phix174_ill.ref.fa.gz
+  if [ $? -ne 0 ] ; then
+    echo "BBTools installation failed!"
+  else
+    echo "BBTools installed successfully!"
+  fi
+
+# MultiQC
+# ==============================================================================
+%appinstall MultiQC
+  export LANG=en_US.UTF-8
+  export LANGUAGE=en_US:en
+  export LC_ALL=en_US.UTF-8
+  export PATH=/opt/miniconda3/bin:$PATH
+  git clone https://github.com/ewels/MultiQC.git
+  cd MultiQC/
+  pip install setuptools
+  python setup.py install
+%apphelp MultiQC
+  From [MultiQC website](https://multiqc.info/docs/)
+
+  MultiQC is a reporting tool that parses summary statistics from results and log
+  files generated by other bioinformatics tools. MultiQC doesn't run other tools
+  for you - it's designed to be placed at the end of analysis pipelines or to be
+  run manually when you've finished running your tools.
+
+  When you launch MultiQC, it recursively searches through any provided file paths
+  and finds files that it recognizes. It parses relevant information from these
+  and generates a single stand-alone HTML report file. It also saves a directory
+  of data files with all parsed data for further downstream use.
+%apprun MultiQC
+  exec multiqc "$@"
+%apptest MultiQC
+  multiqc --version
+  if [ $? -ne 0 ] ; then
+    echo "MultiQC installation failed!"
+  else
+    echo "MultiQC installed successfully!"
+  fi
+
+# cutadapt
+# ==============================================================================
+%applabel cutadapt
+  VERSION v2.3
+%appinstall cutadapt
+  export PATH=/opt/miniconda3/bin:$PATH
+  pip install "cutadapt==2.3"
+%apphelp cutadapt
+  From [Cuatadapt website](https://cutadapt.readthedocs.io/en/stable/index.html)
+
+  Cutadapt finds and removes adapter sequences, primers, poly-A tails and other
+  types of unwanted sequence from your high-throughput sequencing reads.
+%apprun cutadapt
+  exec cutadapt "$@"
+%apptest cutadapt
+  cutadapt --help| head -n1
+  if [ $? -ne 0 ] ; then
+    echo "cutadapt installation failed!"
+  else
+    echo "cutadapt installed successfully!"
+  fi
+
+# fastp
+# ==============================================================================
+%appinstall fastp
+  git clone https://github.com/OpenGene/fastp.git
+  cd fastp
+  make
+  make install
+%apphelp fastp
+  From [fastp website](https://github.com/OpenGene/fastp)
+
+  A tool designed to provide fast all-in-one preprocessing for FastQ files.
+  This tool is developed in C++ with multithreading supported to afford high
+  performance.
+%apprun fastp
+  exec fastp "$@"
+%apptest fastp
+  fastp --version
+  if [ $? -ne 0 ] ; then
+    echo "fastp installation failed!"
+  else
+    echo "fastp installed successfully!"
+  fi
+</code></pre>
+
+<h2 id="collection">Collection</h2>
+
+<ul>
+  <li>Name: <a href="https://github.com/mticlla/MetagenomicSnake">mticlla/MetagenomicSnake</a></li>
+  <li>License: None</li>
+</ul>
+
+
+
+
+<br>
+<a class="btn btn-primary" href="https://datasets.datalad.org?dir=/shub/mticlla/MetagenomicSnake/preqc_v0_1/2021-02-03-17e16c0b-df60be93/" target="_blank" type="button">View on Datalad</a>
+
+<h2>Metrics</h2>
+
+<table>
+<tr>
+  <th>key</th>
+  <th>value</th>
+</tr>
+<tbody>
+  <tr>
+    <td>id</td>
+    <td>/containers/mticlla-MetagenomicSnake-preqc_v0_1</td>
+  </tr>
+  <tr>
+    <td>collection name</td>
+    <td>mticlla/MetagenomicSnake</td>
+  </tr>
+  <tr>
+    <td>branch</td>
+    <td>master</td>
+  </tr>
+  <tr>
+    <td>tag</td>
+    <td>preqc_v0_1</td>
+  </tr>
+  <tr>
+    <td>commit</td>
+    <td>17e16c0bc368a90cc4ba7ff48936e98e48011b53</td>
+  </tr>
+  <tr>
+    <td>version (container hash)</td>
+    <td>df60be93049594cb84c1b815595f2ac4</td>
+  </tr>
+  <tr>
+    <td>build date</td>
+    <td>2021-02-03T10:46:21.130Z</td>
+  </tr>
+  <tr>
+    <td>size (MB)</td>
+    <td>2162</td>
+  </tr>
+  <tr>
+    <td>size (bytes)</td>
+    <td>859787295</td>
+  </tr>
+  <tr>
+    <td>SIF</td>
+    <td><a href="https://datasets.datalad.org/shub/mticlla/MetagenomicSnake/preqc_v0_1/2021-02-03-17e16c0b-df60be93/df60be93049594cb84c1b815595f2ac4.simg">Download URL (please use pull with shub://)</td>
+  </tr>
+  <tr>
+    <td>Datalad URL</td>
+    <td><a href="https://datasets.datalad.org?dir=/shub/mticlla/MetagenomicSnake/preqc_v0_1/2021-02-03-17e16c0b-df60be93/">View on Datalad</td>
+  </tr>
+  <tr>
+    <td>Singularity Recipe</td>
+    <td><a href="https://datasets.datalad.org/shub/mticlla/MetagenomicSnake/preqc_v0_1/2021-02-03-17e16c0b-df60be93/Singularity">Singularity Recipe on Datalad</td>
+  </tr>
+</tbody>
+</table>
+  
+<small>We cannot guarantee that all containers will still exist on GitHub.</small>
+
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<script>
+$(document).ready(function() {
+
+    var toc = $('#TOC');
+
+    // Select each header
+    sections = $('.td-content h1');
+        $.each(sections, function(idx, v) {
+            section = $(v);
+            var div_id = $(section).attr('id');
+            var div_text = section.text().split('¶')[0];
+            var parent = $("#" + div_id)
+            var content = '<li id="link_' + div_id + '" class="md-nav__item"><a class="md-nav__link" href="#' + div_id + '" title="' + div_text +'">' + div_text +'</a></li>';
+            $(toc).append(content);
+
+            // Add section code to subnavigation
+            var children = $('<nav class="md-nav"><ul class="md-nav__list"></nav></ul>')
+            var contenders = $("#" + div_id).nextUntil("h1");
+            $.each(contenders, function(idx, contender){
+               if($(contender).is('h2') || $(contender).is('h3')) {
+                   var contender_id = $(contender).attr('id');
+                   var contender_text = $(contender).text().split('¶')[0];
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   children.append(content);
+                }
+             })
+             $("#link_" + div_id).append(children);
+        });
+    });
+</script>
+
+<script>
+var headers = ["h1", "h2", "h3", "h4"]
+var colors = ["red", "orange", "green", "blue"]
+
+$.each(headers, function(i, header){
+    var color = colors[i];
+    $(header).each(function () {
+        var href=$(this).attr("id");
+        $(this).append('<a class="headerlink" style="color:' + color + '" href="#' + href + '" title="Permanent link">¶</a>')
+    });
+})
+</script>
+
+<script>
+$('h1').first().append('<div><span style="font-size:12px" class="badge badge-danger"><a style="cursor:pointer; color:white" href="https://singularityhub.github.io/singularityhub-archive/tags#preqc_v0_1 ">preqc_v0_1</a></span></div>')</script>
+
+	
+              
+              <style>
+  .feedback--answer {
+    display: inline-block;
+  }
+  .feedback--answer-no {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<h5 class="feedback--title">Feedback</h5>
+<p class="feedback--question">Was this page helpful?</p>
+<button class="feedback--answer feedback--answer-yes">Yes</button>
+<button class="feedback--answer feedback--answer-no">No</button>
+<p class="feedback--response feedback--response-yes">
+  Glad to hear it! Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<p class="feedback--response feedback--response-no">
+  Sorry to hear that. Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<script>
+  const yesButton = document.querySelector('.feedback--answer-yes');
+  const noButton = document.querySelector('.feedback--answer-no');
+  const yesResponse = document.querySelector('.feedback--response-yes');
+  const noResponse = document.querySelector('.feedback--response-no');
+  const disableButtons = () => {
+    yesButton.disabled = true;
+    noButton.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof ga !== 'function') return;
+    const args = {
+      command: 'send',
+      hitType: 'event',
+      category: 'Helpful',
+      action: 'click',
+      label: window.location.pathname,
+      value: value
+    };
+    ga(args.command, args.hitType, args.category, args.action, args.label, args.value);
+  };
+  yesButton.addEventListener('click', () => {
+    yesResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  noButton.addEventListener('click', () => {
+    noResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script><br/>
+
+
+           </div>
+          </main>
+        </div>
+      </div>
+      <footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        <ul class="list-inline mb-0">  
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Twitter" data-original-title="Twitter">
+              <a class="text-white" target="_blank" href="https://twitter.com/vsoch">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="LinkedIn" data-original-title="LinkedIn">
+              <a class="text-white" target="_blank" href="https://linkedin.com/in/vsochat">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        <ul class="list-inline mb-0">  
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
+            <a class="text-white" target="_blank" href="https://github.com/singularityhub/singularityhub-archive">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small class="text-white">© 2021 Dinosaur Avocado All Rights Reserved</small>
+        
+        <p class="mt-2"><a href="/about/">About the Archive</a></p>	
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="/singularityhub-archive/assets/js/main.js"></script>
+
+  </body>
+</html>

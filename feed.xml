@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singularity Hub Archive</title>
+    <description>This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+</description>
+    <link>https://singularityhub.github.io/singularityhub-archive/</link>
+    <atom:link href="https://singularityhub.github.io/singularityhub-archive/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 31 Oct 2021 21:11:26 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Oct 2021 21:11:26 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Welcome to the Singularity Hub Archive</title>
+        <description>&lt;p&gt;Welcome to the Singularity Hub Archive! I (&lt;a href=&quot;https://github.com/vsoch&quot;&gt;@vsoch&lt;/a&gt;) was recently wanted to search the current archive
+for a container, and I realized it was not possible. While I could navigate through collection names, the true content I needed to search
+was the Singularity recipe files, and I couldn’t do that. To support better search of this content, we’ve created
+this small site that exposes it (and will reference the correct &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;shub://&lt;/code&gt; URI to pull, along with showing you the full,
+original recipe for the container. Yes, it’s been over 5 years since Singularity Hub went online (and months since it went offline)
+but I am still thinking about my promise of reproducibility for these containers.&lt;/p&gt;
+
+&lt;p&gt;And now that we’re here, Happy Halloween! 👻️&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 31 Oct 2021 10:52:21 +0000</pubDate>
+        <link>https://singularityhub.github.io/singularityhub-archive/2021/welcome/</link>
+        <guid isPermaLink="true">https://singularityhub.github.io/singularityhub-archive/2021/welcome/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

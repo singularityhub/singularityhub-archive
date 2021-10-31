@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <!-- Copyright 2019-2021 Vanessa Sochat-->
+  <head>
+<meta charset="utf-8">
+<!-- Copyright 2019-2021 Vanessa Sochat-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.55.6" />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+<link rel="alternate" type="application/rss&#43;xml" href="/docs/index.xml">
+
+<link rel="shortcut icon" href="/singularityhub-archive/assets/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/singularityhub-archive/assets/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-96x196.png" sizes="96x196">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/singularityhub-archive/assets/favicons/android-192x192.png"sizes="192x192">
+
+<title>Fzimmermann89 Idi Simple</title>
+<meta property="og:title" content="Fzimmermann89 Idi Simple" />
+<meta property="og:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://singularityhub.github.io" />
+<meta property="og:site_name" content="https://singularityhub.github.io" />
+
+<meta itemprop="name" content="Fzimmermann89 Idi Simple">
+<meta itemprop="description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Fzimmermann89 Idi Simple"/>
+<meta name="twitter:description" content="This is the Singularity Hub archive, where you can search for (still pull-able) Singularity images and recipes from the original Singularity Hub, active from 2016 until 2021.
+"/>
+
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/main.css">
+<link rel="stylesheet" href="/singularityhub-archive/assets/css/palette.css">
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+</head>
+
+  
+
+  <body class="td-section">
+    <header>
+        <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/singularityhub-archive/">
+            <span class="navbar-logo"></span><img src="/singularityhub-archive/assets/img/logo.png" width="40px" style="padding-right:5px"><span class="text-uppercase font-weight-bold">Singularity Hub Archive</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="https://github.com/singularityhub/singularityhub-archive" target="_blank"><span>GitHub</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/about" ><span>About</span></a>
+			</li>
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+                            <a class="nav-link" href="/singularityhub-archive/docs" ><span>Documentation</span></a>
+			</li>
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+ <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+        </div>
+
+	<div class="navbar-nav d-none d-lg-block">
+          <a class="gh-source" data-gh-source="github" href="https://github.com/singularityhub/singularityhub-archive" title="Go to repository" data-md-state="done">
+          <div class="gh-source__repository">
+            <i class="fab fa fa-github fa-2x" style='padding-right:20px; float:left; margin-top:5px'></i>
+            singularityhub/singularityhub-archive
+          <ul class="gh-source__facts"><li class="gh-source__fact" id='stars'></li><li id="forks" class="gh-source__fact"></li></ul></div></a>
+        </div>
+      </div>
+
+
+</nav>
+</header>
+
+<script>
+$(document).ready(function() {
+  var url = "https://api.github.com/search/repositories?q=singularityhub/singularityhub-archive";
+  fetch(url, { 
+      headers: {"Accept":"application/vnd.github.preview"}
+  }).then(function(e) {
+    return e.json()
+  }).then(function(r) {
+     console.log(r.items[0])
+     stars = r.items[0]['stargazers_count']
+     forks = r.items[0]['forks_count']
+     $('#stars').text(stars + " Stars")
+     $('#forks').text(forks + " Forks")
+  });
+});
+</script>
+
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+          <div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
+      <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      </button>
+  </form>  
+  
+  <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="/singularityhub-archive/docs" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Documentation</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="documentation">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Collections
+                    </a>
+                  </li>
+                  
+                    <ul>
+                      <li class="collapse show" id="">
+                        
+                      </li>
+                    </ul>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/about
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">About
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/news
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">News
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                /singularityhub-archive/tags
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Tags
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+      <ul class="td-sidebar-nav__section pr-md-3">
+        
+        
+        
+        <li class="td-sidebar-nav__section-title">
+          <a  href="" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">External</a>
+        </li>
+        
+          <ul>
+            <li class="collapse show" id="external">
+              <ul class="td-sidebar-nav__section pr-md-3">
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Docs
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                https://singularityhub.github.io/singularityhub-docs/lastday/
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Singularity Hub Gallery
+                    </a>
+                  </li>
+                  
+                
+                  <li class="td-sidebar-nav__section-title">
+                    <a href="
+                                http://datasets.datalad.org/?dir=/shub
+                             " 
+                       class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Datalad Site
+                    </a>
+                  </li>
+                  
+                
+              </ul>
+            </li>
+          </ul>
+        
+      </ul>
+    
+  </nav>
+</div>
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+              <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+                  <a href="https://github.com/singularityhub/singularityhub-archive/edit/main/_containers/fzimmermann89-idi-simple.md" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this page</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new?labels=question&title=Question:&body=Question on: https://github.com/singularityhub/singularityhub-archive/tree/master/_containers/fzimmermann89-idi-simple.md" target="_blank"><i class="fab fa-github fa-fw"></i> Create documentation issue</a>
+<a href="https://github.com/singularityhub/singularityhub-archive/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Create project issue</a>
+<!-- this will parse through the header fields and add a button to open
+     an issue / ask a question on Github. The editable field should be in
+     the post frontend matter, and refer to the label to open the issue for -->
+
+              </div>
+              <nav id="TableOfContents"><ul>
+              <li><ul id="TOC">
+                <!-- Links will be appended here-->
+              </ul></li>
+              </ul></nav>
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	      <ol class="breadcrumb spb-1">
+              
+              
+                <li class="breadcrumb-item">
+                  <a href="https://singularityhub.github.io/singularityhub-archive/containers/">Containers</a>
+                </li>
+                
+                <li class="breadcrumb-item active" aria-current="page">
+	          <a href="https://singularityhub.github.io/singularityhub-archive/containers/fzimmermann89-idi-simple/">Fzimmermann89 Idi Simple</a>
+                </li>
+                
+	      </ol>
+           </nav>
+           <div class="td-content">
+	      <h1 id="fzimmermann89idisimple">fzimmermann89/idi:simple</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>singularity pull shub://fzimmermann89/idi:simple
+</code></pre></div></div>
+
+<h2 id="singularity-recipe">Singularity Recipe</h2>
+
+<pre><code class="language-singularity">Bootstrap: library
+From: fzimmermann89/idi/latest
+
+%post
+#upgrade base
+yum update -y &amp;&amp; yum upgrade -y
+
+. /etc/profile.d/conda.sh
+conda activate
+
+#ensure (frozen) package versions
+conda config  --file /opt/anaconda3/.condarc --append channels plotly --append channels conda-forge 
+conda config  --file /opt/anaconda3/.condarc --set channel_priority flexible
+conda install -q -y -c conda-forge mamba
+mamba install -q -y  _libgcc_mutex=0.1 _openmp_mutex=4.5 aiohttp=3.7.3 ansi2html=1.6.0 appdirs=1.4.4 argon2-cffi=20.1.0 asteval=0.9.16 async-timeout=3.0.1 async_generator=1.10 attrs=20.3.0 backcall=0.2.0 black=19.10b0 blas=1.0 bleach=3.2.1 blosc=1.20.1 bqplot=0.12.18 brotli=1.0.9 brotli-python=1.0.9 bzip2=1.0.8 ca-certificates=2020.12.5 certifi=2020.12.5 cffi=1.14.0 chardet=3.0.4 charls=2.1.0 click=7.1.2 cloudpickle=1.6.0 colorama=0.4.4 conda=4.9.2 conda-package-handling=1.6.1 cryptography=2.9.2 cycler=0.10.0 cython=0.29.21 cytoolz=0.11.0 dash=1.18.1 dash-core-components=1.14.1 dash-html-components=1.1.1 dash-renderer=1.8.3 dash-table=4.11.1 dask-core=2020.12.0 dbus=1.13.18 debugpy=1.2.1 decorator=4.4.2 defusedxml=0.6.0 dill=0.3.3 entrypoints=0.3 expat=2.2.10 fastrlock=0.5 flask=1.1.2 flask-compress=1.8.0 fontconfig=2.13.1 freetype=2.10.4 future=0.18.2 gettext=0.19.8.1 giflib=5.1.4 gitdb=4.0.5 gitpython=3.1.11 glib=2.66.4 gst-plugins-base=1.14.5 gstreamer=1.18.2 hdf5=1.10.6 h5py=2.10 icu=68.1  idna=2.9 imagecodecs=2020.5.30 imageio=2.9.0 importlib-metadata=2.0.0 importlib_metadata=2.0.0 intel-openmp=2020.2 ipydatawidgets=4.1.0 ipykernel=5.3.4 ipympl=0.5.8 ipython=7.19.0 ipython_genutils=0.2.0 ipyvolume=0.6.0a6 ipywebrtc=0.5.0 ipywidgets=7.6.0 isort=5.6.4 itsdangerous=1.1.0 jedi=0.17.2 jinja2=2.11.2 joblib=1.0.0 jpeg=9d json5=0.9.5 jsonschema=3.2.0 jupyter=1.0.0 jupyter-dash=0.3.1 jupyter-server-proxy=1.5.2 jupyter_client=6.1.7 jupyter_console=6.2.0 jupyter_core=4.7.0 jupyterlab=2.2.6   jupyterlab-latex=2.0.0 jupyterlab_pygments=0.1.2 jupyterlab_server=1.2.0 jxrlib=1.1 kiwisolver=1.3.0 krb5=1.17.1 lcms2=2.11 ld_impl_linux-64=2.33.1 libaec=1.0.4 libclang=11.0.0 libedit=3.1.20181209 libevent=2.1.10 libffi=3.3 libgcc-ng=9.3.0 libgfortran-ng=7.3.0 libglib=2.66.4 libgomp=9.3.0 libiconv=1.16 libllvm10=10.0.1 libllvm11=11.0.0 libpng=1.6.37 libpq=12.3 libsodium=1.0.18 libstdcxx-ng=9.3.0 libtiff=4.1.0 libuuid=2.32.1 libuv=1.40.0 libwebp=1.0.1 libxcb=1.14 libxkbcommon=1.0.3 libxml2=2.9.10 libzopfli=1.0.3 line_profiler=2.1.2 llvmlite=0.34.0 lmfit=1.0.1 lz4-c=1.9.2 mako=1.1.3 markupsafe=1.1.1 matplotlib=3.3.2 matplotlib-base=3.3.2 memory_profiler=0.58.0 mistune=0.8.4 mkl=2020.2 mkl-devel=2020.2 mkl-service=2.3.0 mkl_fft=1.2.0 mkl_random=1.1.1 multidict=5.1.0 multiprocess=0.70.11.1 mypy_extensions=0.4.3 mysql-common=8.0.22 mysql-libs=8.0.22 nbclient=0.5.1 nbconvert=6.0.7 nbdime=2.1.0 nbformat=5.0.8 ncurses=6.2 nest-asyncio=1.4.3 networkx=2.5 ninja=1.10.2 nodejs=15.3.0 notebook=6.1.6 nspr=4.29 nss=3.60 numba=0.51.2 numexpr=2.7.2 numpy=1.19.2 numpy-base=1.19.2 olefile=0.46 openjpeg=2.3.0 openssl=1.1.1i packaging=20.8 pandas=1.1.5 pandoc=2.11 pandocfilters=1.4.3 parso=0.7.0 pathos=0.2.7 pathspec=0.7.0 pcre=8.44 pexpect=4.8.0 pickleshare=0.7.5 pillow=8.0.1 pip=20.3.3 plotly=4.14.1 pox=0.2.9 ppft=1.6.6.3 prometheus_client=0.9.0 prompt-toolkit=3.0.8 prompt_toolkit=3.0.8 psutil=5.7.2 ptvsd=4.3.2 ptyprocess=0.6.0 pycosat=0.6.3 pycparser=2.20  pygments=2.7.3 pyopenssl=19.1.0 pyparsing=2.4.7 pyqt=5.12.3 pyqt-impl=5.12.3 pyqt5-sip=4.19.18 pyqtchart=5.12 pyqtwebengine=5.12.1 pyrsistent=0.17.3 pysocks=1.7.1 python=3.7.7 python-dateutil=2.8.1 python_abi=3.7 pythreejs=2.2.1 pytools=2020.4.4 pytz=2020.5 pywavelets=1.1.1 pyyaml=5.3.1 pyzmq=20.0.0 qt=5.12.9 qtconsole=4.7.7 qtpy=1.9.0 readline=8.0 regex=2020.11.13 requests=2.23.0 retrying=1.3.3 ruamel_yaml=0.15.87 scikit-image=0.17.2 scikit-learn=0.23.2 scipy=1.5.2 seaborn=0.11.1 send2trash=1.5.0 setuptools=51.0.0 simpervisor=0.3 sip=4.19.8 six=1.15.0 smmap=3.0.4 snappy=1.1.8 sqlite=3.34.0 tbb=2020.3 terminado=0.9.1 testpath=0.4.4 threadpoolctl=2.1.0 tifffile=2020.12.8 tk=8.6.8 toml=0.10.1 toolz=0.11.1 tornado=6.1 tqdm=4.46.0 traitlets=4.3.3 traittypes=0.2.1 typed-ast=1.4.1 typing-extensions=3.7.4.3 typing_extensions=3.7.4.3 uncertainties=3.1.5 urllib3=1.25.8 wcwidth=0.2.5 webencodings=0.5.1 werkzeug=1.0.1 wheel=0.34.2 widgetsnbextension=3.5.1 xeus=0.25.3 xeus-python=0.9.4 xz=5.2.5 yaml=0.1.7 yarl=1.6.3 zeromq=4.3.3 zipp=3.4.0 zlib=1.2.11 zstd=1.4.5
+LIBRARY_PATH=/usr/local/cuda/lib64/stubs CPATH=/usr/local/cuda/include CUDA_ROOT=/usr/local/cuda pip install -q jupyterlab-code-formatter==1.3.8   jupyterlab-git==0.23.3   jupyterlab-latex==2.0.0    mkl-include==2021.1.1  pycuda==2020.1  cupy-cuda102
+
+echo 'install idi' &amp;&amp; pip install git+https://github.com/fzimmermann89/idi
+
+#cleanup
+conda clean -a -y
+pip cache purge
+rm -rf /root/.conda | true
+rm -rf /root/.npm | true
+rm -rf /root/.cache | true
+rm -rf /tmp/npm* | true
+rm -rf /tmp/texlive* | true
+rm -rf /tmp/yarn* | true
+rm -rf /var/cache/* | true
+
+%labels
+    Maintainer zimmf
+    Version 0.1-200910
+        
+%runscript
+exec /opt/runscript.sh python "$@"
+
+%startscript
+exec /opt/runscript.sh jupyter lab "$@"
+
+%apprun jupyter
+exec /opt/runscript.sh jupyter "$@"
+
+%apprun ipython
+exec /opt/runscript.sh ipython "$@"
+
+%apprun pdftex
+exec pdftex "$@"
+
+
+%help
+Centos7 with conda python, jupyter, latex, cuda and mkl
+
+
+
+
+%environment
+CUDA_ROOT=/usr/local/cuda
+export CUDA_ROOT
+SINGULARITY_SHELL=/bin/zsh
+export SINGULARITY_SHELL
+MKLROOT=/opt/intel/compilers_and_libraries/linux/mkl
+export MKLROOT
+TBBROOT=/opt/intel/compilers_and_libraries/linux/tbb
+export TBBROOT
+INTEL_LICENSE_FILE=/opt/intel/compilers_and_libraries/linux/licenses
+export INTEL_LICENSE_FILE
+LIBRARY_PATH=$LIBRARY_PATH:/opt/intel/compilers_and_libraries/linux/compiler/lib/intel64_lin:/opt/intel/compilers_and_libraries/linux/mkl/lib/intel64_lin:/opt/intel/compilers_and_libraries/linux/tbb/lib/intel64/gcc4.8:/opt/intel/compilers_and_libraries/linux/tbb/lib/intel64/gcc4.8
+export LIBRARY_PATH
+CPATH=$CPATH:/opt/intel/compilers_and_libraries/linux/mkl/include:/opt/intel/compilers_and_libraries/linux/tbb/include:/opt/intel/compilers_and_libraries/linux/tbb/include
+export CPATH
+PATH=$PATH:/opt/anaconda3/bin:/usr/local/texlive/bin/x86_64-linux:/usr/local/cuda/bin
+PATH=$PATH:/opt/intel/compilers_and_libraries/linux/bin/intel64:/opt/intel/compilers_and_libraries/linux/bin
+export PATH
+PKG_CONFIG_PATH=$PKG_CONFIG_PATH:/opt/intel/compilers_and_libraries/linux/mkl/bin/pkgconfig
+export PKG_CONFIG_PATH
+LD_PRELOAD=/usr/local/lib64/mklpatch.so
+export LD_PRELOAD
+</code></pre>
+
+<h2 id="collection">Collection</h2>
+
+<ul>
+  <li>Name: <a href="https://github.com/fzimmermann89/idi">fzimmermann89/idi</a></li>
+  <li>License: None</li>
+</ul>
+
+
+
+
+<br>
+<a class="btn btn-primary" href="https://datasets.datalad.org?dir=/shub/fzimmermann89/idi/simple/2021-01-22-43d5e8ea-05d12719/" target="_blank" type="button">View on Datalad</a>
+
+<h2>Metrics</h2>
+
+<table>
+<tr>
+  <th>key</th>
+  <th>value</th>
+</tr>
+<tbody>
+  <tr>
+    <td>id</td>
+    <td>/containers/fzimmermann89-idi-simple</td>
+  </tr>
+  <tr>
+    <td>collection name</td>
+    <td>fzimmermann89/idi</td>
+  </tr>
+  <tr>
+    <td>branch</td>
+    <td>master</td>
+  </tr>
+  <tr>
+    <td>tag</td>
+    <td>simple</td>
+  </tr>
+  <tr>
+    <td>commit</td>
+    <td>43d5e8ea99941e9553c3d93d67c99ae48fdfe4f8</td>
+  </tr>
+  <tr>
+    <td>version (container hash)</td>
+    <td>05d1271988079a6dd0c572562f2629601a6a002d6d7439fb184af1816351b9ad</td>
+  </tr>
+  <tr>
+    <td>build date</td>
+    <td>2021-01-22T03:39:45.947Z</td>
+  </tr>
+  <tr>
+    <td>size (MB)</td>
+    <td>3943.7890625</td>
+  </tr>
+  <tr>
+    <td>size (bytes)</td>
+    <td>4135362560</td>
+  </tr>
+  <tr>
+    <td>SIF</td>
+    <td><a href="https://datasets.datalad.org/shub/fzimmermann89/idi/simple/2021-01-22-43d5e8ea-05d12719/05d1271988079a6dd0c572562f2629601a6a002d6d7439fb184af1816351b9ad.sif">Download URL (please use pull with shub://)</td>
+  </tr>
+  <tr>
+    <td>Datalad URL</td>
+    <td><a href="https://datasets.datalad.org?dir=/shub/fzimmermann89/idi/simple/2021-01-22-43d5e8ea-05d12719/">View on Datalad</td>
+  </tr>
+  <tr>
+    <td>Singularity Recipe</td>
+    <td><a href="https://datasets.datalad.org/shub/fzimmermann89/idi/simple/2021-01-22-43d5e8ea-05d12719/Singularity">Singularity Recipe on Datalad</td>
+  </tr>
+</tbody>
+</table>
+  
+<small>We cannot guarantee that all containers will still exist on GitHub.</small>
+
+<script
+  src="/singularityhub-archive/assets/js/jquery-3.3.1/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<script>
+$(document).ready(function() {
+
+    var toc = $('#TOC');
+
+    // Select each header
+    sections = $('.td-content h1');
+        $.each(sections, function(idx, v) {
+            section = $(v);
+            var div_id = $(section).attr('id');
+            var div_text = section.text().split('¶')[0];
+            var parent = $("#" + div_id)
+            var content = '<li id="link_' + div_id + '" class="md-nav__item"><a class="md-nav__link" href="#' + div_id + '" title="' + div_text +'">' + div_text +'</a></li>';
+            $(toc).append(content);
+
+            // Add section code to subnavigation
+            var children = $('<nav class="md-nav"><ul class="md-nav__list"></nav></ul>')
+            var contenders = $("#" + div_id).nextUntil("h1");
+            $.each(contenders, function(idx, contender){
+               if($(contender).is('h2') || $(contender).is('h3')) {
+                   var contender_id = $(contender).attr('id');
+                   var contender_text = $(contender).text().split('¶')[0];
+                   var content = '<li class="md-nav__item"><a class="md-nav__link" href="#' + contender_id + '" title="' + contender_text +'">' + contender_text +'</a></li>';
+                   children.append(content);
+                }
+             })
+             $("#link_" + div_id).append(children);
+        });
+    });
+</script>
+
+<script>
+var headers = ["h1", "h2", "h3", "h4"]
+var colors = ["red", "orange", "green", "blue"]
+
+$.each(headers, function(i, header){
+    var color = colors[i];
+    $(header).each(function () {
+        var href=$(this).attr("id");
+        $(this).append('<a class="headerlink" style="color:' + color + '" href="#' + href + '" title="Permanent link">¶</a>')
+    });
+})
+</script>
+
+<script>
+$('h1').first().append('<div><span style="font-size:12px" class="badge badge-danger"><a style="cursor:pointer; color:white" href="https://singularityhub.github.io/singularityhub-archive/tags#simple ">simple</a></span></div>')</script>
+
+	
+              
+              <style>
+  .feedback--answer {
+    display: inline-block;
+  }
+  .feedback--answer-no {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<h5 class="feedback--title">Feedback</h5>
+<p class="feedback--question">Was this page helpful?</p>
+<button class="feedback--answer feedback--answer-yes">Yes</button>
+<button class="feedback--answer feedback--answer-no">No</button>
+<p class="feedback--response feedback--response-yes">
+  Glad to hear it! Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<p class="feedback--response feedback--response-no">
+  Sorry to hear that. Please <a href="https://github.com/singularityhub/singularityhub-archive/issues/new">tell us how we can improve</a>.
+</p>
+<script>
+  const yesButton = document.querySelector('.feedback--answer-yes');
+  const noButton = document.querySelector('.feedback--answer-no');
+  const yesResponse = document.querySelector('.feedback--response-yes');
+  const noResponse = document.querySelector('.feedback--response-no');
+  const disableButtons = () => {
+    yesButton.disabled = true;
+    noButton.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof ga !== 'function') return;
+    const args = {
+      command: 'send',
+      hitType: 'event',
+      category: 'Helpful',
+      action: 'click',
+      label: window.location.pathname,
+      value: value
+    };
+    ga(args.command, args.hitType, args.category, args.action, args.label, args.value);
+  };
+  yesButton.addEventListener('click', () => {
+    yesResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  noButton.addEventListener('click', () => {
+    noResponse.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script><br/>
+
+
+           </div>
+          </main>
+        </div>
+      </div>
+      <footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        <ul class="list-inline mb-0">  
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Twitter" data-original-title="Twitter">
+              <a class="text-white" target="_blank" href="https://twitter.com/vsoch">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          
+          
+            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="LinkedIn" data-original-title="LinkedIn">
+              <a class="text-white" target="_blank" href="https://linkedin.com/in/vsochat">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        <ul class="list-inline mb-0">  
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
+            <a class="text-white" target="_blank" href="https://github.com/singularityhub/singularityhub-archive">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small class="text-white">© 2021 Dinosaur Avocado All Rights Reserved</small>
+        
+        <p class="mt-2"><a href="/about/">About the Archive</a></p>	
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="/singularityhub-archive/assets/js/main.js"></script>
+
+  </body>
+</html>
